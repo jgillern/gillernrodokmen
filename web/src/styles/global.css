@@ -219,3 +219,5 @@ main.full { max-width: none; padding: 0; }
 .osa .tag { display: inline-block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); margin-right: 0.5rem; }
 .osa li p { margin: 0.15rem 0 0; }
 @media (max-width: 560px) { .osa li { grid-template-columns: 1fr; gap: 0.1rem; } }
+.vetev { margin: 0.5rem 0 0; padding-left: 1.3rem; font-size: 0.92rem; }
+.vetev li { margin: 0.12rem 0; }

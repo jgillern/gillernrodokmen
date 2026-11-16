@@ -32,3 +32,11 @@ export const genName = (g) =>
   ['výchozí osoba', 'rodiče', 'prarodiče', 'praprarodiče'][g] ?? `${g}. generace (${'pra'.repeat(g - 1)}rodiče)`;
 
 export const statusClass = (st) => ({ doc: 'st-doc', prob: 'st-prob', fam: 'st-fam', mh: 'st-mh' })[st] ?? 'st-unk';
+
+/** Větve (podrody) uvnitř rodu: z config.podrody; každá je otcovská linie od `koren` (Kekulé) nahoru (k → 2k → 4k …). */
+export const subLines = (config.podrody ?? []).map((s) => {
+  const chain = [];
+  for (let k = s.koren; byK[k]; k *= 2) chain.push(byK[k]);
+  const oldest = chain[chain.length - 1];
+  return { ...s, chain, oldest, color: lineByK[s.rod]?.color ?? '#ccc' };
+}).filter((s) => s.chain.length > 0);

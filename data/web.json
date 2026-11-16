@@ -183,5 +183,102 @@
     }
    ]
   }
+ ],
+ "podrody": [
+  {
+   "rod": 15,
+   "koren": 30,
+   "nazev": "Slunečkovi",
+   "popis": "Ševci, zámečníci a hokynáři z Jeníkova, Nakvasovic, Tisku a Bukové."
+  },
+  {
+   "rod": 15,
+   "koren": 61,
+   "nazev": "Píšovi",
+   "popis": "Sedláci z Kondrace u Vlašimi – nejdelší doložená linie, od konce 17. století; roku 1853 se přiženili do Tisku."
+  },
+  {
+   "rod": 15,
+   "koren": 121,
+   "nazev": "Musilovi",
+   "popis": "Sedláci a půlníci z Jeníkova u Čechtic, čp. 5 a 34."
+  },
+  {
+   "rod": 15,
+   "koren": 31,
+   "nazev": "Svatkovi",
+   "popis": "Krejčí a chalupníci z Bukové u Pravonína; původem ze Bzové u Mladé Vožice."
+  },
+  {
+   "rod": 15,
+   "koren": 63,
+   "nazev": "Bezkočkovi",
+   "popis": "Domkáři z Vitína a sedláci z Roviny u Sedlčan."
+  },
+  {
+   "rod": 15,
+   "koren": 123,
+   "nazev": "Malí",
+   "popis": "Svobodníci z Bukové a Tisku, kam se přiženili Píšovi."
+  },
+  {
+   "rod": 15,
+   "koren": 243,
+   "nazev": "Pešanovi",
+   "popis": "Měšťané z městečka Křivsoudova."
+  },
+  {
+   "rod": 15,
+   "koren": 485,
+   "nazev": "Kubálkovi",
+   "popis": "Sedláci z Palčic u Čechtic."
+  },
+  {
+   "rod": 15,
+   "koren": 245,
+   "nazev": "Krušnářovi",
+   "popis": "Půlníci z Hradiště u Kondrace."
+  },
+  {
+   "rod": 15,
+   "koren": 489,
+   "nazev": "Jahodovi",
+   "popis": "Kováři z Kondrace."
+  },
+  {
+   "rod": 15,
+   "koren": 241,
+   "nazev": "Soublovi",
+   "popis": "Ze „Sirčic“ u Mladé Vožice (čtení nejisté).",
+   "maly": true
+  },
+  {
+   "rod": 15,
+   "koren": 247,
+   "nazev": "Benešovi",
+   "popis": "Hospodáři z Pravětic.",
+   "maly": true
+  },
+  {
+   "rod": 15,
+   "koren": 127,
+   "nazev": "Zelenkovi",
+   "popis": "Domkáři – rodina babičky Marie Bezkočkové.",
+   "maly": true
+  },
+  {
+   "rod": 15,
+   "koren": 487,
+   "nazev": "Mrátkovi",
+   "popis": "Rodina babičky Anny Pešanové (čtení nejisté).",
+   "maly": true
+  },
+  {
+   "rod": 15,
+   "koren": 977,
+   "nazev": "Hudkovi",
+   "popis": "Z Krasovic u Kondrace (čtení nejisté).",
+   "maly": true
+  }
  ]
 }

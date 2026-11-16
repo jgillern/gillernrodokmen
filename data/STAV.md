@@ -49,7 +49,7 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | # | Linie | Co hledat | Kde | Kdo |
 |---|---|---|---|---|
 | 1 | Píšovi | HOTOVO: sňatek 22. 11. 1853 (Pravonín 09 s. 98); dál starší děti Jana a Barbory 1854–1862 (rejstřík Pravonín 22, písm. P) | Pravonín 22 / 21 | Jan |
-| 2 | Malí | HOTOVO: Barbora * 1833 Buková 12 (Barbora * 1828 zemřela 1828). Jan Malý: nenarozen v N 1784–1805 (Pravonín 14) → zkusit Pravonín 13 (Index N 1709–1784) písm. M, roky ~1770–1784; úmrtí první manželky v rejstříku Z nenalezeno; úmrtí Jana Malého po 1865 (Pravonín 23/25, Tisek) – uvede věk | Jan |
+| 2 | Malí | SLEPÝ KONEC (viz níže) | – | – |
 | 3 | Píšovi | narození Jana Píši (asi 1830–1838, Kondrac 25) | farnost Kondrac (SOA Praha, eBadatelna) | Jan |
 | 4 | Slunečkovi | narození Aloise Slunečka 17. 6. 1863 Nakvasovice; sňatek František Sluneček × Anna Musilová (Jeníkov) | farnost Zhoř (SOA Praha) | Jan |
 | 5 | Bezkočkovi | narození Marie Bezkočkové (asi 1855–1860, Vitín 8); sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | farnost Vitína (Počepice? – SOA Praha) | Jan |
@@ -66,3 +66,4 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | Gillernovi | děda Augustýn – bez roku a místa narození | Kramerius, policejní přihlášky, mapa hrobů SPH (Hrnčíře tam nejsou) | náhrobek v Hrnčířích / správa hřbitova MČ Praha-Šeberov; rodinné doklady |
 | Svatkovi | sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | Pravonín 26 oddíl Buková 1870–1884 (ne) | farnost Vitína nebo Bzové (viz Další postup 5–6) |
 | Myslíkovi | Vladimír Myslík * 6. 5. 1930 Zdíkov | – | jména jeho rodičů od rodiny; Zdíkov = SOA Třeboň (jen prohlížeč) |
+| Malí | Jan Malý, král. svobodník Buková 12 (1819–1833), pak gruntovník/výminkář Tisek 17; manželka Marie Benešová z Pravětic (1833), v r. 1819 ale „Marie, dcera Václava Halůžka? z Chmelné?“ | narození Jana Malého v N Pravonín 1709–1805 (rejstříky 13, 14) – ne; jeho sňatek v O Pravonín 1806–1869 – ne; úmrtí 1. manželky v Z 1806–1871 – ne | farnost Chmelné (Kamberk?) nebo Načeradec (Pravětice) – sňatek Jana Malého asi 1815–1827; jeho úmrtí po 1865 v Tisku (Pravonín Z 1836–71 / 1872+) uvede věk a rodiště |

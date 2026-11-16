@@ -35,4 +35,9 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 ## Rozpracováno (aktualizovat průběžně)
 - Fáze 1 – rozhovor s rodinou: známe rodiče a prarodiče (jen jména). Chybí roky, místa, rodná příjmení babiček, pradědečkové.
-- Přečíst https://de.wikipedia.org/wiki/Gillern (až bude povolená síť) a napojit na Augustýna Gillerna.
+- Síť už funguje (16. 11. 2026). de.wikipedia.org odmítla dotaz (429) – zkusit znovu po 8:56 UTC, jinak přes prohlížeč.
+- Gillernové (jméno je vzácné): v Krameriu nalezena česká lesnická větev u Orlíku/Vorlíka (Augustin, Čeněk, Vincenc, Bedřich
+  z Gillernů, 1872–1903) – viz research_log č. 4–5. Hypotéza: děda Augustýn je jejich potomek (jméno Augustin se opakuje,
+  student „Gillern Augu…“ v Písku 1936). NEOVĚŘENO – chybí rok a místo narození dědy Augustýna; zeptat se rodiny.
+- Další kroky: matriky farností u Orlíku (Lavičky → fara Kostelec n. Vlt.? / Zbenice; Vorlík → Orlík n. Vlt.), SOA Praha a
+  SOA Třeboň jen v prohlížeči; vyhledání hrobu Gillern na pražských hřbitovech (mapy.hrbitovy.cz) v prohlížeči.

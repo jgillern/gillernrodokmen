@@ -74,6 +74,8 @@ SIDE = [
     dict(k=61, n="Ignác Píša (* 1867)", t="Mladší bratr Josefy Píšové. Nar. 6. 1. 1867 v Tisku č. 17.", r=["n_1867_pisa_ignac"]),
     dict(k=123, n="Josefa Malá (1819–1820)", t="Nar. 17. 5. 1819 v Bukové č. 12, zemřela 1820 (rejstřík zemřelých), dcera Jana Malého a Marie, dcery Václava Halůžka (?) z Chmelné (?) – asi nevlastní sestra Barbory z prvního manželství otce (neověřeno).", r=["n_1819_mala_josefa"]),
     dict(k=121, n="Antonie Musilová (* asi 1829)", t="Sestra Anny Musilové. 6. 2. 1853 se v Jeníkově vdala za Františka Sýpese (?) z Jeníkova č. 4.", r=["o_1853_sypes_musilova"]),
+    dict(k=120, n="Františka Slunečková (* 1830)", t="Mladší sestra Františka Slunečka. Nar. 9. 3. 1830 v Jeníkově č. 17, dcera chalupníka Josefa Slunečka (Zhoř 02, oddíl Jeníkov s. 32; matka zde psána „Marie“ (?), dcera Franze Saubla z Ci(r)čic – asi chyba zápisu nebo čtení).", r=[]),
+    dict(k=121, n="František Musil (* 1832)", t="Mladší bratr Anny Musilové. Nar. 10. 6. 1832 v Jeníkově č. 34, syn půlníka Jana Musila a Anny, dcery Josefa Pešana (Zhoř 02, oddíl Jeníkov s. 34).", r=[]),
     dict(k=30, n="Marie Slunečková (1887–1892)", t="Starší sestra Františka Slunečka. Nar. 12. 8. 1887 v Tisku č. 17, zemřela 18. 11. 1892 v pěti letech.", r=["n_1887_sluneckova_marie"]),
     dict(k=30, n="Marie Slunečková (* 1902)", t="Mladší sestra Františka Slunečka (stejní rodiče Alois a Josefa z Tisku č. 17). Nar. 1. 8. 1902 v Tisku, 21. 2. 1925 se vdala za tesaře Josefa Michálka z Vilice.", r=["o_1925_michalek_sluneckova"]),
     dict(k=14, n="Ludmila Beranová (* 1912)", t="Nejspíš mladší sestra Josefa Berana. Nar. 21. 4. 1912 v Pravoníně (jen rejstřík narozených) – dokládá, že rodina Beranových žila v Pravoníně už 1912.", r=["i_n_1912_beranova_ludmila"]),

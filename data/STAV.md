@@ -37,7 +37,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 Stav k 16. 11. 2026. Matriky SOA Praha (eBadatelna) čte Jan v prohlížeči a posílá snímky (+ číslo snímku / URL);
 SOA Zámrsk (ARON) Claude prohledá sám. Odkazy: https://ebadatelna.soapraha.cz/d/<matrikaId>/<snímek> –
 Pravonín 21 (N 1852–93) = 10033, Pravonín 22 (Index N 1852–93) = 10034, Pravonín 24 (Index N 1894–1949) = 10036,
-Pravonín 26 (O 1870–1949) = 15260 (snímek ≈ strana − 59 v první části knihy). Oddíly knih po obcích viz research_log ř. 29.
+Pravonín 26 (O 1870–1949) = 15260, Pravonín 05 = 13036, Pravonín 09 = 13049 (snímek ≈ strana − 59 v první části knihy). Oddíly knih po obcích viz research_log ř. 29.
 
 **Doloženo z matrik:** Ludmila Svatková (* 1893 Buková 5) × František Sluneček (* 1888 Tisek 17), sňatek 1914; Alois Sluneček
 (* 1863 Nakvasovice) × Josefa Píšová (* 1865 Tisek 17), sňatek 1887; jejich rodiče: František Sluneček (obuvník, Jeníkov) × Anna
@@ -49,7 +49,7 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | # | Linie | Co hledat | Kde | Kdo |
 |---|---|---|---|---|
 | 1 | Píšovi | HOTOVO: sňatek 22. 11. 1853 (Pravonín 09 s. 98); dál starší děti Jana a Barbory 1854–1862 (rejstřík Pravonín 22, písm. P) | Pravonín 22 / 21 | Jan |
-| 2 | Malí | narození Barbory Malé – asi 1833 Buková (s. 10 ODDÍLU BUKOVÁ; strany se číslují v každé obci zvlášť), příp. 1828 (s. 4); pak sourozenci a sňatek Jan Malý × Marie Benešová(?) (ve farnosti Pravonín 1806–69 není) | Pravonín 05 (N 1825–1851), oddíl Buková | Jan |
+| 2 | Malí | HOTOVO: Barbora * 16. 2. 1833 Buková 12 (Pravonín 05). Dál: starší děti Jana Malého v Bukové 1819–1823 (rejstřík Pravonín 15: Josefa 1819 s. 14, Josefa 1821 s. 16, Josef 1823 s. 19) → Pravonín 04 (N 1806–24), oddíl Buková – kdo jsou rodiče; narození Jana Malého asi 1790–1800 → Pravonín 14 (Index N 1784–1805) písm. M, Pravonín 03; sňatek Jan Malý × Marie Benešová – asi v Načeradci (Pravětice), ve farnosti Pravonín není | Jan |
 | 3 | Píšovi | narození Jana Píši (asi 1830–1838, Kondrac 25) | farnost Kondrac (SOA Praha, eBadatelna) | Jan |
 | 4 | Slunečkovi | narození Aloise Slunečka 17. 6. 1863 Nakvasovice; sňatek František Sluneček × Anna Musilová (Jeníkov) | farnost Zhoř (SOA Praha) | Jan |
 | 5 | Bezkočkovi | narození Marie Bezkočkové (asi 1855–1860, Vitín 8); sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | farnost Vitína (Počepice? – SOA Praha) | Jan |

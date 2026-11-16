@@ -118,5 +118,29 @@
   ],
   "status": "ok",
   "note": "Marie, 12. 8. 1887, Tisek č. 17"
+ },
+ "o_1887_slunecek_pisova": {
+  "boxes": [
+   [
+    0.08,
+    0.125,
+    0.93,
+    0.365
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "o_1884_veselka_pisova": {
+  "boxes": [
+   [
+    0.08,
+    0.325,
+    0.93,
+    0.6
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

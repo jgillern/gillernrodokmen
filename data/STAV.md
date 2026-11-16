@@ -51,7 +51,7 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | 1 | Píšovi | HOTOVO: sňatek 22. 11. 1853 (Pravonín 09 s. 98); dál starší děti Jana a Barbory 1854–1862 (rejstřík Pravonín 22, písm. P) | Pravonín 22 / 21 | Jan |
 | 2 | Malí | SLEPÝ KONEC (viz níže) | – | – |
 | 3 | Píšovi | narození Jana Píši (asi 1830–1838, Kondrac 25) | farnost Kondrac (SOA Praha, eBadatelna) | Jan |
-| 4 | Slunečkovi | POZASTAVENO: sňatek Josef Sluneček × Magdalena Saubl(?) asi 1822–23 a Jan Musil × Anna Pešanová asi 1819–20 – v Jeníkově nejsou; hledat ve farnostech nevěst: Křivsoudov (Pešanová; fara Křivsoudov, eBadatelna) a „Sirčice/Cirčice“ (neurčeno). Saublové žili v Jeníkově č. 25 (1817) | Jan |
+| 4 | Slunečkovi / Musilovi | Jan Musil † 1869 (78 let, * asi 1791) – doloženo. Josef Sluneček: † v Jeníkově 1862–9/1877 NENÍ → Zhoř 06 s. 104 a Zhoř 11 (Z 1878–1900), oddíl Jeníkov. Narození: Zhoř 01 (N 1787–1815) oddíl Jeníkov – Jan Musil asi 1789–1793, Josef Sluneček asi 1793–1800. Sňatky obou párů jsou mimo Jeníkov (farnosti nevěst: Křivsoudov; „Sirčice“ neurčeno) | Jan |
 | 5 | Bezkočkovi | narození Marie Bezkočkové (asi 1855–1860, Vitín 8); sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | farnost Vitína (Počepice? – SOA Praha) | Jan |
 | 6 | Svatkovi | narození Jana Svatka (asi 1850–1855, Bzová 1) | farnost Bzové u Mladé Vožice (SOA Třeboň, jen prohlížeč) | Jan |
 | 7 | Gillernovi | roky dědy Augustýna a jeho rodičů | náhrobek Praha-Hrnčíře / správa hřbitova MČ Praha-Šeberov | Jan / rodina |

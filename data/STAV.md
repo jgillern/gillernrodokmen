@@ -47,4 +47,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 - Slunečkovi: Ludmila Slunečková * 7. 4. 1916 Buková (část obce Pravonín, fara Pravonín, SOA Praha – jen ručně, Jan posílá snímky).
 - Sňatek Beran × Slunečková: v knize Pravonín 26 (jen obec Pravonín) 5/1934–2/1937 není. Fara vedla knihy zřejmě po obcích
   s průběžným číslováním (č. 1 chybí 1935–37) → hledat v knize oddaných pro Bukovou 1935–37 (Jan).
+- Narození Ludmily Slunečkové: rejstřík S fary Pravonín ji nemá, ale bratr(?) Jaroslav Sluneček * 16. 2. 1915 Buková je ve sv. XXVI
+  s. 240 → Ludmila asi sv. XXVI s. 240–241 (Jan pošle). Sv. XXVI má oddíly po obcích (Pravonín ~75–155, Buková ~236–245,
+  Tisek ~246–290, Karlov ~300–315, Částrovice ~330–340).
 - Myslíkovi: Vladimír Myslík * 6. 5. 1930 Zdíkov (okr. Prachatice) – potřeba jména jeho rodičů.

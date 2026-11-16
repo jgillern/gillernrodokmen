@@ -51,6 +51,9 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   úřadě (obvod Vlašim) → Jan může jako pravnuk požádat o výpis (asi s. ~240, vedle bratra? Jaroslava * 1915 s. 240).
 - Pravonín 26 (O 1870–1949) je pro celou farnost, asi s oddíly po obcích; s. 101–103 = konec oddílu Pravonín → hledat oddíl
   Buková: sňatek Beran × Slunečková 1935–37 a Sluneček × Svatková asi 1912–15 (Jan).
-- Jan zkusí Bukovou v eBadatelně bez omezení let – jsou knihy N před 1894? Sv. XXVI má oddíly po obcích (Pravonín ~75–155, Buková ~236–245,
+- Sňatek Beran × Slunečková ve farnosti Pravonín není (Pravonín 5/1934–2/1937, Buková 1926–1945). Další: Pravonín 26 s. 104
+  (Pravonín od 2/1937 – sňatek po narození Milady?); jinak jinde (Velká Jesenice, Praha, civilně).
+- Rodiče Ludmily: sňatek František Sluneček × Ludmila Svatková asi 1912–15 → Pravonín 26 oddíl Buková s. 197 (196); jejich
+  narození asi 1880–93 → Pravonín 22 (Index N 1852–1893) písm. S, pak Pravonín 21 (N 1852–1893). Starší knihy až do 1667. Sv. XXVI má oddíly po obcích (Pravonín ~75–155, Buková ~236–245,
   Tisek ~246–290, Karlov ~300–315, Částrovice ~330–340).
 - Myslíkovi: Vladimír Myslík * 6. 5. 1930 Zdíkov (okr. Prachatice) – potřeba jména jeho rodičů.

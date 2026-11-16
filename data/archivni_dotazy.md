@@ -25,3 +25,9 @@ Portál: https://ebadatelna.soapraha.cz → Matriky → „v lokalitách“ → 
 2. Sňatek Josef Beran × Ludmila Slunečková – asi 1935–1936 v Pravoníně (Milada se narodila 3/1937) – matrika oddaných.
 3. Až bude 1. a 2.: narození Františka Slunečka a Ludmily Svatkové, sňatek Josef Beran st. × Emilie Kozáková.
 Stačí poslat odkaz na snímek nebo screenshot – přečtu, přepíšu a dohledám dál.
+
+## Beranovi – SOkA Náchod, Archiv obce Velká Jesenice (není digitalizováno)
+- Kniha cizinců 1857–1924 (inv. č. 11): zápis rodiny Josef Beran × Emilie roz. Kozáková, přistěhovali se asi 1906–1910
+  (syn Josef * 3. 6. 1910 ve V. Jesenici, 1912 už v Pravoníně). Kniha cizinců uvádí datum a místo narození a domovskou obec.
+- Případně Matrika domovského práva 1900–1948 (inv. č. 4) a Kniha zemřelých 1907–1949 (inv. č. 13).
+- Kontakt: Státní okresní archiv Náchod (SOA Zámrsk) – badatelský dotaz e-mailem; žádat o kopii/sken zápisu.

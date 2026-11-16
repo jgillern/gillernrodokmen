@@ -346,5 +346,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1787_musil_kubalkova": {
+  "boxes": [
+   [
+    0.03,
+    0.19,
+    0.99,
+    0.37
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

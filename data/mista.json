@@ -89,5 +89,12 @@
   "lat": 49.633,
   "lon": 15.0874,
   "osm": "Křivsoudov, okres Benešov, Středočeský kraj, 257 66, Česko"
+ },
+ "Palčice": {
+  "re": "Palčic",
+  "dotaz": "Palčice, Čechtice",
+  "lat": 49.6143,
+  "lon": 14.9701,
+  "osm": "Palčice, Nakvasovice, Čechtice, okres Benešov, Středočeský kraj, 257 09, Česko"
  }
 }

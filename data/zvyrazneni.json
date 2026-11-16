@@ -142,5 +142,41 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1865_pisova_josefa": {
+  "boxes": [
+   [
+    0.01,
+    0.79,
+    0.99,
+    0.93
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1863_pisova_marie": {
+  "boxes": [
+   [
+    0.01,
+    0.625,
+    0.99,
+    0.72
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1867_pisa_ignac": {
+  "boxes": [
+   [
+    0.01,
+    0.335,
+    0.99,
+    0.53
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

@@ -61,5 +61,19 @@
   "lat": 49.5765,
   "lon": 14.3966,
   "osm": "Nechvalice, okres Příbram, Středočeský kraj, 262 54, Česko"
+ },
+ "Nakvasovice": {
+  "re": "Nakvas",
+  "dotaz": "Nakvasovice, Česko",
+  "lat": 49.6241,
+  "lon": 14.9878,
+  "osm": "Nakvasovice, Čechtice, okres Benešov, Středočeský kraj, 257 09, Česko"
+ },
+ "Kondrac": {
+  "re": "Kondrac",
+  "dotaz": "Kondrac, okres Benešov",
+  "lat": 49.6669,
+  "lon": 14.884,
+  "osm": "Kondrac, okres Benešov, Středočeský kraj, Česko"
  }
 }

@@ -78,4 +78,5 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 |---|---|---|---|
 | Beranovi | Josef Beran * 3. 6. 1910 V. Jesenice; rodiče Josef Beran × Emilie Kozáková | sňatek Josef × Ludmila v celé farnosti Pravonín 1934–38 (ne); V. Jesenice N 1863–1906 B a K (žádný Beran ani Emilie Kozáková); O 1871–1906 B (ne) | výpis N 1910 z matričního úřadu (Jan jako pravnuk); Pravonín 25/27 – úmrtí Josefa st. nebo Emilie v Pravoníně před 1949 (rejstřík Z, písm. B); Pravonín 24 rejstřík N písm. B – mladší sourozenci Josefa narození v Pravoníně (kdy rodina přišla); Adresář RČS 1920–1929 (od kdy cihelna) |
 | Gillernovi | děda Augustýn – bez roku a místa narození | Kramerius, policejní přihlášky, mapa hrobů SPH (Hrnčíře tam nejsou) | náhrobek v Hrnčířích / správa hřbitova MČ Praha-Šeberov; rodinné doklady |
+| Svatkovi | sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | Pravonín 26 oddíl Buková 1870–1884 (ne) | farnost Vitína (Počepice? – eBadatelna) nebo Bzové (SOA Třeboň); narození Jana Svatka ve Bzové 1 |
 | Myslíkovi | Vladimír Myslík * 6. 5. 1930 Zdíkov | – | jména jeho rodičů od rodiny; Zdíkov = SOA Třeboň (jen prohlížeč) |

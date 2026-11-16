@@ -66,6 +66,7 @@ SIDE = [
     dict(k=61, n="Ignác Píša (* 1867)", t="Mladší bratr Josefy Píšové. Nar. 6. 1. 1867 v Tisku č. 17.", r=["n_1867_pisa_ignac"]),
     dict(k=30, n="Marie Slunečková (1887–1892)", t="Starší sestra Františka Slunečka. Nar. 12. 8. 1887 v Tisku č. 17, zemřela 18. 11. 1892 v pěti letech.", r=["n_1887_sluneckova_marie"]),
     dict(k=30, n="Marie Slunečková (* 1902)", t="Mladší sestra Františka Slunečka (stejní rodiče Alois a Josefa z Tisku č. 17). Nar. 1. 8. 1902 v Tisku, 21. 2. 1925 se vdala za tesaře Josefa Michálka z Vilice.", r=["o_1925_michalek_sluneckova"]),
+    dict(k=14, n="Ludmila Beranová (* 1912)", t="Nejspíš mladší sestra Josefa Berana. Nar. 21. 4. 1912 v Pravoníně (jen rejstřík narozených) – dokládá, že rodina Beranových žila v Pravoníně už 1912.", r=["i_n_1912_beranova_ludmila"]),
     dict(k=15, n="Jaroslav Sluneček (* 1915)", t="Nejspíš bratr Ludmily Slunečkové. Nar. 16. 2. 1915 v Bukové (jen rejstřík narozených; zápis je v matrice na matričním úřadě).", r=["i_n_1915_slunecek_jaroslav"]),
     dict(k=15, n="Zdenka Slunečková (* 1927)", t="Snad sestra Ludmily Slunečkové. Nar. 18. 9. 1927 v Bukové (jen rejstřík narozených).", r=["i_n_1927_sluneckova_zdenka"]),
 ]

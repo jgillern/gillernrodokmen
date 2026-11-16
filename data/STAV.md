@@ -34,49 +34,35 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Fáze 1 – rozhovor s rodinou: známe rodiče a prarodiče (jen jména). Chybí roky, místa, rodná příjmení babiček, pradědečkové.
-- Síť funguje (16. 11. 2026), ale de.wikipedia.org odmítá dotazy z cloudu (429, 2×) – zastaveno do 11:02 UTC; případně ať Jan text stránky vloží do chatu.
-- Gillernové (jméno je vzácné): v Krameriu nalezena česká lesnická větev u Orlíku/Vorlíka (Augustin, Čeněk, Vincenc, Bedřich
-  z Gillernů, 1872–1903) – viz research_log č. 4–5. Hypotéza: děda Augustýn je jejich potomek (jméno Augustin se opakuje,
-  student „Gillern Augu…“ v Písku 1936). NEOVĚŘENO – chybí rok a místo narození dědy Augustýna; zeptat se rodiny.
-- Další kroky: matriky farností u Orlíku (Lavičky → fara Kostelec n. Vlt.? / Zbenice; Vorlík → Orlík n. Vlt.), SOA Praha a
-  SOA Třeboň jen v prohlížeči; vyhledání hrobu Gillern na pražských hřbitovech (mapy.hrbitovy.cz) v prohlížeči.
-- Beranovi: V. Jesenice N 1863–1906 bez Beranů (ř. 33–34) → rodina tam přišla po 1906. Klíč: výpis z matriky N 1910
-  (narození Josefa Berana 3. 6. 1910) z matričního úřadu – Jan jako pravnuk. Sňatek ve farnosti Pravonín není.
-- (starší) Beranovi (matčina linie): Josef Beran * 3. 6. 1910 Velká Jesenice (okr. Náchod) – matrika N po 10.1906 v ARONu není;
-  sňatek rodičů (Josef Beran × Emilie Kozáková) v matrice O Velká Jesenice 1871–1906 není. Další krok: narození Josefa Berana st.
-  (asi 1875–1888) v matrice N Velká Jesenice 1880–1906 (apu 89ef95c3) – ale bez dalšího údaje hrozí záměna, nejdřív zjistit víc.
-- Slunečkovi: Ludmila Slunečková * 7. 4. 1916 Buková (část obce Pravonín, fara Pravonín, SOA Praha – jen ručně, Jan posílá snímky).
-- Sňatek Beran × Slunečková: v knize Pravonín 26 (jen obec Pravonín) 5/1934–2/1937 není. Fara vedla knihy zřejmě po obcích
-  s průběžným číslováním (č. 1 chybí 1935–37) → hledat v knize oddaných pro Bukovou 1935–37 (Jan).
-- Narození Ludmily Slunečkové: v rejstříku (Pravonín 24) chybí; svazek N 1894–1949 (asi XXVI) není v archivu, je na matričním
-  úřadě (obvod Vlašim) → Jan může jako pravnuk požádat o výpis (asi s. ~240, vedle bratra? Jaroslava * 1915 s. 240).
-- Pravonín 26 (O 1870–1949) je pro celou farnost, asi s oddíly po obcích; s. 101–103 = konec oddílu Pravonín → hledat oddíl
-  Buková: sňatek Beran × Slunečková 1935–37 a Sluneček × Svatková asi 1912–15 (Jan).
-- Sňatek Beran × Slunečková ve farnosti Pravonín není (Pravonín 5/1934–2/1937, Buková 1926–1945). Další: Pravonín 26 s. 104
-  (Pravonín od 2/1937 – sňatek po narození Milady?); jinak jinde (Velká Jesenice, Praha, civilně).
-- DOLOŽENO (16. 11.): sňatek František Sluneček × Ludmila Svatková 12. 9. 1914 Pravonín (Pravonín 26 s. 194) a narození
-  Ludmily Svatkové 18. 10. 1893 Buková 5 (Pravonín 21 s. 263). Rodiče: Alois Sluneček × Josefa Píšová(?) (Tisek 17 / Buková 8);
-  Jan Svatek × Marie Bezkočková (Buková 5); prarodiče František Svátek ze Bzové 1 (okr. Mladá Vožice → SOA Třeboň),
-  Jan Bezkočka z Vitína 8 (okr. Sedlčany) × Marie Zelenková z Nechvalic.
-- DOLOŽENO: narození Františka Slunečka 27. 11. 1888 Tisek 17 (Pravonín 21 s. 298 = snímek 290); prarodiče František Sluneček
-  (obuvník, Jeníkov) × Anna Musilová; Jan Píša (rolník, Tisek 17) × Barbora Malá.
-- Odkazy: https://ebadatelna.soapraha.cz/d/<matrikaId>/<snímek>; Pravonín 26 = 15260, Pravonín 21 = 10033; Pravonín 24 a 22 – id zjistit.
-  Čísla snímků u ostatních zápisů jsou odvozená – ověřit.
-- Pravonín 26 s. 104 přečtena (1937–38): Beran × Slunečková NENÍ. Č. 1/1936 = Tisek (Fiala × Píšová) – ne.
-  Karhule i Částrovice prověřeny (ř. 31) – sňatek ve farnosti Pravonín NENÍ. Hledat mimo farnost: Velká Jesenice (fara
-  ženicha), Praha, civilní sňatek – zeptat se rodiny (kde se brali, kde bydleli 1936).
-  Oddíly knihy viz research_log ř. 29.
-- (staré) Další od Jana: Pravonín 26 s. 104 (Beran × Slunečková po
-  2/1937?); sňatek Jan Svatek × Marie Bezkočková asi 1878–80 (nejspíš ve Vitíně / farnost nevěsty, nebo Pravonín 26 Buková
-  s. ~188–190); trvalé odkazy a čísla snímků pro citace. Sv. XXVI má oddíly po obcích (Pravonín ~75–155, Buková ~236–245,
-  Tisek ~246–290, Karlov ~300–315, Částrovice ~330–340).
-- Myslíkovi: Vladimír Myslík * 6. 5. 1930 Zdíkov (okr. Prachatice) – potřeba jména jeho rodičů.
+Stav k 16. 11. 2026. Matriky SOA Praha (eBadatelna) čte Jan v prohlížeči a posílá snímky (+ číslo snímku / URL);
+SOA Zámrsk (ARON) Claude prohledá sám. Odkazy: https://ebadatelna.soapraha.cz/d/<matrikaId>/<snímek> –
+Pravonín 21 (N 1852–93) = 10033, Pravonín 22 (Index N 1852–93) = 10034, Pravonín 24 (Index N 1894–1949) = 10036,
+Pravonín 26 (O 1870–1949) = 15260 (snímek ≈ strana − 59 v první části knihy). Oddíly knih po obcích viz research_log ř. 29.
+
+**Doloženo z matrik:** Ludmila Svatková (* 1893 Buková 5) × František Sluneček (* 1888 Tisek 17), sňatek 1914; Alois Sluneček
+(* 1863 Nakvasovice) × Josefa Píšová (* 1865 Tisek 17), sňatek 1887; jejich rodiče: František Sluneček (obuvník, Jeníkov) × Anna
+Musilová; Jan Píša (Tisek 17, z Kondrace 25) × Barbora Malá (Tisek 17); Jan Svatek (krejčí, Buková 5) × Marie Bezkočková (Vitín 8);
+prarodiče František Svátek (Bzová 1) × Barbora; Jan Bezkočka (Vitín 8) × Marie Zelenková; Jan Píša (Kondrac 25) × Barbora
+Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
+
+### Další postup (pořadí = doporučené)
+| # | Linie | Co hledat | Kde | Kdo |
+|---|---|---|---|---|
+| 1 | Píšovi / Malí | sňatek Jan Píša × Barbora Malá (asi 1858–1862, Tisek) | SOA Praha, Pravonín 06–09 (O 1709–1869) – oddíl Tisek | Jan – nejdřív seznam knih pro Tisek před 1870 |
+| 2 | Malí | narození Barbory Malé (asi 1835–1842, Tisek 17), pak sňatek Jan Malý × Marie Benešová(?) | Pravonín 01–05 (N 1709–1851), indexy 13–20 | Jan |
+| 3 | Píšovi | narození Jana Píši (asi 1830–1838, Kondrac 25) | farnost Kondrac (SOA Praha, eBadatelna) | Jan |
+| 4 | Slunečkovi | narození Aloise Slunečka 17. 6. 1863 Nakvasovice; sňatek František Sluneček × Anna Musilová (Jeníkov) | farnost Zhoř (SOA Praha) | Jan |
+| 5 | Bezkočkovi | narození Marie Bezkočkové (asi 1855–1860, Vitín 8); sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | farnost Vitína (Počepice? – SOA Praha) | Jan |
+| 6 | Svatkovi | narození Jana Svatka (asi 1850–1855, Bzová 1) | farnost Bzové u Mladé Vožice (SOA Třeboň, jen prohlížeč) | Jan |
+| 7 | Gillernovi | roky dědy Augustýna a jeho rodičů | náhrobek Praha-Hrnčíře / správa hřbitova MČ Praha-Šeberov | Jan / rodina |
+| 8 | Myslíkovi | jména rodičů Vladimíra Myslíka (* 1930 Zdíkov) | rodina; pak SOA Třeboň | Jan / rodina |
+| 9 | Beranovi | (slepý konec) výpis z matriky | matriční úřad Vlašim – N XXVI: Ludmila Beranová 21. 4. 1912 s. 73 | Jan, až bude chtít |
+| – | Wikipedie | de.wikipedia.org/wiki/Gillern – z cloudu 429 | Jan vloží text do chatu | Jan |
 
 ## Slepé konce (kde jsme se zatím nepohnuli) – aktualizovat
 | Linie | Kde to stojí | Co jsme zkusili | Co by to mohlo rozlousknout |
 |---|---|---|---|
-| Beranovi | Josef Beran * 3. 6. 1910 V. Jesenice; rodiče Josef Beran × Emilie Kozáková; sestra Ludmila * 21. 4. 1912 Pravonín (rodina v Pravoníně od ~1911); úmrtí rodičů v Pravoníně do 1949 nejsou | sňatek Josef × Ludmila v celé farnosti Pravonín 1934–38 (ne); sňatek Josef st. × Emilie v Pravoníně 1905–1910 (ne); V. Jesenice N 1863–1906 B a K (žádný Beran ani Emilie Kozáková); O 1871–1906 B (ne) | NEJLÉPE: matriční úřad Vlašim (kniha N XXVI fary Pravonín) – zápisy starší 100 let (Ludmila Beranová 21. 4. 1912 s. 73, Ludmila Slunečková 7. 4. 1916 s. ~240) si může vyžádat kdokoli; zápis Josefa 3. 6. 1910 V. Jesenice – matrika Č. Skalice?; (Emilie Kozáková není v N Pravonín 1852–93 ani V. Jesenice 1863–1906); Pravonín 26 sňatek Beran × Kozáková asi 1905–1910 (oddíl Pravonín s. ~90–98 nebo oddíl obce nevěsty); Adresář RČS 1920–1929 (od kdy cihelna) |
+| Beranovi | Josef Beran * 3. 6. 1910 V. Jesenice (cihelna v Pravoníně 1930–39); rodiče Josef Beran × Emilie Kozáková; sestra Ludmila * 21. 4. 1912 Pravonín (rodina tam od ~1911) | sňatek Josef × Ludmila Slunečková v celé farnosti Pravonín 1934–38 (ne); sňatek Josef st. × Emilie v Pravoníně 1905–1910 (ne); V. Jesenice N 1863–1906 písm. B a K (žádný Beran ani Emilie Kozáková); V. Jesenice O 1871–1906 B (ne); Pravonín N 1852–1893 K (ne); Pravonín Z 1873–1949 B (ne) | matriční úřad Vlašim (N XXVI fary Pravonín; zápisy starší 100 let může vyžádat kdokoli): Ludmila Beranová 1912 s. 73 – uvede původ rodičů; zápis Josefa 1910 V. Jesenice (matrika Č. Skalice?); sňatek asi V. Jesenice 1906–1910 (svazek není online) |
 | Gillernovi | děda Augustýn – bez roku a místa narození | Kramerius, policejní přihlášky, mapa hrobů SPH (Hrnčíře tam nejsou) | náhrobek v Hrnčířích / správa hřbitova MČ Praha-Šeberov; rodinné doklady |
-| Svatkovi | sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | Pravonín 26 oddíl Buková 1870–1884 (ne) | farnost Vitína (Počepice? – eBadatelna) nebo Bzové (SOA Třeboň); narození Jana Svatka ve Bzové 1 |
+| Svatkovi | sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | Pravonín 26 oddíl Buková 1870–1884 (ne) | farnost Vitína nebo Bzové (viz Další postup 5–6) |
 | Myslíkovi | Vladimír Myslík * 6. 5. 1930 Zdíkov | – | jména jeho rodičů od rodiny; Zdíkov = SOA Třeboň (jen prohlížeč) |

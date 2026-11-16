@@ -17,3 +17,14 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Vladimír Myslík: nic bližšího.
 - Milada Myslíková, rozená Beranová: * 1937 Pravonín.
 - Rodinné dokumenty Jan teď u sebe nemá.
+
+## 16. 11. 2026 – Jan Gillern, další doplnění
+- Děda Augustýn Gillern je pohřben na hřbitově v Praze-Hrnčířích; leží tam i jeho rodiče a Janův otec Jiří.
+- Úmrtní list Vladimíra Myslíka (kopie od Jana, `dokumenty/umrtni_list_Vladimir_Myslik_2024.webp` – jen lokálně, obsahuje
+  rodná čísla a adresu, proto není v gitu ani na webu):
+  - † 23. 8. 2024 Český Brod čp. 282
+  - * 6. 5. 1930 Zdíkov, okres Prachatice
+  - ženatý; trvalý pobyt Říčany (část Radošovice), okres Praha-východ
+  - manželka Milada Myslíková, rozená Beranová
+  - matrika úmrtí Český Brod, svazek 18, rok 2024, strana 126, poř. č. 198 (čteno z hlavičky listu, část čísel jen částečně vidět)
+- Gillernové z Olešovic (u Kamenice, okr. Praha-východ) jsou podle Jana příbuzní (jak blízcy, zatím nevíme).

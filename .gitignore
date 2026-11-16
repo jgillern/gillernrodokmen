@@ -20,3 +20,6 @@ web/netlify/edge-functions/
 web/cloudflare/worker.js
 web/wrangler.jsonc
 web/.wrangler/
+
+# rodinné dokumenty s rodnými čísly a adresami žijících – jen lokálně, ne do historie ani na web
+dokumenty/umrtni_list_Vladimir_Myslik_2024.webp

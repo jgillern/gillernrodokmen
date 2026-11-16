@@ -30,3 +30,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - Když uživatel listuje v eBadatelně sám: „strana“ v citacích (pag.) je ručně psané číslo v rohu knihy, ne číslo snímku
   v prohlížeči – uživatele to mate. Ve skillu doporučit: vždy říct „číslo v horním rohu stránky“ + přibližný snímek
   (z poměru: jeden snímek = dvoustrana, u pravonínských knih s jedním číslem na dvoustranu) a požádat o URL z adresního řádku.
+- eBadatelna: našeptávač lokalit nenajde menší osady (Nakvasovice), i když jsou v popisu knih. Fungovalo hledat obec fary
+  („Zhoř – obec Čechtice – okres Benešov“) podle údaje ze zápisu („křestní list ze Zhoře“). Ve skillu zmínit.

@@ -37,7 +37,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 Stav k 16. 11. 2026. Matriky SOA Praha (eBadatelna) čte Jan v prohlížeči a posílá snímky (+ číslo snímku / URL);
 SOA Zámrsk (ARON) Claude prohledá sám. Odkazy: https://ebadatelna.soapraha.cz/d/<matrikaId>/<snímek> –
 Pravonín 21 (N 1852–93) = 10033, Pravonín 22 (Index N 1852–93) = 10034, Pravonín 24 (Index N 1894–1949) = 10036,
-Pravonín 26 (O 1870–1949) = 15260, Pravonín 04 = 13037, Pravonín 05 = 13036, Pravonín 09 = 13049 (snímek ≈ strana − 59 v první části knihy). Oddíly knih po obcích viz research_log ř. 29.
+Pravonín 26 (O 1870–1949) = 15260, Pravonín 04 = 13037, Zhoř 07 = 9162, Zhoř 14 = 9169, Pravonín 05 = 13036, Pravonín 09 = 13049 (snímek ≈ strana − 59 v první části knihy). Oddíly knih po obcích viz research_log ř. 29.
 
 **Doloženo z matrik:** Ludmila Svatková (* 1893 Buková 5) × František Sluneček (* 1888 Tisek 17), sňatek 1914; Alois Sluneček
 (* 1863 Nakvasovice) × Josefa Píšová (* 1865 Tisek 17), sňatek 1887; jejich rodiče: František Sluneček (obuvník, Jeníkov) × Anna
@@ -51,7 +51,7 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | 1 | Píšovi | HOTOVO: sňatek 22. 11. 1853 (Pravonín 09 s. 98); dál starší děti Jana a Barbory 1854–1862 (rejstřík Pravonín 22, písm. P) | Pravonín 22 / 21 | Jan |
 | 2 | Malí | SLEPÝ KONEC (viz níže) | – | – |
 | 3 | Píšovi | narození Jana Píši (asi 1830–1838, Kondrac 25) | farnost Kondrac (SOA Praha, eBadatelna) | Jan |
-| 4 | Slunečkovi | narození Aloise 17. 6. 1863 Nakvasovice = matr. III s. 101 (asi Zhoř 07, oddíl Nakvasovice); pak sňatek František Sluneček × Anna Musilová asi 1850–1856 (Zhoř 04, O 1816–1877, rejstřík uvnitř knihy, písm. S) | farnost Zhoř (eBadatelna, lokalita „Zhoř – obec Čechtice“) | Jan |
+| 4 | Slunečkovi | HOTOVO: Alois * 1863 (Zhoř 07 s. 101). Dál: sňatek František Sluneček × Anna Musilová asi 1850–1856 (Zhoř 04, O 1816–1877, rejstřík uvnitř, písm. S); narození Františka (asi 1825–1832, Jeníkov – Zhoř 02, N 1816–1857, rejstřík uvnitř) | Jan |
 | 5 | Bezkočkovi | narození Marie Bezkočkové (asi 1855–1860, Vitín 8); sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | farnost Vitína (Počepice? – SOA Praha) | Jan |
 | 6 | Svatkovi | narození Jana Svatka (asi 1850–1855, Bzová 1) | farnost Bzové u Mladé Vožice (SOA Třeboň, jen prohlížeč) | Jan |
 | 7 | Gillernovi | roky dědy Augustýna a jeho rodičů | náhrobek Praha-Hrnčíře / správa hřbitova MČ Praha-Šeberov | Jan / rodina |

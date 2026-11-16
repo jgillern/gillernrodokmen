@@ -226,5 +226,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1863_slunecek_alois": {
+  "boxes": [
+   [
+    0.03,
+    0.745,
+    0.99,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

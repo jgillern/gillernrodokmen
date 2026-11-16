@@ -40,5 +40,19 @@
   "lat": 50.0741,
   "lon": 14.8606,
   "osm": "Český Brod, okres Kolín, Středočeský kraj, Česko"
+ },
+ "Bzová": {
+  "re": "Bzov",
+  "dotaz": "Bzová, okres Tábor",
+  "lat": 49.5562,
+  "lon": 14.8406,
+  "osm": "Bzová, Běleč, okres Tábor, Jihočeský kraj, 257 07, Česko"
+ },
+ "Vitín": {
+  "re": "Vitín",
+  "dotaz": "Vitín, okres Příbram",
+  "lat": 49.5878,
+  "lon": 14.3627,
+  "osm": "Vitín, Počepice, okres Příbram, Středočeský kraj, 262 53, Česko"
  }
 }

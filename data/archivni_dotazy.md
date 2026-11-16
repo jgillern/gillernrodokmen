@@ -1,33 +1,40 @@
 # Prameny mimo online matriky
 
-Co by šlo zjistit jen v badatelně archivu nebo na matričním úřadě (a proč). Doplňujte průběžně.
+Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matričním úřadě nebo od rodiny. Aktualizováno 16. 11. 2026.
 
-## Matriční úřad – první krok (zápisy po roce 1926 nejsou v archivu ani online)
-Jan jako syn / vnuk má nárok na výpisy i u zápisů mladších než zákonné lhůty (doložit příbuzenství). Žádat o **doslovný výpis**
-(obsahuje i okrajové poznámky).
+## Od rodiny – nejrychlejší cesta
+
+| linie | co by pomohlo |
+|---|---|
+| Gillernovi | roky a místa narození dědy Augustýna a jeho rodičů – náhrobek v Praze-Hrnčířích (správa hřbitova MČ Praha-Šeberov), úmrtní list táty Jiřího |
+| babička Božena | její rodné příjmení, rok a místo narození |
+| Myslíkovi | jména rodičů dědy Vladimíra (* 1930 Zdíkov) |
+| Beranovi | odkud přišli pradědeček Josef Beran st. a Emilie Kozáková, kde jsou pohřbeni, kde se brali Josef ml. a Ludmila Slunečková; kdo byl Emil Beran (v Pravoníně 1937–38) |
+
+## Matriční úřady (zápisy, které ještě nejsou v archivu)
 
 | osoba | co | kde | proč |
 |---|---|---|---|
-| 2 Jiří Gillern | úmrtní list (asi 2015) | doma v rodinných papírech / dědickém řízení; jinak matriční úřad místa úmrtí | uvádí přesné datum a místo narození |
-| 2 Jiří Gillern | doslovný výpis z knihy narození (asi 1955, snad Praha) | matriční úřad místa narození (v Praze úřad městské části) | uvádí rodiče Augustýna a Boženu s daty a místy jejich narození → vstup do starších matrik |
-| 7 Milada Beranová | doslovný výpis z knihy narození (1937, Pravonín) | matriční úřad příslušný pro Pravonín (ověřit, který) | uvádí její rodiče Beranovy → farnost Pravonín, starší knihy v SOA Praha (eBadatelna) |
-| 4, 5 Augustýn a Božena Gillernovi | doslovný výpis z knihy oddaných (asi 1950–1955?) | matriční úřad místa sňatku (z výpisu narození Jiřího) | rodiče obou snoubenců, rodné příjmení Boženy |
+| Ludmila Beranová, * 21. 4. 1912 Pravonín | výpis z matriky narozených (XXVI, s. 73) | matriční úřad Vlašim | sestra pradědečka Josefa; uvede rodiče Josefa Berana st. a Emilii Kozákovou i s jejich původem – zápis je starší 100 let, vydají ho komukoli |
+| Josef Beran, * 3. 6. 1910 Velká Jesenice | výpis z matriky narozených | matriční úřad pro Velkou Jesenici (Česká Skalice?) | totéž – rodiče a prarodiče |
+| Jiří Gillern, * asi 1955 | doslovný výpis z matriky narozených | matriční úřad místa narození | rodiče Augustýn a Božena s daty a místy narození |
+| Augustýn a Božena Gillernovi | výpis z matriky oddaných | matriční úřad místa sňatku | rodiče obou snoubenců, rodné příjmení Boženy |
 
-## Gillernové – knihy jen ve studovně (Kramerius je ukáže celé jen v Národní knihovně nebo v připojené knihovně)
+## Archivy – knihy, které nejsou naskenované
+
+- **SOkA Náchod, Archiv obce Velká Jesenice:** Kniha cizinců 1857–1924 (inv. č. 11) – zápis rodiny Josefa Berana a Emilie Kozákové,
+  kteří se přistěhovali asi 1906–1910; kniha uvádí datum a místo narození a domovskou obec. Případně Matrika domovského práva
+  1900–1948 (inv. č. 4). Dotaz e-mailem, prosba o kopii zápisu.
+- **Sčítání lidu 1921 pro Pravonín** – zkusit v eBadatelně v sekci Archiválie; uvádí u každého data a místa narození.
+
+## Knihy jen ve studovně Národní knihovny (Gillernové)
+
 - „Praha 11 na prahu 21. století“ (2007), s. 134: „…Gillernovi a od roku 1931…“ – možná Šeberov/Hrnčíře, kde je rodinný hrob.
-- „Kamenice v proměnách věků“ (2010), s. 251–292, 348–351, 384, 402–404: Gillernové z Olešovic (Jan, Jan ml., Pavel, Anna).
+- „Kamenice v proměnách věků“ (2010): Gillernové z Olešovic (Jan, Jan ml., Pavel, Anna).
 - „Výroční zpráva obecních vyšších reálných škol v Písku“ za 1935/36: student „Gillern Augu…“ – není to děda Augustýn?
-- „Seznam udělených čs. autorských osvědčení a patentů“ (1989): Augustin Gillern (spoluautor Kadlec).
+- „Seznam udělených čs. autorských osvědčení a patentů“ (1989): Augustin Gillern.
 
-## Beranovi a Slunečkovi – Pravonín (okr. Benešov), SOA Praha eBadatelna – jen ručně v prohlížeči
-Portál: https://ebadatelna.soapraha.cz → Matriky → „v lokalitách“ → napsat Buková / Pravonín, vybrat okres Benešov.
-1. Narození Ludmily Slunečkové 7. 4. 1916, Buková (fara Pravonín) – matrika narozených s rokem 1916.
-2. Sňatek Josef Beran × Ludmila Slunečková – asi 1935–1936 v Pravoníně (Milada se narodila 3/1937) – matrika oddaných.
-3. Až bude 1. a 2.: narození Františka Slunečka a Ludmily Svatkové, sňatek Josef Beran st. × Emilie Kozáková.
-Stačí poslat odkaz na snímek nebo screenshot – přečtu, přepíšu a dohledám dál.
+## Online, ale zatím neprohledané (pokračování v matrikách)
 
-## Beranovi – SOkA Náchod, Archiv obce Velká Jesenice (není digitalizováno)
-- Kniha cizinců 1857–1924 (inv. č. 11): zápis rodiny Josef Beran × Emilie roz. Kozáková, přistěhovali se asi 1906–1910
-  (syn Josef * 3. 6. 1910 ve V. Jesenici, 1912 už v Pravoníně). Kniha cizinců uvádí datum a místo narození a domovskou obec.
-- Případně Matrika domovského práva 1900–1948 (inv. č. 4) a Kniha zemřelých 1907–1949 (inv. č. 13).
-- Kontakt: Státní okresní archiv Náchod (SOA Zámrsk) – badatelský dotaz e-mailem; žádat o kopii/sken zápisu.
+- **Svatkovi:** Šebířov, oddíl Bzová, narození 1853–1855 a 1840–1848 – narození Jana Svatka (otec František, matka Barbora).
+- **Malí, Pešanovi, Slunečkovi, Bezkočkovi:** podrobnosti v tabulce slepých konců (data/STAV.md).

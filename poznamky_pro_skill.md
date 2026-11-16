@@ -22,3 +22,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - U neveřejných dokumentů (po ~1940) Kramerius vrací jen pár slov kolem hledaného výrazu (hl.fragsize nepomáhá).
 - Hledání hrobů Správy pražských hřbitovů (mapy.hrbitovy.cz) neprojde kontrolou certifikátu přes curl (chybí mezicertifikát?);
   stará adresa 212.47.2.130:8080/mpo_sphw nefunguje. Pro skill: hroby v Praze jen přes prohlížeč.
+- Doplnění: i s popisným User-Agentem (-A) Wikipedie vrátila 429 hned na první dotaz po vypršení stopky → spíš přiškrcená
+  sdílená IP cloudového prostředí než UA. V cloudu Wikipedii raději nechat přečíst uživatele / vložit text do chatu.

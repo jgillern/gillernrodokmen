@@ -30,3 +30,10 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Gillernové z Olešovic (u Kamenice, okr. Praha-východ) jsou podle Jana příbuzní (jak blízcy, zatím nevíme).
 - Doplnění (Jan, nejisté): Jan Gillern z Olešovic byl snad bratr dědy Augustýna, Anna Gillernová jeho manželka.
 - Mapa pražských hřbitovů (mapy.hrbitovy.cz, hledal Jan) jméno Gillern nenašla; hřbitov Hrnčíře v ní ve filtru hřbitovů není.
+
+## 16. 11. 2026 – Rodný list Milady Beranové (foto od Jana)
+`dokumenty/rodny_list_Milada_Beranova_1937.jpg` – jen lokálně (doklad žijící osoby), ne v gitu ani na webu.
+Vydal MNV Pravonín (okr. Vlašim) 13. 11. 1952 podle rodné matriky řím.-kat. farního úřadu Pravonín, sv. XXVI, s. 155, poř. č. 3.
+- Milada Beranová, * 1937 Pravonín čp. 72 (přesné datum v dokladu), ženské pohlaví.
+- Otec: Josef Beran, * 3. 6. 1910 Velká Jesenice, majitel cihelny, Pravonín čp. 72; syn Josefa Berana a Emilie roz. Kozákové.
+- Matka: Ludmila Slunečková, * 7. 4. 1916 Buková (která Buková – neurčeno); dcera Františka Slunečka a Ludmily roz. Svatkové.

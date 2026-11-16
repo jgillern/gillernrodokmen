@@ -24,7 +24,13 @@ P = {
     4: dict(n="Augustýn Gillern", y="", st="fam", f=["pohřben Praha-Hrnčíře"], note="Otec Jiřího. Údaj od Jana Gillerna (16. 11. 2026). Na hřbitově v Hrnčířích leží i jeho rodiče a syn Jiří."),
     5: dict(n="Božena (rodné příjmení?)", y="", st="fam", f=[], note="Matka Jiřího, provdaná Gillernová. Rodné příjmení zatím neznámé."),
     6: dict(n="Vladimír Myslík", y="1930–2024", st="fam", f=["* 6. 5. 1930 Zdíkov (okr. Prachatice)", "† 23. 8. 2024 Český Brod"], note="Otec Zuzany. Údaje z jeho úmrtního listu (matrika Český Brod 2024), kopii poslal Jan Gillern 16. 11. 2026."),
-    7: dict(n="Milada Beranová", y="* 1937", st="fam", f=["* 1937 Pravonín"], note="Matka Zuzany, provdaná Myslíková. Údaj od Jana Gillerna (16. 11. 2026); zda žije, zatím nevíme."),
+    7: dict(n="Milada Beranová", y="* 1937", st="fam", f=["* 1937 Pravonín čp. 72"], note="Matka Zuzany, provdaná Myslíková. Rodný list Milady Beranové (MNV Pravonín 1952, podle matriky Pravonín sv. XXVI s. 155), foto od Jana Gillerna 16. 11. 2026. Zda žije, zatím nevíme – proto jen rok."),
+    14: dict(n="Josef Beran", y="* 1910", st="fam", f=["* 3. 6. 1910 Velká Jesenice", "majitel cihelny v Pravoníně čp. 72 (1937)"], note="Otec Milady. Rodný list Milady Beranové (MNV Pravonín 1952, podle matriky Pravonín sv. XXVI s. 155), foto od Jana Gillerna 16. 11. 2026."),
+    15: dict(n="Ludmila Slunečková", y="* 1916", st="fam", f=["* 7. 4. 1916 Buková"], note="Matka Milady. Která Buková, zatím neurčeno. Rodný list Milady Beranové (MNV Pravonín 1952, podle matriky Pravonín sv. XXVI s. 155), foto od Jana Gillerna 16. 11. 2026."),
+    28: dict(n="Josef Beran", y="", st="fam", f=[], note="Otec Josefa Berana (* 1910). Jen jméno z rodného listu vnučky Milady (1952)."),
+    29: dict(n="Emilie Kozáková", y="", st="fam", f=[], note="Matka Josefa Berana (* 1910). Jen jméno z rodného listu vnučky Milady (1952)."),
+    30: dict(n="František Sluneček", y="", st="fam", f=[], note="Otec Ludmily Slunečkové (* 1916). Jen jméno z rodného listu vnučky Milady (1952)."),
+    31: dict(n="Ludmila Svatková", y="", st="fam", f=[], note="Matka Ludmily Slunečkové (* 1916). Jen jméno z rodného listu vnučky Milady (1952)."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:

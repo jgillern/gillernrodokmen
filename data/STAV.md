@@ -61,8 +61,9 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   (obuvník, Jeníkov) × Anna Musilová; Jan Píša (rolník, Tisek 17) × Barbora Malá.
 - Odkazy: https://ebadatelna.soapraha.cz/d/<matrikaId>/<snímek>; Pravonín 26 = 15260, Pravonín 21 = 10033; Pravonín 24 a 22 – id zjistit.
   Čísla snímků u ostatních zápisů jsou odvozená – ověřit.
-- Pravonín 26 s. 104 přečtena (1937–38): Beran × Slunečková NENÍ. Zbývá: č. 1 z r. 1936 a 1937 v oddílech jiných obcí
-  (snímky ~52–125 a 141+), jinak sňatek mimo farnost (zeptat se rodiny).
+- Pravonín 26 s. 104 přečtena (1937–38): Beran × Slunečková NENÍ. Č. 1/1936 = Tisek (Fiala × Píšová) – ne.
+  Zbývá č. 1/1937: oddíl Karhule (s. 243–262) nebo Částrovice/Koušovice (s. 275–279); jinak sňatek mimo farnost (zeptat se rodiny).
+  Oddíly knihy viz research_log ř. 29.
 - (staré) Další od Jana: Pravonín 26 s. 104 (Beran × Slunečková po
   2/1937?); sňatek Jan Svatek × Marie Bezkočková asi 1878–80 (nejspíš ve Vitíně / farnost nevěsty, nebo Pravonín 26 Buková
   s. ~188–190); trvalé odkazy a čísla snímků pro citace. Sv. XXVI má oddíly po obcích (Pravonín ~75–155, Buková ~236–245,

@@ -29,8 +29,8 @@ P = {
     15: dict(n="Ludmila Slunečková", y="* 1916", st="fam", f=["* 7. 4. 1916 Buková"], note="Matka Milady. Která Buková, zatím neurčeno. Rodný list Milady Beranové (MNV Pravonín 1952, podle matriky Pravonín sv. XXVI s. 155), foto od Jana Gillerna 16. 11. 2026."),
     28: dict(n="Josef Beran", y="", st="fam", f=[], note="Otec Josefa Berana (* 1910). Jen jméno z rodného listu vnučky Milady (1952)."),
     29: dict(n="Emilie Kozáková", y="", st="fam", f=[], note="Matka Josefa Berana (* 1910). Jen jméno z rodného listu vnučky Milady (1952)."),
-    30: dict(n="František Sluneček", y="", st="fam", f=[], note="Otec Ludmily Slunečkové (* 1916). Jen jméno z rodného listu vnučky Milady (1952)."),
-    31: dict(n="Ludmila Svatková", y="", st="fam", f=[], note="Matka Ludmily Slunečkové (* 1916). Jen jméno z rodného listu vnučky Milady (1952)."),
+    30: dict(n="František Sluneček", y="", st="fam", f=[], note="Otec Ludmily Slunečkové (* 1916). Jméno z rodného listu vnučky Milady (1952). Hypotéza: František Sluneček * 27. 11. 1888 (Tisek?, index Pravonín 22: XXIII s. 298); r. 1924 svědek na svatbě Augustiny Svatkové (Buková 5) jako obchodník – ověřit v matrice."),
+    31: dict(n="Ludmila Svatková", y="", st="fam", f=[], note="Matka Ludmily Slunečkové (* 1916). Jméno z rodného listu vnučky Milady (1952). Hypotéza: „Svátek Lidmila“ * 18. 10. 1893 Buková (index Pravonín 22), dcera Jana Svatka (Buková 5) a Marie roz. Berkovcové(?) z Vitína 8 – sestry Anežka * 1898, Augustina * 1900 – ověřit v matrice."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:

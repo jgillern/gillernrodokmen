@@ -53,7 +53,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   Buková: sňatek Beran × Slunečková 1935–37 a Sluneček × Svatková asi 1912–15 (Jan).
 - Sňatek Beran × Slunečková ve farnosti Pravonín není (Pravonín 5/1934–2/1937, Buková 1926–1945). Další: Pravonín 26 s. 104
   (Pravonín od 2/1937 – sňatek po narození Milady?); jinak jinde (Velká Jesenice, Praha, civilně).
-- Rodiče Ludmily: sňatek František Sluneček × Ludmila Svatková asi 1912–15 → Pravonín 26 oddíl Buková s. 197 (196); jejich
-  narození asi 1880–93 → Pravonín 22 (Index N 1852–1893) písm. S, pak Pravonín 21 (N 1852–1893). Starší knihy až do 1667. Sv. XXVI má oddíly po obcích (Pravonín ~75–155, Buková ~236–245,
+- Rodiče Ludmily (hypotéza z rejstříků, ř. 21–22 deníku): František Sluneček * 27. 11. 1888 (XXIII s. 298, Tisek?) a Ludmila
+  Svatková * 18. 10. 1893 Buková (dcera Jana Svatka, Buková 5, a Marie roz. Berkovcové? z Vitína 8). ČEKÁ na snímky od Jana:
+  Pravonín 26 s. 194 (sňatek asi 1913–14), Pravonín 21 s. 298 a s. ~262 (narození), Pravonín 26 s. 104 (Beran po 2/1937). Sv. XXVI má oddíly po obcích (Pravonín ~75–155, Buková ~236–245,
   Tisek ~246–290, Karlov ~300–315, Částrovice ~330–340).
 - Myslíkovi: Vladimír Myslík * 6. 5. 1930 Zdíkov (okr. Prachatice) – potřeba jména jeho rodičů.

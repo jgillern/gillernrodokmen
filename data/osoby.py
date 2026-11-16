@@ -35,6 +35,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+    dict(k=4, n="Jan Gillern", t="Snad bratr Augustýna (údaj od rodiny, nejistý). Olešovice u Kamenice (okr. Praha-východ); manželka Anna Gillernová. V knize Kamenice v proměnách věků (2010) se zmiňuje Jan G. a Jan G. ml.", r=[]),
 ]
 
 # Rozpory a otevřené otázky (na web do „Co hledáme“) jako dvojice (otázka, odpověď). Odpověď začněte

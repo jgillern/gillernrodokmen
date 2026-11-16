@@ -28,3 +28,5 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
   - manželka Milada Myslíková, rozená Beranová
   - matrika úmrtí Český Brod, svazek 18, rok 2024, strana 126, poř. č. 198 (čteno z hlavičky listu, část čísel jen částečně vidět)
 - Gillernové z Olešovic (u Kamenice, okr. Praha-východ) jsou podle Jana příbuzní (jak blízcy, zatím nevíme).
+- Doplnění (Jan, nejisté): Jan Gillern z Olešovic byl snad bratr dědy Augustýna, Anna Gillernová jeho manželka.
+- Mapa pražských hřbitovů (mapy.hrbitovy.cz, hledal Jan) jméno Gillern nenašla; hřbitov Hrnčíře v ní ve filtru hřbitovů není.

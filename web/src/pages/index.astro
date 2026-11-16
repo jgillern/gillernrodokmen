@@ -8,9 +8,11 @@ import { frontmatter as pribeh } from '../generated/pribeh.md';
 const lineList = Object.values(lines).sort((a, b) => a.k - b.k);
 const uvod = config.uvod ?? {};
 const cards = config.zajimavosti_na_uvodu ?? [];
+const osa = config.casova_osa ?? [];
 ---
 <Base title="" wide>
   <h1>{config.nazev || 'Rodokmen'}</h1>
+  {config.podtitul && <p class="lead">{config.podtitul} {osa.length > 0 && <a href="#cesta-casem">Projít cestu časem ↓</a>}</p>}
 
   {!!(uvod.nadpis || uvod.odstavce?.length) && (
     <section class="teaser">
@@ -52,6 +54,32 @@ const cards = config.zajimavosti_na_uvodu ?? [];
       </div>
       <p><a href="/zajimavosti/">Všechny zajímavosti →</a></p>
     </>
+  )}
+
+  {osa.length > 0 && (
+    <section id="cesta-casem" class="osa">
+      <h2>Cesta časem</h2>
+      {osa.map((o) => (
+        <div class="osa-obdobi">
+          <h3>{o.obdobi} <span class="muted">({o.roky})</span></h3>
+          {o.popis && <p class="small muted">{o.popis}</p>}
+          <ol>
+            {o.udalosti.map((u) => (
+              <li class={u.historie ? 'hist' : ''}>
+                <span class="rok">{u.rok}</span>
+                <div>
+                  {u.strana && <span class="tag">{u.strana}</span>}
+                  {u.historie && <span class="tag">dobová souvislost</span>}
+                  <strong>{u.osoba ? <a href={href.person(u.osoba)}>{u.nadpis}</a> : u.nadpis}</strong>
+                  <p class="small">{u.text}</p>
+                </div>
+              </li>
+            ))}
+          </ol>
+        </div>
+      ))}
+      {config.maPribeh && <p><a class="btn" href="/pribehy/">Celý příběh máminy rodiny →</a></p>}
+    </section>
   )}
 
   {site.places.length > 0 && (

@@ -22,9 +22,166 @@
   "foto_popis": ""
  },
  "pribeh": {
-  "menu": "",
+  "menu": "Příběh",
   "rod": 15,
-  "tlacitko": ""
+  "tlacitko": "Přečíst příběh máminy rodiny"
  },
- "zajimavosti_na_uvodu": []
+ "zajimavosti_na_uvodu": [
+  {
+   "nadpis": "Osm generací v jedné vesnici",
+   "text": "Píšové žili v Kondraci u Vlašimi od konce 17. století – nejdelší doložená linie rodokmenu."
+  },
+  {
+   "nadpis": "Svatba bratrance se sestřenicí",
+   "text": "Anežka Svatková si roku 1922 vzala bratrance a potřebovala k tomu povolení biskupa."
+  },
+  {
+   "nadpis": "Plnoletý až ve čtyřiadvaceti",
+   "text": "Aloise Slunečka musel soud prohlásit za zletilého, aby se mohl oženit."
+  },
+  {
+   "nadpis": "Ševci, hokynáři, kovář a cihlář",
+   "text": "Čím se předkové živili – od kondrackého kováře po cihelnu v Pravoníně."
+  }
+ ],
+ "podtitul": "14 generací, 49 předků doložených v matrikách a přes 300 let – od sedláka Jakuba Píši z Kondrace až k vám.",
+ "casova_osa": [
+  {
+   "obdobi": "Robota a panství",
+   "roky": "do 1847",
+   "popis": "Poddaní vlašimského a čechtického panství: robota, vrchnost rozhoduje o svatbách i stěhování.",
+   "udalosti": [
+    {
+     "rok": "před 1723",
+     "nadpis": "Jakub Píša, sedlák v Kondraci",
+     "text": "Nejstarší doložený předek; v lednu 1723 už „nebožtík“.",
+     "osoba": "jakub-pisa",
+     "strana": "mámina strana · Píšovi"
+    },
+    {
+     "rok": "1723",
+     "nadpis": "Svatba Víta Píši",
+     "text": "Rok poté, co šel za družbu na cizí svatbu, se žení sám – s Annou z Kondrace.",
+     "osoba": "vit-pisa",
+     "strana": "mámina strana · Píšovi"
+    },
+    {
+     "rok": "1764",
+     "nadpis": "Narodil se Martin Musil",
+     "text": "Syn sedláka Jiřího Musila z Jeníkova čp. 5, pokřtěn v Čechticích.",
+     "osoba": "martin-musil-1764",
+     "strana": "mámina strana · Musilovi"
+    },
+    {
+     "rok": "1781",
+     "nadpis": "Zrušení nevolnictví",
+     "text": "Patent Josefa II. z 1. listopadu 1781 – poddaní se smějí ženit a stěhovat bez svolení vrchnosti. Robota zůstává.",
+     "historie": true
+    },
+    {
+     "rok": "1781",
+     "nadpis": "Pracovitý mládenec a kovářova dcera",
+     "text": "Matěj Píša si 20. listopadu bere Annu Jahodovou, dceru kondrackého kováře.",
+     "osoba": "matej-pisa-1759",
+     "strana": "mámina strana · Píšovi"
+    },
+    {
+     "rok": "1817",
+     "nadpis": "Nevěsta z městečka",
+     "text": "Jan Musil z Jeníkova si bere měšťanskou dceru Annu Pešanovou z Křivsoudova.",
+     "osoba": "jan-musil-1794",
+     "strana": "mámina strana · Musilovi"
+    },
+    {
+     "rok": "1848",
+     "nadpis": "Svatba mistra ševcovského",
+     "text": "František Sluneček × Anna Musilová; nezletilé nevěstě svolil otec vlastnoručním podpisem.",
+     "osoba": "frantisek-slunecek-1823",
+     "strana": "mámina strana · Slunečkovi"
+    }
+   ]
+  },
+  {
+   "obdobi": "Svobodní sedláci a řemeslníci",
+   "roky": "1848–1913",
+   "popis": "Konec roboty, obecní samospráva, železnice; synové odcházejí za řemeslem a za nevěstami do okolních vsí.",
+   "udalosti": [
+    {
+     "rok": "1848",
+     "nadpis": "Zrušení roboty",
+     "text": "Revoluční rok 1848 končí s robotou a poddanstvím; sedláci se stávají vlastníky svých gruntů.",
+     "historie": true
+    },
+    {
+     "rok": "1853",
+     "nadpis": "Ženich z Kondrace v Tisku",
+     "text": "Jan Píša se přiženil na grunt čp. 17 v Tisku k Barboře Malé.",
+     "osoba": "jan-pisa-1831",
+     "strana": "mámina strana · Píšovi"
+    },
+    {
+     "rok": "1857",
+     "nadpis": "Narodila se Marie Bezkočková",
+     "text": "Dcera domkáře z Vitína u Sedlčan, pozdější žena krejčího Jana Svatka.",
+     "osoba": "marie-bezkockova-1857",
+     "strana": "mámina strana · Bezkočkovi"
+    },
+    {
+     "rok": "1887",
+     "nadpis": "Zletilý soudním výrokem",
+     "text": "Třiadvacetiletého zámečníka Aloise Slunečka musel soud prohlásit za plnoletého, aby si mohl vzít Josefu Píšovou.",
+     "osoba": "alois-slunecek-1863",
+     "strana": "mámina strana · Slunečkovi"
+    },
+    {
+     "rok": "1893",
+     "nadpis": "Narodila se Ludmila Svatková",
+     "text": "V Bukové čp. 5, druhá ze čtyř dcer krejčího Jana Svatka.",
+     "osoba": "ludmila-svatkova-1893",
+     "strana": "mámina strana · Svatkovi"
+    }
+   ]
+  },
+  {
+   "obdobi": "Války a republika",
+   "roky": "1914–1945",
+   "popis": "Světová válka, vznik Československa, cihelna v Pravoníně.",
+   "udalosti": [
+    {
+     "rok": "1914",
+     "nadpis": "Svatba šest týdnů po vypuknutí války",
+     "text": "Obuvník František Sluneček a Ludmila Svatková se 12. září berou v Pravoníně.",
+     "osoba": "frantisek-slunecek-1888",
+     "strana": "mámina strana · Slunečkovi"
+    },
+    {
+     "rok": "1916",
+     "nadpis": "Narodila se Ludmila Slunečková",
+     "text": "Prababička, 7. dubna v Bukové u Pravonína.",
+     "osoba": "ludmila-sluneckova-1916",
+     "strana": "mámina strana · Slunečkovi"
+    },
+    {
+     "rok": "1918",
+     "nadpis": "Vznik Československa",
+     "text": "28. října 1918 končí rakousko-uherská monarchie.",
+     "historie": true
+    },
+    {
+     "rok": "1930–1939",
+     "nadpis": "Cihelna Beranových",
+     "text": "V adresářích firem je v Pravoníně každý rok zapsaná „cihelna – Beran, Jos.“.",
+     "osoba": "josef-beran-1910",
+     "strana": "mámina strana · Beranovi"
+    },
+    {
+     "rok": "1937",
+     "nadpis": "Narodila se babička Milada",
+     "text": "V Pravoníně čp. 72, dcera Josefa Berana a Ludmily Slunečkové.",
+     "osoba": "milada-beranova-1937",
+     "strana": "mámina strana · Beranovi"
+    }
+   ]
+  }
+ ]
 }

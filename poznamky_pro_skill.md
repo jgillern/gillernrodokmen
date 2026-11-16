@@ -34,3 +34,7 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   („Zhoř – obec Čechtice – okres Benešov“) podle údaje ze zápisu („křestní list ze Zhoře“). Ve skillu zmínit.
 - SOA Třeboň (digi.ceskearchivy.cz): uživatel může stáhnout snímek jako PDF („Print to PDF“ z exportu) – hlavička obsahuje
   trvalý odkaz https://digi.ceskearchivy.cz/<id>/<snímek>, název knihy a číslo snímku. Číst přes pdftoppm -r 200.
+- Web: přidal jsem „Cestu časem“ na úvodní stránku (web/src/pages/index.astro + styly v global.css), data v data/web.json
+  pod klíčem `casova_osa` (období → události s rokem, nadpisem, textem, odkazem na osobu, štítkem strany/rodu, příznakem
+  „historie“ pro dobové souvislosti) a `podtitul` pod nadpisem. Uživatel to chtěl podle webu kolegy (stejný skill) –
+  stálo by za to mít to ve skillu jako standard, ideálně generované z osob/zápisů automaticky.

@@ -47,5 +47,19 @@
   "lat": 49.5878,
   "lon": 14.3627,
   "osm": "Vitín, Počepice, okres Příbram, Středočeský kraj, 262 53, Česko"
+ },
+ "Jeníkov": {
+  "re": "Jeníkov",
+  "dotaz": "Jeníkov, okres Benešov",
+  "lat": 49.6264,
+  "lon": 15.0001,
+  "osm": "Jeníkov, Čechtice, okres Benešov, Středočeský kraj, 257 65, Česko"
+ },
+ "Nechvalice": {
+  "re": "Nechval",
+  "dotaz": "Nechvalice, okres Příbram",
+  "lat": 49.5765,
+  "lon": 14.3966,
+  "osm": "Nechvalice, okres Příbram, Středočeský kraj, 262 54, Česko"
  }
 }

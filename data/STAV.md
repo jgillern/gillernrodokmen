@@ -57,7 +57,11 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   Ludmily Svatkové 18. 10. 1893 Buková 5 (Pravonín 21 s. 263). Rodiče: Alois Sluneček × Josefa Píšová(?) (Tisek 17 / Buková 8);
   Jan Svatek × Marie Bezkočková (Buková 5); prarodiče František Svátek ze Bzové 1 (okr. Mladá Vožice → SOA Třeboň),
   Jan Bezkočka z Vitína 8 (okr. Sedlčany) × Marie Zelenková z Nechvalic.
-- Další od Jana: Pravonín 21 s. 298 (narození Františka Slunečka 1888, Tisek); Pravonín 26 s. 104 (Beran × Slunečková po
+- DOLOŽENO: narození Františka Slunečka 27. 11. 1888 Tisek 17 (Pravonín 21 s. 298 = snímek 290); prarodiče František Sluneček
+  (obuvník, Jeníkov) × Anna Musilová; Jan Píša (rolník, Tisek 17) × Barbora Malá.
+- Odkazy: https://ebadatelna.soapraha.cz/d/<matrikaId>/<snímek>; Pravonín 26 = 15260, Pravonín 21 = 10033; Pravonín 24 a 22 – id zjistit.
+  Čísla snímků u ostatních zápisů jsou odvozená – ověřit.
+- Další od Jana: Pravonín 26 s. 104 (Beran × Slunečková po
   2/1937?); sňatek Jan Svatek × Marie Bezkočková asi 1878–80 (nejspíš ve Vitíně / farnost nevěsty, nebo Pravonín 26 Buková
   s. ~188–190); trvalé odkazy a čísla snímků pro citace. Sv. XXVI má oddíly po obcích (Pravonín ~75–155, Buková ~236–245,
   Tisek ~246–290, Karlov ~300–315, Částrovice ~330–340).

@@ -94,5 +94,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1888_slunecek_frantisek": {
+  "boxes": [
+   [
+    0.02,
+    0.615,
+    0.99,
+    0.775
+   ]
+  ],
+  "status": "ok",
+  "note": "František, 27. 11. 1888, Tisek č. 17"
+ },
+ "n_1887_sluneckova_marie": {
+  "boxes": [
+   [
+    0.02,
+    0.165,
+    0.99,
+    0.315
+   ]
+  ],
+  "status": "ok",
+  "note": "Marie, 12. 8. 1887, Tisek č. 17"
  }
 }

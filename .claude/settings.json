@@ -9,5 +9,11 @@
   },
   "enabledPlugins": {
     "rodokmen@rodokmen-skill": true
+  },
+  "permissions": {
+    "deny": [
+      "Bash(curl:*)",
+      "Bash(wget:*)"
+    ]
   }
 }

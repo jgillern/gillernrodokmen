@@ -103,5 +103,12 @@
   "lat": 49.6022,
   "lon": 14.404,
   "osm": "Rovina, Počepice, okres Příbram, Středočeský kraj, 262 52, Česko"
+ },
+ "Krasovice": {
+  "re": "Krasovic",
+  "dotaz": "Krasovice, Kondrac",
+  "lat": 49.6582,
+  "lon": 14.8962,
+  "osm": "Krasovice, Kondrac, okres Benešov, Středočeský kraj, 257 09, Česko"
  }
 }

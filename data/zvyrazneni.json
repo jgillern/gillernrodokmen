@@ -454,5 +454,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1750_pisa_hudkova": {
+  "boxes": [
+   [
+    0.0,
+    0.03,
+    1.0,
+    0.34
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

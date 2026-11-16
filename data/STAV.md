@@ -37,7 +37,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 Stav k 16. 11. 2026. Matriky SOA Praha (eBadatelna) čte Jan v prohlížeči a posílá snímky (+ číslo snímku / URL);
 SOA Zámrsk (ARON) Claude prohledá sám. Odkazy: https://ebadatelna.soapraha.cz/d/<matrikaId>/<snímek> –
 Pravonín 21 (N 1852–93) = 10033, Pravonín 22 (Index N 1852–93) = 10034, Pravonín 24 (Index N 1894–1949) = 10036,
-Pravonín 26 (O 1870–1949) = 15260, Pravonín 04 = 13037, Zhoř 07 = 9162, Zhoř 14 = 9169, Pravonín 05 = 13036, Pravonín 09 = 13049 (snímek ≈ strana − 59 v první části knihy). Oddíly knih po obcích viz research_log ř. 29.
+Pravonín 26 (O 1870–1949) = 15260, Pravonín 04 = 13037, Zhoř 07 = 9162, Zhoř 14 = 9169, Čechtice 04 = 4701, Pravonín 05 = 13036, Pravonín 09 = 13049 (snímek ≈ strana − 59 v první části knihy). Oddíly knih po obcích viz research_log ř. 29.
 
 **Doloženo z matrik:** Ludmila Svatková (* 1893 Buková 5) × František Sluneček (* 1888 Tisek 17), sňatek 1914; Alois Sluneček
 (* 1863 Nakvasovice) × Josefa Píšová (* 1865 Tisek 17), sňatek 1887; jejich rodiče: František Sluneček (obuvník, Jeníkov) × Anna

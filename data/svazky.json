@@ -92,5 +92,20 @@
   "svazek": "Zhoř 06, Z 1815–1878, fara Zhoř",
   "popis": "Oddíly po obcích: Zhoř a Jizbice 1–36, Jeníkov 37–104, Nakvasovice 159–187, Dobříkovice 213–232, Palčice a Hutě 249–271, Horní Lhota a Annina Ves 309–405, Jelenov 435–454, Čáslavsko 457–543, Nové Práchňany 577–612, index 613–663.",
   "url": "https://ebadatelna.soapraha.cz/pages/SearchMatrikaPage"
+ },
+ "krivsoudov_09": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna",
+  "svazek": "Křivsoudov 09, O 1784–1830 + index, fara Křivsoudov (Alberovice, Děkanovice, Jenišovice, Krčmy, Křivsoudov, Lhota Bubeneč, Němčice, Sedmpány, Strojetice)",
+  "popis": "Římskokatolická fara Křivsoudov, okr. Benešov. Oddíly po obcích (Křivsoudov – „Křiwsaudow Städtl“ – kolem pag. 1–30; Strojetice kolem pag. 80–90). Záhlaví tištěné německy, zápisy česky.",
+  "snimku": 115,
+  "url": "https://ebadatelna.soapraha.cz/pages/SearchMatrikaPage"
+ },
+ "zhor_01": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna",
+  "svazek": "Zhoř 01, N 1787–1815 + index, fara Zhoř (oddíl Jeníkov pag. 18–58)",
+  "popis": "Kniha pokřtěných; tištěný český formulář, stránkováno po listech (pag.).",
+  "url": "https://ebadatelna.soapraha.cz/pages/SearchMatrikaPage"
  }
 }

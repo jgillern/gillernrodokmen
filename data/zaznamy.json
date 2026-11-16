@@ -266,5 +266,27 @@
   "strana": "89 (Jeníkov)",
   "odkaz": "https://ebadatelna.soapraha.cz/pages/SearchMatrikaPage",
   "pozn": "Snímek poslal Jan Gillern; trvalý odkaz (matrikaId knihy Zhoř 06 a číslo snímku) doplnit."
+ },
+ {
+  "klic": "o_1817_musil_pesanova",
+  "druh": "O",
+  "datum": "9. 2. 1817",
+  "nazev": "Sňatek Jana Musila a Anny Pešanové, Křivsoudov",
+  "shrnuti": "9. 2. 1817, Křivsoudov č. 31: Jan, syn Martina Musila, půlníka z Jeníkova z č. 5 (?), 22 let (→ * asi 1794), přiženil se do č. 34 (?) – a Anna, dcera Josefa Pešana (?), ... z Křivsoudova z č. 31 (?), 20 let (→ * asi 1796). Oba katolíci, svobodní. Svědci Rudolf Košťál (?), František Kabeš (?) a Václav Polák (?), měšťané křivsoudovští. Oddával kurát František Kostka. Potvrzuje hypotézu: Jan Musil je Jan Křtitel * 31. 5. 1794 Jeníkov č. 5, syn Martina Musila a Magdaleny roz. Kubálkové (?).",
+  "svazek": "krivsoudov_09",
+  "strana": "25 (Křivsoudov)",
+  "odkaz": "https://ebadatelna.soapraha.cz/pages/SearchMatrikaPage",
+  "pozn": "Snímek poslal Jan Gillern; trvalý odkaz (matrikaId knihy Křivsoudov 09 a číslo snímku) doplnit. Řada slov (čísla domů, povolání, svědci) čtena nejistě – písmo je drobné a sken kontrastní."
+ },
+ {
+  "klic": "n_1794_musil_jan",
+  "druh": "N",
+  "datum": "31. 5. 1794",
+  "nazev": "Narození Jana Křtitele Musila, Jeníkov č. 5",
+  "shrnuti": "Jan Křtitel, 31. 5. 1794, Jeníkov č. 5 (fara Zhoř), syn Martina Musila, sedláka, a Magdaleny, dcery Martina Kubala (Kubálka?) a matky Barbory (?) … Kmotři Martin Kubík (?) a Dorota (?) …, vesničtí lidé z Jeníkova. Pozdější Jan Musil, půlník v Jeníkově č. 34 (sňatek 1817 v Křivsoudově, † 1869).",
+  "svazek": "zhor_01",
+  "strana": "25 (Jeníkov)",
+  "odkaz": "https://ebadatelna.soapraha.cz/pages/SearchMatrikaPage",
+  "pozn": "Snímek poslal Jan Gillern; trvalý odkaz doplnit. Rodina matky a kmotři čteni nejistě."
  }
 ]

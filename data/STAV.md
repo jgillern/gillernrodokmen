@@ -62,7 +62,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 - Odkazy: https://ebadatelna.soapraha.cz/d/<matrikaId>/<snímek>; Pravonín 26 = 15260, Pravonín 21 = 10033; Pravonín 24 a 22 – id zjistit.
   Čísla snímků u ostatních zápisů jsou odvozená – ověřit.
 - Pravonín 26 s. 104 přečtena (1937–38): Beran × Slunečková NENÍ. Č. 1/1936 = Tisek (Fiala × Píšová) – ne.
-  Zbývá č. 1/1937: oddíl Karhule (s. 243–262) nebo Částrovice/Koušovice (s. 275–279); jinak sňatek mimo farnost (zeptat se rodiny).
+  Karhule i Částrovice prověřeny (ř. 31) – sňatek ve farnosti Pravonín NENÍ. Hledat mimo farnost: Velká Jesenice (fara
+  ženicha), Praha, civilní sňatek – zeptat se rodiny (kde se brali, kde bydleli 1936).
   Oddíly knihy viz research_log ř. 29.
 - (staré) Další od Jana: Pravonín 26 s. 104 (Beran × Slunečková po
   2/1937?); sňatek Jan Svatek × Marie Bezkočková asi 1878–80 (nejspíš ve Vitíně / farnost nevěsty, nebo Pravonín 26 Buková

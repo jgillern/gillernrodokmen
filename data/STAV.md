@@ -41,7 +41,9 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   student „Gillern Augu…“ v Písku 1936). NEOVĚŘENO – chybí rok a místo narození dědy Augustýna; zeptat se rodiny.
 - Další kroky: matriky farností u Orlíku (Lavičky → fara Kostelec n. Vlt.? / Zbenice; Vorlík → Orlík n. Vlt.), SOA Praha a
   SOA Třeboň jen v prohlížeči; vyhledání hrobu Gillern na pražských hřbitovech (mapy.hrbitovy.cz) v prohlížeči.
-- Beranovi (matčina linie): Josef Beran * 3. 6. 1910 Velká Jesenice (okr. Náchod) – matrika N po 10.1906 v ARONu není;
+- Beranovi: V. Jesenice N 1863–1906 bez Beranů (ř. 33–34) → rodina tam přišla po 1906. Klíč: výpis z matriky N 1910
+  (narození Josefa Berana 3. 6. 1910) z matričního úřadu – Jan jako pravnuk. Sňatek ve farnosti Pravonín není.
+- (starší) Beranovi (matčina linie): Josef Beran * 3. 6. 1910 Velká Jesenice (okr. Náchod) – matrika N po 10.1906 v ARONu není;
   sňatek rodičů (Josef Beran × Emilie Kozáková) v matrice O Velká Jesenice 1871–1906 není. Další krok: narození Josefa Berana st.
   (asi 1875–1888) v matrice N Velká Jesenice 1880–1906 (apu 89ef95c3) – ale bez dalšího údaje hrozí záměna, nejdřív zjistit víc.
 - Slunečkovi: Ludmila Slunečková * 7. 4. 1916 Buková (část obce Pravonín, fara Pravonín, SOA Praha – jen ručně, Jan posílá snímky).

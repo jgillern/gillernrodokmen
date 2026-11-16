@@ -82,5 +82,12 @@
   "lat": 49.5961,
   "lon": 14.878,
   "osm": "Pravětice, Daměnice, Načeradec, okres Benešov, Středočeský kraj, 257 08, Česko"
+ },
+ "Křivsoudov": {
+  "re": "Křivsoud",
+  "dotaz": "Křivsoudov, Česko",
+  "lat": 49.633,
+  "lon": 15.0874,
+  "osm": "Křivsoudov, okres Benešov, Středočeský kraj, 257 66, Česko"
  }
 }

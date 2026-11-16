@@ -238,5 +238,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1853_sypes_musilova": {
+  "boxes": [
+   [
+    0.03,
+    0.52,
+    0.99,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

@@ -1,1 +1,44 @@
-{}
+{
+ "Buková": {
+  "re": "Bukov",
+  "dotaz": "Buková, Pravonín",
+  "lat": 49.6149,
+  "lon": 14.9506,
+  "osm": "Buková, Pravonín, okres Benešov, Středočeský kraj, 257 09, Česko"
+ },
+ "Tisek": {
+  "re": "Tisk",
+  "dotaz": "Tisek, Pravonín",
+  "lat": 49.6213,
+  "lon": 14.9561,
+  "osm": "Tisek, Pravonín, okres Benešov, Středočeský kraj, 257 09, Česko"
+ },
+ "Pravonín": {
+  "re": "Pravon",
+  "dotaz": "Pravonín, Česko",
+  "lat": 49.6356,
+  "lon": 14.9434,
+  "osm": "Pravonín, okres Benešov, Středočeský kraj, 257 09, Česko"
+ },
+ "Velká Jesenice": {
+  "re": "Jesenic",
+  "dotaz": "Velká Jesenice, Česko",
+  "lat": 50.3611,
+  "lon": 16.0376,
+  "osm": "Velká Jesenice, okres Náchod, Královéhradecký kraj, 552 24, Česko"
+ },
+ "Zdíkov": {
+  "re": "Zdíkov",
+  "dotaz": "Zdíkov, Česko",
+  "lat": 49.0846,
+  "lon": 13.6974,
+  "osm": "Zdíkov, okres Prachatice, Jihočeský kraj, Česko"
+ },
+ "Český Brod": {
+  "re": "Český Brod|Českém Brodě",
+  "dotaz": "Český Brod, Česko",
+  "lat": 50.0741,
+  "lon": 14.8606,
+  "osm": "Český Brod, okres Kolín, Středočeský kraj, Česko"
+ }
+}

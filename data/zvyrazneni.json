@@ -1,1 +1,26 @@
-{}
+{
+ "n_1893_svatkova_ludmila": {
+  "boxes": [
+   [
+    0.02,
+    0.68,
+    0.99,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": "Lidmila, 18. 10. 1893, Buková č. 5"
+ },
+ "o_1914_slunecek_svatkova": {
+  "boxes": [
+   [
+    0.08,
+    0.71,
+    0.93,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": "Sluneček × Svatková, 12. 9. 1914"
+ }
+}

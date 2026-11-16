@@ -274,5 +274,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1848_slunecek_musilova": {
+  "boxes": [
+   [
+    0.02,
+    0.13,
+    0.99,
+    0.285
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

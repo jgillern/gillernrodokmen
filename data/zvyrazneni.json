@@ -418,5 +418,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1781_pisa_jahodova": {
+  "boxes": [
+   [
+    0.0,
+    0.105,
+    1.0,
+    0.27
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

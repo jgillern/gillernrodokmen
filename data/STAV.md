@@ -49,7 +49,7 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | # | Linie | Co hledat | Kde | Kdo |
 |---|---|---|---|---|
 | 1 | Píšovi | HOTOVO: sňatek 22. 11. 1853 (Pravonín 09 s. 98); dál starší děti Jana a Barbory 1854–1862 (rejstřík Pravonín 22, písm. P) | Pravonín 22 / 21 | Jan |
-| 2 | Malí | HOTOVO: Barbora * 1833 Buková 12. Josefa * 1819 (s. 14) má JINOU matku (Marie, dcera Václava Halůžka? z Chmelné?) → Jan Malý asi 2× ženatý. Dál: úmrtí 1. manželky Marie Malé v Bukové 12 asi 1823–27 (Pravonín 11, Z 1806–35, a rejstřík Z Pravonín 20/23); narození Jana Malého asi 1785–1797 (Pravonín 14 Index N 1784–1805, písm. M; Pravonín 03); sňatek s Marií Benešovou asi 1824–27 (Načeradec – Pravětice) | Jan |
+| 2 | Malí | HOTOVO: Barbora * 1833 Buková 12 (Barbora * 1828 zemřela 1828). Jan Malý: nenarozen v N 1784–1805 (Pravonín 14) → zkusit Pravonín 13 (Index N 1709–1784) písm. M, roky ~1770–1784; úmrtí první manželky v rejstříku Z nenalezeno; úmrtí Jana Malého po 1865 (Pravonín 23/25, Tisek) – uvede věk | Jan |
 | 3 | Píšovi | narození Jana Píši (asi 1830–1838, Kondrac 25) | farnost Kondrac (SOA Praha, eBadatelna) | Jan |
 | 4 | Slunečkovi | narození Aloise Slunečka 17. 6. 1863 Nakvasovice; sňatek František Sluneček × Anna Musilová (Jeníkov) | farnost Zhoř (SOA Praha) | Jan |
 | 5 | Bezkočkovi | narození Marie Bezkočkové (asi 1855–1860, Vitín 8); sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | farnost Vitína (Počepice? – SOA Praha) | Jan |

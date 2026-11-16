@@ -52,7 +52,7 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | 2 | Malí | SLEPÝ KONEC (viz níže) | – | – |
 | 3 | Píšovi | narození Jana Píši (asi 1830–1838, Kondrac 25) | farnost Kondrac (SOA Praha, eBadatelna) | Jan |
 | 4 | Musilovi | UZAVŘENO u Jiřího Musila × Marie Magdaleny (viz slepé konce) | – | – |
-| 5 | Bezkočkovi | narození Marie Bezkočkové (asi 1855–1860, Vitín 8); sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | farnost Vitína (Počepice? – SOA Praha) | Jan |
+| 5 | Bezkočkovi | Rejstřík: Marie Bezkočková * 12. 7. 1857 Vitín 8 (fol. 545), sourozenci 1850–1859. Dál: zápis fol. 545 v Počepice 20 (N 1852–68); sňatek Jan Bezkočka × Marie Zelenková asi 1848–50 v Počepice 22 oddíl Vitín (část před 1858, kolem pag. 472) | Jan |
 | 6 | Svatkovi | narození Jana Svatka (asi 1850–1855, Bzová 1) | farnost Bzové u Mladé Vožice (SOA Třeboň, jen prohlížeč) | Jan |
 | 7 | Gillernovi | roky dědy Augustýna a jeho rodičů | náhrobek Praha-Hrnčíře / správa hřbitova MČ Praha-Šeberov | Jan / rodina |
 | 8 | Myslíkovi | jména rodičů Vladimíra Myslíka (* 1930 Zdíkov) | rodina; pak SOA Třeboň | Jan / rodina |

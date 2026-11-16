@@ -250,5 +250,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1823_slunecek_frantisek": {
+  "boxes": [
+   [
+    0.02,
+    0.15,
+    0.5,
+    0.285
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1826_musilova_anna": {
+  "boxes": [
+   [
+    0.02,
+    0.635,
+    0.5,
+    0.725
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

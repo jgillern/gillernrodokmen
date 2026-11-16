@@ -466,5 +466,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1723_pisa_mudrova": {
+  "boxes": [
+   [
+    0.0,
+    0.38,
+    1.0,
+    0.66
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

@@ -51,7 +51,7 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | 1 | Píšovi | HOTOVO: sňatek 22. 11. 1853 (Pravonín 09 s. 98); dál starší děti Jana a Barbory 1854–1862 (rejstřík Pravonín 22, písm. P) | Pravonín 22 / 21 | Jan |
 | 2 | Malí | SLEPÝ KONEC (viz níže) | – | – |
 | 3 | Píšovi | narození Jana Píši (asi 1830–1838, Kondrac 25) | farnost Kondrac (SOA Praha, eBadatelna) | Jan |
-| 4 | Musilovi / Pešanovi | HOTOVO: Jan Musil * 31. 5. 1794 Jeníkov 5 (syn Martina Musila × Magdaleny Kubalové?) × 9. 2. 1817 Křivsoudov Anna Pešanová (* asi 1796). Dál: narození Anny Pešanové asi 1795–97 → Křivsoudov 05 (N 1784–1802), oddíl Křivsoudov; sňatek Martin Musil × Magdalena asi 1785–93 → Zhoř 03 (O 1787–1815) Jeníkov | Jan |
+| 4 | Musilovi / Pešanovi | HOTOVO: Anna Pešanová * 9. 5. 1797 Křivsoudov 31 (Josef Pešan × Anna Mrátková?). Dál: sňatek Josef Pešan × Anna Mrátková asi 1790–96 → Křivsoudov 09 (O 1784–1830), oddíl Křivsoudov, začátek; sňatek Martin Musil × Magdalena Kubalová(?) asi 1785–93 → Zhoř 03 (O 1787–1815) Jeníkov | Jan |
 | 5 | Bezkočkovi | narození Marie Bezkočkové (asi 1855–1860, Vitín 8); sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | farnost Vitína (Počepice? – SOA Praha) | Jan |
 | 6 | Svatkovi | narození Jana Svatka (asi 1850–1855, Bzová 1) | farnost Bzové u Mladé Vožice (SOA Třeboň, jen prohlížeč) | Jan |
 | 7 | Gillernovi | roky dědy Augustýna a jeho rodičů | náhrobek Praha-Hrnčíře / správa hřbitova MČ Praha-Šeberov | Jan / rodina |

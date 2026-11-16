@@ -1,19 +1,30 @@
 {
- "nazev": "",
- "popis": "",
+ "nazev": "Rodokmen Jana Gillerna",
+ "popis": "Předci dohledaní v matrikách – první verze",
  "zapati": "Dohledáno v digitalizovaných matrikách státních oblastních archivů",
- "kontakt": {"jmeno": "", "email": ""},
+ "kontakt": {
+  "jmeno": "",
+  "email": ""
+ },
  "prihlaseni": {
   "uvod": "Tenhle web je jen pro rodinu a příbuzné.",
   "otazka": "",
   "odpoved": ""
  },
  "uvod": {
-  "nadpis": "",
-  "odstavce": [],
+  "nadpis": "Rodokmen – první verze",
+  "odstavce": [
+   "Tohle je první verze rodinného webu. Všechno, co je tu označené jako doložené, jsme přečetli přímo v naskenovaných farních matrikách; u každého zápisu najdete výřez z originálu, přepis a překlad.",
+   "Zatím je rozpletená jen jedna ze čtyř hlavních linií po prarodičích – linie babičky Milady Myslíkové, rozené Beranové (* 1937 Pravonín). Ta ale sahá přes Slunečkovy, Svatkovy, Píšovy, Musilovy a další rody z Pravonínska a Vlašimska až do konce 17. století.",
+   "Linie dědy Augustýna Gillerna, babičky Boženy a dědy Vladimíra Myslíka na doplnění teprve čekají – chybějí nám roky a místa narození, které matriky na internetu zatím neodhalí. V části „Co hledáme“ je přehled, co by pomohlo."
+  ],
   "foto": "",
   "foto_popis": ""
  },
- "pribeh": {"menu": "", "rod": 8, "tlacitko": ""},
+ "pribeh": {
+  "menu": "",
+  "rod": 15,
+  "tlacitko": ""
+ },
  "zajimavosti_na_uvodu": []
 }

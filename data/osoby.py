@@ -83,6 +83,8 @@ P = {
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
 # 8: ("Novákové", "Jedna věta, kdo to byli a odkud – ukáže se na webu u rodu."),
 LINES = {
+    14: ("Beranovi", "Rod babiččina otce Josefa Berana (* 1910 Velká Jesenice), majitele cihelny v Pravoníně. Starší generace zatím neznáme – matriky po roce 1906 nejsou online."),
+    15: ("Slunečkovi", "Rod babiččiny matky Ludmily Slunečkové (* 1916 Buková u Pravonína). Patří sem větve Slunečků, Svatků, Bezkočků, Píšů, Malých, Musilů, Kubálků a Pešanů z Pravonínska, Čechticka, Kondracka a Vlašimska – nejstarší doložený předek, Jakub Píša z Kondrace, zemřel před rokem 1723."),
 }
 
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.

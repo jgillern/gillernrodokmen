@@ -18,13 +18,13 @@
 # Neznámý otec nemanželského dítěte: dict(n="otec neuveden", st="unk", f=[], note="…")
 
 P = {
-    1: dict(n="Jan Gillern", y="", st="fam", sex="M", f=[], note="Žijící – údaje jen základní. Výchozí osoba rodokmenu."),
-    2: dict(n="Jiří Gillern", y="", st="fam", f=[], note="Otec Jana. Údaj od Jana Gillerna (16. 11. 2026); roky zatím neznámé."),
+    1: dict(n="Jan Gillern", y="* 1990", st="fam", sex="M", f=[], note="Žijící – údaje jen základní. Výchozí osoba rodokmenu."),
+    2: dict(n="Jiří Gillern", y="asi 1955 – asi 2015", st="fam", f=["* asi 1955 (snad Praha)", "telekomunikační technik", "† asi 2015"], note="Otec Jana. Údaje od Jana Gillerna (16. 11. 2026), roky i místo narození jen odhadem."),
     3: dict(n="Zuzana Myslíková", y="", st="fam", f=[], note="Matka Jana, provdaná Gillernová. Údaj od Jana Gillerna (16. 11. 2026)."),
     4: dict(n="Augustýn Gillern", y="", st="fam", f=[], note="Otec Jiřího. Údaj od Jana Gillerna (16. 11. 2026)."),
     5: dict(n="Božena (rodné příjmení?)", y="", st="fam", f=[], note="Matka Jiřího, provdaná Gillernová. Rodné příjmení zatím neznámé."),
     6: dict(n="Vladimír Myslík", y="", st="fam", f=[], note="Otec Zuzany. Údaj od Jana Gillerna (16. 11. 2026)."),
-    7: dict(n="Milada (rodné příjmení?)", y="", st="fam", f=[], note="Matka Zuzany, provdaná Myslíková. Rodné příjmení zatím neznámé."),
+    7: dict(n="Milada Beranová", y="* 1937", st="fam", f=["* 1937 Pravonín"], note="Matka Zuzany, provdaná Myslíková. Údaj od Jana Gillerna (16. 11. 2026); zda žije, zatím nevíme."),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:

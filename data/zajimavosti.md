@@ -8,7 +8,7 @@ Nejdelší doložená linie celého rodokmenu vede přes rod Píšů z Kondrace 
 
 ## Svatba bratrance se sestřenicí
 
-V srpnu 1922 se v Pravoníně vdávala [Anežka Svatková](/osoba/ludmila-svatkova-1893/), mladší sestra prababičky Ludmily, za Františka Kadocha, průvodčího vlaku z Levice na Slovensku. Byli to bratranec a sestřenice – jejich matky byly sestry Bezkočkovy (v matrice „Berkočkovy“) z Vitína. Na takový sňatek potřebovali zvláštní povolení (dispens) od biskupské konzistoře v Hradci Králové; farář ho poctivě poznamenal přímo do zápisu.
+V srpnu 1922 se v Pravoníně vdávala Anežka Svatková, mladší sestra prababičky [Ludmily](/osoba/ludmila-svatkova-1893/), za Františka Kadocha, průvodčího vlaku z Levice na Slovensku. Byli to bratranec a sestřenice – jejich matky byly sestry Bezkočkovy (v matrice „Berkočkovy“) z Vitína. Na takový sňatek potřebovali zvláštní povolení (dispens) od biskupské konzistoře v Hradci Králové; farář ho poctivě poznamenal přímo do zápisu.
 
 ## Když byla dospělost až ve čtyřiadvaceti
 

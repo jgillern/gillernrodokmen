@@ -36,5 +36,5 @@ Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matri
 
 ## Online, ale zatím neprohledané (pokračování v matrikách)
 
-- **Svatkovi:** Šebířov, oddíl Bzová, narození 1853–1855 a 1840–1848 – narození Jana Svatka (otec František, matka Barbora).
+- **Svatkovi:** Šebířov, oddíl Bzová, narození 1840–1848 – narození Jana Svatka (otec František, matka Barbora); 1849–1864 prohledáno.
 - **Malí, Pešanovi, Slunečkovi, Bezkočkovi:** podrobnosti v tabulce slepých konců (data/STAV.md).

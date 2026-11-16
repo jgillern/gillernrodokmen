@@ -75,5 +75,12 @@
   "lat": 49.6669,
   "lon": 14.884,
   "osm": "Kondrac, okres Benešov, Středočeský kraj, Česko"
+ },
+ "Pravětice": {
+  "re": "Pravětic",
+  "dotaz": "Pravětice, okres Benešov",
+  "lat": 49.5961,
+  "lon": 14.878,
+  "osm": "Pravětice, Daměnice, Načeradec, okres Benešov, Středočeský kraj, 257 08, Česko"
  }
 }

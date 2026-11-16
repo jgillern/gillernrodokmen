@@ -1,0 +1,5 @@
+# Nasazení z GitHubu: Netlify sestaví web ze složky web/ (data z data/ převede tools/export_web.py).
+[build]
+  base = "web"
+  command = "npm run data -- --nasazeni && npm run build"
+  publish = "dist"

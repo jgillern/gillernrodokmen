@@ -1,5 +1,6 @@
 # Nasazení na Netlify: `npm run nasadit` (viz reference/web.md ve skillu).
 [build]
+  command = "npm run data -- --nasazeni && npm run build"
   publish = "dist"
 
 [[headers]]

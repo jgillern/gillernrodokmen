@@ -51,7 +51,7 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | 1 | Píšovi | HOTOVO: sňatek 22. 11. 1853 (Pravonín 09 s. 98); dál starší děti Jana a Barbory 1854–1862 (rejstřík Pravonín 22, písm. P) | Pravonín 22 / 21 | Jan |
 | 2 | Malí | SLEPÝ KONEC (viz níže) | – | – |
 | 3 | Píšovi | narození Jana Píši (asi 1830–1838, Kondrac 25) | farnost Kondrac (SOA Praha, eBadatelna) | Jan |
-| 4 | Slunečkovi | narození Aloise Slunečka 17. 6. 1863 Nakvasovice; sňatek František Sluneček × Anna Musilová (Jeníkov) | farnost Zhoř (SOA Praha) | Jan |
+| 4 | Slunečkovi | narození Aloise 17. 6. 1863 Nakvasovice = matr. III s. 101 (asi Zhoř 07, oddíl Nakvasovice); pak sňatek František Sluneček × Anna Musilová asi 1850–1856 (Zhoř 04, O 1816–1877, rejstřík uvnitř knihy, písm. S) | farnost Zhoř (eBadatelna, lokalita „Zhoř – obec Čechtice“) | Jan |
 | 5 | Bezkočkovi | narození Marie Bezkočkové (asi 1855–1860, Vitín 8); sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | farnost Vitína (Počepice? – SOA Praha) | Jan |
 | 6 | Svatkovi | narození Jana Svatka (asi 1850–1855, Bzová 1) | farnost Bzové u Mladé Vožice (SOA Třeboň, jen prohlížeč) | Jan |
 | 7 | Gillernovi | roky dědy Augustýna a jeho rodičů | náhrobek Praha-Hrnčíře / správa hřbitova MČ Praha-Šeberov | Jan / rodina |

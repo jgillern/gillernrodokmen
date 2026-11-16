@@ -48,8 +48,8 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 ### Další postup (pořadí = doporučené)
 | # | Linie | Co hledat | Kde | Kdo |
 |---|---|---|---|---|
-| 1 | Píšovi / Malí | sňatek Jan Píša × Barbora Malá (asi 1858–1862, Tisek) | SOA Praha, Pravonín 06–09 (O 1709–1869) – oddíl Tisek | Jan – nejdřív seznam knih pro Tisek před 1870 |
-| 2 | Malí | narození Barbory Malé (asi 1835–1842, Tisek 17), pak sňatek Jan Malý × Marie Benešová(?) | Pravonín 01–05 (N 1709–1851), indexy 13–20 | Jan |
+| 1 | Píšovi / Malí | sňatek Jan Píša × Barbora Malá 22. 11. 1853 (z rejstříku) | Pravonín 09 (O 1842–1869), s. 98 | Jan |
+| 2 | Malí | narození Barbory Malé – asi 1833 Buková (s. 10), příp. 1828 (s. 4); pak sourozenci a sňatek Jan Malý × Marie Benešová(?) (ve farnosti Pravonín 1806–69 není) | Pravonín 05 (N 1825–1851), oddíl Buková | Jan |
 | 3 | Píšovi | narození Jana Píši (asi 1830–1838, Kondrac 25) | farnost Kondrac (SOA Praha, eBadatelna) | Jan |
 | 4 | Slunečkovi | narození Aloise Slunečka 17. 6. 1863 Nakvasovice; sňatek František Sluneček × Anna Musilová (Jeníkov) | farnost Zhoř (SOA Praha) | Jan |
 | 5 | Bezkočkovi | narození Marie Bezkočkové (asi 1855–1860, Vitín 8); sňatek Jan Svatek × Marie Bezkočková (asi 1878–80) | farnost Vitína (Počepice? – SOA Praha) | Jan |

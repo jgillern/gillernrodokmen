@@ -478,5 +478,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1875_svatek_bezkockova": {
+  "boxes": [
+   [
+    0.0,
+    0.85,
+    1.0,
+    0.97
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

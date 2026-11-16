@@ -22,5 +22,77 @@
   ],
   "status": "ok",
   "note": "Sluneček × Svatková, 12. 9. 1914"
+ },
+ "o_1905_simanek_svatkova": {
+  "boxes": [
+   [
+    0.08,
+    0.335,
+    0.93,
+    0.535
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "o_1922_kadoch_svatkova": {
+  "boxes": [
+   [
+    0.08,
+    0.635,
+    0.93,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "o_1924_kuklik_svatkova": {
+  "boxes": [
+   [
+    0.08,
+    0.405,
+    0.93,
+    0.645
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "o_1925_michalek_sluneckova": {
+  "boxes": [
+   [
+    0.08,
+    0.645,
+    0.93,
+    0.91
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "i_n_1915_slunecek_jaroslav": {
+  "boxes": [
+   [
+    0.48,
+    0.266,
+    0.85,
+    0.293
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "i_n_1927_sluneckova_zdenka": {
+  "boxes": [
+   [
+    0.12,
+    0.128,
+    0.49,
+    0.152
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

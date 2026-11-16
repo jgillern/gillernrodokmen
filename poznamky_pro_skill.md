@@ -27,3 +27,6 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - eBadatelna SOA Praha přes Playwright v cloudové relaci: úvodní stránka šla, ale vyhledávání ve formuláři zamítl klasifikátor
   oprávnění (auto mode, „Destructive or Unwanted Actions“) – zřejmě kvůli zákazu skriptů archivem. Ve skillu počítat s tím, že
   v cloudu SOA Praha čte uživatel sám a posílá screenshoty / odkazy na snímky.
+- Když uživatel listuje v eBadatelně sám: „strana“ v citacích (pag.) je ručně psané číslo v rohu knihy, ne číslo snímku
+  v prohlížeči – uživatele to mate. Ve skillu doporučit: vždy říct „číslo v horním rohu stránky“ + přibližný snímek
+  (z poměru: jeden snímek = dvoustrana, u pravonínských knih s jedním číslem na dvoustranu) a požádat o URL z adresního řádku.

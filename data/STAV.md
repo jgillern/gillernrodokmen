@@ -72,3 +72,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
   s. ~188–190); trvalé odkazy a čísla snímků pro citace. Sv. XXVI má oddíly po obcích (Pravonín ~75–155, Buková ~236–245,
   Tisek ~246–290, Karlov ~300–315, Částrovice ~330–340).
 - Myslíkovi: Vladimír Myslík * 6. 5. 1930 Zdíkov (okr. Prachatice) – potřeba jména jeho rodičů.
+
+## Slepé konce (kde jsme se zatím nepohnuli) – aktualizovat
+| Linie | Kde to stojí | Co jsme zkusili | Co by to mohlo rozlousknout |
+|---|---|---|---|
+| Beranovi | Josef Beran * 3. 6. 1910 V. Jesenice; rodiče Josef Beran × Emilie Kozáková | sňatek Josef × Ludmila v celé farnosti Pravonín 1934–38 (ne); V. Jesenice N 1863–1906 B a K (žádný Beran ani Emilie Kozáková); O 1871–1906 B (ne) | výpis N 1910 z matričního úřadu (Jan jako pravnuk); Pravonín 25/27 – úmrtí Josefa st. nebo Emilie v Pravoníně před 1949 (rejstřík Z, písm. B); Pravonín 24 rejstřík N písm. B – mladší sourozenci Josefa narození v Pravoníně (kdy rodina přišla); Adresář RČS 1920–1929 (od kdy cihelna) |
+| Gillernovi | děda Augustýn – bez roku a místa narození | Kramerius, policejní přihlášky, mapa hrobů SPH (Hrnčíře tam nejsou) | náhrobek v Hrnčířích / správa hřbitova MČ Praha-Šeberov; rodinné doklady |
+| Myslíkovi | Vladimír Myslík * 6. 5. 1930 Zdíkov | – | jména jeho rodičů od rodiny; Zdíkov = SOA Třeboň (jen prohlížeč) |

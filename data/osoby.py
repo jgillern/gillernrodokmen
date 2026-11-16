@@ -70,6 +70,9 @@ SIDE = [
 # „Vyřešeno: …“ (na webu se skryje), „Hypotéza: …“ nebo „Otevřené: …“. Jde na web – nic citlivého.
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
+    ("Kde a kdy se brali Josef Beran a Ludmila Slunečková (rodiče Milady, * 1937)?", "Otevřené: ve farnosti Pravonín (všechny obce) 1934–1938 sňatek není. Možná jinde (Praha, místo práce) nebo jen na úřadě. Pomohl by oddací list v rodině."),
+    ("Odkud pocházeli Josef Beran st. a Emilie Kozáková?", "Otevřené: ve farnosti Velká Jesenice se v letech 1863–1906 nenarodil žádný Beran ani Emilie Kozáková; do Velké Jesenice přišli asi kolem 1906–1910. Od roku 1930 měl Josef Beran cihelnu v Pravoníně. Klíčový je zápis o narození Josefa ml. (3. 6. 1910), který je zatím jen na matričním úřadě, a případná úmrtí rodičů v Pravoníně."),
+    ("Je děda Augustýn Gillern potomkem lesníků z Gillernů od Orlíka?", "Hypotéza: kolem 1890 sloužili na schwarzenberském panství Orlík lesníci Augustin, Čeněk a Vincenc z Gillernů; jméno Augustin se v rodině opakuje. Neověřeno – chybí roky a místo narození dědy."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):

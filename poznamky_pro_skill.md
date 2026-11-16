@@ -24,3 +24,6 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   stará adresa 212.47.2.130:8080/mpo_sphw nefunguje. Pro skill: hroby v Praze jen přes prohlížeč.
 - Doplnění: i s popisným User-Agentem (-A) Wikipedie vrátila 429 hned na první dotaz po vypršení stopky → spíš přiškrcená
   sdílená IP cloudového prostředí než UA. V cloudu Wikipedii raději nechat přečíst uživatele / vložit text do chatu.
+- eBadatelna SOA Praha přes Playwright v cloudové relaci: úvodní stránka šla, ale vyhledávání ve formuláři zamítl klasifikátor
+  oprávnění (auto mode, „Destructive or Unwanted Actions“) – zřejmě kvůli zákazu skriptů archivem. Ve skillu počítat s tím, že
+  v cloudu SOA Praha čte uživatel sám a posílá screenshoty / odkazy na snímky.

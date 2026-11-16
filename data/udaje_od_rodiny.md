@@ -37,3 +37,4 @@ Vydal MNV Pravonín (okr. Vlašim) 13. 11. 1952 podle rodné matriky řím.-kat.
 - Milada Beranová, * 1937 Pravonín čp. 72 (přesné datum v dokladu), ženské pohlaví.
 - Otec: Josef Beran, * 3. 6. 1910 Velká Jesenice, majitel cihelny, Pravonín čp. 72; syn Josefa Berana a Emilie roz. Kozákové.
 - Matka: Ludmila Slunečková, * 7. 4. 1916 Buková (která Buková – neurčeno); dcera Františka Slunečka a Ludmily roz. Svatkové.
+- Buková, kde se narodila Ludmila Slunečková (1916), je podle Jana část obce Pravonín.

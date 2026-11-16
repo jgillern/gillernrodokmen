@@ -18,3 +18,10 @@ Jan jako syn / vnuk má nárok na výpisy i u zápisů mladších než zákonné
 - „Kamenice v proměnách věků“ (2010), s. 251–292, 348–351, 384, 402–404: Gillernové z Olešovic (Jan, Jan ml., Pavel, Anna).
 - „Výroční zpráva obecních vyšších reálných škol v Písku“ za 1935/36: student „Gillern Augu…“ – není to děda Augustýn?
 - „Seznam udělených čs. autorských osvědčení a patentů“ (1989): Augustin Gillern (spoluautor Kadlec).
+
+## Beranovi a Slunečkovi – Pravonín (okr. Benešov), SOA Praha eBadatelna – jen ručně v prohlížeči
+Portál: https://ebadatelna.soapraha.cz → Matriky → „v lokalitách“ → napsat Buková / Pravonín, vybrat okres Benešov.
+1. Narození Ludmily Slunečkové 7. 4. 1916, Buková (fara Pravonín) – matrika narozených s rokem 1916.
+2. Sňatek Josef Beran × Ludmila Slunečková – asi 1935–1936 v Pravoníně (Milada se narodila 3/1937) – matrika oddaných.
+3. Až bude 1. a 2.: narození Františka Slunečka a Ludmily Svatkové, sňatek Josef Beran st. × Emilie Kozáková.
+Stačí poslat odkaz na snímek nebo screenshot – přečtu, přepíšu a dohledám dál.

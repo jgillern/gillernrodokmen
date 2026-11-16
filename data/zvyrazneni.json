@@ -370,5 +370,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1857_bezkockova_marie": {
+  "boxes": [
+   [
+    0.04,
+    0.735,
+    0.99,
+    0.8
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

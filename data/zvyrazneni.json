@@ -958,5 +958,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1862_richtr_kyptova": {
+  "boxes": [
+   [
+    0.0,
+    0.51,
+    1.0,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

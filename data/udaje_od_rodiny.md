@@ -77,3 +77,16 @@ Vydal MNV Pravonín (okr. Vlašim) 13. 11. 1952 podle rodné matriky řím.-kat.
   konstruktér v důchodu, ženatý, bydliště Praha 4-Kunratice; * 10. 2. 1924 Osov, okr. Beroun; manželka Božena Gillernová
   roz. Richtrová; rodiče Jan Gillern a Julie roz. Hřídelová; kremace Praha 10-Vinohrady 24. 4. 1989.
   (Místo úmrtí = nemocnice → na mapu nedáváme; adresu bydliště na web nedáváme.)
+
+## 17. 11. 2026 – Křestní list dědy Augustina (foto od Jana; originál jen lokálně)
+Křestní list, arcidiecéze Pražská, vikariát Hořovický, fara Osov; matrika křestní kniha XV, fol. 159, č. 7; vydal farář Václav Synek
+na farním úřadě v Osově 13. 2. 1930 (č. exh. 76).
+- Narozen 10. 2. 1924, pokřtěn 21. 2. 1924 (křtil Václav Synek, farář): **Augustin František Jan Křt. z Gillernů**, ř.-kat.,
+  mužské, manželské. Místo narození Vosov (= Osov) č. 55, okr. soud a úřad Hořovice. Porodní asistentka Otilie Hrubá, ak. (?), z Osova.
+- **Otec:** Jan z Gillernů, hospodářský kontrolor ve Vosově č. 55, narozený v Bohosticích (?) č. 33, okres Příbram [jméno obce
+  v přehybu, čteno „…hosticích“], manželský syn **Augustina z Gillernů, nadlesního ve Vrábsku č. 1 (u Čimelic)**, a **Marie roz. S…(?)
+  z Písku** [příjmení v přehybu nečitelné].
+- **Matka:** Julie rozená Hřídelová z Horosedel č. 16, okres Mirovice – Písek, manželská dcera **Františka Hřídela**, rolníka
+  v Horosedlech č. 16, a **Josefy rozené Štětinové** z Horosedel č. 8.
+- **Kmotři:** Augustin z Gillernů, nadlesní na Vrábsku č. 1, a Marie z Gillernů, jeho manželka.
+- Prosba na Jana: vyfotit přehyb (řádky o otci) zblízka, šikmo proti světlu bez odlesku – kvůli obci narození Jana a příjmení babičky Marie.

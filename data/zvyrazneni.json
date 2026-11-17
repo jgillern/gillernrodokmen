@@ -934,5 +934,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1844_pigl_sedinova": {
+  "boxes": [
+   [
+    0.0,
+    0.1,
+    1.0,
+    0.32
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

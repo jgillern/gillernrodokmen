@@ -8,7 +8,7 @@ Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matri
 |---|---|
 | Gillernovi | data úmrtí pradědečka Jana Gillerna a prababičky Julie – náhrobek v Praze-Hrnčířích (správa hřbitova MČ Praha-Šeberov); úmrtní list táty Jiřího; doklady Jana Gillerna (domovský list, vysvědčení, pracovní knížka) |
 | babička Božena | její rodné příjmení, rok a místo narození |
-| Myslíkovi | jména rodičů dědy Vladimíra (* 1930 Zdíkov) |
+| Myslíkovi | rodné příjmení prababičky Františky Myslíkové (* asi 1892, † 1969 Masákova Lhota) a kdy se brala s Ludvíkem |
 | Beranovi | odkud přišli pradědeček Josef Beran st. a Emilie Kozáková, kde jsou pohřbeni, kde se brali Josef ml. a Ludmila Slunečková; kdo byl Emil Beran (v Pravoníně 1937–38) |
 
 ## Matriční úřady (zápisy, které ještě nejsou v archivu)
@@ -29,6 +29,12 @@ Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matri
   kteří se přistěhovali asi 1906–1910; kniha uvádí datum a místo narození a domovskou obec. Případně Matrika domovského práva
   1900–1948 (inv. č. 4). Dotaz e-mailem, prosba o kopii zápisu.
 - **Sčítání lidu 1921 pro Pravonín** – zkusit v eBadatelně v sekci Archiválie; uvádí u každého data a místa narození.
+
+## Gillernové – příbuzní a dějiny rodu
+
+- Rodokmen, o kterém v roce 1978 psal Karel Vyšín, měl pan Bedřich Gillern (* 1928, Dvůr Králové) – mohl se zachovat u rodiny z Olešovic.
+- K. F. von Frank: Standeserhebungen und Gnadenakte, sv. II, s. 91 (Národní knihovna) – šlechtické listy Gillerů / Gillernů.
+- Matriky Lis (?) u Blatné 1894 (narození JUDr. Bedřicha, syna Čeňka Gillerna) – pro propojení Čeňka a Augustina.
 
 ## Knihy jen ve studovně Národní knihovny (Gillernové)
 

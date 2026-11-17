@@ -37,6 +37,8 @@ P = {
     21: dict(n="Božena Otradovcová", y="", st="fam", f=[], note="Matka Josefa Richtra. Jen jméno z rodného listu vnučky Boženy (1929/1954)."),
     22: dict(n="Jan Pigl", y="", st="fam", f=[], note="Otec Josefy Piglové. Jen jméno z rodného listu vnučky Boženy (1929/1954)."),
     23: dict(n="Barbora Doubková", y="", st="fam", f=[], note="Matka Josefy Piglové. Jen jméno z rodného listu vnučky Boženy (1929/1954)."),
+    12: dict(n="Ludvík Myslík", y="", st="fam", f=["Masákova Lhota u Zdíkova (1969)"], note="Otec Vladimíra Myslíka. Parte manželky Františky (1969) – rodinné doklady, foto od Jana Gillerna 17. 11. 2026; synové Ludvík a Vladimír."),
+    13: dict(n="Františka", y="asi 1892–1969", st="fam", f=["* asi 1891/1892", "† 18. 3. 1969 Masákova Lhota (77 let)", "pohřbena 21. 3. 1969 na hřbitově ve Zdíkovci"], note="Matka Vladimíra Myslíka, provdaná Myslíková; rodné příjmení zatím neznáme. Parte (Masákova Lhota 19. 3. 1969) – rodinné doklady, foto od Jana Gillerna 17. 11. 2026. Měla bratry a sestry."),
     14: dict(n="Josef Beran", y="1910–1975", st="fam", f=["* 3. 6. 1910 Velká Jesenice", "majitel cihelny v Pravoníně čp. 72 (1937)", "† 22. 8. 1975 Buková (65 let)", "pohřben v rodinném hrobě v Pravoníně"], note="Otec Milady. Rodný list Milady Beranové (MNV Pravonín 1952, podle matriky Pravonín sv. XXVI s. 155), foto od Jana Gillerna 16. 11. 2026. Parte z rodinných dokladů (foto od Jana, 17. 11. 2026)."),
     15: dict(n="Ludmila Slunečková", y="1916–2003", st="fam", f=["* 7. 4. 1916 Buková", "† 30. 7. 2003 Buková (87 let)", "rozloučení v kostele sv. Jana Křtitele v Pravoníně"], note="Matka Milady. Která Buková, zatím neurčeno. Rodný list Milady Beranové (MNV Pravonín 1952, podle matriky Pravonín sv. XXVI s. 155), foto od Jana Gillerna 16. 11. 2026. Parte z rodinných dokladů (foto od Jana, 17. 11. 2026). Děti podle parte: Milada, Ludmila, Růžena, Josef, Zdeněk, Pavel."),
     28: dict(n="Josef Beran", y="", st="fam", f=[], note="Otec Josefa Berana (* 1910). Jen jméno z rodného listu vnučky Milady (1952)."),
@@ -99,6 +101,7 @@ LINES = {
     9: ("Hřídelovi", "Rod dědovy matky Julie Hřídelové (* 1897 Horosedly u Mirovic), dcery rolníka Františka Hřídela a Josefy Štětinové z Horosedel."),
     10: ("Richtrovi", "Rod babiččina otce Josefa Richtra (* 1899 Mezno), železničáře z Kolovrat."),
     11: ("Piglovi", "Rod babiččiny matky Josefy Piglové (* 1901 Mezno)."),
+    12: ("Myslíkovi", "Rod dědy Vladimíra Myslíka (* 1930 Zdíkov) – jeho rodiče Ludvík a Františka žili v Masákově Lhotě u Zdíkova na Šumavě."),
     14: ("Beranovi", "Rod babiččina otce Josefa Berana (* 1910 Velká Jesenice), majitele cihelny v Pravoníně. Starší generace zatím neznáme – matriky po roce 1906 nejsou online."),
     15: ("Slunečkovi", "Rod babiččiny matky Ludmily Slunečkové (* 1916 Buková u Pravonína). Patří sem větve Slunečků, Svatků, Bezkočků, Píšů, Malých, Musilů, Kubálků a Pešanů z Pravonínska, Čechticka, Kondracka a Vlašimska – nejstarší doložený předek, Jakub Píša z Kondrace, zemřel před rokem 1723."),
 }
@@ -137,6 +140,14 @@ ISSUES = [
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):
 # dict(rod=8, nadpis="Hypotéza: Novákové z Lhoty", text="…", polozky=[("Jan Novák", "kmotr 1681…")], zaznamy=["klic"])
 HYPOTEZY = [
+    dict(rod=8, nadpis="Šlechtický rod z Gillernů a příbuzní lesníci", text="Dopis rodového badatele Karla Vyšína Janu Gillernovi z Olešovic (1978) shrnuje dějiny rodu podle K. F. von Franka (Standeserhebungen und Gnadenakte, sv. II, s. 91) a L. Hosáka (Místopis země moravskoslezské, s. 398). Rod pocházel z „Gillerů“, kteří se po povýšení psali „von Gillern“; v 18. století byli svobodnými pány a drželi panství Koryčany na Moravě. Jak se k nim napojují lesníci z Gillernů od Orlíka, zatím nevíme. Ve stejné době jako náš Augustin sloužil jako nadlesní i Čeněk Gillern – nejspíš jeho bratr; jeho syn JUDr. Bedřich se narodil roku 1894 jako náš pradědeček Jan.", polozky=[
+        ("Matouš Giller", "český erbovní list „von Lilienfeld“, Vídeň 10. 4. 1568"),
+        ("František Mikuláš Giller", "major pevnosti Cheb, rytířský stav, 7. 2. 1703"),
+        ("Jan Karel Josef Giller", "sekretář a rada knížat z Lichtenštejna, potvrzení šlechtictví a polepšení erbu, 25. 6. 1721"),
+        ("Karel Josef von Gillern", "rytířský stav „Edler Herr von Gillern“ 4. 4. 1724, dvorní rada a císařský rada 17. 3. 1726, svobodný pán 21. 4. 1727; roku 1742 koupil panství Koryčany (okr. Kyjov)"),
+        ("Kristián Matyáš Antonín von Gillern", "podplukovník, rytířský stav „von Gillern“ a český inkolát 27. a 29. 3. 1764, svobodný pán 21. 6. 1766; 1793 odkázal Koryčany dceři Marii Josefě, provdané Münch-Bellinghausen"),
+        ("Čeněk Gillern", "nadlesní v Kostelci nad Orlicí, manželka Josefína Bohdanecká; synové JUDr. Bedřich (* 14. 4. 1894 Lis (?), okr. Blatná, † 8. 6. 1970) a JUDr. Karel (pohřben v Čimelicích) – nejspíš bratr našeho Augustina z Gillernů"),
+    ], zaznamy=[]),
 ]
 
 # Předek v rodokmenu vícekrát (příbuzní rodiče): {alias: hlavní číslo}, např. {350: 140}

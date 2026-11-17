@@ -90,3 +90,26 @@ na farním úřadě v Osově 13. 2. 1930 (č. exh. 76).
   v Horosedlech č. 16, a **Josefy rozené Štětinové** z Horosedel č. 8.
 - **Kmotři:** Augustin z Gillernů, nadlesní na Vrábsku č. 1, a Marie z Gillernů, jeho manželka.
 - Prosba na Jana: vyfotit přehyb (řádky o otci) zblízka, šikmo proti světlu bez odlesku – kvůli obci narození Jana a příjmení babičky Marie.
+
+## 17. 11. 2026 – Dopis Karla Vyšína (1978) a parte Františky Myslíkové (1969) (foto od Jana; originály jen lokálně)
+- **Dopis Karla Vyšína** (Davle č. 174, 18. 9. 1978) panu Janu Gillernovi, Olešovice 3 (251 68 Štiřín) – „dodatkem k naší rozmluvě“:
+  - K. F. von Frank, *Standeserhebungen und Gnadenakte*, sv. II (1970), s. 91: Giller Mathaeus, böhm. Wappenbrief „von Liliefeld“
+    /Lilienfeld/, Wien 10. 4. 1568 (Saalbuch 287, p. 324); Giller Franz Niclas, Platz-Major der Grenzfestung Eger, Ritterstand 7. 2. 1703;
+    Giller Johann Carl Joseph, fstl. Liechtensteinscher Secretär und Rat, Adelsbestätigung, Wappenbesserung 25. 6. 1721; Giller Carl Joseph
+    von, Ritterstand „Edler Herr von Gillern“ 4. 4. 1724; Giller Christian Matthias Anton von, Obstl., Ritterstand „von Gillern“ 27. 3. 1764,
+    Incolat im Ritterstand für Böhmen 29. 3. 1764; Gillern Carl Josef von, fstl. Liechtenstein. Hofrat, „Edler Herr von Gillern, Ritter“,
+    kaiserlicher Rath, Wappenbesserung 17. 3. 1726; Gillern Carl Joseph Edler Herr von, Hofkammerrat, Freiherrenstand 21. 4. 1727;
+    Gillern Christian Matthias Anton von, Obstl., Freiherrenstand 21. 6. 1766. (Kniha: Degener & Co., Neustadt/Aisch.)
+  - L. Hosák, *Místopis země moravskoslezské*, s. 398: panství Koryčany (okr. Kyjov) – 1742 prodal Antonín Emerich Horecký
+    sv. p. z Horky za 164 000 zl. Karlu Josefovi sv. p. Gillern; Kristián sv. p. Gillern odkázal 1793 Koryčany dceři Marii Josefě,
+    provd. sv. paní Münch-Bellinghausen; 1826 po třetinách jejím dětem Konstantinovi, Josefovi a Marii; 1846 koupil Salomon Mayer
+    sv. p. Rothschild za 775 000 zl. Pilnáček (Staromoravští rodové) heslo Gillern nemá.
+  - Bedřich Gillern (* 21. 10. 1928 Hradec Králové), Dvůr Králové, ženatý, bezdětný. Jeho otec JUDr. Bedřich Gillern * 14. 4. 1894
+    Lis (?), okr. Blatná, † (rukou připsáno 8. 6.) 1970, popel v hrobce rodu Vejšických; manželka Helena roz. Vejšická (Vysoké Mýto).
+    Bratr JUDr. Karel Gillern, * Lis, okr. Blatná, † Mariánské Lázně, pohřben Čimelice; manželka Ludmila roz. Zahoříková, † Cheb.
+    Otec obou: Čeněk Gillern, nadlesní v Kostelci nad Orlicí, manželka Josefína Bohdanecká.
+  - Spolupracovník Ing. Mojmír Chromý (Benešov). Vyšín radí vyžádat si rodokmen od pana Bedřicha.
+  - Pozn.: adresát Jan Gillern z Olešovic je ten „Jan Gillern z Olešovic“, kterého rodina považuje za bratra dědy Augustina.
+- **Parte Františky Myslíkové** († 18. 3. 1969 po těžké nemoci, 77 let; pohřeb pátek 21. 3. 1969 z domu smutku v Masákově Lhotě
+  na hřbitov ve Zdíkovci; „V Masákově Lhotě 19. 3. 1969“, tisk Stráž 109). Pozůstalí: manžel Ludvík Myslík; synové Ludvík a Vladimír;
+  snachy Bohumila a Milada; vnoučata Vilém, Milada, Zuzana; bratři a sestry. → rodiče dědy Vladimíra: **Ludvík Myslík × Františka**.

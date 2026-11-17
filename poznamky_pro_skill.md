@@ -53,3 +53,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - **Netlify + base = "web": všechna nasazení „Canceled“.** Netlify u nastaveného base directory sestavení přeskočí, když se
   v base (web/) nic nezměnilo – změny dat v data/ tak na web nikdy nedojdou. Oprava: v netlify.toml (kořen i web/) `ignore = "exit 1"`.
   Do skillu přidat do výchozí šablony netlify.toml.
+
+- **Čtení písma – dlouhé „ſ“ a „u“ bez háčku (17. 11. 2026):** v Těchnicích 1894 jsem „Písku“ četl jako „Šitkn/Štěkni“ (ſ vypadá jako t, u bez obloučku jako n) a „Aloisie“ jako „Marie“ (velké A jako M). Do skillu: u nečitelného místa nejdřív zkusit obce, které už známe z jiných dokladů (tady „z Písku“ z křestního listu 1924), a porovnat velká písmena s jinými slovy téhož písaře.

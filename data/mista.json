@@ -264,5 +264,12 @@
   "lat": 49.4726,
   "lon": 14.0919,
   "osm": "Čimelice, okres Písek, Jihočeský kraj, 398 04, Česko"
+ },
+ "Písek": {
+  "re": "Písk|Písek",
+  "dotaz": "Písek, okres Písek",
+  "lat": 49.3088,
+  "lon": 14.1477,
+  "osm": "Písek, okres Písek, Jihočeský kraj, Česko"
  }
 }

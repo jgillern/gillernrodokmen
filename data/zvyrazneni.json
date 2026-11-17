@@ -538,5 +538,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1892_sustr_volfova": {
+  "boxes": [
+   [
+    0.0,
+    0.472,
+    1.0,
+    0.738
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

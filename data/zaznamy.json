@@ -487,7 +487,7 @@
   "druh": "O",
   "datum": "19. 1. 1892",
   "nazev": "Sňatek Josefa Šustra a Františky Volfové, Zdíkovec (Masákova Lhota)",
-  "shrnuti": "19. 1. 1892, Zdíkovec (oddával kaplan Ant. Brandeis): Josef Šustr (Šuster), zedník z Masákovy Lhoty č. 18, 23 ¾ roku, syn Tomáše Šustra, chalupníka ze Lhoty č. 18, a Františky roz. Vaňkové ze Zdíkova – a Františka Volfová (Wolfová), 22 ½ roku, z Masákovy Lhoty č. 79 (?), dcera Pavla Volfa, domkáře ze Lhoty č. 79 (?), a Františky roz. Sovové ze Lhoty č. 79 (?). Nezletilé nevěstě svolil otec; nezletilý osiřelý ženich dostal svolení poručenského soudu ve Vimperku. Svědci František Fuchs, rolník ze Lhoty, a Franz Schuster (František Šustr), domkář z Masákovy Lhoty.",
+  "shrnuti": "19. 1. 1892, Zdíkovec (oddával kaplan Ant. Brandeis): Josef Šustr (Šuster), zedník z Masákovy Lhoty č. 18, 23 ¾ roku, syn Tomáše Šustra, chalupníka ze Lhoty č. 18, a Františky roz. Vaňkové ze Zdíkova – a Františka Volfová (Wolfová), 22 ½ roku, z Masákovy Lhoty č. 79 (?), dcera Václava Volfa, domkáře ze Lhoty č. 79 (?), a Františky roz. Sovové ze Lhoty č. 79 (?). Nezletilé nevěstě svolil otec; nezletilý osiřelý ženich dostal svolení poručenského soudu ve Vimperku. Svědci František Fuchs, rolník ze Lhoty, a Franz Schuster (František Šustr), domkář z Masákovy Lhoty.",
   "svazek": "zdikovec_24",
   "strana": "401–402, č. 4",
   "odkaz": "https://digi.ceskearchivy.cz/8796/217"
@@ -521,5 +521,15 @@
   "svazek": "zdikovec_24",
   "strana": "17–18",
   "odkaz": "https://digi.ceskearchivy.cz/8796/12"
+ },
+ {
+  "klic": "o_1869_volf_sovova",
+  "druh": "O",
+  "datum": "23. 11. 1869",
+  "nazev": "Sňatek Václava Volfa a Františky Sovové, Zdíkovec (Masákova Lhota)",
+  "shrnuti": "23. 11. 1869, Zdíkovec (oddával farář P. Tomáš Zlábek): Václav Volf, domkář z Masákovy Lhoty č. 79, * 25. 9. 1847, 22 let, syn Tomáše Volfa, domkáře tamtéž, a Kateřiny roz. Sovové z Masákovy Lhoty č. 54 – a Františka Sovová z Masákovy Lhoty č. 5, * 30. 12. 1848, 20 let, dcera Václava Sovy, výminkáře tamtéž, a Anny roz. Železné ze Zdíkova č. 11. Snoubenci byli příbuzní ve 3. stupni pokrevenství – dispens udělila biskupská konzistoř v Budějovicích 9. 11. 1869. Za nezletilé svolili otcové. Svědci Václav Randák (?), chalupník ze Zdíkova č. 10, a František Sova, sedlák z Masákovy Lhoty č. 5.",
+  "svazek": "zdikovec_24",
+  "strana": "89–90",
+  "odkaz": "https://digi.ceskearchivy.cz/8796/48"
  }
 ]

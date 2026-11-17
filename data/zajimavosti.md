@@ -45,3 +45,11 @@ V roce 1978 napsal rodový badatel Karel Vyšín z Davle Janu Gillernovi z Oleš
 ## Legionář z Branišova
 
 Pradědeček [Ludvík Myslík](/osoba/ludvik-myslik-1891/), syn domkáře z Branišova u Zdíkova na Šumavě, je ve svatebním zápisu z ledna 1921 označen jako „francouzský legionář“. Databáze legionářů Vojenského ústředního archivu prozrazuje jeho válečnou cestu: jako vojín budějovického 91. pěšího pluku padl 12. prosince 1914 v Srbsku u Leskovce do zajetí. Do československých legií ve Francii – dobrovolnických jednotek, které bojovaly proti Rakousku-Uhersku za samostatný stát – se přihlásil v srpnu 1917 a od února 1918 sloužil u 22. střeleckého pluku. Z legií odešel až v říjnu 1919, téměř pět let po zajetí. Rok a čtvrt po návratu si ve zdíkovském kostele vzal [Františku Šustrovou](/osoba/frantiska-sustrova-1892/) z Masákovy Lhoty; za svědky šli nejspíš jejich bratři – krejčí Rudolf Myslík a hudebník František Šustr.
+
+## Otcem po padesátce
+
+[Tomáš Šustr](/osoba/tomas-sustr-1812/), domkář z Masákovy Lhoty u Zdíkova, ovdověl v srpnu 1864. Půl roku nato, v únoru 1865, se ve dvaapadesáti letech znovu oženil – s devětadvacetiletou [Františkou Vaňkovou](/osoba/frantiska-vankova-1836/), dcerou zdíkovského mlynáře, o čtyřiadvacet let mladší. Měli spolu nejméně dva syny, Františka a [Josefa](/osoba/josef-sustr-1868/). Josefovi bylo kolem dvaceti, když oba rodiče zemřeli, a tak mu ke svatbě v roce 1892 musel dát svolení poručenský soud ve Vimperku. Josefova dcera Františka si pak vzala legionáře Ludvíka Myslíka – a jejich syn Vladimír je dědeček Jana.
+
+## Svatba s povolením biskupa – podruhé
+
+Nejen Svatkovi z Bukové potřebovali ke svatbě biskupa. V listopadu 1869 se ve Zdíkovci brali [Václav Volf](/osoba/vaclav-volf-1847/) a [Františka Sovová](/osoba/frantiska-sovova-1848/) z Masákovy Lhoty. Václavova matka byla také rozená Sovová, a snoubenci tak byli příbuzní ve třetím stupni. Povolení (dispens) přišlo z biskupství v Českých Budějovicích dva týdny před svatbou. Oběma bylo málo let na plnoletost, a tak se pod zápis podepsali oba otcové – Tomáš Volf a Václav Sova.

@@ -622,5 +622,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1847_volf_vaclav": {
+  "boxes": [
+   [
+    0.0,
+    0.765,
+    1.0,
+    0.965
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1848_sovova_frantiska": {
+  "boxes": [
+   [
+    0.0,
+    0.495,
+    1.0,
+    0.69
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

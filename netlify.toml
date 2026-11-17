@@ -3,3 +3,5 @@
   base = "web"
   command = "npm run data -- --nasazeni && npm run build"
   publish = "dist"
+  # Data rodokmenu jsou v data/ (mimo base „web“) – Netlify by jinak sestavení zrušil jako „beze změny“. Stavět vždy.
+  ignore = "exit 1"

@@ -49,3 +49,7 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   web/src/lib/kapitoly.js, web/src/pages/pribehy/[slug].astro. Stálo by za to mít ve skillu jako výchozí strukturu.
 - **SOA Třeboň, Zdíkovec:** ID archivní knihy = 8772 + pořadové číslo knihy; farní číslování v rejstřících a svatebních
   zápisech („matr. č. 12“, „kniha 1“) se s archivním neshoduje – vždy ověřit podle roků a obcí v popisu knihy.
+
+- **Netlify + base = "web": všechna nasazení „Canceled“.** Netlify u nastaveného base directory sestavení přeskočí, když se
+  v base (web/) nic nezměnilo – změny dat v data/ tak na web nikdy nedojdou. Oprava: v netlify.toml (kořen i web/) `ignore = "exit 1"`.
+  Do skillu přidat do výchozí šablony netlify.toml.

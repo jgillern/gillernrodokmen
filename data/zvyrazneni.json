@@ -1102,5 +1102,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1828_hanzlik_hanzlikova": {
+  "boxes": [
+   [
+    0.0,
+    0.2,
+    1.0,
+    0.36
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

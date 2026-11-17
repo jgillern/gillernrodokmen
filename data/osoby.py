@@ -252,7 +252,7 @@ ISSUES = [
     ("Je děda Augustýn Gillern potomkem lesníků z Gillernů od Orlíka?", "Vyřešeno: křestní list dědy (Osov 1924) uvádí otce Jana z Gillernů, syna Augustina z Gillernů, nadlesního ve Vrábsku u Čimelic."),
     ("Kdy a kde zemřela prababička Josefa Richtrová, roz. Piglová (* 1901)?", "Otevřené: zemřela mezi narozením dcery Boženy (1929) a únorem 1937, kdy se vdovec Josef Richtr znovu oženil v Táboře – nejspíš v Kolovratech (fara Uhříněves). Matrika zemřelých z té doby je ještě na matričním úřadě; pomohlo by parte nebo náhrobek."),
     ("Jak se za svobodna jmenovala Marie, manželka Augustina z Gillernů?", "Vyřešeno: Marie Linková – křestní zápis syna Jana (Těchnice 1894): dcera Karla Linka, mlynáře v Písku, a Aloisie roz. Löwové z Lažan."),
-    ("Kde a kdy se brali Augustin z Gillernů a Marie Linková – a odkud pocházel Vincenc z Gillernů?", "Otevřené: první známé dítě se narodilo 1892 v Bohosticích. Sňatek NENÍ v Písku (1890–1892) ani v Kostelci nad Vltavou (1886–1892), kde byl Augustin kolem 1888 lesním adjunktem. Vincenc zemřel 27. 1. 1894 v Čimelicích ve věku 72 let (* asi 1822) – rodiště zápis neuvádí."),
+    ("Kde a kdy se brali Augustin z Gillernů a Marie Linková – a odkud pocházel Vincenc z Gillernů?", "Otevřené: první známé dítě se narodilo 1892 v Bohosticích. Sňatek NENÍ v Písku (1890–1892) ani v Kostelci nad Vltavou (1886–1892), kde byl Augustin kolem 1888 lesním adjunktem, ani v Čimelicích (1881–1892). Vincenc zemřel 27. 1. 1894 v Čimelicích ve věku 72 let (* asi 1822) – rodiště zápis neuvádí."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):

@@ -1132,5 +1132,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "z_1894_gillern_vincenc": {
+  "boxes": [
+   [
+    0.01,
+    0.46,
+    0.99,
+    0.96
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

@@ -63,3 +63,17 @@ Vydal MNV Pravonín (okr. Vlašim) 13. 11. 1952 podle rodné matriky řím.-kat.
 - **Josef Beran** † pátek 22. 8. 1975 náhle, 65 let; pohřeb 27. 8. 1975 z domu smutku, rodinný hrob na hřbitově v Pravoníně; „V Bukové 25. 8. 1975“. Pozůstalí: manželka Ludmila Beranová; děti Milada, Ludmila, Růžena, Josef, Zdeněk, Pavel; zeťové a snachy Vladimír Myslík, Václav Česal, Jaroslav Lamač, Jiřina a Ludmila Beranovy; 9 vnoučat. Parte uvádí „bratr“ a „švagr“ – měl tedy sourozence.
 - **Ludmila Beranová** (roz. Slunečková) † středa 30. 7. 2003, 87 let; rozloučení 6. 8. 2003 v kostele sv. Jana Křtitele v Pravoníně, zpopelněna; „V Bukové 30. 7. 2003“.
 - Pro Berany: rodinný hrob v Pravoníně – náhrobek může uvádět i Josefa Berana st. a Emilii (fotka by pomohla).
+
+## 17. 11. 2026 – Doklady dědy Augustina (foto od Jana; originály jen lokálně v dokumenty/)
+- **Domovský list** (politický okres Písek, č. 106; obec Louka, 30. 11. 1939; starosta Frant. Dubovský (?), radní Josef Stára (?)):
+  Augustin Gillern příslušný do obce **Louka**, nar. 10. 2. 1924, studující, svobodný. Domovské právo se dědilo po otci →
+  Jan Gillern (* 1894) byl nejspíš také příslušný do Louky (okr. Písek).
+- **Kennkarte – protektorátní občanský průkaz** (Bezirkshauptmann in Prag-Land-Süd, Praha 20. 4. 1943, platný do 19. 4. 1948,
+  č. A 12943 (?)): Name „**z Gillernů**“, Vornamen Augustin, František (pod tím „Jan“ (?)), * 10. 2. 1924 Gross-Wossow (Osov),
+  Bez. Beraun, Beruf „Giessereilehrling“ (?) = učeň ve slévárně (čtení nejisté). Podpis „Augustin Gillern“.
+- **Osvědčení o státním občanství** (ONV Praha-východ, zn. OVV-216.1-186/1954, 31. 7. 1954): Augustin Gillern,
+  * 10. 2. 1924 Osov, okr. Hořovice, bytem Hrnčíře čp. 43, okr. Praha-východ, svobodný.
+- **Úmrtní list** (ObNV Praha 4, 28. 4. 1989): Augustin Gillern † 17. 4. 1989 Praha 4-Krč, Vídeňská 800 (nemocnice),
+  konstruktér v důchodu, ženatý, bydliště Praha 4-Kunratice; * 10. 2. 1924 Osov, okr. Beroun; manželka Božena Gillernová
+  roz. Richtrová; rodiče Jan Gillern a Julie roz. Hřídelová; kremace Praha 10-Vinohrady 24. 4. 1989.
+  (Místo úmrtí = nemocnice → na mapu nedáváme; adresu bydliště na web nedáváme.)

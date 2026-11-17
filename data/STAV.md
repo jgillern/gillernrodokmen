@@ -54,7 +54,7 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | 4 | Musilovi | UZAVŘENO u Jiřího Musila × Marie Magdaleny (viz slepé konce) | – | – |
 | 5 | Bezkočkovi | UZAVŘENO (viz slepé konce) | – | – |
 | 6 | Svatkovi | narození Jana Svatka (asi 1850–1855, Bzová 1) | farnost Bzové u Mladé Vožice (SOA Třeboň, jen prohlížeč) | Jan |
-| 7 | Gillernovi | HOTOVO z dokladů: Augustin * 1924 Osov, otec Jan Gillern * 14. 6. 1894 Lavičky, matka Julie Hřídelová * 1897 Horosedly. DALŠÍ: narození Jana Gillerna 1894 Lavičky (lokalita Lavičky v eBadatelně – fara Kostelec n. Vlt./Zbenice?) → otec = Augustin z Gillernů, lesník? | Jan |
+| 7 | Gillernovi | HOTOVO z dokladů: Augustin 1924 Osov – 1989 Praha (Kennkarte 1943: „z Gillernů“; domovská obec Louka, okr. Písek), otec Jan Gillern * 14. 6. 1894 Lavičky, matka Julie Hřídelová * 1897 Horosedly. DALŠÍ: narození Jana Gillerna 1894 Lavičky (lokalita Lavičky v eBadatelně – fara Kostelec n. Vlt./Zbenice?) → otec = Augustin z Gillernů, lesník? | Jan |
 | 7b | Richtrovi / Piglovi | Josef Richtr * 24. 7. 1899 Mezno, Josefa Piglová * 7. 3. 1901 Mezno – které Mezno? (u Vlašimi / u Bechyně / u Sedlčan); narození v matrice N 1899/1901 | eBadatelna / SOA Třeboň | Jan |
 | 8 | Myslíkovi | jména rodičů Vladimíra Myslíka (* 1930 Zdíkov) | rodina; pak SOA Třeboň | Jan / rodina |
 | 9 | Beranovi | (slepý konec) výpis z matriky | matriční úřad Vlašim – N XXVI: Ludmila Beranová 21. 4. 1912 s. 73 | Jan, až bude chtít |

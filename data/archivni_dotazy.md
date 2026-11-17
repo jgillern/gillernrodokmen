@@ -6,7 +6,7 @@ Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matri
 
 | linie | co by pomohlo |
 |---|---|
-| Gillernovi | roky a místa narození dědy Augustýna a jeho rodičů – náhrobek v Praze-Hrnčířích (správa hřbitova MČ Praha-Šeberov), úmrtní list táty Jiřího |
+| Gillernovi | data úmrtí pradědečka Jana Gillerna a prababičky Julie – náhrobek v Praze-Hrnčířích (správa hřbitova MČ Praha-Šeberov); úmrtní list táty Jiřího; doklady Jana Gillerna (domovský list, vysvědčení, pracovní knížka) |
 | babička Božena | její rodné příjmení, rok a místo narození |
 | Myslíkovi | jména rodičů dědy Vladimíra (* 1930 Zdíkov) |
 | Beranovi | odkud přišli pradědeček Josef Beran st. a Emilie Kozáková, kde jsou pohřbeni, kde se brali Josef ml. a Ludmila Slunečková; kdo byl Emil Beran (v Pravoníně 1937–38) |
@@ -22,6 +22,9 @@ Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matri
 
 ## Archivy – knihy, které nejsou naskenované
 
+- **SOkA Písek, Archiv obce Louka:** domovská matrika / seznam příslušníků obce – kdy a odkud Gillernové získali domovské právo
+  (Augustin byl do Louky příslušný 1939, nejspíš po otci Janovi).
+
 - **SOkA Náchod, Archiv obce Velká Jesenice:** Kniha cizinců 1857–1924 (inv. č. 11) – zápis rodiny Josefa Berana a Emilie Kozákové,
   kteří se přistěhovali asi 1906–1910; kniha uvádí datum a místo narození a domovskou obec. Případně Matrika domovského práva
   1900–1948 (inv. č. 4). Dotaz e-mailem, prosba o kopii zápisu.
@@ -31,8 +34,8 @@ Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matri
 
 - „Praha 11 na prahu 21. století“ (2007), s. 134: „…Gillernovi a od roku 1931…“ – možná Šeberov/Hrnčíře, kde je rodinný hrob.
 - „Kamenice v proměnách věků“ (2010): Gillernové z Olešovic (Jan, Jan ml., Pavel, Anna).
-- „Výroční zpráva obecních vyšších reálných škol v Písku“ za 1935/36: student „Gillern Augu…“ – není to děda Augustýn?
-- „Seznam udělených čs. autorských osvědčení a patentů“ (1989): Augustin Gillern.
+- „Výroční zpráva obecních vyšších reálných škol v Písku“ za 1935/36: student „Gillern Augu…“ – téměř jistě děda Augustin (domovský list 1939: studující, domovská obec Louka v okrese Písek).
+- „Seznam udělených čs. autorských osvědčení a patentů“ (1989): Augustin Gillern – děda byl konstruktér, patent je nejspíš jeho.
 
 ## Online, ale zatím neprohledané (pokračování v matrikách)
 

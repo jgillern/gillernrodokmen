@@ -139,13 +139,20 @@
      "text": "V Bukové čp. 5, druhá ze čtyř dcer krejčího Jana Svatka.",
      "osoba": "ludmila-svatkova-1893",
      "strana": "mámina strana · Svatkovi"
+    },
+    {
+     "rok": "1894",
+     "nadpis": "V Lavičkách se narodil Jan Gillern",
+     "text": "Pradědeček, 14. června, v hájovně na schwarzenberském panství Orlík, kde byl lesním Augustin z Gillernů.",
+     "osoba": "jan-gillern-1894",
+     "strana": "tátova strana · Gillernovi"
     }
    ]
   },
   {
    "obdobi": "Války a republika",
    "roky": "1914–1945",
-   "popis": "Světová válka, vznik Československa, cihelna v Pravoníně.",
+   "popis": "Světová válka, vznik Československa, cihelna v Pravoníně, protektorát.",
    "udalosti": [
     {
      "rok": "1914",
@@ -168,6 +175,13 @@
      "historie": true
     },
     {
+     "rok": "1924",
+     "nadpis": "Narodil se děda Augustin",
+     "text": "10. února v Osově u Hořovic, syn hospodářského úředníka Jana Gillerna a Julie Hřídelové.",
+     "osoba": "augustin-gillern-1924",
+     "strana": "tátova strana · Gillernovi"
+    },
+    {
      "rok": "1930–1939",
      "nadpis": "Cihelna Beranových",
      "text": "V adresářích firem je v Pravoníně každý rok zapsaná „cihelna – Beran, Jos.“.",
@@ -180,6 +194,13 @@
      "text": "V Pravoníně čp. 72, dcera Josefa Berana a Ludmily Slunečkové.",
      "osoba": "milada-beranova-1937",
      "strana": "mámina strana · Beranovi"
+    },
+    {
+     "rok": "1943",
+     "nadpis": "„z Gillernů“ v protektorátní legitimaci",
+     "text": "Devatenáctiletý Augustin dostává kenkartu – úředně zapsán se šlechtickým přídomkem.",
+     "osoba": "augustin-gillern-1924",
+     "strana": "tátova strana · Gillernovi"
     }
    ]
   }

@@ -87,3 +87,7 @@ V červenci 1876 nesl malou [Boženu Otradovcovou](/osoba/bozena-otradovcova-187
 ## Krejčí, pastýř a železničář
 
 Tátova strana babičky Boženy ukazuje, jak se během sta let měnila řemesla. Krejčí [Jakub Pigl](/osoba/jakub-pigl/) přišel do Mezna kolem roku 1800, jeho syn [Josef](/osoba/josef-pigl-1820/) byl krejčovský tovaryš, pak nádeník a obecní pastýř, vnuk [Jan](/osoba/jan-pigl-1848/) domkář. Z Richtrů byli gruntovníci a rolníci – a pravnuk [Josef Richtr](/osoba/josef-richtr-1899/) se ve 20. letech stal železničářem, odešel z rodné vsi do Kolovrat u Prahy a dosloužil jako vlakvedoucí.
+
+## Dvojčata na Štědrý den
+
+V červenci 1893 se v Mirovicích brali rolník [František Hřídel](/osoba/frantisek-hridel/) a [Josefa Štětinová](/osoba/josefa-stetinova/) z Horosedel. Jejich první děti přišly na svět na Štědrý den 1893 – dvojčata. Rejstřík mirovické fary je zapisuje jen jako „N.“, tedy bez jména: obě zemřela ještě týž den, nejspíš dřív, než je stihli pokřtít. Rodina se z té ztráty vzpamatovala – v dalších letech se v Horosedlech č. 16 narodily dcery Marie a v říjnu 1897 [Julie](/osoba/julie-hridelova-1897/), pozdější maminka dědy Gustíka.

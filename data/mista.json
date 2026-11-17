@@ -257,5 +257,12 @@
   "lat": 49.388,
   "lon": 14.3568,
   "osm": "Veselíčko, okres Písek, Jihočeský kraj, 398 42, Česko"
+ },
+ "Čimelice": {
+  "re": "Čimelic",
+  "dotaz": "Čimelice, okres Písek",
+  "lat": 49.4726,
+  "lon": 14.0919,
+  "osm": "Čimelice, okres Písek, Jihočeský kraj, 398 04, Česko"
  }
 }

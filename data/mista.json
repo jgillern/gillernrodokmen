@@ -278,5 +278,12 @@
   "lat": 49.4428,
   "lon": 14.0955,
   "osm": "Smetanova Lhota, okres Písek, Jihočeský kraj, Česko"
+ },
+ "Drhovle": {
+  "re": "Drhovl",
+  "dotaz": "Drhovle, okres Písek",
+  "lat": 49.3347,
+  "lon": 14.0363,
+  "osm": "Drhovle, okres Písek, Jihočeský kraj, Česko"
  }
 }

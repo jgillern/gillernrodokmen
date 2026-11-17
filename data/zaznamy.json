@@ -767,7 +767,7 @@
   "druh": "N",
   "datum": "16. 8. 1863",
   "nazev": "Narození Barbory Doubkové, Mezno č. 4 (fara Střezimíř)",
-  "shrnuti": "16. 8. 1863 narozena a pokřtěna (P. Hinkelmann, farář), Mezno č. 4 (bývalé panství Jistebnice, okres Sedlec, kraj Tábor): Barbora, dcera Matěje Doubka, chalupníka (?) v Mezně č. 4, syna Jana Doubka, chalupníka v Mezně č. 4, a Anny roz. … (?) z Mezna č. 14 – a Kateřiny roz. Melichové (Doubkové), dcery Jana Melicha, sedláka v Mezně č. 48, a Barbory roz. … (?). Kmotři Marie …, selka z Mezna, a Matěj Lebl (?), … z Mezna; bába Františka Fesarová (?) z Holšovic (?).",
+  "shrnuti": "16. 8. 1863 narozena a pokřtěna (P. Hinkelmann, farář), Mezno č. 4 (bývalé panství Jistebnice, okres Sedlec, kraj Tábor): Barbora, dcera Matěje Doubka, chalupníka (?) v Mezně č. 4, syna Františka Doubka, chalupníka v Mezně č. 4, a Anny roz. … (?) z Mezna č. 14 – a Kateřiny roz. Melichové (Doubkové), dcery Jana Melicha, sedláka v Mezně č. 48, a Barbory roz. … (?). Kmotři Marie …, selka z Mezna, a Matěj Lebl (?), … z Mezna; bába Františka Fesarová (?) z Holšovic (?).",
   "svazek": "strezimir_19",
   "strana": "150 (Mezno)",
   "odkaz": "https://ebadatelna.soapraha.cz/d/12577/130"
@@ -781,5 +781,15 @@
   "svazek": "strezimir_n1839",
   "strana": "77",
   "odkaz": "https://ebadatelna.soapraha.cz/d/12588/80"
+ },
+ {
+  "klic": "n_1819_doubek_matej",
+  "druh": "N",
+  "datum": "24. 1. 1819",
+  "nazev": "Narození Matěje Doubka, Mezno č. 4 (fara Střezimíř)",
+  "shrnuti": "24. 1. 1819, Mezno č. 4 (křtil Joannes Polz, kaplan; bába Marie … z Mezna): Matěj Doubek, syn Františka Doubka, chalupníka v Mezně, poddaného k Jistebnici, a Anny, dcery † Jana Papouška (?), chalupníka z Mezna, a matky Terezie roz. Klášterské (?). Kmotři Jan Lobst (?), sedlák z Mezna, a Anna Tichalová (?), chalupnice z Mezna.",
+  "svazek": "strezimir_n1816",
+  "strana": "55 (Mezno)",
+  "odkaz": "https://ebadatelna.soapraha.cz"
  }
 ]

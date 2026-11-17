@@ -550,5 +550,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1858_myslik_frantisek": {
+  "boxes": [
+   [
+    0.0,
+    0.49,
+    1.0,
+    0.635
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1862_simkova_anna": {
+  "boxes": [
+   [
+    0.0,
+    0.58,
+    1.0,
+    0.715
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

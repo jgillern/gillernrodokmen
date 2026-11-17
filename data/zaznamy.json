@@ -621,5 +621,45 @@
   "svazek": "zdikovec_3",
   "strana": "13 (Branišov)",
   "odkaz": "https://digi.ceskearchivy.cz/8775/2"
+ },
+ {
+  "klic": "n_1802_vanek_frantisek",
+  "druh": "N",
+  "datum": "30. 5. 1802",
+  "nazev": "Narození Františka Vaňka, Zdíkov č. 58 (mlýn)",
+  "shrnuti": "30. 5. 1802 narozen, 31. 5. pokřtěn, Velký Zdíkov č. 58: František Vaněk, syn Josefa Vaňka, mlynáře, poddaného k Zdíkovu, a Rozálie, dcery † Jana … (?), sedláka z Branišova (?), a Anny, č. 24 (?). Kmotři Jan Myslík, sedlák z Branišova, a Anna; porodní bába Johanna Jiříčková (?) ze Zdíkova.",
+  "svazek": "zdikovec_2",
+  "strana": "345 (Velký Zdíkov)",
+  "odkaz": "https://digi.ceskearchivy.cz/8774/165"
+ },
+ {
+  "klic": "n_1801_bartuskova_katerina",
+  "druh": "N",
+  "datum": "1. 11. 1801",
+  "nazev": "Narození Kateřiny Bartuškové, Zdíkovec č. 7",
+  "shrnuti": "1. 11. 1801, Malý Zdíkovec č. 7: Kateřina Bartušková, dcera Martina Bartuška, sedláka, poddaného k Přečínu, a Marianny, dcery Václava Volfa (?), … ze Zdíkova, a Marie, č. 1. Kmotři Kateřina Handalová (?) a Jakub, sedlák ze Zdíkova a její manžel.",
+  "svazek": "zdikovec_2",
+  "strana": "255 (Malý Zdíkovec)",
+  "odkaz": "https://digi.ceskearchivy.cz/8774/126"
+ },
+ {
+  "klic": "n_1786_uhlirova_terezie",
+  "druh": "N",
+  "datum": "10. 3. 1786",
+  "nazev": "Narození Terezie Uhlířové, Stachy č. 123",
+  "shrnuti": "10. 3. 1786, Stachy č. 123 (křtil Wenceslaus Kieb): Terezie, dcera Josefa Uhlíře, sedláka (Bauer), a Rosiny Holubové. Kmotři Terezie Gabrielová a Jiří Gabriel, sedlák ze Zálesí (?).",
+  "svazek": "zdikovec_2",
+  "strana": "228 (Stachy)",
+  "odkaz": "https://digi.ceskearchivy.cz/8774/112"
+ },
+ {
+  "klic": "n_1797_frantova_anna",
+  "druh": "N",
+  "datum": "10. 3. 1797",
+  "nazev": "Narození Anny Frantové, Zdíkov č. 26",
+  "shrnuti": "10. 3. 1797 (podle rejstříku), Velký Zdíkov č. 26: Anna Frantová, dcera Václava Franty, domkáře, poddaného k Zdíkovu, a Kateřiny, dcery Jakuba Šulera (?), domkáře ze Zdíkova č. 23. Kmotři Marjana Albrechtová a Tomáš Albrecht. Pozor: v témže domě se 6. 8. 1807 narodila další Anna Frantová (asi po smrti této) – manželka mlynáře Františka Vaňka je spíš ta mladší; rodiče jsou nejspíš titíž.",
+  "svazek": "zdikovec_2",
+  "strana": "289 (Velký Zdíkov)",
+  "odkaz": "https://digi.ceskearchivy.cz/8774/141"
  }
 ]

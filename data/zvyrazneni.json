@@ -706,5 +706,53 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1802_vanek_frantisek": {
+  "boxes": [
+   [
+    0.0,
+    0.256,
+    1.0,
+    0.4
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1801_bartuskova_katerina": {
+  "boxes": [
+   [
+    0.0,
+    0.375,
+    1.0,
+    0.47
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1786_uhlirova_terezie": {
+  "boxes": [
+   [
+    0.0,
+    0.861,
+    1.0,
+    0.939
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1797_frantova_anna": {
+  "boxes": [
+   [
+    0.0,
+    0.711,
+    1.0,
+    0.811
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

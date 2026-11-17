@@ -514,5 +514,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1883_myslik_petrova": {
+  "boxes": [
+   [
+    0.0,
+    0.868,
+    1.0,
+    0.978
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

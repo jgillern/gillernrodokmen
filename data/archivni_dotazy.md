@@ -25,6 +25,7 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 | osoba | co | kde | proč |
 |---|---|---|---|
 | Ludmila Beranová, * 21. 4. 1912 Pravonín | výpis z matriky narozených (XXVI, s. 73) | matriční úřad Vlašim | sestra pradědečka Josefa; uvede rodiče Josefa Berana st. a Emilii Kozákovou i s jejich původem – zápis je starší 100 let, vydají ho komukoli |
+| Ludvík Myslík, * 19. 8. 1891 Branišov č. 14; Františka Šustrová, * 15. 9. 1892 Masákova Lhota č. 63 | kopie zápisů z matriky narozených (fara Zdíkovec; Mas. Lhota = N 1868–1936, farní č. 17, s. 113; Branišov farní č. 12, s. 123) | matriční úřad Zdíkov | knihy jsou ještě na úřadě (do archivu po 2049); zápisy uvedou prarodiče s původem; Jan je přímý potomek |
 | Josef Beran st. a Emilie Beranová, † po 1949 (asi Pravonín/Buková) | doslovný výpis / kopie zápisu z matriky zemřelých – uvádí datum a místo narození | matriční úřad Pravonín / Vlašim (podle roku úmrtí z náhrobku) | Jan je přímý potomek – má na výpis nárok |
 | Josef Beran, * 3. 6. 1910 Velká Jesenice | výpis z matriky narozených | matriční úřad pro Velkou Jesenici (Česká Skalice?) | totéž – rodiče a prarodiče |
 | Jiří Gillern, * asi 1955 | doslovný výpis z matriky narozených | matriční úřad místa narození | rodiče Augustýn a Božena s daty a místy narození |

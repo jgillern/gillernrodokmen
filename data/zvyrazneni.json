@@ -526,5 +526,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1886_myslik_simkova": {
+  "boxes": [
+   [
+    0.0,
+    0.51,
+    1.0,
+    0.95
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

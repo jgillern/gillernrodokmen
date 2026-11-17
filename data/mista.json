@@ -271,5 +271,12 @@
   "lat": 49.3088,
   "lon": 14.1477,
   "osm": "Písek, okres Písek, Jihočeský kraj, Česko"
+ },
+ "Smetanova Lhota": {
+  "re": "Smetanov|Lhot[ay] Smetanov",
+  "dotaz": "Smetanova Lhota, okres Písek",
+  "lat": 49.4428,
+  "lon": 14.0955,
+  "osm": "Smetanova Lhota, okres Písek, Jihočeský kraj, Česko"
  }
 }

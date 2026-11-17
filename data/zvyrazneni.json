@@ -670,5 +670,41 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1807_sovova_katerina": {
+  "boxes": [
+   [
+    0.0,
+    0.719,
+    1.0,
+    0.843
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1809_sova_vaclav": {
+  "boxes": [
+   [
+    0.0,
+    0.393,
+    1.0,
+    0.508
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1818_myslik_vojtech": {
+  "boxes": [
+   [
+    0.0,
+    0.138,
+    1.0,
+    0.47
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

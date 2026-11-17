@@ -53,3 +53,7 @@ Pradědeček [Ludvík Myslík](/osoba/ludvik-myslik-1891/), syn domkáře z Bran
 ## Svatba s povolením biskupa – podruhé
 
 Nejen Svatkovi z Bukové potřebovali ke svatbě biskupa. V listopadu 1869 se ve Zdíkovci brali [Václav Volf](/osoba/vaclav-volf-1847/) a [Františka Sovová](/osoba/frantiska-sovova-1848/) z Masákovy Lhoty. Václavova matka byla také rozená Sovová, a snoubenci tak byli příbuzní ve třetím stupni. Povolení (dispens) přišlo z biskupství v Českých Budějovicích dva týdny před svatbou. Křestní zápisy obou snoubenců ukazují, kde se příbuzenství vzalo: Václavova matka Kateřina byla dcerou Tomáše Sovy a Františčin otec Václav synem Jakuba Sovy – nejspíš bratrů. Snoubenci tedy byli bratranec a sestřenice z druhého kolena. Oběma bylo málo let na plnoletost, a tak se pod zápis podepsali oba otcové – Tomáš Volf a Václav Sova.
+
+## Sovové neboli Masákové
+
+Když se v lednu 1809 narodil na statku č. 5 v Masákově Lhotě [Václav Sova](/osoba/vaclav-sova-1809/), zapsal farář jeho otce jako „Jakub Sowa neb Mašák“ – Jakub Sova, zvaný také Masák. Rodina tedy vedle příjmení používala i jméno statku, tzv. jméno po chalupě. A právě to jméno nese celá vesnice: Masákova Lhota. Statek Sovů (Masáků) č. 5 tak nejspíš patří k nejstarším gruntům obce, podle kterého se Lhota odlišovala od jiných Lhot v okolí.

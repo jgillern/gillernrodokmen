@@ -34,4 +34,4 @@ Druhým z nich byl [Josef Richtr](/osoba/josef-richtr-1899/), narozený v červe
 
 ## Dnes
 
-Božena Richtrová se v září 1954 vdala na Staroměstské radnici za [Augustina Gillerna](/osoba/augustin-gillern-1924/) – jeho předky sleduje [další kapitola](/pribehy/orlik/). Jejich syn [Jiří](/osoba/jiri-gillern-1955/) je Janův táta.
+Božena Richtrová se v září 1954 vdala na Staroměstské radnici za [Augustina Gillerna](/osoba/augustin-z-gillernu-1924/) – jeho předky sleduje [další kapitola](/pribehy/orlik/). Jejich syn [Jiří](/osoba/jiri-gillern-1955/) je Janův táta.

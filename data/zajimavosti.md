@@ -36,7 +36,7 @@ Když byl v roce 1759 v Kondraci pokřtěn [Matěj Píša](/osoba/matej-pisa-175
 
 ## Potomci šlechtického rodu z Gillernů
 
-Příjmení Gillern je v Čechách vzácné. Nese ho starý šlechtický rod, který roku 1568 získal český šlechtický titul a v 18. století byl svobodnými pány ve Slezsku a na Moravě. Kolem roku 1890 sloužili na schwarzenberském panství Orlík lesníci Augustin, Čeněk a Vincenc z Gillernů – a lesní Augustin z Gillernů měl v letech 1891–1902 na starosti revír Lavičky. Právě v Lavičkách se 14. června 1894 narodil pradědeček [Jan Gillern](/osoba/jan-gillern-1894/). Spojení potvrzuje i rodinný doklad: v protektorátním občanském průkazu z roku 1943 je děda [Augustin](/osoba/augustin-gillern-1924/) zapsán jako „**z Gillernů**“. Rodina tedy ještě za války používala šlechtický přídomek – i když šlechtické tituly byly v Československu zrušeny už roku 1918. A rozhodující doklad přišel z rodinné složky: křestní list dědy z Osova (1924) jmenuje jeho otce „Jan z Gillernů, hospodářský kontrolor“ a dědečka „[Augustin z Gillernů](/osoba/augustin-z-gillernu/), nadlesní ve Vrábsku u Čimelic“ – ten šel vnukovi i za kmotra. Hypotéza se tím potvrdila: jsme potomci lesníků z Gillernů.
+Příjmení Gillern je v Čechách vzácné. Nese ho starý šlechtický rod, který roku 1568 získal český šlechtický titul a v 18. století byl svobodnými pány ve Slezsku a na Moravě. Kolem roku 1890 sloužili na schwarzenberském panství Orlík lesníci Augustin, Čeněk a Vincenc z Gillernů – a lesní Augustin z Gillernů měl v letech 1891–1902 na starosti revír Lavičky. Právě v Lavičkách se 14. června 1894 narodil pradědeček [Jan Gillern](/osoba/jan-z-gillernu-1894/). Spojení potvrzuje i rodinný doklad: v protektorátním občanském průkazu z roku 1943 je děda [Augustin](/osoba/augustin-z-gillernu-1924/) zapsán jako „**z Gillernů**“. Rodina tedy ještě za války používala šlechtický přídomek – i když šlechtické tituly byly v Československu zrušeny už roku 1918. A rozhodující doklad přišel z rodinné složky: křestní list dědy z Osova (1924) jmenuje jeho otce „Jan z Gillernů, hospodářský kontrolor“ a dědečka „[Augustin z Gillernů](/osoba/augustin-z-gillernu/), nadlesní ve Vrábsku u Čimelic“ – ten šel vnukovi i za kmotra. Hypotéza se tím potvrdila: jsme potomci lesníků z Gillernů.
 
 ## Od erbovního listu k Rothschildům
 
@@ -98,7 +98,7 @@ V Horosedlech u Mirovic se během šestnácti let dvakrát stalo totéž. V ledn
 
 ## Jméno po dědečkovi, kmotra vdova
 
-V lednu 1894 zemřel v Čimelicích na mrtvici dvaasedmdesátiletý knížecí revírník na odpočinku [Vincenc z Gillernů](/osoba/vincenc-z-gillernu-1822/). O necelých pět měsíců později, v červnu 1894, se jeho synovi Augustinovi narodil v hájovně v Bohosticích syn – pradědeček [Jan](/osoba/jan-gillern-1894/). Za kmotru mu šla čerstvá vdova, babička [Tekla](/osoba/tekla-vejdovcova/), a chlapec dostal při křtu jména Jan Vincenc Augustin: po zemřelém dědečkovi i po otci.
+V lednu 1894 zemřel v Čimelicích na mrtvici dvaasedmdesátiletý knížecí revírník na odpočinku [Vincenc z Gillernů](/osoba/vincenc-z-gillernu-1822/). O necelých pět měsíců později, v červnu 1894, se jeho synovi Augustinovi narodil v hájovně v Bohosticích syn – pradědeček [Jan](/osoba/jan-z-gillernu-1894/). Za kmotru mu šla čerstvá vdova, babička [Tekla](/osoba/tekla-vejdovcova/), a chlapec dostal při křtu jména Jan Vincenc Augustin: po zemřelém dědečkovi i po otci.
 
 ## Babička se podepsala sama
 

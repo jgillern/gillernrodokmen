@@ -982,5 +982,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1799_kypta_peligrova": {
+  "boxes": [
+   [
+    0.0,
+    0.4,
+    1.0,
+    0.55
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

@@ -778,5 +778,41 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1832_benesova_marie_anna": {
+  "boxes": [
+   [
+    0.0,
+    0.655,
+    1.0,
+    0.795
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1836_vankova_frantiska": {
+  "boxes": [
+   [
+    0.0,
+    0.337,
+    1.0,
+    0.51
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1829_simek_frantisek": {
+  "boxes": [
+   [
+    0.0,
+    0.127,
+    1.0,
+    0.433
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

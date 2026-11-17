@@ -248,5 +248,26 @@
   "svazek": "Zdíkovec, kniha 2, N 1781–1802 (celá farnost, oddíly po vesnicích)",
   "popis": "Kniha narozených fary Zdíkovec 1781–1802 (v rejstříku 8803 „kniha 1“); listy číslovány průběžně, list ≈ 2 × snímek − 0 až 30 (l. 228 = snímek 112, l. 255 = 126, l. 289 = 141, l. 345 = 165). Archivní kniha N = ID 8772 + číslo knihy.",
   "url": "https://digi.ceskearchivy.cz/8774"
+ },
+ "zdikovec_4": {
+  "archiv": "SOA Třeboň – Sbírka matrik Jihočeského kraje",
+  "portal": "Digitální archiv SOA v Třeboni",
+  "svazek": "Zdíkovec, kniha 4, N 1823–1829 (celá farnost)",
+  "popis": "Kniha narozených fary Zdíkovec 1823–1829 (v rejstříku 8803 „kniha 3“); list 391 = snímek 201.",
+  "url": "https://digi.ceskearchivy.cz/8776"
+ },
+ "zdikovec_5": {
+  "archiv": "SOA Třeboň – Sbírka matrik Jihočeského kraje",
+  "portal": "Digitální archiv SOA v Třeboni",
+  "svazek": "Zdíkovec, kniha 5, N 1829–1846 (Branišov, Hodonín, Jaroškov, Zdíkovec)",
+  "popis": "Kniha narozených fary Zdíkovec 1829–1846 pro Branišov, Hodonín, Jaroškov a Zdíkovec; s. 140 = snímek 72.",
+  "url": "https://digi.ceskearchivy.cz/8777"
+ },
+ "zdikovec_10": {
+  "archiv": "SOA Třeboň – Sbírka matrik Jihočeského kraje",
+  "portal": "Digitální archiv SOA v Třeboni",
+  "svazek": "Zdíkovec, kniha 10, N 1829–1843 (Zdíkov, Masákova Lhota, Lesní Chalupy aj.)",
+  "popis": "Kniha narozených fary Zdíkovec 1829–1843 pro Zdíkov, Masákovu Lhotu, Lesní Chalupy, Pláně, Pokovy a Staré Hutě; s. 96 = snímek 50.",
+  "url": "https://digi.ceskearchivy.cz/8782"
  }
 }

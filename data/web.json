@@ -15,7 +15,7 @@
   "nadpis": "Rodokmen – rozpracovaná verze",
   "odstavce": [
    "Všechno, co je tu označené jako doložené, jsme přečetli přímo v naskenovaných farních matrikách nebo v rodinných dokladech; u každého zápisu najdete výřez z originálu, přepis a překlad.",
-   "Z máminy strany jsou rozpletené obě linie: babička Milada Beranová (Pravonínsko a Vlašimsko, až do konce 17. století) a děda Vladimír Myslík (Zdíkov pod Šumavou, předci narození kolem roku 1760–1790). Z tátovy strany známe z rodinných dokladů Gillerny – potomky lesníků z Gillernů od Orlíka – a na řadu teprve přijde linie babičky Boženy Richtrové z Kolovrat.",
+   "Z máminy strany jsou rozpletené obě linie: babička Milada Beranová (Pravonínsko a Vlašimsko, až do konce 17. století) a děda Vladimír Myslík (Zdíkov pod Šumavou). Z tátovy strany je rozpletená linie babičky Boženy Richtrové (Mezno u Miličína, Rohov, Mutice – předci narození kolem roku 1770–1800) a z rodinných dokladů známe Gillerny, potomky lesníků z Gillernů od Orlíka. Linie dědy Augustina (Gustíka) v matrikách teprve přijde na řadu.",
    "Příběhy jednotlivých větví a jejich srovnání najdete v části Příběh, drobné objevy v Zajímavostech a to, co ještě hledáme, v části „Co hledáme“."
   ],
   "foto": "",
@@ -36,21 +36,36 @@
    "text": "Statek, podle kterého dostala jméno Masákova Lhota, patřil předkům dědy Vladimíra."
   },
   {
+   "nadpis": "Podpis třemi křížky",
+   "text": "Matěj Doubek z Mezna neuměl psát – souhlas se svatbou dcery připojil křížky."
+  },
+  {
    "nadpis": "Potomci šlechtického rodu z Gillernů",
    "text": "Ještě roku 1943 stál děda Augustin v legitimaci jako „z Gillernů“."
   },
   {
    "nadpis": "Kmotr Myslík u mlynáře Vaňka",
    "text": "Rody, které se spojily roku 1921, se znaly už za Napoleonových válek."
+  },
+  {
+   "nadpis": "Šest generací v jedné vesnici",
+   "text": "Píšové žili v Kondraci u Vlašimi od konce 17. století – nejdelší doložená linie rodokmenu."
   }
  ],
- "podtitul": "12 generací, přes 100 předků doložených v matrikách a víc než 300 let – od sedláka Jakuba Píši z Kondrace a Masáků z Masákovy Lhoty až k vám.",
+ "podtitul": "12 generací, přes 150 předků doložených v matrikách a víc než 300 let – od sedláka Jakuba Píši z Kondrace, Masáků z Masákovy Lhoty a krejčích z Mezna až k vám.",
  "casova_osa": [
   {
    "obdobi": "Robota a panství",
    "roky": "do 1847",
    "popis": "Poddaní vlašimského a čechtického panství: robota, vrchnost rozhoduje o svatbách i stěhování.",
    "udalosti": [
+    {
+     "rok": "před 1723",
+     "nadpis": "Jakub Píša, sedlák v Kondraci",
+     "text": "Nejstarší doložený předek; v lednu 1723 už „nebožtík“.",
+     "osoba": "jakub-pisa",
+     "strana": "mámina strana · Píšovi"
+    },
     {
      "rok": "1723",
      "nadpis": "Svatba Víta Píši",
@@ -86,6 +101,13 @@
      "strana": "mámina strana · Šustrovi"
     },
     {
+     "rok": "1799",
+     "nadpis": "Kolář ze Dvorců",
+     "text": "František Kypta se ve Dvorcích u Červeného Újezda žení s Kateřinou – nejstarší doložení předci babičky Boženy.",
+     "osoba": "frantisek-kypta-1771",
+     "strana": "tátova strana · Richtrovi"
+    },
+    {
      "rok": "1802",
      "nadpis": "Narození ve mlýně",
      "text": "Ve zdíkovském mlýně se narodil František Vaněk; kmotrem mu byl sedlák Jan Myslík z Branišova.",
@@ -112,13 +134,6 @@
      "text": "František Sluneček × Anna Musilová; nezletilé nevěstě svolil otec vlastnoručním podpisem.",
      "osoba": "frantisek-slunecek-1823",
      "strana": "mámina strana · Slunečkovi"
-    },
-    {
-     "rok": "před 1723",
-     "nadpis": "Jakub Píša, sedlák v Kondraci",
-     "text": "Nejstarší doložený předek; v lednu 1723 už „nebožtík“.",
-     "osoba": "jakub-pisa",
-     "strana": "mámina strana · Píšovi"
     }
    ]
   },
@@ -134,6 +149,13 @@
      "historie": true
     },
     {
+     "rok": "1848",
+     "nadpis": "Narodil se Jan Pigl",
+     "text": "V Mezně u Miličína, v roce zrušení roboty; syn krejčovského tovaryše Josefa Pigla.",
+     "osoba": "jan-pigl-1848",
+     "strana": "tátova strana · Piglovi"
+    },
+    {
      "rok": "1853",
      "nadpis": "Ženich z Kondrace v Tisku",
      "text": "Jan Píša se přiženil na grunt čp. 17 v Tisku k Barboře Malé.",
@@ -146,6 +168,13 @@
      "text": "Dcera domkáře z Vitína u Sedlčan, pozdější žena krejčího Jana Svatka.",
      "osoba": "marie-bezkockova-1857",
      "strana": "mámina strana · Bezkočkovi"
+    },
+    {
+     "rok": "1862",
+     "nadpis": "Svatba v Přestavlkách",
+     "text": "Nezletilí Jan Richtr z Rohova a Františka Kyptová; otec nevěsty se do matriky podepisuje vlastní rukou.",
+     "osoba": "jan-richtr-1839",
+     "strana": "tátova strana · Richtrovi"
     },
     {
      "rok": "1865",
@@ -176,6 +205,13 @@
      "strana": "mámina strana · Slunečkovi"
     },
     {
+     "rok": "1887",
+     "nadpis": "Podpis třemi křížky",
+     "text": "Vdovec Jan Pigl si bere Barboru Doubkovou; její otec Matěj, který neumí psát, svoluje křížky.",
+     "osoba": "jan-pigl-1848",
+     "strana": "tátova strana · Piglovi"
+    },
+    {
      "rok": "1891",
      "nadpis": "Narodil se Ludvík Myslík",
      "text": "Budoucí legionář, v Branišově č. 14.",
@@ -195,13 +231,27 @@
      "text": "Pradědeček, 14. června, v hájovně na schwarzenberském panství Orlík, kde byl lesním Augustin z Gillernů.",
      "osoba": "jan-gillern-1894",
      "strana": "tátova strana · Gillernovi"
+    },
+    {
+     "rok": "1897",
+     "nadpis": "Sirotek z Mutic se vdává do Rohova",
+     "text": "Božena Otradovcová a František Richtr; za nezletilou nevěstu svoluje soud v Mladé Vožici.",
+     "osoba": "bozena-otradovcova-1876",
+     "strana": "tátova strana · Richtrovi"
+    },
+    {
+     "rok": "1899",
+     "nadpis": "Narodil se Josef Richtr",
+     "text": "V Mezně č. 14 – budoucí železničář a otec babičky Boženy.",
+     "osoba": "josef-richtr-1899",
+     "strana": "tátova strana · Richtrovi"
     }
    ]
   },
   {
    "obdobi": "Války a republika",
    "roky": "1914–1945",
-   "popis": "Světová válka, vznik Československa, cihelna v Pravoníně, protektorát.",
+   "popis": "Světová válka a legie, vznik Československa, cihelna v Pravoníně, odchod z vesnic k železnici, protektorát.",
    "udalosti": [
     {
      "rok": "1914",
@@ -243,6 +293,13 @@
      "text": "10. února v Osově u Hořovic, syn hospodářského úředníka Jana Gillerna a Julie Hřídelové.",
      "osoba": "augustin-gillern-1924",
      "strana": "tátova strana · Gillernovi"
+    },
+    {
+     "rok": "1929",
+     "nadpis": "Narodila se babička Božena",
+     "text": "V Kolovratech u Prahy, kam se rodina Richtrových přestěhovala z Mezna za prací na železnici.",
+     "osoba": "bozena-richtrova-1929",
+     "strana": "tátova strana · Richtrovi"
     },
     {
      "rok": "1930–1939",
@@ -436,6 +493,66 @@
    "koren": 111,
    "nazev": "Železní",
    "popis": "Chalupníci ze Zdíkova č. 11."
+  },
+  {
+   "rod": 10,
+   "koren": 10,
+   "nazev": "Richtrovi",
+   "popis": "Chalupníci z Vísky a gruntovníci z Rohova, od 1897 v Mezně; železničář Josef odešel do Kolovrat."
+  },
+  {
+   "rod": 10,
+   "koren": 41,
+   "nazev": "Kyptovi",
+   "popis": "Kolář a sedláci ze Dvorců a Záběhlic u Červeného Újezda."
+  },
+  {
+   "rod": 10,
+   "koren": 81,
+   "nazev": "Davídkovi",
+   "popis": "Sedláci z Doubravic u Sedlce."
+  },
+  {
+   "rod": 10,
+   "koren": 83,
+   "nazev": "Pelíkovi",
+   "popis": "Sedláci ze Sušetic u Sedlce."
+  },
+  {
+   "rod": 10,
+   "koren": 21,
+   "nazev": "Otradovci",
+   "popis": "Chalupníci z Nových Dvorů a rolníci z Mutic u Mladé Vožice."
+  },
+  {
+   "rod": 10,
+   "koren": 43,
+   "nazev": "Dědovi",
+   "popis": "Rolníci z Dolního Dobřejova."
+  },
+  {
+   "rod": 11,
+   "koren": 11,
+   "nazev": "Piglovi",
+   "popis": "Krejčí a domkáři v Mezně u Miličína, přišli kolem roku 1800."
+  },
+  {
+   "rod": 11,
+   "koren": 45,
+   "nazev": "Šedinovi",
+   "popis": "Domkáři z Mezna č. 40."
+  },
+  {
+   "rod": 11,
+   "koren": 23,
+   "nazev": "Doubkovi",
+   "popis": "Chalupníci z Mezna č. 4."
+  },
+  {
+   "rod": 11,
+   "koren": 47,
+   "nazev": "Melichovi",
+   "popis": "Sedláci z Mezna č. 35/48."
   }
  ]
 }

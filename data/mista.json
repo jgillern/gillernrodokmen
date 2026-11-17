@@ -166,5 +166,82 @@
   "lat": 49.5345,
   "lon": 14.6449,
   "osm": "Mezno, okres Benešov, Středočeský kraj, Česko"
+ },
+ "Rohov": {
+  "re": "Rohov",
+  "dotaz": "Rohov, Sedlec-Prčice",
+  "lat": 49.5643,
+  "lon": 14.5636,
+  "osm": "Rohov, Staré Mitrovice, Sedlec-Prčice, okres Příbram, Středočeský kraj, 257 92, Česko"
+ },
+ "Víska": {
+  "re": "Vís[kc]",
+  "dotaz": "Víska, Sedlec-Prčice",
+  "lat": 49.5697,
+  "lon": 14.5784,
+  "osm": "Víska, Staré Mitrovice, Sedlec-Prčice, okres Příbram, Středočeský kraj, 257 88, Česko"
+ },
+ "Záběhlice": {
+  "re": "Záběhlic",
+  "dotaz": "Záběhlice, Červený Újezd",
+  "lat": 49.5508,
+  "lon": 14.5903,
+  "osm": "Sedlec-Prčice, Záběhlice, 1204, Záběhlice, Staré Mitrovice, Sedlec-Prčice, okres Příbram, Středočeský kraj, 257 88, Česko"
+ },
+ "Přestavlky": {
+  "re": "Přestavlk",
+  "dotaz": "Přestavlky, Sedlec-Prčice",
+  "lat": 49.5694,
+  "lon": 14.551,
+  "osm": "Přestavlky, Sedlec-Prčice, okres Příbram, Středočeský kraj, 257 92, Česko"
+ },
+ "Mutice": {
+  "re": "Mutic",
+  "dotaz": "Mutice, Nová Ves u Mladé Vožice",
+  "lat": 49.532,
+  "lon": 14.731,
+  "osm": "Mutice, Horní Střítež, Nová Ves u Mladé Vožice, okres Tábor, Jihočeský kraj, 257 86, Česko"
+ },
+ "Dolní Dobřejov": {
+  "re": "Dobřejov",
+  "dotaz": "Dolní Dobřejov",
+  "lat": 49.5435,
+  "lon": 14.6006,
+  "osm": "Dolní Dobřejov, Střezimíř, okres Benešov, Středočeský kraj, 257 88, Česko"
+ },
+ "Dvorce": {
+  "re": "Dvorc",
+  "dotaz": "Dvorce, Červený Újezd",
+  "lat": 49.5599,
+  "lon": 14.5836,
+  "osm": "Sedlec-Prčice, Dvorce, 1204, Záběhlice, Staré Mitrovice, Sedlec-Prčice, okres Příbram, Středočeský kraj, 257 88, Česko"
+ },
+ "Sušetice": {
+  "re": "Sušetic",
+  "dotaz": "Sušetice, Sedlec-Prčice",
+  "lat": 49.5605,
+  "lon": 14.5071,
+  "osm": "Sušetice, Sedlec-Prčice, okres Příbram, Středočeský kraj, Česko"
+ },
+ "Střezimíř": {
+  "re": "Střezimíř",
+  "dotaz": "Střezimíř, Česko",
+  "lat": 49.532,
+  "lon": 14.6113,
+  "osm": "Střezimíř, okres Benešov, Středočeský kraj, 257 87, Česko"
+ },
+ "Stachy": {
+  "re": "Stach",
+  "dotaz": "Stachy, okres Prachatice",
+  "lat": 49.1018,
+  "lon": 13.6666,
+  "osm": "Stachy, okres Prachatice, Jihočeský kraj, Česko"
+ },
+ "Zdíkovec": {
+  "re": "Zdíkovec",
+  "dotaz": "Zdíkovec, Zdíkov",
+  "lat": 49.0973,
+  "lon": 13.6898,
+  "osm": "Zdíkovec, Zdíkov, okres Prachatice, Jihočeský kraj, 384 72, Česko"
  }
 }

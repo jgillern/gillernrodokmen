@@ -1,6 +1,6 @@
 # Prameny mimo online matriky
 
-Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matričním úřadě nebo od rodiny. Aktualizováno 16. 11. 2026.
+Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matričním úřadě nebo od rodiny. Aktualizováno 17. 11. 2026.
 
 ## Otázky pro strýce Pavla Berana
 
@@ -17,7 +17,7 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 | linie | co by pomohlo |
 |---|---|
 | Gillernovi | data úmrtí pradědečka Jana Gillerna a prababičky Julie – náhrobek v Praze-Hrnčířích (správa hřbitova MČ Praha-Šeberov); úmrtní list táty Jiřího; doklady Jana Gillerna (domovský list, vysvědčení, pracovní knížka) |
-| babička Božena | její rodné příjmení, rok a místo narození |
+| babička Božena | kdy a kde zemřela její maminka Josefa Richtrová, roz. Piglová (mezi 1929 a 1937, asi Kolovraty) – parte, náhrobek, vzpomínky; kdo byla Barbora Hrušková, druhá žena pradědečka Josefa Richtra (svatba 1937 v Táboře) |
 | Beranovi | **doklady Josefa Berana (1910–1975)** u příbuzných (rodiny Milady, Ludmily, Růženy, Josefa, Zdeňka a Pavla): křestní list (církevní listy z 20.–40. let uvádějí i prarodiče s místem narození – jako u dědy Augustina), domovský list (obec, kam rodina „patřila“ = odkud přišla), oddací list; **fotka rodinného hrobu v Pravoníně** (Josef st. a Emilie zemřeli až po 1949 – v církevní matrice Pravonín do 1949 nejsou); kdo byl Emil Beran (v Pravoníně 1937–38) – asi bratr z parte 1975 |
 
 ## Matriční úřady (zápisy, které ještě nejsou v archivu)
@@ -25,11 +25,9 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 | osoba | co | kde | proč |
 |---|---|---|---|
 | Ludmila Beranová, * 21. 4. 1912 Pravonín | výpis z matriky narozených (XXVI, s. 73) | matriční úřad Vlašim | sestra pradědečka Josefa; uvede rodiče Josefa Berana st. a Emilii Kozákovou i s jejich původem – zápis je starší 100 let, vydají ho komukoli |
-| Ludvík Myslík, * 19. 8. 1891 Branišov č. 14; Františka Šustrová, * 15. 9. 1892 Masákova Lhota č. 63 | kopie zápisů z matriky narozených (fara Zdíkovec; Mas. Lhota = N 1868–1936, farní č. 17, s. 113; Branišov farní č. 12, s. 123) | matriční úřad Zdíkov | knihy jsou ještě na úřadě (do archivu po 2049); zápisy uvedou prarodiče s původem; Jan je přímý potomek |
+| Františka Šustrová, * 15. 9. 1892 Masákova Lhota č. 63 | kopie zápisu z matriky narozených (fara Zdíkovec, Mas. Lhota N 1868–1936, farní č. 17, s. 113) | matriční úřad Zdíkov | kniha je ještě na úřadě; jen potvrzení – rodiče už známe ze sňatků |
 | Josef Beran st. a Emilie Beranová, † po 1949 (asi Pravonín/Buková) | doslovný výpis / kopie zápisu z matriky zemřelých – uvádí datum a místo narození | matriční úřad Pravonín / Vlašim (podle roku úmrtí z náhrobku) | Jan je přímý potomek – má na výpis nárok |
 | Josef Beran, * 3. 6. 1910 Velká Jesenice | výpis z matriky narozených | matriční úřad pro Velkou Jesenici (Česká Skalice?) | totéž – rodiče a prarodiče |
-| Jiří Gillern, * asi 1955 | doslovný výpis z matriky narozených | matriční úřad místa narození | rodiče Augustýn a Božena s daty a místy narození |
-| Augustýn a Božena Gillernovi | výpis z matriky oddaných | matriční úřad místa sňatku | rodiče obou snoubenců, rodné příjmení Boženy |
 
 ## Archivy – knihy, které nejsou naskenované
 

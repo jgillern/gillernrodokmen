@@ -71,3 +71,19 @@ Na vesnici rodily ženy doma a pomáhala jim porodní bába – často sousedka,
 ## Dvě Anny v jednom domě
 
 V chalupě č. 26 ve Zdíkově se Václavu a Kateřině Frantovým narodila v březnu 1797 dcera Anna. O deset let později, v srpnu 1807, pokřtili další dceru – a dali jí znovu jméno Anna. Starší Anna nejspíš zemřela jako malá, a tak její jméno dostala sestra; tak to tehdy bylo běžné. Tahle druhá [Anna Frantová](/osoba/anna-frantova-1807/) se pak vdala za zdíkovského mlynáře a je prapraprababičkou dědy Vladimíra.
+
+## Podpis třemi křížky
+
+Když se v květnu 1887 vdávala třiadvacetiletá [Barbora Doubková](/osoba/barbora-doubkova-1863/) z Mezna, potřebovala jako nezletilá souhlas otce. [Matěj Doubek](/osoba/matej-doubek-1819/) psát neuměl – farář za něj do matriky napsal „Matěj Doubek, otec“ a Matěj připojil vlastní rukou tři křížky. O čtvrt století dřív, v roce 1862, se pod podobný souhlas v Prčicích podepsal sedlák [Tomáš Kypta](/osoba/tomas-kypta/) ze Záběhlic celým jménem. Z matrik je tak vidět i to, kdo z předků uměl číst a psát.
+
+## Dvakrát ženatý domkář z Mezna
+
+[Jan Pigl](/osoba/jan-pigl-1848/) se poprvé oženil v lednu 1876 – byl to vůbec první zápis v nové střezimířské knize oddaných. Jeho nevěstě Marii Plocové ze Stupčic bylo sedmnáct. Marie zemřela mezi lety 1884 a 1887 (krátce po narození syna Josefa) a v květnu 1887 si Jan jako vdovec vzal Barboru Doubkovou ze sousedství. Z druhého manželství pochází [Josefa](/osoba/josefa-piglova-1901/), prababička Jana – její nevlastní bratr Josef byl o sedmnáct let starší.
+
+## Kmotr z budoucí vesnice
+
+V červenci 1876 nesl malou [Boženu Otradovcovou](/osoba/bozena-otradovcova-1876/) z Mutic ke křtu chalupník František Sobíšek z Rohova. O dvacet let později, v lednu 1897, se Božena vdala právě do Rohova – za rolnického syna [Františka Richtra](/osoba/frantisek-richtr-1867/). Byla už tehdy sirotek, a tak ke sňatku musel svolit okresní soud v Mladé Vožici.
+
+## Krejčí, pastýř a železničář
+
+Tátova strana babičky Boženy ukazuje, jak se během sta let měnila řemesla. Krejčí [Jakub Pigl](/osoba/jakub-pigl/) přišel do Mezna kolem roku 1800, jeho syn [Josef](/osoba/josef-pigl-1820/) byl krejčovský tovaryš, pak nádeník a obecní pastýř, vnuk [Jan](/osoba/jan-pigl-1848/) domkář. Z Richtrů byli gruntovníci a rolníci – a pravnuk [Josef Richtr](/osoba/josef-richtr-1899/) se ve 20. letech stal železničářem, odešel z rodné vsi do Kolovrat u Prahy a dosloužil jako vlakvedoucí.

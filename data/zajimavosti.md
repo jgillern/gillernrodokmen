@@ -57,3 +57,7 @@ Nejen Svatkovi z Bukové potřebovali ke svatbě biskupa. V listopadu 1869 se ve
 ## Sovové neboli Masákové
 
 Když se v lednu 1809 narodil na statku č. 5 v Masákově Lhotě [Václav Sova](/osoba/vaclav-sova-1809/), zapsal farář jeho otce jako „Jakub Sowa neb Mašák“ – Jakub Sova, zvaný také Masák. Rodina tedy vedle příjmení používala i jméno statku, tzv. jméno po chalupě. A právě to jméno nese celá vesnice: Masákova Lhota. Statek Sovů (Masáků) č. 5 tak nejspíš patří k nejstarším gruntům obce, podle kterého se Lhota odlišovala od jiných Lhot v okolí.
+
+## Kmotr Myslík u mlynáře Vaňka
+
+Když se 30. května 1802 ve zdíkovském mlýně narodil [František Vaněk](/osoba/frantisek-vanek-1802/), šel mu za kmotra Jan Myslík, sedlák z Branišova. O sto devatenáct let později, v lednu 1921, si Františkova pravnučka [Františka Šustrová](/osoba/frantiska-sustrova-1892/) vzala legionáře [Ludvíka Myslíka](/osoba/ludvik-myslik-1891/) z Branišova – a jejich syn Vladimír je Janův dědeček. Rody, které se v rodokmenu potkaly až ve 20. století, se tedy znaly už za Napoleonových válek. Jestli byl kmotr Jan Myslík přímým příbuzným Ludvíkových předků, zatím nevíme – v Branišově žilo kolem roku 1800 několik rodin Myslíků, sedláci i domkáři.

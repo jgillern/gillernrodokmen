@@ -159,5 +159,12 @@
   "lat": 49.4644,
   "lon": 14.1026,
   "osm": "Vrábsko, Smetanova Lhota, okres Písek, Jihočeský kraj, 398 04, Česko"
+ },
+ "Mezno": {
+  "re": "Mezn",
+  "dotaz": "Mezno, okres Benešov",
+  "lat": 49.5345,
+  "lon": 14.6449,
+  "osm": "Mezno, okres Benešov, Středočeský kraj, Česko"
  }
 }

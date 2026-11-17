@@ -814,5 +814,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1901_piglova_josefa": {
+  "boxes": [
+   [
+    0.0,
+    0.525,
+    1.0,
+    0.725
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

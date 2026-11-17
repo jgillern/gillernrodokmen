@@ -19,7 +19,7 @@ Na konci 19. století sloužilo několik Gillernů jako lesníci na schwarzenber
 
 ## Hospodářský kontrolor v Osově (1924)
 
-Jan z Gillernů se stal hospodářským úředníkem – v roce 1924 byl kontrolorem velkostatku v Osově u Hořovic. Jeho žena [Julie Hřídelová](/osoba/julie-hridelova-1897/) byla dcerou rolníka [Františka Hřídela](/osoba/frantisek-hridel-1849/) z Horosedel u Mirovic. Desátého února 1924 se jim v Osově narodil syn, pokřtěný jako Augustin František Jan Křtitel z Gillernů. Za kmotry mu šli dědeček Augustin a babička Marie z Gillernů.
+Jan z Gillernů se stal hospodářským úředníkem – v roce 1924 byl kontrolorem velkostatku v Osově u Hořovic. Jeho žena [Julie Hřídelová](/osoba/julie-hridelova-1897/) byla dcerou rolníka [Františka Hřídela](/osoba/frantisek-hridel-1848/) z Horosedel u Mirovic. Desátého února 1924 se jim v Osově narodil syn, pokřtěný jako Augustin František Jan Křtitel z Gillernů. Za kmotry mu šli dědeček Augustin a babička Marie z Gillernů.
 
 ## „z Gillernů“ i v protektorátu (1939–1989)
 

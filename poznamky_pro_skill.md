@@ -55,3 +55,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   Do skillu přidat do výchozí šablony netlify.toml.
 
 - **Čtení písma – dlouhé „ſ“ a „u“ bez háčku (17. 11. 2026):** v Těchnicích 1894 jsem „Písku“ četl jako „Šitkn/Štěkni“ (ſ vypadá jako t, u bez obloučku jako n) a „Aloisie“ jako „Marie“ (velké A jako M). Do skillu: u nečitelného místa nejdřív zkusit obce, které už známe z jiných dokladů (tady „z Písku“ z křestního listu 1924), a porovnat velká písmena s jinými slovy téhož písaře.
+
+- **Netlify a počet nasazení (17. 11. 2026):** s `ignore = "exit 1"` spouští každý push nové produkční sestavení; za jeden večer jsme jich udělali 28 a web se přestal aktualizovat (nejspíš vyčerpaný měsíční limit bezplatného tarifu – ověřit podle stránky Deploys). Do skillu: commity, které nemění web (deník, STAV), označovat `[skip netlify]` a pushovat dávkově, ne po každé drobnosti.

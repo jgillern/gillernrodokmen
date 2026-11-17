@@ -1018,5 +1018,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1893_hridel_stetinova": {
+  "boxes": [
+   [
+    0.0,
+    0.465,
+    1.0,
+    0.735
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1897_hridelova_julie": {
+  "boxes": [
+   [
+    0.0,
+    0.335,
+    1.0,
+    0.48
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

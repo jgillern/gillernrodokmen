@@ -946,5 +946,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1867_richtr_frantisek": {
+  "boxes": [
+   [
+    0.0,
+    0.3,
+    1.0,
+    0.68
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

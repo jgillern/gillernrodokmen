@@ -206,6 +206,7 @@ SIDE = [
     dict(k=50, n="Antonie Šimková", t="Sestra Františka Šimka (stejní rodiče † Václav Šimek, podruh ze Zdíkovce č. 7, a Kateřina Bartušková). 18. 2. 1862 se ve Zdíkovci vdala za domkáře Františka Hájka ze Zdíkova č. 20. Zápis jmenuje i rodiče Kateřiny Bartuškové: Martin Bartušek, sedlák ze Zdíkovce č. 7, a Marie Anna Volfová ze Zdíkovce č. 1.", r=[]),
     dict(k=5, n="Věra Richtrová (* 1926)", t="Starší sestra babičky Boženy. Nar. 1926 v Mezně č. 14 (rejstřík narozených Střezimíř 22, matrika fol. 135).", r=[]),
     dict(k=22, n="Marie Plocová", t="První manželka Jana Pigla (není předkyní). Dcera rolníka Josefa Ploce ze Stupčic č. 12; vdala se 18. 1. 1876 ve Střezimíři v 17 letech. Nejspíš matka starších nevlastních sourozenců prababičky Josefy (děti z Mezna č. 36 od roku 1881).", r=["o_1876_pigl_plocova"]),
+    dict(k=41, n="Sourozenci Františky Kyptové (Záběhlice č. 2)", t="Podle rejstříku narozených fary Červený Újezd: starší Františka * 2. 12. 1838 (asi zemřela), Marie * 4. 7. 1843, Jan * 24. 1845.", r=[]),
     dict(k=20, n="Sourozenci Františka Richtra (Rohov č. 6)", t="Podle rejstříku narozených a zemřelých fary Prčice: Anastasie * 21. 4. 1865 († 1866), dvojčata Karolina a Karel * 21./22. 2. 1868 (Karel † 1870), Jan Ev. * 5. 11. 1869, Františka * 12. 2. 1872, Vincenc * 23. 3. 1874, Antonie * 24. 4. 1876.", r=[]),
     dict(k=15, n="Zdenka Slunečková (* 1927)", t="Snad sestra Ludmily Slunečkové. Nar. 18. 9. 1927 v Bukové (jen rejstřík narozených).", r=["i_n_1927_sluneckova_zdenka"]),
 ]

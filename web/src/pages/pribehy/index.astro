@@ -1,17 +1,33 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { docs, config, lineByK, href } from '../../lib/data.js';
+import { docs } from '../../lib/data.js';
+import { kapitoly } from '../../lib/kapitoly.js';
 import { Content, frontmatter } from '../../generated/pribeh.md';
-const line = lineByK[config.pribeh?.rod ?? 8];
 ---
 <Base title={frontmatter.title}>
-  <p class="crumbs">{line && <><a href={href.line(line.slug)}>rod {line.name}</a> · </>}<a href="/zajimavosti/">další zajímavosti</a></p>
+  <p class="crumbs"><a href="/zajimavosti/">zajímavosti</a></p>
   <h1>{frontmatter.title}</h1>
   {frontmatter.lead && <p class="lead">{frontmatter.lead}</p>}
+
+  {kapitoly.length > 0 && (
+    <>
+      <h2>Kapitoly</h2>
+      <div class="grid2">
+        {kapitoly.map((k, i) => (
+          <a class="card card-link" href={`/pribehy/${k.slug}/`}>
+            <p class="small muted">{k.fm.strana ? `${k.fm.strana} · ` : ''}{k.fm.obdobi ?? ''}{k.fm.stav ? ' · rozpracováno' : ''}</p>
+            <h3>{i + 1}. {k.fm.title}</h3>
+            {k.fm.lead && <p class="small muted">{k.fm.lead}</p>}
+          </a>
+        ))}
+      </div>
+    </>
+  )}
+
   <div class="prose"><Content /></div>
 
   <div class="next-step">
-    <p><strong>Chcete víc?</strong> Další objevy z rodokmenu najdete v zajímavostech.</p>
+    <p><strong>Chcete víc?</strong> Drobné objevy a kuriozity z matrik najdete v zajímavostech.</p>
     <a class="btn" href="/zajimavosti/">Zajímavosti z rodokmenu →</a>
   </div>
 

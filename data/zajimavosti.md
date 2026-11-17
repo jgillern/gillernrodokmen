@@ -2,9 +2,9 @@
 
 <!-- Každá zajímavost: ## nadpis, pak pár vět. Odkazy na osoby: [Jan Novák](/osoba/jan-novak-1850/) – adresa je v web/src/data/site.json. -->
 
-## Osm generací Píšů v jedné vesnici
+## Šest generací Píšů v jedné vesnici
 
-Nejdelší doložená linie celého rodokmenu vede přes rod Píšů z Kondrace u Vlašimi. Od [Jakuba Píši](/osoba/jakub-pisa/), který zemřel před rokem 1723, přes [Víta](/osoba/vit-pisa/), [Jana](/osoba/jan-pisa-1727/), [Matěje](/osoba/matej-pisa-1759/) a [Jana Křtitele](/osoba/jan-krtitel-pisa-1797/) až po [Jana Píšu](/osoba/jan-pisa-1831/), který se roku 1853 přiženil do Tisku u Pravonína, žili Píšové celé 18. století v Kondraci a jejím okolí. Jakub Píša je čtrnáctá generace před Janem Gillernem – narodil se ještě v 17. století.
+Nejdelší doložená linie celého rodokmenu vede přes rod Píšů z Kondrace u Vlašimi. Od [Jakuba Píši](/osoba/jakub-pisa/), který zemřel před rokem 1723, přes [Víta](/osoba/vit-pisa/), [Jana](/osoba/jan-pisa-1727/), [Matěje](/osoba/matej-pisa-1759/) a [Jana Křtitele](/osoba/jan-krtitel-pisa-1797/) až po [Jana Píšu](/osoba/jan-pisa-1831/), který se roku 1853 přiženil do Tisku u Pravonína, žili Píšové celé 18. století v Kondraci a jejím okolí. Šest generací Píšů tak žilo v jedné vesnici. Jakub Píša je jedenáctá generace před Janem Gillernem (Janův praděd v deváté generaci) – narodil se ještě v 17. století.
 
 ## Svatba bratrance se sestřenicí
 
@@ -12,11 +12,11 @@ V srpnu 1922 se v Pravoníně vdávala Anežka Svatková, mladší sestra prabab
 
 ## Když byla dospělost až ve čtyřiadvaceti
 
-Až do roku 1919 se v Rakousku za plnoletého považoval až čtyřiadvacetiletý. [Alois Sluneček](/osoba/alois-slunecek-1863/) se ženil ve 23 letech, a tak ho musel okresní soud v Dolních Kralovicích v únoru 1887 nejdřív prohlásit za zletilého. Za mladší nevěsty dávali souhlas otcové: v roce 1848 se pod svatební zápis dcery [Anny](/osoba/anna-musilova-1826/) vlastní rukou podepsal [Jan Musil](/osoba/jan-musil-1794/), v roce 1914 svolil ke sňatku dvacetileté [Ludmily Svatkové](/osoba/ludmila-svatkova-1893/) její otec [Jan Svatek](/osoba/jan-svatek/).
+Až do roku 1919 se v Rakousku za plnoletého považoval až čtyřiadvacetiletý. [Alois Sluneček](/osoba/alois-slunecek-1863/) se ženil ve 23 letech, a tak ho musel okresní soud v Dolních Kralovicích v únoru 1887 nejdřív prohlásit za zletilého. Za mladší nevěsty dávali souhlas otcové: v roce 1848 se pod svatební zápis dcery [Anny](/osoba/anna-musilova-1826/) vlastní rukou podepsal [Jan Musil](/osoba/jan-musil-1794/), v roce 1914 svolil ke sňatku dvacetileté [Ludmily Svatkové](/osoba/ludmila-svatkova-1893/) její otec [Jan Svatek](/osoba/jan-svatek/). Pod Šumavou to bylo stejné: [Annu Šimkovou](/osoba/anna-simkova-1862/), které bylo 23 a otec už nežil, prohlásil v prosinci 1885 za svéprávnou okresní soud ve Volyni; za osiřelého třiadvacetiletého [Josefa Šustra](/osoba/josef-sustr-1868/) svolil roku 1892 poručenský soud ve Vimperku; a pod svatbu nezletilých [Václava Volfa](/osoba/vaclav-volf-1847/) a [Františky Sovové](/osoba/frantiska-sovova-1848/) se roku 1869 podepsali oba otcové.
 
 ## Faráři se taky pletli
 
-Matriky nejsou neomylné. Otec [Jana Křtitele Píši](/osoba/jan-krtitel-pisa-1797/) se jmenoval Matěj – tak to stojí v zápisu o jeho křtu (1797) i v zápisu o jeho svatbě (1823). Farář, který v roce 1831 křtil jeho syna, ale napsal „Martin“. Podobně [Josefa Píšová](/osoba/josefa-pisova-1865/) se podle matriky narozených narodila 6. února 1865, svatební zápis o 22 let později uvádí 8. února, a [Janu Musilovi](/osoba/jan-musil-1794/) při úmrtí roku 1869 přičetli tři roky navíc. Proto se v rodokmenu každý údaj ověřuje ve více zápisech.
+Matriky nejsou neomylné. Otec [Jana Křtitele Píši](/osoba/jan-krtitel-pisa-1797/) se jmenoval Matěj – tak to stojí v zápisu o jeho křtu (1797) i v zápisu o jeho svatbě (1823). Farář, který v roce 1831 křtil jeho syna, ale napsal „Martin“. Podobně [Josefa Píšová](/osoba/josefa-pisova-1865/) se podle matriky narozených narodila 6. února 1865, svatební zápis o 22 let později uvádí 8. února, a [Janu Musilovi](/osoba/jan-musil-1794/) při úmrtí roku 1869 přičetli tři roky navíc. Prababičku [Marianu Staňkovou](/osoba/anna-mariana-stankova/) zapsali jednou jako Annu a jednou jako Marianu, a dokonce i farní rejstřík zdíkovecké matriky uvádí u [Františka Šimka](/osoba/frantisek-simek-1829/) 31. října 1829 – v zápisu samotném stojí 2. října. Proto se v rodokmenu každý údaj ověřuje ve více zápisech.
 
 ## Ševci, hokynáři, kovář a cihlář
 
@@ -63,3 +63,11 @@ Když se v lednu 1809 narodil na statku č. 5 v Masákově Lhotě [Václav Sova]
 Když se 30. května 1802 ve zdíkovském mlýně narodil [František Vaněk](/osoba/frantisek-vanek-1802/), šel mu za kmotra Jan Myslík, sedlák z Branišova. O sto devatenáct let později, v lednu 1921, si Františkova pravnučka [Františka Šustrová](/osoba/frantiska-sustrova-1892/) vzala legionáře [Ludvíka Myslíka](/osoba/ludvik-myslik-1891/) z Branišova – a jejich syn Vladimír je Janův dědeček. Rody, které se v rodokmenu potkaly až ve 20. století, se tedy znaly už za Napoleonových válek. Jestli byl kmotr Jan Myslík přímým příbuzným Ludvíkových předků, zatím nevíme – v Branišově žilo kolem roku 1800 několik rodin Myslíků, sedláci i domkáři.
 
 Podobných kmotrovství je v rodokmenu víc. V srpnu 1807 nesli ke křtu malou [Annu Frantovou](/osoba/anna-frantova-1807/) ze Zdíkova chalupník [Vít Železný](/osoba/vit-zelezny/) a jeho žena Anna. Anna Frantová se později vdala za mlynáře Vaňka – a v roce 1892 si její vnuk [Josef Šustr](/osoba/josef-sustr-1868/) vzal [Františku Volfovou](/osoba/frantiska-volfova-1869/), pravnučku kmotrů Železných. Ve vesnici o pár desítkách domů se všichni znali a kmotrovství, sňatky a sousedství se tu proplétaly po generace.
+
+## Babička u porodu
+
+Na vesnici rodily ženy doma a pomáhala jim porodní bába – často sousedka, někdy přímo babička dítěte. Když se v říjnu 1829 ve Zdíkovci narodil [František Šimek](/osoba/frantisek-simek-1829/), zapsal farář jako bábu jeho babičku Marii Annu Bartuškovou. Když v lednu 1836 přišla ve zdíkovském mlýně na svět [Františka Vaňková](/osoba/frantiska-vankova-1836/), pomáhala u porodu babička Kateřina Frantová.
+
+## Dvě Anny v jednom domě
+
+V chalupě č. 26 ve Zdíkově se Václavu a Kateřině Frantovým narodila v březnu 1797 dcera Anna. O deset let později, v srpnu 1807, pokřtili další dceru – a dali jí znovu jméno Anna. Starší Anna nejspíš zemřela jako malá, a tak její jméno dostala sestra; tak to tehdy bylo běžné. Tahle druhá [Anna Frantová](/osoba/anna-frantova-1807/) se pak vdala za zdíkovského mlynáře a je prapraprababičkou dědy Vladimíra.

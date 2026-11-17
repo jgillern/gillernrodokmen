@@ -394,6 +394,15 @@ def main():
         write(os.path.join(gen_dir, dst), strip_comments(re.sub(r"^# .*\n", "", text, count=1)))
     story = os.path.join(DATA, "pribeh.md")
     write(os.path.join(gen_dir, "pribeh.md"), strip_comments(open(story, encoding="utf-8-sig").read()) if has_story else "---\ntitle: Příběh\nlead: ''\n---\n")
+    # kapitoly příběhu (data/pribehy/*.md) – každá vlastní stránka /pribehy/<název souboru>/
+    ch_src = os.path.join(DATA, "pribehy")
+    ch_dst = os.path.join(gen_dir, "pribehy")
+    shutil.rmtree(ch_dst, ignore_errors=True)
+    if os.path.isdir(ch_src):
+        os.makedirs(ch_dst, exist_ok=True)
+        for f in sorted(os.listdir(ch_src)):
+            if f.endswith(".md"):
+                write(os.path.join(ch_dst, f), strip_comments(open(os.path.join(ch_src, f), encoding="utf-8-sig").read()))
 
     hrefs = os.path.join(gen_dir, "fan_hrefs.json")
     json.dump({k: f"/osoba/{s}/" for k, s in slugs.items()}, open(hrefs, "w", encoding="utf-8", newline="\n"))
@@ -429,6 +438,9 @@ def main():
     # odkazy v textech, které nikam nevedou (adresa osoby se změní třeba doplněním roku narození: jan-novak → jan-novak-1798)
     targets = dict(osoba=people, zdroj=recs, rod=lines, rodina=families)
     texts = {f: open(os.path.join(gen_dir, f), encoding="utf-8").read() for f in ("pribeh.md", "zajimavosti.md")}
+    if os.path.isdir(os.path.join(gen_dir, "pribehy")):
+        for f in os.listdir(os.path.join(gen_dir, "pribehy")):
+            texts["pribehy/" + f] = open(os.path.join(gen_dir, "pribehy", f), encoding="utf-8").read()
     texts["web.json"] = json.dumps(cfg, ensure_ascii=False)
     texts["osoby.py (hypotézy)"] = json.dumps(hypotheses, ensure_ascii=False)
     broken = [(f, m.group(0)) for f, t in texts.items()

@@ -1,0 +1,26 @@
+---
+title: Lesníci z Gillernů
+strana: tátova strana
+obdobi: 1568 – 1989
+rody: [8, 9]
+stav: Kapitola je rozpracovaná – vychází zatím z rodinných dokladů a tištěných pramenů, matriky Gillernů teprve přijdou na řadu.
+lead: "Od erbovního listu ze 16. století přes barony z Koryčan k lesníkům na schwarzenberském Orlíku a technikovi z Prahy. Rod tátova dědečka, který ještě za protektorátu úředně nesl přídomek „z Gillernů“."
+---
+
+<!-- Linie dědy Augustina Gillerna (1924–1989). Zdroje: rodinné doklady (křestní list 1924, kenkarta 1943, domovský list 1939, oddací list 1954, úmrtní list 1989), dopis K. Vyšína 1978, schwarzenberské šematismy. Matriky zatím neprohledány. -->
+
+## Erb a baroni (1568–1846)
+
+Podle dopisu, který v roce 1978 napsal rodový badatel Karel Vyšín, dostal Matouš Giller erbovní list už roku 1568. Jeho potomci sloužili knížatům z Lichtenštejna a v císařské armádě, roku 1724 se stali rytíři „von Gillern“ a o tři roky později svobodnými pány. Karel Josef svobodný pán z Gillernů koupil roku 1742 panství Koryčany na Moravě; jeho potomci ho drželi do roku 1826. Jak se k baronům z Koryčan připojuje naše větev, zatím nevíme.
+
+## Lesníci na Orlíku (kolem 1890–1924)
+
+Na konci 19. století sloužilo několik Gillernů jako lesníci na schwarzenberském panství Orlík. [Augustin z Gillernů](/osoba/augustin-z-gillernu/) byl v letech 1891–1902 lesním v Lavičkách, později nadlesním ve Vrábsku u Čimelic; jeho žena [Marie](/osoba/marie-rodne-prijmeni-necitelne/) pocházela z Písku. Nadlesním byl i Čeněk Gillern, nejspíš Augustinův bratr. Lesníci se stěhovali tam, kam je poslala vrchnost – proto se Augustinův syn [Jan](/osoba/jan-gillern-1894/) narodil 14. června 1894 v Lavičkách (v křestním listu svého syna je místo narození zapsáno jako „…hostice“, snad Bohostice).
+
+## Hospodářský kontrolor v Osově (1924)
+
+Jan z Gillernů se stal hospodářským úředníkem – v roce 1924 byl kontrolorem velkostatku v Osově u Hořovic. Jeho žena [Julie Hřídelová](/osoba/julie-hridelova-1897/) byla dcerou rolníka [Františka Hřídela](/osoba/frantisek-hridel/) z Horosedel u Mirovic. Desátého února 1924 se jim v Osově narodil syn, pokřtěný jako Augustin František Jan Křtitel z Gillernů. Za kmotry mu šli dědeček Augustin a babička Marie z Gillernů.
+
+## „z Gillernů“ i v protektorátu (1939–1989)
+
+Rodina patřila domovským právem do Louky u Písku a [Augustin](/osoba/augustin-gillern-1924/) studoval na reálce v Písku. V protektorátním občanském průkazu z roku 1943 je zapsán jako „z Gillernů“ – přestože šlechtické tituly zrušil už zákon z roku 1918. Po válce se stal technickým úředníkem a konstruktérem, v září 1954 se na Staroměstské radnici oženil s [Boženou Richtrovou](/osoba/bozena-richtrova-1929/) z Kolovrat a usadil se v Hrnčířích, kde má rodina hrob. Zemřel v dubnu 1989. Jeho syn [Jiří](/osoba/jiri-gillern-1955/) je Janův táta.

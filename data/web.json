@@ -12,52 +12,45 @@
   "odpoved": "Kunratice"
  },
  "uvod": {
-  "nadpis": "Rodokmen – první verze",
+  "nadpis": "Rodokmen – rozpracovaná verze",
   "odstavce": [
-   "Tohle je první verze rodinného webu. Všechno, co je tu označené jako doložené, jsme přečetli přímo v naskenovaných farních matrikách; u každého zápisu najdete výřez z originálu, přepis a překlad.",
-   "Zatím je rozpletená jen jedna ze čtyř hlavních linií po prarodičích – linie babičky Milady Myslíkové, rozené Beranové (* 1937 Pravonín). Ta ale sahá přes Slunečkovy, Svatkovy, Píšovy, Musilovy a další rody z Pravonínska a Vlašimska až do konce 17. století.",
-   "Linie dědy Augustýna Gillerna, babičky Boženy a dědy Vladimíra Myslíka na doplnění teprve čekají – chybějí nám roky a místa narození, které matriky na internetu zatím neodhalí. V části „Co hledáme“ je přehled, co by pomohlo."
+   "Všechno, co je tu označené jako doložené, jsme přečetli přímo v naskenovaných farních matrikách nebo v rodinných dokladech; u každého zápisu najdete výřez z originálu, přepis a překlad.",
+   "Z máminy strany jsou rozpletené obě linie: babička Milada Beranová (Pravonínsko a Vlašimsko, až do konce 17. století) a děda Vladimír Myslík (Zdíkov pod Šumavou, předci narození kolem roku 1760–1790). Z tátovy strany známe z rodinných dokladů Gillerny – potomky lesníků z Gillernů od Orlíka – a na řadu teprve přijde linie babičky Boženy Richtrové z Kolovrat.",
+   "Příběhy jednotlivých větví a jejich srovnání najdete v části Příběh, drobné objevy v Zajímavostech a to, co ještě hledáme, v části „Co hledáme“."
   ],
   "foto": "",
   "foto_popis": ""
  },
  "pribeh": {
-  "menu": "Příběh",
+  "menu": "Příběhy",
   "rod": 15,
-  "tlacitko": "Přečíst příběh máminy rodiny"
+  "tlacitko": "Číst příběhy rodů"
  },
  "zajimavosti_na_uvodu": [
   {
-   "nadpis": "Osm generací v jedné vesnici",
-   "text": "Píšové žili v Kondraci u Vlašimi od konce 17. století – nejdelší doložená linie rodokmenu."
+   "nadpis": "Legionář z Branišova",
+   "text": "Ludvík Myslík padl roku 1914 v Srbsku do zajetí a vrátil se jako legionář z Francie."
   },
   {
-   "nadpis": "Svatba bratrance se sestřenicí",
-   "text": "Anežka Svatková si roku 1922 vzala bratrance a potřebovala k tomu povolení biskupa."
+   "nadpis": "Sovové neboli Masákové",
+   "text": "Statek, podle kterého dostala jméno Masákova Lhota, patřil předkům dědy Vladimíra."
   },
   {
-   "nadpis": "Plnoletý až ve čtyřiadvaceti",
-   "text": "Aloise Slunečka musel soud prohlásit za zletilého, aby se mohl oženit."
+   "nadpis": "Potomci šlechtického rodu z Gillernů",
+   "text": "Ještě roku 1943 stál děda Augustin v legitimaci jako „z Gillernů“."
   },
   {
-   "nadpis": "Ševci, hokynáři, kovář a cihlář",
-   "text": "Čím se předkové živili – od kondrackého kováře po cihelnu v Pravoníně."
+   "nadpis": "Kmotr Myslík u mlynáře Vaňka",
+   "text": "Rody, které se spojily roku 1921, se znaly už za Napoleonových válek."
   }
  ],
- "podtitul": "14 generací, 49 předků doložených v matrikách a přes 300 let – od sedláka Jakuba Píši z Kondrace až k vám.",
+ "podtitul": "12 generací, přes 100 předků doložených v matrikách a víc než 300 let – od sedláka Jakuba Píši z Kondrace a Masáků z Masákovy Lhoty až k vám.",
  "casova_osa": [
   {
    "obdobi": "Robota a panství",
    "roky": "do 1847",
    "popis": "Poddaní vlašimského a čechtického panství: robota, vrchnost rozhoduje o svatbách i stěhování.",
    "udalosti": [
-    {
-     "rok": "před 1723",
-     "nadpis": "Jakub Píša, sedlák v Kondraci",
-     "text": "Nejstarší doložený předek; v lednu 1723 už „nebožtík“.",
-     "osoba": "jakub-pisa",
-     "strana": "mámina strana · Píšovi"
-    },
     {
      "rok": "1723",
      "nadpis": "Svatba Víta Píši",
@@ -86,6 +79,27 @@
      "strana": "mámina strana · Píšovi"
     },
     {
+     "rok": "1786",
+     "nadpis": "Německý zápis ze Stach",
+     "text": "Ve Stachách se narodila Terezie Uhlířová, prapraprababička dědy Vladimíra – farář tu psal matriky německy.",
+     "osoba": "terezie-uhlirova-1786",
+     "strana": "mámina strana · Šustrovi"
+    },
+    {
+     "rok": "1802",
+     "nadpis": "Narození ve mlýně",
+     "text": "Ve zdíkovském mlýně se narodil František Vaněk; kmotrem mu byl sedlák Jan Myslík z Branišova.",
+     "osoba": "frantisek-vanek-1802",
+     "strana": "mámina strana · Šustrovi"
+    },
+    {
+     "rok": "1809",
+     "nadpis": "Sova neboli Masák",
+     "text": "Na statku Masáků v Masákově Lhotě se narodil Václav Sova.",
+     "osoba": "vaclav-sova-1809",
+     "strana": "mámina strana · Šustrovi"
+    },
+    {
      "rok": "1817",
      "nadpis": "Nevěsta z městečka",
      "text": "Jan Musil z Jeníkova si bere měšťanskou dceru Annu Pešanovou z Křivsoudova.",
@@ -98,6 +112,13 @@
      "text": "František Sluneček × Anna Musilová; nezletilé nevěstě svolil otec vlastnoručním podpisem.",
      "osoba": "frantisek-slunecek-1823",
      "strana": "mámina strana · Slunečkovi"
+    },
+    {
+     "rok": "před 1723",
+     "nadpis": "Jakub Píša, sedlák v Kondraci",
+     "text": "Nejstarší doložený předek; v lednu 1723 už „nebožtík“.",
+     "osoba": "jakub-pisa",
+     "strana": "mámina strana · Píšovi"
     }
    ]
   },
@@ -127,11 +148,39 @@
      "strana": "mámina strana · Bezkočkovi"
     },
     {
+     "rok": "1865",
+     "nadpis": "Ženich po padesátce",
+     "text": "Vdovec Tomáš Šustr (52) si bere mlynářovu dceru Františku Vaňkovou (29).",
+     "osoba": "tomas-sustr-1812",
+     "strana": "mámina strana · Šustrovi"
+    },
+    {
+     "rok": "1869",
+     "nadpis": "Svatba s dispensí biskupa",
+     "text": "Příbuzní Václav Volf a Františka Sovová se berou s povolením z Budějovic.",
+     "osoba": "vaclav-volf-1847",
+     "strana": "mámina strana · Šustrovi"
+    },
+    {
+     "rok": "1886",
+     "nadpis": "Myslík a Šimková",
+     "text": "František Myslík z Branišova si bere Annu Šimkovou ze Zdíkovce.",
+     "osoba": "frantisek-myslik-1858",
+     "strana": "mámina strana · Myslíkovi"
+    },
+    {
      "rok": "1887",
      "nadpis": "Zletilý soudním výrokem",
      "text": "Třiadvacetiletého zámečníka Aloise Slunečka musel soud prohlásit za plnoletého, aby si mohl vzít Josefu Píšovou.",
      "osoba": "alois-slunecek-1863",
      "strana": "mámina strana · Slunečkovi"
+    },
+    {
+     "rok": "1891",
+     "nadpis": "Narodil se Ludvík Myslík",
+     "text": "Budoucí legionář, v Branišově č. 14.",
+     "osoba": "ludvik-myslik-1891",
+     "strana": "mámina strana · Myslíkovi"
     },
     {
      "rok": "1893",
@@ -201,6 +250,13 @@
      "text": "V adresářích firem je v Pravoníně každý rok zapsaná „cihelna – Beran, Jos.“.",
      "osoba": "josef-beran-1910",
      "strana": "mámina strana · Beranovi"
+    },
+    {
+     "rok": "1930",
+     "nadpis": "Narodil se děda Vladimír",
+     "text": "6. května ve Zdíkově, syn legionáře Ludvíka Myslíka a Františky Šustrové.",
+     "osoba": "vladimir-myslik-1930",
+     "strana": "mámina strana · Myslíkovi"
     },
     {
      "rok": "1937",
@@ -314,6 +370,72 @@
    "nazev": "Hudkovi",
    "popis": "Z Krasovic u Kondrace (čtení nejisté).",
    "maly": true
+  },
+  {
+   "rod": 12,
+   "koren": 12,
+   "nazev": "Myslíkovi",
+   "popis": "Domkáři a nájemníci z Branišova č. 14 – od Vavřince (kolem 1790) po legionáře Ludvíka."
+  },
+  {
+   "rod": 12,
+   "koren": 25,
+   "nazev": "Šimkovi",
+   "popis": "Chalupníci ze Stach a podruzi ve Zdíkovci."
+  },
+  {
+   "rod": 12,
+   "koren": 101,
+   "nazev": "Bartuškové",
+   "popis": "Sedláci ze Zdíkovce č. 7."
+  },
+  {
+   "rod": 12,
+   "koren": 51,
+   "nazev": "Benešovi",
+   "popis": "Sedláci a chalupníci ze Zdíkovce č. 6 a 19."
+  },
+  {
+   "rod": 12,
+   "koren": 49,
+   "nazev": "Staňkovi",
+   "popis": "Chalupníci z Nespic u Vacova."
+  },
+  {
+   "rod": 13,
+   "koren": 13,
+   "nazev": "Šustrovi",
+   "popis": "Chalupníci a zedníci z Masákovy Lhoty č. 18."
+  },
+  {
+   "rod": 13,
+   "koren": 53,
+   "nazev": "Vaňkové",
+   "popis": "Mlynáři ze zdíkovského mlýna č. 58."
+  },
+  {
+   "rod": 13,
+   "koren": 107,
+   "nazev": "Frantovi",
+   "popis": "Domkáři a chalupníci ze Zdíkova č. 26."
+  },
+  {
+   "rod": 13,
+   "koren": 27,
+   "nazev": "Volfové",
+   "popis": "Podruzi a pachtýři ze Stach, později domkáři v Masákově Lhotě."
+  },
+  {
+   "rod": 13,
+   "koren": 55,
+   "nazev": "Sovové (Masákové)",
+   "popis": "Sedláci ze statku č. 5 v Masákově Lhotě, podle nichž se vesnice jmenuje."
+  },
+  {
+   "rod": 13,
+   "koren": 111,
+   "nazev": "Železní",
+   "popis": "Chalupníci ze Zdíkova č. 11."
   }
  ]
 }

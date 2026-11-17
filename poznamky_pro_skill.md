@@ -42,3 +42,10 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - **VÚA Praha (vuapraha.cz) z cloudu:** curl přes brzdu neověří certifikát webu (chybí mezilehlý certifikát?), pomocník web-fetch byl zamítnut
   kontrolou oprávnění. Databázi legionářů (https://www.vuapraha.cz/databaze-vha/) musí hledat uživatel v prohlížeči. Do skillu doplnit
   návod: legionář ve svatebním zápisu („francouzský/ruský/italský legionář“) → databáze legionářů VÚA (karta s útvarem, daty, domovskou obcí).
+
+- **Příběh po kapitolách:** jeden data/pribeh.md přestal stačit, když přibyly další linie. Zavedeno data/pribehy/NN-nazev.md
+  (frontmatter title, strana, obdobi, rody, stav, lead) → stránky /pribehy/<nazev>/ s navigací, data/pribeh.md je úvod knihy;
+  plus srovnávací kapitola „Jak žili“. Úpravy: tools/export_web.py (kopie do generated/pribehy, kontrola odkazů),
+  web/src/lib/kapitoly.js, web/src/pages/pribehy/[slug].astro. Stálo by za to mít ve skillu jako výchozí strukturu.
+- **SOA Třeboň, Zdíkovec:** ID archivní knihy = 8772 + pořadové číslo knihy; farní číslování v rejstřících a svatebních
+  zápisech („matr. č. 12“, „kniha 1“) se s archivním neshoduje – vždy ověřit podle roků a obcí v popisu knihy.

@@ -1,0 +1,25 @@
+---
+import Base from '../../layouts/Base.astro';
+import { lineByK, href } from '../../lib/data.js';
+import { kapitoly } from '../../lib/kapitoly.js';
+export function getStaticPaths() {
+  return kapitoly.map((k, i) => ({ params: { slug: k.slug }, props: { i } }));
+}
+const { i } = Astro.props;
+const k = kapitoly[i];
+const prev = kapitoly[i - 1];
+const next = kapitoly[i + 1];
+const rody = (k.fm.rody ?? []).map((r) => lineByK[r]).filter(Boolean);
+const { Content } = k;
+---
+<Base title={k.fm.title}>
+  <p class="crumbs"><a href="/pribehy/">Příběhy</a> · kapitola {i + 1} z {kapitoly.length}{rody.length > 0 && <> · {rody.map((l, j) => <>{j > 0 && ', '}<a href={href.line(l.slug)}>rod {l.name}</a></>)}</>}</p>
+  <h1>{k.fm.title}</h1>
+  {k.fm.lead && <p class="lead">{k.fm.lead}</p>}
+  {k.fm.stav && <p class="small muted">{k.fm.stav}</p>}
+  <div class="prose"><Content /></div>
+  <nav class="next-step" style="display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap">
+    {prev ? <a href={`/pribehy/${prev.slug}/`}>← {prev.fm.title}</a> : <a href="/pribehy/">← všechny kapitoly</a>}
+    {next ? <a class="btn" href={`/pribehy/${next.slug}/`}>{next.fm.title} →</a> : <a class="btn" href="/zajimavosti/">Zajímavosti →</a>}
+  </nav>
+</Base>

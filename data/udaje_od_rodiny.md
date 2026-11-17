@@ -38,3 +38,21 @@ Vydal MNV Pravonín (okr. Vlašim) 13. 11. 1952 podle rodné matriky řím.-kat.
 - Otec: Josef Beran, * 3. 6. 1910 Velká Jesenice, majitel cihelny, Pravonín čp. 72; syn Josefa Berana a Emilie roz. Kozákové.
 - Matka: Ludmila Slunečková, * 7. 4. 1916 Buková (která Buková – neurčeno); dcera Františka Slunečka a Ludmily roz. Svatkové.
 - Buková, kde se narodila Ludmila Slunečková (1916), je podle Jana část obce Pravonín.
+
+## 17. 11. 2026 – Rodinné doklady (fotky od Jana; originály jen lokálně v dokumenty/, ne v gitu ani na webu)
+- **Rodný list Jiřího Gillerna** (ONV Praha 2, 8. 12. 1955; sv. I/12, r. 1955, s. 244, č. 1271): * 22. 11. 1955 Praha II čp. 441.
+  Otec Augustin Gillern, * 10. 2. 1924 Osov (okr. Hořovice), technický úředník, Hrnčíře č. 43 (okr. Praha-východ), syn †Jana
+  Gillerna a Julie roz. Hřídelové. Matka Božena Gillernová roz. Richtrová, * 12. 9. 1929 (sic) Kolovraty (okr. Říčany),
+  administrativní úřednice, Hrnčíře 43, dcera Josefa Richtra a †Josefy roz. Piglové.
+- **Oddací list Augustina Gillerna a Boženy Richtrové** (ONV Praha 1, 12. 10. 1954; sv. 37, r. 1954, s. 149, č. 3692):
+  sňatek 25. 9. 1954 Praha 1, Staroměstská radnice. Ženich * 10. 2. 1924 Osov, o. Hořovice, tech. úředník, svobodný,
+  Hrnčíře čp. 43; rodiče †Jan Gillern, hospodářský úředník, * 14. 6. 1894 Lavičky, a Julie roz. Hřídelová, v domácnosti,
+  * 22. 10. 1897 Horosedly. Nevěsta * 13. 9. 1929 Kolovraty, o. Říčany, úřednice, Praha 7-Holešovice, Komunardů 432/14;
+  rodiče Josef Richtr, vlakvedoucí ČSD, * 24. 7. 1899 Mezno, a †Josefa roz. Piglová, v domácnosti, * 7. 3. 1901 Mezno.
+  Svědci Josef Richtr (zaměstnanec ČSD, Kolovraty čp. 258) a Václav Rupert. Příjmení Gillern.
+- **Rodný list Boženy Richtrové** (MNV Uhříněves, 24. 8. 1954, podle matriky ř.-kat. farního úřadu Uhříněves sv. 1897(?),
+  r. 1929, s. 130, č. 20): * 13. 9. 1929 Kolovraty; otec Josef Richtr * 24. 7. 1899 Mezno, železniční zřízenec, Kolovraty čp. 192;
+  matka Josefa Richtrová roz. Piglová * 7. 3. 1901 Mezno; prarodiče František Richtr × Božena roz. Otradovcová; Jan Pigl ×
+  Barbora roz. Doubková.
+- **Osvědčení o občanství Boženy Gillernové** (ONV Praha-východ, 24. 11. 1954): * 13. 9. 1929 Kolovraty, bytem Hrnčíře čp. 43.
+- **Osvědčení o občanství Vladimíra Myslíka** (ONV Praha 13, 24. 5. 1955): * 6. 5. 1930 Zdíkov, okr. Vimperk, bytem Praha 13-Michle čp. 1111.

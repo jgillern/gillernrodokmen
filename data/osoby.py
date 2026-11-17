@@ -19,12 +19,20 @@
 
 P = {
     1: dict(n="Jan Gillern", y="* 1990", st="fam", sex="M", f=[], note="Žijící – údaje jen základní. Výchozí osoba rodokmenu."),
-    2: dict(n="Jiří Gillern", y="asi 1955 – asi 2015", st="fam", f=["* asi 1955 (snad Praha)", "telekomunikační technik", "† asi 2015", "pohřben Praha-Hrnčíře"], note="Otec Jana. Údaje od Jana Gillerna (16. 11. 2026), roky i místo narození jen odhadem."),
+    2: dict(n="Jiří Gillern", y="1955 – asi 2015", st="fam", f=["* 22. 11. 1955 Praha II čp. 441", "telekomunikační technik", "† asi 2015", "pohřben Praha-Hrnčíře"], note="Otec Jana. Rodný list Jiřího Gillerna (1955), oddací list Augustina Gillerna a Boženy Richtrové (1954), rodný list Boženy Richtrové (1954) – rodinné doklady, foto od Jana Gillerna 17. 11. 2026."),
     3: dict(n="Zuzana Myslíková", y="", st="fam", f=[], note="Matka Jana, provdaná Gillernová. Údaj od Jana Gillerna (16. 11. 2026)."),
-    4: dict(n="Augustýn Gillern", y="", st="fam", f=["pohřben Praha-Hrnčíře"], note="Otec Jiřího. Údaj od Jana Gillerna (16. 11. 2026). Na hřbitově v Hrnčířích leží i jeho rodiče a syn Jiří."),
-    5: dict(n="Božena (rodné příjmení?)", y="", st="fam", f=[], note="Matka Jiřího, provdaná Gillernová. Rodné příjmení zatím neznámé."),
+    4: dict(n="Augustin Gillern", y="* 1924", st="fam", f=["* 10. 2. 1924 Osov (okr. Hořovice)", "technický úředník, bytem Hrnčíře čp. 43 (1954–55)", "× 25. 9. 1954 Praha 1 (Staroměstská radnice) Božena Richtrová", "pohřben Praha-Hrnčíře"], note="Otec Jiřího (rodina mu říkala Augustýn). Rodný list Jiřího Gillerna (1955), oddací list Augustina Gillerna a Boženy Richtrové (1954), rodný list Boženy Richtrové (1954) – rodinné doklady, foto od Jana Gillerna 17. 11. 2026."),
+    5: dict(n="Božena Richtrová", y="* 1929", st="fam", f=["* 1929 Kolovraty (okr. Říčany)", "× 1954 Praha Augustin Gillern"], note="Matka Jiřího, provdaná Gillernová, úřednice. Přesné datum narození je v rodném listu (13. 9.; v rodném listu syna 12. 9.) – na webu jen rok, dokud nevíme, zda žije. Rodný list Jiřího Gillerna (1955), oddací list Augustina Gillerna a Boženy Richtrové (1954), rodný list Boženy Richtrové (1954) – rodinné doklady, foto od Jana Gillerna 17. 11. 2026."),
     6: dict(n="Vladimír Myslík", y="1930–2024", st="fam", f=["* 6. 5. 1930 Zdíkov (okr. Prachatice)", "† 23. 8. 2024"], note="Otec Zuzany. Údaje z jeho úmrtního listu (2024), kopii poslal Jan Gillern 16. 11. 2026. Zemřel v nemocnici – místo úmrtí na mapu nedáváme (přání Jana)."),
     7: dict(n="Milada Beranová", y="* 1937", st="fam", f=["* 1937 Pravonín čp. 72"], note="Matka Zuzany, provdaná Myslíková. Rodný list Milady Beranové (MNV Pravonín 1952, podle matriky Pravonín sv. XXVI s. 155), foto od Jana Gillerna 16. 11. 2026. Zda žije, zatím nevíme – proto jen rok."),
+    8: dict(n="Jan Gillern", y="1894 – před 1954", st="fam", f=["* 14. 6. 1894 Lavičky", "hospodářský úředník", "† před 25. 9. 1954"], note="Otec Augustina. Rodný list Jiřího Gillerna (1955), oddací list Augustina Gillerna a Boženy Richtrové (1954), rodný list Boženy Richtrové (1954) – rodinné doklady, foto od Jana Gillerna 17. 11. 2026. Narozen v Lavičkách u Orlíka, kde byl v letech 1891–1902 lesním Augustin z Gillernů (Schwarzenbergský šematismus) – nejspíš jeho otec (ověřit matrikou)."),
+    9: dict(n="Julie Hřídelová", y="* 1897", st="fam", f=["* 22. 10. 1897 Horosedly", "v domácnosti"], note="Matka Augustina. Rodný list Jiřího Gillerna (1955), oddací list Augustina Gillerna a Boženy Richtrové (1954), rodný list Boženy Richtrové (1954) – rodinné doklady, foto od Jana Gillerna 17. 11. 2026. Hřídelové byli také lesníci na panství Orlík (Čeněk Hřídel, lesní v Karlově, 1902)."),
+    10: dict(n="Josef Richtr", y="* 1899", st="fam", f=["* 24. 7. 1899 Mezno", "železniční zřízenec / vlakvedoucí ČSD", "Kolovraty čp. 192 (1929), čp. 258 (1954)"], note="Otec Boženy. Syn Františka Richtra a Boženy roz. Otradovcové. Rodný list Jiřího Gillerna (1955), oddací list Augustina Gillerna a Boženy Richtrové (1954), rodný list Boženy Richtrové (1954) – rodinné doklady, foto od Jana Gillerna 17. 11. 2026."),
+    11: dict(n="Josefa Piglová", y="1901 – před 1955", st="fam", f=["* 7. 3. 1901 Mezno", "v domácnosti", "† před 22. 11. 1955"], note="Matka Boženy. Dcera Jana Pigla a Barbory roz. Doubkové. Rodný list Jiřího Gillerna (1955), oddací list Augustina Gillerna a Boženy Richtrové (1954), rodný list Boženy Richtrové (1954) – rodinné doklady, foto od Jana Gillerna 17. 11. 2026."),
+    20: dict(n="František Richtr", y="", st="fam", f=[], note="Otec Josefa Richtra. Jen jméno z rodného listu vnučky Boženy (1929/1954)."),
+    21: dict(n="Božena Otradovcová", y="", st="fam", f=[], note="Matka Josefa Richtra. Jen jméno z rodného listu vnučky Boženy (1929/1954)."),
+    22: dict(n="Jan Pigl", y="", st="fam", f=[], note="Otec Josefy Piglové. Jen jméno z rodného listu vnučky Boženy (1929/1954)."),
+    23: dict(n="Barbora Doubková", y="", st="fam", f=[], note="Matka Josefy Piglové. Jen jméno z rodného listu vnučky Boženy (1929/1954)."),
     14: dict(n="Josef Beran", y="* 1910", st="fam", f=["* 3. 6. 1910 Velká Jesenice", "majitel cihelny v Pravoníně čp. 72 (1937)"], note="Otec Milady. Rodný list Milady Beranové (MNV Pravonín 1952, podle matriky Pravonín sv. XXVI s. 155), foto od Jana Gillerna 16. 11. 2026."),
     15: dict(n="Ludmila Slunečková", y="* 1916", st="fam", f=["* 7. 4. 1916 Buková"], note="Matka Milady. Která Buková, zatím neurčeno. Rodný list Milady Beranové (MNV Pravonín 1952, podle matriky Pravonín sv. XXVI s. 155), foto od Jana Gillerna 16. 11. 2026."),
     28: dict(n="Josef Beran", y="", st="fam", f=[], note="Otec Josefa Berana (* 1910). Jen jméno z rodného listu vnučky Milady (1952)."),
@@ -83,6 +91,10 @@ P = {
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
 # 8: ("Novákové", "Jedna věta, kdo to byli a odkud – ukáže se na webu u rodu."),
 LINES = {
+    8: ("Gillernovi", "Rod dědova otce Jana Gillerna (* 1894 Lavičky u Orlíka), hospodářského úředníka. Nejspíš potomci lesníků z Gillernů na schwarzenberském panství Orlík."),
+    9: ("Hřídelovi", "Rod dědovy matky Julie Hřídelové (* 1897 Horosedly u Mirovic) – i Hřídelové sloužili jako lesníci na panství Orlík."),
+    10: ("Richtrovi", "Rod babiččina otce Josefa Richtra (* 1899 Mezno), železničáře z Kolovrat."),
+    11: ("Piglovi", "Rod babiččiny matky Josefy Piglové (* 1901 Mezno)."),
     14: ("Beranovi", "Rod babiččina otce Josefa Berana (* 1910 Velká Jesenice), majitele cihelny v Pravoníně. Starší generace zatím neznáme – matriky po roce 1906 nejsou online."),
     15: ("Slunečkovi", "Rod babiččiny matky Ludmily Slunečkové (* 1916 Buková u Pravonína). Patří sem větve Slunečků, Svatků, Bezkočků, Píšů, Malých, Musilů, Kubálků a Pešanů z Pravonínska, Čechticka, Kondracka a Vlašimska – nejstarší doložený předek, Jakub Píša z Kondrace, zemřel před rokem 1723."),
 }

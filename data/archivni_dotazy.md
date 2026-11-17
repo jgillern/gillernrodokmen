@@ -9,18 +9,22 @@ Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matri
 | Gillernovi | data úmrtí pradědečka Jana Gillerna a prababičky Julie – náhrobek v Praze-Hrnčířích (správa hřbitova MČ Praha-Šeberov); úmrtní list táty Jiřího; doklady Jana Gillerna (domovský list, vysvědčení, pracovní knížka) |
 | babička Božena | její rodné příjmení, rok a místo narození |
 | Myslíkovi | rodné příjmení prababičky Františky Myslíkové (* asi 1892, † 1969 Masákova Lhota) a kdy se brala s Ludvíkem |
-| Beranovi | odkud přišli pradědeček Josef Beran st. a Emilie Kozáková, kde jsou pohřbeni, kde se brali Josef ml. a Ludmila Slunečková; kdo byl Emil Beran (v Pravoníně 1937–38) |
+| Beranovi | **doklady Josefa Berana (1910–1975)** u příbuzných (rodiny Milady, Ludmily, Růženy, Josefa, Zdeňka a Pavla): křestní list (církevní listy z 20.–40. let uvádějí i prarodiče s místem narození – jako u dědy Augustina), domovský list (obec, kam rodina „patřila“ = odkud přišla), oddací list; **fotka rodinného hrobu v Pravoníně** (Josef st. a Emilie zemřeli až po 1949 – v církevní matrice Pravonín do 1949 nejsou); kdo byl Emil Beran (v Pravoníně 1937–38) – asi bratr z parte 1975 |
 
 ## Matriční úřady (zápisy, které ještě nejsou v archivu)
 
 | osoba | co | kde | proč |
 |---|---|---|---|
 | Ludmila Beranová, * 21. 4. 1912 Pravonín | výpis z matriky narozených (XXVI, s. 73) | matriční úřad Vlašim | sestra pradědečka Josefa; uvede rodiče Josefa Berana st. a Emilii Kozákovou i s jejich původem – zápis je starší 100 let, vydají ho komukoli |
+| Josef Beran st. a Emilie Beranová, † po 1949 (asi Pravonín/Buková) | doslovný výpis / kopie zápisu z matriky zemřelých – uvádí datum a místo narození | matriční úřad Pravonín / Vlašim (podle roku úmrtí z náhrobku) | Jan je přímý potomek – má na výpis nárok |
 | Josef Beran, * 3. 6. 1910 Velká Jesenice | výpis z matriky narozených | matriční úřad pro Velkou Jesenici (Česká Skalice?) | totéž – rodiče a prarodiče |
 | Jiří Gillern, * asi 1955 | doslovný výpis z matriky narozených | matriční úřad místa narození | rodiče Augustýn a Božena s daty a místy narození |
 | Augustýn a Božena Gillernovi | výpis z matriky oddaných | matriční úřad místa sňatku | rodiče obou snoubenců, rodné příjmení Boženy |
 
 ## Archivy – knihy, které nejsou naskenované
+
+- **SOkA Benešov, Archiv obce Pravonín:** domovská matrika / seznam příslušníků obce – kdy a odkud Beranovi získali domovské právo
+  (přišli 1910–1912); případně sčítání lidu 1921 (uvádí místo narození a domovskou obec každého obyvatele).
 
 - **SOkA Písek, Archiv obce Louka:** domovská matrika / seznam příslušníků obce – kdy a odkud Gillernové získali domovské právo
   (Augustin byl do Louky příslušný 1939, nejspíš po otci Janovi).

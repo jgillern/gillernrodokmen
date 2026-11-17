@@ -850,5 +850,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1897_richtr_otradovcova": {
+  "boxes": [
+   [
+    0.0,
+    0.5,
+    1.0,
+    0.94
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

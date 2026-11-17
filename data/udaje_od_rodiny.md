@@ -56,3 +56,10 @@ Vydal MNV Pravonín (okr. Vlašim) 13. 11. 1952 podle rodné matriky řím.-kat.
   Barbora roz. Doubková.
 - **Osvědčení o občanství Boženy Gillernové** (ONV Praha-východ, 24. 11. 1954): * 13. 9. 1929 Kolovraty, bytem Hrnčíře čp. 43.
 - **Osvědčení o občanství Vladimíra Myslíka** (ONV Praha 13, 24. 5. 1955): * 6. 5. 1930 Zdíkov, okr. Vimperk, bytem Praha 13-Michle čp. 1111.
+
+## 17. 11. 2026 – Parte (foto od Jana; originály jen lokálně, obsahují jména žijících příbuzných)
+- **Ludmila Slunečková** (roz. Svatková) † neděle 8. 2. 1970, 77 let; pohřeb 11. 2. 1970 z domu smutku Buková čp. 8, kostel v Pravoníně, rodinný hrob na místním hřbitově. Za pozůstalé „Rodina Beranova“.
+- **František Slunečko**, důchodce, † čtvrtek 30. 12. 1954, 66 let, Dolní Vysoká; pohřeb 2. 1. 1955 z domu smutku v Dolní Vysoké, hřbitov v Levíně (pohřební služba Úštěk). Za pozůstalé „Rodina Slunečkova“.
+- **Josef Beran** † pátek 22. 8. 1975 náhle, 65 let; pohřeb 27. 8. 1975 z domu smutku, rodinný hrob na hřbitově v Pravoníně; „V Bukové 25. 8. 1975“. Pozůstalí: manželka Ludmila Beranová; děti Milada, Ludmila, Růžena, Josef, Zdeněk, Pavel; zeťové a snachy Vladimír Myslík, Václav Česal, Jaroslav Lamač, Jiřina a Ludmila Beranovy; 9 vnoučat. Parte uvádí „bratr“ a „švagr“ – měl tedy sourozence.
+- **Ludmila Beranová** (roz. Slunečková) † středa 30. 7. 2003, 87 let; rozloučení 6. 8. 2003 v kostele sv. Jana Křtitele v Pravoníně, zpopelněna; „V Bukové 30. 7. 2003“.
+- Pro Berany: rodinný hrob v Pravoníně – náhrobek může uvádět i Josefa Berana st. a Emilii (fotka by pomohla).

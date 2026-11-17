@@ -2,6 +2,36 @@
 
 Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matričním úřadě nebo od rodiny. Aktualizováno 16. 11. 2026.
 
+## Otázky pro strýce Pavla Berana
+
+Pavel Beran je syn pradědečka Josefa Berana (1910–1975) a bratr babičky Milady. O rodu Beranů ví nejspíš nejvíc z celé rodiny – v matrikách na internetu se linie zastavila u jeho dědečka a babičky.
+
+**Dědeček a babička – Josef Beran a Emilie roz. Kozáková**
+1. Kdy zemřeli a kde jsou pohřbení? Leží v rodinném hrobě v Pravoníně? Co je napsané na náhrobku (jména, roky)? Šel by hrob vyfotit?
+2. Odkud pocházeli? Mluvilo se doma o vesnici nebo kraji, kde se narodili, nebo kde má rodina příbuzné?
+3. Proč se rodina kolem roku 1911 přestěhovala z Velké Jesenice u Náchoda do Pravonína? Šlo o práci v cihelně?
+4. Kde a kdy se dědeček s babičkou brali?
+
+**Cihelna v Pravoníně**
+5. Kdy ji Beranovi koupili nebo postavili, od koho, kde stála a co se s ní stalo (po roce 1948)?
+
+**Sourozenci tatínka Josefa (* 1910)**
+6. Teta Ludmila (* 1912 Pravonín) – za koho se vdala, kde žila?
+7. Kdo byl Emil Beran, který žil v Pravoníně v letech 1937–38? Byl to tatínkův bratr? Měl tatínek ještě další sourozence?
+
+**Rodiče – Josef Beran a Ludmila Slunečková**
+8. Kdy a kde se brali (asi 1936)? V pravonínském kostele to nebylo.
+
+**Doklady a fotky**
+9. Nezachovaly se po tatínkovi nebo dědečkovi doklady – křestní list, domovský list, oddací list, výuční list, vojenská knížka, parte dědečka a babičky? Hlavně křestní a domovský list by prozradily, odkud Beranovi přišli.
+10. Rodinné fotky (s popisky na rubu), dopisy, zápisky?
+
+**Slunečkovi**
+11. Proč dědeček František Sluneček zemřel v roce 1954 v Dolní Vysoké u Úštěku, když babička Ludmila žila v Bukové?
+
+**Kdo ještě**
+12. Kdo další v rodině by mohl vědět víc (sestřenice, bratranci, pamětníci v Bukové a Pravoníně, obecní kronika)?
+
 ## Od rodiny – nejrychlejší cesta
 
 | linie | co by pomohlo |

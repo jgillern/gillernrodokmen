@@ -103,3 +103,7 @@ V lednu 1894 zemřel v Čimelicích na mrtvici dvaasedmdesátiletý knížecí r
 ## Babička se podepsala sama
 
 Když babička [Tekla](/osoba/tekla-vejdovcova/) v červnu 1894 kmotrovala vnukovi Janovi, do matriky v Těchnicích se podepsala vlastní rukou rozmáchlým „Thekla v. (?) Gillern“ – v době, kdy se většina kmotrů z vesnic jen podepisovala křížkem. A ještě jedna drobnost: kdo dnes otevře Janův křestní zápis, najde vedle něj poznámku připsanou o 27 let později: „Oddán s Julií Hřídelovou 26/11 1921 v Mirovicích“. Fary si o svatbách posílaly zprávy, aby křestní matrika věděla o celém životě svého farníka.
+
+## Křestní list „do Ameriky“
+
+Pod křestním zápisem praprababičky [Marie Karoliny Linkové](/osoba/marie-linkova-1869/), dcery píseckého mlynáře (narozena 1869), připsal farář později drobnou poznámku: křestní list byl „vydán do Ameriky“ – a později ještě jednou jako duplikát. Data jsou bohužel nečitelná. Kdo si křestní list do Ameriky vyžádal a proč, zatím nevíme: v té době odcházely za moře desetitisíce lidí z jižních Čech a úřady i budoucí zaměstnavatelé po nich chtěli doklady. Marie sama v Čechách zůstala – vdala se za lesníka Augustina z Gillernů a v roce 1924 šla za kmotru vnukovi Augustinovi.

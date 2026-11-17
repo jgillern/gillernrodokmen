@@ -1,0 +1,187 @@
+---
+// Klasický rodokmen (vývod předků): Jan vlevo, každá generace předků o sloupec doprava,
+// otec nad matkou, spojovací čáry „do závorky“. Rozložení se počítá při sestavení webu ze site.json,
+// takže roste samo s každým doplněným předkem.
+import Base from '../../layouts/Base.astro';
+import { people, root, lines, href } from '../../lib/data.js';
+
+const BOX_W = 210, BOX_H = 46, COL = 260, ROW = 54, PAD = 24;
+const lineColor = Object.fromEntries(Object.values(lines).map((l) => [l.slug, l.color]));
+
+// rozložení: list (předek bez známých rodičů) dostane další volný řádek, ostatní se vycentrují mezi rodiče
+const nodes = [];
+const edges = [];
+let row = 0;
+function place(slug, gen) {
+  const p = people[slug];
+  const parents = [p.father, p.mother].filter((s) => s && people[s]);
+  const placed = parents.map((s) => place(s, gen + 1));
+  const y = placed.length ? placed.reduce((a, n) => a + n.y, 0) / placed.length : row++ * ROW;
+  const n = { slug, p, gen, x: gen * COL, y };
+  nodes.push(n);
+  placed.forEach((par) => edges.push([n, par]));
+  return n;
+}
+place(root.slug, 0);
+const maxGen = Math.max(...nodes.map((n) => n.gen));
+const W = (maxGen + 1) * COL - (COL - BOX_W) + PAD * 2;
+const H = Math.max(...nodes.map((n) => n.y)) + BOX_H + PAD * 2;
+
+// rámce pro tlačítka „tátova / mámina strana“
+const bbox = (list) => {
+  const xs = list.map((n) => n.x), ys = list.map((n) => n.y);
+  return [Math.min(...xs), Math.min(...ys), Math.max(...xs) + BOX_W + PAD * 2, Math.max(...ys) + BOX_H + PAD * 2];
+};
+const subtree = (slug) => {
+  const out = [];
+  const walk = (s) => { const n = nodes.find((m) => m.slug === s); if (!n) return; out.push(n); walk(n.p.father); walk(n.p.mother); };
+  walk(slug);
+  return out;
+};
+const fatherSide = root.father ? subtree(root.father) : [];
+const motherSide = root.mother ? subtree(root.mother) : [];
+const views = {
+  start: [0, 0, W, H],
+  otec: fatherSide.length ? bbox(fatherSide) : null,
+  matka: motherSide.length ? bbox(motherSide) : null,
+  vse: [0, 0, W, H],
+};
+
+const short = (t, max) => (t.length > max ? t.slice(0, max - 1) + '…' : t);
+const genLabel = (g) => ['Jan', 'rodiče', 'prarodiče', 'praprarodiče'][g] ?? `${g}. generace`;
+---
+<Base title="Celý rodokmen" full>
+  <div class="fan-bar">
+    <strong>Celý rodokmen</strong> <a class="small" href="/rodokmen/">← po listech</a>
+    <form class="fan-search" autocomplete="off">
+      <input placeholder="Najít předka…" aria-label="Najít předka" />
+      <button type="submit">Najít</button>
+    </form>
+    <span class="fan-btns">
+      <button type="button" data-z="1.5" aria-label="Přiblížit">+</button>
+      <button type="button" data-z="0.667" aria-label="Oddálit">−</button>
+      {views.otec && <button type="button" data-view="otec">Tátova strana</button>}
+      {views.matka && <button type="button" data-view="matka">Mámina strana</button>}
+      <button type="button" data-view="vse">Celý</button>
+    </span>
+    <span class="small muted fan-hint">Plná čára rámečku = doloženo matrikou, čárkovaná = podle rodinných dokladů nebo pravděpodobné. Klepnutím otevřete stránku předka.</span>
+  </div>
+  <div class="fan-stage tree-stage" data-views={JSON.stringify(views)}>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox={`0 0 ${W} ${H}`} preserveAspectRatio="xMidYMid meet" role="img" aria-label="Rodokmen předků">
+      <g transform={`translate(${PAD} ${PAD})`}>
+        {[...Array(maxGen + 1).keys()].map((g) => (
+          <text class="tree-gen" x={g * COL + BOX_W / 2} y={-8} text-anchor="middle">{genLabel(g)}</text>
+        ))}
+        <g class="tree-edges">
+          {edges.map(([c, par]) => {
+            const x1 = c.x + BOX_W, y1 = c.y + BOX_H / 2, x2 = par.x, y2 = par.y + BOX_H / 2, mx = x1 + (x2 - x1) / 2;
+            return <path d={`M${x1} ${y1}H${mx}V${y2}H${x2}`} />;
+          })}
+        </g>
+        <g class="tree-nodes">
+          {nodes.map((n) => {
+            const color = lineColor[n.p.lineSlug] ?? '#b9ab98';
+            const solid = n.p.st === 'doc';
+            return (
+              <a href={href.person(n.slug)}>
+                <title>{n.p.name} {n.p.years}</title>
+                <rect class={solid ? 'tb' : 'tb tb-dash'} x={n.x} y={n.y} width={BOX_W} height={BOX_H} rx="6" />
+                <rect x={n.x} y={n.y} width="6" height={BOX_H} rx="3" fill={color} />
+                <text class="tn" x={n.x + 14} y={n.y + 19}>{short(n.p.name, 27)}</text>
+                <text class="ty" x={n.x + 14} y={n.y + 36}>{short(n.p.years || '', 32)}</text>
+              </a>
+            );
+          })}
+        </g>
+      </g>
+    </svg>
+  </div>
+
+  <style>
+    .tree-stage svg { background: var(--bg); }
+    .tree-edges path { fill: none; stroke: #b9ab98; stroke-width: 1.4; }
+    .tb { fill: #fff; stroke: #8f8070; stroke-width: 1.2; }
+    .tb-dash { stroke-dasharray: 5 3; }
+    .tn { font: 600 13px var(--sans); fill: #2b2620; }
+    .ty { font: 12px var(--sans); fill: #6e6153; }
+    .tree-gen { font: 13px var(--serif); fill: #8a7c6c; }
+    .tree-nodes a:hover .tb { fill: #fdf3e2; stroke: #8a5a2b; }
+    .tree-nodes a.hit .tb { fill: #fff3b0; stroke: #d7302a; stroke-width: 3; }
+  </style>
+
+  <script>
+    const stage = document.querySelector<HTMLElement>('.tree-stage')!;
+    const svg = stage.querySelector('svg')!;
+    const views = JSON.parse(stage.dataset.views!) as Record<string, number[] | null>;
+    const full = svg.viewBox.baseVal;
+    const home = { x: full.x, y: full.y, w: full.width, h: full.height };
+    const fromBox = (b: number[]) => ({ x: b[0], y: b[1], w: b[2] - b[0], h: b[3] - b[1] });
+    let vb = fromBox(views.start!);
+    const apply = () => svg.setAttribute('viewBox', `${vb.x} ${vb.y} ${vb.w} ${vb.h}`);
+    apply();
+    const toSvg = (cx: number, cy: number) => {
+      const r = svg.getBoundingClientRect();
+      const s = Math.max(vb.w / r.width, vb.h / r.height);
+      const ox = (r.width * s - vb.w) / 2, oy = (r.height * s - vb.h) / 2;
+      return { x: vb.x - ox + (cx - r.left) * s, y: vb.y - oy + (cy - r.top) * s, s };
+    };
+    const zoomAt = (f: number, cx?: number, cy?: number) => {
+      const r = svg.getBoundingClientRect();
+      const p = toSvg(cx ?? r.left + r.width / 2, cy ?? r.top + r.height / 2);
+      const w = Math.min(Math.max(home.w, home.h) * 1.2, Math.max(150, vb.w / f));
+      const k = w / vb.w;
+      vb = { x: p.x - (p.x - vb.x) * k, y: p.y - (p.y - vb.y) * k, w, h: vb.h * k };
+      apply();
+    };
+    stage.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      let d = e.deltaY;
+      if (e.deltaMode === 1) d *= 33; else if (e.deltaMode === 2) d *= 300;
+      d = Math.max(-120, Math.min(120, d));
+      zoomAt(Math.exp(-d * (e.ctrlKey ? 0.012 : 0.0022)), e.clientX, e.clientY);
+    }, { passive: false });
+    const pts = new Map<number, { x: number; y: number }>();
+    let moved = 0, pinch = 0;
+    stage.addEventListener('pointerdown', (e) => { pts.set(e.pointerId, { x: e.clientX, y: e.clientY }); moved = 0; });
+    stage.addEventListener('pointermove', (e) => {
+      const prev = pts.get(e.pointerId);
+      if (!prev) return;
+      pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      if (pts.size === 2) {
+        const [a, b] = [...pts.values()];
+        const d = Math.hypot(a.x - b.x, a.y - b.y);
+        if (pinch) zoomAt(d / pinch, (a.x + b.x) / 2, (a.y + b.y) / 2);
+        pinch = d; moved += 10;
+        return;
+      }
+      const { s } = toSvg(e.clientX, e.clientY);
+      const dx = e.clientX - prev.x, dy = e.clientY - prev.y;
+      moved += Math.abs(dx) + Math.abs(dy);
+      if (moved > 4) { stage.setPointerCapture(e.pointerId); vb.x -= dx * s; vb.y -= dy * s; apply(); }
+    });
+    const up = (e: PointerEvent) => { pts.delete(e.pointerId); if (pts.size < 2) pinch = 0; };
+    stage.addEventListener('pointerup', up);
+    stage.addEventListener('pointercancel', up);
+    stage.addEventListener('click', (e) => { if (moved > 4) { e.preventDefault(); e.stopPropagation(); } }, true);
+    document.querySelectorAll<HTMLButtonElement>('.fan-btns button').forEach((b) =>
+      b.addEventListener('click', () => {
+        if (b.dataset.view) { vb = fromBox(views[b.dataset.view]!); apply(); }
+        else zoomAt(Number(b.dataset.z));
+      })
+    );
+    const norm = (t: string) => t.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+    document.querySelector('.fan-search')!.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const q = norm((e.currentTarget as HTMLFormElement).querySelector('input')!.value.trim());
+      if (!q) return;
+      const links = [...svg.querySelectorAll<SVGAElement>('.tree-nodes a')];
+      links.forEach((a) => a.classList.remove('hit'));
+      const hits = links.filter((a) => norm(a.querySelector('title')?.textContent ?? '').includes(q));
+      if (!hits.length) return;
+      hits.forEach((a) => a.classList.add('hit'));
+      const bb = (hits[0].querySelector('rect') as SVGGraphicsElement).getBBox();
+      vb = { x: bb.x - 400, y: bb.y - 300, w: bb.width + 800, h: bb.height + 600 };
+      apply();
+    });
+  </script>
+</Base>

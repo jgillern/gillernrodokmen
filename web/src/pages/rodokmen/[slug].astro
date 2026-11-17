@@ -1,0 +1,45 @@
+---
+import Base from '../../layouts/Base.astro';
+import PedigreeSheet from '../../components/PedigreeSheet.astro';
+import { people, root, href } from '../../lib/data.js';
+// list pro každého předka, který je v posledním sloupci některého listu (generace 4, 8, 12 …) a má známé rodiče
+export function getStaticPaths() {
+  const out = [];
+  const walk = (s, g) => {
+    const p = people[s];
+    if (!p) return;
+    if (g > 0 && g % 4 === 0 && (p.father || p.mother)) out.push({ params: { slug: s }, props: { g } });
+    if (p.father) walk(p.father, g + 1);
+    if (p.mother) walk(p.mother, g + 1);
+  };
+  walk(root.slug, 0);
+  return out;
+}
+const { slug } = Astro.params;
+const { g } = Astro.props;
+const p = people[slug];
+// cesta zpět: kořeny předchozích listů (o 4, 8 … generací mladší potomci na přímé linii)
+const chain = [];
+const path = (from, target) => {
+  if (from === target) return [from];
+  const q = people[from];
+  for (const par of [q.father, q.mother]) {
+    if (!par) continue;
+    const r = path(par, target);
+    if (r) return [from, ...r];
+  }
+  return null;
+};
+const line = path(root.slug, slug) ?? [];
+for (let i = 0; i < line.length - 1; i += 4) chain.push(line[i]);
+---
+<Base title={`Rodokmen – ${p.name}`} wide>
+  <p class="crumbs">
+    {chain.map((s, i) => <>{i > 0 && ' › '}<a href={i === 0 ? '/rodokmen/' : `/rodokmen/${s}/`}>{people[s].name}</a></>)}
+    {' › '}{p.name}
+  </p>
+  <h1>Předci: {p.name} <span class="muted" style="font-size:0.6em">{p.years}</span></h1>
+  <p class="lead">Pokračování rodokmenu – {g}. generace předků. <a href={href.person(slug)}>Stránka předka →</a></p>
+  <PedigreeSheet rootSlug={slug} />
+  <p class="small muted" style="margin-top:1rem"><a href={chain.length > 1 ? `/rodokmen/${chain[chain.length - 1]}/` : '/rodokmen/'}>← předchozí list</a> · <a href="/rodokmen/cely/">celý strom najednou</a></p>
+</Base>

@@ -1,0 +1,87 @@
+---
+// Klasický vývod předků na jednom listu: osoba vlevo a čtyři generace jejích předků (31 políček),
+// otec vždy nad matkou. U předků v posledním sloupci, kteří mají známé rodiče, vede šipka na další list.
+import { people, lines, href } from '../lib/data.js';
+const { rootSlug, depth = 4 } = Astro.props;
+
+const BOX_W = 200, BOX_H = 46, COL = 232, ROWH = 56, PAD = 10, ARROW = 34;
+const lineColor = Object.fromEntries(Object.values(lines).map((l) => [l.slug, l.color]));
+const rows = 2 ** depth;
+const W = depth * COL + BOX_W + ARROW + PAD * 2;
+const H = rows * ROWH + PAD * 2 + 22;
+
+// sloty po Kekulého číslování v rámci listu: 1 = osoba, 2n = otec, 2n+1 = matka
+const slots = { 1: rootSlug };
+for (let n = 1; n < 2 ** (depth + 1) / 2; n++) {
+  const p = slots[n] && people[slots[n]];
+  slots[2 * n] = p?.father && people[p.father] ? p.father : null;
+  slots[2 * n + 1] = p?.mother && people[p.mother] ? p.mother : null;
+}
+const pos = (n) => {
+  const g = Math.floor(Math.log2(n)), i = n - 2 ** g, span = rows / 2 ** g;
+  return { g, x: PAD + g * COL, y: PAD + 22 + (i + 0.5) * span * ROWH - BOX_H / 2 };
+};
+const all = Object.keys(slots).map(Number);
+const genNames = ['', 'rodiče', 'prarodiče', 'praprarodiče', 'prapraprarodiče'];
+const short = (t, max) => (t && t.length > max ? t.slice(0, max - 1) + '…' : t ?? '');
+const hasMore = (s) => s && (people[s].father || people[s].mother);
+---
+<div class="sheet-wrap">
+  <svg class="sheet" viewBox={`0 0 ${W} ${H}`} xmlns="http://www.w3.org/2000/svg" role="img" aria-label={`Vývod předků – ${people[rootSlug].name}`}>
+    {[1, 2, 3, 4].filter((g) => g <= depth).map((g) => (
+      <text class="sh-gen" x={PAD + g * COL + BOX_W / 2} y={PAD + 10} text-anchor="middle">{genNames[g]}</text>
+    ))}
+    <g class="sh-edges">
+      {all.filter((n) => n > 1 && slots[n] && slots[Math.floor(n / 2)]).map((n) => {
+        const c = pos(Math.floor(n / 2)), p = pos(n);
+        const x1 = c.x + BOX_W, y1 = c.y + BOX_H / 2, x2 = p.x, y2 = p.y + BOX_H / 2, mx = x1 + (x2 - x1) / 2;
+        return <path d={`M${x1} ${y1}H${mx}V${y2}H${x2}`} />;
+      })}
+    </g>
+    {all.map((n) => {
+      const { g, x, y } = pos(n);
+      const s = slots[n];
+      if (!s) {
+        const parent = slots[Math.floor(n / 2)];
+        if (!parent || n === 1) return null;
+        return <g class="sh-empty"><rect x={x} y={y} width={BOX_W} height={BOX_H} rx="6" /><text x={x + 14} y={y + 28}>{n % 2 ? 'matka' : 'otec'} – zatím neznámý</text></g>;
+      }
+      const p = people[s];
+      return (
+        <g>
+          <a href={href.person(s)} class="sh-node">
+            <title>{p.name} {p.years} – {p.status}</title>
+            <rect class={p.st === 'doc' ? 'sh-box' : 'sh-box sh-dash'} x={x} y={y} width={BOX_W} height={BOX_H} rx="6" />
+            <rect x={x} y={y} width="6" height={BOX_H} rx="3" fill={lineColor[p.lineSlug] ?? '#b9ab98'} />
+            <text class="sh-name" x={x + 14} y={y + 19}>{short(p.name, 26)}</text>
+            <text class="sh-yrs" x={x + 14} y={y + 36}>{short(p.years, 30)}</text>
+          </a>
+          {g === depth && hasMore(s) && (
+            <a href={`/rodokmen/${s}/`} class="sh-more">
+              <title>Další předci: {p.name}</title>
+              <circle cx={x + BOX_W + 18} cy={y + BOX_H / 2} r="12" />
+              <path d={`M${x + BOX_W + 15} ${y + BOX_H / 2 - 5}l6 5l-6 5`} />
+            </a>
+          )}
+        </g>
+      );
+    })}
+  </svg>
+</div>
+
+<style>
+  .sheet-wrap { overflow-x: auto; background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); padding: 0.5rem; }
+  .sheet { display: block; width: 100%; min-width: 820px; height: auto; }
+  .sh-gen { font: 13px var(--serif); fill: #8a7c6c; }
+  .sh-edges path { fill: none; stroke: #b9ab98; stroke-width: 1.4; }
+  .sh-box { fill: #fff; stroke: #8f8070; stroke-width: 1.2; }
+  .sh-dash { stroke-dasharray: 5 3; }
+  .sh-name { font: 600 13px var(--sans); fill: #2b2620; }
+  .sh-yrs { font: 12px var(--sans); fill: #6e6153; }
+  .sh-node:hover .sh-box { fill: #fdf3e2; stroke: #8a5a2b; }
+  .sh-empty rect { fill: none; stroke: #d8cfc2; stroke-dasharray: 3 3; }
+  .sh-empty text { font: italic 12px var(--sans); fill: #b0a596; }
+  .sh-more circle { fill: #3b2e22; }
+  .sh-more path { fill: none; stroke: #fbf3e6; stroke-width: 2; }
+  .sh-more:hover circle { fill: #8a5a2b; }
+</style>

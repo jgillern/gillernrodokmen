@@ -6,8 +6,8 @@ Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matri
 
 Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle odpovědi by ji posunuly dál:
 
-1. Kde se narodili dědeček Josef Beran a babička Emilie roz. Kozáková (aspoň vesnice nebo kraj)?
-2. Kdy zemřeli a jsou v rodinném hrobě v Pravoníně? Šel by vyfotit náhrobek?
+1. Kde se narodili jeho dědeček Josef Beran st. a babička Emilie roz. Kozáková – rodiče tatínka Josefa (1910–1975)? Aspoň vesnice nebo kraj.
+2. Kdy dědeček a babička zemřeli? Leží ve stejném rodinném hrobě v Pravoníně jako tatínek? Šel by vyfotit náhrobek?
 3. Nemá po tatínkovi nebo dědečkovi křestní, domovský nebo oddací list?
 4. Kde se narodil Emil Beran (v Pravoníně 1937–38) – byl to tatínkův bratr?
 5. Kde a kdy se brali rodiče Josef Beran a Ludmila Slunečková (asi 1936)?

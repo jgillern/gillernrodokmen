@@ -133,10 +133,11 @@ for k in slots:
     p = P.get(k)
     if not p:
         continue
-    name, yrs, st = p["n"], years(p.get("y")), p.get("st")
+    full, yrs, st = p["n"], years(p.get("y")), p.get("st")
+    name = p.get("kratce") or full   # nepovinné krátké jméno jen pro vějíř (např. „Augustin Gillern“ místo „z Gillernů“)
     if k in HREFS:
         shape = (f'<circle cx="{CX}" cy="{CY}" r="{r1}"/>' if g == 0 else f'<path d="{sector(r0, r1, a0, a1)}"/>')
-        links.append(f'<a href="{HREFS[k]}"><title>{html.escape(name)} {html.escape(yrs)}</title>{shape}</a>')
+        links.append(f'<a href="{HREFS[k]}"><title>{html.escape(full)} {html.escape(yrs)}</title>{shape}</a>')
     unknown = st == "unk"
     style = 'font-style="italic" fill="#8A8278"' if unknown else ('font-style="italic" fill="#2B2620"' if st in ("prob", "mh") else 'fill="#1F1A15"')
     if g == 0:

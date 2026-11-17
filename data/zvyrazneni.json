@@ -610,5 +610,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1862_hajek_simkova": {
+  "boxes": [
+   [
+    0.0,
+    0.245,
+    1.0,
+    0.43
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

@@ -18,7 +18,6 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 |---|---|
 | Gillernovi | data úmrtí pradědečka Jana Gillerna a prababičky Julie – náhrobek v Praze-Hrnčířích (správa hřbitova MČ Praha-Šeberov); úmrtní list táty Jiřího; doklady Jana Gillerna (domovský list, vysvědčení, pracovní knížka) |
 | babička Božena | její rodné příjmení, rok a místo narození |
-| Myslíkovi | rodné příjmení prababičky Františky Myslíkové (* asi 1892, † 1969 Masákova Lhota) a kdy se brala s Ludvíkem |
 | Beranovi | **doklady Josefa Berana (1910–1975)** u příbuzných (rodiny Milady, Ludmily, Růženy, Josefa, Zdeňka a Pavla): křestní list (církevní listy z 20.–40. let uvádějí i prarodiče s místem narození – jako u dědy Augustina), domovský list (obec, kam rodina „patřila“ = odkud přišla), oddací list; **fotka rodinného hrobu v Pravoníně** (Josef st. a Emilie zemřeli až po 1949 – v církevní matrice Pravonín do 1949 nejsou); kdo byl Emil Beran (v Pravoníně 1937–38) – asi bratr z parte 1975 |
 
 ## Matriční úřady (zápisy, které ještě nejsou v archivu)

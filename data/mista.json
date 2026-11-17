@@ -110,5 +110,54 @@
   "lat": 49.6582,
   "lon": 14.8962,
   "osm": "Krasovice, Kondrac, okres Benešov, Středočeský kraj, 257 09, Česko"
+ },
+ "Branišov": {
+  "re": "Branišov",
+  "dotaz": "Branišov, Zdíkov",
+  "lat": 49.0982,
+  "lon": 13.7058,
+  "osm": "Branišov, Zdíkov, okres Prachatice, Jihočeský kraj, 384 72, Česko"
+ },
+ "Masákova Lhota": {
+  "re": "Masákov",
+  "dotaz": "Masákova Lhota, Zdíkov",
+  "lat": 49.0862,
+  "lon": 13.6795,
+  "osm": "Masákova Lhota, Zdíkov, okres Prachatice, Jihočeský kraj, 384 72, Česko"
+ },
+ "Osov": {
+  "re": "Osov",
+  "dotaz": "Osov, okres Beroun",
+  "lat": 49.8444,
+  "lon": 14.0839,
+  "osm": "Osov, okres Beroun, Středočeský kraj, 267 25, Česko"
+ },
+ "Horosedly": {
+  "re": "Horosed",
+  "dotaz": "Horosedly, okres Písek",
+  "lat": 49.5128,
+  "lon": 14.054,
+  "osm": "Horosedly, okres Písek, Jihočeský kraj, Česko"
+ },
+ "Kolovraty": {
+  "re": "Kolovrat",
+  "dotaz": "Kolovraty, Praha",
+  "lat": 50.0107,
+  "lon": 14.6296,
+  "osm": "Kolovraty, obvod Praha 10, Praha, 103 00, Česko"
+ },
+ "Hrnčíře": {
+  "re": "Hrnčíř",
+  "dotaz": "Hrnčíře, Praha",
+  "lat": 49.9993,
+  "lon": 14.5169,
+  "osm": "Hrnčíře, Praha-Šeberov, obvod Praha 4, Praha, 252 50, Česko"
+ },
+ "Vrábsko": {
+  "re": "Vrábsk",
+  "dotaz": "Vrábsko, Čimelice",
+  "lat": 49.4644,
+  "lon": 14.1026,
+  "osm": "Vrábsko, Smetanova Lhota, okres Písek, Jihočeský kraj, 398 04, Česko"
  }
 }

@@ -41,3 +41,7 @@ Příjmení Gillern je v Čechách vzácné. Nese ho starý šlechtický rod, kt
 ## Od erbovního listu k Rothschildům
 
 V roce 1978 napsal rodový badatel Karel Vyšín z Davle Janu Gillernovi z Olešovic dopis o dějinách rodu. Matouš Giller dostal od císaře erb už roku 1568; jeho potomci sloužili knížatům z Lichtenštejna a v armádě, roku 1724 se stali rytíři „von Gillern“ a o tři roky později svobodnými pány. Karel Josef svobodný pán z Gillernů koupil roku 1742 panství Koryčany na Moravě, jeho potomek Kristián ho v roce 1793 odkázal dceři. Roku 1846 Koryčany koupil bankéř Salomon Rothschild. O sto let později už byli Gillernové lesníky a úředníky na jihu Čech – jak přesně se naše větev k baronům z Koryčan připojuje, zatím nevíme.
+
+## Legionář z Branišova
+
+Pradědeček [Ludvík Myslík](/osoba/ludvik-myslik-1891/), syn domkáře z Branišova u Zdíkova na Šumavě, je ve svatebním zápisu z ledna 1921 označen jako „francouzský legionář“. Za první světové války tedy bojoval v československých legiích ve Francii – dobrovolnických jednotkách, které se postavily proti Rakousku-Uhersku a pomohly vybojovat samostatné Československo. Dva roky po návratu z války si ve zdíkovském kostele vzal [Františku Šustrovou](/osoba/frantiska-sustrova-1892/) z Masákovy Lhoty; za svědky šli nejspíš jejich bratři – krejčí Rudolf Myslík a hudebník František Šustr.

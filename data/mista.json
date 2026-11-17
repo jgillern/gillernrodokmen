@@ -243,5 +243,19 @@
   "lat": 49.0973,
   "lon": 13.6898,
   "osm": "Zdíkovec, Zdíkov, okres Prachatice, Jihočeský kraj, 384 72, Česko"
+ },
+ "Bohostice": {
+  "re": "Bohostic",
+  "dotaz": "Bohostice, okres Příbram",
+  "lat": 49.6021,
+  "lon": 14.1381,
+  "osm": "Bohostice, okres Příbram, Středočeský kraj, Česko"
+ },
+ "Veselíčko": {
+  "re": "Veselíč",
+  "dotaz": "Veselíčko, okres Písek",
+  "lat": 49.388,
+  "lon": 14.3568,
+  "osm": "Veselíčko, okres Písek, Jihočeský kraj, 398 42, Česko"
  }
 }

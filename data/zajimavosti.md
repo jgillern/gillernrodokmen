@@ -95,3 +95,7 @@ V červenci 1893 se v Mirovicích brali čtyřiačtyřicetiletý sedlák [Franti
 ## Dvakrát se ženich přiženil k vdově
 
 V Horosedlech u Mirovic se během šestnácti let dvakrát stalo totéž. V lednu 1826 si dvaadvacetiletý [Vojtěch Štětina](/osoba/vojtech-stetina-1804/), sedlákův syn z nedaleké vsi, vzal o čtyři roky starší vdovu Annu, která po smrti prvního muže hospodařila na statku č. 2. V únoru 1842 se šestatřicetiletý čeledín [Václav Hřídel](/osoba/vaclav-hridel-1806/) oženil s pětatřicetiletou vdovou [Barborou](/osoba/barbora-hanzlikova-1811/) ze statku č. 17. Pro mladší syny, kteří nedědili, byla svatba s vdovou často jedinou cestou ke vlastnímu gruntu – a pro vdovu zase způsob, jak udržet hospodářství. Oba nové rody se pak roku 1893 spojily: Štětinova vnučka Josefa si vzala Hřídelova syna Františka.
+
+## Babička se podepsala sama
+
+Když se v červnu 1894 v hájovně v Bohosticích narodil pradědeček [Jan](/osoba/jan-gillern-1894/), šla mu za kmotru babička [Tekla](/osoba/tekla-vejdovcova/), vdova po knížecím revírníkovi [Vincenci z Gillernů](/osoba/vincenc-z-gillernu/). Do matriky v Těchnicích se podepsala vlastní rukou rozmáchlým „Thekla Gillern“ – v době, kdy se většina kmotrů z vesnic jen podepisovala křížkem. A ještě jedna drobnost: kdo dnes otevře Janův křestní zápis, najde vedle něj poznámku připsanou o 27 let později: „Oddán s Julií Hřídelovou 26/11 1921 v Mirovicích“. Fary si o svatbách posílaly zprávy, aby křestní matrika věděla o celém životě svého farníka.

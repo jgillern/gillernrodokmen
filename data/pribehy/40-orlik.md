@@ -3,7 +3,7 @@ title: Lesníci z Gillernů
 strana: tátova strana
 obdobi: 1568 – 1989
 rody: [8, 9]
-stav: Kapitola je rozpracovaná – vychází zatím z rodinných dokladů a tištěných pramenů, matriky Gillernů teprve přijdou na řadu.
+stav: Kapitola je rozpracovaná – vychází z rodinných dokladů, tištěných pramenů a prvních zápisů z matrik (Těchnice 1894).
 lead: "Od erbovního listu ze 16. století přes barony z Koryčan k lesníkům na schwarzenberském Orlíku a technikovi z Prahy. Rod tátova dědečka, který ještě za protektorátu úředně nesl přídomek „z Gillernů“."
 ---
 
@@ -15,7 +15,9 @@ Podle dopisu, který v roce 1978 napsal rodový badatel Karel Vyšín, dostal Ma
 
 ## Lesníci na Orlíku (kolem 1890–1924)
 
-Na konci 19. století sloužilo několik Gillernů jako lesníci na schwarzenberském panství Orlík. [Augustin z Gillernů](/osoba/augustin-z-gillernu/) byl v letech 1891–1902 lesním v Lavičkách, později nadlesním ve Vrábsku u Čimelic; jeho žena [Marie](/osoba/marie-rodne-prijmeni-necitelne/) pocházela z Písku. Nadlesním byl i Čeněk Gillern, nejspíš Augustinův bratr. Lesníci se stěhovali tam, kam je poslala vrchnost – proto se Augustinův syn [Jan](/osoba/jan-gillern-1894/) narodil 14. června 1894 v Lavičkách (v křestním listu svého syna je místo narození zapsáno jako „…hostice“, snad Bohostice).
+Na konci 19. století sloužilo několik Gillernů jako lesníci na schwarzenberském panství Orlík – a nebyla to první generace. Už [Vincenc z Gillernů](/osoba/vincenc-z-gillernu/) byl knížecím revírníkem; jeho žena [Tekla](/osoba/tekla-vejdovcova/) pocházela z Veselíčka u Milevska. Jejich syn [Augustin z Gillernů](/osoba/augustin-z-gillernu/) byl v letech 1891–1902 lesním v hájovně Lavičky v revíru Zbenice, která patřila k Bohosticím, později nadlesním ve Vrábsku u Čimelic. Oženil se s [Marií](/osoba/marie-linkova/), dcerou mlynáře Karla Linka (čtení zatím nejisté). Nadlesním byl i Čeněk Gillern, nejspíš Augustinův bratr.
+
+V hájovně Bohostice č. 33 se 14. června 1894 narodil Augustinův syn [Jan](/osoba/jan-gillern-1894/) – pokřtěný v Těchnicích jako Jan Vincenc Augustin, po dědovi i po otci. Za kmotru mu šla babička Tekla, tou dobou už vdova, a podepsala se do matriky vlastní rukou „Thekla Gillern“. Druhým kmotrem byl knížecí revírník ze Zbenic – lesníci si navzájem křtili děti. Janovi rodiče měli ještě dvě dcery jménem Tekla Marie (1892 a 1896 – starší asi brzy zemřela) a syna Augustina (1900).
 
 ## Hospodářský kontrolor v Osově (1924)
 

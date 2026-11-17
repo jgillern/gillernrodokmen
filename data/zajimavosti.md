@@ -91,3 +91,7 @@ Tátova strana babičky Boženy ukazuje, jak se během sta let měnila řemesla.
 ## Dvojčata na Štědrý den
 
 V červenci 1893 se v Mirovicích brali čtyřiačtyřicetiletý sedlák [František Hřídel](/osoba/frantisek-hridel-1848/) a pětadvacetiletá [Josefa Štětinová](/osoba/josefa-stetinova-1868/) z Horosedel. Jejich první děti přišly na svět na Štědrý den 1893 – dvojčata. Rejstřík mirovické fary je zapisuje jen jako „N.“, tedy bez jména: obě zemřela ještě týž den, nejspíš dřív, než je stihli pokřtít. Rodina se z té ztráty vzpamatovala – v dalších letech se v Horosedlech č. 16 narodily dcery Marie a v říjnu 1897 [Julie](/osoba/julie-hridelova-1897/), pozdější maminka dědy Gustíka.
+
+## Dvakrát se ženich přiženil k vdově
+
+V Horosedlech u Mirovic se během šestnácti let dvakrát stalo totéž. V lednu 1826 si dvaadvacetiletý [Vojtěch Štětina](/osoba/vojtech-stetina/), sedlákův syn z nedaleké vsi, vzal o čtyři roky starší vdovu Annu, která po smrti prvního muže hospodařila na statku č. 2. V únoru 1842 se šestatřicetiletý čeledín [Václav Hřídel](/osoba/vaclav-hridel/) oženil s pětatřicetiletou vdovou [Barborou](/osoba/barbora-hanzlikova/) ze statku č. 17. Pro mladší syny, kteří nedědili, byla svatba s vdovou často jedinou cestou ke vlastnímu gruntu – a pro vdovu zase způsob, jak udržet hospodářství. Oba nové rody se pak roku 1893 spojily: Štětinova vnučka Josefa si vzala Hřídelova syna Františka.

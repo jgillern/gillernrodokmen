@@ -38,3 +38,7 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   pod klíčem `casova_osa` (období → události s rokem, nadpisem, textem, odkazem na osobu, štítkem strany/rodu, příznakem
   „historie“ pro dobové souvislosti) a `podtitul` pod nadpisem. Uživatel to chtěl podle webu kolegy (stejný skill) –
   stálo by za to mít to ve skillu jako standard, ideálně generované z osob/zápisů automaticky.
+
+- **VÚA Praha (vuapraha.cz) z cloudu:** curl přes brzdu neověří certifikát webu (chybí mezilehlý certifikát?), pomocník web-fetch byl zamítnut
+  kontrolou oprávnění. Databázi legionářů (https://www.vuapraha.cz/databaze-vha/) musí hledat uživatel v prohlížeči. Do skillu doplnit
+  návod: legionář ve svatebním zápisu („francouzský/ruský/italský legionář“) → databáze legionářů VÚA (karta s útvarem, daty, domovskou obcí).

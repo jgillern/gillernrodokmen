@@ -874,5 +874,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1863_doubkova_barbora": {
+  "boxes": [
+   [
+    0.0,
+    0.765,
+    1.0,
+    0.885
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

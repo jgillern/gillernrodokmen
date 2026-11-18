@@ -60,9 +60,23 @@
    "popis": "Poddaní vlašimského a čechtického panství: robota, vrchnost rozhoduje o svatbách i stěhování.",
    "udalosti": [
     {
+     "rok": "1680",
+     "nadpis": "Měšťanský syn z Týna",
+     "text": "V Týně nad Vltavou se narodil Jan, syn měšťana Václava Hlenického alias Jelínka – nejstarší doložená rodina celého rodokmenu.",
+     "osoba": "jan-jelinek-1680",
+     "strana": "tátova strana · Jelínkovi"
+    },
+    {
+     "rok": "1708",
+     "nadpis": "Týnský měšťan se žení v Milevsku",
+     "text": "Jan Jelínek alias Hlenický si v kostele sv. Jiljí bere Annu, dceru milevského měšťana Martina Humpy.",
+     "osoba": "jan-jelinek-1680",
+     "strana": "tátova strana · Jelínkovi"
+    },
+    {
      "rok": "před 1723",
      "nadpis": "Jakub Píša, sedlák v Kondraci",
-     "text": "Nejstarší doložený předek; v lednu 1723 už „nebožtík“.",
+     "text": "Nejstarší doložený předek z máminy strany; v lednu 1723 už „nebožtík“.",
      "osoba": "jakub-pisa",
      "strana": "mámina strana · Píšovi"
     },
@@ -74,11 +88,24 @@
      "strana": "mámina strana · Píšovi"
     },
     {
+     "rok": "1740",
+     "nadpis": "Vdovec z Bernartic a dcera z Milevska",
+     "text": "Bernartický měšťan František Jírovec si bere Terezii Jelínkovou.",
+     "osoba": "terezie-jelinkova-1713",
+     "strana": "tátova strana · Jírovcovi"
+    },
+    {
      "rok": "1756",
      "nadpis": "Dva bratři mlynáři, dvě nevěsty",
      "text": "Martin a Jan, synové mlynáře Pavla Linka „pod Lhotou“, se týž den žení v Čimelicích.",
      "osoba": "martin-linek",
      "strana": "tátova strana · Linkovi"
+    },
+    {
+     "rok": "1756–1763",
+     "nadpis": "Sedmiletá válka",
+     "text": "Rakousko bojuje s Pruskem o Slezsko; vojáci slouží dlouhá léta a ženit se smějí až po propuštění.",
+     "historie": true
     },
     {
      "rok": "1764",
@@ -108,11 +135,32 @@
      "strana": "tátova strana · Braunerovi"
     },
     {
+     "rok": "1785",
+     "nadpis": "Dělostřelec se žení ve 48 letech",
+     "text": "Vysloužilý dělostřelec Karel Kůra si ve Zběšičkách bere měšťanskou dceru Marii Annu Jírovcovou.",
+     "osoba": "karel-kura-1737",
+     "strana": "tátova strana · Kůrovi"
+    },
+    {
      "rok": "1786",
      "nadpis": "Německý zápis ze Stach",
      "text": "Ve Stachách se narodila Terezie Uhlířová, prapraprababička dědy Vladimíra – farář tu psal matriky německy.",
      "osoba": "terezie-uhlirova-1786",
      "strana": "mámina strana · Šustrovi"
+    },
+    {
+     "rok": "1790",
+     "nadpis": "Svatba v Sepekově",
+     "text": "Domkář Jakub Vejdovec z Božetic č. 5 si bere Dorotu Dědinovou.",
+     "osoba": "jakub-vejdovec-1763",
+     "strana": "tátova strana · Vejdovcovi"
+    },
+    {
+     "rok": "1798",
+     "nadpis": "Narodil se Josef Vejdovec",
+     "text": "V Božeticích č. 5 – budoucí tesařský mistr ve Veselíčku a otec Tekly.",
+     "osoba": "josef-vejdovec-1798",
+     "strana": "tátova strana · Vejdovcovi"
     },
     {
      "rok": "1799",
@@ -633,6 +681,44 @@
    "koren": 71,
    "nazev": "Kudrličkovi",
    "popis": "Zámecký klíčník z Drhovle, původem z Prahy.",
+   "maly": true
+  },
+  {
+   "rod": 8,
+   "koren": 33,
+   "nazev": "Vejdovcovi",
+   "popis": "Domkáři z Božetic a tesaři ve Veselíčku u Milevska (1790–1866)."
+  },
+  {
+   "rod": 8,
+   "koren": 67,
+   "nazev": "Kůrovi",
+   "popis": "Vysloužilý dělostřelec Karel Kůra ve Zběšičkách (1785)."
+  },
+  {
+   "rod": 8,
+   "koren": 135,
+   "nazev": "Jírovcovi",
+   "popis": "Měšťané z Bernartic (1740–1785)."
+  },
+  {
+   "rod": 8,
+   "koren": 271,
+   "nazev": "Jelínkovi (Hleničtí)",
+   "popis": "Měšťané z Týna nad Vltavou a Milevska – nejstarší doložení předci, 1670–1740."
+  },
+  {
+   "rod": 8,
+   "koren": 133,
+   "nazev": "Dědinovi",
+   "popis": "Sedláci z Božetic (1760–1765).",
+   "maly": true
+  },
+  {
+   "rod": 8,
+   "koren": 543,
+   "nazev": "Humpovi",
+   "popis": "Měšťané z Milevska (1708).",
    "maly": true
   }
  ],

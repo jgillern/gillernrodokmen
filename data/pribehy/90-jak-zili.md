@@ -17,7 +17,7 @@ Janovi předkové pocházejí z pěti krajů, které spolu až do 20. století n
 - **Šumavští** (rod dědy Vladimíra): Myslíkové, Šimkovi, Šustrovi, Volfové, Sovové a Vaňkové z Branišova, Masákovy Lhoty a Zdíkova. Většinou domkáři a podruzi v chudém kraji pod lesy, jen pár sedláků a mlynářů.
 - **Votičtí** (rod babičky Boženy): Richtrovi, Kyptovi, Otradovci, Piglové a Doubkové z Mezna, Rohova a Vísky. Chalupníci a sedláci, krejčí, pastýř a nakonec železničář.
 - **Horosedelští** (rod prababičky Julie): Hřídelovi, Štětinovi a Teskovi z Horosedel u Mirovic. Sedláci na statcích, kam se nejeden ženich „přiženil“.
-- **Lesníci a mlynáři** (rod pradědečka Jana): Gillernové – knížecí lesníci se šlechtickým přídomkem –, mlynáři Linkové ze Smetanovy Lhoty a Písku a sládek Löw z Drhovle. Lidé, kteří nežili z vlastní půdy, ale ze služby u vrchnosti nebo z řemesla.
+- **Lesníci a mlynáři** (rod pradědečka Jana): Gillernové – knížecí lesníci se šlechtickým přídomkem –, mlynáři Linkové ze Smetanovy Lhoty a Písku, sládek Löw z Drhovle a z Milevska tesaři Vejdovcové, vysloužilý dělostřelec Kůra a měšťané Jírovcové z Bernartic a Jelínkové z Milevska a Týna nad Vltavou. Lidé, kteří nežili z vlastní půdy, ale ze služby u vrchnosti nebo z řemesla.
 
 Na vesnici platil pevný žebříček: nahoře **sedlák** s celým gruntem, pod ním **půlník** a **chalupník**, pak **domkář** s domkem a kouskem pole a nakonec **podruh**, který bydlel v cizím a pracoval pro druhé. Mimo tenhle žebříček stáli **svobodníci** (Malí v Bukové), **řemeslníci** a **panští zaměstnanci** – a právě ti bývali na velké změny nejcitlivější.
 

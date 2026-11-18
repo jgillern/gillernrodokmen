@@ -10,7 +10,7 @@ lead: "Tři sta let mezi Vlašimí a Pravonínem – od sedláka Jakuba z Kondra
 
 ## Sedláci z Kondrace (před 1723–1759)
 
-Nejstarší předek, kterého známe jménem, je [Jakub Píša](/osoba/jakub-pisa/) z Kondrace u Vlašimi. Víme o něm jen to, že v lednu 1723 už nežil – farář tehdy zapsal jeho syna jako „mládence Víta, syna po nebožtíkovi Jakubovi Píšovi“. Kondrac patřila k vlašimskému panství a jeho poddaní byli vázáni robotou i k půdě; bez svolení vrchnosti se nesměli odstěhovat ani oženit.
+Nejstarší předek z máminy strany, kterého známe jménem, je [Jakub Píša](/osoba/jakub-pisa/) z Kondrace u Vlašimi. Víme o něm jen to, že v lednu 1723 už nežil – farář tehdy zapsal jeho syna jako „mládence Víta, syna po nebožtíkovi Jakubovi Píšovi“. Kondrac patřila k vlašimskému panství a jeho poddaní byli vázáni robotou i k půdě; bez svolení vrchnosti se nesměli odstěhovat ani oženit.
 
 [Vít Píša](/osoba/vit-pisa/) šel v říjnu 1722 za družbu na svatbu do sousedních Zdislavic. O čtyři měsíce později, 7. února 1723, stál před oltářem sám – s Annou z Kondrace. Jejich syn [Jan](/osoba/jan-pisa-1727/) se narodil 22. dubna 1727 a v lednu 1750 si přivedl nevěstu z Krasovic, [Marii](/osoba/marie-magdalena-hudkova/), dceru Ondřeje Hudka. Krasovice se pak táhnou rodinou dál: když se Janovi a Marii v únoru 1759 „kolem půlnoci“ narodil syn [Matěj](/osoba/matej-pisa-1759/), šli mu za kmotry sousedé právě odtamtud.
 

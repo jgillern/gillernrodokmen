@@ -285,5 +285,54 @@
   "lat": 49.3347,
   "lon": 14.0363,
   "osm": "Drhovle, okres Písek, Jihočeský kraj, Česko"
+ },
+ "Božetice": {
+  "re": "Božetic|Bozetic",
+  "dotaz": "Božetice, okres Písek",
+  "lat": 49.451,
+  "lon": 14.4439,
+  "osm": "Božetice, okres Písek, Jihočeský kraj, Česko"
+ },
+ "Sepekov": {
+  "re": "Sepekov|Sebekov",
+  "dotaz": "Sepekov, okres Písek",
+  "lat": 49.4284,
+  "lon": 14.418,
+  "osm": "Sepekov, okres Písek, Jihočeský kraj, 398 51, Česko"
+ },
+ "Zběšičky": {
+  "re": "Zběšič",
+  "dotaz": "Zběšičky, okres Písek",
+  "lat": 49.3952,
+  "lon": 14.4311,
+  "osm": "Zběšičky, okres Písek, Jihočeský kraj, Česko"
+ },
+ "Bernartice": {
+  "re": "Bernartic|Bernardic",
+  "dotaz": "Bernartice, okres Písek",
+  "lat": 49.3689,
+  "lon": 14.38,
+  "osm": "Bernartice, okres Písek, Jihočeský kraj, 398 43, Česko"
+ },
+ "Milevsko": {
+  "re": "Milevsk|Milevsk",
+  "dotaz": "Milevsko, okres Písek",
+  "lat": 49.4503,
+  "lon": 14.3595,
+  "osm": "Milevsko, okres Písek, Jihočeský kraj, 399 01, Česko"
+ },
+ "Týn nad Vltavou": {
+  "re": "Týn[a]? n|Týna nad|Týn nad|Týně",
+  "dotaz": "Týn nad Vltavou",
+  "lat": 49.2234,
+  "lon": 14.4211,
+  "osm": "Týn nad Vltavou, okres České Budějovice, Jihočeský kraj, Česko"
+ },
+ "Šebestěnice": {
+  "re": "Šebestěnic",
+  "dotaz": "Šebestěnice, okres Kutná Hora",
+  "lat": 49.8291,
+  "lon": 15.3721,
+  "osm": "Šebestěnice, okres Kutná Hora, Středočeský kraj, Česko"
  }
 }

@@ -49,6 +49,11 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 - **Hrob Gillernů v Čimelicích:** Vincenc z Gillernů pohřben 29. 1. 1894 „u sv. Josefa v Čimelicích“; podle dopisu K. Vyšína (1978) je v Čimelicích pohřben i JUDr. Karel Gillern (syn Čeňka) – možná rodinný hrob. Dotaz na obecní úřad Čimelice (správce hřbitova, evidence hrobových míst – kdo hrob platí, kdo v něm leží), případně fotka hřbitova.
 - Matriky Lis (?) u Blatné 1894 (narození JUDr. Bedřicha, syna Čeňka Gillerna) – pro propojení Čeňka a Augustina.
 
+## Linkové a Löwové (předci Marie Linkové, manželky Augustina z Gillernů)
+
+- **SOA Litoměřice, pobočka Žitenice – Rodinný archiv / velkostatek Lobkoviců (Drhovle):** osobní spis sládka Františka Löwa (* asi 1802 Praha, podsládek 1833, sládek v Drhovli 1852–1855, pak odešel) – odkud přišel (pražský pivovar, kde vařil jeho otec Antonín Löw) a kam odešel. Dotaz e-mailem.
+- **Archiv hl. m. Prahy – cech pražských sládků:** Antonín Löw, sládek v Praze († před 1833), manželka Marie roz. Procházková – v kterém pivovaru vařil → farnost (narození Františka asi 1802, Aloisie asi 1832).
+
 ## Knihy jen ve studovně Národní knihovny (Gillernové)
 
 - „Praha 11 na prahu 21. století“ (2007), s. 134: „…Gillernovi a od roku 1931…“ – možná Šeberov/Hrnčíře, kde je rodinný hrob.

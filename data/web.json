@@ -74,6 +74,13 @@
      "strana": "mámina strana · Píšovi"
     },
     {
+     "rok": "1756",
+     "nadpis": "Dva bratři mlynáři, dvě nevěsty",
+     "text": "Martin a Jan, synové mlynáře Pavla Linka „pod Lhotou“, se týž den žení v Čimelicích.",
+     "osoba": "martin-linek",
+     "strana": "tátova strana · Linkovi"
+    },
+    {
      "rok": "1764",
      "nadpis": "Narodil se Martin Musil",
      "text": "Syn sedláka Jiřího Musila z Jeníkova čp. 5, pokřtěn v Čechticích.",
@@ -92,6 +99,13 @@
      "text": "Matěj Píša si 20. listopadu bere Annu Jahodovou, dceru kondrackého kováře.",
      "osoba": "matej-pisa-1759",
      "strana": "mámina strana · Píšovi"
+    },
+    {
+     "rok": "1782",
+     "nadpis": "Panský zahradník z Osova",
+     "text": "Jan Brauner, zahradník osovského zámku, si bere Alžbětu, dceru mlynáře.",
+     "osoba": "jan-brauner",
+     "strana": "tátova strana · Braunerovi"
     },
     {
      "rok": "1786",
@@ -115,6 +129,13 @@
      "strana": "mámina strana · Šustrovi"
     },
     {
+     "rok": "1803",
+     "nadpis": "Sládkův syn z Nového Města",
+     "text": "V Praze u sv. Vojtěcha se narodil František Löw, syn mistra sladovníka Antonína.",
+     "osoba": "frantisek-low-1803",
+     "strana": "tátova strana · Löwovi"
+    },
+    {
      "rok": "1809",
      "nadpis": "Sova neboli Masák",
      "text": "Na statku Masáků v Masákově Lhotě se narodil Václav Sova.",
@@ -127,6 +148,27 @@
      "text": "Jan Musil z Jeníkova si bere měšťanskou dceru Annu Pešanovou z Křivsoudova.",
      "osoba": "jan-musil-1794",
      "strana": "mámina strana · Musilovi"
+    },
+    {
+     "rok": "1822",
+     "nadpis": "Smrt na zámku v Drhovli",
+     "text": "Umírá Ludmila Kudrličková, žena zámeckého klíčníka.",
+     "osoba": "ludmila-simlova-1775",
+     "strana": "tátova strana · Kudrličkovi"
+    },
+    {
+     "rok": "1825",
+     "nadpis": "Narodil se Karel Linek",
+     "text": "Ve mlýně č. 68 ve Smetanově Lhotě, syn mlynáře Josefa a Johanny z Osova.",
+     "osoba": "karel-linek-1825",
+     "strana": "tátova strana · Linkovi"
+    },
+    {
+     "rok": "1833",
+     "nadpis": "Sládek a klíčníkova dcera",
+     "text": "František Löw a Anna Kudrličková, oba z Prahy, se berou na zámku v Drhovli.",
+     "osoba": "frantisek-low-1803",
+     "strana": "tátova strana · Löwovi"
     },
     {
      "rok": "1848",
@@ -154,6 +196,13 @@
      "text": "V Mezně u Miličína, v roce zrušení roboty; syn krejčovského tovaryše Josefa Pigla.",
      "osoba": "jan-pigl-1848",
      "strana": "tátova strana · Piglovi"
+    },
+    {
+     "rok": "1852",
+     "nadpis": "Svatba v zámecké kapli",
+     "text": "Mlynář Karel Linek si v Drhovli bere sládkovu dceru Aloisii Löwovou.",
+     "osoba": "karel-linek-1825",
+     "strana": "tátova strana · Linkovi"
     },
     {
      "rok": "1853",
@@ -189,6 +238,13 @@
      "text": "Příbuzní Václav Volf a Františka Sovová se berou s povolením z Budějovic.",
      "osoba": "vaclav-volf-1847",
      "strana": "mámina strana · Šustrovi"
+    },
+    {
+     "rok": "1869",
+     "nadpis": "Mlynářova dcera z Písku",
+     "text": "Na Pražském předměstí se narodila Marie Karolina Linková, pozdější žena lesníka Augustina z Gillernů.",
+     "osoba": "marie-linkova-1869",
+     "strana": "tátova strana · Linkovi"
     },
     {
      "rok": "1886",
@@ -227,8 +283,8 @@
     },
     {
      "rok": "1894",
-     "nadpis": "V Lavičkách se narodil Jan Gillern",
-     "text": "Pradědeček, 14. června, v hájovně na schwarzenberském panství Orlík, kde byl lesním Augustin z Gillernů.",
+     "nadpis": "V hájovně v Bohosticích se narodil Jan z Gillernů",
+     "text": "Pradědeček, 14. června, v hájovně Bohostice č. 33 na schwarzenberském panství Orlík, kde byl lesním jeho otec Augustin z Gillernů.",
      "osoba": "jan-z-gillernu-1894",
      "strana": "tátova strana · Gillernovi"
     },
@@ -553,6 +609,31 @@
    "koren": 47,
    "nazev": "Melichovi",
    "popis": "Sedláci z Mezna č. 35/48."
+  },
+  {
+   "rod": 8,
+   "koren": 17,
+   "nazev": "Linkovi",
+   "popis": "Mlynáři ve Smetanově Lhotě u Čimelic od poloviny 18. století, později v Písku."
+  },
+  {
+   "rod": 8,
+   "koren": 69,
+   "nazev": "Braunerovi",
+   "popis": "Panský zahradník z Osova u Hořovic (1782)."
+  },
+  {
+   "rod": 8,
+   "koren": 35,
+   "nazev": "Löwovi",
+   "popis": "Pražští sládci z Nového Města; František Löw sládkem v Drhovli."
+  },
+  {
+   "rod": 8,
+   "koren": 71,
+   "nazev": "Kudrličkovi",
+   "popis": "Zámecký klíčník z Drhovle, původem z Prahy.",
+   "maly": true
   }
  ]
 }

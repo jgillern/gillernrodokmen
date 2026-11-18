@@ -1456,5 +1456,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1821_vejdovec_kurova": {
+  "boxes": [
+   [
+    0.0,
+    0.67,
+    1.0,
+    0.92
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

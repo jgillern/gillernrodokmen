@@ -16,7 +16,7 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 
 | linie | co by pomohlo |
 |---|---|
-| Gillernovi | data úmrtí pradědečka Jana Gillerna a prababičky Julie – náhrobek v Praze-Hrnčířích (správa hřbitova MČ Praha-Šeberov); úmrtní list táty Jiřího; doklady Jana Gillerna (domovský list, vysvědčení, pracovní knížka) |
+| Gillernovi | Jan † 10. 6. 1940 Hrnčíře č. 35, pohřben v Písku (nalezeno). Julie roz. Hřídelová (* 1897) – kdy a kde zemřela? (v Kunraticích do 1944 ne) – náhrobek v Praze-Hrnčířích (správa hřbitova MČ Praha-Šeberov), parte, matriční úřad Praha 4 (po 1950); hrob v Písku (správa hřbitovů Písek – kdo tam leží: Jan, Augustin a Marie z G.?); úmrtní list táty Jiřího; doklady Jana Gillerna (domovský list, vysvědčení, pracovní knížka) |
 | babička Božena | kdy a kde zemřela její maminka Josefa Richtrová, roz. Piglová (mezi 1929 a 1937, asi Kolovraty) – parte, náhrobek, vzpomínky; kdo byla Barbora Hrušková, druhá žena pradědečka Josefa Richtra (svatba 1937 v Táboře) |
 | Beranovi | **doklady Josefa Berana (1910–1975)** u příbuzných (rodiny Milady, Ludmily, Růženy, Josefa, Zdeňka a Pavla): křestní list (církevní listy z 20.–40. let uvádějí i prarodiče s místem narození – jako u dědy Augustina), domovský list (obec, kam rodina „patřila“ = odkud přišla), oddací list; **fotka rodinného hrobu v Pravoníně** (Josef st. a Emilie zemřeli až po 1949 – v církevní matrice Pravonín do 1949 nejsou); kdo byl Emil Beran (v Pravoníně 1937–38) – asi bratr z parte 1975 |
 

@@ -1348,5 +1348,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1822_gillern_vincenc": {
+  "boxes": [
+   [
+    0.0,
+    0.8,
+    1.0,
+    0.89
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

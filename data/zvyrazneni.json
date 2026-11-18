@@ -1420,5 +1420,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "z_1942_gillern_cenek": {
+  "boxes": [
+   [
+    0.0,
+    0.64,
+    1.0,
+    0.86
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

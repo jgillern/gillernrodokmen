@@ -1480,5 +1480,41 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "z_1866_vejdovec_josef": {
+  "boxes": [
+   [
+    0.0,
+    0.48,
+    1.0,
+    0.56
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1851_vejdovec_vincenc": {
+  "boxes": [
+   [
+    0.0,
+    0.6,
+    1.0,
+    0.86
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1858_vejdovcova_anna": {
+  "boxes": [
+   [
+    0.0,
+    0.37,
+    1.0,
+    0.56
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

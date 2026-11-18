@@ -563,5 +563,19 @@
   "svazek": "Kunratice (KUN) Z17, Z 1902–1944",
   "popis": "Kniha zemřelých fary Kunratice u Prahy (Hrnčíře, Šeberov, Libuš ad.), chronologicky, bez rejstříku; červen 1940 = snímek 272 (č. 25).",
   "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=93c2ec37112848fa8f78baf75057ffbf&scan=1"
+ },
+ "veselicko_z1": {
+  "archiv": "SOA Třeboň – Sbírka matrik Jihočeského kraje",
+  "portal": "Digitální archiv SOA v Třeboni",
+  "svazek": "Veselíčko, kniha zemřelých I (do 1858)",
+  "popis": "Kniha zemřelých fary Veselíčko, česky; 1851 = s. 94–97, 1858 = s. 278. Rejstřík: O/Z 1804–1898 (inv. 5967). Snímky poslal Jan Gillern (odkaz zatím chybí).",
+  "url": "https://digi.ceskearchivy.cz/"
+ },
+ "veselicko_z2": {
+  "archiv": "SOA Třeboň – Sbírka matrik Jihočeského kraje",
+  "portal": "Digitální archiv SOA v Třeboni",
+  "svazek": "Veselíčko, kniha zemřelých II (1859–)",
+  "popis": "Kniha zemřelých fary Veselíčko, česky, předtištěné tabulky; 1865–1866 = s. 32. Snímek poslal Jan Gillern (odkaz zatím chybí).",
+  "url": "https://digi.ceskearchivy.cz/"
  }
 }

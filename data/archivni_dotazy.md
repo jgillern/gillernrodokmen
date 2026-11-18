@@ -52,6 +52,7 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 ## Gillernové – úmrtí, která nejsou online
 
 - **Matriční úřad Zvíkovské Podhradí – matrika fary Oslov N/O/Z 1894–1949** (do archivu až po 2049): úmrtí **Augustina z Gillernů** (* 22. 10. 1859 Spolí, nadlesní ve Vrábsku 1924) a jeho ženy **Marie roz. Linkové** (* 9. 1. 1869 Písek) – v Čimelicích (1877–1949) nezemřeli; Louka (domovská obec Gillernů 1939) patří k faře Oslov. Jan je přímý potomek – má nárok na výpis.
+- **Mirovice O 1915–1949** (SOA Třeboň, „připravováno k digitalizaci“, 2025): sňatek Jana z Gillernů a Julie Hřídelové 26. 11. 1921 – zkontrolovat, až bude online.
 - **Hřbitov v Čimelicích – rodinný hrob Gillernů:** Vincenc († 1894), Tekla († 1900), Josefína († 1904), Marie († 1905), Antonie († 1940), Čeněk († 1942), JUDr. Karel – obecní úřad Čimelice (evidence hrobů), fotka náhrobku.
 
 ## Linkové a Löwové (předci Marie Linkové, manželky Augustina z Gillernů)

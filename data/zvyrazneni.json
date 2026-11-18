@@ -1384,5 +1384,41 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "z_1900_gillern_tekla": {
+  "boxes": [
+   [
+    0.0,
+    0.45,
+    1.0,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1904_gillern_josefina": {
+  "boxes": [
+   [
+    0.0,
+    0.52,
+    1.0,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1905_gillern_marie": {
+  "boxes": [
+   [
+    0.0,
+    0.55,
+    1.0,
+    0.95
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

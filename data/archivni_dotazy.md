@@ -55,6 +55,12 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 - **Mirovice O 1915–1949** (SOA Třeboň, „připravováno k digitalizaci“, 2025): sňatek Jana z Gillernů a Julie Hřídelové 26. 11. 1921 – zkontrolovat, až bude online.
 - **Hřbitov v Čimelicích – rodinný hrob Gillernů:** Vincenc († 1894), Tekla († 1900), Josefína († 1904), Marie († 1905), Antonie († 1940), Čeněk († 1942), JUDr. Karel – obecní úřad Čimelice (evidence hrobů), fotka náhrobku.
 
+## Franz (František) z Gillernů – původ (* asi 1788)
+
+- **Luštění zápisu o sňatku 1821** (eBadatelna, Uhlířské Janovice 15, fol. 153, https://ebadatelna.soapraha.cz/d/13240/77): ženich „František z Gillernů, … Lobk. Adjunkt“ a 3 další řádky (asi panství / původ) – požádat o pomoc zkušené čtenáře starých písem (např. genealogické fórum genea.cz, skupiny „luštění starých písem“).
+- **Lobkovický archiv** (Nelahozeves, Lobkowicz Collections; část ve SOA Litoměřice, pobočka Žitenice): služební spisy a seznamy úředníků kolem 1810–1822 – adjunkt František von Gillern.
+- **Úmrtí Franze z Gillernů** (po 1859, „Lebstremitz ?“ podle sňatku syna) – zápis by mohl uvést rodiště a věk.
+
 ## Linkové a Löwové (předci Marie Linkové, manželky Augustina z Gillernů)
 
 - **SOA Litoměřice, pobočka Žitenice – Rodinný archiv / velkostatek Lobkoviců (Drhovle):** osobní spis sládka Františka Löwa (* asi 1802 Praha, podsládek 1833, sládek v Drhovli 1852–1855, pak odešel) – odkud přišel (pražský pivovar, kde vařil jeho otec Antonín Löw) a kam odešel. Dotaz e-mailem.

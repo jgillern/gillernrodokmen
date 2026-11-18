@@ -1696,5 +1696,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1827_gillern_frantisek": {
+  "boxes": [
+   [
+    0.0,
+    0.42,
+    1.0,
+    0.66
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

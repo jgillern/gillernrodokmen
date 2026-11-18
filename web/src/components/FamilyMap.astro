@@ -1,23 +1,25 @@
 ---
 // Mapa míst, kde žili předci (Leaflet + OpenStreetMap); jedna tečka za (místo, rod).
 import 'leaflet/dist/leaflet.css';
+import Filtry from './Filtry.astro';
 import site from '../data/site.json';
-import { lineByK, people, href } from '../lib/data.js';
+import { lineByK, people, href, personYear, obdobiOf, sideOf, OBDOBI } from '../lib/data.js';
 const { height = '70vh', compact = false } = Astro.props;
 const ROOT_COLOR = '#8a6d52';
 const lines = Object.fromEntries(Object.values(lineByK).map((l) => [l.k, { name: l.name, color: l.color, slug: l.slug }]));
 lines[0] = { name: 'rodiče a prarodiče', color: ROOT_COLOR, slug: null };
 const names = {};
-for (const pl of site.places) for (const l of pl.lines) for (const s of l.people) names[s] = [people[s].name, people[s].years, href.person(s)];
+for (const pl of site.places) for (const l of pl.lines) for (const s of l.people) names[s] = [people[s].name, people[s].years, href.person(s), sideOf(people[s]), obdobiOf(personYear(people[s]))];
 const payload = JSON.stringify({ places: site.places, lines, names, compact });
 ---
+{!compact && <Filtry />}
 <div class="fmap" style={`height:${height}`} data-map={payload}></div>
 {!compact && (
   <div class="fmap-legend">
     {Object.entries(lines).filter(([k]) => k !== '0').map(([k, l]) => (
-      <label><input type="checkbox" data-line={k} checked /><span class="dot" style={`background:${l.color}`}></span>{l.name}</label>
+      <span class="lg"><span class="dot" style={`background:${l.color}`}></span>{l.name}</span>
     ))}
-    <label><input type="checkbox" data-line="0" checked /><span class="dot" style={`background:${ROOT_COLOR}`}></span>rodiče a prarodiče</label>
+    <span class="lg"><span class="dot" style={`background:${ROOT_COLOR}`}></span>rodiče a prarodiče</span>
   </div>
 )}
 
@@ -52,47 +54,59 @@ const payload = JSON.stringify({ places: site.places, lines, names, compact });
       maxZoom: 18,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     }).addTo(map);
-    const groups: Record<string, L.LayerGroup> = {};
+    const layer = L.layerGroup().addTo(map);
     const bounds: L.LatLngExpression[] = [];
-    for (const pl of places) {
-      const n = pl.lines.length;
-      pl.lines.forEach((ln: { k: number; people: string[] }, i: number) => {
-        const a = (2 * Math.PI * i) / Math.max(n, 1);
-        const d = n > 1 ? 0.006 : 0;
-        const pos: L.LatLngExpression = [pl.lat + d * Math.cos(a), pl.lon + (d * Math.sin(a)) / Math.cos((pl.lat * Math.PI) / 180)];
-        const line = lines[ln.k] ?? lines[0];
-        const count = ln.people.length;
-        const marker = L.circleMarker(pos, {
-          radius: compact ? 5 + Math.sqrt(count) * 1.6 : 7 + Math.sqrt(count) * 2.2,
-          color: '#3b2e22',
-          weight: 1,
-          fillColor: line.color,
-          fillOpacity: pl.hypothesis ? 0.35 : 0.9,
-          dashArray: pl.hypothesis ? '3 3' : undefined,
+    const lineSide = (k: number) => (k >= 8 && k <= 11 ? 'otec' : k >= 12 ? 'matka' : null);
+    const wrap = el.parentElement!;
+    const sel = (f: string) => (wrap.querySelector<HTMLSelectElement>(`select[data-f="${f}"]`)?.value ?? '');
+    const render = (fit: boolean) => {
+      layer.clearLayers();
+      const fs = sel('strana'), fr = sel('rod'), fo = sel('obdobi');
+      let nMist = 0, nLidi = 0;
+      for (const pl of places) {
+        const shown = pl.lines.filter((ln: { k: number }) => (!fr || String(ln.k) === fr) && (!fs || !lineSide(ln.k) || lineSide(ln.k) === fs));
+        const n = shown.length;
+        let any = false;
+        shown.forEach((ln: { k: number; people: string[] }, i: number) => {
+          const ppl = ln.people.filter((s) => (!fs || names[s][3] === fs || names[s][3] === 'oba') && (!fo || names[s][4] === fo));
+          if (pl.hypothesis ? (fo !== '') : ppl.length === 0) return;
+          any = true; nLidi += ppl.length;
+          const a = (2 * Math.PI * i) / Math.max(n, 1);
+          const d = n > 1 ? 0.006 : 0;
+          const pos: L.LatLngExpression = [pl.lat + d * Math.cos(a), pl.lon + (d * Math.sin(a)) / Math.cos((pl.lat * Math.PI) / 180)];
+          const line = lines[ln.k] ?? lines[0];
+          const count = ppl.length;
+          const marker = L.circleMarker(pos, {
+            radius: compact ? 5 + Math.sqrt(count) * 1.6 : 7 + Math.sqrt(count) * 2.2,
+            color: '#3b2e22', weight: 1, fillColor: line.color,
+            fillOpacity: pl.hypothesis ? 0.35 : 0.9, dashArray: pl.hypothesis ? '3 3' : undefined,
+          });
+          const who = ppl
+            .map((s) => `<a href="${esc(names[s][2])}">${esc(names[s][0])}</a>${names[s][1] ? ` <span class="y">${esc(names[s][1])}</span>` : ''}`)
+            .join('<br>');
+          const head = line.slug ? `<a href="/rod/${esc(line.slug)}/">${esc(line.name)}</a>` : esc(line.name);
+          marker.bindPopup(
+            `<strong>${esc(pl.name)}</strong>${pl.years ? ` <span class="y">${pl.years[0]}–${pl.years[1]}</span>` : ''}<br>` +
+              `<span class="pl" style="--c:${esc(line.color)}">${head}</span><br>` +
+              (pl.hypothesis ? 'hypotéza – vazba zatím neprokázaná' : who),
+            { maxHeight: 260 }
+          );
+          marker.bindTooltip(`${esc(pl.name)} · ${esc(line.name)}${count ? ` (${count})` : ''}`);
+          layer.addLayer(marker);
+          bounds.push(pos);
         });
-        const who = ln.people
-          .map((s) => `<a href="${esc(names[s][2])}">${esc(names[s][0])}</a>${names[s][1] ? ` <span class="y">${esc(names[s][1])}</span>` : ''}`)
-          .join('<br>');
-        const head = line.slug ? `<a href="/rod/${esc(line.slug)}/">${esc(line.name)}</a>` : esc(line.name);
-        marker.bindPopup(
-          `<strong>${esc(pl.name)}</strong>${pl.years ? ` <span class="y">${pl.years[0]}–${pl.years[1]}</span>` : ''}<br>` +
-            `<span class="pl" style="--c:${esc(line.color)}">${head}</span><br>` +
-            (pl.hypothesis ? 'hypotéza – vazba zatím neprokázaná' : who),
-          { maxHeight: 260 }
-        );
-        marker.bindTooltip(`${esc(pl.name)} · ${esc(line.name)}${count ? ` (${count})` : ''}`);
-        (groups[ln.k] ??= L.layerGroup().addTo(map)).addLayer(marker);
-        bounds.push(pos);
-      });
-    }
-    if (bounds.length) map.fitBounds(L.latLngBounds(bounds), { padding: [20, 20], maxZoom: 11 });
-    else map.setView([49.8, 15.5], 7);
-    el.parentElement?.querySelectorAll<HTMLInputElement>('.fmap-legend input').forEach((cb) =>
-      cb.addEventListener('change', () => {
-        const g = groups[cb.dataset.line!];
-        if (g) cb.checked ? g.addTo(map) : g.remove();
-      })
-    );
+        if (any) nMist++;
+      }
+      const cnt = wrap.querySelector('.flt-bar .flt-count');
+      if (cnt) cnt.textContent = `${nMist} ${nMist === 1 ? 'obec' : nMist < 5 && nMist > 1 ? 'obce' : 'obcí'}`;
+      if (fit) {
+        if (bounds.length) map.fitBounds(L.latLngBounds(bounds), { padding: [20, 20], maxZoom: 11 });
+        else map.setView([49.8, 15.5], 7);
+      }
+      bounds.length = 0;
+    };
+    render(true);
+    wrap.querySelectorAll<HTMLSelectElement>('.flt-bar select').forEach((s) => s.addEventListener('change', () => setTimeout(() => render(true), 0)));
   }
 </script>
 
@@ -102,7 +116,7 @@ const payload = JSON.stringify({ places: site.places, lines, names, compact });
     font: 600 1.05rem system-ui, sans-serif; text-align: center; padding: 1rem; pointer-events: none; opacity: 0; transition: opacity 0.25s; }
   .fmap-hint.on { opacity: 1; }
   .fmap-legend { display: flex; flex-wrap: wrap; gap: 0.3rem 1rem; margin: 0.6rem 0; font-size: 0.9rem; }
-  .fmap-legend label { display: inline-flex; align-items: center; gap: 0.35rem; cursor: pointer; }
+  .fmap-legend .lg { display: inline-flex; align-items: center; gap: 0.35rem; }
   .fmap-legend .dot { width: 0.8rem; height: 0.8rem; border-radius: 50%; border: 1px solid #3b2e22; }
   .leaflet-popup-content { font-size: 0.85rem; line-height: 1.4; }
   .leaflet-popup-content .y { color: #6e6153; }

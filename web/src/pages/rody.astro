@@ -1,30 +1,40 @@
 ---
 import Base from '../layouts/Base.astro';
 import PersonLink from '../components/PersonLink.astro';
-import { lines, people, href, linesTitle, subLines } from '../lib/data.js';
+import Filtry from '../components/Filtry.astro';
+import { lines, people, href, linesTitle, subLines, personYear, obdobiOf } from '../lib/data.js';
 const bigSubs = subLines.filter((s) => !s.maly);
 const smallSubs = subLines.filter((s) => s.maly);
 const list = Object.values(lines).sort((a, b) => a.k - b.k);
+const side = (k) => (k >= 8 && k <= 11 ? 'otec' : 'matka');
+const obd = (slugs) => [...new Set(slugs.map((s) => obdobiOf(personYear(people[s] ?? s))).filter(Boolean))].join(' ');
+const lineObd = (l) => obd(Object.keys(l.gens ?? {}).length ? Object.keys(l.gens) : l.people);
+const subObd = (s) => [...new Set(s.chain.map((p) => obdobiOf(personYear(p))).filter(Boolean))].join(' ');
 ---
 <Base title="Rody">
   <h1>{linesTitle(list.length)}</h1>
+  <div data-filtr-scope>
   <p class="lead">Rodokmen se větví podle osmi pradědečků a prababiček – rodičů dědečků a babiček. Každý rod je jedna z těchto větví se všemi svými předky.</p>
+  <Filtry />
   {list.length === 0 && <p>Rody se ukážou, až budou v rodokmenu známí pradědečkové a prababičky.</p>}
+  <div data-fg>
   <h2>Po otci</h2>
   {list.filter((l) => l.k < 12).length === 0 && <p class="muted">Otcovy rody (Gillernovi a rod babičky Boženy) zatím čekají na první doložené předky.</p>}
   <div class="grid2">
     {list.filter((l) => l.k < 12).map((l) => (
-      <a class="card line-card card-link" style={`--c:${l.color}`} href={href.line(l.slug)}>
+      <a class="card line-card card-link" style={`--c:${l.color}`} href={href.line(l.slug)} data-fi data-strana={side(l.k)} data-rod={l.k} data-obdobi={lineObd(l)}>
         <h3>{l.name}</h3>
         <p class="small">{l.desc}</p>
         <p class="small muted">{l.people.length} předků · začíná u {people[l.root].name}</p>
       </a>
     ))}
   </div>
+  </div>
+  <div data-fg>
   <h2>Po matce</h2>
   <div class="grid2">
     {list.filter((l) => l.k >= 12).map((l) => (
-      <a class="card line-card card-link" style={`--c:${l.color}`} href={href.line(l.slug)}>
+      <a class="card line-card card-link" style={`--c:${l.color}`} href={href.line(l.slug)} data-fi data-strana={side(l.k)} data-rod={l.k} data-obdobi={lineObd(l)}>
         <h3>{l.name}</h3>
         <p class="small">{l.desc}</p>
         <p class="small muted">{l.people.length} předků · začíná u {people[l.root].name}</p>
@@ -32,13 +42,15 @@ const list = Object.values(lines).sort((a, b) => a.k - b.k);
     ))}
   </div>
 
+  </div>
   {bigSubs.length > 0 && (
     <>
+      <div data-fg>
       <h2>Větve rodů</h2>
       <p class="lead">Každý rod se dál větví: kdykoli se do rodiny přivdala nevěsta, přinesla s sebou svůj rod. Tady jsou rodová jména, která se v rodokmenu objevují, s otcovskou linií od nejmladšího po nejstaršího doloženého nositele.</p>
       <div class="grid2">
         {bigSubs.map((s) => (
-          <div class="card line-card" style={`--c:${s.color}`}>
+          <div class="card line-card" style={`--c:${s.color}`} data-fi data-strana={side(s.rod)} data-rod={s.rod} data-obdobi={subObd(s)}>
             <h3>{s.nazev}</h3>
             <p class="small">{s.popis}</p>
             <p class="small muted">{s.chain.length} {s.chain.length === 1 ? 'generace' : s.chain.length < 5 ? 'generace' : 'generací'} · nejstarší: {s.oldest.name}{s.oldest.years ? ` (${s.oldest.years})` : ''}</p>
@@ -48,14 +60,16 @@ const list = Object.values(lines).sort((a, b) => a.k - b.k);
           </div>
         ))}
       </div>
+      </div>
       {smallSubs.length > 0 && (
-        <>
+        <div data-fg>
           <h3>Další rodová jména</h3>
           <ul class="facts">
-            {smallSubs.map((s) => <li><strong>{s.nazev}</strong> – {s.popis} {s.chain.map((p, i) => <>{i > 0 && ' ← '}<a href={href.person(p.slug)}>{p.name}</a></>)}</li>)}
+            {smallSubs.map((s) => <li data-fi data-strana={side(s.rod)} data-rod={s.rod} data-obdobi={subObd(s)}><strong>{s.nazev}</strong> – {s.popis} {s.chain.map((p, i) => <>{i > 0 && ' ← '}<a href={href.person(p.slug)}>{p.name}</a></>)}</li>)}
           </ul>
-        </>
+        </div>
       )}
     </>
   )}
+</div>
 </Base>

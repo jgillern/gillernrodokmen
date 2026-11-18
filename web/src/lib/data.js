@@ -40,3 +40,28 @@ export const subLines = (config.podrody ?? []).map((s) => {
   const oldest = chain[chain.length - 1];
   return { ...s, chain, oldest, color: lineByK[s.rod]?.color ?? '#ccc' };
 }).filter((s) => s.chain.length > 0);
+
+/** Filtry (mapa, rody): strana, rod, období. */
+export const OBDOBI = [
+  { id: 'do1750', name: 'do roku 1750', od: -Infinity, do: 1749 },
+  { id: '1750', name: '1750–1799', od: 1750, do: 1799 },
+  { id: '1800', name: '1800–1849', od: 1800, do: 1849 },
+  { id: '1850', name: '1850–1899', od: 1850, do: 1899 },
+  { id: '1900', name: '1900 a později', od: 1900, do: Infinity },
+];
+/** Rok osoby: první letopočet z let nebo údajů; jinak odhad podle generace (30 let na generaci od kořene). */
+export function personYear(p) {
+  const m = ((p.years || '') + ' ' + (p.facts || []).join(' ')).match(/1[5-9]\d\d|20\d\d/);
+  if (m) return Number(m[0]);
+  const rootY = Number(((root.years || '').match(/\d{4}/) || ['1990'])[0]);
+  return p.gen != null ? rootY - 30 * p.gen : null;
+}
+export const obdobiOf = (y) => (y == null ? null : OBDOBI.find((o) => y >= o.od && y <= o.do)?.id ?? null);
+/** Strana podle Kekulého čísla: 2, 4–5, 8–11 … otcova; 3, 6–7, 12–15 … matčina; 1 = výchozí osoba. */
+export function sideOfK(k) {
+  if (!k || k < 2) return 'oba';
+  let x = k;
+  while (x > 3) x = Math.floor(x / 2);
+  return x === 2 ? 'otec' : 'matka';
+}
+export const sideOf = (p) => sideOfK(p.k);

@@ -7,7 +7,7 @@ lead: "Rodokmen jako kniha: každá kapitola sleduje jednu větev předků od ne
 
 ## Jak je kniha uspořádaná
 
-Každý člověk má čtyři prarodiče – a s nimi čtyři velké větve předků. Jan má z máminy strany babičku **Miladu Beranovou** z Pravonína a dědu **Vladimíra Myslíka** ze Zdíkova, z tátovy strany dědu **Augustina Gillerna** (v rodině „Gustík“) a babičku **Boženu Richtrovou** z Kolovrat, jejíž rodiče pocházeli z Mezna u Miličína. Každé z větví patří jedna kapitola; poslední kapitola **Jak žili** je porovnává.
+Každý člověk má čtyři prarodiče – a s nimi čtyři velké větve předků. Jan má z máminy strany babičku **Miladu Beranovou** z Pravonína a dědu **Vladimíra Myslíka** ze Zdíkova, z tátovy strany dědu **Augustina Gillerna** (v rodině „Gustík“) a babičku **Boženu Richtrovou** z Kolovrat, jejíž rodiče pocházeli z Mezna u Miličína. Každé z větví patří jedna kapitola – jen Gillernovi mají kvůli bohatým pramenům tři: o lesnících, o mlynářích a sládcích z rodu Marie Linkové a o tesařích a měšťanech z rodu Tekly Vejdovcové. Poslední kapitola **Jak žili** je porovnává. Nad seznamem kapitol, v kapitolách i v zajímavostech můžete vybrat stranu, rod a období.
 
 Kapitoly vycházejí jen z doložených pramenů – farních matrik, rodinných dokladů a tištěných zdrojů. Kde si nejsme jisti, píšeme to: „nejspíš“, „snad“ nebo otazník. Odkazy vedou na stránky jednotlivých předků, kde najdete výřezy z originálních zápisů, přepisy a překlady.
 

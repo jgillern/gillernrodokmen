@@ -2,6 +2,16 @@
 import Base from '../../layouts/Base.astro';
 import { docs } from '../../lib/data.js';
 import { kapitoly } from '../../lib/kapitoly.js';
+import Filtry from '../../components/Filtry.astro';
+import { OBDOBI } from '../../lib/data.js';
+const stranaOf = (fm) => (/táto|otc/.test(fm.strana ?? '') ? 'otec' : /mám|matk/.test(fm.strana ?? '') ? 'matka' : 'otec matka');
+const obdOf = (fm) => {
+  const ys = (String(fm.obdobi ?? '').match(/\d{4}/g) || []).map(Number);
+  if (!ys.length) return '';
+  const a = /před/.test(String(fm.obdobi)) ? Math.min(...ys) - 30 : Math.min(...ys), b = Math.max(...ys);
+  return OBDOBI.filter((o) => o.do >= a && o.od <= b).map((o) => o.id).join(' ');
+};
+const rodyOf = (fm) => (fm.rody?.length ? fm.rody.join(' ') : '8 9 10 11 12 13 14 15');
 import { Content, frontmatter } from '../../generated/pribeh.md';
 ---
 <Base title={frontmatter.title}>
@@ -12,14 +22,17 @@ import { Content, frontmatter } from '../../generated/pribeh.md';
   {kapitoly.length > 0 && (
     <>
       <h2>Kapitoly</h2>
+      <div data-filtr-scope>
+      <Filtry />
       <div class="grid2">
         {kapitoly.map((k, i) => (
-          <a class="card card-link" href={`/pribehy/${k.slug}/`}>
+          <a class="card card-link" href={`/pribehy/${k.slug}/`} data-fi data-strana={stranaOf(k.fm)} data-rod={rodyOf(k.fm)} data-obdobi={obdOf(k.fm)}>
             <p class="small muted">{k.fm.strana ? `${k.fm.strana} · ` : ''}{k.fm.obdobi ?? ''}{k.fm.stav ? ' · rozpracováno' : ''}</p>
             <h3>{i + 1}. {k.fm.title}</h3>
             {k.fm.lead && <p class="small muted">{k.fm.lead}</p>}
           </a>
         ))}
+      </div>
       </div>
     </>
   )}

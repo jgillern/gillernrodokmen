@@ -1,0 +1,109 @@
+---
+// Společné filtry (strana · rod · období). Filtruje prvky s [data-fi] uvnitř nejbližšího [data-filtr-scope]
+// podle atributů data-strana / data-rod / data-obdobi (seznamy hodnot oddělené mezerou; prázdné = vždy vidět).
+// Odstavce s odkazy na osoby (/osoba/…) v textu (zajímavosti, kapitoly) se oštítkují samy podle těch osob:
+// <Filtry auto=".prose" /> rozdělí text podle nadpisů h2 a každý oddíl označí.
+import { lines, people, OBDOBI, personYear, obdobiOf, sideOf } from '../lib/data.js';
+const { auto = '', bezRodu = false } = Astro.props;
+const rody = Object.values(lines).sort((a, b) => a.k - b.k);
+const lineSide = (k) => (k >= 8 && k <= 11 ? 'otec' : 'matka');
+// slug → [strana, rod, období] pro automatické štítkování textu
+const meta = auto
+  ? Object.fromEntries(Object.values(people).map((p) => [p.slug, [sideOf(p), p.line ?? '', obdobiOf(personYear(p)) ?? '']]))
+  : null;
+---
+<div class="flt-bar" data-auto={auto || undefined} data-meta={meta ? JSON.stringify(meta) : undefined}>
+  <label>Strana
+    <select data-f="strana"><option value="">obě strany</option><option value="otec">tátova (otcova)</option><option value="matka">mámina (matčina)</option></select>
+  </label>
+  {!bezRodu && (
+    <label>Rod
+      <select data-f="rod"><option value="">všechny rody</option>
+        {rody.map((l) => <option value={l.k} data-strana={lineSide(l.k)}>{l.name}</option>)}
+      </select>
+    </label>
+  )}
+  <label>Období
+    <select data-f="obdobi"><option value="">všechna období</option>{OBDOBI.map((o) => <option value={o.id}>{o.name}</option>)}</select>
+  </label>
+  <span class="flt-count small muted"></span>
+</div>
+
+<script>
+  for (const bar of document.querySelectorAll<HTMLElement>('.flt-bar')) {
+    const scope = (bar.closest('[data-filtr-scope]') as HTMLElement) ?? document.body;
+    const sel = (f: string) => bar.querySelector<HTMLSelectElement>(`select[data-f="${f}"]`);
+    // automatické štítkování textu podle odkazů na osoby
+    if (bar.dataset.auto) {
+      const meta: Record<string, [string, string | number, string]> = JSON.parse(bar.dataset.meta || '{}');
+      for (const prose of scope.querySelectorAll<HTMLElement>(bar.dataset.auto)) {
+        const kids = Array.from(prose.children);
+        let sec: HTMLElement | null = null;
+        for (const el of kids) {
+          if (el.tagName === 'H2' || !sec) {
+            sec = document.createElement('section');
+            sec.setAttribute('data-fi', '');
+            prose.insertBefore(sec, el);
+          }
+          sec.appendChild(el);
+        }
+        for (const s of prose.querySelectorAll<HTMLElement>(':scope > section[data-fi]')) {
+          const st = new Set<string>(), rd = new Set<string>(), ob = new Set<string>();
+          for (const a of s.querySelectorAll<HTMLAnchorElement>('a[href*="/osoba/"]')) {
+            const slug = a.getAttribute('href')!.split('/osoba/')[1]?.replace(/\/.*$/, '');
+            const m = slug && meta[slug];
+            if (!m) continue;
+            if (m[0] !== 'oba') st.add(m[0]);
+            if (m[1] !== '') rd.add(String(m[1]));
+            if (m[2]) ob.add(m[2]);
+          }
+          // letopočty v textu oddílu doplní období
+          for (const y of (s.textContent || '').match(/\b1[5-9]\d\d\b/g) || []) {
+            const n = Number(y);
+            ob.add(n < 1750 ? 'do1750' : n < 1800 ? '1750' : n < 1850 ? '1800' : n < 1900 ? '1850' : '1900');
+          }
+          s.dataset.strana = [...st].join(' ');
+          s.dataset.rod = [...rd].join(' ');
+          s.dataset.obdobi = [...ob].join(' ');
+        }
+      }
+    }
+    const items = () => Array.from(scope.querySelectorAll<HTMLElement>('[data-fi]'));
+    const ok = (el: HTMLElement, attr: string, v: string) => {
+      if (!v) return true;
+      const list = (el.dataset[attr] || '').split(/\s+/).filter(Boolean);
+      return list.includes(v);
+    };
+    const apply = () => {
+      const fs = sel('strana')?.value ?? '', fr = sel('rod')?.value ?? '', fo = sel('obdobi')?.value ?? '';
+      // rody v nabídce jen ze zvolené strany
+      sel('rod')?.querySelectorAll<HTMLOptionElement>('option[data-strana]').forEach((o) => {
+        o.hidden = !!fs && o.dataset.strana !== fs;
+        if (o.hidden && o.selected) sel('rod')!.value = '';
+      });
+      let n = 0, all = 0;
+      for (const el of items()) {
+        all++;
+        const show = ok(el, 'strana', fs) && ok(el, 'rod', sel('rod')?.value ?? '') && ok(el, 'obdobi', fo);
+        el.hidden = !show;
+        if (show) n++;
+      }
+      // skupiny (nadpis + mřížka), ve kterých nic nezbylo
+      for (const g of scope.querySelectorAll<HTMLElement>('[data-fg]')) g.hidden = !g.querySelector('[data-fi]:not([hidden])');
+      const cnt = bar.querySelector('.flt-count');
+      if (cnt) cnt.textContent = fs || fr || fo ? `zobrazeno ${n} z ${all}` : '';
+    };
+    bar.querySelectorAll('select').forEach((s) => s.addEventListener('change', apply));
+    apply();
+  }
+</script>
+
+<style is:global>
+  .flt-bar { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; align-items: end; margin: 0.4rem 0 1rem; padding: 0.6rem 0.8rem;
+    border: 1px solid var(--line); border-radius: 12px; }
+  .flt-bar label { display: inline-flex; flex-direction: column; font-size: 0.8rem; gap: 0.15rem; opacity: 0.85; }
+  .flt-bar select { font: inherit; font-size: 0.95rem; padding: 0.3rem 0.4rem; border: 1px solid var(--line); border-radius: 8px;
+    background: transparent; color: inherit; max-width: 100%; }
+  .flt-bar select option { color: #222; }
+  [data-fi][hidden], [data-fg][hidden] { display: none !important; }
+</style>

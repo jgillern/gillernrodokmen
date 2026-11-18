@@ -1300,5 +1300,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1803_low_frantisek": {
+  "boxes": [
+   [
+    0.0,
+    0.05,
+    1.0,
+    0.22
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

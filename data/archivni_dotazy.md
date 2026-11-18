@@ -52,7 +52,7 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 ## Linkové a Löwové (předci Marie Linkové, manželky Augustina z Gillernů)
 
 - **SOA Litoměřice, pobočka Žitenice – Rodinný archiv / velkostatek Lobkoviců (Drhovle):** osobní spis sládka Františka Löwa (* asi 1802 Praha, podsládek 1833, sládek v Drhovli 1852–1855, pak odešel) – odkud přišel (pražský pivovar, kde vařil jeho otec Antonín Löw) a kam odešel. Dotaz e-mailem.
-- **Archiv hl. m. Prahy – cech pražských sládků:** Antonín Löw, sládek v Praze († před 1833), manželka Marie roz. Procházková – v kterém pivovaru vařil → farnost (narození Františka asi 1802, Aloisie asi 1832).
+- **Archiv hl. m. Prahy – cech pražských sládků:** Antonín Löw (Lew), „mejstr sladovnický“, Nové Město č. 396 (farnost sv. Vojtěch, 1803), † před 1833, manželka Marie roz. Procházková – v kterém pivovaru vařil. Farnost už známe (sv. Vojtěch) – syn František * 5. 12. 1803.
 
 ## Knihy jen ve studovně Národní knihovny (Gillernové)
 

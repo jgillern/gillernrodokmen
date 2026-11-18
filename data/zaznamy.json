@@ -1157,7 +1157,7 @@
   "druh": "N",
   "datum": "8. 10. 1822",
   "nazev": "Narození Vincence z Gillernů, Šebestěnice č. 1 (fara Zbyšov)",
-  "shrnuti": "8. 10. 1822, Šebestěnice č. 1 (zámek / panský dvůr): Vincenc, katolík, chlapec, manželský; otec pan Franz (František) von Giller (Gillern), vrchnostenský (?) adjunkt; matka Anna, dcera Jana Pelvana, pensisty (? – úředníka na odpočinku) v Mitrově (?), a Anny roz. Kujzlové (?) z Vlašimi (?). Kmotři: Vincenc, syn Jana Pelvana, pensisty (?) z Mitrova, a Kateřina, manželka Václava Růžičky (?), sedláka a rychtáře z Mitrova; bába Marie Horáková. Jména a obce matčiny rodiny čteny nejistě (přiblížený snímek).",
+  "shrnuti": "8. 10. 1822, Šebestěnice č. 1 (zámek / panský dvůr): Vincenc, katolík, chlapec, manželský; otec pan Franz (František) von Giller (Gillern), vrchnostenský (?) adjunkt; matka Anna, dcera Jana Pelvana, poddaného (? – v r. 1825 domkáře ?) v Mitrově (?), a Anny roz. Kujzlové (?) z Vlašimi (?). Kmotři: Vincenc, syn Jana Pelvana, poddaný (?) z Mitrova, a Kateřina, manželka Václava Růžičky (?), sedláka a rychtáře z Mitrova; bába Marie Horáková. Jména a obce matčiny rodiny čteny nejistě (přiblížený snímek).",
   "svazek": "zbysov_01",
   "strana": "140, 10. zápis",
   "odkaz": "https://ebadatelna.soapraha.cz/d/9049/73"
@@ -1421,5 +1421,15 @@
   "shrnuti": "8. 3. 1680 pokřtěn ve městě Týně nad Vltavou („z Miesta Tegna“): Jan, syn Václava Hlenického (? – psáno „Hlenik…“, podtrženo; pozdější rukou připsáno „Jelýnek“) a Kateřiny. Kmotr urozený pan Adam Nussbaum (?) …; svědci urozený pan Václav Kobolský (?) a paní Anna Gáchová (?). Rejstřík N (inv. 5852) ho vede jako „Jelínek Jan, Týn, 1680, A 185“. Je to Jan „Gelinek alias Hlenizky“, syn pana Hlenického, měšťana týnského, který se 1708 oženil v Milevsku s Annou Humpovou – otec Terezie Jelínkové (* 1713). Při sňatku mu bylo 28 let.",
   "strana": "fol. 185b, 1. zápis",
   "odkaz": "https://digi.ceskearchivy.cz/8096/192/2058/1568/51/0"
+ },
+ {
+  "klic": "n_1825_gillern_jan",
+  "svazek": "zbysov_01",
+  "druh": "N",
+  "datum": "7. 11. 1825",
+  "nazev": "Narození Jana Křtitele z Gillernů, Šebestěnice č. 1 (bratr Vincence)",
+  "shrnuti": "7. 11. 1825 narozen, 9. 11. pokřtěn (kaplan Franciscus Matthäus Podhajský): Jan Křtitel, Šebestěnice č. 1, katolík, chlapec, manželský; otec pan František z Gillern, hosp[odářský ?] … (titul čten nejistě); matka Anna, dcera Jana Pelwana, domkáře (?) z Mitrova, panství … (?), a matky Anny roz. Kuglové / Kujzlové (?) z Vlašimi (?). Kmotři: Johann Pelwan, … z Mitrova; Kateřina, manželka … (Václava ?) …, z Mit[rova]. Bába Barbora Horáková (?). Mladší bratr Vincence (* 1822); v rejstříku Zbyšov 24 čteno chybně jako dcera 9. 10. 1825.",
+  "strana": "s. 190, 1. zápis",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/9049"
  }
 ]

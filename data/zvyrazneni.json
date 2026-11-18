@@ -1372,5 +1372,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1889_gillern_linkova": {
+  "boxes": [
+   [
+    0.07,
+    0.2,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

@@ -70,7 +70,7 @@ Na vesnici platil pevný žebříček: nahoře **sedlák** s celým gruntem, pod
 - **Votičtí:** [Jan Pigl](/osoba/jan-pigl-1848/) se roku 1876 ženil jako zeměbranec 46. praporu v Táboře.
 - **Vlašimští:** [Alois Sluneček](/osoba/alois-slunecek-1863/) se vyučil zámečníkem a otevřel si v Tisku hokynářství, jeho syn [František](/osoba/frantisek-slunecek-1888/) byl obuvník a později obchodník. [Jan Svatek](/osoba/jan-svatek/) byl krejčí.
 - **Šumavští:** [Josef Šustr](/osoba/josef-sustr-1868/) byl zedník – řemeslo, se kterým se dalo chodit za prací daleko od domova.
-- **Lesníci a mlynáři:** Gillernové stoupali v knížecí službě – [Vincenc](/osoba/vincenc-z-gillernu-1822/) byl revírníkem, [Augustin](/osoba/augustin-z-gillernu/) lesním a později nadlesním. Pod křestním zápisem [Marie Linkové](/osoba/marie-linkova-1869/) je poznámka, že její křestní list byl vydán „do Ameriky“.
+- **Lesníci a mlynáři:** Gillernové stoupali v knížecí službě – [Vincenc](/osoba/vincenc-z-gillernu-1822/) byl revírníkem, [Augustin](/osoba/augustin-z-gillernu-1859/) lesním a později nadlesním. Pod křestním zápisem [Marie Linkové](/osoba/marie-linkova-1869/) je poznámka, že její křestní list byl vydán „do Ameriky“.
 - **Horosedelští:** [František Hřídel](/osoba/frantisek-hridel-1848/) zůstal na statku a oženil se až ve čtyřiačtyřiceti.
 
 **Jak to mohli prožívat:** Pro vesnické rody to byla doba, kdy už grunt nebyl jedinou cestou k obživě. Kdo neměl dědictví, mohl jít k řemeslu, do obchodu nebo za moře. Panští lesníci a sedláci na statcích naproti tomu zažívali spíš klid a jistotu.

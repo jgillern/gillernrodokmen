@@ -106,7 +106,7 @@ Když babička [Tekla](/osoba/tekla-vejdovcova/) v červnu 1894 kmotrovala vnuko
 
 ## Křestní list „do Ameriky“
 
-Pod křestním zápisem praprababičky [Marie Karoliny Linkové](/osoba/marie-linkova-1869/), dcery píseckého mlynáře (narozena 1869), připsal farář později drobnou poznámku: křestní list byl „vydán do Ameriky“ – a později ještě jednou jako duplikát. Data jsou bohužel nečitelná. Kdo si křestní list do Ameriky vyžádal a proč, zatím nevíme: v té době odcházely za moře desetitisíce lidí z jižních Čech a úřady i budoucí zaměstnavatelé po nich chtěli doklady. Marie sama v Čechách zůstala – vdala se za lesníka Augustina z Gillernů a v roce 1924 šla za kmotru vnukovi Augustinovi.
+Pod křestním zápisem praprababičky [Marie Karoliny Linkové](/osoba/marie-linkova-1869/), dcery píseckého mlynáře (narozena 1869), připsal farář později drobnou poznámku: křestní list byl „vydán do Ameriky“ – a později ještě jednou jako duplikát „k výplatě u banky Slavie“ (pražská pojišťovna Slavia vyplácela životní pojistky). Roky jsou bohužel nečitelné. Kdo si křestní list do Ameriky vyžádal a proč, zatím nevíme: v té době odcházely za moře desetitisíce lidí z jižních Čech a úřady i budoucí zaměstnavatelé po nich chtěli doklady. Marie sama v Čechách zůstala – vdala se za lesníka Augustina z Gillernů a v roce 1924 šla za kmotru vnukovi Augustinovi.
 
 ## Dva mlýny, dvě dcery
 

@@ -1240,5 +1240,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1782_brauner_alzbeta": {
+  "boxes": [
+   [
+    0.0,
+    0.56,
+    1.0,
+    0.64
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

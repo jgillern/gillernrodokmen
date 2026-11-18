@@ -1031,5 +1031,35 @@
   "svazek": "cizova_15",
   "strana": "fol. 104, 2. zápis",
   "odkaz": "https://digi.ceskearchivy.cz/3039/104"
+ },
+ {
+  "klic": "z_1847_linek_josef",
+  "svazek": "cimelice_18",
+  "druh": "Z",
+  "datum": "22. 7. 1847",
+  "nazev": "Úmrtí Josefa Linka, mlynáře, Lhota Smetanova č. 68",
+  "shrnuti": "22. 7. 1847 zemřel, 25. 7. pohřben na hřbitově u kaple sv. Josefa (Čimelice): pan Josef Linek, mlynář lhotecký, Lhota Smetanova č. 68, katolík, 72 let. Nemoc: zanícení mozku. Zaopatřil i pohřbil P. Josef Neuhauser (?), farář čimelický.",
+  "strana": "211",
+  "odkaz": "https://digi.ceskearchivy.cz/2992/211"
+ },
+ {
+  "klic": "z_1822_linkova_frantiska",
+  "svazek": "cimelice_18",
+  "druh": "Z",
+  "datum": "17. 10. 1822",
+  "nazev": "Úmrtí Františky Linkové, mlynářky, Lhota č. 68",
+  "shrnuti": "17. 10. 1822 zemřela, 19. (?) pohřbena (Čimelice): Františka Linková, mlynářka, Lhota č. 68, katolička, 46 let. Nemoc: souchotiny (?). Zaopatřil i pohřbil P. Josef Neuhauser, kurát.",
+  "strana": "47",
+  "odkaz": "https://digi.ceskearchivy.cz/2992/48"
+ },
+ {
+  "klic": "z_1821_linkova_barbora",
+  "svazek": "cimelice_18",
+  "druh": "Z",
+  "datum": "8. 4. 1821 (?)",
+  "nazev": "Úmrtí Barbory Linkové, vdovy, Lhota č. 68",
+  "shrnuti": "8. 4. 182? (asi 1821) zemřela, 10. (?) pohřbena (Čimelice): Barbora Linková, vdova, Lhota č. 68, katolička, 85 let. Nemoc: stáří. Zaopatřil P. Václav Jeřábek (?), kaplan.",
+  "strana": "41",
+  "odkaz": "https://digi.ceskearchivy.cz/2992/42"
  }
 ]

@@ -1204,5 +1204,41 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "z_1847_linek_josef": {
+  "boxes": [
+   [
+    0.0,
+    0.55,
+    1.0,
+    0.69
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1822_linkova_frantiska": {
+  "boxes": [
+   [
+    0.0,
+    0.82,
+    1.0,
+    0.92
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1821_linkova_barbora": {
+  "boxes": [
+   [
+    0.0,
+    0.82,
+    1.0,
+    0.88
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

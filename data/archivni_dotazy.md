@@ -46,6 +46,7 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 
 - Rodokmen, o kterém v roce 1978 psal Karel Vyšín, měl pan Bedřich Gillern (* 1928, Dvůr Králové) – mohl se zachovat u rodiny z Olešovic.
 - K. F. von Frank: Standeserhebungen und Gnadenakte, sv. II, s. 91 (Národní knihovna) – šlechtické listy Gillerů / Gillernů.
+- **Hrob Gillernů v Čimelicích:** Vincenc z Gillernů pohřben 29. 1. 1894 „u sv. Josefa v Čimelicích“; podle dopisu K. Vyšína (1978) je v Čimelicích pohřben i JUDr. Karel Gillern (syn Čeňka) – možná rodinný hrob. Dotaz na obecní úřad Čimelice (správce hřbitova, evidence hrobových míst – kdo hrob platí, kdo v něm leží), případně fotka hřbitova.
 - Matriky Lis (?) u Blatné 1894 (narození JUDr. Bedřicha, syna Čeňka Gillerna) – pro propojení Čeňka a Augustina.
 
 ## Knihy jen ve studovně Národní knihovny (Gillernové)

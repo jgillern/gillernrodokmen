@@ -1588,5 +1588,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1785_kura_jirovcova": {
+  "boxes": [
+   [
+    0.0,
+    0.39,
+    1.0,
+    0.6
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

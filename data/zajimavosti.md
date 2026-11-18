@@ -107,3 +107,9 @@ Když babička [Tekla](/osoba/tekla-vejdovcova/) v červnu 1894 kmotrovala vnuko
 ## Křestní list „do Ameriky“
 
 Pod křestním zápisem praprababičky [Marie Karoliny Linkové](/osoba/marie-linkova-1869/), dcery píseckého mlynáře (narozena 1869), připsal farář později drobnou poznámku: křestní list byl „vydán do Ameriky“ – a později ještě jednou jako duplikát. Data jsou bohužel nečitelná. Kdo si křestní list do Ameriky vyžádal a proč, zatím nevíme: v té době odcházely za moře desetitisíce lidí z jižních Čech a úřady i budoucí zaměstnavatelé po nich chtěli doklady. Marie sama v Čechách zůstala – vdala se za lesníka Augustina z Gillernů a v roce 1924 šla za kmotru vnukovi Augustinovi.
+
+## Dva mlýny, dvě dcery
+
+Janovi předkové mleli obilí na obou stranách rodiny – a ve stejné době. Na mámině straně stál mlýn ve Zdíkově č. 58 pod Šumavou: mlynářem tam byl [Josef Vaněk](/osoba/josef-vanek/) a po něm jeho syn [František](/osoba/frantisek-vanek-1802/), narozený roku 1802 přímo ve mlýně. Na tátově straně, asi šedesát kilometrů odtud, mlel ve Smetanově Lhotě č. 68 u Čimelic [Josef Linek](/osoba/josef-linek/) a po něm syn [Karel](/osoba/karel-linek/). František Vaněk i Josef Linek jsou Janovi prapraprapradědečkové – stejná generace, stejné řemeslo a oba zemřeli před polovinou 60. let 19. století.
+
+Jejich dcery ale vzaly život opačným směrem. [Františka Vaňková](/osoba/frantiska-vankova-1836/) se roku 1865 vdala za o 24 let staršího domkáře a vdovce [Tomáše Šustra](/osoba/tomas-sustr-1812/) z Masákovy Lhoty – z mlynářské dcery se stala domkářka. Karel Linek se naopak s rodinou přestěhoval do Písku a jeho dcera [Marie Karolina](/osoba/marie-linkova-1869/) si vzala knížecího lesníka se šlechtickým přídomkem Augustina z Gillernů. Oba mlynářské rody se po sto letech potkaly v Janovi.

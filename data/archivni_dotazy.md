@@ -59,7 +59,7 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 
 - **Luštění zápisu o sňatku 1821** (eBadatelna, Uhlířské Janovice 15, fol. 153, https://ebadatelna.soapraha.cz/d/13240/77): ženich „František z Gillernů, … Lobk. Adjunkt“ a 3 další řádky (asi panství / původ) – požádat o pomoc zkušené čtenáře starých písem (např. genealogické fórum genea.cz, skupiny „luštění starých písem“).
 - **Lobkovický archiv** (Nelahozeves, Lobkowicz Collections; část ve SOA Litoměřice, pobočka Žitenice): služební spisy a seznamy úředníků kolem 1810–1822 – adjunkt František von Gillern.
-- **Úmrtí Franze z Gillernů** (po 1859, „Lebstremitz ?“ podle sňatku syna) – zápis by mohl uvést rodiště a věk.
+- **Úmrtí Franze z Gillernů** (kdy a kde, nevíme; v sňatku syna 1859 jen „Wirthschaftsadjunkt in Schebestenitz“) – zápis by mohl uvést rodiště a věk.
 
 ## Linkové a Löwové (předci Marie Linkové, manželky Augustina z Gillernů)
 

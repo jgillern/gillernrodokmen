@@ -633,5 +633,19 @@
   "svazek": "Milevsko, N/O/Z 1692–1735 (inv. č. 3373)",
   "popis": "Latinská kniha fary Milevsko; podle poznámek uživatelů v portálu: N 1692–5/1730 = sn. 2–242, O 1692–11/1733 = sn. 327–388, Z = sn. 242–272 a 388–418. Bez rejstříku. Snímky poslal Jan Gillern.",
   "url": "https://digi.ceskearchivy.cz/5535"
+ },
+ "tyn_5815": {
+  "archiv": "SOA Třeboň – Sbírka matrik Jihočeského kraje",
+  "portal": "Digitální archiv SOA v Třeboni",
+  "svazek": "Týn nad Vltavou, N 1650–1684 (inv. č. 5815, „kniha A“)",
+  "popis": "Kniha narozených fary Týn nad Vltavou, česky, chronologicky, každý zápis s nadpisem obce („z Miesta Tegna“ = z města Týna); foliace (číslo na líci listu). Jmenný rejstřík N 1650–1747 = inv. 5852 (odkazuje knihu a list). Snímky poslal Jan Gillern.",
+  "url": "https://digi.ceskearchivy.cz/"
+ },
+ "tyn_5852": {
+  "archiv": "SOA Třeboň – Sbírka matrik Jihočeského kraje",
+  "portal": "Digitální archiv SOA v Třeboni",
+  "svazek": "Týn nad Vltavou, rejstřík N 1650–1747 (inv. č. 5852)",
+  "popis": "Novodobý abecední rejstřík narozených (rok, jméno, obec, kniha, list). Snímky poslal Jan Gillern.",
+  "url": "https://digi.ceskearchivy.cz/"
  }
 }

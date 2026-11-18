@@ -1432,5 +1432,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1827_vejdovcova_tekla": {
+  "boxes": [
+   [
+    0.0,
+    0.39,
+    1.0,
+    0.66
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

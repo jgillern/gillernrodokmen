@@ -1387,8 +1387,8 @@
   "svazek": "bernartice_162",
   "druh": "O",
   "datum": "1. 8. 1740",
-  "nazev": "Sňatek Františka Jírovce, vdovce z Bernartic, a Terezie Bělínkové (?) z Milevska",
-  "shrnuti": "1. 8. 1740: poctivý vdovec Franz Gyrowiz (František Jírovec) z městečka Bernartic a poctivá panna Terezie, vlastní dcera pana Jana Belynka (Bělínka ?), souseda (= měšťana) města Milevska, oba poddaní bernartičtí. Svědci: Jakub Wirznický a Vojtěch Studnička, oba z městečka, a Kateřina …ová (?) z Milevska. Ohlášky 10., 17. a 24. července. Oddal R. P. Gilbertus Burian, premonstrát ze Sepekova, delegovaný. František byl tehdy už vdovec – Terezie byla jeho druhá žena.",
+  "nazev": "Sňatek Františka Jírovce, vdovce z Bernartic, a Terezie Jelínkové z Milevska",
+  "shrnuti": "1. 8. 1740: poctivý vdovec Franz Gyrowiz (František Jírovec) z městečka Bernartic a poctivá panna Terezie, vlastní dcera pana Jana Belynka (= Jelínka, viz křest 1713), souseda (= měšťana) města Milevska, oba poddaní bernartičtí. Svědci: Jakub Wirznický a Vojtěch Studnička, oba z městečka, a Kateřina …ová (?) z Milevska. Ohlášky 10., 17. a 24. července. Oddal R. P. Gilbertus Burian, premonstrát ze Sepekova, delegovaný. František byl tehdy už vdovec – Terezie byla jeho druhá žena.",
   "strana": "s. 262, 1. zápis",
   "odkaz": ""
  },
@@ -1397,9 +1397,19 @@
   "svazek": "milevsko_3373",
   "druh": "O",
   "datum": "28. 10. 1708",
-  "nazev": "Sňatek Jana Bělínka (Gelinka) alias Hlenického a Anny Humpové, Milevsko (možná rodiče Terezie Jírovcové)",
-  "shrnuti": "28. 10. 1708 oddán v kostele sv. Jiljí v Milevsku: poctivý mládenec Joannes Belinek / Gelinek (?) alias Hlenizky, syn pana Hlenického (?), měšťana z Týna nad Vltavou (civis Moldavo-Tynensis) – s poctivou pannou Annou Humpovou, dcerou Martina Humpy, měšťana milevského. Svědci: Václav Schmeltz a panny Kateřina Budišovská (?) a Kateřina Humpová. Oddal P. Edmundus. Je to jediný Jan s tímto příjmením v oddílu O 1699–1709 – pravděpodobně otec Terezie, která se roku 1740 vdala za Františka Jírovce („dcera pana Jana Belynka, souseda města Milevska“). Potvrdil by to až křest Terezie.",
+  "nazev": "Sňatek Jana Jelínka (Gelinka) alias Hlenického a Anny Humpové, Milevsko",
+  "shrnuti": "28. 10. 1708 oddán v kostele sv. Jiljí v Milevsku: poctivý mládenec Joannes Belinek / Gelinek (?) alias Hlenizky, syn pana Hlenického (?), měšťana z Týna nad Vltavou (civis Moldavo-Tynensis) – s poctivou pannou Annou Humpovou, dcerou Martina Humpy, měšťana milevského. Svědci: Václav Schmeltz a panny Kateřina Budišovská (?) a Kateřina Humpová. Oddal P. Edmundus. Rodiče Terezie (* 8. 10. 1713 Milevsko), která se roku 1740 vdala za Františka Jírovce – potvrzeno křtem.",
   "strana": "s. 50, 2. zápis (fol. 680)",
+  "odkaz": ""
+ },
+ {
+  "klic": "n_1713_jelinkova_terezie",
+  "svazek": "milevsko_3373",
+  "druh": "N",
+  "datum": "8. 10. 1713",
+  "nazev": "Křest Terezie Jelínkové, Milevsko",
+  "shrnuti": "8. 10. 1713 pokřtěna v kostele sv. Jiljí v Milevsku: Terezie, manželská dcera Jana Gelinka (Jelínka) a jeho ženy Anny. Kmotra urozená paní Eva Ryzenberg (?); svědci Pavel Schmeltz a Jakub Hoffman, panna Františka Reysfeldová – přední milevské rodiny. Křtil P. Milo (Hubatius). Je to Terezie, která se 1. 8. 1740 v Bernarticích vdala za vdovce Františka Jírovce („dcera pana Jana …ynka, souseda města Milevska“) – při sňatku jí bylo 26 let. Rodiče Jan Jelínek alias Hlenický z Týna n. Vlt. a Anna Humpová se brali 28. 10. 1708; starší bratr Václav * 13. 9. 1709.",
+  "strana": "s. 241 (snímek 243), poslední zápis",
   "odkaz": ""
  }
 ]

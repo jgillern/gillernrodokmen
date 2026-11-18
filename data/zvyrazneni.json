@@ -1684,5 +1684,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1821_gillern_pelvanova": {
+  "boxes": [
+   [
+    0.0,
+    0.37,
+    1.0,
+    0.69
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

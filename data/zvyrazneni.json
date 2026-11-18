@@ -1264,5 +1264,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1833_low_kudrlickova": {
+  "boxes": [
+   [
+    0.0,
+    0.33,
+    1.0,
+    0.62
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

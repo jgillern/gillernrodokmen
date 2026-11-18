@@ -1324,5 +1324,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1756_linek_hubertova": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    0.82
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

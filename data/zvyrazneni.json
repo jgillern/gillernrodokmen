@@ -1336,5 +1336,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1859_gillern_vejdovcova": {
+  "boxes": [
+   [
+    0.0,
+    0.33,
+    1.0,
+    0.94
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

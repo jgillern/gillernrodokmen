@@ -1624,5 +1624,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1740_jirovec_terezie": {
+  "boxes": [
+   [
+    0.0,
+    0.17,
+    1.0,
+    0.73
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

@@ -1636,5 +1636,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1708_belinek_humpova": {
+  "boxes": [
+   [
+    0.0,
+    0.27,
+    1.0,
+    0.7
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

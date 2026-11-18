@@ -1564,5 +1564,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1804_brhonka_kurova": {
+  "boxes": [
+   [
+    0.0,
+    0.37,
+    1.0,
+    0.76
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

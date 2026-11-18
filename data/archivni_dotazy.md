@@ -57,8 +57,8 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 
 ## Franz (František) z Gillernů – původ (* asi 1788)
 
-- **Luštění zápisu o sňatku 1821** (eBadatelna, Uhlířské Janovice 15, fol. 153, https://ebadatelna.soapraha.cz/d/13240/77): ženich „František z Gillernů, … Lobk. Adjunkt“ a 3 další řádky (asi panství / původ) – požádat o pomoc zkušené čtenáře starých písem (např. genealogické fórum genea.cz, skupiny „luštění starých písem“).
-- **Lobkovický archiv** (Nelahozeves, Lobkowicz Collections; část ve SOA Litoměřice, pobočka Žitenice): služební spisy a seznamy úředníků kolem 1810–1822 – adjunkt František von Gillern.
+- **Luštění zápisu o sňatku 1821** (eBadatelna, Uhlířské Janovice 15, fol. 153, https://ebadatelna.soapraha.cz/d/13240/77): ženich „František z Gillernů, mysliw. Lokal. Adjunkt na Pstwj Sedl[ic]kém, Knjžete Sswarcenberka“ – čtení navrženo jiným AI modelem a ověřeno podle tvarů písmen; jméno panství (Sedlec ?) případně potvrdit u zkušených čtenářů (genea.cz).
+- **Schwarzenberský archiv – SOA Třeboň, oddělení Český Krumlov** (Ústřední správa schwarzenberských statků, lesní správa; Velkostatek Sedlec u Kutné Hory): personální spisy lesníků – František z Gillernů (myslivecký adjunkt, Sedlec ? kolem 1815–1830, * asi 1788) a jeho syn Vincenc (revírník, Orlík, 1840–1894). Osobní spisy obvykle obsahují rodný list, otce a služební postup.
 - **Úmrtí Franze z Gillernů** (kdy a kde, nevíme; v sňatku syna 1859 jen „Wirthschaftsadjunkt in Schebestenitz“) – zápis by mohl uvést rodiště a věk.
 
 ## Linkové a Löwové (předci Marie Linkové, manželky Augustina z Gillernů)

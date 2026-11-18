@@ -1528,5 +1528,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1790_vejdovec_cimatova": {
+  "boxes": [
+   [
+    0.0,
+    0.615,
+    1.0,
+    0.81
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

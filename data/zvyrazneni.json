@@ -1312,5 +1312,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1784_linkova_barbora": {
+  "boxes": [
+   [
+    0.0,
+    0.52,
+    1.0,
+    0.66
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

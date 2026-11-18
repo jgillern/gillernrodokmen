@@ -1600,5 +1600,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1753_jirovec_vojtech": {
+  "boxes": [
+   [
+    0.0,
+    0.33,
+    1.0,
+    0.73
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

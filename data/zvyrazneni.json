@@ -1516,5 +1516,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1798_vejdovec_josef": {
+  "boxes": [
+   [
+    0.0,
+    0.67,
+    1.0,
+    0.88
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

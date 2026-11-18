@@ -1227,7 +1227,7 @@
   "druh": "N",
   "datum": "29. 4. 1827",
   "nazev": "Narození Tekly Vejdovcové, Veselíčko č. 9",
-  "shrnuti": "29. 4. 1827 narozena, 30. 4. pokřtěna (P. Andreas Janko ?, kooperátor), Veselíčko č. 9: Tekla, dcera Josefa Vejdovce, tesaře, syna Jakuba Vejdovce, domkáře z Božetic, a matky Dorothy roz. Ondrušové (?) z Božetic – a Anny, dcery † Karla Kůry (?), výminkáře z Brnovic (?), a matky Anny roz. Malé z Brnovic (?). Kmotři Marie Lukšová (?), selka z Brnovic (?), a Matěj Mládek … z Veselíčka; bába Anna Ryzantová (?), domkářka z Veselíčka.",
+  "shrnuti": "29. 4. 1827 narozena, 30. 4. pokřtěna (P. Andreas Janko ?, kooperátor), Veselíčko č. 9: Tekla, dcera Josefa Vejdovce, tesaře, syna Jakuba Vejdovce, domkáře z Božetic, a matky Dorothy roz. Dědinové (?) z Božetic – a Anny, dcery † Karla Kůry (?), výminkáře z Brnovic (?), a matky Anny roz. Malé z Brnovic (?). Kmotři Marie Lukšová (?), selka z Brnovic (?), a Matěj Mládek … z Veselíčka; bába Anna Ryzantová (?), domkářka z Veselíčka.",
   "svazek": "veselicko_5956",
   "strana": "181, 4. zápis",
   "odkaz": ""
@@ -1290,6 +1290,16 @@
   "nazev": "Úmrtí Josefa Vejdovce, tesařského mistra, Veselíčko č. 71",
   "shrnuti": "21. 2. 1866 zemřel, 23. 2. pohřben ve Veselíčku: Josef Vejdovec, mistr tesařský a výminkář z Veselíčka č. 71, okres Milevský, kraj Tábor; ženatý (vdovec ?), katolík, 70 let. Nemoc: tuberkulóza (dle č. 3, Josef Reisil, obecní lékař v Milevsku). Zaopatřil 18. 1. 1866 a pohřbil P. František Hůrský, farář. Úmrtní list vystaven 18. 4. 1869.",
   "strana": "32, 5. zápis",
+  "odkaz": ""
+ },
+ {
+  "klic": "n_1798_vejdovec_josef",
+  "svazek": "sepekov_4925",
+  "druh": "N",
+  "datum": "21. 6. (?) 1798",
+  "nazev": "Narození Josefa Jana Vejdovce, Božetice č. 5",
+  "shrnuti": "21. června (?) 1798 se v Božeticích č. 5 narodil a byl pokřtěn Josef Jan, manželský syn Jakuba Wejdowce, domkáře, a Doroty roz. Dědinové (?). Kmotři: Jan K…ný (?), sedlák (?) z Božetic, a Anna Kr…nová (?), chalupnice (?). Křtil P. Stephanus (Štěpán Pšoch ?), bába Rozálie Hronová (?). O rok dřív (7. 5. 1797, tamtéž č. 5) je zapsán syn Jan (?) týchž rodičů.",
+  "strana": "fol. 46 (dvojstrana), levá strana, 12. zápis",
   "odkaz": ""
  }
 ]

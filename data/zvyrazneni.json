@@ -1360,5 +1360,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1859_gillern_augustin": {
+  "boxes": [
+   [
+    0.0,
+    0.64,
+    1.0,
+    0.79
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

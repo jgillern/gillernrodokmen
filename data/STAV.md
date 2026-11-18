@@ -62,6 +62,10 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 | 9 | Beranovi | (slepý konec) výpis z matriky | matriční úřad Vlašim – N XXVI: Ludmila Beranová 21. 4. 1912 s. 73 | Jan, až bude chtít |
 | – | Wikipedie | de.wikipedia.org/wiki/Gillern – z cloudu 429 | Jan vloží text do chatu | Jan |
 
+## Vedlejší úkol: napojení na šlechtické Gillerny (až po přímých liniích)
+
+Jan by rád zjistil, jestli a jak se Franz z Gillernů (* asi 1788) napojuje na moravské barony z Koryčan (Karel Josef z Gillernů, rytíř 1726, svobodný pán 1732; Čerčín 1742) nebo na pruské barony von Gillern (Georg Frh. v. Gillern † 1870 u Champigny aj.) – a „přes kolik kolen“. Postup: (1) původ Franze (narození asi 1788 – šematismy, schwarzenberské personální údaje, Morava); (2) rodokmeny rodu v tisku – Genealogisches Taschenbuch der freiherrlichen Häuser (gothajský kalendář, heslo Gillern se Stammreihe), Der mährische Adel 1899, Der Adel von Böhmen 1859, Kneschke; (3) porovnat. Sběr z České digitální knihovny (tools/kramerius7_sber.py, pracovni/k7/gillern) tyto tisky zachytí.
+
 ## Slepé konce (kde jsme se zatím nepohnuli) – aktualizovat
 | Linie | Kde to stojí | Co jsme zkusili | Co by to mohlo rozlousknout |
 |---|---|---|---|

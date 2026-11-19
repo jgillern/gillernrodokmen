@@ -1828,5 +1828,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1781_klanner_marie_anna": {
+  "boxes": [
+   [
+    0.005,
+    0.36,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "o_1771_heg_breinerova": {
+  "boxes": [
+   [
+    0.005,
+    0.3,
+    0.995,
+    0.8
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

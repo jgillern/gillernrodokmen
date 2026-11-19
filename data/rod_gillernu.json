@@ -500,6 +500,27 @@
       "zdroj": "de.wikipedia.org – Gillern",
       "odkaz": "https://de.wikipedia.org/wiki/Gillern",
       "stav": "lit"
+    },
+    {
+      "jmeno": "Ondřej Güller, písař",
+      "roky": "1786",
+      "text": "Jeho manželka Klára zemřela v Poděbradech 3. 2. 1786 (č. 1). Jestli patří k rodu, nevíme.",
+      "zdroj": "Poděbrady 11872/10 (podle zprávy ChatGPT)",
+      "stav": "hyp"
+    },
+    {
+      "jmeno": "Antonín Giller / Gialer (?), poručík a nadporučík",
+      "roky": "1788–1796",
+      "text": "V Poděbradech mu zemřely dcery Marie Alžběta (11/1788) a Josefa (22. 4. 1796), obě v č. 22.",
+      "zdroj": "Poděbrady 11872/22 a /81 (podle zprávy ChatGPT)",
+      "stav": "hyp"
+    },
+    {
+      "jmeno": "Sigisbert Güller, vysloužilý kapitán",
+      "roky": "† 5. 2. 1775",
+      "text": "Zemřel v Poděbradech.",
+      "zdroj": "Poděbrady 11867/49 (podle zprávy ChatGPT)",
+      "stav": "hyp"
     }
   ],
   "otazky": [
@@ -649,14 +670,16 @@
     "eleonora": {
       "jmeno": "Eleonora Mariana z Gillernů",
       "roky": "2. pol. 18. stol.",
-      "stav": "lit",
+      "stav": "doc",
       "vazba": "dcera Maximiliána svobodného pána z Gillernů – nejspíš sestra Josefa, tedy teta Františka (* 1785)",
       "fakta": [
-        "dcera Maximiliána svobodného pána z Gillernů, nadlesního v Poděbradech",
-        "2. manželka Jana Baptisty Ferdinanda Clannera z Engelshofenu (1730–1806), forstmistra komorního panství Poděbrady",
-        "děti: Marie Anna Apolena, Maximilián Jan Křtitel Ignác (* 8. 11. 1784 Poděbrady) a další"
+        "dcera Maximiliána svobodného pána z Gillernů, nadlesního v Poděbradech – výslovně v křtu dcery 1781: „Eleonora filia Perill. D. Maximiliani L. Baronis de Giller“",
+        "2. manželka Jana Baptisty Ferdinanda Clannera z Engelshofenu (1730–1806), forstmistra (lesního představeného) komorního panství Poděbrady; jeho 1. manželka Marie Anna zemřela 3. 11. 1776",
+        "děti: Marie Anna Apolonie (* 11. 10. nebo 11. 11. 1781), Maximilián Jan Křtitel Ignác (* 8. 11. 1784) a další",
+        "kmotrou nebo svědkyní při křtech v Poděbradech 24. 3. 1781, 30. 11. 1781, 5. 1. 1782 a 14. 1. 1782 („Eleonora de Klanner“; podle zprávy ChatGPT, snímky 11843/100, 108–110)"
       ],
       "zaznamy": [
+        "n_1781_klanner_marie_anna",
         "n_1784_clanner_maximilian"
       ],
       "vztahy": [
@@ -684,6 +707,7 @@
       "vazba": "vnuk Maximiliána svobodného pána z Gillernů; svědek na svatbě Františka z Gillernů 1821 – nejspíš jeho bratranec",
       "fakta": [
         "* a pokřtěn 8. 11. 1784 Poděbrady č. 40; otec Jan (Baptista) z Klanneru, lesník (Silvanus) c. k. komorního panství Poděbrady, matka Eleonora (z Gillernů); kmotr v zastoupení Ignác z Gillernů „ve Slezsku“",
+        "starší sestra Marie Anna Apolonie (* 1781)",
         "studoval lesnické ústavy (Krumlov, Nové Hrady aj.)",
         "1804–1814 lesní adjunkt na komorním panství Poděbrady",
         "1815–1825 lesní na panství u Křesetic (Malejovice); × 10. 4. 1815 Malejovice Marie Magdalena Blahnová (1797–1868)",
@@ -694,6 +718,7 @@
         "8 dětí; dcera Barbora (1816–1850) × učitel František Nápravník → syn Eduard Nápravník (1839–1916), dirigent petrohradské carské opery a skladatel"
       ],
       "zaznamy": [
+        "n_1781_klanner_marie_anna",
         "n_1784_clanner_maximilian",
         "o_1821_gillern_pelvanova"
       ],

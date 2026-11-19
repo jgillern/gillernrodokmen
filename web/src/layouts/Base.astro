@@ -6,7 +6,7 @@ const { title, description = config.popis || siteName, wide = false, wider = fal
 const path = Astro.url.pathname;
 const groups = [
   [['/', 'Úvod'], ['/mapa/', 'Mapa'], ['/vejir/', 'Vějíř'], ['/rodokmen/', 'Rodokmen']],
-  [...(config.maPribeh ? [['/pribehy/', config.pribeh?.menu || 'Příběh rodu']] : []), ['/zajimavosti/', 'Zajímavosti'], ...(config.rodoveStranky ?? []).map((r) => [`/${r.slug}/`, r.menu]), ['/rody/', 'Rody'], ['/predci/', 'Předci'], ['/zapisy/', 'Zápisy'], ['/hledame/', 'Co hledáme']],
+  [...(config.rodoveStranky ?? []).map((r) => [`/${r.slug}/`, r.menu]), ...(config.maPribeh ? [['/pribehy/', config.pribeh?.menu || 'Příběh rodu']] : []), ['/zajimavosti/', 'Zajímavosti'], ['/rody/', 'Rody'], ['/predci/', 'Předci'], ['/zapisy/', 'Zápisy'], ['/hledame/', 'Co hledáme']],
   [['/hledat/', 'Hledat']],
 ];
 const current = (url) => ((url === '/' ? path === '/' : path.startsWith(url)) ? 'page' : undefined);

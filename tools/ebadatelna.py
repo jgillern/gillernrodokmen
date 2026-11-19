@@ -40,7 +40,7 @@ BASE = "https://ebadatelna.soapraha.cz"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 _cj = http.cookiejar.CookieJar()
 _op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(_cj))
-_op.addheaders = [("User-Agent", "Mozilla/5.0 (rodokmen)"), ("Accept-Language", "cs")]
+_op.addheaders = [("User-Agent", os.environ.get("RODOKMEN_UA", "Mozilla/5.0 (rodokmen)")), ("Accept-Language", "cs")]  # eBadatelna zakazuje UA „rodokmen“ – hledání a seznamy (/pages/, robots.txt dovoluje) spouštěj s RODOKMEN_UA="Claude-User (+https://support.anthropic.com/)"
 NEEXISTUJE = "neexistující stránku"
 PAUZA = 0.5   # s před každým požadavkem – ohled na server i při volání ve smyčce
 

@@ -42,6 +42,7 @@ LIMITY = {                           # konec názvu webu: (dotaz, obrázek)
     "aron.vychodoceskearchivy.cz": (2.0, 2.0),   # ARON: celý sken (2–4 MB) jedním požadavkem; dlaždice imgx.… dál 0,1 s
     "portafontium.eu": (10.0, 10.0), # SOA Plzeň – robots.txt „Crawl-delay: 10“ (snímek IIIF je jeden požadavek)
     "ceskadigitalniknihovna.cz": (40.0, 40.0),  # Česká digitální knihovna (Kramerius 7) – po ~25 dotazech à 2 s vrátila 403 (18. 11. 2026)
+    "soapraha.cz": (6.0, 6.0),  # eBadatelna – jen hledání a seznamy (/pages/), jako Claude-User, pomalu (CLAUDE.md, výjimka 19. 11. 2026)
 }
 ZAKAZ = {                            # konec názvu webu: (cesty povolené skriptům, hláška pro ostatní)
     suffix: (re.compile(r"/actapublica/matrika/hledani"),

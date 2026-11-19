@@ -59,9 +59,19 @@
       "zdroj": "Wikipedie"
     },
     {
+      "rok": "1750–1771",
+      "text": "Maximilián svobodný pán z Gillernů přichází do Poděbrad jako nadlesní („nejvyšší myslivec“) komorního panství – v matrikách 1730–1749 ještě není, roku 1771 už je tu jeho syn Josef. Odkud přišel, zatím nevíme; Josef se narodil jinde, asi 1737.",
+      "zdroj": "matriky Poděbrady 05, 07, 30 (negativní i pozitivní nálezy)"
+    },
+    {
       "rok": "1764–1766",
       "text": "Kristián Matyáš Antonín z Gillernů, podplukovník – rytířský stav „von Gillern“ a český inkolát (1764), rakouský stav svobodných pánů (1766).",
       "zdroj": "Vyšín 1978; Rakouský státní archiv (RAA 143.34)"
+    },
+    {
+      "rok": "1771",
+      "text": "„Urozený pan Josef de Giller“ je v Poděbradech svědkem na svatbě – nejstarší zmínka o něm.",
+      "zdroj": "matrika Poděbrady 30, snímek 5"
     },
     {
       "rok": "1782",
@@ -88,6 +98,11 @@
       "rok": "1787",
       "text": "V Poděbradech se rodí Anna Rozálie, dcera myslivce Josefa Gillera – další Giller mezi poděbradskými lesníky.",
       "zdroj": "matrika Poděbrady 18, fol. 26"
+    },
+    {
+      "rok": "po 1787",
+      "text": "Maximilián, Josef i Anna Kochová z Poděbrad mizí – nikdo z nich tam do roku 1806 nezemřel. Rodina se nejspíš odstěhovala za služebním místem.",
+      "zdroj": "úmrtí Poděbrady 1771–1806 prohlédnuta"
     },
     {
       "rok": "1793",
@@ -425,10 +440,10 @@
     {
       "jmeno": "Maximilián svobodný pán z Gillernů",
       "roky": "2. pol. 18. stol.",
-      "text": "Nadlesní na komorním panství Poděbrady; dcera Eleonora Mariana × Jan Baptista Clanner z Engelshofenu.",
-      "zdroj": "M. Hanuš, Rod Clannerů z Engelshofenu, Zprávy KPP 1998",
+      "text": "„Nejvyšší myslivec“ (nadlesní) c. k. komorního panství Poděbrady – v matrikách 1781 „Perill. D. Maximilianus L. Baro de Giller“. Do Poděbrad přišel nejspíš mezi 1750 a 1771; manželka Johanna († 1782); děti Josef (* asi 1737, jinde) a Eleonora Mariana (× J. B. Clanner). Pravděpodobný pradědeček našeho Františka.",
+      "zdroj": "matriky Poděbrady (křest 1781, úmrtí 1782, sňatek 1786); M. Hanuš 1998",
       "odkaz": "https://pratelepardubicka.cz/eduard-napravnik-iv-cast-rod-clanneru-z-engelshofenu/",
-      "stav": "lit",
+      "stav": "doc",
       "osoba": "maximilian-svobodny-pan-z-gillernu"
     },
     {
@@ -524,6 +539,8 @@
     }
   ],
   "otazky": [
+    "Odkud přišel Maximilián svobodný pán z Gillernů do Poděbrad (mezi 1750 a 1771) a kde se kolem roku 1737 narodil jeho syn Josef? Kdo byla Josefova matka – Maximiliánova první manželka?",
+    "Kam se Maximilián, Josef a Anna Kochová po roce 1787 odstěhovali?",
     "Je náš František (ženich z Mitrova 1821) opravdu František Josef * 5. 6. 1785 v Poděbradech, syn myslivce Josefa de Giller? Chybí zápis, který by to výslovně spojil (např. úmrtí s rodištěm). Věk při sňatku (33) by měl být 35.",
     "Byl „Franz von Gillern“ († 1817 Malejovice, * asi 1747) synem Maximiliána a bratrem Josefa?",
     "Kdo byla Maximiliánova manželka Johanna (* asi 1723, † 1782) a odkud pocházel sám Maximilián svobodný pán z Gillernů?",

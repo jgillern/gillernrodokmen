@@ -1924,5 +1924,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1839_gillern_holmanova": {
+  "boxes": [
+   [
+    0.1,
+    0.15,
+    0.98,
+    0.32
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

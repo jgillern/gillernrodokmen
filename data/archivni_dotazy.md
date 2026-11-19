@@ -58,6 +58,9 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 ## Franz (František) z Gillernů – původ (* asi 1788)
 
 - **Luštění zápisu o sňatku 1821** (eBadatelna, Uhlířské Janovice 15, fol. 153, https://ebadatelna.soapraha.cz/d/13240/77): ženich „František z Gillernů, mysliw. Lokal. Adjunkt na Pstwj Sedl[ic]kém, Knjžete Sswarcenberka“ – čtení navrženo jiným AI modelem a ověřeno podle tvarů písmen; jméno panství (Sedlec ?) případně potvrdit u zkušených čtenářů (genea.cz).
+- **Přílohy ke sňatku 1821** (SOkA Kutná Hora, fond Farní úřad Uhlířské Janovice, č. 774): případný křestní list ženicha – ověřit, zda se přílohy dochovaly (tip druhé AI, 19. 11. 2026).
+- **Velkostatek Sedlec u Kutné Hory (NAD 157)** a **Schwarzenberská ústřední kancelář Orlík** – kniha 31, sign. I-B-1 (osobní data zaměstnanců), knihy 34–39, sign. I-B-4-9 (tabely služného); citace z diplomové práce o orlickém úřednictvu (dspace.jcu.cz) – rozsah let neověřen.
+- **Rakouský státní archiv, AVA Adel HAA AR 147.1** – „Claner, Maximilian, Revierjäger, rytířský stav, 1813–1838“ (fol. 1–30): žádost o šlechtictví obvykle obsahuje rodokmen žadatele – mohla by zmínit Gillerny (jeho matka byla z Gillernů).
 - **Schwarzenberský archiv – SOA Třeboň, oddělení Český Krumlov** (Ústřední správa schwarzenberských statků, lesní správa; Velkostatek Sedlec u Kutné Hory): personální spisy lesníků – František z Gillernů (myslivecký adjunkt, Sedlec ? kolem 1815–1830, * asi 1788) a jeho syn Vincenc (revírník, Orlík, 1840–1894). Osobní spisy obvykle obsahují rodný list, otce a služební postup.
 - **Úmrtí Franze z Gillernů** (kdy a kde, nevíme; v sňatku syna 1859 jen „Wirthschaftsadjunkt in Schebestenitz“) – zápis by mohl uvést rodiště a věk.
 

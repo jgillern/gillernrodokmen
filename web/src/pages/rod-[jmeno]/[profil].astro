@@ -2,6 +2,7 @@
 // Profil příbuzného mimo přímou linii (data/rod_<jméno>.json → „profily“): /rod-<jméno>/<id>/
 import Base from '../../layouts/Base.astro';
 import Record from '../../components/Record.astro';
+import ZajimavostiOsoby from '../../components/ZajimavostiOsoby.astro';
 import stranky from '../../generated/rodove_stranky.json';
 import { people, records, dateKey } from '../../lib/data.js';
 
@@ -41,6 +42,8 @@ const vGrafu = d.graf?.uzly?.some((u) => u.profil === id);
   {p.vazba && <p class="lead">{p.vazba}</p>}
   {p.fakta?.length > 0 && <ul class="facts">{p.fakta.map((f) => <li>{f}</li>)}</ul>}
   {p.pozn && <p class="note">{p.pozn}</p>}
+
+  <ZajimavostiOsoby cesta={`/${slug}/${id}/`} />
 
   {p.vztahy?.length > 0 && (
     <>

@@ -1,0 +1,20 @@
+---
+// Zajímavosti, které se týkají osoby – nadpis, krátká ukázka a proklik přímo na text zajímavosti.
+import { zajimavostiPro } from '../lib/zajimavosti.js';
+const { cesta } = Astro.props;
+const seznam = zajimavostiPro(cesta);
+---
+{seznam.length > 0 && (
+  <>
+    <h2>Zajímavosti</h2>
+    <div class="grid2">
+      {seznam.map((z) => (
+        <a class="card card-link" href={`/zajimavosti/#${z.kotva}`}>
+          <h3>{z.nadpis}</h3>
+          <p class="small">{z.ukazka}</p>
+          <span class="more-link">Celý text →</span>
+        </a>
+      ))}
+    </div>
+  </>
+)}

@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import PersonLink from '../../components/PersonLink.astro';
 import Record from '../../components/Record.astro';
+import ZajimavostiOsoby from '../../components/ZajimavostiOsoby.astro';
 import Pedigree from '../../components/Pedigree.astro';
 import MobileTree from '../../components/MobileTree.astro';
 import { people, families, lineByK, records, dateKey, href, statusClass } from '../../lib/data.js';
@@ -32,6 +33,8 @@ const path = [...p.path].reverse().filter(Boolean);
   )}
   {p.facts.length > 0 && <ul class="facts">{p.facts.map((f) => <li>{f}</li>)}</ul>}
   {p.note && <p class="note">{p.note}</p>}
+
+  <ZajimavostiOsoby cesta={`/osoba/${p.slug}/`} />
 
   <h2>Rodina</h2>
   <div class="grid2">

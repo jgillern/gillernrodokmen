@@ -1996,5 +1996,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "z_1822_gillerova_anna": {
+  "boxes": [
+   [
+    0.005,
+    0.4,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

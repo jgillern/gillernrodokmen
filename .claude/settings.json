@@ -10,10 +10,12 @@
   "enabledPlugins": {
     "rodokmen@rodokmen-skill": true
   },
-  "permissions": {
-    "deny": [
-      "Bash(curl:*)",
-      "Bash(wget:*)"
-    ]
-  }
+"permissions": {
+  "allow": [
+    "Bash(curl:*)",
+    "Bash(wget:*)",
+    "Bash(python3:*)",
+    "Bash(node:*)"
+  ]
+}
 }

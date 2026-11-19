@@ -83,6 +83,9 @@ const HVEZDA = (cx, cy, r) => {
     </div>
     {d.erb && (
       <figure class="rg-erb">
+        {d.erb.obrazek ? (
+          <a href={d.erb.obrazek_velky ?? d.erb.obrazek} target="_blank" rel="noopener"><img class="rg-erb-img" src={d.erb.obrazek} alt="Erb svobodných pánů z Gillernů" width="600" height="802" /></a>
+        ) : (
         <svg viewBox="0 0 200 244" role="img" aria-label="Erb svobodných pánů z Gillernů (zjednodušeně)">
           <defs>
             <clipPath id="stit"><path d="M10,10 H190 V122 Q190,202 100,236 Q10,202 10,122 Z" /></clipPath>
@@ -111,6 +114,7 @@ const HVEZDA = (cx, cy, r) => {
           </g>
           <path d="M10,10 H190 V122 Q190,202 100,236 Q10,202 10,122 Z" fill="none" stroke="#3b2e22" stroke-width="3" />
         </svg>
+        )}
         <figcaption class="small muted">{d.erb.popis}<br /><span class="rg-zdroj">{d.erb.zdroj}</span></figcaption>
       </figure>
     )}
@@ -240,10 +244,11 @@ const HVEZDA = (cx, cy, r) => {
 </Base>
 
 <style>
-  .rg-hero { display: grid; grid-template-columns: minmax(0, 1fr) 220px; gap: 1.5rem; align-items: start; }
+  .rg-hero { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 1.5rem; align-items: start; }
   .rg-uvod { max-width: 46rem; }
   .rg-erb { margin: 0.6rem 0 0; text-align: center; }
   .rg-erb svg { width: 100%; max-width: 200px; height: auto; filter: drop-shadow(0 4px 10px rgba(59, 46, 34, 0.18)); }
+  .rg-erb-img { display: block; width: 100%; max-width: 260px; height: auto; margin: 0 auto; background: #fff; border-radius: 10px; }
   .rg-erb figcaption { text-align: left; margin-top: 0.4rem; }
   .rg-zdroj { font-style: italic; }
   .rg-toc { display: flex; flex-wrap: wrap; gap: 0.3rem 1rem; padding: 0.6rem 0.9rem; border: 1px solid var(--line); border-radius: 10px; background: var(--paper); margin: 1rem 0; }

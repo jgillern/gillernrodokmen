@@ -66,3 +66,7 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - **Dlouhé „S“ na začátku slova vypadá jako „L“** (1859: „Lebstremitz“ = Schebestenitz). Přidat k chybám čtení (podobně jako ſ v „Písku“).
 
 - **Kramerius: když NK (kramerius5.nkp.cz) nefunguje, funguje Česká digitální knihovna** – API v7 `https://api.ceskadigitalniknihovna.cz/search/api/client/v7.0/search?q=…&defType=edismax&qf=text_ocr&fq=model:page` a text stránky `…/items/{pid}/ocr/text`. Parametr `hl.fragsize` vrací HTTP 400. Nový nástroj tools/kramerius7.py. Po ~25 rychlých požadavcích vrátila 403 → do slusne.py přidat vlastní limit pro api.ceskadigitalniknihovna.cz (např. 1 dotaz za 5 s) a do skillu doporučit stahovat OCR po menších dávkách.
+
+## Česká digitální knihovna – stahování textů z cloudu nefunguje (19. 11. 2026)
+- Endpoint `items/{pid}/ocr/text` odmítal (HTTP 403) i při 1 dotazu za 40 s; 4 stopky za 24 h, poslední hned prvním dotazem po skončení stopky. Prohledávání (`search`) šlo, hromadné čtení textů ne.
+- Pro skill: hromadný sběr textů z CDK nepoužívat; ze skriptu jen vyhledat seznam stránek (pár dotazů) a nejnadějnější stránky (do ~10–15) předat uživateli k ručnímu prohlédnutí s odkazy `https://www.ceskadigitalniknihovna.cz/uuid/<pid>`.

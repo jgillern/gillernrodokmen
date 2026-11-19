@@ -59,14 +59,14 @@
       "zdroj": "Wikipedie"
     },
     {
-      "rok": "kolem 1769",
-      "text": "Maximilián svobodný pán z Gillernů přichází do Poděbrad jako nadlesní („nejvyšší myslivec“) komorního panství. V křtech, sňatcích a úmrtích 1730–1768 o rodině není ani zmínka; první stopy jsou z let 1769–1771 – urozený pan „de Gyller (?)“ (1769) a „Ludovicus de Gyller (?)“ (1770) jako kmotři a „Josephus de Giller“ jako svědek (1771). Odkud rodina přišla, zatím nevíme; Josef se narodil jinde, asi 1737.",
-      "zdroj": "matriky Poděbrady 05, 07, 11, 30"
-    },
-    {
       "rok": "1764–1766",
       "text": "Kristián Matyáš Antonín z Gillernů, podplukovník – rytířský stav „von Gillern“ a český inkolát (1764), rakouský stav svobodných pánů (1766).",
       "zdroj": "Vyšín 1978; Rakouský státní archiv (RAA 143.34)"
+    },
+    {
+      "rok": "kolem 1769",
+      "text": "Maximilián svobodný pán z Gillernů přichází do Poděbrad jako nadlesní („nejvyšší myslivec“) komorního panství. V křtech, sňatcích a úmrtích 1730–1768 o rodině není ani zmínka; první stopy jsou z let 1769–1771 – urozený pan „de Gyller (?)“ (1769) a „Ludovicus de Gyller (?)“ (1770) jako kmotři a „Josephus de Giller“ jako svědek (1771). Odkud rodina přišla, zatím nevíme; Josef se narodil jinde, asi 1737.",
+      "zdroj": "matriky Poděbrady 05, 07, 11, 30"
     },
     {
       "rok": "1771",
@@ -121,13 +121,19 @@
       "osoba": "franz-frantisek-z-gillernu-1785"
     },
     {
+      "rok": "1840",
+      "text": "2. srpna umírá v Kostelci nad Vltavou ve věku 50 let František z Gillernů – knížecí schwarzenberský … v Kostelci č. 1 na panství Orlík. V Kostelci mu předtím zemřeli i dva malí synové, Augustin (1836) a Karel (1838).",
+      "zdroj": "rejstřík zemřelých fary Kostelec nad Vltavou (vlastní zápis zatím neověřen); křty vnuků 1859 a 1862",
+      "osoba": "franz-frantisek-z-gillernu-1785"
+    },
+    {
       "rok": "1854",
       "text": "Vnuk Františka, Čeněk, je při křtu zapsán jako syn „Vinzenz Edler von Gillern“ – stejný přídomek, jaký používala česká šlechtická větev.",
       "zdroj": "matrika Veselíčko"
     },
     {
       "rok": "1860",
-      "text": "Úřední list Pražských novin otiskuje, že soud v Uhlířských Janovicích ustanovil opatrovníka „neznámým dědicům Franze Gillera ze Spolí“ – kvůli pohledávkám na domech č. 1 a 3 v Mitrově (dům Solnařových). Náš František tedy nejspíš dožil u syna Vincence, revírníka ve Spolí u Orlíka, a zemřel před rokem 1859.",
+      "text": "Úřední list Pražských novin otiskuje, že soud v Uhlířských Janovicích ustanovil opatrovníka „neznámým dědicům Franze Gillera ze Spolí“ – kvůli pohledávkám na domech č. 1 a 3 v Mitrově (dům Solnařových). František přitom zemřel už 1840 v Kostelci – soud jeho dědice zjevně nedohledal.",
       "zdroj": "Amtsblatt zur Prager Zeitung 16. 10. 1860, s. [2]",
       "osoba": "franz-frantisek-z-gillernu-1785"
     },
@@ -575,7 +581,7 @@
     }
   ],
   "otazky": [
-    "Kdy přesně zemřel náš František ve Spolí (fara Oslov) – a uvádí jeho úmrtní zápis věk a rodiště (Poděbrady?)? To by rozhodlo o jeho totožnosti s Františkem Josefem * 1785.",
+    "Co uvádí úmrtní zápis Františka (Kostelec nad Vltavou, 2. 8. 1840, kniha Z II, s. 28) – povolání, věk a rodiště? Rozhodne o totožnosti s Františkem Josefem * 1785 Poděbrady (věk 50 v rejstříku by ukazoval spíš na rok 1790).",
     "Odkud přišel Maximilián svobodný pán z Gillernů do Poděbrad (mezi 1750 a 1771) a kde se kolem roku 1737 narodil jeho syn Josef? Kdo byla Josefova matka – Maximiliánova první manželka?",
     "Kam se Maximilián, Josef a Anna Kochová po roce 1787 odstěhovali?",
     "Je náš František (ženich z Mitrova 1821) opravdu František Josef * 5. 6. 1785 v Poděbradech, syn myslivce Josefa de Giller? Chybí zápis, který by to výslovně spojil (např. úmrtí s rodištěm). Věk při sňatku (33) by měl být 35.",

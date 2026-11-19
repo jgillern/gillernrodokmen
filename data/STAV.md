@@ -71,8 +71,8 @@ Data v `data/rod_gillernu.json` (úvod, erb, časová osa, větve, schéma napoj
 
 ## Fronta úkolů – Gillernové (19. 11. 2026 večer)
 Stopa: Pražské noviny 10/1860 – „unbekannte Erben des Franz Giller aus Spole“ (pohledávky na Mitrově č. 1 a 3). Oslov rejstřík N/O/Z (G, Z, W/V) bez úmrtí Františka i Anny.
-1. Jan (Třeboň): přiblížit buňku otce v křtu Augustina – Oslov N V, fol. 20 = snímek 21, 5. zápis („syn † Františka z Gillernů, … z … N. 1, okr. …“).
-2. Jan (Třeboň): Čimelice Z 1811–1849 (kniha 18, inv. 952) – rejstřík písm. G, Z, W; Čimelice Z 1850–1876 – rejstřík nebo oddíl Čimelice (František do 1859, Anna roz. Solnařová do ~1880).
+1. HOTOVO (bez nového místa) – Jan (Třeboň): přiblížit buňku otce v křtu Augustina – Oslov N V, fol. 20 = snímek 21, 5. zápis („syn † Františka z Gillernů, … z … N. 1, okr. …“).
+2. HOTOVO, NEGATIVNÍ (G, W/V, Z 1811–1877) – Jan (Třeboň): Čimelice Z 1811–1849 (kniha 18, inv. 952) – rejstřík písm. G, Z, W; Čimelice Z 1850–1876 – rejstřík nebo oddíl Čimelice (František do 1859, Anna roz. Solnařová do ~1880).
 3. Jan (Třeboň): křest Kateřiny z Gillernů 1862 – Oslov N V, fol. 54 (prarodiče).
 4. ChatGPT (vlákno Poděbrady, po dokončení úkolu Ludvík/11857/11866/11843): děti Františka a Anny 1829–1842 – Sedlec u KH (rejstřík N 11776 G, N 11766), Zbyšov N po 1828 (mimo Šebestěnice), Uhl. Janovice N 1827–1847 (13236); i jako kmotři.
 5. Jan (Třeboň), záloha: Oslov Z, oddíl Spolí 1840–1859.

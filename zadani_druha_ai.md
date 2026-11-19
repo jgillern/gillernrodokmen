@@ -51,9 +51,11 @@ Postupuj v tomto pořadí. Když něco najdeš, pokračuj po nalezené stopě.
    - sňatky: kniha 11857 (1756–1770) a 11860 (1771–1784). Hledáš sňatek Eleonory z Gillernů × Jan Clanner a další Gillery.
 3. **Poděbrady, úmrtí:**
    - kniha 11866 (1756–1771), 11867 (1771–1784, Johanna je na snímku 86), 11872 (1785–1804) a 11873 (1803–1837).
+   - **Nejdřív ověř, že František Josef (* 5. 6. 1785) nezemřel jako dítě.** Projdi úmrtí 1785–1800 (Giller / Güller / Gillern / Koch); pokud by zemřel, celá hypotéza padá.
    - Hledáš úmrtí **Maximiliána z Gillernů**, **Josefa de Giller (myslivce)** a **Anny Kochové**.
    - U Maximiliána zapiš i věk a případný původ.
-4. **Doklad totožnosti:** cokoli, co výslovně spojuje Františka Josefa (* 1785 Poděbrady) s Františkem z Gillernů, schwarzenberským adjunktem (sňatek 1821 v Mitrově, synové 1822–1827 v Šebestěnicích). Například zápis, kde je uvedeno Františkovo rodiště nebo jméno jeho otce.
+4. **Kam se rodina myslivce Josefa po roce 1787 přestěhovala.** V Poděbradech po roce 1787 další děti nemá. Hledej Josefa de Giller nebo Gillera a Annu (Kochovou) jako rodiče nebo kmotry 1788–1810, zvlášť v okolí Kutné Hory a Uhlířských Janovic (Malejovice, kde 1817 zemřel Franz von Gillern, Křesetice, Kácov, Zbraslavice, Sedlec) a na dalších komorních panstvích.
+5. **Doklad totožnosti:** cokoli, co výslovně spojuje Františka Josefa (* 1785 Poděbrady) s Františkem z Gillernů, schwarzenberským adjunktem (sňatek 1821 v Mitrově, synové 1822–1827 v Šebestěnicích). Například zápis, kde je uvedeno Františkovo rodiště nebo jméno jeho otce.
 
 Pokud se ukáže, odkud Maximilián pocházel nebo kam se Gillernové stěhovali, jdi za stopou do příslušné fary. Čísla knih zjistíš v eBadatelně přes hledání podle obce (Matriky → lokalita).
 

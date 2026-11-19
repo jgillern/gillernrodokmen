@@ -1,8 +1,8 @@
 ---
 // Stránka o celém rodu (data/rod_<jméno>.json → /rod-<jméno>/): erb, časová osa, větve, schéma napojení, další nositelé jména.
-import Base from '../layouts/Base.astro';
-import stranky from '../generated/rodove_stranky.json';
-import { people } from '../lib/data.js';
+import Base from '../../layouts/Base.astro';
+import stranky from '../../generated/rodove_stranky.json';
+import { people } from '../../lib/data.js';
 
 export function getStaticPaths() {
   return Object.keys(stranky).map((slug) => ({ params: { jmeno: slug.replace(/^rod-/, '') }, props: { slug } }));
@@ -10,6 +10,7 @@ export function getStaticPaths() {
 const { slug } = Astro.props;
 const d = stranky[slug];
 const osobaHref = (s) => (s && people[s] ? `/osoba/${s}/` : null);
+const profilHref = (id) => (id && d.profily?.[id] ? `/${slug}/${id}/` : null);
 
 const STAV = {
   doc: { label: 'doloženo matrikou', cls: 'st-doc' },
@@ -127,7 +128,7 @@ const HVEZDA = (cx, cy, r) => {
   {g && (
     <section id="napojeni">
       <h2>Jak jsme napojeni</h2>
-      <p class="muted small">Plná čára = doložený vztah, přerušovaná = domněnka, tečkovaná = vztah zatím neznámý (jen stejný rod). Na osoby z naší linie se dá kliknout.</p>
+      <p class="muted small">Plná čára = doložený vztah, přerušovaná = domněnka, tečkovaná = vztah zatím neznámý (jen stejný rod). Na každou osobu se dá kliknout – otevře se její profil se vším, co o ní víme.</p>
       <div class="chips">
         {Object.entries(STAV).map(([k, s]) => <span class={`chip ${s.cls}`}>{s.label}</span>)}
         <span class="chip rg-chip-svedek">svědek na svatbě</span>
@@ -151,7 +152,7 @@ const HVEZDA = (cx, cy, r) => {
           })}
           {g.uzly.map((u) => {
             const p = pos[u.id];
-            const link = osobaHref(u.osoba);
+            const link = osobaHref(u.osoba) ?? profilHref(u.profil);
             const box = (
               <g class={link ? 'rg-uzel rg-link' : 'rg-uzel'}>
                 <rect x={p.x} y={p.y} width={W} height={H} rx="9" style={NSTYL[u.stav] ?? NSTYL.hyp} stroke-width="1.6" />
@@ -208,7 +209,7 @@ const HVEZDA = (cx, cy, r) => {
       <div class="grid2">
         {d.osoby.map((o) => (
           <div class="card">
-            <h3>{o.jmeno}</h3>
+            <h3>{osobaHref(o.osoba) || profilHref(o.profil) ? <a href={osobaHref(o.osoba) ?? profilHref(o.profil)}>{o.jmeno}</a> : o.jmeno}</h3>
             <p class="small"><span class={`chip ${STAV[o.stav]?.cls ?? 'st-unk'}`}>{STAV[o.stav]?.label ?? o.stav}</span> <span class="muted">{o.roky}</span></p>
             <p class="small">{o.text}</p>
             <p class="small muted">Zdroj: {o.odkaz ? <a href={o.odkaz} rel="noopener">{o.zdroj}</a> : o.zdroj}</p>

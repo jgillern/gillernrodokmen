@@ -280,7 +280,7 @@ def main():
             fatherUnknown=(2 * k in P and placeholder(P[2 * k])), motherUnknown=(2 * k + 1 in P and placeholder(P[2 * k + 1])),
             child=slugs.get(k // 2) if k > 1 else None, spouse=slugs.get(k ^ 1) if k > 1 else None,
             family=None, ownFamily=None, path=path,
-            side=[dict(name=s["n"], text=s.get("t", ""), records=[r for r in s.get("r", []) if r in recs]) for s in SIDE if s["k"] == k],
+            side=[dict(name=s["n"], text=s.get("t", ""), records=[r for r in s.get("r", []) if r in recs], **({"profil": s["profil"]} if s.get("profil") else {})) for s in SIDE if s["k"] == k],
             docs=[dict(img=d["img"], caption=d.get("popis", "")) for d in docs_cfg if k in d.get("osoby", [])],
             children=[slugs[c] for c in [k // 2] + [a // 2 for a in aliases_of.get(k, [])] if k > 1 and c in slugs],
             also=[dict(k=a, rel=relation(a), line=line_of(a), child=slugs.get(a // 2)) for a in aliases_of.get(k, [])],
@@ -453,6 +453,20 @@ def main():
     texts["web.json"] = json.dumps(cfg, ensure_ascii=False)
     for r in rod_stranky:
         texts[f"rodová stránka {r['slug']}"] = json.dumps(r["data"], ensure_ascii=False)
+    def _osoby_v(x):   # odkazy "osoba": slug v datech rodové stránky (schéma, profily, osoby)
+        if isinstance(x, dict):
+            for k, v in x.items():
+                if k == "osoba" and isinstance(v, str):
+                    yield v
+                else:
+                    yield from _osoby_v(v)
+        elif isinstance(x, list):
+            for v in x:
+                yield from _osoby_v(v)
+    for r in rod_stranky:
+        for s_ in sorted(set(_osoby_v(r["data"]))):
+            if s_ not in people:
+                print(f"POZOR: nefunkční odkaz na osobu „{s_}“ v data/rod_*.json ({r['slug']}) – adresy jsou ve web/src/data/site.json")
     texts["osoby.py (hypotézy)"] = json.dumps(hypotheses, ensure_ascii=False)
     broken = [(f, m.group(0)) for f, t in texts.items()
               for m in re.finditer(r"/(osoba|zdroj|rod|rodina)/([^/\s)\"'#?<>\]]+)", t) if m.group(2) not in targets[m.group(1)]]

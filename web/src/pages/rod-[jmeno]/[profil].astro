@@ -1,0 +1,76 @@
+---
+// Profil příbuzného mimo přímou linii (data/rod_<jméno>.json → „profily“): /rod-<jméno>/<id>/
+import Base from '../../layouts/Base.astro';
+import Record from '../../components/Record.astro';
+import stranky from '../../generated/rodove_stranky.json';
+import { people, records, dateKey } from '../../lib/data.js';
+
+export function getStaticPaths() {
+  return Object.entries(stranky).flatMap(([slug, d]) =>
+    Object.keys(d.profily ?? {}).map((id) => ({ params: { jmeno: slug.replace(/^rod-/, ''), profil: id }, props: { slug, id } }))
+  );
+}
+const { slug, id } = Astro.props;
+const d = stranky[slug];
+const p = d.profily[id];
+const STAV = {
+  doc: { label: 'doloženo matrikou', cls: 'st-doc' },
+  lit: { label: 'z literatury a tisku', cls: 'st-lit' },
+  prob: { label: 'pravděpodobné', cls: 'st-prob' },
+  hyp: { label: 'hypotéza / neověřeno', cls: 'st-unk' },
+};
+const ref = (v) =>
+  v.osoba && people[v.osoba]
+    ? { href: `/osoba/${v.osoba}/`, name: `${people[v.osoba].name}${people[v.osoba].years ? ' ' + people[v.osoba].years : ''}`, nase: true }
+    : v.profil && d.profily[v.profil]
+      ? { href: `/${slug}/${v.profil}/`, name: `${d.profily[v.profil].jmeno} ${d.profily[v.profil].roky ?? ''}`, nase: false }
+      : null;
+const recs = [...new Set(p.zaznamy ?? [])].filter((r) => records[r]).sort((a, b) => dateKey(records[a].date) - dateKey(records[b].date));
+// kde je osoba ve schématu napojení
+const vGrafu = d.graf?.uzly?.some((u) => u.profil === id);
+---
+<Base title={p.jmeno} description={`${p.jmeno} ${p.roky ?? ''} – ${d.titul}`}>
+  <div class="crumbs"><a href={`/${slug}/`}>{d.titul}</a><span>→</span><span>{p.jmeno}</span></div>
+  <h1>{p.jmeno}</h1>
+  <div class="chips">
+    {p.roky && <span class="chip">{p.roky}</span>}
+    {p.krest && <span class="chip">pokřtěn(a): {p.krest}</span>}
+    <span class="chip">mimo přímou linii</span>
+    <span class={`chip ${STAV[p.stav]?.cls ?? 'st-unk'}`}>{STAV[p.stav]?.label ?? p.stav}</span>
+  </div>
+  {p.vazba && <p class="lead">{p.vazba}</p>}
+  {p.fakta?.length > 0 && <ul class="facts">{p.fakta.map((f) => <li>{f}</li>)}</ul>}
+  {p.pozn && <p class="note">{p.pozn}</p>}
+
+  {p.vztahy?.length > 0 && (
+    <>
+      <h2>Příbuzní</h2>
+      <ul class="facts">
+        {p.vztahy.map((v) => {
+          const r = ref(v);
+          return <li><span class="muted">{v.vztah}:</span> {r ? <a href={r.href}>{r.name}</a> : <span>{v.text ?? '–'}</span>}{r?.nase && <span class="small muted"> (v rodokmenu)</span>}</li>;
+        })}
+      </ul>
+    </>
+  )}
+
+  <h2>Zápisy z matrik</h2>
+  {recs.length ? <div class="recs">{recs.map((r) => <Record id={r} showPeople />)}</div>
+    : <p class="muted">Vlastní matriční zápis zatím nemáme – údaje pocházejí z literatury a tisku (viz zdroje).</p>}
+
+  {p.zdroje?.length > 0 && (
+    <>
+      <h2>Zdroje</h2>
+      <ul class="facts small">{p.zdroje.map((z) => <li>{z.odkaz ? <a href={z.odkaz} rel="noopener">{z.nazev}</a> : z.nazev}</li>)}</ul>
+    </>
+  )}
+
+  <div class="next-step">
+    <p><strong>{d.titul}:</strong> {vGrafu ? 'kde tato osoba stojí ve schématu napojení, ' : ''}časová osa, větve rodu a další Gillernové v pramenech.</p>
+    <p><a class="btn" href={`/${slug}/#napojeni`}>← Zpět na {d.titul}</a></p>
+  </div>
+</Base>
+
+<style>
+  .st-lit { background: #f5ece0; color: #7a4f24; }
+</style>

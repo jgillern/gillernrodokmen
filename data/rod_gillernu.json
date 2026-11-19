@@ -59,9 +59,9 @@
       "zdroj": "Wikipedie"
     },
     {
-      "rok": "1750–1771",
-      "text": "Maximilián svobodný pán z Gillernů přichází do Poděbrad jako nadlesní („nejvyšší myslivec“) komorního panství – v matrikách 1730–1749 ještě není, roku 1771 už je tu jeho syn Josef. Odkud přišel, zatím nevíme; Josef se narodil jinde, asi 1737.",
-      "zdroj": "matriky Poděbrady 05, 07, 30 (negativní i pozitivní nálezy)"
+      "rok": "kolem 1769",
+      "text": "Maximilián svobodný pán z Gillernů přichází do Poděbrad jako nadlesní („nejvyšší myslivec“) komorního panství. V křtech, sňatcích a úmrtích 1730–1768 o rodině není ani zmínka; první stopy jsou z let 1769–1771 – urozený pan „de Gyller (?)“ (1769) a „Ludovicus de Gyller (?)“ (1770) jako kmotři a „Josephus de Giller“ jako svědek (1771). Odkud rodina přišla, zatím nevíme; Josef se narodil jinde, asi 1737.",
+      "zdroj": "matriky Poděbrady 05, 07, 11, 30"
     },
     {
       "rok": "1764–1766",
@@ -565,6 +565,13 @@
       "text": "Josef Giller, představený koželužského cechu (1777); Jan Jakub Giller, francouzský parukář († 9/1767). Souvislost s naším rodem nedoložena.",
       "zdroj": "Dějiny města Jindřichova Hradce (1929)",
       "stav": "lit"
+    },
+    {
+      "jmeno": "Ludvík de Gyller (?)",
+      "roky": "1770",
+      "text": "„Perillustris D. Ludovicus de Gyller (?)“ – kmotr v Poděbradech 13. 8. 1770; o rok dřív (2. 11. 1769) kmotrem urozený pan „de Gyller (?)“ bez jména. Čtení počátečního písmene nejisté (G/K). Pokud jde o Gillera, patřil k Maximiliánově rodině – snad další syn nebo bratr.",
+      "zdroj": "eBadatelna, Poděbrady 11 (11841/119 a /125) – podle zprávy ChatGPT, výřezy přečteny",
+      "stav": "hyp"
     }
   ],
   "otazky": [

@@ -11,6 +11,7 @@ if len(sys.argv) < 3:
     sys.exit(__doc__)
 slozka, vzor = sys.argv[1], re.compile(sys.argv[2], re.I)
 do = int(sys.argv[3]) if len(sys.argv) > 3 else 9999
+od = int(sys.argv[4]) if len(sys.argv) > 4 else 0
 API = "https://api.ceskadigitalniknihovna.cz/search/api/client/v7.0/items/"
 OUT = os.path.join(slozka, "texty.jsonl")
 hotovo = {json.loads(l)["pid"] for l in open(OUT, encoding="utf-8")} if os.path.exists(OUT) else set()
@@ -22,7 +23,7 @@ def rok(r):
 
 
 rows = [json.loads(l) for l in open(os.path.join(slozka, "uryvky.jsonl"), encoding="utf-8")]
-rows = [r for r in rows if r.get("accessibility") == "public" and 0 < rok(r) <= do and r["pid"] not in hotovo]
+rows = [r for r in rows if r.get("accessibility") == "public" and max(od, 1) <= rok(r) <= do and r["pid"] not in hotovo]
 rows.sort(key=rok)
 print(f"zbývá {len(rows)} stránek", flush=True)
 for i, r in enumerate(rows, 1):

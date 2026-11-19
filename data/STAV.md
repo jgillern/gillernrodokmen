@@ -66,6 +66,14 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 
 Jan by rád zjistil, jestli a jak se Franz z Gillernů (* asi 1788) napojuje na moravské barony z Koryčan (Karel Josef z Gillernů, rytíř 1726, svobodný pán 1732; Čerčín 1742) nebo na pruské barony von Gillern (Georg Frh. v. Gillern † 1870 u Champigny aj.) – a „přes kolik kolen“. Postup: (1) původ Franze (narození asi 1788 – šematismy, schwarzenberské personální údaje, Morava); (2) rodokmeny rodu v tisku – Genealogisches Taschenbuch der freiherrlichen Häuser (gothajský kalendář, heslo Gillern se Stammreihe), Der mährische Adel 1899, Der Adel von Böhmen 1859, Kneschke; (3) porovnat. Sběr z České digitální knihovny (tools/kramerius7_sber.py, pracovni/k7/gillern) tyto tisky zachytí.
 
+## Plán: kde zemřel Franz z Gillernů (19. 11. 2026)
+
+Rámec: po 5/1828 rodina zmizela ze Šebestěnic (Zbyšov Z 1836–1852 bez Gillernů); při křtu vnuka Augustina 10/1859 je Franz uveden nejspíš jako zesnulý („† (?)“) → zemřel asi 1828–1859. Úmrtní zápis by dal věk a možná rodiště.
+1. **Schematismus für das Königreich Böhmen 1821–1847 (Česká digitální knihovna)** – ověřit, zda uvádí úředníky vrchnostenských (hospodářských) úřadů panství Sedlec / Šebestěnice; pokud ano, sledovat Franze rok po roku → kam odešel a kdy zmizel (= rok úmrtí nebo odchodu). Dělá Claude, jen pár stránek, přes brzdu.
+2. **Matriky (Jan, SOA Třeboň / SOA Praha)** – rejstříky zemřelých podle výsledku bodu 1; bez něj: fary schwarzenberského panství Orlík, kde sloužil syn Vincenc (Oslov, Kostelec nad Vltavou, Zbenice, Čimelice, Mirotice), a Sedlec u Kutné Hory, 1828–1859.
+3. **Svědek na svatbě 1821 „Max. v. Klammer“ (?)** – vyhledat v CDK a ve šematismu (byl to schwarzenberský úředník panství Sedlec?) – potvrdil by čtení „panství Sedlecké“ a mohl by být kolega nebo příbuzný.
+4. Kramerius sběr textů: pracovni/k7/gpri, pořadí podle pole „priorita“ (1 = armádní šematismy do 1870, Pražské noviny, šlechtické ročenky, Schwarzenberský šematismus, Der Adel von Böhmen; 2–4 ostatní do 1870 a české/lesnické tituly; 5 zbytek).
+
 ## Slepé konce (kde jsme se zatím nepohnuli) – aktualizovat
 | Linie | Kde to stojí | Co jsme zkusili | Co by to mohlo rozlousknout |
 |---|---|---|---|

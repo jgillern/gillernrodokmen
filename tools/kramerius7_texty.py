@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Stáhne text (OCR) vybraných stránek ze seznamu kramerius7_uryvky.py a uloží úryvky kolem jména.
 Použití: kramerius7_texty.py SLOZKA 'VZOR' [do_roku]   (např. pracovni/k7/gillern 'Giller' 1950)
-Bere jen veřejné stránky, nejstarší napřed. Výstup SLOZKA/texty.jsonl, pokračuje po zastavení brzdou."""
+Bere jen veřejné stránky – podle pole „priorita“ (je-li v seznamu), pak nejstarší napřed. Výstup SLOZKA/texty.jsonl, pokračuje po zastavení brzdou."""
 import sys, os, json, re, urllib.request
 import os as _os, sys as _sys; _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__))); import slusne  # noqa: E402 – brzda
 for _s in (sys.stdout, sys.stderr):
@@ -24,7 +24,7 @@ def rok(r):
 
 rows = [json.loads(l) for l in open(os.path.join(slozka, "uryvky.jsonl"), encoding="utf-8")]
 rows = [r for r in rows if r.get("accessibility") == "public" and max(od, 1) <= rok(r) <= do and r["pid"] not in hotovo]
-rows.sort(key=rok)
+rows.sort(key=lambda r: (r.get("priorita", 9), rok(r)))  # nejdřív podle priority (pole „priorita“), pak nejstarší
 print(f"zbývá {len(rows)} stránek", flush=True)
 for i, r in enumerate(rows, 1):
     req = urllib.request.Request(API + r["pid"] + "/ocr/text", headers={"User-Agent": slusne.UA})

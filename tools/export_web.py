@@ -378,6 +378,14 @@ def main():
     has_story = os.path.exists(os.path.join(DATA, "pribeh.md"))
     public_cfg = {k: v for k, v in cfg.items() if k != "prihlaseni"}
     public_cfg["maPribeh"] = has_story
+    # stránka o celém rodu (data/rod_<jméno>.json, např. rod_gillernu.json) – volitelná, /rod-<jméno>/
+    rodove = sorted(f for f in os.listdir(DATA) if re.fullmatch(r"rod_[a-z0-9_]+\.json", f))
+    rod_stranky = []
+    for f in rodove:
+        d = json.load(open(os.path.join(DATA, f), encoding="utf-8"))
+        slug = "rod-" + f[4:-5].replace("_", "-")
+        rod_stranky.append(dict(slug=slug, menu=d.get("menu") or d.get("titul") or slug, data=d))
+    public_cfg["rodoveStranky"] = [dict(slug=r["slug"], menu=r["menu"]) for r in rod_stranky]
     site = dict(config=public_cfg, places=places, root=slugs[1], aliases={a: slugs[a] for a in SAME}, people=people,
                 families=families, records=records, lines=lines,
                 issues=[dict(title=i, text="") if isinstance(i, str) else dict(title=i[0], text=i[1]) for i in ISSUES
@@ -404,6 +412,7 @@ def main():
             if f.endswith(".md"):
                 write(os.path.join(ch_dst, f), strip_comments(open(os.path.join(ch_src, f), encoding="utf-8-sig").read()))
 
+    write(os.path.join(gen_dir, "rodove_stranky.json"), json.dumps({r["slug"]: r["data"] for r in rod_stranky}, ensure_ascii=False, indent=1))
     hrefs = os.path.join(gen_dir, "fan_hrefs.json")
     json.dump({k: f"/osoba/{s}/" for k, s in slugs.items()}, open(hrefs, "w", encoding="utf-8", newline="\n"))
     subprocess.run([sys.executable, "-I", "-X", "utf8", os.path.join(TOOLS, "fan_chart.py"),
@@ -442,6 +451,8 @@ def main():
         for f in os.listdir(os.path.join(gen_dir, "pribehy")):
             texts["pribehy/" + f] = open(os.path.join(gen_dir, "pribehy", f), encoding="utf-8").read()
     texts["web.json"] = json.dumps(cfg, ensure_ascii=False)
+    for r in rod_stranky:
+        texts[f"rodová stránka {r['slug']}"] = json.dumps(r["data"], ensure_ascii=False)
     texts["osoby.py (hypotézy)"] = json.dumps(hypotheses, ensure_ascii=False)
     broken = [(f, m.group(0)) for f, t in texts.items()
               for m in re.finditer(r"/(osoba|zdroj|rod|rodina)/([^/\s)\"'#?<>\]]+)", t) if m.group(2) not in targets[m.group(1)]]

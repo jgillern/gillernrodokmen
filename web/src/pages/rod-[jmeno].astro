@@ -1,0 +1,270 @@
+---
+// Stránka o celém rodu (data/rod_<jméno>.json → /rod-<jméno>/): erb, časová osa, větve, schéma napojení, další nositelé jména.
+import Base from '../layouts/Base.astro';
+import stranky from '../generated/rodove_stranky.json';
+import { people } from '../lib/data.js';
+
+export function getStaticPaths() {
+  return Object.keys(stranky).map((slug) => ({ params: { jmeno: slug.replace(/^rod-/, '') }, props: { slug } }));
+}
+const { slug } = Astro.props;
+const d = stranky[slug];
+const osobaHref = (s) => (s && people[s] ? `/osoba/${s}/` : null);
+
+const STAV = {
+  doc: { label: 'doloženo matrikou', cls: 'st-doc' },
+  lit: { label: 'z literatury a tisku', cls: 'st-lit' },
+  prob: { label: 'pravděpodobné', cls: 'st-prob' },
+  hyp: { label: 'hypotéza / neověřeno', cls: 'st-unk' },
+};
+
+// schéma napojení – rozvržení do mřížky (sloupec s, řádek r)
+const g = d.graf;
+const W = 236, H = 66, CX = 300, RY = 92, X0 = 40, Y0 = 56;
+const pos = Object.fromEntries((g?.uzly ?? []).map((u) => [u.id, { x: X0 + u.s * CX, y: Y0 + u.r * RY, u }]));
+const rows = Math.max(0, ...(g?.uzly ?? []).map((u) => u.r)) + 1;
+const svgW = X0 * 2 + (g?.sloupce?.length ?? 3) * CX - (CX - W);
+const svgH = Y0 + rows * RY;
+const edge = (h) => {
+  const a = pos[h.z], b = pos[h.do];
+  if (!a || !b) return null;
+  if (a.u.r === b.u.r) {
+    const x1 = a.x + (b.x > a.x ? W : 0), x2 = b.x + (b.x > a.x ? 0 : W), y = a.y + H / 2;
+    return { d: `M${x1},${y} L${x2},${y}`, lx: (x1 + x2) / 2, ly: y - 6 };
+  }
+  const skok = Math.abs(b.u.r - a.u.r) > 1;
+  if (skok && a.u.s === b.u.s) {   // stejný sloupec přes víc řádků – obloukem po levé straně, ne přes uzly mezi nimi
+    const x = a.x, y1 = a.y + H / 2, y2 = b.y + H / 2;
+    return { d: `M${x},${y1} C${x - 34},${y1} ${x - 34},${y2} ${x},${y2}`, lx: x - 30, ly: (y1 + y2) / 2 };
+  }
+  if (skok) {   // jiný sloupec přes víc řádků – z boku vodorovně, pak shora do cíle
+    const x1 = a.x + (b.x > a.x ? W : 0), y1 = a.y + H / 2, x2 = b.x + W / 2, y2 = b.y;
+    return { d: `M${x1},${y1} C${x2},${y1} ${x2},${y1} ${x2},${y2}`, lx: (x1 + x2) / 2, ly: y1 - 6 };
+  }
+  const x1 = a.x + W / 2, y1 = a.y + H, x2 = b.x + W / 2, y2 = b.y;
+  const my = (y1 + y2) / 2;
+  return { d: `M${x1},${y1} C${x1},${my} ${x2},${my} ${x2},${y2}`, lx: (x1 + x2) / 2 + 4, ly: my - 2 };
+};
+const ESTYL = {
+  doc: 'stroke:#3f7d4a;stroke-width:2.2',
+  lit: 'stroke:#8a5a2b;stroke-width:1.8',
+  hyp: 'stroke:#b07a1e;stroke-width:1.8;stroke-dasharray:7 5',
+  nejiste: 'stroke:#8a8278;stroke-width:1.5;stroke-dasharray:2 5',
+  svedek: 'stroke:#3e6488;stroke-width:1.8;stroke-dasharray:5 4',
+};
+const NSTYL = {
+  doc: 'fill:#eef6ee;stroke:#3f7d4a',
+  lit: 'fill:#fffdf8;stroke:#8a5a2b',
+  prob: 'fill:#fbf1db;stroke:#b07a1e',
+  hyp: 'fill:#f2efe9;stroke:#8a8278;stroke-dasharray:4 3',
+};
+// zjednodušená lilie (heraldická), kolem bodu 0,0, výška ~16
+const LILIE = 'M0,-8 C3,-4 3,0 0,3 C-3,0 -3,-4 0,-8 Z M-1,1 C-6,-3 -9,1 -6,4 C-4,5 -2,3 -1,2 Z M1,1 C6,-3 9,1 6,4 C4,5 2,3 1,2 Z M-4.5,3 h9 v1.8 h-9 Z M-1.2,4.8 h2.4 L0,8.5 Z';
+const HVEZDA = (cx, cy, r) => {
+  const p = [];
+  for (let i = 0; i < 10; i++) {
+    const rr = i % 2 ? r * 0.42 : r, a = -Math.PI / 2 + (i * Math.PI) / 5;
+    p.push(`${(cx + rr * Math.cos(a)).toFixed(1)},${(cy + rr * Math.sin(a)).toFixed(1)}`);
+  }
+  return p.join(' ');
+};
+---
+<Base title={d.titul} wide>
+  <div class="rg-hero">
+    <div>
+      <h1>{d.titul}</h1>
+      <p class="lead">{d.lead}</p>
+      {(d.uvod ?? []).map((t) => <p class="rg-uvod">{t}</p>)}
+    </div>
+    {d.erb && (
+      <figure class="rg-erb">
+        <svg viewBox="0 0 200 244" role="img" aria-label="Erb svobodných pánů z Gillernů (zjednodušeně)">
+          <defs>
+            <clipPath id="stit"><path d="M10,10 H190 V122 Q190,202 100,236 Q10,202 10,122 Z" /></clipPath>
+            <clipPath id="q2"><rect x="100" y="10" width="90" height="112" /></clipPath>
+            <clipPath id="q3"><rect x="10" y="122" width="90" height="116" /></clipPath>
+          </defs>
+          <g clip-path="url(#stit)">
+            <rect x="10" y="10" width="90" height="112" fill="#2f4f8f" />
+            <rect x="100" y="10" width="90" height="112" fill="#a3262a" />
+            <rect x="10" y="122" width="90" height="116" fill="#a3262a" />
+            <rect x="100" y="122" width="90" height="116" fill="#2f4f8f" />
+            <polygon points={HVEZDA(55, 64, 24)} fill="#e2b33c" />
+            <polygon points={HVEZDA(145, 176, 24)} fill="#e2b33c" />
+            {[['q2', 100, 10], ['q3', 10, 122]].map(([c, x, y]) => (
+              <g clip-path={`url(#${c})`}>
+                <polygon points={`${x + 90 - 13},${y} ${x + 90 + 13},${y} ${x + 13},${y + 116} ${x - 13},${y + 116}`} fill="#f4f1ea" />
+                {[0.25, 0.5, 0.75].map((t) => (
+                  <path d={LILIE} fill="#d9a62e" transform={`translate(${x + 90 - 90 * t},${y + 116 * t}) scale(1.05)`} />
+                ))}
+              </g>
+            ))}
+            <path d="M80,100 H120 V128 Q120,146 100,154 Q80,146 80,128 Z" fill="#e2b33c" stroke="#7a5a1c" stroke-width="1.2" />
+            <circle cx="100" cy="129" r="8" fill="#c99a76" />
+            <path d="M90,125 Q100,108 110,125 Q100,120 90,125 Z" fill="#f4f1ea" stroke="#9c8f7a" stroke-width="0.6" />
+            <circle cx="100" cy="114" r="2.4" fill="#a3262a" />
+          </g>
+          <path d="M10,10 H190 V122 Q190,202 100,236 Q10,202 10,122 Z" fill="none" stroke="#3b2e22" stroke-width="3" />
+        </svg>
+        <figcaption class="small muted">{d.erb.popis}<br /><span class="rg-zdroj">{d.erb.zdroj}</span></figcaption>
+      </figure>
+    )}
+  </div>
+
+  <nav class="rg-toc small" aria-label="Obsah stránky">
+    {g && <a href="#napojeni">Jak jsme napojeni</a>}
+    {d.osa?.length > 0 && <a href="#osa">Časová osa rodu</a>}
+    {d.vetve?.length > 0 && <a href="#vetve">Větve rodu</a>}
+    {d.osoby?.length > 0 && <a href="#osoby">Další Gillernové v pramenech</a>}
+    {d.otazky?.length > 0 && <a href="#otazky">Co ještě hledáme</a>}
+    {d.zdroje?.length > 0 && <a href="#zdroje">Zdroje</a>}
+  </nav>
+
+  {g && (
+    <section id="napojeni">
+      <h2>Jak jsme napojeni</h2>
+      <p class="muted small">Plná čára = doložený vztah, přerušovaná = domněnka, tečkovaná = vztah zatím neznámý (jen stejný rod). Na osoby z naší linie se dá kliknout.</p>
+      <div class="chips">
+        {Object.entries(STAV).map(([k, s]) => <span class={`chip ${s.cls}`}>{s.label}</span>)}
+        <span class="chip rg-chip-svedek">svědek na svatbě</span>
+      </div>
+      <div class="rg-graf-wrap">
+        <svg class="rg-graf" viewBox={`0 0 ${svgW} ${svgH}`} role="img" aria-label="Schéma napojení naší linie na šlechtický rod">
+          {g.sloupce.map((s, i) => (
+            <g>
+              <rect x={X0 + i * CX - 8} y="6" width={W + 16} height={svgH - 12} rx="12" fill={i === 2 ? '#f1f6ef' : i === 1 ? '#f7f2ea' : '#f4f1f6'} />
+              <text x={X0 + i * CX + W / 2} y="32" text-anchor="middle" class="rg-sl">{s}</text>
+            </g>
+          ))}
+          {g.hrany.map((h) => {
+            const e = edge(h);
+            return e && (
+              <g>
+                <path d={e.d} fill="none" style={ESTYL[h.typ] ?? ESTYL.nejiste} />
+                {h.popis && <text x={e.lx} y={e.ly} class="rg-hl">{h.popis}</text>}
+              </g>
+            );
+          })}
+          {g.uzly.map((u) => {
+            const p = pos[u.id];
+            const link = osobaHref(u.osoba);
+            const box = (
+              <g class={link ? 'rg-uzel rg-link' : 'rg-uzel'}>
+                <rect x={p.x} y={p.y} width={W} height={H} rx="9" style={NSTYL[u.stav] ?? NSTYL.hyp} stroke-width="1.6" />
+                <text x={p.x + 12} y={p.y + 22} class="rg-n">{u.jmeno}</text>
+                <text x={p.x + 12} y={p.y + 40} class="rg-r">{u.roky}</text>
+                <text x={p.x + 12} y={p.y + 56} class="rg-p">{u.pozn}</text>
+              </g>
+            );
+            return link ? <a href={link}>{box}</a> : box;
+          })}
+        </svg>
+      </div>
+      <p class="small muted rg-swipe">Na telefonu schéma posunete prstem do stran.</p>
+    </section>
+  )}
+
+  {d.osa?.length > 0 && (
+    <section id="osa">
+      <h2>Časová osa rodu</h2>
+      <ol class="rg-osa">
+        {d.osa.map((o) => (
+          <li class={o.osoba ? 'rg-nase' : ''}>
+            <span class="rg-rok">{o.rok}</span>
+            <div>
+              <p>{o.text} {o.osoba && osobaHref(o.osoba) && <a href={osobaHref(o.osoba)}>→ osoba</a>}</p>
+              {o.zdroj && <p class="small muted">Zdroj: {o.zdroj}</p>}
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+  )}
+
+  {d.vetve?.length > 0 && (
+    <section id="vetve">
+      <h2>Větve rodu</h2>
+      <div class="grid2">
+        {d.vetve.map((v) => (
+          <div class="card rg-vetev" style={`--c:${v.barva ?? '#8a5a2b'}`}>
+            <h3>{v.nazev}</h3>
+            <p class="small muted">{v.obdobi}</p>
+            <p class="small">{v.text}</p>
+            {v.vazba && <p class="small rg-vazba"><strong>Vazba k nám:</strong> {v.vazba}</p>}
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {d.osoby?.length > 0 && (
+    <section id="osoby">
+      <h2>Další Gillernové v pramenech</h2>
+      <p class="muted small">Lidé s naším příjmením, na které jsme narazili mimo přímou linii. U každého je, odkud o něm víme a jak jisté to je.</p>
+      <div class="grid2">
+        {d.osoby.map((o) => (
+          <div class="card">
+            <h3>{o.jmeno}</h3>
+            <p class="small"><span class={`chip ${STAV[o.stav]?.cls ?? 'st-unk'}`}>{STAV[o.stav]?.label ?? o.stav}</span> <span class="muted">{o.roky}</span></p>
+            <p class="small">{o.text}</p>
+            <p class="small muted">Zdroj: {o.odkaz ? <a href={o.odkaz} rel="noopener">{o.zdroj}</a> : o.zdroj}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {d.otazky?.length > 0 && (
+    <section id="otazky">
+      <h2>Co ještě hledáme</h2>
+      <ul class="facts">{d.otazky.map((q) => <li>{q}</li>)}</ul>
+    </section>
+  )}
+
+  {d.zdroje?.length > 0 && (
+    <section id="zdroje">
+      <h2>Zdroje</h2>
+      <ul class="facts small">{d.zdroje.map((z) => <li>{z.odkaz ? <a href={z.odkaz} rel="noopener">{z.nazev}</a> : z.nazev}</li>)}</ul>
+    </section>
+  )}
+
+  <div class="next-step">
+    <p><strong>Přímá linie</strong> – podrobně a s výřezy z matrik – je v rodu Gillernů a v příbězích.</p>
+    <p><a class="btn" href="/rody/">Rody →</a> <a class="btn" href="/pribehy/">Příběhy →</a> <a class="btn" href="/vejir/">Vějíř předků →</a></p>
+  </div>
+</Base>
+
+<style>
+  .rg-hero { display: grid; grid-template-columns: minmax(0, 1fr) 220px; gap: 1.5rem; align-items: start; }
+  .rg-uvod { max-width: 46rem; }
+  .rg-erb { margin: 0.6rem 0 0; text-align: center; }
+  .rg-erb svg { width: 100%; max-width: 200px; height: auto; filter: drop-shadow(0 4px 10px rgba(59, 46, 34, 0.18)); }
+  .rg-erb figcaption { text-align: left; margin-top: 0.4rem; }
+  .rg-zdroj { font-style: italic; }
+  .rg-toc { display: flex; flex-wrap: wrap; gap: 0.3rem 1rem; padding: 0.6rem 0.9rem; border: 1px solid var(--line); border-radius: 10px; background: var(--paper); margin: 1rem 0; }
+  .st-lit { background: #f5ece0; color: #7a4f24; }
+  .rg-chip-svedek { background: #e6eef6; color: #3e6488; }
+  .rg-graf-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; background: var(--paper); -webkit-overflow-scrolling: touch; }
+  .rg-graf { display: block; width: 100%; min-width: 720px; height: auto; }
+  .rg-graf :global(.rg-sl) { font: 600 14px var(--sans); fill: #5a4632; }
+  .rg-graf :global(.rg-n) { font: 600 14px var(--serif); fill: #2b2620; }
+  .rg-graf :global(.rg-r) { font: 12.5px var(--sans); fill: #5a4632; }
+  .rg-graf :global(.rg-p) { font: 11.5px var(--sans); fill: #6e6153; }
+  .rg-graf :global(.rg-hl) { font: italic 11.5px var(--sans); fill: #5a4632; paint-order: stroke; stroke: #fffdf8; stroke-width: 4px; }
+  .rg-graf :global(.rg-link:hover rect) { filter: drop-shadow(0 3px 6px rgba(59, 46, 34, 0.25)); }
+  .rg-swipe { display: none; }
+  .rg-osa { list-style: none; padding: 0; margin: 0; border-left: 2px solid var(--line); }
+  .rg-osa li { display: grid; grid-template-columns: 7.5rem minmax(0, 1fr); gap: 0.8rem; position: relative; padding: 0.35rem 0 0.35rem 1rem; }
+  .rg-osa li::before { content: ''; position: absolute; left: -7px; top: 0.75rem; width: 12px; height: 12px; border-radius: 50%; background: var(--paper); border: 2px solid #8a5a2b; }
+  .rg-osa li.rg-nase::before { background: #3f7d4a; border-color: #3f7d4a; }
+  .rg-osa p { margin: 0.1rem 0; }
+  .rg-rok { font: 600 1rem var(--serif); color: #8a5a2b; }
+  .rg-vetev { border-left: 5px solid var(--c); }
+  .rg-vazba { background: var(--accent-soft); padding: 0.4rem 0.6rem; border-radius: 6px; }
+  @media (max-width: 720px) {
+    .rg-hero { grid-template-columns: 1fr; }
+    .rg-erb { max-width: 260px; }
+    .rg-swipe { display: block; }
+    .rg-osa li { grid-template-columns: 1fr; gap: 0; }
+  }
+</style>

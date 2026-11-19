@@ -70,3 +70,7 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 ## Česká digitální knihovna – stahování textů z cloudu nefunguje (19. 11. 2026)
 - Endpoint `items/{pid}/ocr/text` odmítal (HTTP 403) i při 1 dotazu za 40 s; 4 stopky za 24 h, poslední hned prvním dotazem po skončení stopky. Prohledávání (`search`) šlo, hromadné čtení textů ne.
 - Pro skill: hromadný sběr textů z CDK nepoužívat; ze skriptu jen vyhledat seznam stránek (pár dotazů) a nejnadějnější stránky (do ~10–15) předat uživateli k ručnímu prohlédnutí s odkazy `https://www.ceskadigitalniknihovna.cz/uuid/<pid>`.
+
+## Nápad: stránka o celém rodu (19. 11. 2026)
+- Uživatel chtěl samostatnou sekci o celém rodu (šlechtické větve, souvislosti mimo přímou linii). Udělal jsem obecný mechanismus: `data/rod_<jméno>.json` → stránka `/rod-<jméno>/` (web/src/pages/rod-[jmeno].astro) + odkaz v menu; export_web.py ji zapíše do `src/generated/rodove_stranky.json` a kontroluje v ní odkazy na osoby.
+- Obsah: úvod, erb (SVG podle blasonu), schéma napojení (uzly ve sloupcích/řádcích, hrany doc/lit/hyp/nejiste/svedek), časová osa, větve, další nositelé jména se stavem jistoty, otevřené otázky, zdroje. Mohlo by se hodit do skillu pro všechny rody se zajímavou historií.

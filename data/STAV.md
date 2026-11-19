@@ -66,6 +66,9 @@ Krušnová(?); Jan Malý (Tisek 17) × Marie Benešová(?).
 
 Jan by rád zjistil, jestli a jak se Franz z Gillernů (* asi 1788) napojuje na moravské barony z Koryčan (Karel Josef z Gillernů, rytíř 1726, svobodný pán 1732; Čerčín 1742) nebo na pruské barony von Gillern (Georg Frh. v. Gillern † 1870 u Champigny aj.) – a „přes kolik kolen“. Postup: (1) původ Franze (narození asi 1788 – šematismy, schwarzenberské personální údaje, Morava); (2) rodokmeny rodu v tisku – Genealogisches Taschenbuch der freiherrlichen Häuser (gothajský kalendář, heslo Gillern se Stammreihe), Der mährische Adel 1899, Der Adel von Böhmen 1859, Kneschke; (3) porovnat. Sběr z České digitální knihovny (tools/kramerius7_sber.py, pracovni/k7/gillern) tyto tisky zachytí.
 
+## Stránka „Rod z Gillernů“ (web /rod-gillernu/)
+Data v `data/rod_gillernu.json` (úvod, erb, časová osa, větve, schéma napojení – uzly a hrany, další Gillernové v pramenech, otázky, zdroje). Každý nový nález o rodu mimo přímou linii (šlechtické větve, Clannerové, Malejovice, Karel Gillern 1888–1953 …) doplnit sem; stav: doc / lit / prob / hyp.
+
 ## Plán: kde zemřel Franz z Gillernů (19. 11. 2026)
 
 Rámec: po 5/1828 rodina zmizela ze Šebestěnic (Zbyšov Z 1836–1852 bez Gillernů); při křtu vnuka Augustina 10/1859 je Franz uveden nejspíš jako zesnulý („† (?)“) → zemřel asi 1828–1859. Úmrtní zápis by dal věk a možná rodiště.

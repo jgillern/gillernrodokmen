@@ -1,0 +1,469 @@
+{
+  "titul": "Rod z Gillernů",
+  "menu": "Rod z Gillernů",
+  "lead": "Všechno, co víme o celém rodu z Gillernů – nejen o naší přímé linii. Šlechtický rod, jeho větve na Moravě, ve Slezsku, v Prusku a ve Vídni, lesníci kolem Poděbrad a Kutné Hory a stopy, které nás k nim možná vedou. Stránka roste s každým nálezem.",
+  "uvod": [
+    "Gillernové jsou starý rod, který se podle německé Wikipedie odvozuje od měšťanů Gillerů z Laufenburgu a Waldshutu v jihozápadním Německu (14.–16. století). Roku 1568 dostal Matouš Giller český erbovní list s přídomkem „von Lilienfeld“, v 17. a 18. století přišla další povýšení – už jako „von Gillern“ – až po stav svobodných pánů (baronů). Rod se rozvětvil do Slezska a Pruska, na Moravu (panství Koryčany), do Čech a do Vídně.",
+    "Naše přímá linie je v matrikách doložená od Františka z Gillernů (* asi 1788), schwarzenberského lesního adjunkta. Jak přesně navazuje na šlechtický rod, zatím nevíme – ale stopy se zhušťují: v Čechách se šlechtická větev psala „Giller (Edler) von Gillern“, a přesně tak – „Edler von Gillern“ – je zapsán i Františkův vnuk Čeněk (1854)."
+  ],
+  "erb": {
+    "popis": "Štít čtvrcený: v 1. a 4. modrém poli zlatá hvězda, ve 2. a 3. červeném poli stříbrné šikmé břevno vlevo se třemi zlatými liliemi. Svobodně pánský erb má navíc zlatý středový štítek s useknutou hlavou Turka – na památku účasti v tureckých válkách. Klenot: otevřená křídla, pravé modré se zlatou hvězdou, levé červené se zlatou lilií.",
+    "zdroj": "de.wikipedia.org – Gillern (podle Siebmacherova erbovníku); obrázek je zjednodušené překreslení podle popisu"
+  },
+  "osa": [
+    {
+      "rok": "1568",
+      "text": "Matouš Giller dostává ve Vídni (10. 4.) český erbovní list s přídomkem „von Lilienfeld“.",
+      "zdroj": "Vyšín 1978; Wikipedie"
+    },
+    {
+      "rok": "1654",
+      "text": "Říšský šlechtický stav.",
+      "zdroj": "Wikipedie"
+    },
+    {
+      "rok": "1703",
+      "text": "František Mikuláš Giller, major pevnosti Cheb, rytířský stav (7. 2.); rod se už píše „von Gillern“.",
+      "zdroj": "Vyšín 1978"
+    },
+    {
+      "rok": "1707",
+      "text": "Uherský stav svobodných pánů a magnátů (František Mikuláš, důstojník prince Evžena).",
+      "zdroj": "Wikipedie"
+    },
+    {
+      "rok": "1721",
+      "text": "Jan Karel Josef Giller, sekretář a rada knížat z Lichtenštejna – potvrzení šlechtictví a polepšení erbu (25. 6.).",
+      "zdroj": "Vyšín 1978"
+    },
+    {
+      "rok": "1724–1726",
+      "text": "Karel Josef z Gillernů (1691–1759), lichtenštejnský a císařský dvorní rada – rytířský stav „Edler Herr von Gillern“ za služby předků ve švédských válkách a uherských nepokojích. Zdroje se liší v datu (4. 4. 1724 / 5. 3. 1726).",
+      "zdroj": "Vyšín 1978; Der Adel von Böhmen 1859; Rakouský státní archiv"
+    },
+    {
+      "rok": "1727–1732",
+      "text": "Karel Josef a Josef Kryštof z Gillernů – český stav svobodných pánů (podle Der Adel von Böhmen 4. 6. 1732).",
+      "zdroj": "Der Adel von Böhmen 1859, s. 45; Vyšín 1978"
+    },
+    {
+      "rok": "1742",
+      "text": "Karel Josef kupuje panství Koryčany na Moravě (okr. Kyjov).",
+      "zdroj": "Vyšín 1978 (Hosák, Místopis)"
+    },
+    {
+      "rok": "1744",
+      "text": "Pruské uznání stavu svobodných pánů listem Fridricha II. – základ pruské větve.",
+      "zdroj": "Wikipedie"
+    },
+    {
+      "rok": "1764–1766",
+      "text": "Kristián Matyáš Antonín z Gillernů, podplukovník – rytířský stav „von Gillern“ a český inkolát (1764), rakouský stav svobodných pánů (1766).",
+      "zdroj": "Vyšín 1978; Rakouský státní archiv (RAA 143.34)"
+    },
+    {
+      "rok": "kolem 1784",
+      "text": "Maximilián svobodný pán z Gillernů je nadlesním na komorním panství Poděbrady; jeho dcera Eleonora Mariana se vdává za forstmistra Jana Baptistu Clannera z Engelshofenu.",
+      "zdroj": "M. Hanuš, Rod Clannerů z Engelshofenu (1998)"
+    },
+    {
+      "rok": "1793",
+      "text": "Kristián Matyáš Antonín odkazuje Koryčany dceři Marii Josefě, provdané Münch-Bellinghausen – moravská větev o panství přichází.",
+      "zdroj": "Vyšín 1978"
+    },
+    {
+      "rok": "1817",
+      "text": "V Malejovicích u Uhlířských Janovic umírá sedmdesátiletý „Franz von Gillern, penzionovaný adjunkt“ (24. 4.).",
+      "zdroj": "matrika Uhlířské Janovice 04 (výřez od druhé AI, přečten)"
+    },
+    {
+      "rok": "1821",
+      "text": "Náš František z Gillernů, schwarzenberský myslivecký adjunkt, se žení v Mitrově s Annou Solnařovou; svědkem je lesník Maximilián Clanner – vnuk svobodného pána z Gillernů.",
+      "zdroj": "matrika Uhlířské Janovice 15, fol. 153",
+      "osoba": "franz-frantisek-z-gillernu-1788"
+    },
+    {
+      "rok": "1854",
+      "text": "Vnuk Františka, Čeněk, je při křtu zapsán jako syn „Vinzenz Edler von Gillern“ – stejný přídomek, jaký používala česká šlechtická větev.",
+      "zdroj": "matrika Veselíčko"
+    },
+    {
+      "rok": "1918–1919",
+      "text": "Zrušení šlechtických titulů: z „Giller von Gillern“ se stává „Gillern“, v Rakousku z „Freiherr von Gillern“ prostě „Gillern“.",
+      "zdroj": "Wikipedie"
+    }
+  ],
+  "vetve": [
+    {
+      "nazev": "Slezská a pruská větev",
+      "obdobi": "17.–20. století",
+      "barva": "#5b6e8f",
+      "text": "Gillernové ve slezském Steinau a Wohlau, od roku 1744 uznaní pruskými svobodnými pány. Patří sem generálmajor Ernst Heinrich z Gillernů (1730–1792), poslední fürstabatyše trebnického kláštera Dominika z Gillernů (1739–1810), operní pěvec Hugo z Gillernů (1829–1871) či generálporučík Arthur z Gillernů (1855–1916).",
+      "vazba": "S naší linií zatím žádná doložená vazba – nejspíš vzdálení příbuzní z doby před 1700."
+    },
+    {
+      "nazev": "Moravská větev (Koryčany)",
+      "obdobi": "1724–1793",
+      "barva": "#8f5b6e",
+      "text": "Karel Josef z Gillernů (1691–1759), lichtenštejnský a císařský dvorní rada, mírový vyjednavač za první slezské války, roku 1742 koupil panství Koryčany. Panství zdědil Kristián Matyáš Antonín z Gillernů a roku 1793 ho odkázal dceři.",
+      "vazba": "Nejpravděpodobnější kmen, ze kterého vzešla i česká větev – rytířský přídomek „Edler von Gillern“ z roku 1724/1726 nese i naše linie."
+    },
+    {
+      "nazev": "Česká větev – lesníci a úředníci",
+      "obdobi": "18.–20. století",
+      "barva": "#5b8f6e",
+      "text": "Svobodný pán Maximilián z Gillernů, nadlesní v Poděbradech; „Franz von Gillern“, penzionovaný adjunkt († 1817 Malejovice); náš František, schwarzenberský adjunkt (1821), a po něm tři generace schwarzenberských revírníků a nadlesních na Orlíku. Podle Wikipedie se tato větev do roku 1918 psala „Giller von Gillern“ nebo „Giller Edler von Gillern“; patří k ní i JUDr. Karel Gillern (1888–1953), okresní hejtman v Mělníku a ve Strakonicích.",
+      "vazba": "Naše větev. Chybí jen článek mezi Františkem (* asi 1788) a staršími Gillerny kolem Poděbrad a Malejovic."
+    },
+    {
+      "nazev": "Vídeňská větev",
+      "obdobi": "19.–20. století",
+      "barva": "#8f7a5b",
+      "text": "Malíř biedermeieru Joseph Edward z Gillernů (1794–1845) a chemik a agronom Karl Gillern (do 1919 Karl Freiherr von Gillern, 1895–1971), přední výzkumník Spolkového zemědělského ústavu ve Vídni, maltézský rytíř.",
+      "vazba": "Vazba zatím neznámá."
+    }
+  ],
+  "graf": {
+    "sloupce": [
+      "Šlechtický rod (literatura)",
+      "Příbuzní a souvislosti",
+      "Naše přímá linie (matriky)"
+    ],
+    "uzly": [
+      {
+        "id": "matous",
+        "s": 0,
+        "r": 0,
+        "jmeno": "Matouš Giller",
+        "roky": "erb 1568",
+        "pozn": "„von Lilienfeld“",
+        "stav": "lit"
+      },
+      {
+        "id": "karel_josef",
+        "s": 0,
+        "r": 1,
+        "jmeno": "Karel Josef z Gillernů",
+        "roky": "1691–1759",
+        "pozn": "rytíř 1724/26, baron 1732, Koryčany",
+        "stav": "lit"
+      },
+      {
+        "id": "maxmilian",
+        "s": 1,
+        "r": 1,
+        "jmeno": "Maximilián svob. pán z G.",
+        "roky": "2. pol. 18. stol.",
+        "pozn": "nadlesní v Poděbradech",
+        "stav": "lit"
+      },
+      {
+        "id": "kristian",
+        "s": 0,
+        "r": 2,
+        "jmeno": "Kristián Matyáš Antonín",
+        "roky": "rytíř 1764, baron 1766",
+        "pozn": "podplukovník, Koryčany",
+        "stav": "lit"
+      },
+      {
+        "id": "eleonora",
+        "s": 1,
+        "r": 2,
+        "jmeno": "Eleonora Mariana z G.",
+        "roky": "× J. B. Clanner",
+        "pozn": "forstmistr v Poděbradech",
+        "stav": "lit"
+      },
+      {
+        "id": "prusove",
+        "s": 0,
+        "r": 3,
+        "jmeno": "Pruští baroni z G.",
+        "roky": "od 1744",
+        "pozn": "Ernst Heinrich 1730–1792 aj.",
+        "stav": "lit"
+      },
+      {
+        "id": "franz_st",
+        "s": 2,
+        "r": 3,
+        "jmeno": "Franz von Gillern",
+        "roky": "asi 1747–1817",
+        "pozn": "penz. adjunkt, † Malejovice",
+        "stav": "prob"
+      },
+      {
+        "id": "clanner",
+        "s": 1,
+        "r": 3,
+        "jmeno": "Maximilián Clanner z E.",
+        "roky": "1784–1847",
+        "pozn": "lesník, vnuk barona z G.",
+        "stav": "lit"
+      },
+      {
+        "id": "frantisek",
+        "s": 2,
+        "r": 4,
+        "jmeno": "František z Gillernů",
+        "roky": "asi 1788 – ?",
+        "pozn": "× 1821 Anna Solnařová",
+        "stav": "doc",
+        "osoba": "franz-frantisek-z-gillernu-1788"
+      },
+      {
+        "id": "vincenc",
+        "s": 2,
+        "r": 5,
+        "jmeno": "Vincenc z Gillernů",
+        "roky": "1822–1894",
+        "pozn": "revírník na Orlíku",
+        "stav": "doc",
+        "osoba": "vincenc-z-gillernu-1822"
+      },
+      {
+        "id": "cenek",
+        "s": 1,
+        "r": 6,
+        "jmeno": "Čeněk z Gillernů",
+        "roky": "1854–1942",
+        "pozn": "„Edler von Gillern“, nadlesní",
+        "stav": "doc"
+      },
+      {
+        "id": "augustin",
+        "s": 2,
+        "r": 6,
+        "jmeno": "Augustin z Gillernů",
+        "roky": "* 1859",
+        "pozn": "lesní, nadlesní ve Vrábsku",
+        "stav": "doc",
+        "osoba": "augustin-z-gillernu-1859"
+      },
+      {
+        "id": "karel",
+        "s": 1,
+        "r": 7,
+        "jmeno": "JUDr. Karel Gillern",
+        "roky": "1888–1953",
+        "pozn": "okresní hejtman (Wikipedie)",
+        "stav": "prob"
+      },
+      {
+        "id": "jan1894",
+        "s": 2,
+        "r": 7,
+        "jmeno": "Jan z Gillernů",
+        "roky": "1894–1940",
+        "pozn": "hospodářský úředník",
+        "stav": "doc",
+        "osoba": "jan-z-gillernu-1894"
+      },
+      {
+        "id": "dnes",
+        "s": 2,
+        "r": 8,
+        "jmeno": "… Augustin → Jiří → Jan",
+        "roky": "1924 → 1990",
+        "pozn": "dnešní Gillernové",
+        "stav": "doc",
+        "osoba": "jan-gillern-1990"
+      }
+    ],
+    "hrany": [
+      {
+        "z": "matous",
+        "do": "karel_josef",
+        "typ": "nejiste",
+        "popis": "?"
+      },
+      {
+        "z": "karel_josef",
+        "do": "kristian",
+        "typ": "nejiste",
+        "popis": "?"
+      },
+      {
+        "z": "karel_josef",
+        "do": "maxmilian",
+        "typ": "nejiste",
+        "popis": "?"
+      },
+      {
+        "z": "karel_josef",
+        "do": "prusove",
+        "typ": "nejiste",
+        "popis": ""
+      },
+      {
+        "z": "maxmilian",
+        "do": "eleonora",
+        "typ": "lit",
+        "popis": "dcera"
+      },
+      {
+        "z": "eleonora",
+        "do": "clanner",
+        "typ": "lit",
+        "popis": "syn"
+      },
+      {
+        "z": "maxmilian",
+        "do": "franz_st",
+        "typ": "nejiste",
+        "popis": "?"
+      },
+      {
+        "z": "franz_st",
+        "do": "frantisek",
+        "typ": "hyp",
+        "popis": "otec?"
+      },
+      {
+        "z": "clanner",
+        "do": "frantisek",
+        "typ": "svedek",
+        "popis": "svědek 1821"
+      },
+      {
+        "z": "frantisek",
+        "do": "vincenc",
+        "typ": "doc",
+        "popis": ""
+      },
+      {
+        "z": "vincenc",
+        "do": "augustin",
+        "typ": "doc",
+        "popis": ""
+      },
+      {
+        "z": "vincenc",
+        "do": "cenek",
+        "typ": "doc",
+        "popis": ""
+      },
+      {
+        "z": "cenek",
+        "do": "karel",
+        "typ": "hyp",
+        "popis": "syn?"
+      },
+      {
+        "z": "augustin",
+        "do": "jan1894",
+        "typ": "doc",
+        "popis": ""
+      },
+      {
+        "z": "jan1894",
+        "do": "dnes",
+        "typ": "doc",
+        "popis": ""
+      }
+    ]
+  },
+  "osoby": [
+    {
+      "jmeno": "Franz von Gillern",
+      "roky": "asi 1747 – 24. 4. 1817",
+      "text": "Penzionovaný adjunkt, zemřel v Malejovicích č. 1 (fara Uhlířské Janovice) na souchotiny, 70 let. Možný otec našeho Františka.",
+      "zdroj": "eBadatelna, Uhlířské Janovice 04, snímek 178 (přečteno z výřezu)",
+      "stav": "prob"
+    },
+    {
+      "jmeno": "Maximilián svobodný pán z Gillernů",
+      "roky": "2. pol. 18. stol.",
+      "text": "Nadlesní na komorním panství Poděbrady; dcera Eleonora Mariana × Jan Baptista Clanner z Engelshofenu.",
+      "zdroj": "M. Hanuš, Rod Clannerů z Engelshofenu, Zprávy KPP 1998",
+      "odkaz": "https://pratelepardubicka.cz/eduard-napravnik-iv-cast-rod-clanneru-z-engelshofenu/",
+      "stav": "lit"
+    },
+    {
+      "jmeno": "Maximilián Clanner z Engelshofenu",
+      "roky": "1784–1847",
+      "text": "Lesník (Poděbrady, Křesetice/Malejovice, Čeperka, Běleček), vnuk Maximiliána svob. pána z Gillernů, svědek na svatbě našeho Františka 1821, dědeček dirigenta Eduarda Nápravníka. Ve Vídni je jeho spis o rytířském stavu (1813–1838).",
+      "zdroj": "Hanuš 1998; Rakouský státní archiv AVA Adel HAA AR 147.1",
+      "odkaz": "https://www.archivinformationssystem.at/detail.aspx?ID=5431276",
+      "stav": "lit"
+    },
+    {
+      "jmeno": "Ignatius de Gillern",
+      "roky": "1784",
+      "text": "Kmotr při křtu Maximiliána Clannera v Poděbradech.",
+      "zdroj": "podle druhé AI – zatím neověřeno (Poděbrady 15, snímek 10)",
+      "stav": "hyp"
+    },
+    {
+      "jmeno": "Joseph von Gillern",
+      "roky": "1847",
+      "text": "C. k. hejtman ve výslužbě, pohraniční celník v Ostrožnici.",
+      "zdroj": "Prager Zeitung 1848",
+      "stav": "lit"
+    },
+    {
+      "jmeno": "Ferdinand Gillern von Rosenegg",
+      "roky": "1806",
+      "text": "Důstojník v armádním šematismu.",
+      "zdroj": "Schematismus der k. k. Armée 1806",
+      "stav": "lit"
+    },
+    {
+      "jmeno": "Georg Giller",
+      "roky": "1805–1807",
+      "text": "Nadporučík v armádním šematismu – jestli patří k rodu, nevíme.",
+      "zdroj": "Schematismus der k. k. Armée 1805–1807",
+      "stav": "hyp"
+    },
+    {
+      "jmeno": "JUDr. Karel Gillern (Karl Giller von Gillern)",
+      "roky": "1888–1953",
+      "text": "Nadporučík císařských myslivců, od 1919 československý úředník, okresní hejtman v Mělníku (1939–1942) a ve Strakonicích (1942–1945). Nejspíš syn Čeňka z Gillernů (JUDr. Karel, pohřben v Čimelicích).",
+      "zdroj": "de.wikipedia.org – Gillern",
+      "odkaz": "https://de.wikipedia.org/wiki/Gillern",
+      "stav": "prob"
+    },
+    {
+      "jmeno": "Karl Gillern (Karl Freiherr von Gillern)",
+      "roky": "1895–1971",
+      "text": "Rakouský chemik a agronom ve Vídni.",
+      "zdroj": "de.wikipedia.org – Gillern",
+      "odkaz": "https://de.wikipedia.org/wiki/Gillern",
+      "stav": "lit"
+    }
+  ],
+  "otazky": [
+    "Kde a kdy se narodil náš František (* asi 1788) a kdo byli jeho rodiče? Byl to syn „Franze von Gillern“, který zemřel 1817 v Malejovicích?",
+    "Jak byl „Franz von Gillern“ († 1817) příbuzný se svobodným pánem Maximiliánem z Gillernů, nadlesním v Poděbradech?",
+    "Kde a kdy zemřel náš František (mezi 1828 a 1859) a jeho žena Anna Solnařová?",
+    "Je JUDr. Karel Gillern (1888–1953) opravdu syn Čeňka z Gillernů?",
+    "Jak se česká větev napojuje na Karla Josefa z Gillernů (rytíř „Edler von Gillern“ 1724/1726) – a tedy přes kolik kolen jsme příbuzní s moravskými a pruskými barony?"
+  ],
+  "zdroje": [
+    {
+      "nazev": "Dopis Karla Vyšína Janu Gillernovi (1978) – podle K. F. von Franka a L. Hosáka",
+      "odkaz": ""
+    },
+    {
+      "nazev": "Der Adel von Böhmen, Mähren und Schlesien (1859), s. 45",
+      "odkaz": ""
+    },
+    {
+      "nazev": "M. Hanuš: Eduard Nápravník – IV. část, Rod Clannerů z Engelshofenu (Zprávy KPP 1998)",
+      "odkaz": "https://pratelepardubicka.cz/eduard-napravnik-iv-cast-rod-clanneru-z-engelshofenu/"
+    },
+    {
+      "nazev": "Německá Wikipedie – Gillern",
+      "odkaz": "https://de.wikipedia.org/wiki/Gillern"
+    },
+    {
+      "nazev": "Rakouský státní archiv – Giller, Christian Mathäus Anton, „von Gillern“, 1764",
+      "odkaz": "https://www.archivinformationssystem.at/detail.aspx?ID=2308597"
+    },
+    {
+      "nazev": "Rakouský státní archiv – Claner, Maximilian, rytířský stav 1813–1838",
+      "odkaz": "https://www.archivinformationssystem.at/detail.aspx?ID=5431276"
+    }
+  ]
+}

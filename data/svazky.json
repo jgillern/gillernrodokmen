@@ -654,5 +654,40 @@
   "svazek": "Uhlířské Janovice 15, O 1784–1851 (farní kniha IX)",
   "popis": "Kniha oddaných fary Uhlířské Janovice, oddíl Mitrov (a další vsi), česky, tabulková; 1812–1828 = fol. 152–153 (snímek 77). Rejstřík oddaných 1682–1912 (Uhl. Janovice 28 ?) odkazuje „IX, 153“. Snímky poslal Jan Gillern.",
   "url": "https://ebadatelna.soapraha.cz/d/13240"
+ },
+ "podebrady_15": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna SOA Praha",
+  "svazek": "Poděbrady 15, N 1784",
+  "popis": "Kniha narozených fary Poděbrady (1784), německý tištěný formulář; pag. 74 = snímek 10.",
+  "url": "https://ebadatelna.soapraha.cz/d/11845"
+ },
+ "podebrady_18": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna SOA Praha",
+  "svazek": "Poděbrady 18, N 1785–1803 + index",
+  "popis": "Kniha narozených c. k. komorního panství Poděbrady; 10/1787 = fol. 26 (snímek 31).",
+  "url": "https://ebadatelna.soapraha.cz/d/11848"
+ },
+ "podebrady_37": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna SOA Praha",
+  "svazek": "Poděbrady 37, Z 1771–1784",
+  "popis": "Kniha zemřelých fary Poděbrady, latinsky; únor 1782 = s. 83 (snímek 86).",
+  "url": "https://ebadatelna.soapraha.cz/d/11867"
+ },
+ "uhljanovice_04": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna SOA Praha",
+  "svazek": "Uhlířské Janovice 04, N 1784–1799, Z 1784–1822 (farní kniha IV)",
+  "popis": "Kniha narozených a zemřelých fary Uhlířské Janovice (Malejovice, Mitrov aj.), česky/německy, tabulková. Mitrov N 1795 = s. 220 (snímek 114), 1799 = s. 224 (snímek 116); Z 1817 = s. 356 (snímek 178). Výřezy pořídila druhá AI (Jan, 19. 11. 2026).",
+  "url": "https://ebadatelna.soapraha.cz/d/13044"
+ },
+ "uhljanovice_18": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna SOA Praha",
+  "svazek": "Uhlířské Janovice 18, Z 1822–1851",
+  "popis": "Kniha zemřelých fary Uhlířské Janovice, po vesnicích; Mitrov od snímku 30 (1829 = snímek 32, 1839 = snímek 33). Výřezy pořídila druhá AI (Jan, 19. 11. 2026).",
+  "url": "https://ebadatelna.soapraha.cz/d/13243"
  }
 }

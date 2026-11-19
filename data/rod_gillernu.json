@@ -62,9 +62,19 @@
       "zdroj": "Vyšín 1978; Rakouský státní archiv (RAA 143.34)"
     },
     {
-      "rok": "kolem 1784",
-      "text": "Maximilián svobodný pán z Gillernů je nadlesním na komorním panství Poděbrady; jeho dcera Eleonora Mariana se vdává za forstmistra Jana Baptistu Clannera z Engelshofenu.",
-      "zdroj": "M. Hanuš, Rod Clannerů z Engelshofenu (1998)"
+      "rok": "1782",
+      "text": "V Poděbradech umírá urozená paní Johanna z Gillernů (59 let), manželka Maximiliána, „vrchního představeného myslivců“ poděbradského komorního panství.",
+      "zdroj": "matrika Poděbrady 37, s. 83"
+    },
+    {
+      "rok": "1784",
+      "text": "V Poděbradech se narodil Maximilián Clanner, vnuk svobodného pána Maximiliána z Gillernů, nadlesního v Poděbradech; kmotrem byl (v zastoupení) Ignác z Gillernů „ve Slezsku“.",
+      "zdroj": "matrika Poděbrady 15, pag. 74; M. Hanuš 1998"
+    },
+    {
+      "rok": "1787",
+      "text": "V Poděbradech se rodí Anna Rozálie, dcera myslivce Josefa Gillera – další Giller mezi poděbradskými lesníky.",
+      "zdroj": "matrika Poděbrady 18, fol. 26"
     },
     {
       "rok": "1793",
@@ -73,8 +83,8 @@
     },
     {
       "rok": "1817",
-      "text": "V Malejovicích u Uhlířských Janovic umírá sedmdesátiletý „Franz von Gillern, penzionovaný adjunkt“ (24. 4.).",
-      "zdroj": "matrika Uhlířské Janovice 04 (výřez od druhé AI, přečten)"
+      "text": "V Malejovicích u Uhlířských Janovic umírá sedmdesátiletý „Franz von Gillern, penzionovaný adjunkt u myslivosti“ (24. 4.) – možný otec našeho Františka.",
+      "zdroj": "matrika Uhlířské Janovice 04, s. 356"
     },
     {
       "rok": "1821",
@@ -154,7 +164,7 @@
         "r": 1,
         "jmeno": "Maximilián svob. pán z G.",
         "roky": "2. pol. 18. stol.",
-        "pozn": "nadlesní v Poděbradech",
+        "pozn": "nadlesní Poděbrady, × Johanna †1782",
         "stav": "lit"
       },
       {
@@ -190,8 +200,8 @@
         "r": 3,
         "jmeno": "Franz von Gillern",
         "roky": "asi 1747–1817",
-        "pozn": "penz. adjunkt, † Malejovice",
-        "stav": "prob"
+        "pozn": "adjunkt u myslivosti, † Malejovice",
+        "stav": "doc"
       },
       {
         "id": "clanner",
@@ -368,9 +378,9 @@
     {
       "jmeno": "Franz von Gillern",
       "roky": "asi 1747 – 24. 4. 1817",
-      "text": "Penzionovaný adjunkt, zemřel v Malejovicích č. 1 (fara Uhlířské Janovice) na souchotiny, 70 let. Možný otec našeho Františka.",
-      "zdroj": "eBadatelna, Uhlířské Janovice 04, snímek 178 (přečteno z výřezu)",
-      "stav": "prob"
+      "text": "Penzionovaný adjunkt u myslivosti („bei der Jägerey“), zemřel v Malejovicích č. 1 (fara Uhlířské Janovice) na souchotiny, 70 let. Možný otec našeho Františka – křest Františka ani sňatek staršího Franze se zatím nenašly.",
+      "zdroj": "matrika Uhlířské Janovice 04, s. 356 (eBadatelna 13044/178)",
+      "stav": "doc"
     },
     {
       "jmeno": "Maximilián svobodný pán z Gillernů",
@@ -381,6 +391,20 @@
       "stav": "lit"
     },
     {
+      "jmeno": "Johanna z Gillernů",
+      "roky": "asi 1723 – 18. 2. 1782",
+      "text": "Manželka svobodného pána Maximiliána z Gillernů, „vrchního představeného myslivců“ v Poděbradech; pohřbena u sv. Kříže v Poděbradech.",
+      "zdroj": "matrika Poděbrady 37, s. 83 (eBadatelna 11867/86)",
+      "stav": "doc"
+    },
+    {
+      "jmeno": "Josef Giller",
+      "roky": "1787",
+      "text": "Myslivec v Poděbradech; s manželkou Annou měl dceru Annu Rozálii (* 1. 10. 1787).",
+      "zdroj": "matrika Poděbrady 18, fol. 26 (eBadatelna 11848/31)",
+      "stav": "doc"
+    },
+    {
       "jmeno": "Maximilián Clanner z Engelshofenu",
       "roky": "1784–1847",
       "text": "Lesník (Poděbrady, Křesetice/Malejovice, Čeperka, Běleček), vnuk Maximiliána svob. pána z Gillernů, svědek na svatbě našeho Františka 1821, dědeček dirigenta Eduarda Nápravníka. Ve Vídni je jeho spis o rytířském stavu (1813–1838).",
@@ -389,11 +413,11 @@
       "stav": "lit"
     },
     {
-      "jmeno": "Ignatius de Gillern",
+      "jmeno": "Ignác z Gillernů („Ignatius de Gillern“)",
       "roky": "1784",
-      "text": "Kmotr při křtu Maximiliána Clannera v Poděbradech.",
-      "zdroj": "podle druhé AI – zatím neověřeno (Poděbrady 15, snímek 10)",
-      "stav": "hyp"
+      "text": "„Ve Slezsku“ – kmotr Maximiliána Clannera v Poděbradech 1784, zastoupil ho řezník František Kratochvíl.",
+      "zdroj": "matrika Poděbrady 15, pag. 74 (eBadatelna 11845/10)",
+      "stav": "doc"
     },
     {
       "jmeno": "Joseph von Gillern",
@@ -434,7 +458,7 @@
     }
   ],
   "otazky": [
-    "Kde a kdy se narodil náš František (* asi 1788) a kdo byli jeho rodiče? Byl to syn „Franze von Gillern“, který zemřel 1817 v Malejovicích?",
+    "Kde a kdy se narodil náš František (* asi 1788) a kdo byli jeho rodiče? Byl to syn „Franze von Gillern“ († 1817 Malejovice), nebo poděbradského myslivce Josefa Gillera? (V Malejovicích 1785–1799, v rejstříku Uhlířských Janovic, v Křeseticích ani v Poděbradech do 1784 jeho křest není.)",
     "Jak byl „Franz von Gillern“ († 1817) příbuzný se svobodným pánem Maximiliánem z Gillernů, nadlesním v Poděbradech?",
     "Kde a kdy zemřel náš František (mezi 1828 a 1859) a jeho žena Anna Solnařová?",
     "Je JUDr. Karel Gillern (1888–1953) opravdu syn Čeňka z Gillernů?",

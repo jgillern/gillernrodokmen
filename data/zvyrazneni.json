@@ -1708,5 +1708,101 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1799_solnarova_anna": {
+  "boxes": [
+   [
+    0.005,
+    0.37,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1795_solnarova_anna": {
+  "boxes": [
+   [
+    0.005,
+    0.38,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1817_gillern_franz": {
+  "boxes": [
+   [
+    0.005,
+    0.53,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1784_clanner_maximilian": {
+  "boxes": [
+   [
+    0.005,
+    0.52,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1829_solnar_jan": {
+  "boxes": [
+   [
+    0.005,
+    0.48,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1839_solnarova_anna": {
+  "boxes": [
+   [
+    0.005,
+    0.66,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1782_gillern_johanna": {
+  "boxes": [
+   [
+    0.005,
+    0.48,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1787_giller_anna_rozalie": {
+  "boxes": [
+   [
+    0.005,
+    0.57,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

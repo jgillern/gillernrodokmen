@@ -42,6 +42,7 @@ Pomáháš s rodokmenem rodiny Gillernů. Pracuješ samostatně v online matrik�
 
 Postupuj v tomto pořadí. Když něco najdeš, pokračuj po nalezené stopě.
 
+0. **Nejdřív ověř, že František Josef (* 5. 6. 1785) nezemřel jako dítě.** Projdi úmrtí v Poděbradech 1785–1804 (kniha 11872, https://ebadatelna.soapraha.cz/d/11872) a hledej Giller / Güller / Gillern / Koch. Pokud by zemřel, celá hypotéza padá. Napiš to hned na začátek výstupu.
 1. **Poděbrady 07** (N + O + Z 1738–1756), https://ebadatelna.soapraha.cz/d/11837
    - Hledáš křest **Josefa** (* asi 1738) a dalších dětí Maximiliána a Johanny z Gillernů (de Giller), zejména **Eleonory** a **Franze** (* asi 1746–1748).
    - Dále jejich sňatek (asi 1735–1745) a úmrtí Gillerů.
@@ -51,7 +52,6 @@ Postupuj v tomto pořadí. Když něco najdeš, pokračuj po nalezené stopě.
    - sňatky: kniha 11857 (1756–1770) a 11860 (1771–1784). Hledáš sňatek Eleonory z Gillernů × Jan Clanner a další Gillery.
 3. **Poděbrady, úmrtí:**
    - kniha 11866 (1756–1771), 11867 (1771–1784, Johanna je na snímku 86), 11872 (1785–1804) a 11873 (1803–1837).
-   - **Nejdřív ověř, že František Josef (* 5. 6. 1785) nezemřel jako dítě.** Projdi úmrtí 1785–1800 (Giller / Güller / Gillern / Koch); pokud by zemřel, celá hypotéza padá.
    - Hledáš úmrtí **Maximiliána z Gillernů**, **Josefa de Giller (myslivce)** a **Anny Kochové**.
    - U Maximiliána zapiš i věk a případný původ.
 4. **Kam se rodina myslivce Josefa po roce 1787 přestěhovala.** V Poděbradech po roce 1787 další děti nemá. Hledej Josefa de Giller nebo Gillera a Annu (Kochovou) jako rodiče nebo kmotry 1788–1810, zvlášť v okolí Kutné Hory a Uhlířských Janovic (Malejovice, kde 1817 zemřel Franz von Gillern, Křesetice, Kácov, Zbraslavice, Sedlec) a na dalších komorních panstvích.

@@ -1804,5 +1804,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1785_giller_frantisek": {
+  "boxes": [
+   [
+    0.005,
+    0.6,
+    0.995,
+    0.93
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "o_1786_giller_kochova": {
+  "boxes": [
+   [
+    0.005,
+    0.6,
+    0.995,
+    0.87
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

@@ -72,6 +72,17 @@
       "zdroj": "matrika Poděbrady 15, pag. 74; M. Hanuš 1998"
     },
     {
+      "rok": "1785",
+      "text": "V Poděbradech se 5. 6. narodil František Josef, syn myslivce Josefa „de Güller“ a Anny Kochové – nejspíš náš František z Gillernů. Křestní list si nechal vydat 28. 4. 1816.",
+      "zdroj": "matrika Poděbrady 18, fol. 4",
+      "osoba": "franz-frantisek-z-gillernu-1785"
+    },
+    {
+      "rok": "1786",
+      "text": "Josef de Giller, syn „nejvyššího myslivce“ Maximiliána de Giller, se v Poděbradech žení s Annou Kochovou (12. 6.).",
+      "zdroj": "matrika Poděbrady 33, fol. 4"
+    },
+    {
       "rok": "1787",
       "text": "V Poděbradech se rodí Anna Rozálie, dcera myslivce Josefa Gillera – další Giller mezi poděbradskými lesníky.",
       "zdroj": "matrika Poděbrady 18, fol. 26"
@@ -88,9 +99,9 @@
     },
     {
       "rok": "1821",
-      "text": "Náš František z Gillernů, schwarzenberský myslivecký adjunkt, se žení v Mitrově s Annou Solnařovou; svědkem je lesník Maximilián Clanner – vnuk svobodného pána z Gillernů.",
+      "text": "Náš František z Gillernů, schwarzenberský myslivecký adjunkt, se žení v Mitrově s Annou Solnařovou; svědkem je lesník Maximilián Clanner – vnuk svobodného pána Maximiliána z Gillernů, a tedy nejspíš Františkův bratranec.",
       "zdroj": "matrika Uhlířské Janovice 15, fol. 153",
-      "osoba": "franz-frantisek-z-gillernu-1788"
+      "osoba": "franz-frantisek-z-gillernu-1785"
     },
     {
       "rok": "1854",
@@ -137,7 +148,7 @@
     "sloupce": [
       "Šlechtický rod (literatura)",
       "Příbuzní a souvislosti",
-      "Naše přímá linie (matriky)"
+      "Naše linie (matriky)"
     ],
     "uzly": [
       {
@@ -160,12 +171,13 @@
       },
       {
         "id": "maxmilian",
-        "s": 1,
+        "s": 2,
         "r": 1,
         "jmeno": "Maximilián svob. pán z G.",
         "roky": "2. pol. 18. stol.",
         "pozn": "nadlesní Poděbrady, × Johanna †1782",
-        "stav": "lit"
+        "stav": "doc",
+        "osoba": "maximilian-svobodny-pan-z-gillernu"
       },
       {
         "id": "kristian",
@@ -196,8 +208,8 @@
       },
       {
         "id": "franz_st",
-        "s": 2,
-        "r": 3,
+        "s": 1,
+        "r": 1,
         "jmeno": "Franz von Gillern",
         "roky": "asi 1747–1817",
         "pozn": "adjunkt u myslivosti, † Malejovice",
@@ -215,17 +227,17 @@
       {
         "id": "frantisek",
         "s": 2,
-        "r": 4,
+        "r": 3,
         "jmeno": "František z Gillernů",
-        "roky": "asi 1788 – ?",
+        "roky": "* 5. 6. 1785 (?) Poděbrady",
         "pozn": "× 1821 Anna Solnařová",
         "stav": "doc",
-        "osoba": "franz-frantisek-z-gillernu-1788"
+        "osoba": "franz-frantisek-z-gillernu-1785"
       },
       {
         "id": "vincenc",
         "s": 2,
-        "r": 5,
+        "r": 4,
         "jmeno": "Vincenc z Gillernů",
         "roky": "1822–1894",
         "pozn": "revírník na Orlíku",
@@ -235,7 +247,7 @@
       {
         "id": "cenek",
         "s": 1,
-        "r": 6,
+        "r": 5,
         "jmeno": "Čeněk z Gillernů",
         "roky": "1854–1942",
         "pozn": "„Edler von Gillern“, nadlesní",
@@ -244,7 +256,7 @@
       {
         "id": "augustin",
         "s": 2,
-        "r": 6,
+        "r": 5,
         "jmeno": "Augustin z Gillernů",
         "roky": "* 1859",
         "pozn": "lesní, nadlesní ve Vrábsku",
@@ -254,7 +266,7 @@
       {
         "id": "karel",
         "s": 1,
-        "r": 7,
+        "r": 6,
         "jmeno": "JUDr. Karel Gillern",
         "roky": "1888–1953",
         "pozn": "okresní hejtman (Wikipedie)",
@@ -263,7 +275,7 @@
       {
         "id": "jan1894",
         "s": 2,
-        "r": 7,
+        "r": 6,
         "jmeno": "Jan z Gillernů",
         "roky": "1894–1940",
         "pozn": "hospodářský úředník",
@@ -273,12 +285,22 @@
       {
         "id": "dnes",
         "s": 2,
-        "r": 8,
+        "r": 7,
         "jmeno": "… Augustin → Jiří → Jan",
         "roky": "1924 → 1990",
         "pozn": "dnešní Gillernové",
         "stav": "doc",
         "osoba": "jan-gillern-1990"
+      },
+      {
+        "id": "josef",
+        "s": 2,
+        "r": 2,
+        "jmeno": "Josef de Giller",
+        "roky": "asi 1738 – ?",
+        "pozn": "myslivec, × 1786 Anna Kochová",
+        "stav": "doc",
+        "osoba": "josef-z-gillernu-de-giller-1738"
       }
     ],
     "hrany": [
@@ -296,15 +318,27 @@
       },
       {
         "z": "karel_josef",
+        "do": "prusove",
+        "typ": "nejiste",
+        "popis": ""
+      },
+      {
+        "z": "karel_josef",
         "do": "maxmilian",
         "typ": "nejiste",
         "popis": "?"
       },
       {
-        "z": "karel_josef",
-        "do": "prusove",
+        "z": "maxmilian",
+        "do": "franz_st",
         "typ": "nejiste",
-        "popis": ""
+        "popis": "syn?"
+      },
+      {
+        "z": "maxmilian",
+        "do": "josef",
+        "typ": "doc",
+        "popis": "syn"
       },
       {
         "z": "maxmilian",
@@ -315,26 +349,20 @@
       {
         "z": "eleonora",
         "do": "clanner",
-        "typ": "lit",
+        "typ": "doc",
         "popis": "syn"
       },
       {
-        "z": "maxmilian",
-        "do": "franz_st",
-        "typ": "nejiste",
-        "popis": "?"
-      },
-      {
-        "z": "franz_st",
+        "z": "josef",
         "do": "frantisek",
         "typ": "hyp",
-        "popis": "otec?"
+        "popis": "syn? (* 1785)"
       },
       {
         "z": "clanner",
         "do": "frantisek",
         "typ": "svedek",
-        "popis": "svědek 1821"
+        "popis": "bratranec? svědek 1821"
       },
       {
         "z": "frantisek",
@@ -378,7 +406,7 @@
     {
       "jmeno": "Franz von Gillern",
       "roky": "asi 1747 – 24. 4. 1817",
-      "text": "Penzionovaný adjunkt u myslivosti („bei der Jägerey“), zemřel v Malejovicích č. 1 (fara Uhlířské Janovice) na souchotiny, 70 let. Možný otec našeho Františka – křest Františka ani sňatek staršího Franze se zatím nenašly.",
+      "text": "Penzionovaný adjunkt u myslivosti („bei der Jägerey“), zemřel v Malejovicích č. 1 na souchotiny, 70 let (* asi 1747). Nejspíš příbuzný – snad bratr Josefa, a tedy Františkův strýc; doklad chybí.",
       "zdroj": "matrika Uhlířské Janovice 04, s. 356 (eBadatelna 13044/178)",
       "stav": "doc"
     },
@@ -398,10 +426,10 @@
       "stav": "doc"
     },
     {
-      "jmeno": "Josef Giller",
-      "roky": "1787",
-      "text": "Myslivec v Poděbradech; s manželkou Annou měl dceru Annu Rozálii (* 1. 10. 1787).",
-      "zdroj": "matrika Poděbrady 18, fol. 26 (eBadatelna 11848/31)",
+      "jmeno": "Josef de Giller (z Gillernů)",
+      "roky": "asi 1738 – ?",
+      "text": "Myslivec v Poděbradech, syn „nejvyššího myslivce“ Maximiliána de Giller; × 12. 6. 1786 Anna Kochová; děti František Josef (* 5. 6. 1785 – nejspíš náš František) a Anna Rozálie (* 1. 10. 1787). Pravděpodobný otec našeho Františka.",
+      "zdroj": "matriky Poděbrady 18, fol. 4 a 26; Poděbrady 33, fol. 4",
       "stav": "doc"
     },
     {
@@ -458,8 +486,9 @@
     }
   ],
   "otazky": [
-    "Kde a kdy se narodil náš František (* asi 1788) a kdo byli jeho rodiče? Byl to syn „Franze von Gillern“ († 1817 Malejovice), nebo poděbradského myslivce Josefa Gillera? (V Malejovicích 1785–1799, v rejstříku Uhlířských Janovic, v Křeseticích ani v Poděbradech do 1784 jeho křest není.)",
-    "Jak byl „Franz von Gillern“ († 1817) příbuzný se svobodným pánem Maximiliánem z Gillernů, nadlesním v Poděbradech?",
+    "Je náš František (ženich z Mitrova 1821) opravdu František Josef * 5. 6. 1785 v Poděbradech, syn myslivce Josefa de Giller? Chybí zápis, který by to výslovně spojil (např. úmrtí s rodištěm). Věk při sňatku (33) by měl být 35.",
+    "Byl „Franz von Gillern“ († 1817 Malejovice, * asi 1747) synem Maximiliána a bratrem Josefa?",
+    "Kdo byla Maximiliánova manželka Johanna (* asi 1723, † 1782) a odkud pocházel sám Maximilián svobodný pán z Gillernů?",
     "Kde a kdy zemřel náš František (mezi 1828 a 1859) a jeho žena Anna Solnařová?",
     "Je JUDr. Karel Gillern (1888–1953) opravdu syn Čeňka z Gillernů?",
     "Jak se česká větev napojuje na Karla Josefa z Gillernů (rytíř „Edler von Gillern“ 1724/1726) – a tedy přes kolik kolen jsme příbuzní s moravskými a pruskými barony?"

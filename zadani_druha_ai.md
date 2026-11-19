@@ -10,41 +10,52 @@ Pomáháš s rodokmenem rodiny Gillernů. Pracuješ samostatně v online matrik�
 - V letech 1822–1828 žila rodina v Šebestěnicích č. 1, kde byl František vrchnostenským (hospodářským) adjunktem. Narodili se tam synové Vincenc (1822), Jan Křtitel (1825) a František (1827, † 4. 5. 1828). Po roce 1828 rodina z kraje odešla neznámo kam. Kdy a kde František a Anna zemřeli, nevíme. František zemřel nejspíš mezi lety 1828 a 1859.
 - Rodiče Anny: **Jan Solnař**, šenkýř a hospodský v Mitrově č. 3, a **Anna Růžková z Vlašimi** (asi 1773 – 2. 11. 1839 Mitrov č. 3).
 
-**Starší Gillernové v okolí (doloženo, ale vazba na Františka zatím chybí):**
-- **Franz von Gillern**, „pensionierter Adjunkt bei der Jägerey“, zemřel 24. 4. 1817 v Malejovicích č. 1 ve věku 70 let (* asi 1747). Kniha Uhlířské Janovice 04, s. 356. Je to možný otec Františka.
-- **Maximilián svobodný pán z Gillernů**, „Venatorum Supremi Praefectus“ (nadlesní) komorního panství Poděbrady. Jeho manželka **Johanna** zemřela 18. 2. 1782 v Poděbradech ve věku 59 let. Dcera **Eleonora (Mariana)** se vdala za Jana (Baptistu) Clannera z Engelshofenu, lesníka v Poděbradech.
-- Jejich syn **Maximilián Clanner** se narodil 8. 11. 1784 v Poděbradech č. 40. Kmotrem byl v zastoupení „Ignatius de Gillern in Silesia“. Je to týž Clanner, který byl roku 1821 svědkem na Františkově svatbě.
-- **Josef Giller**, myslivec (venator) v Poděbradech. Jeho dcera Anna Rozálie se narodila 1. 10. 1787 v Poděbradech č. 7 (matka Anna). Kniha Poděbrady 18, fol. 26.
+**Pravděpodobný původ Františka (nalezeno, ale bez přímého dokladu totožnosti):**
+- **František Josef**, narozen 5. 6. 1785 v Poděbradech č. 56 (Poděbrady 18, fol. 4, https://ebadatelna.soapraha.cz/d/11848/8).
+  - Matka: Anna, dcera † Jakuba Kocha. Otec byl dopsán dodatkem: „de Güller Joseph, venator“ (myslivec).
+  - Přípis: křestní list vydán 28. 4. 1816.
+- **Sňatek rodičů** 12. 6. 1786 v Poděbradech (Poděbrady 33, fol. 4, https://ebadatelna.soapraha.cz/d/11863/7):
+  - „D. Josephus de Giller, filius D. Maximiliani de Giller supremi Venatoris“, 48 let (* asi 1738), svobodný;
+  - nevěsta Anna, dcera † Jakuba Kocha, 26 let (?).
+- **Sestra** Anna Rozálie, narozena 1. 10. 1787 v Poděbradech č. 7.
+- **Maximilián svobodný pán z Gillernů (de Giller)**, „nejvyšší myslivec“ (nadlesní) c. k. komorního panství Poděbrady.
+  - Manželka **Johanna** zemřela 18. 2. 1782 v Poděbradech ve věku 59 let (* asi 1723).
+  - Dcera **Eleonora (Mariana)** se vdala za Jana Clannera z Engelshofenu, lesníka v Poděbradech. Jejich syn **Maximilián Clanner** (* 8. 11. 1784 Poděbrady, kmotrem byl v zastoupení „Ignatius de Gillern in Silesia“) byl roku 1821 svědkem na Františkově svatbě. S Františkem byli nejspíš bratranci.
+- **Franz von Gillern**, „pensionierter Adjunkt bei der Jägerey“, zemřel 24. 4. 1817 v Malejovicích č. 1 ve věku 70 let (* asi 1747). Snad Josefův bratr.
+- **Pozor, jiná osoba:** v Poděbradech žil současně **Josef Gillar / Giller / Killar, vysloužilý voják (invalida)**, s manželkami Rozálií a Ludmilou a dětmi Silvestrou (1786), Janem Ludvíkem (1788), Janem Josefem (1789) a Josefem Janem (1791). Nepleť si ho s myslivcem.
 
 ## 2. Co už bylo prohledáno bez výsledku (neopakovat)
 
 - **Fara Uhlířské Janovice** (Malejovice, Mitrov):
   - narození Malejovice 1785–1799;
   - sňatky Malejovice 1789–1800;
-  - jmenné rejstříky N (kniha 13249), O (13253) a Z (13254), vždy písmeno G;
+  - rejstříky N (kniha 13249), O (13253) a Z (13254), vždy písmeno G;
   - úmrtí Malejovice 1817–1851 a Mitrov 1822–1851.
 - **Křesetice** (fara Bykáň): rejstřík N 1785–1804 (G/J) a křty 1786–1789.
 - **Sedlec u Kutné Hory**: rejstřík zemřelých (G/J a S), roky 1828–1859.
-- **Poděbrady**: jen rejstřík narozených, písmeno G, do roku 1784 (kniha 11878). Bez Eleonory a Ignáce.
+- **Poděbrady:**
+  - rejstřík narozených, písmeno G, do roku 1784 (kniha 11878): bez Eleonory a Ignáce;
+  - **kniha 11848 (N 1785–1803)**: celé město a vsi 1785–1790 a celé písmeno G rejstříku jsou hotové.
 - **Fara Zbyšov** (Šebestěnice): zemřelí 1828–1860 bez dospělého Františka.
 
 ## 3. Úkol pro tuto relaci
 
 Postupuj v tomto pořadí. Když něco najdeš, pokračuj po nalezené stopě.
 
-1. **Poděbrady 18** (N 1785–1803 s jmenným rejstříkem), https://ebadatelna.soapraha.cz/d/11848
-   - Projdi rejstřík u písmene G.
-   - Pak projdi zápisy z let 1785–1790.
-   - Hledáš křest Františka (Franz) Gillera / Gillerna / z Gillernů (* asi 1787–1789) a všechny děti myslivce Josefa Gillera a Anny.
-2. **Poděbrady, starší narození:** kniha 11837 (1738–1754), 11841 (1754–1771) a 11843 (1771–1784).
-   - Hledáš narození Franze Gillera / z Gillernů (* asi 1746–1748), Josefa Gillera a Eleonory z Gillernů.
-   - Dále všechny děti Maximiliána a Johanny z Gillernů.
-3. **Poděbrady, sňatky:** kniha 11857 (1756–1770), 11860 (1771–1784) a 11863 (1785–1826 s rejstříkem).
-   - Hledáš sňatky Franze von Gillern, Josefa Gillera, Eleonory z Gillernů × Jan Clanner a dalších Gillerů.
-4. **Poděbrady, úmrtí:** kniha 11867 (1771–1784), 11872 (1785–1804) a 11873 (1803–1837).
-   - Hledáš úmrtí Maximiliána z Gillernů, Josefa Gillera a dalších Gillerů.
+1. **Poděbrady 07** (N + O + Z 1738–1756), https://ebadatelna.soapraha.cz/d/11837
+   - Hledáš křest **Josefa** (* asi 1738) a dalších dětí Maximiliána a Johanny z Gillernů (de Giller), zejména **Eleonory** a **Franze** (* asi 1746–1748).
+   - Dále jejich sňatek (asi 1735–1745) a úmrtí Gillerů.
+   - Pokud tam Maximilián ještě není, zjisti, kdy se v Poděbradech objevuje poprvé.
+2. **Poděbrady, další knihy:**
+   - narození: kniha 11841 (1754–1771) a 11843 (1771–1784);
+   - sňatky: kniha 11857 (1756–1770) a 11860 (1771–1784). Hledáš sňatek Eleonory z Gillernů × Jan Clanner a další Gillery.
+3. **Poděbrady, úmrtí:**
+   - kniha 11866 (1756–1771), 11867 (1771–1784, Johanna je na snímku 86), 11872 (1785–1804) a 11873 (1803–1837).
+   - Hledáš úmrtí **Maximiliána z Gillernů**, **Josefa de Giller (myslivce)** a **Anny Kochové**.
+   - U Maximiliána zapiš i věk a případný původ.
+4. **Doklad totožnosti:** cokoli, co výslovně spojuje Františka Josefa (* 1785 Poděbrady) s Františkem z Gillernů, schwarzenberským adjunktem (sňatek 1821 v Mitrově, synové 1822–1827 v Šebestěnicích). Například zápis, kde je uvedeno Františkovo rodiště nebo jméno jeho otce.
 
-Pokud se ukáže, kam se Gillernové z Poděbrad stěhovali, jdi za nimi do příslušné fary. Čísla knih zjistíš v eBadatelně přes hledání podle obce (Matriky → lokalita).
+Pokud se ukáže, odkud Maximilián pocházel nebo kam se Gillernové stěhovali, jdi za stopou do příslušné fary. Čísla knih zjistíš v eBadatelně přes hledání podle obce (Matriky → lokalita).
 
 ## 4. Jak má vypadat výstup
 
@@ -66,7 +77,7 @@ Jeden dokument (Word nebo PDF) obsahující:
 
 Repozitář `jgillern/gillernrodokmen`, **větev `claude/nice-dirac-8inizg`** (ne `main`). Dívej se **jen** do těchto souborů a složek. Obsahují údaje o lidech a zápisech:
 
-- `data/osoby.py` – seznam předků s daty a fakty. Osoby jsou číslované (1 = nejmladší, otec = 2×, matka = 2×+1). Gillernové jsou čísla 8, 16, 32 a 64; Anna Solnařová je 65. Na konci souboru jsou `HYPOTEZY` se staršími Gillerny.
+- `data/osoby.py` – seznam předků s daty a fakty. Osoby jsou číslované (1 = nejmladší, otec = 2×, matka = 2×+1). Gillernové jsou čísla 8, 16, 32, 64, 128 (Josef) a 256 (Maximilián); Anna Solnařová je 65. Na konci souboru jsou `HYPOTEZY` se staršími Gillerny.
 - `data/zaznamy.json` – všechny použité matriční zápisy: datum, shrnutí, odkaz.
 - `data/prepisy.json` – doslovné přepisy a překlady těchto zápisů.
 - `data/svazky.json` – matriční knihy s odkazy.

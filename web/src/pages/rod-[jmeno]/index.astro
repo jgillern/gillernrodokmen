@@ -200,6 +200,7 @@ const HVEZDA = (cx, cy, r) => {
             <p class="small muted">{v.obdobi}</p>
             <p class="small">{v.text}</p>
             {v.vazba && <p class="small rg-vazba"><strong>Vazba k nám:</strong> {v.vazba}</p>}
+            {profilHref(v.profil) && <p class="small"><a href={profilHref(v.profil)}>Starší rodopis větví →</a></p>}
           </div>
         ))}
       </div>

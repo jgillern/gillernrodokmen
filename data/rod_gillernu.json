@@ -45,7 +45,7 @@
     },
     {
       "rok": "1727–1732",
-      "text": "Karel Josef a Josef Kryštof z Gillernů – český stav svobodných pánů (podle Der Adel von Böhmen 4. 6. 1732).",
+      "text": "Karel Josef a jeho bratranec Jan Kryštof (Johann Christoph) z Gillernů – český stav svobodných pánů (podle Der Adel von Böhmen 4. 6. 1732).",
       "zdroj": "Der Adel von Böhmen 1859, s. 45; Vyšín 1978"
     },
     {
@@ -136,15 +136,17 @@
       "nazev": "Slezská a pruská větev",
       "obdobi": "17.–20. století",
       "barva": "#5b6e8f",
-      "text": "Gillernové ve slezském Steinau a Wohlau, od roku 1744 uznaní pruskými svobodnými pány. Patří sem generálmajor Ernst Heinrich z Gillernů (1730–1792), poslední fürstabatyše trebnického kláštera Dominika z Gillernů (1739–1810), operní pěvec Hugo z Gillernů (1829–1871) či generálporučík Arthur z Gillernů (1855–1916).",
-      "vazba": "S naší linií zatím žádná doložená vazba – nejspíš vzdálení příbuzní z doby před 1700."
+      "text": "Podle Sinapia (1728) se rod ve Slezsku dělil od dvou bratrů na dvě větve: větev Friedricha Wilhelma I. (k ní patří Karel Josef i Kristián Matyáš Antonín) a větev jeho mladšího bratra se statky ve Steinau a Volově (Carl Heinrich, Johann Christoph, Frantz Joseph). Pruské uznání stavu svobodných pánů 1744. Pruští baroni z Gillernů 19. století – generálmajor Ernst Heinrich (1730–1792), abatyše Dominika (1739–1810), pěvec Hugo (1829–1871), generálporučík Arthur (1855–1916) – podle Gothy 1884 aspoň zčásti pocházejí od Kristiána Matyáše Antonína.",
+      "vazba": "S naší linií zatím žádná doložená vazba – nejspíš vzdálení příbuzní z doby před 1700.",
+      "profil": "rodopis"
     },
     {
       "nazev": "Moravská větev (Koryčany)",
       "obdobi": "1724–1793",
       "barva": "#8f5b6e",
-      "text": "Karel Josef z Gillernů (1691–1759), lichtenštejnský a císařský dvorní rada, mírový vyjednavač za první slezské války, roku 1742 koupil panství Koryčany. Panství zdědil Kristián Matyáš Antonín z Gillernů a roku 1793 ho odkázal dceři.",
-      "vazba": "Nejpravděpodobnější kmen, ze kterého vzešla i česká větev – rytířský přídomek „Edler von Gillern“ z roku 1724/1726 nese i naše linie."
+      "text": "Karel Josef z Gillernů (1691–1759), lichtenštejnský a císařský dvorní rada, roku 1742 koupil panství Koryčany za 164 000 zlatých. Roku 1759 je odkázal manželce Marii Josefě roz. von Tallern, s náhradním dědicem – bratrancem Kristiánem Matyášem Antonínem (* 1723 Lodi). Ten je závětí z roku 1791 odkázal dceři Marii Josefě, provdané Münch-Bellinghausen.",
+      "vazba": "Nejpravděpodobnější kmen, ze kterého vzešla i česká větev – rytířský přídomek „Edler von Gillern“ z roku 1724/1726 nese i naše linie.",
+      "profil": "rodopis"
     },
     {
       "nazev": "Česká větev – lesníci a úředníci",
@@ -546,7 +548,8 @@
     "Kdo byla Maximiliánova manželka Johanna (* asi 1723, † 1782) a odkud pocházel sám Maximilián svobodný pán z Gillernů?",
     "Kde a kdy zemřel náš František (mezi 1828 a 1859) a jeho žena Anna Solnařová?",
     "Je JUDr. Karel Gillern (1888–1953) opravdu syn Čeňka z Gillernů?",
-    "Jak se česká větev napojuje na Karla Josefa z Gillernů (rytíř „Edler von Gillern“ 1724/1726) – a tedy přes kolik kolen jsme příbuzní s moravskými a pruskými barony?"
+    "Jak se česká větev napojuje na Karla Josefa z Gillernů (rytíř „Edler von Gillern“ 1724/1726) – a tedy přes kolik kolen jsme příbuzní s moravskými a pruskými barony?",
+    "Ke které větvi starého rodopisu (Sinapius 1728) patří Maximilián – je to syn některého ze synů Friedricha Wilhelma I. (Franz Leopold, Friedrich Wilhelm II., Johann Peter, Carl Ludwig, Karel Josef), nebo z mladší větve (Carl Heinrich, Johann Christoph, Frantz Joseph)?"
   ],
   "zdroje": [
     {
@@ -572,6 +575,22 @@
     {
       "nazev": "Rakouský státní archiv – Claner, Maximilian, rytířský stav 1813–1838",
       "odkaz": "https://www.archivinformationssystem.at/detail.aspx?ID=5431276"
+    },
+    {
+      "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+      "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+    },
+    {
+      "nazev": "Gotha – Freiherrliche Häuser 1884, s. 275–277",
+      "odkaz": "https://sbc.org.pl/Content/859298/i635235-1884-00-0001.pdf#page=302"
+    },
+    {
+      "nazev": "Kneschke, Adels-Lexicon III (1861)",
+      "odkaz": "https://archive.org/details/bub_gb_usgEAAAAIAAJ/page/n530/mode/1up"
+    },
+    {
+      "nazev": "Der mährische Adel (1899)",
+      "odkaz": "https://gdz.sub.uni-goettingen.de/id/PPN828641994?tify=%7B%22pages%22%3A%5B49%5D%7D"
     }
   ],
   "profily": {
@@ -775,9 +794,13 @@
         "lichtenštejnský a císařský dvorní rada; rakouský mírový vyjednavač za první slezské války; podílel se na tereziánských reformách v Čechách",
         "rytířský stav „Edler Herr von Gillern“ – za služby předků ve švédských válkách a uherských nepokojích (zdroje uvádějí 4. 4. 1724 i 5. 3. 1726)",
         "dvorní rada a císařský rada 17. 3. 1726",
-        "svobodný pán – 21. 4. 1727 (Vyšín), český stav svobodných pánů 4. 6. 1732 spolu s Josefem Kryštofem z Gillernů (Der Adel von Böhmen)",
+        "svobodný pán – 21. 4. 1727 (Vyšín), český stav svobodných pánů 4. 6. 1732 spolu s bratrancem („Vetter“) Janem Kryštofem (Johann Christoph) z Gillernů, zemským deputovaným v Hlohově (Kneschke 1861, Der mährische Adel 1899; Der Adel von Böhmen 1859 má „Josef Christof“)",
         "1742 koupil panství Koryčany na Moravě",
-        "svědek („gebetener Zeug“) na zakládací listině studijní nadace – vedle Ignáce svobodného pána von Koch (Studijní nadání v Království českém, 1895)"
+        "svědek („gebetener Zeug“) na zakládací listině studijní nadace – vedle Ignáce svobodného pána von Koch (Studijní nadání v Království českém, 1895)",
+        "podle Sinapia (1728) syn Friedricha Wilhelma I. von Giller (císařského rady a vrchního účetního knížectví Lehnice, Břeh a Volov); novodobý životopis uvádí za otce Franze Leopolda – rozpor nerozhodnut",
+        "1728 sekretář knížete z Lichtenštejna v Opavě a Krnově (Sinapius)",
+        "29. 12. 1742 koupil Koryčany od Antona Emericha Horeckého z Horky za 164 000 zl. rýnských, tehdy „k. k. Hofkammer-Bankalrath“ (d'Elvert 1874)",
+        "manželka Maria Josepha roz. von Tallern; 1759 jí Koryčany odkázal, jako náhradního dědice určil bratrance („Vetter“) Kristiána Matyáše (Der mährische Adel 1899, s. 37)"
       ],
       "vztahy": [],
       "zdroje": [
@@ -790,24 +813,47 @@
         {
           "nazev": "de.wikipedia.org – Karl Joseph von Gillern",
           "odkaz": "https://de.wikipedia.org/wiki/Karl_Joseph_von_Gillern"
+        },
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        },
+        {
+          "nazev": "Kneschke, Adels-Lexicon III (1861), s. 523–524",
+          "odkaz": "https://archive.org/details/bub_gb_usgEAAAAIAAJ/page/n530/mode/1up"
+        },
+        {
+          "nazev": "Der mährische Adel (1899), s. 37, 87, 210",
+          "odkaz": "https://gdz.sub.uni-goettingen.de/id/PPN828641994?tify=%7B%22pages%22%3A%5B49%5D%7D"
+        },
+        {
+          "nazev": "d'Elvert, Notizen-Blatt 1874, č. 9, s. [65]",
+          "odkaz": "https://sbc.org.pl/Content/11743/PDF/11743.pdf#page=67"
         }
       ]
     },
     "kristian": {
       "jmeno": "Kristián Matyáš Antonín z Gillernů",
-      "roky": "18. století",
+      "roky": "1723 – po 1791",
       "stav": "lit",
-      "vazba": "moravská větev (Koryčany); vztah k nám neznámý",
+      "vazba": "moravská (koryčanská) větev; podle Gothy 1884 předek pruských baronů z Gillernů; vztah k našemu Maximiliánovi neznámý",
       "fakta": [
-        "c. k. podplukovník",
-        "rytířský stav „von Gillern“ a český inkolát 27. a 29. 3. 1764",
+        "* 16. 5. 1723 Lodi v Lombardii, syn Friedricha Wilhelma II. von Giller (* 4. 4. 1688 Dvorce na Moravě, † 1751 Lucemburk, císařský podplukovník) a Anny Marie (Gotha 1884)",
+        "c. k. podplukovník pluku O'Kelly (?); ze služby odešel 16. 5. 1763",
+        "rytířský stav „von Gillern“ 27. 3. 1763 (Gotha) / 1764 (Rakouský státní archiv), český inkolát 29. 3. 1764",
         "rakouský stav svobodných pánů 21. 6. 1766",
-        "1793 odkázal panství Koryčany dceři Marii Josefě, provdané Münch-Bellinghausen"
+        "náhradní dědic Koryčan po bratranci Karlu Josefovi (1759); závětí z 31. 10. 1791 odkázal Koryčany dceři Marii Josefě, provdané za Konstantina svobodného pána Münch von Bellinghausen (1793)",
+        "pradědeček Oswalda svobodného pána z Gillernů (* 1828, Dobberphul u Štětína) – tedy předek pruských baronů (Gotha 1884)"
       ],
       "vztahy": [],
       "zdroje": [
         {
-          "nazev": "Dopis Karla Vyšína (1978)"
+          "nazev": "Gothaisches genealogisches Taschenbuch der freiherrlichen Häuser 1884, s. 275–277",
+          "odkaz": "https://sbc.org.pl/Content/859298/i635235-1884-00-0001.pdf#page=302"
+        },
+        {
+          "nazev": "Der mährische Adel (1899), s. 37, 87, 210",
+          "odkaz": "https://gdz.sub.uni-goettingen.de/id/PPN828641994?tify=%7B%22pages%22%3A%5B49%5D%7D"
         },
         {
           "nazev": "Rakouský státní archiv, AVA Adel RAA 143.34",
@@ -841,6 +887,7 @@
       "stav": "lit",
       "vazba": "slezsko-pruská větev; s námi zatím bez doložené vazby",
       "fakta": [
+        "podle Gothy 1884 (katolická rodina v Prusku) vede linie od Heinricha Christofa Gillera (17. stol., Deschna) přes Johanna Christofa × Susanne Bartsch von Sternegg, Friedricha Wilhelma I. a II. ke Kristiánu Matyáši Antonovi (* 1723) a – přes dvě nepojmenované generace – k Oswaldovi (* 17. 9. 1828, Dobberphul u Štětína) a jeho synovi Arthurovi (* 4. 4. 1855)",
         "1744 pruské uznání stavu svobodných pánů listem Fridricha II., potvrzeno 1855",
         "Ernst Heinrich z Gillernů (1730–1792), pruský generálmajor, rytíř Pour le Mérite",
         "Dominika z Gillernů (1739–1810), poslední kněžna-abatyše kláštera v Trzebnici",
@@ -858,6 +905,57 @@
         },
         {
           "nazev": "Genealogisches Taschenbuch der adeligen Häuser 1884, 1889, 1892"
+        }
+      ]
+    },
+    "rodopis": {
+      "jmeno": "Starší rodopis Gillerů (Sinapius 1728, Gotha 1884)",
+      "roky": "17.–18. století",
+      "stav": "lit",
+      "vazba": "rodové kmeny, ze kterých může pocházet náš Maximilián (* asi 1700–1720) – jeho otec zatím neznámý",
+      "fakta": [
+        "Heinrich Christof Giller, císařský podplukovník, v 17. století usazen ve vsi Deschna; 1. manželka roz. von Tschammer",
+        "syn Johann Christof Giller, císařský rytmistr pluku Gallas, × Susanne Bartsch von Sternegg",
+        "jejich synové Christof Heinrich (vrchní výběrčí daní ve Vratislavi) a Friedrich Wilhelm I. – spolu český šlechtický stav, Vídeň 20. 8. 1700",
+        "1. větev – Friedrich Wilhelm I. (císařský rada, vrchní účetní knížectví Lehnice, Břeh a Volov, správce v Karlsburgu); synové: Franz Leopold (zemský písař Minstrberk/Frankenstein), Friedrich Wilhelm II. (* 1688 Dvorce na Moravě, † 1751, podplukovník; otec Kristiána Matyáše Antonína * 1723), Johann Peter (praporčík), Carl Ludwig (dobrovolník), Carl Joseph (lichtenštejnský sekretář v Opavě a Krnově – pozdější Karel Josef svobodný pán z Gillernů)",
+        "2. větev – mladší bratr „N.“ (jméno neuvedeno); synové: Carl Heinrich (na Hammeru, zemský starší ve Steinau), Johann Christoph (na Schwebedowa, hejtman v Preichau; 1732 svobodný pán spolu s bratrancem Karlem Josefem), Frantz Joseph (na Ober-Kreulau, hejtman v Preichau)",
+        "slezské statky rodu podle Ledebura: Hammer, Ober-Krehlau, Preichau, Priedemost, Rettkau (1723), Sibischau (1781), Peiskern (1788), Polnisch-Gandau (1790), Schützendorf (1793), Kulmickau (1804) – mohou vymezit, kde hledat Ignáce „ve Slezsku“ (1784)",
+        "Maximilián, Josef, Eleonora ani Ignác v žádném z rodopisů nejsou; Maximilián se tedy zatím nedá přiřadit k žádné větvi"
+      ],
+      "vztahy": [
+        {
+          "vztah": "z 1. větve",
+          "profil": "karel_josef"
+        },
+        {
+          "vztah": "z 1. větve",
+          "profil": "kristian"
+        },
+        {
+          "vztah": "potomci Kristiána",
+          "profil": "prusove"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        },
+        {
+          "nazev": "Gotha – Freiherrliche Häuser 1884, s. 275–277",
+          "odkaz": "https://sbc.org.pl/Content/859298/i635235-1884-00-0001.pdf#page=302"
+        },
+        {
+          "nazev": "Ledebur, Adelslexicon der preußischen Monarchie I (1855), s. 259–260",
+          "odkaz": "https://archive.org/details/10428286bsb/page/n274/mode/1up"
+        },
+        {
+          "nazev": "Zedler, Universal-Lexikon X, sl. 1478",
+          "odkaz": "https://www.zedler-lexikon.de/index.html?c=blaettern&bandnummer=10&seitenzahl=756&l=de"
+        },
+        {
+          "nazev": "Hefner, Der Adel des Königreichs Preußen (1857), Freiherren s. 44",
+          "odkaz": "https://www.digitale-sammlungen.de/de/view/bsb10362302?page=56"
         }
       ]
     }

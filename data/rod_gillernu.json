@@ -122,8 +122,8 @@
     },
     {
       "rok": "1840",
-      "text": "2. srpna umírá v Kostelci nad Vltavou ve věku 50 let František z Gillernů – knížecí schwarzenberský … v Kostelci č. 1 na panství Orlík. V Kostelci mu předtím zemřeli i dva malí synové, Augustin (1836) a Karel (1838).",
-      "zdroj": "rejstřík zemřelých fary Kostelec nad Vltavou (vlastní zápis zatím neověřen); křty vnuků 1859 a 1862",
+      "text": "2. srpna umírá v Kostelci nad Vltavou č. 30 ve věku 50 let František z Gillernů, knížecí schwarzenberský revírník. Dva roky před ním tu na vodnatelnost zemřela jeho žena Anna (28. 7. 1838, 40 let) a předtím dva malí synové, Augustin (1836) a Karel (1838). Sedmnáctiletý Vincenc zůstal sirotkem.",
+      "zdroj": "matrika zemřelých Kostelec nad Vltavou, kniha II, s. 22, 26, 28",
       "osoba": "franz-frantisek-z-gillernu-1785"
     },
     {
@@ -133,7 +133,7 @@
     },
     {
       "rok": "1860",
-      "text": "Úřední list Pražských novin otiskuje, že soud v Uhlířských Janovicích ustanovil opatrovníka „neznámým dědicům Franze Gillera ze Spolí“ – kvůli pohledávkám na domech č. 1 a 3 v Mitrově (dům Solnařových). František přitom zemřel už 1840 v Kostelci – soud jeho dědice zjevně nedohledal.",
+      "text": "Úřední list Pražských novin otiskuje, že soud v Uhlířských Janovicích ustanovil opatrovníka „neznámým dědicům Franze Gillera ze Spolí“ – kvůli pohledávkám na domech č. 1 a 3 v Mitrově (dům Solnařových). František přitom zemřel už roku 1840 v sousedním Kostelci.",
       "zdroj": "Amtsblatt zur Prager Zeitung 16. 10. 1860, s. [2]",
       "osoba": "franz-frantisek-z-gillernu-1785"
     },
@@ -267,8 +267,8 @@
         "s": 2,
         "r": 3,
         "jmeno": "František z Gillernů",
-        "roky": "* 5. 6. 1785 (?) Poděbrady",
-        "pozn": "× 1821 Anna Solnařová",
+        "roky": "1785 (?) – 1840",
+        "pozn": "revírník Kostelec, × 1821 Anna Solnařová",
         "stav": "doc",
         "osoba": "franz-frantisek-z-gillernu-1785"
       },
@@ -581,7 +581,7 @@
     }
   ],
   "otazky": [
-    "Co uvádí úmrtní zápis Františka (Kostelec nad Vltavou, 2. 8. 1840, kniha Z II, s. 28) – povolání, věk a rodiště? Rozhodne o totožnosti s Františkem Josefem * 1785 Poděbrady (věk 50 v rejstříku by ukazoval spíš na rok 1790).",
+    "Je František z Gillernů († 1840 Kostelec, 50 let → * asi 1790) totožný s Františkem Josefem * 1785 v Poděbradech? Úmrtní zápis rodiště neuvádí; rozhodnout by mohl jiný doklad (např. služební spis Schwarzenberků) – nebo nalezení jiného Františka Gillera narozeného kolem roku 1790.",
     "Odkud přišel Maximilián svobodný pán z Gillernů do Poděbrad (mezi 1750 a 1771) a kde se kolem roku 1737 narodil jeho syn Josef? Kdo byla Josefova matka – Maximiliánova první manželka?",
     "Kam se Maximilián, Josef a Anna Kochová po roce 1787 odstěhovali?",
     "Je náš František (ženich z Mitrova 1821) opravdu František Josef * 5. 6. 1785 v Poděbradech, syn myslivce Josefa de Giller? Chybí zápis, který by to výslovně spojil (např. úmrtí s rodištěm). Věk při sňatku (33) by měl být 35.",

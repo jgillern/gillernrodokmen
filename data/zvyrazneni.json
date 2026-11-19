@@ -1852,5 +1852,53 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "z_1836_gillern_augustin": {
+  "boxes": [
+   [
+    0.06,
+    0.21,
+    0.97,
+    0.31
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1838_gillern_karel": {
+  "boxes": [
+   [
+    0.06,
+    0.32,
+    0.97,
+    0.43
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1838_gillern_anna": {
+  "boxes": [
+   [
+    0.06,
+    0.48,
+    0.97,
+    0.6
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1840_gillern_frantisek": {
+  "boxes": [
+   [
+    0.06,
+    0.76,
+    0.97,
+    0.86
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

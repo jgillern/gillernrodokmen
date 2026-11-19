@@ -126,6 +126,12 @@
       "zdroj": "matrika Veselíčko"
     },
     {
+      "rok": "1860",
+      "text": "Úřední list Pražských novin otiskuje, že soud v Uhlířských Janovicích ustanovil opatrovníka „neznámým dědicům Franze Gillera ze Spolí“ – kvůli pohledávkám na domech č. 1 a 3 v Mitrově (dům Solnařových). Náš František tedy nejspíš dožil u syna Vincence, revírníka ve Spolí u Orlíka, a zemřel před rokem 1859.",
+      "zdroj": "Amtsblatt zur Prager Zeitung 16. 10. 1860, s. [2]",
+      "osoba": "franz-frantisek-z-gillernu-1785"
+    },
+    {
       "rok": "1918–1919",
       "text": "Zrušení šlechtických titulů: z „Giller von Gillern“ se stává „Gillern“, v Rakousku z „Freiherr von Gillern“ prostě „Gillern“.",
       "zdroj": "Wikipedie"
@@ -538,9 +544,31 @@
       "text": "Zemřel v Poděbradech.",
       "zdroj": "Poděbrady 11867/49 (podle zprávy ChatGPT)",
       "stav": "hyp"
+    },
+    {
+      "jmeno": "Johann von Giller, kadet",
+      "roky": "1833–1840",
+      "text": "Kadet pěšího pluku č. 47 (1833–1839), 1840 „Joh. Giller“ u pluku č. 43 – totožnost nejistá.",
+      "zdroj": "Militär-Schematismus 1833–1840 (Česká digitální knihovna, podle zprávy ChatGPT)",
+      "stav": "lit"
+    },
+    {
+      "jmeno": "Georg Giller, hejtman",
+      "roky": "1805–1814",
+      "text": "Hejtman pěšího pluku č. 42.",
+      "zdroj": "armádní šematismy 1805–1814",
+      "stav": "lit"
+    },
+    {
+      "jmeno": "Josef a Jan Jakub Gillerové, Jindřichův Hradec",
+      "roky": "1767–1777",
+      "text": "Josef Giller, představený koželužského cechu (1777); Jan Jakub Giller, francouzský parukář († 9/1767). Souvislost s naším rodem nedoložena.",
+      "zdroj": "Dějiny města Jindřichova Hradce (1929)",
+      "stav": "lit"
     }
   ],
   "otazky": [
+    "Kdy přesně zemřel náš František ve Spolí (fara Oslov) – a uvádí jeho úmrtní zápis věk a rodiště (Poděbrady?)? To by rozhodlo o jeho totožnosti s Františkem Josefem * 1785.",
     "Odkud přišel Maximilián svobodný pán z Gillernů do Poděbrad (mezi 1750 a 1771) a kde se kolem roku 1737 narodil jeho syn Josef? Kdo byla Josefova matka – Maximiliánova první manželka?",
     "Kam se Maximilián, Josef a Anna Kochová po roce 1787 odstěhovali?",
     "Je náš František (ženich z Mitrova 1821) opravdu František Josef * 5. 6. 1785 v Poděbradech, syn myslivce Josefa de Giller? Chybí zápis, který by to výslovně spojil (např. úmrtí s rodištěm). Věk při sňatku (33) by měl být 35.",

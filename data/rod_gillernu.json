@@ -4,7 +4,7 @@
   "lead": "Všechno, co víme o celém rodu z Gillernů – nejen o naší přímé linii. Šlechtický rod, jeho větve na Moravě, ve Slezsku, v Prusku a ve Vídni, lesníci kolem Poděbrad a Kutné Hory a stopy, které nás k nim možná vedou. Stránka roste s každým nálezem.",
   "uvod": [
     "Gillernové jsou starý rod, který se podle německé Wikipedie odvozuje od měšťanů Gillerů z Laufenburgu a Waldshutu v jihozápadním Německu (14.–16. století). Roku 1568 dostal Matouš Giller český erbovní list s přídomkem „von Lilienfeld“, v 17. a 18. století přišla další povýšení – už jako „von Gillern“ – až po stav svobodných pánů (baronů). Rod se rozvětvil do Slezska a Pruska, na Moravu (panství Koryčany), do Čech a do Vídně.",
-    "Naše přímá linie je v matrikách doložená od Františka z Gillernů, schwarzenberského lesního adjunkta, který se roku 1821 ženil v Mitrově. Nejspíš je to František Josef narozený roku 1785 v Poděbradech, syn myslivce Josefa de Giller a vnuk svobodného pána Maximiliána z Gillernů, nadlesního poděbradského komorního panství – tím by se naše linie napojila na šlechtický rod. Chybí už jen přímý doklad totožnosti. A v Čechách se šlechtická větev psala „Giller (Edler) von Gillern“ – přesně tak, „Edler von Gillern“, je zapsán i Františkův vnuk Čeněk (1854)."
+    "Naše přímá linie je v matrikách doložená až k Maximiliánovi svobodnému pánu z Gillernů, „nejvyššímu myslivci“ (nadlesnímu) c. k. komorního panství Poděbrady. Jeho syn Josef byl myslivcem a revírníkem, vnuk František (1785–1840) schwarzenberským revírníkem v Kostelci nad Vltavou a odtud vede linie přes lesníky na Orlíku až k dnešním Gillernům. Neznáme už jen jedno: odkud do Poděbrad přišel sám Maximilián a jak navazuje na Karla Josefa z Gillernů a další větve šlechtického rodu. A v Čechách se šlechtická větev psala „Giller (Edler) von Gillern“ – přesně tak, „Edler von Gillern“, je zapsán i Františkův vnuk Čeněk (1854)."
   ],
   "erb": {
     "obrazek": "/erb/gillern-600.webp",
@@ -85,7 +85,7 @@
     },
     {
       "rok": "1785",
-      "text": "V Poděbradech se 5. 6. narodil František Josef, syn myslivce Josefa „de Güller“ a Anny Kochové – nejspíš náš František z Gillernů. Křestní list si nechal vydat 28. 4. 1816.",
+      "text": "V Poděbradech se 5. 6. narodil František Josef, syn myslivce Josefa „de Güller“ a Anny Kochové – náš František z Gillernů (doloženo křtem jeho syna Karla 1838). Křestní list si nechal vydat 28. 4. 1816.",
       "zdroj": "matrika Poděbrady 18, fol. 4",
       "osoba": "franz-frantisek-z-gillernu-1785"
     },
@@ -116,8 +116,14 @@
     },
     {
       "rok": "1821",
-      "text": "Náš František z Gillernů, schwarzenberský myslivecký adjunkt, se žení v Mitrově s Annou Solnařovou; svědkem je lesník Maximilián Clanner – vnuk svobodného pána Maximiliána z Gillernů, a tedy nejspíš Františkův bratranec.",
+      "text": "Náš František z Gillernů, schwarzenberský myslivecký adjunkt, se žení v Mitrově s Annou Solnařovou; svědkem je lesník Maximilián Clanner – vnuk svobodného pána Maximiliána z Gillernů, a tedy Františkův bratranec.",
       "zdroj": "matrika Uhlířské Janovice 15, fol. 153",
+      "osoba": "franz-frantisek-z-gillernu-1785"
+    },
+    {
+      "rok": "1838",
+      "text": "V křtu syna Karla v Kostelci zapisuje farář u Františka z Gillernů i jeho rodiče: „syn po zesnulém Josefovi, revírníkovi … a matky Anny rozené Kochovy z Poděbrad“. Tím je doloženo, že náš František je František Josef narozený 1785 v Poděbradech – a vnuk svobodného pána Maximiliána z Gillernů.",
+      "zdroj": "matrika narozených Kostelec nad Vltavou II, s. 106",
       "osoba": "franz-frantisek-z-gillernu-1785"
     },
     {
@@ -165,7 +171,7 @@
       "obdobi": "18.–20. století",
       "barva": "#5b8f6e",
       "text": "Svobodný pán Maximilián z Gillernů, nadlesní v Poděbradech; „Franz von Gillern“, penzionovaný adjunkt († 1817 Malejovice); náš František, schwarzenberský adjunkt (1821), a po něm tři generace schwarzenberských revírníků a nadlesních na Orlíku. Podle Wikipedie se tato větev do roku 1918 psala „Giller von Gillern“ nebo „Giller Edler von Gillern“; patří k ní i JUDr. Karel Gillern (1888–1953), okresní hejtman v Mělníku a ve Strakonicích.",
-      "vazba": "Naše větev. Napojení přes Josefa de Giller (* asi 1738) a Maximiliána z Gillernů je velmi pravděpodobné; chybí přímý doklad, že ženich z roku 1821 je František Josef * 1785 Poděbrady. Jak se Maximilián napojuje na Karla Josefa z Gillernů, zatím nevíme."
+      "vazba": "Naše větev – doložená matrikami od Maximiliána (nadlesní v Poděbradech) přes Josefa (revírník) a Františka (1785–1840) až dodnes. Jak se Maximilián napojuje na Karla Josefa z Gillernů a starší rodopis, zatím nevíme."
     },
     {
       "nazev": "Vídeňská větev",
@@ -267,7 +273,7 @@
         "s": 2,
         "r": 3,
         "jmeno": "František z Gillernů",
-        "roky": "1785 (?) – 1840",
+        "roky": "1785–1840",
         "pozn": "revírník Kostelec, × 1821 Anna Solnařová",
         "stav": "doc",
         "osoba": "franz-frantisek-z-gillernu-1785"
@@ -395,14 +401,14 @@
       {
         "z": "josef",
         "do": "frantisek",
-        "typ": "hyp",
-        "popis": "syn? (* 1785)"
+        "typ": "doc",
+        "popis": "syn"
       },
       {
         "z": "clanner",
         "do": "frantisek",
         "typ": "svedek",
-        "popis": "bratranec? svědek 1821"
+        "popis": "bratranec, svědek 1821"
       },
       {
         "z": "frantisek",
@@ -581,10 +587,9 @@
     }
   ],
   "otazky": [
-    "Je František z Gillernů († 1840 Kostelec, 50 let → * asi 1790) totožný s Františkem Josefem * 1785 v Poděbradech? Úmrtní zápis rodiště neuvádí; rozhodnout by mohl jiný doklad (např. služební spis Schwarzenberků) – nebo nalezení jiného Františka Gillera narozeného kolem roku 1790.",
+    "Kde sloužil revírník Josef de Giller po roce 1787 a kde zemřel (před 1838)? V křtu vnuka Karla je místo zapsáno, ale zatím nečitelně („z … panství …“, snad Kolínsko).",
     "Odkud přišel Maximilián svobodný pán z Gillernů do Poděbrad (mezi 1750 a 1771) a kde se kolem roku 1737 narodil jeho syn Josef? Kdo byla Josefova matka – Maximiliánova první manželka?",
     "Kam se Maximilián, Josef a Anna Kochová po roce 1787 odstěhovali?",
-    "Je náš František (ženich z Mitrova 1821) opravdu František Josef * 5. 6. 1785 v Poděbradech, syn myslivce Josefa de Giller? Chybí zápis, který by to výslovně spojil (např. úmrtí s rodištěm). Věk při sňatku (33) by měl být 35.",
     "Byl „Franz von Gillern“ († 1817 Malejovice, * asi 1747) synem Maximiliána a bratrem Josefa?",
     "Kdo byla Maximiliánova manželka Johanna (* asi 1723, † 1782) a odkud pocházel sám Maximilián svobodný pán z Gillernů?",
     "Kde a kdy zemřel náš František (mezi 1828 a 1859) a jeho žena Anna Solnařová?",

@@ -1900,5 +1900,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1838_gillern_karel": {
+  "boxes": [
+   [
+    0.1,
+    0.53,
+    0.98,
+    0.71
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

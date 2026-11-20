@@ -30,3 +30,7 @@ Augustin z Gillernů * 22. 9./10. 1859 Spolí (fara Oslov), knížecí schwarzen
 3. Maximilián po 1782 – Poděbrady O 1782–1800 (2. sňatek, sňatky dětí), poslední kmotrovství; úmrtí 1786–1810 v okolních farách.
 4. Karel Linek a Aloisie roz. Löwová – Písek Z (SOA Třeboň) rejstřík L 1869–1930, Lažany; Kramerius JVK.
 Jan sám (Třeboň): Písek 66A (Z 1928–1938), duben 1934 – přesný den úmrtí Augustina.
+
+## Löwovi (21. 11. 2026) – plné znění v chatu
+L1. Antonín Löw (Lew), sládek, Praha Nové Město č. 396 – sňatek s Marií Procházkovou asi 1790–1796 (AHMP indexy O), úmrtí 1808–1833 (indexy Z), dům č. 396, vztah k Františku Lewovi (sládek, × 1783 Zderaz).
+L2. František Löw po roce 1855 – kde byl sládkem (Lažany?) a kde zemřel (před 1887); narození Aloisie asi 1832 (Praha / Čížová).

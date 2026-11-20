@@ -348,5 +348,138 @@
   "lat": 50.0677,
   "lon": 15.2728,
   "osm": "Býchory, okres Kolín, Středočeský kraj, Česko"
+ },
+ "Kostelec nad Vltavou": {
+  "re": "Kostel[ec]+c?e? nad Vltavou",
+  "dotaz": "Kostelec nad Vltavou, Česko",
+  "lat": 49.4999,
+  "lon": 14.2118,
+  "osm": "Kostelec nad Vltavou, okres Písek, Jihočeský kraj, 398 58, Česko"
+ },
+ "Mitrov": {
+  "re": "Mitrov",
+  "dotaz": "Mitrov, Kutná Hora, Česko",
+  "lat": 49.8551,
+  "lon": 15.0481,
+  "osm": "Mitrov, Uhlířské Janovice, okres Kutná Hora, Středočeský kraj, 285 04, Česko"
+ },
+ "Vlašim": {
+  "re": "Vlašim",
+  "dotaz": "Vlašim, Česko",
+  "lat": 49.7066,
+  "lon": 14.8987,
+  "osm": "Vlašim, okres Benešov, Středočeský kraj, Česko"
+ },
+ "Kluk": {
+  "re": "Kluk[u ]",
+  "dotaz": "Kluk, Poděbrady, Česko",
+  "lat": 50.1205,
+  "lon": 15.1187,
+  "osm": "Kluk, V Boru, Poděbrady, okres Nymburk, Středočeský kraj, Česko"
+ },
+ "Kladruby nad Labem": {
+  "re": "Kladrub",
+  "dotaz": "Kladruby nad Labem, Česko",
+  "lat": 50.0781,
+  "lon": 15.4763,
+  "osm": "Kladruby nad Labem, okres Pardubice, Pardubický kraj, 533 14, Česko"
+ },
+ "Čelákovice": {
+  "re": "Čelákov",
+  "dotaz": "Čelákovice, Česko",
+  "lat": 50.1608,
+  "lon": 14.75,
+  "osm": "Čelákovice, okres Praha-východ, Středočeský kraj, 250 88, Česko"
+ },
+ "Hradištko": {
+  "re": "Hradištk",
+  "dotaz": "Hradištko, Nymburk, Česko",
+  "lat": 50.1445,
+  "lon": 14.919,
+  "osm": "Hradištko, okres Nymburk, Středočeský kraj, Česko"
+ },
+ "Bor Bobnický": {
+  "re": "Bor[u]? Bobnick",
+  "dotaz": "Bobnice, Česko",
+  "lat": 50.2196,
+  "lon": 15.0535,
+  "osm": "Bobnice, okres Nymburk, Středočeský kraj, 289 31, Česko"
+ },
+ "Praha": {
+  "re": "Praha",
+  "dotaz": "Praha, Česko",
+  "lat": 50.0875,
+  "lon": 14.4213,
+  "osm": "Praha, Česko"
+ },
+ "Koupě": {
+  "re": "Koup[ěi]",
+  "dotaz": "Koupě, Příbram, Česko",
+  "lat": 49.5147,
+  "lon": 13.9184,
+  "osm": "Koupě, okres Příbram, Středočeský kraj, Česko"
+ },
+ "Pročevily": {
+  "re": "Pročevil",
+  "dotaz": "Pročevily, Česko",
+  "lat": 49.5553,
+  "lon": 13.8914,
+  "osm": "Pročevily, Volenice, okres Příbram, Středočeský kraj, 262 42, Česko"
+ },
+ "Nespice": {
+  "re": "Nespic",
+  "dotaz": "Nespice, Vacov, Česko",
+  "lat": 49.1167,
+  "lon": 13.7453,
+  "osm": "Nespice, Vacov, okres Prachatice, Jihočeský kraj, Česko"
+ },
+ "Nerestce": {
+  "re": "Nerestc",
+  "dotaz": "Nerestce, Česko",
+  "lat": 49.4975,
+  "lon": 14.0683,
+  "osm": "Nerestce, okres Písek, Jihočeský kraj, Česko"
+ },
+ "Jaroškov": {
+  "re": "Jaroškov",
+  "dotaz": "Jaroškov, Prachatice, Česko",
+  "lat": 49.1102,
+  "lon": 13.6754,
+  "osm": "Jaroškov, Stachy, okres Prachatice, Jihočeský kraj, 384 73, Česko"
+ },
+ "Červený Újezd u Votic": {
+  "re": "Červeném Újezdě",
+  "dotaz": "Červený Újezd, Benešov, Česko",
+  "lat": 49.5554,
+  "lon": 14.6039,
+  "osm": "Červený Újezd, okres Benešov, Středočeský kraj, 257 88, Česko"
+ },
+ "Zhoř u Tábora": {
+  "re": "Zhoře (?), okr. Tábor",
+  "dotaz": "Zhoř, Tábor, Česko",
+  "lat": 49.3572,
+  "lon": 14.658,
+  "osm": "Zhoř u Tábora, okres Tábor, Jihočeský kraj, Česko"
+ },
+ "Malejovice": {
+  "re": "Malejovic",
+  "dotaz": "Malejovice, Česko",
+  "lat": 49.847,
+  "lon": 15.036,
+  "osm": "Malejovice, Uhlířské Janovice, okres Kutná Hora, Středočeský kraj, 285 04, Česko"
+ },
+ "Uhlířské Janovice": {
+  "re": "Uhlířsk",
+  "dotaz": "Uhlířské Janovice, Česko",
+  "lat": 49.8808,
+  "lon": 15.0645,
+  "osm": "Uhlířské Janovice, okres Kutná Hora, Středočeský kraj, 285 04, Česko"
+ },
+ "Spolí": {
+  "re": "Spolí",
+  "dotaz": "Spolí, Orlík nad Vltavou, Česko",
+  "lat": 49.5153,
+  "lon": 14.1822,
+  "pozn": "osada obce Orlík nad Vltavou (okr. Písek); souřadnice ručně, přibližně"
  }
 }

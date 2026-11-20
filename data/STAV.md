@@ -78,6 +78,7 @@ Stopa: Pražské noviny 10/1860 – „unbekannte Erben des Franz Giller aus Spo
 5. Jan (Třeboň), záloha: Oslov Z, oddíl Spolí 1840–1859.
 6. HOTOVO, NEGATIVNÍ (20. 11., log 534) – ChatGPT „Josef po 1798 v2“: úmrtí Josefa ani nové bydliště nenalezeno; Anna † 1822 Poděbrady jen kandidátka. Zbylé drobné mezery: O Ovčáry/Býchory/Sendražice 1805–1817 přímo, O Poděbrady 11864 1826–1835, rejstřík 7423 W 1796–1799.
 7. ZADÁNO/K ZADÁNÍ – ChatGPT `zadani_chatgpt_maximilian.md`: odkud přišel Maximilián do Poděbrad (fary panství Poděbrady, komorní panství Brandýs, Pardubice, Kolínsko 1735–1770; jeho úmrtí po 1786; Ludvík a František de Gyller).
+8. ZADÁNO/K ZADÁNÍ – ChatGPT `zadani_chatgpt_frantisek_overeni.md` (souběžně s 7): věk Františka (33 v 1821, 49 v 1839, 50 v 1840 → * asi 1788–90) nesedí na * 1785 – přežil František Josef 1785? jiný syn 1787–89? které děti z Býchor přežily; křest Anny Kochové (~1761); František 1828–1836.
 Další vlákna ChatGPT: tištěné prameny (hotovo – ročníky šematismu 1789–1830 v ČDK nenalezeny), literatura (hotovo; návrh: Dvorce u Bruntálu 1685–1725, ZA Opava – křty Gillerů, hledat Maximiliána).
 
 ## Plán: kde zemřel Franz z Gillernů (19. 11. 2026)

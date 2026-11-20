@@ -745,5 +745,40 @@
   "svazek": "Poděbrady 43, Z 1803–1837",
   "popis": "Kniha zemřelých fary Poděbrady; 1822 = fol. 290 (snímek 147). Rejstřík Z 1811–1838 = Poděbrady 68 (11898).",
   "url": "https://ebadatelna.soapraha.cz/d/11873"
+ },
+ "celakovice_4722": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna SOA Praha",
+  "svazek": "Čelákovice, N/Z (kniha VI-8, eBadatelna 4722)",
+  "popis": "Kniha fary Čelákovice (Čelákovice, Čelákovský Hrádek); křty 1763–1766 = str. 353–374 (snímky 186–196), úmrtí 1762–1766 = str. 893–913 (snímky 449–459). Rejstřík = Čelákovice 4735 (snímek 67). Výřezy pořídil ChatGPT (Jan, 20. 11. 2026).",
+  "url": "https://ebadatelna.soapraha.cz/d/4722"
+ },
+ "kladruby_1776": {
+  "archiv": "Státní oblastní archiv v Zámrsku – Sbírka matrik",
+  "portal": "ARON – SOA Zámrsk",
+  "svazek": "Kladruby nad Labem, N/O/Z (sign. 1776)",
+  "popis": "Matrika fary Kladruby nad Labem (kostel sv. Václava a Leopolda, císařský hřebčín); 1757 = fol. 16 (snímek 19), 1759 = fol. 18 (snímek 21), 1760 = fol. 19 (snímek 22), 1761 = fol. 20 (snímek 23); rejstřík N snímek 54. Výřezy pořídil ChatGPT (Jan, 20. 11. 2026).",
+  "url": "https://aron.vychodoceskearchivy.cz/"
+ },
+ "nymburk_07": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna SOA Praha",
+  "svazek": "Nymburk 07, N (kniha E – vesnice)",
+  "popis": "Kniha narozených fary Nymburk, vesnice; 1750 = str. 82 (snímek 47), 1751 = str. 98 (snímek 55), 1753 = str. 122–123 (snímek 67). Rejstřík = Nymburk 10439 (snímek 65). Výřezy pořídil ChatGPT (Jan, 20. 11. 2026).",
+  "url": "https://ebadatelna.soapraha.cz/d/10406"
+ },
+ "pardubice_1517": {
+  "archiv": "Státní oblastní archiv v Zámrsku – Sbírka matrik",
+  "portal": "ARON – SOA Zámrsk",
+  "svazek": "Pardubice, O 1737–1784 (sign. 1517)",
+  "popis": "Kniha oddaných děkanství Pardubice; 1765 = fol. 179 (snímek 187). Rejstřík O = sign. 1538 (snímek 20). Výřezy pořídil ChatGPT (Jan, 20. 11. 2026).",
+  "url": "https://aron.vychodoceskearchivy.cz/"
+ },
+ "sadska_05": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna SOA Praha",
+  "svazek": "Sadská 05, N/Z (18. stol.)",
+  "popis": "Kniha fary Sadská (Hradištko, Kostelní Lhota …); 1/1756 = str. 141–142 (snímek 142); úmrtí 12/1754 = snímek 462. Rejstřík N = Sadská 49 (11513). Výřezy pořídil ChatGPT (Jan, 20. 11. 2026).",
+  "url": "https://ebadatelna.soapraha.cz/d/11453"
  }
 }

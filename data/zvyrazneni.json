@@ -2008,5 +2008,161 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1750_giller_anna_alexia": {
+  "boxes": [
+   [
+    0.17,
+    0.58,
+    0.95,
+    0.95
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1751_giller_maria_johanna": {
+  "boxes": [
+   [
+    0.15,
+    0.48,
+    0.97,
+    0.95
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1753_giller_frantisek_ludvik": {
+  "boxes": [
+   [
+    0.12,
+    0.4,
+    0.98,
+    0.84
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1756_giller_marie_terezie": {
+  "boxes": [
+   [
+    0.04,
+    0.42,
+    0.98,
+    0.86
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1757_gillern_maria_eleonora": {
+  "boxes": [
+   [
+    0.08,
+    0.04,
+    0.88,
+    0.62
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1759_giller_maria_filipina": {
+  "boxes": [
+   [
+    0.03,
+    0.1,
+    0.98,
+    0.8
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1761_gillern_jan_baptista": {
+  "boxes": [
+   [
+    0.1,
+    0.1,
+    0.98,
+    0.9
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1762_gillern_bedrich_rudolf": {
+  "boxes": [
+   [
+    0.01,
+    0.12,
+    0.99,
+    0.88
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1762_gillern_terezie": {
+  "boxes": [
+   [
+    0.01,
+    0.12,
+    0.99,
+    0.88
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1766_gillern_jan_bedrich": {
+  "boxes": [
+   [
+    0.01,
+    0.03,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1766_gillern_jan_bedrich": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.8
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "o_1765_gyller_bedrich": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1806_clanner_jan": {
+  "boxes": [
+   [
+    0.01,
+    0.5,
+    0.99,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

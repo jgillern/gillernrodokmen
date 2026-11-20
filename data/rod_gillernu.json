@@ -64,8 +64,33 @@
       "zdroj": "Vyšín 1978; Rakouský státní archiv (RAA 143.34)"
     },
     {
+      "rok": "1750–1753",
+      "text": "Nejstarší známá stopa Maximiliána: jako „Maximilian Jozef Emanuel von Gyller, myslivec“ žije v hájovně Bor Bobnický u Nymburka s manželkou Johannou; křtí se tu Anna Alexie Barbora (1750), Marie Johanna Terezie (1751) a František Ludvík Alexandr (1753 – pozdější „Ludovicus de Gyller“).",
+      "zdroj": "matrika Nymburk 07 (eBadatelna 10406), zpráva ChatGPT 20. 11. 2026"
+    },
+    {
+      "rok": "1756",
+      "text": "Maximilián Emanuel de Güller je nadlesním („obrforšt“) v Hradištku (Kersko) – už na poděbradském komorním panství; kmotrou dcery Marie Terezie je dcera poděbradského nejvyššího myslivce Jana Hoffmanna.",
+      "zdroj": "matrika Sadská 05 (eBadatelna 11453/142)"
+    },
+    {
+      "rok": "1757–1761",
+      "text": "Lesní a „dvorní myslivec“ (Venator Aulicus) v Kladrubech nad Labem u císařského hřebčína; rodí se Marie Eleonora (1757 – pozdější Clannerová), Marie Filipína (1759) a Jan Křtitel (1761). Svědkem 1761 je (v zastoupení) urozený pan Bedřich de Güllern.",
+      "zdroj": "matrika Kladruby n. L. (ARON, SOA Zámrsk, sign. 1776)"
+    },
+    {
+      "rok": "1762–1766",
+      "text": "„Císařský lesník“ a dvorní myslivec v Čelákovicích a na Čelákovském Hrádku; umírají mu děti Bedřich Rudolf a šestiletá Terezie (1762) a Jan Bedřich (1766, tři měsíce). Svědkem při křtu Jana Bedřicha je urozený pan Jan Bedřich z Gillernů, kapitán pěšího pluku hraběte Pallaviciniho.",
+      "zdroj": "matrika Čelákovice (eBadatelna 4722)"
+    },
+    {
+      "rok": "1765",
+      "text": "V Pardubicích se žení Bedřich baron Gyller, kapitán císařského pluku Pallavicini, s Annou, dcerou měšťana Josefa Nešky (?) – blízký příbuzný Maximiliána.",
+      "zdroj": "matrika Pardubice O 1737–1784 (ARON, sign. 1517)"
+    },
+    {
       "rok": "kolem 1769",
-      "text": "Maximilián svobodný pán z Gillernů přichází do Poděbrad jako nadlesní („nejvyšší myslivec“) komorního panství. V křtech, sňatcích a úmrtích 1730–1768 o rodině není ani zmínka; první stopy jsou z let 1769–1771 – urozený pan „de Gyller (?)“ (1769) a „Ludovicus de Gyller (?)“ (1770) jako kmotři a „Josephus de Giller“ jako svědek (1771). Odkud rodina přišla, zatím nevíme; Josef se narodil jinde, asi 1737.",
+      "text": "Maximilián svobodný pán z Gillernů se stává nadlesním („nejvyšším myslivcem“) poděbradského komorního panství – po Janu Hoffmannovi, pod nímž sloužil už 1756 v Hradištku. Odkud pochází a kde se kolem roku 1737 narodil jeho syn Josef (z prvního manželství?), zatím nevíme.",
       "zdroj": "matriky Poděbrady 05, 07, 11, 30"
     },
     {
@@ -465,8 +490,8 @@
     {
       "jmeno": "Maximilián svobodný pán z Gillernů",
       "roky": "2. pol. 18. stol.",
-      "text": "„Nejvyšší myslivec“ (nadlesní) c. k. komorního panství Poděbrady – v matrikách 1781 „Perill. D. Maximilianus L. Baro de Giller“. Do Poděbrad přišel nejspíš mezi 1750 a 1771; manželka Johanna († 1782); děti Josef (* asi 1737, jinde) a Eleonora Mariana (× J. B. Clanner). Pravděpodobný pradědeček našeho Františka.",
-      "zdroj": "matriky Poděbrady (křest 1781, úmrtí 1782, sňatek 1786); M. Hanuš 1998",
+      "text": "„Nejvyšší myslivec“ (nadlesní) c. k. komorního panství Poděbrady – v matrikách 1781 „Perill. D. Maximilianus L. Baro de Giller“; celým jménem Maximilián Josef Emanuel. Kariéra v císařských lesích: Bor Bobnický u Nymburka (1750–1753), Hradištko (1756), Kladruby nad Labem (1757–1761), Čelákovice (1762–1766), Poděbrady (asi od 1769). Manželka Johanna († 1782), s ní nejméně devět dětí 1750–1766; syn Josef (* asi 1737, jinde) nejspíš z prvního manželství. Pradědeček našeho Františka.",
+      "zdroj": "matriky Nymburk, Sadská, Kladruby, Čelákovice, Poděbrady; M. Hanuš 1998",
       "odkaz": "https://pratelepardubicka.cz/eduard-napravnik-iv-cast-rod-clanneru-z-engelshofenu/",
       "stav": "doc",
       "osoba": "maximilian-svobodny-pan-z-gillernu"
@@ -494,6 +519,13 @@
       "odkaz": "https://www.archivinformationssystem.at/detail.aspx?ID=5431276",
       "stav": "lit",
       "profil": "clanner"
+    },
+    {
+      "jmeno": "Jan Bedřich (Friedrich) baron z Gillernů",
+      "roky": "1761–1766",
+      "text": "Kapitán císařského pěšího pluku hraběte Pallaviciniho. 1761 svědek (v zastoupení) při křtu Maximiliánova syna v Kladrubech, × 17. 2. 1765 Pardubice Anna Nešková (?), 1766 svědek při křtu Maximiliánova syna Jana Bedřicha v Čelákovicích. Blízký příbuzný Maximiliána – bratr, bratranec nebo synovec?",
+      "zdroj": "matriky Kladruby n. L., Pardubice (ARON), Čelákovice (eBadatelna 4722)",
+      "stav": "doc"
     },
     {
       "jmeno": "Ignác z Gillernů („Ignatius de Gillern“)",
@@ -583,23 +615,23 @@
       "stav": "lit"
     },
     {
-      "jmeno": "Ludvík de Gyller (?)",
-      "roky": "1770",
-      "text": "„Perillustris D. Ludovicus de Gyller (?)“ – kmotr v Poděbradech 13. 8. 1770; o rok dřív (2. 11. 1769) kmotrem urozený pan „de Gyller (?)“ bez jména. Čtení počátečního písmene nejisté (G/K). Pokud jde o Gillera, patřil k Maximiliánově rodině – snad další syn nebo bratr.",
-      "zdroj": "eBadatelna, Poděbrady 11 (11841/119 a /125) – podle zprávy ChatGPT, výřezy přečteny",
-      "stav": "hyp"
+      "jmeno": "František Ludvík Alexandr z Gillernů („Ludovicus de Gyller“)",
+      "roky": "* 1753",
+      "text": "Syn Maximiliána a Johanny, pokřtěn v lednu 1753 v Nymburce (Bor Bobnický). Nejspíš „Perillustris D. Ludovicus de Gyller“, kmotr v Poděbradech 13. 8. 1770, a snad i „František de Gyller“ (1773).",
+      "zdroj": "matrika Nymburk 07 (10406/67); Poděbrady 11 (11841/125)",
+      "stav": "doc"
     },
     {
       "jmeno": "Dcery a syn Maximiliána z Gillernů",
       "roky": "1772–1781",
-      "text": "V poděbradských křtech jako kmotři: Eleonora (panna 1773–1780, pak manželka Jana Clannera), Johanna (1775, 1777–1778), Uršula (?) Filipína de Gillern (1781), Anna Gyllerin (?) (1772) a dospělý František de Gyller (?) (1773) – snad pozdější Franz † 1817 Malejovice. Pozor: v letech 1777–1778 je jejich otec sedmkrát zapsán jako „Josephus Giller Supremus Venator“ – nejspíš dvojí jméno Maximilián Josef.",
+      "text": "V poděbradských křtech jako kmotři: Eleonora (* 1757 Kladruby; panna 1773–1780, pak manželka Jana Clannera), Johanna (* 1751 Bor; 1775, 1777–1778), Uršula (?) Filipína de Gillern (* 1759 Kladruby; 1781), Anna Gyllerin (?) (snad Anna Alexie * 1750; 1772) a dospělý František de Gyller (?) (1773). V letech 1777–1778 je jejich otec sedmkrát zapsán jako „Josephus Giller Supremus Venator“ – vysvětleno: jmenoval se Maximilián Josef Emanuel.",
       "zdroj": "eBadatelna, Poděbrady 13 (11843), zpráva ChatGPT 19. 11. 2026; výřezy 11843/73 a /82 přečteny",
       "stav": "doc"
     }
   ],
   "otazky": [
     "Kde a kdy zemřel revírník Josef z Gillernů (naposledy doložen v Býchorech 1798, † před 1838) a jeho žena Anna Kochová? Rejstříky zemřelých Kolína a Tuklat jsou bez nálezu – nejspíš byl přeložen na jiné panství.",
-    "Odkud přišel Maximilián svobodný pán z Gillernů do Poděbrad (mezi 1750 a 1771) a kde se kolem roku 1737 narodil jeho syn Josef? Kdo byla Josefova matka – Maximiliánova první manželka?",
+    "Odkud přišel Maximilián svobodný pán z Gillernů? Nejstarší stopa je z roku 1750 (Bor Bobnický u Nymburka) – kde byl předtím, kde se kolem roku 1737 narodil jeho syn Josef a kdo byla Josefova matka (Maximiliánova první manželka)?",
     "Kam se Maximilián, Josef a Anna Kochová po roce 1787 odstěhovali?",
     "Byl „Franz von Gillern“ († 1817 Malejovice, * asi 1747) synem Maximiliána a bratrem Josefa?",
     "Kdo byla Maximiliánova manželka Johanna (* asi 1723, † 1782) a odkud pocházel sám Maximilián svobodný pán z Gillernů?",
@@ -607,7 +639,7 @@
     "Je JUDr. Karel Gillern (1888–1953) opravdu syn Čeňka z Gillernů?",
     "Jak se česká větev napojuje na Karla Josefa z Gillernů (rytíř „Edler von Gillern“ 1724/1726) – a tedy přes kolik kolen jsme příbuzní s moravskými a pruskými barony?",
     "Ke které větvi starého rodopisu (Sinapius 1728) patří Maximilián – je to syn některého ze synů Friedricha Wilhelma I. (Franz Leopold, Friedrich Wilhelm II., Johann Peter, Carl Ludwig, Karel Josef), nebo z mladší větve (Carl Heinrich, Johann Christoph, Frantz Joseph)?",
-    "Jmenoval se nejvyšší myslivec Maximilián Josef? V letech 1777–1778 ho farář sedmkrát zapsal jako „Josephus Giller Supremus Venator“, jinak vždy jako Maximiliána."
+    "Kdo byl kapitán Jan Bedřich (Friedrich) baron z Gillernů (pluk Pallavicini, × 1765 Pardubice) – Maximiliánův bratr? Jeho záznamy (věk, rodiště) by mohly prozradit původ rodiny."
   ],
   "zdroje": [
     {
@@ -763,18 +795,21 @@
     },
     "eleonora": {
       "jmeno": "Eleonora Mariana z Gillernů",
-      "roky": "2. pol. 18. stol.",
+      "roky": "* 1757",
       "stav": "doc",
-      "vazba": "dcera Maximiliána svobodného pána z Gillernů – nejspíš sestra Josefa, tedy teta Františka (* 1785)",
+      "vazba": "dcera Maximiliána svobodného pána z Gillernů – sestra (nejspíš nevlastní) Josefa, tedy teta našeho Františka",
       "fakta": [
+        "* a pokřtěna 23. 4. 1757 v Kladrubech nad Labem jako Marie Eleonora, dcera „urozeného pana Maximiliána de Güllern, kladrubského lesního“, a jeho manželky Johanny",
         "dcera Maximiliána svobodného pána z Gillernů, nadlesního v Poděbradech – výslovně v křtu dcery 1781: „Eleonora filia Perill. D. Maximiliani L. Baronis de Giller“",
-        "2. manželka Jana Baptisty Ferdinanda Clannera z Engelshofenu (1730–1806), forstmistra (lesního představeného) komorního panství Poděbrady; jeho 1. manželka Marie Anna zemřela 3. 11. 1776",
+        "2. manželka Jana Baptisty Ferdinanda Clannera z Engelshofenu (asi 1728 – † 27. 12. 1806 Poděbrady, 78 let), forstmistra (lesního představeného) komorního panství Poděbrady; jeho 1. manželka Marie Anna zemřela 3. 11. 1776",
         "děti: Marie Anna Apolonie (* 11. 10. nebo 11. 11. 1781), Maximilián Jan Křtitel Ignác (* 8. 11. 1784) a další",
         "kmotrou nebo svědkyní při křtech v Poděbradech 24. 3. 1781, 30. 11. 1781, 5. 1. 1782 a 14. 1. 1782 („Eleonora de Klanner“; podle zprávy ChatGPT, snímky 11843/100, 108–110)"
       ],
       "zaznamy": [
+        "n_1757_gillern_maria_eleonora",
         "n_1781_klanner_marie_anna",
-        "n_1784_clanner_maximilian"
+        "n_1784_clanner_maximilian",
+        "z_1806_clanner_jan"
       ],
       "vztahy": [
         {

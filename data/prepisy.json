@@ -666,5 +666,57 @@
  "z_1822_gillerova_anna": {
   "orig": "[Fol. 290, Poděbrady, zemřelí 1822, listopad] Die 8 mort. / 10 sep. – ∅ – Anna, widowa po Jozefu Gillerowi lesnjku (?) – kat. 1 – žena 1 – 61 let – An Verwirrung (?) im Kopfe (?) N 120",
   "cs": "Zápis je česky a německy. 8. listopadu 1822 zemřela v Poděbradech ve věku 61 let Anna, vdova po Josefu Gillerovi – poslední slovo čtu nejistě jako „lesníku“. Věk odpovídá Anně Kochové, která se roku 1786 v Poděbradech vdávala za myslivce Josefa de Giller (bylo jí asi 26). Jiný poděbradský Josef Giller (vysloužilý voják, † 1792) měl za ženu Ludmilu, ne Annu. Jde tedy nejspíš o matku Františka z Gillernů, která se jako vdova vrátila do rodných Poděbrad. Pak by Josef zemřel před listopadem 1822. Zápis našel ChatGPT, přečetl jsem ho z jeho výřezu."
+ },
+ "n_1750_giller_anna_alexia": {
+  "orig": "[Str. 82, Januarius Anno 1750] 23 – z Boru Bobnicky. Ditě: Anna Alexia Barbara. O: Maximilian Jozef Emanuel von Gyller Jagr. M: Anna Johanna. L: Anna Hollanowa (?) S: Lydmilla Kudlowa (?), Pawel Antoss (?). Parentes Liberi.",
+  "cs": "Zápis je česky. 23. ledna 1750 byla v Nymburce pokřtěna Anna Alexie Barbora z Boru Bobnického (hájovna u Nymburka), dcera Maximiliána Josefa Emanuela von Gyller, myslivce, a Anny Johanny. Nejstarší dosud známý doklad o Maximiliánovi – 19 let před Poděbrady. Jeho třetí jméno Josef vysvětluje, proč ho poděbradský farář 1777–1778 občas zapsal jako „Josepha“. Přečteno z výřezu od ChatGPT."
+ },
+ "n_1751_giller_maria_johanna": {
+  "orig": "[Str. 98, September 1751] 25 | 26 – z Boru Bobnicky. Ditě: Maria Johanna Theresia. O: Maximilian Jozef von Giller, M: Maria Johan[na] … L: Katerzina … S: Lydmilla Kudlowa (?), Pawel Antoss (?) … Bapt: P. Thomas Kulka Decan:",
+  "cs": "Zápis je česky. Marie Johanna Terezie se narodila 25. září 1751 v Boru Bobnickém u Nymburka a druhý den byla pokřtěna; otec Maximilián Josef von Giller, matka Marie Johanna. Nejspíš je to „Johanna de Gillern“, která byla v Poděbradech kmotrou v letech 1775–1778. Přečteno z výřezu od ChatGPT."
+ },
+ "n_1753_giller_frantisek_ludvik": {
+  "orig": "[Str. 123, Januarius 1753] 23 (29?) | 30 – Ditě: Franciscus Ludovicus Alexander. O: Pan Jozef de Giller Jagr z Boru Bobniczkeho. M: Johanna, oba Swobodny. K: Franz Purka (?) z Budimierzic. S: Karel Antoss z Wse… (?), Panna Terezie Knoblochowa z Nimburka. Bapt: P. Thomas Kulka Decan.",
+  "cs": "Zápis je česky. V lednu 1753 byl v Nymburce pokřtěn František Ludvík Alexandr, syn pana Josefa de Giller, myslivce z Boru Bobnického, a Johanny. Otec je tu zapsán jen jako Josef – je to ale tentýž Maximilián Josef Emanuel (stejné místo, manželka Johanna; Maximilián používal i jméno Josef). Chlapec je nejspíš „Ludovicus de Gyller“, který byl 1770 kmotrem v Poděbradech. Přečteno z výřezu od ChatGPT."
+ },
+ "n_1756_giller_marie_terezie": {
+  "orig": "[Str. 142, Januarius 1756] (okraj: Hradisstko, nata 18 ?) Baptizata est Maria Theresia, Patris Praenobilis Dni Domini Maximiliani Emanuelis de Güller venatoris, seu vulgo Obrforst Hradistiensis, Matris Dnae Mariae Johannae Parent. Liberorum. Levans: Praenobilis Virgo Elizabeth filia Praenobilis Dni Joannis Hoffmann Praefecti venationum Podiebradensis. Testis: Dnus Josephus Suknergrott (?) Fischmeister Podiebradensis. Bapt: Venerab. Dnus Wenceslaus Kebrle Curatus.",
+  "cs": "Zápis je latinsky. V lednu 1756 byla v Sadské pokřtěna Marie Terezie, dcera urozeného pana Maximiliána Emanuela de Güller, nadlesního (lidově „obrforšt“) v Hradištku (Kersko, lesy poděbradského komorního panství), a paní Marie Johanny. Kmotrou byla dcera Jana Hoffmanna, tehdejšího nejvyššího myslivce v Poděbradech – Maximilián tedy už 1756 sloužil na poděbradském panství pod ním, a o 13 let později se sám stal jeho nástupcem. Terezie zemřela 1762 v Čelákovicích, 6 let. Přečteno z výřezu od ChatGPT."
+ },
+ "n_1757_gillern_maria_eleonora": {
+  "orig": "Anno 1757 die 23 Aprilis in Ecclâ Parochiali S.S. Wenc. et Leopoldi a P. Joanne Hrubi Admstre baptisata fuit Maria Eleonora filia Perillustris Dni Maximilliani de Güllern Sylvani Cladrubiensis et Conthoralis ejus Joannae. nata eadem die. Levans: Praenobilis Dna Anna Conthoralis D. Caroli Schültz directoris Seminensis. Testes: Dna Maria Magdalena Lambottin et Dnus Guilielmus Pailloux fabricae director.",
+  "cs": "Zápis je latinsky. 23. dubna 1757 se v Kladrubech nad Labem (u císařského hřebčína) narodila a byla pokřtěna Marie Eleonora, dcera urozeného pana Maximiliána de Güllern, kladrubského lesního, a jeho manželky Johanny. Je to téměř jistě pozdější Eleonora, manželka forstmistra Jana Clannera v Poděbradech (do 1780 „panna“, 1781 už vdaná – ve 23 letech). Přečteno z výřezu od ChatGPT."
+ },
+ "n_1759_giller_maria_filipina": {
+  "orig": "Anno 1759 die 20 Januarii in Ecclâ Parochiali S.S. Wen. et Leopoldi a P. Joane Hrubi baptisata fuit Maria Philippina Genoveva Carolina filia legitima Perill. D. de Güllern Sylvarum Hippo-Vivariensium off. ex Conthorali ejus Joanne. nata pridie. Levans: Wen. Dolivek (?) … Hippo-Vivariensis, Elisabetha Ducho-Slawiana (?), Catharina Patrizkiana (?). omnes Cladrubienses.",
+  "cs": "Zápis je latinsky. V lednu 1759 byla v Kladrubech pokřtěna Marie Filipína Jenovéfa Karolína, dcera urozeného pana de Güller (křestní jméno otce chybí), lesního úředníka císařského hřebčína, a Johanny. Nejspíš je to „Uršula (?) Filipína de Gillern“, kmotra v Poděbradech 1781. Přečteno z výřezu od ChatGPT."
+ },
+ "n_1761_gillern_jan_baptista": {
+  "orig": "Anno 1761 die 17 Januarii in Ecclâ Parochiali S.S. Wen. et Leopoldi a P. Joane Hrubi Admstre baptisatus fuit Joannes Baptista filius Legitimus Perill. Dni Maximilliani de Güllern Venatoris Aulici in Cladrub. et Conthoralis ejus Joannae. ambo liberi. natus pridie. Levans: Perill. D. Antonius de Puckowsky (?) Contrasignans Hippo-Viv. Testes: Praenob. D. Joannes Heidler loco Perill. Dni Friderici de Güllern, Praenobilis Dna Elisabetha Conthoralis D. Guillelmi Pailloux.",
+  "cs": "Zápis je latinsky. V lednu 1761 byl v Kladrubech pokřtěn Jan Křtitel, syn urozeného pana Maximiliána de Güllern, dvorního (císařského) myslivce v Kladrubech, a Johanny. Za svědka měl být urozený pan Bedřich (Friedrich) de Güllern, kterého zastoupil Jan Heidler – nejspíš tentýž Bedřich, baron a kapitán, který 1765 kmotroval v Čelákovicích. Přečteno z výřezu od ChatGPT."
+ },
+ "n_1766_gillern_jan_bedrich": {
+  "orig": "(okraj: Ex Hradek Schellakowitz) Anno 1766 die 10 Februarii in Ecclesia Decanali B. V. Mariae in Coelos Assumptae Schellakowicii à me Joanne Friderico Jenik Zasadsky de Gemsendorff Decano Schell. Baptisatus fuit: Joannes Fridericus Carolus Wilhelmus Vitus filius Legitimus Perillustris Domini Maximiliani de Gillern Venatoris Aulici et Uxoris ejus Johannae Parentum Liberorum ex Hradek Schellakowitz, natus 9 Februarii. Ejus Levans fuit: Praenobilis Dnus Joannes Jablonsky Director Oeconomiae Březoviensis (?). Testes seu Patrini fuere: Perillustris Dominus Joannes Fridericus de Gillern ab Inclyto Regimine Comitis Pallavicini Capitaneus, et Perillustris Ursula Josepha Jenik Zasadsky de Gemsendorff ex Oppido Schellakowitz.",
+  "cs": "Zápis je latinsky. 9. února 1766 se na Čelákovském Hrádku narodil Jan Bedřich Karel Vilém Vít, syn urozeného pana Maximiliána de Gillern, dvorního myslivce, a Johanny. Svědkem (a nejspíš i dárcem jména) byl urozený pan Jan Bedřich de Gillern, kapitán pěšího pluku hraběte Pallaviciniho – tentýž „baron Bedřich Gyller“, který se rok předtím oženil v Pardubicích. ChatGPT četl „Jan František … jezdeckého pluku hraběte Ferrarise“; z výřezu je ale jasně „Joannes Fridericus … Comitis Pallavicini Capitaneus“. Dítě zemřelo 16. 5. 1766."
+ },
+ "o_1765_gyller_bedrich": {
+  "orig": "1765 die 17 mense februario ex Gratiosissima dispensatione … contraxit matrimonium per verba de praesenti Illustrissimus Dnus Fridericus Baro Gyller militiae Caesareae Pallavicinianae Capitaneus cum sponsa sua Virgine Anna filia D. Josephi Neška (?) civis Pardub. in Ecclâ Decanali Pardub. S. Bartholomaei Apostoli … coram me Presbytero Wenceslao … et coram testibus Perillustri D. Josepho … Supremo vigiliarum Praefecto Ejusdem Legionis, et D. Francisco Bělér (?) Burgravio Caesareae Domus Pard. … (okraj: Fridericus Baro Gyller ab inclyto Legione Pallaviciniana Capitaneus, et Virgo Anna … civis.)",
+  "cs": "Zápis je latinsky. 17. února 1765 se v Pardubicích oženil Bedřich (Friedrich) baron Gyller, kapitán císařského pěšího pluku Pallavicini, s Annou, dcerou pardubického měšťana Josefa Nešky (?). O rok později je jako „Jan Bedřich de Gillern, kapitán pluku hraběte Pallaviciniho“ svědkem při křtu Maximiliánova syna v Čelákovicích – zřejmě blízký příbuzný Maximiliána (bratr? synovec?). Přečteno z výřezu od ChatGPT."
+ },
+ "z_1762_gillern_bedrich_rudolf": {
+  "orig": "Anno 1762 die 31 Januarii Junior Fridericus Rudolphus Patris Perillustris Dni Maximiliani de Gillern Silvani Caesarei ex Oppido Schellakowitz ex Domo Dominicali aetatis 1 Anni 9 (?) Mensis et 17 Dierum in Communione Sanctae Matris Ecclesiae Animam Deo reddidit cujus corpus die 2 februarii sepultum est more Catholico in Ecclâ B. V. Mariae in Coelos Assumptae Schellakowicii.",
+  "cs": "Zápis je latinsky. 31. ledna 1762 zemřel v Čelákovicích malý Bedřich Rudolf, syn urozeného pana Maximiliána de Gillern, císařského lesníka; bylo mu rok a několik měsíců (číslice měsíců nejistá – křest v Kladrubech 1760 se nenašel). Přídomek „junior“ = mladší, nejspíš proto, že nesl jméno staršího Bedřicha z Gillernů. Přečteno z výřezu od ChatGPT."
+ },
+ "z_1762_gillern_terezie": {
+  "orig": "Anno 1762 die 2 Octobris Theresia filia Perillustris Domini Maximiliani de Gillern Silvani Caesarei ex Oppido Schellakowitz ex Domo Dominicali aetatis 6 Annorum in Communione Sanctae Matris Ecclesiae animam Deo reddidit cujus corpus die 4 Octobris sepultum est more Catholico in Ecclâ B. V. Mariae in Coelos Assumptae Schellakowicii.",
+  "cs": "Zápis je latinsky. 2. října 1762 zemřela v Čelákovicích šestiletá Terezie, dcera urozeného pana Maximiliána de Gillern, císařského lesníka – je to Marie Terezie pokřtěná v lednu 1756 v Sadské (Hradištko). Přečteno z výřezu od ChatGPT."
+ },
+ "z_1766_gillern_jan_bedrich": {
+  "orig": "Anno 1766 die 16 Maji Joannes Fridericus Wilhelmus Vitus filius Patris Perillustris Dni Maximiliani de Gillern ex Hradek Schellakowitz ex Domo Dominicali aetatis 3 Mensium in Communione S. Matris Ecclesiae Animam Deo reddidit cujus corpus 18 Maji sepultum est more Catholico in Ecclesia B. V. Mariae in Coelos Assumptae Schellakowicii.",
+  "cs": "Zápis je latinsky. 16. května 1766 zemřel tříměsíční Jan Bedřich, syn urozeného pana Maximiliána de Gillern z Čelákovského Hrádku. Přečteno z výřezu od ChatGPT."
+ },
+ "z_1806_clanner_jan": {
+  "orig": "[Fol. 79, 1806 December] 27 zemřel / 29 pochowan – Nro domu ∅ – Jan z Klanner z Engelshofenu, C. K. Jubilirowaný (?) Panský Holzmistr (?) – katol. 1 – mužského 1 – 78 – Nerven Schwäche (?), No 237.",
+  "cs": "Zápis je česky. 27. prosince 1806 zemřel v Poděbradech ve věku 78 let Jan Clanner z Engelshofenu, penzionovaný panský holcmistr – manžel Eleonory z Gillernů, Maximiliánovy dcery. Přečteno z výřezu od ChatGPT."
  }
 }

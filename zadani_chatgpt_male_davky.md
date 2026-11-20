@@ -1,7 +1,7 @@
 # Malá zadání pro ChatGPT (20. 11. 2026) – každé do nového chatu
 
 Společná pravidla (vlož na začátek každého zadání):
-> Pomáháš s rodokmenem rodiny Gillernů v online matrikách (https://ebadatelna.soapraha.cz, případně https://aron.vychodoceskearchivy.cz). Výsledky zkontroluje druhý asistent – přesnost je důležitější než domněnky. Úkol je krátký (2 etapy); po každé etapě napiš do chatu shrnutí a dej mi ke stažení PDF s nálezy. Ke každému nálezu: odkaz na snímek, poloha (strana, kolikátý zápis), doslovný přepis celého zápisu, český překlad a čitelný výřez celého zápisu. Značky: (?) nejisté čtení, … nečitelné. Nic nedomýšlej. Na konci tabulka prohledaného bez výsledku (kniha, snímky, roky). Do repozitáře na GitHubu se nedívej.
+> Pomáháš s rodokmenem rodiny Gillernů v online matrikách (https://ebadatelna.soapraha.cz, případně https://aron.vychodoceskearchivy.cz). Výsledky zkontroluje druhý asistent – přesnost je důležitější než domněnky. Úkol je krátký (2 etapy); po každé etapě napiš do chatu shrnutí a průběžně doplňuj JEDEN dokument – na konci odevzdej jediné finální PDF se všemi etapami (ne samostatný soubor za každou etapu). Ke každému nálezu: odkaz na snímek, poloha (strana, kolikátý zápis), doslovný přepis celého zápisu, český překlad a čitelný výřez celého zápisu. Značky: (?) nejisté čtení, … nečitelné. Nic nedomýšlej. Na konci tabulka prohledaného bez výsledku (kniha, snímky, roky). Do repozitáře na GitHubu se nedívej.
 
 ## A – Kdy a kde se narodil Josef z Gillernů?
 Josef (de) Giller / z Gillernů, myslivec, syn Maximiliána Josefa Emanuela von Giller (myslivec v Boru Bobnickém u Nymburka 1750–1753, manželka Johanna * asi 1723). Josefův věk se rozchází: 48 let při sňatku 12. 6. 1786 (→ * asi 1738), 52 let při úmrtí 2. 2. 1799 (→ * asi 1746/47).

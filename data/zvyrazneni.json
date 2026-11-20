@@ -2260,5 +2260,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "z_1934_gillern_augustin": {
+  "boxes": [
+   [
+    0.0,
+    0.55,
+    1.0,
+    0.88
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1939_gillernova_marie": {
+  "boxes": [
+   [
+    0.0,
+    0.27,
+    1.0,
+    0.48
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

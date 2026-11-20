@@ -334,5 +334,19 @@
   "lat": 49.8291,
   "lon": 15.3721,
   "osm": "Šebestěnice, okres Kutná Hora, Středočeský kraj, Česko"
+ },
+ "Poděbrady": {
+  "re": "Poděbrad",
+  "dotaz": "Poděbrady, Česko",
+  "lat": 50.143,
+  "lon": 15.1191,
+  "osm": "Poděbrady, okres Nymburk, Středočeský kraj, Česko"
+ },
+ "Býchory": {
+  "re": "Býchor",
+  "dotaz": "Býchory, Česko",
+  "lat": 50.0677,
+  "lon": 15.2728,
+  "osm": "Býchory, okres Kolín, Středočeský kraj, Česko"
  }
 }

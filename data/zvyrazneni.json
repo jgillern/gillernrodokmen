@@ -2164,5 +2164,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "z_1799_gillern_josef": {
+  "boxes": [
+   [
+    0.0,
+    0.55,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1832_gillern_kristyna": {
+  "boxes": [
+   [
+    0.0,
+    0.48,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

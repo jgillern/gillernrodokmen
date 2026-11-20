@@ -125,14 +125,19 @@
       "zdroj": "matrika Poděbrady 18, fol. 26"
     },
     {
-      "rok": "po 1787",
-      "text": "Maximilián, Josef i Anna Kochová z Poděbrad mizí – nikdo z nich tam do roku 1806 nezemřel. Rodina se nejspíš odstěhovala za služebním místem.",
+      "rok": "1787–1789",
+      "text": "Josef a Anna Kochová odcházejí z Poděbrad na komorní panství Kolín. Maximilián zůstává v Poděbradech (ještě 1786 žije); kde a kdy zemřel, nevíme.",
       "zdroj": "úmrtí Poděbrady 1771–1806 prohlédnuta"
     },
     {
       "rok": "1789–1798",
       "text": "Josef z Gillernů je fořtem (myslivcem) v Býchorech č. 11 u Kolína, na c. k. komorním panství Kolín. Narodí se tu dalších pět dětí – Josef Emanuel, Marie Anna, Lambert Josef, Barbora a Eleonora Barbora; malý František (* 1785) tu vyrůstá.",
       "zdroj": "matrika Ovčáry 03 (eBadatelna 10790/6–10)"
+    },
+    {
+      "rok": "1799",
+      "text": "2. února umírá v Býchorech č. 11 „pan Josef z Gillernů, myslivec“, 52 let, nejspíš na souchotiny. Vdova Anna Kochová se zřejmě vrací do Poděbrad, kde 1822 umírá jako „vdova po Josefu Gillerovi, lesníkovi“.",
+      "zdroj": "matrika Ovčáry 14 – Býchory Z (eBadatelna 10801/8)"
     },
     {
       "rok": "1793",
@@ -149,6 +154,11 @@
       "text": "Náš František z Gillernů, schwarzenberský myslivecký adjunkt, se žení v Mitrově s Annou Solnařovou; svědkem je lesník Maximilián Clanner – vnuk svobodného pána Maximiliána z Gillernů, a tedy Františkův bratranec.",
       "zdroj": "matrika Uhlířské Janovice 15, fol. 153",
       "osoba": "franz-frantisek-z-gillernu-1785"
+    },
+    {
+      "rok": "1832",
+      "text": "František z Gillernů s rodinou je už v Kostelci nad Vltavou č. 30 – rodí se mu tu dcera Kristýna (?).",
+      "zdroj": "matrika Kostelec n. Vlt. N II, s. 76 (SOA Třeboň, digi 4844/41)"
     },
     {
       "rok": "1838",
@@ -373,7 +383,7 @@
         "s": 2,
         "r": 2,
         "jmeno": "Josef de Giller",
-        "roky": "asi 1738 – ?",
+        "roky": "asi 1738 – 1799",
         "pozn": "myslivec, × 1786 Anna Kochová",
         "stav": "doc",
         "osoba": "josef-z-gillernu-de-giller-1738"
@@ -630,12 +640,10 @@
     }
   ],
   "otazky": [
-    "Kde a kdy zemřel revírník Josef z Gillernů (naposledy doložen v Býchorech 1798, † před 1838) a jeho žena Anna Kochová? Rejstříky zemřelých Kolína a Tuklat jsou bez nálezu – nejspíš byl přeložen na jiné panství.",
     "Odkud přišel Maximilián svobodný pán z Gillernů? Nejstarší stopa je z roku 1750 (Bor Bobnický u Nymburka) – kde byl předtím, kde se kolem roku 1737 narodil jeho syn Josef a kdo byla Josefova matka (Maximiliánova první manželka)?",
-    "Kam se Maximilián, Josef a Anna Kochová po roce 1787 odstěhovali?",
+    "Kdy se narodil Josef z Gillernů – asi 1738 (48 let při sňatku 1786), nebo asi 1746/47 (52 let při úmrtí 1799)? V druhém případě mohla být jeho matkou Maximiliánova manželka Johanna. Kde a kdy zemřel Maximilián?",
     "Byl „Franz von Gillern“ († 1817 Malejovice, * asi 1747) synem Maximiliána a bratrem Josefa?",
     "Kdo byla Maximiliánova manželka Johanna (* asi 1723, † 1782) a odkud pocházel sám Maximilián svobodný pán z Gillernů?",
-    "Kde a kdy zemřel náš František (mezi 1828 a 1859) a jeho žena Anna Solnařová?",
     "Je JUDr. Karel Gillern (1888–1953) opravdu syn Čeňka z Gillernů?",
     "Jak se česká větev napojuje na Karla Josefa z Gillernů (rytíř „Edler von Gillern“ 1724/1726) – a tedy přes kolik kolen jsme příbuzní s moravskými a pruskými barony?",
     "Ke které větvi starého rodopisu (Sinapius 1728) patří Maximilián – je to syn některého ze synů Friedricha Wilhelma I. (Franz Leopold, Friedrich Wilhelm II., Johann Peter, Carl Ludwig, Karel Josef), nebo z mladší větve (Carl Heinrich, Johann Christoph, Frantz Joseph)?",

@@ -34,3 +34,5 @@ Jan sám (Třeboň): Písek 66A (Z 1928–1938), duben 1934 – přesný den úm
 ## Löwovi (21. 11. 2026) – plné znění v chatu
 L1. Antonín Löw (Lew), sládek, Praha Nové Město č. 396 – sňatek s Marií Procházkovou asi 1790–1796 (AHMP indexy O), úmrtí 1808–1833 (indexy Z), dům č. 396, vztah k Františku Lewovi (sládek, × 1783 Zderaz).
 L2. František Löw po roce 1855 – kde byl sládkem (Lažany?) a kde zemřel (před 1887); narození Aloisie asi 1832 (Praha / Čížová).
+
+L3. Čeněk (Vincenc) Löw – majitel domu Nové Město č. 418 (Na hrobci, bývalá fara u sv. Vojtěcha) od 1831; křest asi 1795–1815, sňatek, úmrtí; souvislé čtení zemřelých sv. Vojtěch 1810–1833 (Antonín Löw). Plné znění v chatu 21. 11.

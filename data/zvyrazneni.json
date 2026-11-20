@@ -2188,5 +2188,77 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "n_1759_kochova_anna": {
+  "boxes": [
+   [
+    0.0,
+    0.12,
+    1.0,
+    0.92
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1751_koch_vaclav": {
+  "boxes": [
+   [
+    0.0,
+    0.12,
+    1.0,
+    0.95
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "n_1754_koch_jiri": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "o_1748_koch_johana": {
+  "boxes": [
+   [
+    0.0,
+    0.3,
+    1.0,
+    0.97
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1782_koch_jakub": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1758_kochova_anna": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

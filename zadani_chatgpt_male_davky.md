@@ -23,3 +23,10 @@ Anna, dcera † Jakuba Kocha, × 12. 6. 1786 Poděbrady Josef de Giller (26 let 
 Augustin z Gillernů * 22. 9./10. 1859 Spolí (fara Oslov), knížecí schwarzenberský lesník (Bohostice/Lavičky 1891–1902, revírník Běchčín 1907, nadlesní Vrábsko č. 1 u Čimelic 1924) × 9. 11. 1889 Písek Marie Karolina Linková * 9. 1. 1869 Písek, dcera mlynáře Karla Linka. Naposledy živí oba 1924 (kmotři vnuka v Osově). Syn Jan z Gillernů (Osov č. 55, pak Hrnčíře u Prahy, † 1940, pohřben v Písku). Domovská obec Louka (fara Oslov – matriky 1894–1949 nejsou online). Čimelice Z 1877–1949 a Kunratice Z 1902–1944 bez nich.
 - Etapa 1: tisk (Kramerius ČDK / NDK) 1924–1960 a hroby (Písek, Čimelice, Billiongraves, Find a Grave).
 - Etapa 2: Osov a okolí Z 1924–1950 (eBadatelna) a ostatní stopy (Amerika).
+
+## Další dávka (20. 11. 2026 večer) – plné znění poslané Janovi v chatu
+1. Původ Maximiliána – Dvorce u Bruntálu (ZA Opava), křty Gillerů 1680–1730, sňatky a úmrtí 1680–1760.
+2. Josefův křest a Maximiliánova svatba – Sadská přímé N 1735–1749, O a Z 1735–1750.
+3. Maximilián po 1782 – Poděbrady O 1782–1800 (2. sňatek, sňatky dětí), poslední kmotrovství; úmrtí 1786–1810 v okolních farách.
+4. Karel Linek a Aloisie roz. Löwová – Písek Z (SOA Třeboň) rejstřík L 1869–1930, Lažany; Kramerius JVK.
+Jan sám (Třeboň): Písek 66A (Z 1928–1938), duben 1934 – přesný den úmrtí Augustina.

@@ -151,7 +151,7 @@
     },
     {
       "rok": "1817",
-      "text": "V Malejovicích u Uhlířských Janovic umírá sedmdesátiletý „Franz von Gillern, penzionovaný adjunkt u myslivosti“ (24. 4.) – nejspíš syn Maximiliána, tedy strýc našeho Františka (otcem Františka je doloženě Josef † 1799).",
+      "text": "V Malejovicích u Uhlířských Janovic umírá sedmdesátiletý „Franz von Gillern, penzionovaný adjunkt u myslivosti“ (24. 1.) – nejspíš syn Maximiliána, tedy strýc našeho Františka (otcem Františka je doloženě Josef † 1799).",
       "zdroj": "matrika Uhlířské Janovice 04, s. 356"
     },
     {
@@ -496,7 +496,7 @@
   "osoby": [
     {
       "jmeno": "Franz von Gillern",
-      "roky": "asi 1747 – 24. 4. 1817",
+      "roky": "asi 1747 – 24. 1. 1817",
       "text": "Penzionovaný adjunkt u myslivosti („bei der Jägerey“), zemřel v Malejovicích č. 1 na souchotiny, 70 let (* asi 1747). Nejspíš příbuzný – snad bratr Josefa, a tedy Františkův strýc; doklad chybí.",
       "zdroj": "matrika Uhlířské Janovice 04, s. 356 (eBadatelna 13044/178)",
       "stav": "doc",
@@ -786,9 +786,11 @@
       "fakta": [
         "* asi 1747 (70 let při úmrtí)",
         "penzionovaný adjunkt u myslivosti („pensionierter Adjunkt bei der Jägerey“)",
-        "† 24. 4. 1817 Malejovice č. 1 (fara Uhlířské Janovice), souchotiny; pohřben 26. 4.",
+        "† 24. 1. 1817 Malejovice č. 1 (fara Uhlířské Janovice), souchotiny; pohřben 26. 1.",
         "v rejstříku zemřelých: „1817 von Giller Franz, 1, Mayelow., IV 356“",
-        "Malejovice leží pár kilometrů od Mitrova, kde se 1821 ženil náš František, a svědkem byl lesník Clanner z Malejovic"
+        "Malejovice leží pár kilometrů od Mitrova, kde se 1821 ženil náš František, a svědkem byl lesník Clanner z Malejovic",
+        "20. 2. 1773 v Poděbradech (dítě z Pátku č. 4) kmotrem „Franciscus de Gyller (?)“ – nejspíš týž; 1770 kmotrem „Perillustris D. Ludovicus de Gyller“ (Poděbrady 11841/125)",
+        "totožnost neprokázána: může být Maximiliánův syn František Ludvík Alexandr (* 1/1753 Bor Bobnický – pak by mu bylo 63, ne 70), jiný Maximiliánův syn (* asi 1747), nebo jeho bratr; v Malejovicích č. 1 bydlel 1819 lesník Maximilián Clanner (Maximiliánův vnuk)"
       ],
       "zaznamy": [
         "z_1817_gillern_franz"

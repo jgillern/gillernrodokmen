@@ -4,7 +4,7 @@
   "lead": "Všechno, co víme o celém rodu z Gillernů – nejen o naší přímé linii. Šlechtický rod, jeho větve na Moravě, ve Slezsku, v Prusku a ve Vídni, lesníci kolem Poděbrad a Kutné Hory a stopy, které nás k nim možná vedou. Stránka roste s každým nálezem.",
   "uvod": [
     "Gillernové jsou starý rod, který se podle německé Wikipedie odvozuje od měšťanů Gillerů z Laufenburgu a Waldshutu v jihozápadním Německu (14.–16. století). Roku 1568 dostal Matouš Giller český erbovní list s přídomkem „von Lilienfeld“, v 17. a 18. století přišla další povýšení – už jako „von Gillern“ – až po stav svobodných pánů (baronů). Rod se rozvětvil do Slezska a Pruska, na Moravu (panství Koryčany), do Čech a do Vídně.",
-    "Naše přímá linie je v matrikách doložená až k Maximiliánovi svobodnému pánu z Gillernů, „nejvyššímu myslivci“ (nadlesnímu) c. k. komorního panství Poděbrady. Jeho syn Josef byl myslivcem a revírníkem, vnuk František (1785–1840) schwarzenberským revírníkem v Kostelci nad Vltavou a odtud vede linie přes lesníky na Orlíku až k dnešním Gillernům. Neznáme už jen jedno: odkud do Poděbrad přišel sám Maximilián a jak navazuje na Karla Josefa z Gillernů a další větve šlechtického rodu. A v Čechách se šlechtická větev psala „Giller (Edler) von Gillern“ – přesně tak, „Edler von Gillern“, je zapsán i Františkův vnuk Čeněk (1854)."
+    "Naše přímá linie je v matrikách doložená až k Maximiliánovi svobodnému pánu z Gillernů, „nejvyššímu myslivci“ (nadlesnímu) c. k. komorního panství Poděbrady. Jeho syn Josef byl myslivcem a revírníkem, vnuk František (1785–1840) schwarzenberským revírníkem v Kostelci nad Vltavou a odtud vede linie přes lesníky na Orlíku až k dnešním Gillernům. Neznáme hlavně, odkud kolem roku 1750 do Polabí přišel sám Maximilián a jak navazuje na Karla Josefa z Gillernů a další větve šlechtického rodu. A v Čechách se šlechtická větev psala „Giller (Edler) von Gillern“ – přesně tak, „Edler von Gillern“, je zapsán i Františkův vnuk Čeněk (1854)."
   ],
   "erb": {
     "obrazek": "/erb/gillern-600.webp",
@@ -59,11 +59,6 @@
       "zdroj": "Wikipedie"
     },
     {
-      "rok": "1764–1766",
-      "text": "Kristián Matyáš Antonín z Gillernů, podplukovník – rytířský stav „von Gillern“ a český inkolát (1764), rakouský stav svobodných pánů (1766).",
-      "zdroj": "Vyšín 1978; Rakouský státní archiv (RAA 143.34)"
-    },
-    {
       "rok": "1750–1753",
       "text": "Nejstarší známá stopa Maximiliána: jako „Maximilian Jozef Emanuel von Gyller, myslivec“ žije v hájovně Bor Bobnický u Nymburka s manželkou Johannou; křtí se tu Anna Alexie Barbora (1750), Marie Johanna Terezie (1751) a František Ludvík Alexandr (1753 – pozdější „Ludovicus de Gyller“).",
       "zdroj": "matrika Nymburk 07 (eBadatelna 10406), zpráva ChatGPT 20. 11. 2026"
@@ -84,13 +79,18 @@
       "zdroj": "matrika Čelákovice (eBadatelna 4722)"
     },
     {
+      "rok": "1764–1766",
+      "text": "Kristián Matyáš Antonín z Gillernů, podplukovník – rytířský stav „von Gillern“ a český inkolát (1764), rakouský stav svobodných pánů (1766).",
+      "zdroj": "Vyšín 1978; Rakouský státní archiv (RAA 143.34)"
+    },
+    {
       "rok": "1765",
       "text": "V Pardubicích se žení Bedřich baron Gyller, kapitán císařského pluku Pallavicini, s Annou, dcerou měšťana Josefa Nešky (?) – blízký příbuzný Maximiliána.",
       "zdroj": "matrika Pardubice O 1737–1784 (ARON, sign. 1517)"
     },
     {
       "rok": "kolem 1769",
-      "text": "Maximilián svobodný pán z Gillernů se stává nadlesním („nejvyšším myslivcem“) poděbradského komorního panství – po Janu Hoffmannovi, pod nímž sloužil už 1756 v Hradištku. Odkud pochází a kde se kolem roku 1737 narodil jeho syn Josef (z prvního manželství?), zatím nevíme.",
+      "text": "Maximilián svobodný pán z Gillernů se stává nadlesním („nejvyšším myslivcem“) poděbradského komorního panství – po Janu Hoffmannovi, pod nímž sloužil už 1756 v Hradištku. Odkud pochází a kde a kdy se narodil jeho syn Josef (asi 1738, nebo asi 1746/47 – matriky si odporují), zatím nevíme.",
       "zdroj": "matriky Poděbrady 05, 07, 11, 30"
     },
     {
@@ -126,8 +126,8 @@
     },
     {
       "rok": "1787–1789",
-      "text": "Josef a Anna Kochová odcházejí z Poděbrad na komorní panství Kolín. Maximilián zůstává v Poděbradech (ještě 1786 žije); kde a kdy zemřel, nevíme.",
-      "zdroj": "úmrtí Poděbrady 1771–1806 prohlédnuta"
+      "text": "Josef a Anna Kochová odcházejí z Poděbrad na komorní panství Kolín. Maximilián ještě 1786 žije; kde a kdy zemřel, nevíme – v Poděbradech a okolí 1786–1810 jeho úmrtí není.",
+      "zdroj": "úmrtí Poděbrady a okolí 1786–1810 prohlédnuta"
     },
     {
       "rok": "1789–1798",
@@ -135,14 +135,14 @@
       "zdroj": "matrika Ovčáry 03 (eBadatelna 10790/6–10)"
     },
     {
-      "rok": "1799",
-      "text": "2. února umírá v Býchorech č. 11 „pan Josef z Gillernů, myslivec“, 52 let, nejspíš na souchotiny. Vdova Anna Kochová se zřejmě vrací do Poděbrad, kde 1822 umírá jako „vdova po Josefu Gillerovi, lesníkovi“.",
-      "zdroj": "matrika Ovčáry 14 – Býchory Z (eBadatelna 10801/8)"
-    },
-    {
       "rok": "1793",
       "text": "Kristián Matyáš Antonín odkazuje Koryčany dceři Marii Josefě, provdané Münch-Bellinghausen – moravská větev o panství přichází.",
       "zdroj": "Vyšín 1978"
+    },
+    {
+      "rok": "1799",
+      "text": "2. února umírá v Býchorech č. 11 „pan Josef z Gillernů, myslivec“, 52 let, nejspíš na souchotiny. Vdova Anna Kochová se zřejmě vrací do Poděbrad, kde 1822 nejspíš umírá jako „vdova po Josefu Gillerovi, lesníkovi (?)“.",
+      "zdroj": "matrika Ovčáry 14 – Býchory Z (eBadatelna 10801/8)"
     },
     {
       "rok": "1817",
@@ -168,7 +168,7 @@
     },
     {
       "rok": "1840",
-      "text": "2. srpna umírá v Kostelci nad Vltavou č. 30 ve věku 50 let František z Gillernů, knížecí schwarzenberský revírník. Dva roky před ním tu na vodnatelnost zemřela jeho žena Anna (28. 7. 1838, 40 let) a předtím dva malí synové, Augustin (1836) a Karel (1838). Sedmnáctiletý Vincenc zůstal sirotkem.",
+      "text": "2. srpna umírá v Kostelci nad Vltavou č. 30 v 55 letech (farář napsal 50) František z Gillernů, knížecí schwarzenberský revírník. Dva roky před ním tu na vodnatelnost zemřela jeho žena Anna (28. 7. 1838, 40 let) a předtím dva malí synové, Augustin (1836) a Karel (1838). Sedmnáctiletý Vincenc zůstal sirotkem.",
       "zdroj": "matrika zemřelých Kostelec nad Vltavou, kniha II, s. 22, 26, 28",
       "osoba": "franz-frantisek-z-gillernu-1785"
     },
@@ -272,10 +272,10 @@
         "id": "eleonora",
         "s": 1,
         "r": 2,
-        "jmeno": "Eleonora Mariana z G.",
-        "roky": "× J. B. Clanner",
+        "jmeno": "Marie Eleonora z G.",
+        "roky": "* 1757, × J. B. Clanner",
         "pozn": "forstmistr v Poděbradech",
-        "stav": "lit",
+        "stav": "doc",
         "profil": "eleonora"
       },
       {
@@ -305,7 +305,7 @@
         "jmeno": "Maximilián Clanner z E.",
         "roky": "1784–1847",
         "pozn": "lesník, vnuk barona z G.",
-        "stav": "lit",
+        "stav": "doc",
         "profil": "clanner"
       },
       {
@@ -343,7 +343,7 @@
         "s": 2,
         "r": 5,
         "jmeno": "Augustin z Gillernů",
-        "roky": "* 1859",
+        "roky": "1859–1934",
         "pozn": "lesní, nadlesní ve Vrábsku",
         "stav": "doc",
         "osoba": "augustin-z-gillernu-1859"
@@ -429,7 +429,7 @@
       {
         "z": "maxmilian",
         "do": "eleonora",
-        "typ": "lit",
+        "typ": "doc",
         "popis": "dcera"
       },
       {
@@ -500,7 +500,7 @@
     {
       "jmeno": "Maximilián svobodný pán z Gillernů",
       "roky": "2. pol. 18. stol.",
-      "text": "„Nejvyšší myslivec“ (nadlesní) c. k. komorního panství Poděbrady – v matrikách 1781 „Perill. D. Maximilianus L. Baro de Giller“; celým jménem Maximilián Josef Emanuel. Kariéra v císařských lesích: Bor Bobnický u Nymburka (1750–1753), Hradištko (1756), Kladruby nad Labem (1757–1761), Čelákovice (1762–1766), Poděbrady (asi od 1769). Manželka Johanna († 1782), s ní nejméně devět dětí 1750–1766; syn Josef (* asi 1737, jinde) nejspíš z prvního manželství. Pradědeček našeho Františka.",
+      "text": "„Nejvyšší myslivec“ (nadlesní) c. k. komorního panství Poděbrady – v matrikách 1781 „Perill. D. Maximilianus L. Baro de Giller“; celým jménem Maximilián Josef Emanuel. Kariéra v císařských lesích: Bor Bobnický u Nymburka (1750–1753), Hradištko (1756), Kladruby nad Labem (1757–1761), Čelákovice (1762–1766), Poděbrady (asi od 1769). Manželka Johanna († 1782), s ní nejméně devět dětí 1750–1766; syn Josef (* asi 1738, nebo 1746/47 – rozpor; narozen jinde), snad z prvního manželství. Dědeček našeho Františka.",
       "zdroj": "matriky Nymburk, Sadská, Kladruby, Čelákovice, Poděbrady; M. Hanuš 1998",
       "odkaz": "https://pratelepardubicka.cz/eduard-napravnik-iv-cast-rod-clanneru-z-engelshofenu/",
       "stav": "doc",
@@ -509,7 +509,7 @@
     {
       "jmeno": "Johanna z Gillernů",
       "roky": "asi 1723 – 18. 2. 1782",
-      "text": "Manželka svobodného pána Maximiliána z Gillernů, „vrchního představeného myslivců“ v Poděbradech; pohřbena u sv. Kříže v Poděbradech. Josefovou matkou nebyla (věkem nemohla být); nejspíš Maximiliánova druhá manželka.",
+      "text": "Manželka svobodného pána Maximiliána z Gillernů, „vrchního představeného myslivců“ v Poděbradech; pohřbena u sv. Kříže v Poděbradech. Josefovou matkou mohla být, jen pokud se Josef narodil asi 1746/47; při narození asi 1738 to byla nejspíš Maximiliánova druhá manželka – nerozhodnuto.",
       "zdroj": "matrika Poděbrady 37, s. 83 (eBadatelna 11867/86)",
       "stav": "doc"
     },
@@ -640,10 +640,10 @@
     }
   ],
   "otazky": [
-    "Odkud přišel Maximilián svobodný pán z Gillernů? Nejstarší stopa je z roku 1750 (Bor Bobnický u Nymburka) – kde byl předtím, kde se kolem roku 1737 narodil jeho syn Josef a kdo byla Josefova matka (Maximiliánova první manželka)?",
+    "Odkud přišel Maximilián svobodný pán z Gillernů? Nejstarší stopa je z roku 1750 (Bor Bobnický u Nymburka) – kde byl předtím a kde se narodil jeho syn Josef?",
     "Kdy se narodil Josef z Gillernů – asi 1738 (48 let při sňatku 1786), nebo asi 1746/47 (52 let při úmrtí 1799)? V druhém případě mohla být jeho matkou Maximiliánova manželka Johanna. Kde a kdy zemřel Maximilián?",
     "Byl „Franz von Gillern“ († 1817 Malejovice, * asi 1747) synem Maximiliána a bratrem Josefa?",
-    "Kdo byla Maximiliánova manželka Johanna (* asi 1723, † 1782) a odkud pocházel sám Maximilián svobodný pán z Gillernů?",
+    "Kdo byla Maximiliánova manželka Johanna (* asi 1723, † 1782)?",
     "Je JUDr. Karel Gillern (1888–1953) opravdu syn Čeňka z Gillernů?",
     "Jak se česká větev napojuje na Karla Josefa z Gillernů (rytíř „Edler von Gillern“ 1724/1726) – a tedy přes kolik kolen jsme příbuzní s moravskými a pruskými barony?",
     "Ke které větvi starého rodopisu (Sinapius 1728) patří Maximilián – je to syn některého ze synů Friedricha Wilhelma I. (Franz Leopold, Friedrich Wilhelm II., Johann Peter, Carl Ludwig, Karel Josef), nebo z mladší větve (Carl Heinrich, Johann Christoph, Frantz Joseph)?",
@@ -802,7 +802,7 @@
       ]
     },
     "eleonora": {
-      "jmeno": "Eleonora Mariana z Gillernů",
+      "jmeno": "Marie Eleonora z Gillernů",
       "roky": "* 1757",
       "stav": "doc",
       "vazba": "dcera Maximiliána svobodného pána z Gillernů – sestra (nejspíš nevlastní) Josefa, tedy teta našeho Františka",
@@ -841,7 +841,7 @@
       "krest": "Maximilián Jan Křtitel Ignác",
       "roky": "1784–1847",
       "stav": "doc",
-      "vazba": "vnuk Maximiliána svobodného pána z Gillernů; svědek na svatbě Františka z Gillernů 1821 – nejspíš jeho bratranec",
+      "vazba": "vnuk Maximiliána svobodného pána z Gillernů; svědek na svatbě Františka z Gillernů 1821 – jeho bratranec (snad nevlastní)",
       "fakta": [
         "* a pokřtěn 8. 11. 1784 Poděbrady č. 40; otec Jan (Baptista) z Klanneru, lesník (Silvanus) c. k. komorního panství Poděbrady, matka Eleonora (z Gillernů); kmotr v zastoupení Ignác z Gillernů „ve Slezsku“",
         "starší sestra Marie Anna Apolonie (* 1781)",
@@ -871,7 +871,7 @@
           "osoba": "maximilian-svobodny-pan-z-gillernu"
         },
         {
-          "vztah": "bratranec (?)",
+          "vztah": "bratranec",
           "osoba": "franz-frantisek-z-gillernu-1785"
         }
       ],

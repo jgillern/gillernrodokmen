@@ -38,3 +38,5 @@ L2. František Löw po roce 1855 – kde byl sládkem (Lažany?) a kde zemřel (
 L3. Čeněk (Vincenc) Löw – majitel domu Nové Město č. 418 (Na hrobci, bývalá fara u sv. Vojtěcha) od 1831; křest asi 1795–1815, sňatek, úmrtí; souvislé čtení zemřelých sv. Vojtěch 1810–1833 (Antonín Löw). Plné znění v chatu 21. 11.
 
 L4. Linkovi po roce 1889 – které Lažany („Aloisie z Lažan“ 1894), matriky Z tamějších far po 1889 (Karel, Aloisie), stopy synů Josefa (* 1853) a Františka (* 1855). Plné znění v chatu 21. 11.
+
+B1. Beranovi – sčítání lidu 1910 Velká Jesenice (ARON, SOkA Náchod: sčítací archy) → narození a rodiště Josefa st. a Emilie; záloha: sňatek 1906–1910 v okolních farách (rejstříky O pod B). Plné znění v chatu 21. 11.

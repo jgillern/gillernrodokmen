@@ -2284,5 +2284,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "z_1934_gillern_augustin_pisek": {
+  "boxes": [
+   [
+    0.0,
+    0.15,
+    1.0,
+    0.68
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

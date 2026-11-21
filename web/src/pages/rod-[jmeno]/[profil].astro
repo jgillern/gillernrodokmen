@@ -36,7 +36,7 @@ const vGrafu = d.graf?.uzly?.some((u) => u.profil === id);
   <div class="chips">
     {p.roky && <span class="chip">{p.roky}</span>}
     {p.krest && <span class="chip">pokřtěn(a): {p.krest}</span>}
-    <span class="chip">mimo přímou linii</span>
+    {!p.prima && <span class="chip">mimo přímou linii</span>}
     <span class={`chip ${STAV[p.stav]?.cls ?? 'st-unk'}`}>{STAV[p.stav]?.label ?? p.stav}</span>
   </div>
   {p.vazba && <p class="lead">{p.vazba}</p>}

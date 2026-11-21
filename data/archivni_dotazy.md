@@ -99,3 +99,5 @@ Válečný archiv (Kriegsarchiv): musterlisty pěších pluků „Gayer/Geyer“
 - **Knihovna ČGHSP (Česká genealogická a heraldická společnost v Praze):** Zdeněk Nechanický, *Český šlechtic JUDr. Bedřich Gillern a jeho osudy* (2022), č. 12461–12462 – vypůjčit / nahlédnout; autora případně kontaktovat přes společnost.
 - **SOkA Ústí nad Orlicí:** třídní katalog / maturitní protokol VIII. třídy gymnázia Vysoké Mýto 1948 (Bedřich Gillern – rodiče, narození).
 - Úmrtí JUDr. Karla 1953 (snad Mariánské Lázně) – matriční úřad Mariánské Lázně.
+
+| Ignác z Gillernů (Mösen u Otmuchova?) | Grund Akten von der rittermäßigen Scholtisei zu Mösen Vol I, 1743–1818; pozemkové knihy Mösen (1785–) a Reisewitz (1792–) | AP Opole, Sąd Obwodowy w Otmuchowie 45/1251/0/11.47/3160, 10.27/414–415, 10.39/521 (bez skenů) | držitelé šoltézství po 1784 – Gillern? |

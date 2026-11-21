@@ -4,6 +4,13 @@ Pomáháš s rodokmenem rodiny Gillernů. Na výzkumu dosud pracovali dva AI asi
 
 Výstup piš **česky**, srozumitelně i pro člověka bez genealogické praxe (odborné termíny krátce vysvětli).
 
+## Jak pracovat v této relaci (Claude Code)
+
+- Pracuješ v klonu repozitáře `jgillern/gillernrodokmen` (větev `claude/nice-dirac-8inizg`). **Nic neměň, necommituj a nepushuj** – jedinou výjimkou je soubor s výsledkem (viz níže).
+- Soubor `CLAUDE.md` se ti do relace načte automaticky. **Pro tento úkol z něj platí jen bod 4** (na weby archivů jen přes brzdu `tools/slusne.py` a s respektem k robots.txt). Ostatní body – načíst skill `rodokmen`, pokračovat v rozpracovaných úkolech, komunikovat podle něj – pro tebe neplatí: skill nespouštěj a v rozpracované práci nepokračuj. Tvým jediným úkolem je revize popsaná níže.
+- Velké soubory (`data/research_log.md` má asi 370 kB) čti po částech a vyhledávej v nich (grep), obrázky ve `vyrezy/` a `zdroje/` otvírej jen tam, kde potřebuješ ověřit konkrétní čtení.
+- Výsledek ulož do souboru `revize_maximilian_fable.md` v kořeni repozitáře (necommituj ho) a do chatu napiš krátké shrnutí (10–15 řádků).
+
 ## Co máš k dispozici
 
 GitHub repozitář `jgillern/gillernrodokmen`, větev `claude/nice-dirac-8inizg`. **Čti jen obsahovou část:**

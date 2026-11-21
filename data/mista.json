@@ -315,7 +315,7 @@
   "osm": "Bernartice, okres Písek, Jihočeský kraj, 398 43, Česko"
  },
  "Milevsko": {
-  "re": "Milevsk|Milevsk",
+  "re": "[Mm]ilevsk",
   "dotaz": "Milevsko, okres Písek",
   "lat": 49.4503,
   "lon": 14.3595,
@@ -406,7 +406,7 @@
   "osm": "Bobnice, okres Nymburk, Středočeský kraj, 289 31, Česko"
  },
  "Praha": {
-  "re": "Praha",
+  "re": "Prah|Praz",
   "dotaz": "Praha, Česko",
   "lat": 50.0875,
   "lon": 14.4213,
@@ -454,13 +454,6 @@
   "lon": 14.6039,
   "osm": "Červený Újezd, okres Benešov, Středočeský kraj, 257 88, Česko"
  },
- "Zhoř u Tábora": {
-  "re": "Zhoře (?), okr. Tábor",
-  "dotaz": "Zhoř, Tábor, Česko",
-  "lat": 49.3572,
-  "lon": 14.658,
-  "osm": "Zhoř u Tábora, okres Tábor, Jihočeský kraj, Česko"
- },
  "Malejovice": {
   "re": "Malejovic",
   "dotaz": "Malejovice, Česko",
@@ -481,5 +474,56 @@
   "lat": 49.5153,
   "lon": 14.1822,
   "pozn": "osada obce Orlík nad Vltavou (okr. Písek); souřadnice ručně, přibližně"
+ },
+ "Lety": {
+  "re": "Letech",
+  "dotaz": "Lety, okres Písek",
+  "lat": 49.5169,
+  "lon": 14.0877,
+  "osm": "Lety, okres Písek, Jihočeský kraj, Česko"
+ },
+ "Hradiště (u Kondrace)": {
+  "re": "Hradišt[ěi] č\\. 4|Hradiště 4",
+  "dotaz": "Hradiště, okres Benešov",
+  "lat": 49.6849,
+  "lon": 14.8437,
+  "osm": "Hradiště, okres Benešov, Středočeský kraj, Česko"
+ },
+ "Hodonín u Zdíkova": {
+  "re": "Hodonín",
+  "dotaz": "Hodonín, Zdíkov",
+  "lat": 49.1103,
+  "lon": 13.6913,
+  "osm": "Hodonín, Zdíkovec, Zdíkov, okres Prachatice, Jihočeský kraj, Česko"
+ },
+ "Vrbice": {
+  "re": "Vrbic",
+  "dotaz": "Vrbice, okres Prachatice",
+  "lat": 49.1443,
+  "lon": 13.707,
+  "osm": "Vrbice, okres Prachatice, Jihočeský kraj, Česko"
+ },
+ "Dobrošovice": {
+  "re": "Dobrošovic",
+  "dotaz": "Dobrošovice, Jesenice",
+  "lat": 49.597,
+  "lon": 14.4946,
+  "osm": "Dobrošovice, Jesenice, okres Příbram, Středočeský kraj, Česko"
+ },
+ "Doubravice": {
+  "re": "Doubravic",
+  "dotaz": "Doubravice, Sedlčany",
+  "lat": 49.6382,
+  "lon": 14.423,
+  "osm": "Libíň a Doubravice, Sedlčany, okres Příbram, Středočeský kraj, Česko",
+  "pozn": "nejbližší obec toho jména (asi 14 km od Vísky); souřadnice přibližně"
+ },
+ "Bratříkovice": {
+  "re": "Bratříkovic",
+  "dotaz": "Bratříkovice, Nechvalice",
+  "lat": 49.5592,
+  "lon": 14.395,
+  "osm": "Bratříkovice, Mokřany, Nechvalice, okres Příbram, Středočeský kraj, Česko",
+  "pozn": "asi 4 km od Vitína, kde žila Zelenkova dcera"
  }
 }

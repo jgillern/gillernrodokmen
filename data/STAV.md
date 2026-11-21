@@ -113,3 +113,22 @@ Rámec: po 5/1828 rodina zmizela ze Šebestěnic (Zbyšov Z 1836–1852 bez Gill
 | Bezkočkovi | Jan Bezkočka, domkář Vitín 8 (syn †Jakuba, sedláka z Roviny 7, × Kateřina Trnková?) × Marie Zelenková (dcera Josefa Zelenky × Anna Saborová?); děti 1850–59 | sňatek ve Vitíně (Počepice 22) 1846–50 – ne; v Rovině (Počepice 22) 1846–1/1853 – ne; v Nechvalicích (index Nechvalice 18, písm. B) 1815–1871 – ne (jen František Bezkočka × Barbora Kutelová 1851) | sňatek jinde (rodiště nevěsty – určit obec Marie Zelenkové); narození Jana Bezkočky Rovina 7 asi 1818–28 (Počepice 27 index B, zvětšit); narození Marie Zelenkové (Nechvalice 04, N 1823–42) |
 | Píšovi | Jakub Píša z Kondrace († před 1723) – otec Víta (× 1723 Anna Mudrá?) | narození Víta v indexu N Kondrac 1684–1716 (P) – ne (Vít 1691 = Přibyl) | Vít narozen mimo farnost Kondrac; úmrtí Jakuba před 1723 (Kondrac 12, Z 1684–1751) uvede věk |
 | Svatkovi | Jan Svatek, krejčí/chalupník Buková 5 (otec Ludmily * 1893), syn Františka Svátka, rolníka ze Bzové č. 1, × Barbory (fara Šebířov, SOA Třeboň) | Šebířov N Bzová 1849–1855 kompletně (7776 fol. 36–40, 7777 pag. 100–103) a index S 1856–1864 (7782 sn. 86–88) – ne; kandidát 1859 Bzová 6 = nemanželský, jiný | Bzová N 1840–1848 (7776 fol. ~30–35); Jan mohl být starší (sňatek ~1880, dítě 1881) nebo narozen jinde; index S do 1855 nenalezen; v Bzové víc rodin Svatků (č. 2, 6, 8, 11, 14, 15, 18), r. 1852 rychtář Jan Svátek |
+
+## Místa k upřesnění (mapa) – 21. 11. 2026
+Na mapě jsou jen obce, které jdou určit spolehlivě. 21. 11. 2026 prověřeny všechny obce s otazníkem: čtení „Ostrovec“ (Hřídelovi) opraveno podle zápisu bratra Jakuba 1840 na **Lety** (okr. Písek, 2 km od Horosedel); doplněny Lety, Hradiště u Kondrace (fara Kondrac), Hodonín u Zdíkova (fara Zdíkovec), Vrbice (okr. Prachatice, 6 km od Zdíkovce, čteno ve dvou zápisech), Dobrošovice (7 km od Vísky), Doubravice u Sedlčan (nejbližší obec toho jména, 14 km), Bratříkovice (4 km od Vitína). **Zhoř u Tábora z mapy odebrána** – viz níže. Zbývá:
+
+| Osoba | Jak stojí v zápisu | Proč nejisté | Kandidáti / co zkusit |
+|---|---|---|---|
+| 75 Marie Pazdlová (1828, 1842) | „z Čakovic (?) č. 1“ (první písmeno Č/Ť/Ž) | Čakovice u Týnce n. S. 56 km – nepravděpodobné | **Kakovice** (část Mirovic, 2 km od Horosedel), Žďákov (Orlík); ověřit v knize Mirovice N, oddíl Kakovice, Pazdel č. 1 |
+| 84 František Otradovec (1876) | „chalupník v Nových Dvořích č. 6 (?), okres Sedlčanský“ | několik Nových Dvorů | **Nové Dvory u Sedlce-Prčice** (10 km od Vísky, v býv. okr. Sedlčany); ověřit v knihách fary Sedlec |
+| 85 Františka Pětivlasová (1876) | „dcera Vojtěcha Pětivlasa, rolníka v Zhoře (?), okres Táborský“ | čtení obce nejisté; v okr. Tábor jsou dvě Zhoře | **Zhoř u Mladé Vožice** (asi 8 km od Mutic) spíš než Zhoř u Tábora (25 km); ověřit Pětivlase v knihách fary Zhoř |
+| 91 Marianna (matka Marie Šedinové) | „ze Stašova (?)“ (1848) / „z Rašovic (?)“ (1844) | dva zápisy se neshodují, žádná obec toho jména v okolí Mezna | přečíst znovu oba výřezy; okolní obce fary Střezimíř a Jistebnice |
+| 95 Barbora Švecová (1821) | „sedláka z Bolu (?)“ | obec „Bol“ neexistuje | podobné názvy v okolí Mezna (Boleč? Bořetice?); zápis sňatku Melich × Švecová |
+| 89 Josefa Dušková | „z Pačic (?)“ (1844), „z Klepaného (?)“ (1820) | čtení nejisté, zápisy se neshodují | Pačice? (okolí Střezimíře) – přečíst znovu |
+| 241, 482 Soublovi | „ze Sirčic (?) č. 8 / č. 12, okr. Mladá Vožice“ | obec Sirčice neexistuje | podobné názvy v okolí Mladé Vožice (Šebířov, Cirkvice?); hledat Soubly v rejstřících fary Mladá Vožice |
+| 278 Jiří Precht, mlynář (1782) | „ex Pago Liboriz (?)“ | Libořice u Loun 61 km od Osova – nepravděpodobné | mlýny v okolí Osova a Libomyšle; přečíst znovu |
+| 125 Barbora Svatková (1875) | „z Blatnice (?) č. 27 / č. 16“ (Svatkovi) | čtení nejisté | ověřit v knihách fary Šebířov |
+| 167 Magdalena | „z … č. 38“ | obec nečitelná | najít jiný zápis téže rodiny |
+| 219 Rozyna Hadová | „… Hada (?), sedláka z … (?)“ | obec nečitelná | najít jiný zápis téže rodiny |
+
+Pozn.: Spolí má souřadnice zadané ručně (přibližně); Doubravice = přibližný střed katastru Libíň a Doubravice.

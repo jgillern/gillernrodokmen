@@ -887,5 +887,40 @@
   "popis": "Římskokatolická fara Preichau (dnes Przychowa), Dolní Slezsko. Snímky z domu po přihlášení (FamilySearch). Neindexováno.",
   "snimku": 543,
   "url": "https://www.familysearch.org/search/catalog/koha:3821"
+ },
+ "wien_schotten_02-23": {
+  "archiv": "Diözesanarchiv Wien",
+  "portal": "Matricula",
+  "svazek": "Wien, Unsere Liebe Frau zu den Schotten, Trauungsbuch 02-23 (1721–1725)",
+  "popis": "Kniha oddaných skotské farnosti ve Vídni (Schottenpfarre); rejstřík G na snímku 476.",
+  "url": "https://data.matricula-online.eu/de/oesterreich/wien/01-unsere-liebe-frau-zu-den-schotten/02-23/"
+ },
+ "wien_stephan_03-29": {
+  "archiv": "Diözesanarchiv Wien",
+  "portal": "Matricula",
+  "svazek": "Wien, Dom- und Metropolitanpfarre St. Stephan, Sterbebuch 03-29",
+  "popis": "Kniha zemřelých (přehled pohřbů a poplatků) dómské farnosti sv. Štěpána ve Vídni; srpen 1762 = s. 101 (snímek 135).",
+  "url": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/03-29/"
+ },
+ "wien_stephan_03-30": {
+  "archiv": "Diözesanarchiv Wien",
+  "portal": "Matricula",
+  "svazek": "Wien, Dom- und Metropolitanpfarre St. Stephan, Sterbebuch 03-30 (1765–1768)",
+  "popis": "Kniha zemřelých farnosti sv. Štěpána ve Vídni; červenec 1766 = s. 98 (snímek 124).",
+  "url": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/03-30/"
+ },
+ "wien_stephan_01-087": {
+  "archiv": "Diözesanarchiv Wien",
+  "portal": "Matricula",
+  "svazek": "Wien, Dom- und Metropolitanpfarre St. Stephan, Taufbuch 01-087 (1767–1768)",
+  "popis": "Kniha pokřtěných farnosti sv. Štěpána ve Vídni; rejstřík G snímek 526.",
+  "url": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-087/"
+ },
+ "wien_stephan_01-088": {
+  "archiv": "Diözesanarchiv Wien",
+  "portal": "Matricula",
+  "svazek": "Wien, Dom- und Metropolitanpfarre St. Stephan, Taufbuch 01-088 (1768–1770)",
+  "popis": "Kniha pokřtěných farnosti sv. Štěpána ve Vídni; rejstřík G snímek 606.",
+  "url": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-088/"
  }
 }

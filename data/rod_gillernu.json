@@ -222,7 +222,7 @@
       "nazev": "1. větev – Dvorce, Koryčany a pruští baroni",
       "obdobi": "1688–20. století",
       "barva": "#8f5b6e",
-      "text": "Friedrich Wilhelm I. Giller (1651–1728), správce (Amtmann) a pak „hejtman“ v Karlovci (Carlsberg) u Dvorců u Bruntálu (Hof) – Karlovec patřil k šternberskému panství, od roku 1695 lichtenštejnskému. Ve Dvorcích dal v letech 1688–1699 pokřtít nejméně osm dětí, mezi nimi Friedricha Wilhelma II. (1688, podplukovník) a Carla Josepha (1696) – pozdějšího dvorního radu Karla Josefa, svobodného pána od 1732 a od 1742 pána Koryčan. Podle Sinapia měl i syny Johanna Petera a Carla Ludwiga. Karel Josef synovy nezanechal; Koryčany přešly na synovce Kristiána Matyáše (* 1723, syn Friedricha Wilhelma II.), od něhož podle Gothy pocházejí i pruští baroni 19. století. Ve Dvorcích žili také měšťanští Gillerové (Christian, František, krejčí, tkalci, farář Jan Karel) – vazba na hejtmanovu rodinu zatím neznámá.",
+      "text": "Friedrich Wilhelm I. Giller (1651–1728), správce (Amtmann) a pak „hejtman“ v Karlovci (Carlsberg) u Dvorců u Bruntálu (Hof) – Karlovec patřil k šternberskému panství, od roku 1695 lichtenštejnskému. Ve Dvorcích dal v letech 1688–1699 pokřtít nejméně osm dětí, mezi nimi Friedricha Wilhelma II. (1688, podplukovník) a Carla Josepha (1696), roku 1723 lichtenštejnského sekretáře ve Vídni. Pánem Koryčan (od 1742) a svobodným pánem se stal jeho starší příbuzný Karel Josef (Johann Karl Joseph, asi 1690–1762) – nejspíš syn dvoreckého poštmistra Franze Leopolda. Podle Sinapia měl i syny Johanna Petera a Carla Ludwiga. Karel Josef synovy nezanechal; Koryčany přešly na příbuzného Kristiána Matyáše (* 1723, syn Friedricha Wilhelma II.), od něhož podle Gothy pocházejí i pruští baroni 19. století. Ve Dvorcích žili také měšťanští Gillerové (Christian, František, krejčí, tkalci, farář Jan Karel) – vazba na hejtmanovu rodinu zatím neznámá.",
       "vazba": "Vzdálení příbuzní: Friedrich Wilhelm I. byl bratr Maximiliánova děda Christopha Heinricha (a kmotr Maximiliána 1719), Karel Josef bratranec jeho otce, Kristián z Koryčan jeho bratranec z druhého kolena.",
       "profil": "fw1"
     },
@@ -292,7 +292,7 @@
         "s": 0,
         "r": 2,
         "jmeno": "Karel Josef z Gillernů",
-        "roky": "1696–1762",
+        "roky": "asi 1690–1762",
         "pozn": "svob. pán 1732, pán Koryčan",
         "stav": "lit",
         "profil": "karel_josef"
@@ -450,8 +450,8 @@
       {
         "z": "fw1",
         "do": "karel_josef",
-        "typ": "doc",
-        "popis": "syn"
+        "typ": "nejiste",
+        "popis": "příbuzný (synovec?)"
       },
       {
         "z": "ch",
@@ -987,11 +987,12 @@
     },
     "karel_josef": {
       "jmeno": "Karel Josef svobodný pán z Gillernů",
-      "roky": "1696 – 11. 8. 1762",
+      "roky": "asi 1690 – 11. 8. 1762",
       "stav": "lit",
-      "vazba": "syn Friedricha Wilhelma I. (1. větev) a bratranec Carla Heinricha – otce našeho Maximiliána",
+      "vazba": "pán Koryčan; nejspíš syn poštmistra Franze Leopolda Gillera ze Dvorců a bratranec Carla Heinricha – otce našeho Maximiliána",
       "fakta": [
-        "Pokřtěn 25. 9. 1696 ve Dvorcích u Bruntálu jako Carl Joseph, syn Friedricha Wilhelma Gillera, správce na Karlovci, a Anny Marie. Že je to pozdější baron, potvrzuje Sinapius (1728), který ho mezi syny Friedricha Wilhelma I. uvádí jako sekretáře knížete z Lichtenštejna v Opavě a Krnově. (Wikipedie uvádí narození 1691 a otce Franze Leopolda; to se nepotvrdilo – věk 70 let v úmrtním oznámení je zaokrouhlený.)",
+        "Nejspíš totožný s Hansem Carlem, pokřtěným 6. 2. 1690 ve Dvorcích u Bruntálu jako syn Franze Leopolda Gillera, pozdějšího poštmistra a purkmistra – tak to uvádí i Wikipedie. Plným jménem se psal Johann Karl Joseph a při úmrtí roku 1762 mu bylo 70 let.",
+        "Roku 1721 dostal jako „Johann Karl Joseph Giller, sekretář a rada knížete z Lichtenštejna“ potvrzení šlechtictví a polepšení erbu. V dubnu 1723 byl už jako císařský rada a lichtenštejnský dvorní rada svědkem ve Vídni na svatbě svého mladšího příbuzného Josepha Carla von Giller, sekretáře téhož knížete – to byl Carl Joseph, syn Friedricha Wilhelma I. (pokřtěný 1696). Oba muže dřívější badatelé i Sinapius (1728) snadno zaměňovali.",
         "1728 sekretář knížete z Lichtenštejna v Opavě a Krnově; později lichtenštejnský a císařský dvorní rada a dvorní rada bankovní deputace ve Vídni.",
         "Rakouský mírový vyjednavač za první slezské války; podílel se na tereziánských reformách v Čechách.",
         "Rytířský stav „Edler Herr von Gillern“ (1724/1726) za služby předků ve švédských válkách a uherských nepokojích; český stav svobodných pánů 4. 6. 1732 spolu s bratrancem Johannem Christophem z Gillernů.",
@@ -1001,12 +1002,12 @@
       ],
       "vztahy": [
         {
-          "vztah": "otec",
-          "profil": "fw1"
+          "vztah": "otec (nejspíš)",
+          "text": "Franz Leopold Giller, poštmistr a purkmistr ve Dvorcích"
         },
         {
-          "vztah": "bratr",
-          "profil": "fw2"
+          "vztah": "příbuzný – rod Friedricha Wilhelma I.",
+          "profil": "fw1"
         },
         {
           "vztah": "bratranec",
@@ -1017,7 +1018,7 @@
           "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
         },
         {
-          "vztah": "synovec a dědic",
+          "vztah": "příbuzný a dědic Koryčan",
           "profil": "kristian"
         }
       ],
@@ -1053,9 +1054,16 @@
           "odkaz": "https://archive.org/details/monatsblattdesh01adlgoog/page/n454/mode/1up"
         },
         {
-          "nazev": "Wienerisches Diarium č. 65, 14. 8. 1762, s. 7 (úmrtní oznámení)",
-          "odkaz": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=17620814&seite=7"
+          "nazev": "Matriky Vídeň (Matricula): Schotten, oddaní 1723; sv. Štěpán, zemřelí 1762"
+        },
+        {
+          "nazev": "Rakouský státní archiv, AVA Adel RAA 143.33 a 143.35 (katalog)",
+          "odkaz": "https://www.archivinformationssystem.at/detail.aspx?ID=2308597"
         }
+      ],
+      "zaznamy": [
+        "o_1723_giller_mohr",
+        "z_1762_gillern_carl_joseph"
       ]
     },
     "kristian": {
@@ -1069,9 +1077,10 @@
         "rytířský stav „von Gillern“ 27. 3. 1763 (Gotha) / 1764 (Rakouský státní archiv), český inkolát 29. 3. 1764",
         "rakouský stav svobodných pánů 21. 6. 1766",
         "náhradní dědic Koryčan po bratranci Karlu Josefovi (1759); závětí z 31. 10. 1791 odkázal Koryčany dceři Marii Josefě, provdané za Konstantina svobodného pána Münch von Bellinghausen (1793)",
+        "V letech 1766–1769 žil s rodinou ve Vídni: v červenci 1766 tam pohřbil dítě Theresii, 9. 7. 1767 dal u sv. Štěpána pokřtít dceru Marii Josefu Aloisii Walburgu a 24. 8. 1769 dceru Marii Antonii Josefu.",
         "Zemřel 25. 7. 1793 v Koryčanech (zámek č. 65) na mrtvici, ve věku 70 let, pohřben v rodinné kryptě.",
         "pradědeček Oswalda svobodného pána z Gillernů (* 1828, Dobberphul u Štětína) – tedy předek pruských baronů (Gotha 1884)",
-        "Manželka Karolina svobodná paní z Locella (z rodiny sestry vdovy po Karlu Josefovi) zemřela 31. 1. 1805 v Koryčanech ve věku 73 let; dcera Marie Josefa zdědila Koryčany, další dcera Josefa se podle Hyrtla narodila 9. 7. 1768.",
+        "Manželka Karolina svobodná paní z Locella (z rodiny sestry vdovy po Karlu Josefovi) zemřela 31. 1. 1805 v Koryčanech ve věku 73 let; dcera Marie Josefa, pokřtěná 9. 7. 1767 u sv. Štěpána ve Vídni (Hyrtl uvádí chybně 1768), zdědila Koryčany.",
         "U Torgavy (1760) bojoval na rakouské straně proti rotě svého pruského bratrance Ernsta Heinricha – Maximiliánova bratra."
       ],
       "vztahy": [
@@ -1080,7 +1089,7 @@
           "profil": "fw2"
         },
         {
-          "vztah": "strýc a předchůdce v Koryčanech",
+          "vztah": "příbuzný a předchůdce v Koryčanech",
           "profil": "karel_josef"
         },
         {
@@ -1109,6 +1118,11 @@
           "nazev": "MZA Brno, matrika Koryčany 7845 (zemřelí 1760–1823), snímky 62 a 77",
           "odkaz": "https://www.mza.cz/actapublica/matrika/detail/8865?image=216000010-000253-003374-000000-00-007845-000000-00-B04899-00620.jp2"
         }
+      ],
+      "zaznamy": [
+        "z_1766_gillern_theresia",
+        "n_1767_gillern_maria_josepha",
+        "n_1769_gillern_maria_antonia"
       ]
     },
     "matous": {
@@ -1376,7 +1390,7 @@
         "Byl správcem (Amtmann) a od roku 1694 hejtmanem na Karlovci (Carlsberg) u Dvorců u Bruntálu; Karlovec patřil k šternberskému panství a od roku 1695 Lichtenštejnům. Rodopis ho uvádí i jako bývalého císařského hejtmana.",
         "Manželka Anna Marie. Ve Dvorcích jim v letech 1688–1699 pokřtili nejméně osm dětí: Friedricha Wilhelma (1688), Johannu (1689), Marii Apollonii (1691), Marii Josephu (1694), Marii Theresii (1695), Carla Josepha (1696), Marii Elisabeth (1698) a Hanse Petera (1699). Dcera Magdalena se roku 1692 vdala na Karlovci.",
         "Později žil v Dolním Slezsku: jako rada císaře a komorní účetní knížectví Lehnického, Břežského a Volovského byl roku 1718 a 1721 kmotrem dětí synovce Johanna Christopha v Preichau.",
-        "Roku 1723 (podle Sinapia, 1728) byl ještě naživu a měl pět synů: Franze Leopolda, zemského písaře knížectví Minstrberského a Frankenštejnska; Friedricha Wilhelma, hejtmana pluku barona Geyera v Sedmihradsku; Johanna Petera, praporčíka téhož pluku; Carla Ludwiga, dobrovolníka v armádě; a Carla Josepha, sekretáře knížete z Lichtenštejna v Opavě a Krnově – pozdějšího barona a pána Koryčan.",
+        "Roku 1723 (podle Sinapia, 1728) byl ještě naživu a měl pět synů: Franze Leopolda, zemského písaře knížectví Minstrberského a Frankenštejnska; Friedricha Wilhelma, hejtmana pluku barona Geyera v Sedmihradsku; Johanna Petera, praporčíka téhož pluku; Carla Ludwiga, dobrovolníka v armádě; a Carla Josepha, sekretáře knížete z Lichtenštejna v Opavě a Krnově (ten se roku 1723 oženil ve Vídni s Joannou Magdalenou von Mohr; pánem Koryčan byl jeho starší příbuzný Karel Josef).",
         "Roku 1719 byl v Krehlau kmotrem našeho Maximiliána, syna svého synovce Carla Heinricha.",
         "Zemřel roku 1728."
       ],
@@ -1394,12 +1408,12 @@
           "profil": "fw2"
         },
         {
-          "vztah": "syn",
-          "profil": "karel_josef"
-        },
-        {
           "vztah": "kmotřenec",
           "osoba": "maximilian-svobodny-pan-z-gillernu-1719"
+        },
+        {
+          "vztah": "příbuzný",
+          "profil": "karel_josef"
         }
       ],
       "zdroje": [
@@ -1423,7 +1437,8 @@
         }
       ],
       "zaznamy": [
-        "n_1719_giller_maximilian"
+        "n_1719_giller_maximilian",
+        "o_1723_giller_mohr"
       ]
     },
     "fw2": {
@@ -1449,7 +1464,7 @@
           "profil": "kristian"
         },
         {
-          "vztah": "bratr",
+          "vztah": "příbuzný",
           "profil": "karel_josef"
         },
         {
@@ -1802,10 +1817,24 @@
                             "profil": "kristian",
                             "deti": [
                               {
+                                "jmeno": "Theresia",
+                                "stav": "doc",
+                                "vazba": "doc",
+                                "roky": "† 7/1766 Vídeň (dítě)"
+                              },
+                              {
                                 "jmeno": "Marie Josefa z Gillernů",
-                                "stav": "lit",
+                                "stav": "doc",
                                 "pozn": "zdědila Koryčany (1793)",
-                                "manzel": "× Konstantin svobodný pán Münch von Bellinghausen"
+                                "manzel": "× Konstantin svobodný pán Münch von Bellinghausen",
+                                "roky": "* 9. 7. 1767 Vídeň",
+                                "vazba": "doc"
+                              },
+                              {
+                                "jmeno": "Maria Antonia Josepha",
+                                "stav": "doc",
+                                "vazba": "doc",
+                                "roky": "* 24. 8. 1769 Vídeň"
                               },
                               {
                                 "jmeno": "… dvě generace (Gotha 1884 je nejmenuje)",
@@ -1863,13 +1892,12 @@
                         "roky": "křest 20. 11. 1695"
                       },
                       {
-                        "jmeno": "Karel Josef svobodný pán z Gillernů",
+                        "jmeno": "Carl Joseph (Joseph Carl) Giller",
                         "stav": "doc",
-                        "roky": "křest 25. 9. 1696 Dvorce – † 11. 8. 1762 Vídeň",
-                        "pozn": "dvorní rada, svobodný pán 1732, od 1742 pán Koryčan; jediný syn zemřel mladý",
-                        "manzel": "× Maria Josefa roz. von Fellner (výtah závěti 1765; jinde „von Tallern“)",
-                        "profil": "karel_josef",
-                        "vazba": "doc"
+                        "vazba": "doc",
+                        "roky": "křest 25. 9. 1696 Karlovec",
+                        "pozn": "1723 sekretář knížete z Lichtenštejna ve Vídni (Sinapius: v Opavě a Krnově); nezaměňovat s příbuzným Karlem Josefem, pánem Koryčan",
+                        "manzel": "× duben 1723 Vídeň Joanna Magdalena von Mohr z Bolzana"
                       },
                       {
                         "jmeno": "Maria Elisabeth",
@@ -1904,11 +1932,13 @@
                             "pozn": "× 7. 9. 1705 Dvorce"
                           },
                           {
-                            "jmeno": "Hans Carl",
+                            "jmeno": "Karel Josef (Johann Karl Joseph) svobodný pán z Gillernů",
                             "stav": "doc",
-                            "vazba": "doc",
-                            "roky": "křest 6. 2. 1690",
-                            "pozn": "snad Carolus Giller, švec ve Dvorcích, × 1716 Rosina, † 3. 1. 1759, 70 let"
+                            "vazba": "prob",
+                            "roky": "křest 6. 2. 1690 Dvorce (?) – † 11. 8. 1762 Vídeň",
+                            "pozn": "lichtenštejnský a císařský dvorní rada, svobodný pán 1732, od 1742 pán Koryčan; jediný syn zemřel mladý. Že je totožný s Hansem Carlem pokřtěným 1690, je pravděpodobné (jméno Johann Karl, věk 70 let při úmrtí)",
+                            "manzel": "× Maria Josefa roz. von Fellner",
+                            "profil": "karel_josef"
                           },
                           {
                             "jmeno": "Anna Rosina",

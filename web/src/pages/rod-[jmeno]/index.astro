@@ -134,7 +134,7 @@ const HVEZDA = (cx, cy, r) => {
   {g && (
     <section id="napojeni">
       <h2>Jak jsme napojeni</h2>
-      <p class="muted small">Zjednodušené schéma: jak spolu souvisí obě slezské větve a kde by se na ně mohla napojit naše linie. Plná čára = doložený vztah, přerušovaná = domněnka, tečkovaná = vztah zatím neznámý (jen stejný rod). Na každou osobu se dá kliknout – otevře se její profil se vším, co o ní víme.</p>
+      <p class="muted small">Zjednodušené schéma po generacích: uprostřed naše přímá linie od společného předka obou slezských větví až k nám, vlevo 1. větev (Dvorce, Koryčany, pruští baroni), vpravo nejbližší příbuzní z 2. větve. Plná zelená čára = doloženo matrikou, plná hnědá = z literatury, tečkovaná = vztah nejistý. Na každou osobu se dá kliknout – otevře se její profil se vším, co o ní víme.</p>
       <div class="chips">
         {Object.entries(STAV).map(([k, s]) => <span class={`chip ${s.cls}`}>{s.label}</span>)}
         <span class="chip rg-chip-svedek">svědek na svatbě</span>
@@ -143,7 +143,7 @@ const HVEZDA = (cx, cy, r) => {
         <svg class="rg-graf" viewBox={`0 0 ${svgW} ${svgH}`} role="img" aria-label="Schéma napojení naší linie na šlechtický rod">
           {g.sloupce.map((s, i) => (
             <g>
-              <rect x={X0 + i * CX - 8} y="6" width={W + 16} height={svgH - 12} rx="12" fill={i === 2 ? '#f1f6ef' : i === 1 ? '#f7f2ea' : '#f4f1f6'} />
+              <rect x={X0 + i * CX - 8} y="6" width={W + 16} height={svgH - 12} rx="12" fill={i === 2 ? '#eaf3e7' : i % 2 ? '#f7f2ea' : '#f4f1f6'} />
               <text x={X0 + i * CX + W / 2} y="32" text-anchor="middle" class="rg-sl">{s}</text>
             </g>
           ))}
@@ -188,15 +188,16 @@ const HVEZDA = (cx, cy, r) => {
         <span class="rt-btns">
           <button type="button" data-z="1.4" aria-label="Přiblížit">+</button>
           <button type="button" data-z="0.714" aria-label="Oddálit">−</button>
+          <button type="button" data-z="-2">Naše linie</button>
           <button type="button" data-z="0">Celý</button>
           <button type="button" data-z="-1">Na celou obrazovku</button>
         </span>
       </div>
-      <div class="rt-stage" data-zarovnat={JSON.stringify(d.rodokmen.casti.map((c) => c.zarovnat_k ?? null))} data-spojnice={JSON.stringify(d.rodokmen.spojnice ?? [])}>
+      <div class="rt-stage" data-zarovnat={JSON.stringify(d.rodokmen.casti.filter((c) => !c.mimo).map((c) => c.zarovnat_k ?? null))} data-spojnice={JSON.stringify(d.rodokmen.spojnice ?? [])}>
         <div class="rt-platno">
           <svg class="rt-spoje" aria-hidden="true"></svg>
-          {d.rodokmen.casti.map((c, i) => (
-            <div class={`rt-cast${i === d.rodokmen.casti.length - 1 && d.rodokmen.casti.length > 2 ? ' rt-volne' : ''}`}>
+          {d.rodokmen.casti.filter((c) => !c.mimo).map((c) => (
+            <div class="rt-cast">
               <div class="rt-nadpis"><strong>{c.nadpis}</strong>{c.text && <span>{c.text}</span>}</div>
               <RodStrom uzly={c.uzly} slug={slug} profily={d.profily} koren />
             </div>
@@ -260,17 +261,26 @@ const HVEZDA = (cx, cy, r) => {
           v.s = s; v.x = r.width / 2 - (P.x + P.w / 2) * s; v.y = r.height / 3 - (P.y + P.h / 2) * s;
           apply(true);
         };
+        // „Naše linie“: zvýraznit přímou linii a ukázat ji od Maximiliána dolů
+        const naseLinie = () => {
+          platno.querySelectorAll('.ot-cesta').forEach((x) => x.classList.remove('ot-cesta'));
+          const nase = [...platno.querySelectorAll<HTMLElement>('.ot-uzel.ot-nase')];
+          nase.forEach((x) => x.classList.add('ot-cesta'));
+          const cil = platno.querySelector('li[data-id="maxmilian"] > .ot-uzel') ?? nase[0];
+          if (cil) naKartu(cil, 0.75);
+        };
         const start = () => {
           v = { x: 0, y: 0, s: 1 }; apply();
           rozvrhni();
-          // úvodní pohled: celý slezský kmen na šířku (aspoň čitelně), odtud vede tečkovaná čára k naší větvi
-          const prvni = platno.querySelector<HTMLElement>('.rt-cast');
+          // úvodní pohled: kmen a rozdělení na obě větve (1. větev vlevo, naše 2. větev vpravo), čitelně
+          const koren = platno.querySelector('.rt-cast .ot-uzel');
+          const L = karta('fw1'), P = karta('ch');
           const r = stage.getBoundingClientRect();
-          if (prvni) {
-            const P = vPlatne(prvni), root = vPlatne(prvni.querySelector('.ot-uzel')!);
-            const s = Math.min(1, Math.max(0.55, r.width / (P.x + P.w + 80)));
-            v.s = s; v.y = 10;
-            v.x = (P.x + P.w) * s + 40 <= r.width ? 20 - P.x * s + 0 : r.width / 2 - (root.x + root.w / 2) * s;
+          if (koren && L && P) {
+            const K = vPlatne(koren), A = vPlatne(L), B = vPlatne(P);
+            const sirka = B.x + B.w - A.x + 80;
+            v.s = Math.max(0.35, Math.min(0.85, r.width / sirka));
+            v.x = r.width / 2 - ((A.x + B.x + B.w) / 2) * v.s; v.y = 12 - (K.y - 60) * v.s;
             apply();
           } else celek(false);
         };
@@ -328,6 +338,7 @@ const HVEZDA = (cx, cy, r) => {
             const z = Number(b.dataset.z);
             if (z > 0) { zoomAt(z); }
             else if (z === 0) celek();
+            else if (z === -2) naseLinie();
             else if (document.fullscreenElement) document.exitFullscreen();
             else (stage.requestFullscreen?.() ?? Promise.resolve()).catch(() => {});
           })
@@ -350,6 +361,19 @@ const HVEZDA = (cx, cy, r) => {
           naKartu(hit[0]);
         });
       </script>
+      {d.rodokmen.casti.some((c) => c.mimo) && (
+        <div class="rt-mimo">
+          <h3>Gillerové mimo hlavní strom</h3>
+          <p class="muted small">Rodiny stejného jména, které zatím nedokážeme do stromu napojit – měšťané a řemeslníci ve Dvorcích (vedle 1. větve) a jednotlivci z pramenů.</p>
+          {d.rodokmen.casti.filter((c) => c.mimo).map((c) => (
+            <div class="rt-mimo-cast">
+              <h4>{c.nadpis}</h4>
+              {c.text && <p class="small muted">{c.text}</p>}
+              <div class="rt-mimo-strom"><RodStrom uzly={c.uzly} slug={slug} profily={d.profily} koren /></div>
+            </div>
+          ))}
+        </div>
+      )}
     </section>
   )}
 
@@ -467,6 +491,10 @@ const HVEZDA = (cx, cy, r) => {
   .rt-nadpis strong { font: 600 1.25rem var(--serif); color: #3b2e22; }
   .rt-nadpis span { font-size: 0.8rem; color: #6e6153; }
   .rt-volne :global(.ot-koren) { max-width: 24rem; }
+  .rt-mimo { margin-top: 1.6rem; }
+  .rt-mimo h3 { margin: 0 0 0.2rem; }
+  .rt-mimo h4 { margin: 1rem 0 0.3rem; font: 600 1.05rem var(--serif); }
+  .rt-mimo-strom { overflow-x: auto; padding: 0.4rem 0 0.8rem; border: 1px solid var(--line); border-radius: 10px; background: var(--paper); }
   .rt-volne { align-self: flex-start; }
   .rg-vetev { border-left: 5px solid var(--c); }
   .rg-vazba { background: var(--accent-soft); padding: 0.4rem 0.6rem; border-radius: 6px; }

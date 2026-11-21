@@ -7,7 +7,7 @@ import { people } from '../lib/data.js';
 interface Props { uzly: any[]; slug: string; profily?: Record<string, any>; koren?: boolean }
 const { uzly, slug, profily = {}, koren = false } = Astro.props;
 const odkaz = (u) => (u.osoba && people[u.osoba] ? `/osoba/${u.osoba}/` : u.profil && profily[u.profil] ? `/${slug}/${u.profil}/` : null);
-const prosty = (u) => !u.deti?.length && !u.nase && !u.popis && !u.manzel && ['doc', 'lit', undefined].includes(u.vazba) && ['doc', 'lit'].includes(u.stav);
+const prosty = (u) => !u.deti?.length && !u.nase && !u.popis && !u.id && ['doc', 'lit', 'prob', undefined].includes(u.vazba) && ['doc', 'lit', 'prob'].includes(u.stav) && (u.pozn ?? '').length + (u.manzel ?? '').length < 140;
 let polozky = uzly;
 if (!koren) {
   const listy = uzly.filter(prosty);
@@ -32,6 +32,8 @@ if (!koren) {
                 <span class="ot-polozka">
                   <span class="ot-jm">{h ? <a href={h}>{c.jmeno}</a> : c.jmeno}</span>
                   {c.roky && <span class="ot-roky"> {c.roky}</span>}
+                  {c.stav === 'prob' && <span class="ot-roky"> (?)</span>}
+                  {c.manzel && <span class="ot-roky"> {c.manzel}</span>}
                   {c.pozn && <span class="ot-pozn"> – {c.pozn}</span>}
                 </span>
               );
@@ -42,9 +44,9 @@ if (!koren) {
     }
     const href = odkaz(u);
     return (
-      <li class={`ot-v-${u.vazba ?? u.stav ?? 'lit'}`} data-id={u.id}>
+      <li class={`ot-v-${u.vazba ?? u.stav ?? 'lit'}${u.nase ? ' ot-li-nase' : ''}`} data-id={u.id}>
         {!koren && <span class="ot-spoj"></span>}
-        <div class={`ot-uzel ot-st-${u.stav ?? 'lit'}${u.nase ? ' ot-nase' : ''}`}>
+        <div class={`ot-uzel ot-st-${u.stav ?? 'lit'}${u.nase ? ' ot-nase' : ''}`} title={[u.jmeno, u.roky, u.manzel, u.pozn].filter(Boolean).join(' · ')}>
           {u.popis && <span class="ot-popis">{u.popis}</span>}
           <span class="ot-jmeno">{href ? <a href={href}>{u.jmeno}</a> : u.jmeno}</span>
           {u.roky && <span class="ot-roky">{u.roky}</span>}
@@ -83,7 +85,9 @@ if (!koren) {
   .ot-nase { box-shadow: 0 0 0 3px #3f7d4a40; border-width: 2.4px; }
   .ot-jmeno { font: 600 0.86rem var(--serif); }
   .ot-roky, .ot-manzel { color: #5a4632; font-size: 0.76rem; }
-  .ot-pozn { color: #6e6153; font-size: 0.72rem; }
+  .ot-pozn { color: #6e6153; font-size: 0.72rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .ot-li-nase > .ot-spoj { border-left: 4px solid #3f7d4a; margin-left: -1px; }
+  .ot-koren > .ot-li-nase > .ot-spoj { display: none; }
   .ot-popis { font-style: italic; color: #8a8278; font-size: 0.7rem; }
   .ot-uzel.ot-cesta { outline: 3px solid #d08a1e; outline-offset: 1px; }
   .ot-uzel.ot-hit { outline: 3px solid #2f6fb0; outline-offset: 2px; }

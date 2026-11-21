@@ -46,9 +46,9 @@ Dvanáctého září 1914 – šest týdnů po vypuknutí první světové válk
 
 ## Cihelna v Pravoníně (1910–1937)
 
-Mezitím přišli do Pravonína Beranovi. [Josef Beran](/osoba/josef-beran-1910/) se narodil 3. června 1910 ve Velké Jesenici u Náchoda, ale už v roce 1912 se jeho sestra Ludmila narodila v Pravoníně. Odkud jeho rodiče [Josef Beran](/osoba/josef-beran/) a [Emilie Kozáková](/osoba/emilie-kozakova/) přišli, zatím nevíme – ve Velké Jesenici ani v Pravoníně se nenarodili. Víme ale, čím se živili: v adresářích firem je v Pravoníně od roku 1930 do 1939 každý rok zapsaná „cihelna – Beran, Jos.“.
+Mezitím přišli do Pravonína Beranovi. [Josef Beran](/osoba/josef-beran-1910/) se narodil 13. června 1910 ve Velké Jesenici u Náchoda (č. 82), ale už v roce 1912 se jeho sestra Ludmila narodila v Pravoníně. Jeho otec [Josef Beran](/osoba/josef-beran/) byl mistr cihlářský; odkud pocházel, zatím nevíme. Matka [Emilie Kozáková](/osoba/emilie-kozakova-1882/) byla dcerou [Františka Kozáka](/osoba/frantisek-kozak/) z Robous u Jičína – nejspíš je to Emilie Marie, která se tam narodila 8. července 1882 v rodině podruha. Víme ale, čím se živili: v adresářích firem je v Pravoníně od roku 1930 do 1939 každý rok zapsaná „cihelna – Beran, Jos.“.
 
-Josef mladší si vzal [Ludmilu Slunečkovou](/osoba/ludmila-sluneckova-1916/) – kde a kdy, zatím nevíme, v pravonínské farnosti to nebylo. V březnu 1937 se jim v Pravoníně čp. 72 narodila dcera [Milada](/osoba/milada-beranova-1937/), po ní sestry Ludmila (1938) a Růžena (1939) a bratr Josef (1945). Druhé jméno Emilie dostaly babička Milada i Růžena nejspíš po babičce Emilii.
+Josef mladší si 11. října 1936 v pravonínském kostele vzal [Ludmilu Slunečkovou](/osoba/ludmila-sluneckova-1916/) z Bukové, narozenou v Palčicích; svědky byli jeho otec a nevěstin děd Jan Svatek. V březnu 1937 se jim v Pravoníně čp. 72 narodila dcera [Milada](/osoba/milada-beranova-1937/), po ní sestry Ludmila (1938) a Růžena (1939) a bratr Josef (1945). Druhé jméno Emilie dostaly babička Milada i Růžena nejspíš po babičce Emilii.
 
 ## Dnes
 

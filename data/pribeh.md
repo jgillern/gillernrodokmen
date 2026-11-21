@@ -16,4 +16,4 @@ Kapitoly vycházejí jen z doložených pramenů – farních matrik, rodinných
 - **Babička Milada** – rozpletená přes jedenáct generací až do konce 17. století, mimo rod Beranů, kde se stopa zatím ztrácí.
 - **Děda Vladimír** – všechny větve do 8.–9. generace, předci narození kolem roku 1760–1790.
 - **Babička Božena** – všech osm větví (Richtrovi, Kyptovi, Davídkovi, Pelíkovi, Otradovci, Dědovi, Piglovi, Doubkovi, Šedinovi, Melichovi) do 7.–8. generace, předci narození kolem roku 1770–1810.
-- **Děda Augustin (Gustík)** – Gillernové doloženi matrikami až k Maximiliánovi svobodnému pánu z Gillernů (Polabí, kolem 1750); Linkové, Löwové, Vejdovcové a Hřídelové do 17.–18. století.
+- **Děda Augustin (Gustík)** – Gillernové doloženi matrikami až k Maximiliánovi svobodnému pánu z Gillernů (* 1719 Krehlau ve Slezsku, od 1750 v Polabí) a jeho otci Carlu Heinrichovi a dědu Christophu Heinrichovi (17. století); Linkové, Löwové, Vejdovcové a Hřídelové do 17.–18. století.

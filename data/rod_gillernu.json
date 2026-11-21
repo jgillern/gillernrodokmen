@@ -151,8 +151,8 @@
     },
     {
       "rok": "1793",
-      "text": "Kristián Matyáš Antonín odkazuje Koryčany dceři Marii Josefě, provdané Münch-Bellinghausen – moravská větev o panství přichází.",
-      "zdroj": "Vyšín 1978"
+      "text": "25. července umírá v Koryčanech (dům č. 65) „svobodný pán Kristián z Gillernů, pán na Koryčanech“, 70 let, na mrtvici; pohřben v kryptě. Koryčany podle závěti z 1791 dědí dcera Marie Josefa, provdaná Münch-Bellinghausen – moravská větev o panství přichází.",
+      "zdroj": "MZA, matrika Koryčany 7845 (Z 1760–1823), snímek 62 (zpráva ChatGPT 21. 11. 2026, výřez ověřen); Vyšín 1978"
     },
     {
       "rok": "1799",
@@ -326,7 +326,7 @@
         "s": 0,
         "r": 4,
         "jmeno": "Kristián Matyáš Antonín",
-        "roky": "1723 – po 1791",
+        "roky": "1723 – 1793",
         "pozn": "svob. pán 1766, dědic Koryčan",
         "stav": "lit",
         "profil": "kristian"
@@ -1039,7 +1039,7 @@
     },
     "kristian": {
       "jmeno": "Kristián Matyáš Antonín z Gillernů",
-      "roky": "1723 – po 1791",
+      "roky": "1723 – 1793",
       "stav": "lit",
       "vazba": "moravská (koryčanská) větev; podle Gothy 1884 předek pruských baronů z Gillernů; vztah k našemu Maximiliánovi neznámý",
       "fakta": [
@@ -1048,8 +1048,9 @@
         "rytířský stav „von Gillern“ 27. 3. 1763 (Gotha) / 1764 (Rakouský státní archiv), český inkolát 29. 3. 1764",
         "rakouský stav svobodných pánů 21. 6. 1766",
         "náhradní dědic Koryčan po bratranci Karlu Josefovi (1759); závětí z 31. 10. 1791 odkázal Koryčany dceři Marii Josefě, provdané za Konstantina svobodného pána Münch von Bellinghausen (1793)",
+        "† 25. 7. 1793 Koryčany č. 65, „Ihro hoch Freyh. Gnaden von Gillern Christian … auf Koritzan“, 70 let 2 měsíce (dny nejisté), příčina „Schlag“ (mrtvice), pohřben v kryptě (MZA, matrika Koryčany 7845, sn. 62 – zpráva ChatGPT, výřez ověřen; věk souhlasí s narozením 1723)",
         "pradědeček Oswalda svobodného pána z Gillernů (* 1828, Dobberphul u Štětína) – tedy předek pruských baronů (Gotha 1884)",
-        "manželka M. Karolina svobodná paní z Locella (rodina sestry vdovy po Karlu Josefovi); dcera Josefa * 9. 7. 1768 (Hyrtl 1851, s. 261 – podle revize, neověřeno)"
+        "manželka M. Karolina svobodná paní z Locella (rodina sestry vdovy po Karlu Josefovi), † 31. 1. 1805 Koryčany č. 65 jako „Carolina Baronin v. Gillern gebohrne Baronin von Locello, Frau auf Koritschan“, 73 let (* asi 1731/32), na „Lungenbrand“ (sněť plic) (matrika Koryčany 7845, sn. 77, výřez ověřen); dcera Josefa * 9. 7. 1768 (Hyrtl 1851, s. 261 – neověřeno; v koryčanské matrice v červenci 1768 není, narodila se tedy jinde nebo je datum chybné)"
       ],
       "vztahy": [],
       "zdroje": [
@@ -1064,6 +1065,10 @@
         {
           "nazev": "Rakouský státní archiv, AVA Adel RAA 143.34",
           "odkaz": "https://www.archivinformationssystem.at/detail.aspx?ID=2308597"
+        },
+        {
+          "nazev": "MZA Brno, matrika Koryčany 7845 (zemřelí 1760–1823), snímky 62 a 77",
+          "odkaz": "https://www.mza.cz/actapublica/matrika/detail/8865?image=216000010-000253-003374-000000-00-007845-000000-00-B04899-00620.jp2"
         }
       ]
     },
@@ -1267,8 +1272,8 @@
                         "deti": [
                           {
                             "jmeno": "Kristián Matyáš Antonín z Gillernů",
-                            "stav": "lit",
-                            "roky": "* 16. 5. 1723 Lodi – po 1791",
+                            "stav": "doc",
+                            "roky": "* 16. 5. 1723 Lodi – † 25. 7. 1793 Koryčany",
                             "pozn": "podplukovník; rytíř 1764, svobodný pán 1766; po Karlu Josefovi zdědil Koryčany",
                             "profil": "kristian",
                             "deti": [
@@ -1300,7 +1305,8 @@
                                   }
                                 ]
                               }
-                            ]
+                            ],
+                            "manzel": "× Karolina z Locella († 1805 Koryčany)"
                           }
                         ],
                         "id": "fw2",

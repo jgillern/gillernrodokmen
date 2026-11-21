@@ -163,11 +163,11 @@ Revize: `revize_maximilian_fable.md` (kořen repozitáře). Klíčové nálezy o
 3. **[A] Slezská baronská větev z tisku** (archive.org fulltext: Schlesische Provinzialblätter 1785–1810, Zimmermann, Zedlitz-Neukirch II s. 234) → tabulka dětí Johanna Christopha a Josepha Antona; zařadit Ignáce, Bedřicha, Maximiliána. Zjistit, kde je „Mišné“.
 4. **[A] Polabské noviny 18. 1. 1928, s. 5** – článek o rodu Kroužků (Ignác); obraz stránky (DNNT) – zkusit odkaz ČDK; zjistit autora a jeho prameny.
 5. [J] Vídeň GenTeam (rodina Karla Josefa, pohřeb 1759) – nižší priorita, H2 prakticky vyloučena.
-6. [B] Koryčany 1742–1800 (MZA) – kmotři u Kristiána (Josefa 1768).
+6. ~~[B] Koryčany 1742–1800 (MZA)~~ – HOTOVO zčásti (zpráva ChatGPT B, log 578): Kristián † 25. 7. 1793 Koryčany (70 let), Karolina roz. Locella † 31. 1. 1805 (73 let); Josefa v Koryčanech v 7/1768 není; žádný Maximilián/Bedřich/Ignác. Souvislé čtení N/O 1742–1800 nedokončeno – nízká priorita.
 7. [J] Uhry / FamilySearch (H4, Bedřich po 1771) – nízká.
 **Přestat:** další rejstříky polabských far bez nové indicie; Geneteka pro Dolní Slezsko; hromadný sběr ČDK kvůli 18. stol.; objednávky z Vídně jako další krok; zapisovat do rodokmenu jako „doloženo“, co nikdo neviděl na snímku. Dvorecké měšťany (A1–A8) jen udržovat, nerozvíjet.
 **Zásobník – další body z revize Fable (po prioritách 1–4):**
-- (Fable 7) ZA Opava – Opava, Krnov, Šternberk 1710–1735: křty Gillerů v lichtenštejnské službě (Maximilián?) [B].
+- (Fable 7) ZA Opava – Opava, Krnov, Šternberk 1710–1735 [B] – PROVEDENO ČÁSTEČNĚ (log 578): rejstříky Opava N 1705–1719, Krnov N 1721–1735 bez hledaných; jen Opava O 16. 5. 1707 vdovec Johannes Giller × Sophia (měšťan?, vazba neznámá). Nedočteno: Opava N 1720–1735 originály, Opava O do 1750, Krnov N před 1721 a O, Šternberk celý. Nízká až střední priorita – vracet se jen s novou indicií (např. ze saských/slezských tisků).
 - (Fable 8) Úmrtí Maximiliána 1782–1795 mimo Poděbrady: pražské fary (AHMP rejstříky Z) [A], Brandýs, Stará Boleslav, Kostelec n. L. [B].
 - (Fable 9) Josefův křest a sňatek rodičů 1736–1749 tam, kde se nehledalo: Stará Boleslav, Kostelec n. L. přímo, fary pardubického panství (ARON) [A], lichtenštejnská panství Kostelec n. Č. lesy, Škvorec [B].
 - (Fable 10) Lucemburk 1740–1751 (pohřeb FW II. 1751 se jmény dětí), posádky pluků „Geyer“ a „Platz“; „Herr Giller, Fändrich vom Geyerischen Regiment“ (Wienerisches Diarium 1720) a „Gillern, Obr. Lieut.“ 1744 (ročenka, s. 243, 538 – log 559) přečíst [A/B].

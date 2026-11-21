@@ -1955,11 +1955,21 @@
  {
   "klic": "n_1887_1894_gillern_liz_rejstrik",
   "svazek": "bubovice_17",
-  "druh": "N",
+  "druh": "I",
   "datum": "1887–1894",
   "nazev": "Rejstřík narozených Bubovice – děti Čeňka z Gillernů v Lízu č. 2",
   "shrnuti": "Rejstřík narozených fary Bubovice, písm. G (snímek 36): 1887 „z Gillern Vilémina (?)“ 30. června, fol. 15 C, Lis č. 2; 1888 „z Gillern Karel“ 20/6, fol. 28 C, Lis č. 2; 1890 „z Gillern Marie“ (den neuveden), fol. 54 C, Lis č. 2; 1894 „z Gillern Bedřich“ 14/4, fol. 95 C, Lis č. 2. Rejstřík neuvádí rodiče; Marie je Čeňkova dcera podle úmrtního zápisu 1905 (narozena v Lízu, okres Březnice). Líz (Lis, Nouzov) = osada v okrese Březnice, fara Bubovice. Originální kniha Bubovice C (N 1886–1938) s kmotry a poznámkami o sňatcích je na Městském úřadě Březnice (není online).",
   "strana": "snímek 36, písm. G",
   "odkaz": "https://ebadatelna.soapraha.cz/d/4409/36"
+ },
+ {
+  "klic": "j_1930_gillern_karlov",
+  "svazek": "tisk_pozemkova_reforma_1930",
+  "druh": "J",
+  "datum": "1930",
+  "nazev": "Zbytkový statek Karlov u Podbrd přidělen Gillernovým (pozemková reforma)",
+  "shrnuti": "Velkostatek Osov (vlastník Karel Schwarzenberg), č. 3: dvůr KARLOV; režie (soudní okres Hořovice, pošta Nesvačily), výměra 115 ha zem. půdy / 118 ha celkem; drobné příděly Drahlovice a Podbrdy. „Zb. statek přidělen do vlastn. Gillernovi J. a J., pošk. úřed., o vým. 46.50 / 48 ha“ – zbytkový statek (zbytek velkostatku po přídělech) dostali do vlastnictví J. a J. Gillernovi jako „poškození úředníci“ (zaměstnanci velkostatku, kteří reformou přišli o místo). Nejspíš Jan z Gillernů (1894–1940), hospodářský kontrolor v Osově, a jeho manželka Julie. Cena drobných přídělů od 2 700 do 4 100 Kč za ha.",
+  "strana": "s. 528, velkostatek Osov, č. 3",
+  "odkaz": "https://www.ceskadigitalniknihovna.cz/uuid/uuid:71d52a10-06b6-11e8-816d-5ef3fc9bb22f"
  }
 ]

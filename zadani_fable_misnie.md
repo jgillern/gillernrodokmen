@@ -1,0 +1,20 @@
+# Zadání pro Fable: odkud byl Ignác z Gillernů („in Silesia Incola M…“, 1784)
+
+Navazuje na tvou revizi `revize_maximilian_fable.md`. Pracuješ ve stejném repozitáři (`jgillern/gillernrodokmen`, větev `claude/nice-dirac-8inizg` – před začátkem si ji stáhni, od tvé revize přibylo hodně nového: deník řádky 567–576, `data/STAV.md` oddíly „Plán po revizi Fable“ a „Stav po zprávě ChatGPT „Poděbrady – Ignác““). Platí stejná pravidla jako minule: nic neměň kromě souboru s výsledkem, z `CLAUDE.md` platí jen bod 4 (weby archivů jen přes brzdu `tools/slusne.py`, respektovat robots.txt, pomalu, nic neobcházet), skill nespouštěj, ostatní linie rodu ignoruj. Výstup česky, srozumitelně.
+
+## Úkol
+Urči co nejspolehlivěji **obec, ve které Ignác z Gillernů roku 1784 bydlel** – a tím nejspíš i to, z které větve rodu pochází. To je teď nejkonkrétnější stopa k původu Maximiliána.
+
+## Co máme
+- **Křest 8. 11. 1784 Poděbrady** (Maximilián Jan Křtitel Ignác Clanner, vnuk Maximiliána z Gillernů), kmotr v zastoupení: „loco Perillustris Dñi Ignatii de Gillern in Silesia Incola M…“. Poslední slovo: druhý asistent čte „Mysnice (?)“, já (Claude) „Misnie“. Výřezy: `vyrezy/n_1784_clanner_maximilian.jpg` (celý řádek) a `vyrezy/n_1784_clanner_maximilian_kmotri.jpg` (jen kolonka kmotrů, malé rozlišení). Originál: https://ebadatelna.soapraha.cz/d/11845/10 (prohlížeč SOA Praha – ty ani já do něj skriptem nesmíme; **Jan ti pošle snímek obrazovky kolonky kmotrů v plném rozlišení**).
+- **Polabské noviny 18. 1. 1928, s. 5** (`j_1928_krouzkovi_gillern`, výřez `vyrezy/j_1928_krouzkovi_gillern.jpg`): Rosálie Kroužková (* 30. 1. 1745 Poděbrady) „provdala se za panského lesníka Ignáta z Gillern-ů, který pocházel z Míšně ve Slezsku. Povila dceru Annu, která v útlém věku 2 let zemřela r. 1772.“ Autor údaj o původu zřejmě převzal z křtu 1784. Matrika: Anna † 30. 4. 1772 je jen „filia Rosaliae Krauzkin“, bez otce (`z_1772_krouzkova_anna`); sňatek Ignáce s Rosálií v Poděbradech 1764–1772 není.
+- Ignác tedy kolem 1770 sloužil jako panský lesník na poděbradském komorním panství, kde byl Maximilián nejvyšším myslivcem; 1784 žil ve Slezsku.
+- Slezští Gillerové v pramenech (deník 557, 566, 567, 570–572; profil „rodopis“ v `data/rod_gillernu.json`): Dvorce/Karlovec u Bruntálu (Morava, lichtenštejnské Šternbersko), lichtenštejnské Opavsko a Krnovsko; pruské Slezsko – Rettkau, Preichau, Schwebedowa (Militsch), Hammer (Steinau), Ober-Krehlau, Priedemost (Hlohov), Peiskern, Polnisch-Gandau, Jäschkittel, Culmikau, Gorkau, Nieder-Kunzendorf (Münsterberg), Schützendorf, Wanowitz (Hlubčice); vratislavský biskup – Nisa (Neisse).
+
+## Co chci
+1. **Paleografické čtení slova** po „Incola“ – srovnej tvary písmen s jinými slovy téže ruky v zápisu (Silesia, Incola, Ignatii, Kowalinka, Kratochwill, Lanio…). Varianty čtení s pravděpodobností.
+2. **Kandidátní místa** pro každé čtení: Míšeň/Meissen (lat. Misnia – a proč by stálo u „in Silesia“), slezská místa podobného jména (německé, polské, české, latinské tvary; Rakouské i Pruské Slezsko; např. Neisse/Nissa, Mischline?, Mysłowice?, Mißnitz?… – ověř, co skutečně existuje), případně zkratky. U každého: zda tam byl panský/vrchnostenský les (lesník!), zda tam doložitelně žili Gillerové nebo jejich příbuzní a služební sítě (lichtenštejnská, biskupská, řádová, vojenská).
+3. **Nejlepší kandidát a jak ho ověřit online** – konkrétní zdroje (matriky té obce: kde jsou a zda jsou online; tisky 18. století; rejstříky), co by potvrdilo nebo vyloučilo; kdo to může udělat (A = Claude s nástroji: AHMP, ARON, Porta fontium, ČDK, archive.org, ÖStA katalog, Geneteka pomalu; B = druhý asistent v prohlížečích archivů: eBadatelna, SOA Třeboň, ZA Opava, Matricula, MZA; J = Jan: snímky obrazovky, bezplatné registrace).
+4. Krátce: co z výsledku plyne pro hypotézy H1–H5 o Maximiliánovi.
+
+Výsledek ulož do `revize_ignac_misnie_fable.md` v kořeni repozitáře, commitni jen ten soubor a pushni ho na svou pracovní větev (ne na `claude/nice-dirac-8inizg`). Do chatu napiš krátké shrnutí.

@@ -1894,7 +1894,7 @@
                         "jmeno": "Franz Leopold Giller",
                         "stav": "doc",
                         "vazba": "nejiste",
-                        "pozn": "podle Sinapia (1728) syn Friedricha Wilhelma I. a roku 1723 zemský písař knížectví Minstrberského a Frankenštejnska; ve Dvorcích je Franz Leopold Giller poštmistrem a purkmistrem (1693–1720) s dětmi od 1690 – zda jde o tutéž osobu, není jisté",
+                        "pozn": "ve Dvorcích do roku 1700 bez titulu, 1705–1712 měšťan, purkmistr a císařský poštmistr; narozen nejpozději kolem 1665, po roce 1712 ve Dvorcích chybí. Úzce spjat s měšťanskými Gillery (Christian), s rodinou Friedricha Wilhelma z Karlovce si za kmotry nechodili. Sinapius (1728) uvádí Franze Leopolda jako syna Friedricha Wilhelma I. a roku 1723 zemského písaře knížectví Minstrberského – zda jde o tutéž osobu, nevíme; podle věku by byl spíš bratrem nebo bratrancem Friedricha Wilhelma",
                         "manzel": "× 1) Susanna, × 2) Anna",
                         "deti": [
                           {
@@ -1908,7 +1908,7 @@
                             "stav": "doc",
                             "vazba": "doc",
                             "roky": "křest 6. 2. 1690",
-                            "pozn": "snad Karel Giller, švec ve Dvorcích († 1759, 70 let)"
+                            "pozn": "snad Carolus Giller, švec ve Dvorcích, × 1716 Rosina, † 3. 1. 1759, 70 let"
                           },
                           {
                             "jmeno": "Anna Rosina",
@@ -2514,7 +2514,7 @@
       },
       {
         "nadpis": "Gillerové ve Dvorcích – měšťané a řemeslníci",
-        "text": "Matriky Dvorců u Bruntálu 1688–1787. U hlavních rodin jsou zápisy doložené, u ostatních vazeb jde o pravděpodobné spojení. Jak souvisí s rodinou Friedricha Wilhelma I. ze sousedního Karlovce, zatím nevíme.",
+        "text": "Matriky Dvorců u Bruntálu 1688–1787. U hlavních rodin jsou zápisy doložené, u ostatních vazeb jde o pravděpodobné spojení. Měšťanští Gillerové tvořili jednu rodinnou a kmotrovskou síť s poštmistrem Franzem Leopoldem (svědectví, společní kmotři Loserthovi, Poltzerovi a Zimmerovi); s rodinou Friedricha Wilhelma I. ze sousedního Karlovce, která si brala za kmotry komtury Řádu německých rytířů, spojeni nebyli. Jak spolu obě rodiny souvisejí, zatím nevíme.",
         "uzly": [
           {
             "jmeno": "Christian Giller st.",

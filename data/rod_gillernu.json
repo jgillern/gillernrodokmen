@@ -584,9 +584,9 @@
     },
     {
       "jmeno": "Ignác z Gillernů („Ignatius de Gillern“)",
-      "roky": "asi 1770; 1784",
-      "text": "Panský lesník na Poděbradsku. Křest 1784 (Maximiliánův vnuk): kmotr v zastoupení „Perillustris Dominus Ignatius de Gillern in Silesia Incola Misnie (?)“ – poslední slovo čtu „Misnie“ (= v Míšni?), ChatGPT „Mysnice (?)“. Odtud zřejmě i údaj článku v Polabských novinách 1928 (s. 5, „Rod Kroužkův“), že Ignác „pocházel z Míšně ve Slezsku“ a vzal si Rosálii Kroužkovou (* 30. 1. 1745, dcera poděbradského řezníka Ignáce Kroužka a Kateřiny), s níž měl dceru Annu († 1772). Matriky: Anna, „filia Rosaliae Krauzkin“, zemřela 30. 4. 1772 ve 2 letech v č. 8 na předměstí – otec neuveden, matka rodným jménem (nejspíš nemanželské dítě); sňatek Ignáce s Rosálií v Poděbradech 1764–1772 nenalezen (možná později – O 1772–1784 neprohlédnuto). Rosáliina sestra Marie se podruhé vdala za Františka Zindera z Velkého Varadína.",
-      "zdroj": "Poděbrady N 1784 (11845/10), Z 1772 (11867/25), N 1745 (11837/107); Polabské noviny 18. 1. 1928, s. 5",
+      "roky": "1784 (ve Slezsku)",
+      "text": "Křest 1784 (Maximiliánův vnuk): kmotr v zastoupení „Perillustris Dominus Ignatius de Güllern in Silesia Incola M…“ – poslední slovo nejisté (já „Misnie“, ChatGPT „Mysnice (?)“ / „Missus (?)“); jisté je jen „obyvatel Slezska“. Článek v Polabských novinách 1928 (s. 5, „Rod Kroužkův“) z něj udělal panského lesníka, který „pocházel z Míšně ve Slezsku“ a vzal si Rosálii Kroužkovou (* 30. 1. 1745). Matriky to NEPOTVRZUJÍ a ukazují spíš na omyl autora: Anna, „filia Rosaliae Krauzkin“, † 30. 4. 1772 ve 2 letech (otec neuveden – nejspíš nemanželská); sňatek Ignáce v Poděbradech 1772–1784 souvisle prohlédnut – není; v letech 1780–1786 žije v Poděbradech Rosálie, manželka vojáka (pak invalidy) Josefa Killara/Gillara, † 20. 6. 1786 ve 40 letech po porodu (* asi 1746 – sedí na Rosálii Kroužkovou, rodné jméno ale neuvedeno). Autor zřejmě spojil vojáka Gillara s kmotrem Ignácem z Güllernů. Ignác tedy v Poděbradech doložen není – jen jako nepřítomný kmotr 1784. (1769 kmotr „Perill. D. de Kyller“ bez křestního jména – spíš sám Maximilián.)",
+      "zdroj": "Poděbrady N 1784 (11845/10), Z 1772 (11867/25), N 1780 (11843/93), N 1786 (11848/16), Z 1786 (11872/12), O 1786 (11863/7); Polabské noviny 18. 1. 1928, s. 5; zpráva ChatGPT A 21. 11. 2026",
       "stav": "doc"
     },
     {
@@ -1825,8 +1825,8 @@
               {
                 "jmeno": "Ignác z Gillernů „ve Slezsku“",
                 "stav": "doc",
-                "roky": "asi 1770 Poděbrady; 1784 ve Slezsku",
-                "pozn": "panský lesník na Poděbradsku, „pocházel z Míšně ve Slezsku“ (Meissen? nebo Nisa?); × Rosálie Kroužková (* 30. 1. 1745 Poděbrady); dcera Anna † 1772 ve 2 letech (Polabské noviny 1928); 1784 kmotr Maximiliánova vnuka",
+                "roky": "1784 ve Slezsku",
+                "pozn": "1784 kmotr (v zastoupení) Maximiliánova vnuka, „in Silesia Incola M…“; údaj novin 1928 o lesníkovi a sňatku s Rosálií Kroužkovou matriky nepotvrzují (spíš záměna s vojákem Josefem Gillarem)",
                 "vazba": "nejiste",
                 "popis": "příbuzný?"
               }

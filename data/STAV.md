@@ -142,3 +142,13 @@ Podrobně v chatu 21. 11. Zkratky: A = vazby ve Dvorcích, H = hypotézy o Maxim
 - H1 vnuk FW I. (syn FW II., Hanse Wilhelma, Johanna Petera) · H2 syn Karla Josefa · H3 2. větev (Johann Christoph, Slezsko) · H4 Franz Niklas (odloženo) · H5 dvorecká měšťanská rodina.
 - Pořadí: 1 Gotha 1884 + Sinapius (sám) · 2 ÖStA katalog Adelsakten (sám) · 3 Geneteka / szukajwarchiwach (sám, Geneteka crawl-delay 120 s) · 4 ČDK/archive.org katalogy kléru a univerzit (sám) · 5 ChatGPT Dvorce II · 6 ChatGPT Roudno + sňatek Maximiliána na Bruntálsku/Opavsku · 7–9 offline (Kriegsarchiv musterlisty IR Pallavicini, MZA závěť K. J., SOkA Bruntál městské knihy Dvorců).
 - Pilnáček, Rody starého Slezska (1972), č. 866: „Giller z Lilienfeldu … na Opavsku; z jejich pošlosti (občanské) snad vyšli později na Moravě usedlí Gillernové“.
+
+## Zásada (Jan 21. 11. 2026): před zápisem do archivních dotazů vždy nejdřív projít online cesty
+Kontrolní seznam: ČDK/Kramerius ve všech tvarech jména (Gillern, Gillernová/-ové/-ovou/-a/-em, Gillernů, z Gillern, Giller) + OCR celé stránky přes API (veřejné dokumenty); tištěné ročenky, adresáře, školní výroční zprávy, výsledky pozemkové reformy, oznámení v novinách (narozeniny, úmrtí, sňatky); ARON/Porta fontium kroniky; katalogy archivů (ÖStA, ARON, eBadatelna – seznamy); Geneteka; web (genealogické portály, hroby); teprve pak archiv / úřad.
+
+### Nové online stopy (21. 11. 2026, log 569)
+- **Maximilián † 1782?** – kniha Lesní hospodářství na bývalém panství poděbradském (1924, s. 86): „1766, † 1782 Jan Maximilián z Gillernu“ (předtím revírník v Bobnicích); Hellich (Háj 1909): Böser přišel 1782 „po smrti Maximiliána“. V Poděbradech Z 1771–1784 (11867) ho ChatGPT nenašel (log 505 – bez výřezů). Další krok: ChatGPT – znovu souvisle Poděbrady Z 1782 s výřezy + okolní fary panství 1782; zjistit autora knihy 1924 a jeho prameny (archiv velkostatku Poděbrady).
+- **Jan a Julie** – zbytkový statek Karlov u Podbrd (s. o. Hořovice) 1930; Julie žila 22. 10. 1967 (70. narozeniny).
+- **Karel** – snad dcera Ester (Praha, Planá u M. L., 1934–36).
+- **Kutná Hora**: Marie z G. roz. Jägrová († 1886 Gorice, vdova po nadlesním) → který syn Františka (1785–1840) byl nadlesním?
+- **Poděbradsko 19. stol.**: Rosarie z G. × řezník František Opelt (vdova × 1876 Jan Jambor) → potomci Josefových dětí v Polabí?

@@ -355,7 +355,7 @@
         "s": 2,
         "r": 2,
         "jmeno": "Maximilián svob. pán z G.",
-        "roky": "asi 1700/1720 – po 1786",
+        "roky": "asi 1700/1720 – 1782 (?)",
         "pozn": "nadlesní, Poděbrady",
         "stav": "doc",
         "osoba": "maximilian-svobodny-pan-z-gillernu"
@@ -681,6 +681,28 @@
       "text": "V poděbradských křtech jako kmotři: Eleonora (* 1757 Kladruby; panna 1773–1780, pak manželka Jana Clannera), Johanna (* 1751 Bor; 1775, 1777–1778), Uršula (?) Filipína de Gillern (* 1759 Kladruby; 1781), Anna Gyllerin (?) (snad Anna Alexie * 1750; 1772) a dospělý František de Gyller (?) (1773). V letech 1777–1778 je jejich otec sedmkrát zapsán jako „Josephus Giller Supremus Venator“ – vysvětleno: jmenoval se Maximilián Josef Emanuel.",
       "zdroj": "eBadatelna, Poděbrady 13 (11843), zpráva ChatGPT 19. 11. 2026; výřezy 11843/73 a /82 přečteny",
       "stav": "doc"
+    },
+    {
+      "jmeno": "Marie z Gillernů roz. Jägerová",
+      "roky": "asi 1845 – 1886",
+      "stav": "lit",
+      "text": "„Tyto dny zemřela v Gorici paní Marie z Gillernů, vdova po nadlesním, rozená Jägrová v Kutné Hoře, v stáří 41 roků.“ Manžel – nadlesní z Gillernů – zemřel před 1886; mohl to být některý ze synů Františka (1785–1840): Jan Křtitel (* 1825), František (* 1827) nebo Jindřich Ludvík (* 1840, matka z Kutné Hory).",
+      "zdroj": "Kutnohorské listy 12. 2. 1886",
+      "odkaz": "https://www.ceskadigitalniknihovna.cz/uuid/uuid:84536b72-cff3-11e5-a451-005056b5ed69"
+    },
+    {
+      "jmeno": "Rosarie (Rozálie) z Gillernů, provdaná Opeltová",
+      "roky": "19. století",
+      "stav": "lit",
+      "text": "Manželka řezníka Františka Opelta, matka syna Opelta; jako vdova se 1876 znovu vdala za Jana Jambora st., mistra truhlářského – zmínka v poděbradském týdeníku. Gillernová na Poděbradsku v 19. století – možná potomek Josefových sourozenců nebo synů (Josef Emanuel * 1789, Lambert * 1792).",
+      "zdroj": "Nezávislost (Poděbrady) 26. 10. 1912, s. 5"
+    },
+    {
+      "jmeno": "Marie z Gillernů (Gillernová)",
+      "roky": "1945",
+      "stav": "lit",
+      "text": "„Gillernová Marie z G.“ přispěla 100 K ve sbírce v Pojizeří (Turnovsko) v dubnu 1945. Kdo to je, nevíme.",
+      "zdroj": "Pojizerské listy 17. 4. 1945"
     }
   ],
   "otazky": [
@@ -807,7 +829,8 @@
         "za 1. světové války nadporučík 1. pluku tyrolských císařských myslivců – „Giller v. Gillern Karl, 1. TJR“ (Reichenberger Zeitung 14. 7. 1915; Ranglisten 1916–1917; Feldblatt 1918)",
         "doktor práv (JUDr.), od 1919 v československé politické správě; do 1918 „Karl Giller von Gillern“, pak „Karel Gillern“",
         "okresní hejtman (rada politické správy): Planá u Mariánských Lázní (1935–1936), Nové Město nad Metují (1937–1938), Mělník (1939, pak přeložen), Strakonice (1940–1941 podle sborníku Strakonice 2005; Wikipedie uvádí Mělník 1939–1942 a Strakonice 1942–1945)",
-        "zemřel 1953 (Wikipedie), podle dopisu K. Vyšína v Mariánských Lázních; pohřben v rodinném hrobě v Čimelicích"
+        "zemřel 1953 (Wikipedie), podle dopisu K. Vyšína v Mariánských Lázních; pohřben v rodinném hrobě v Čimelicích",
+        "„Ester Gillernová, Praha (Planá u Mar. Lázní)“ – studentka dívčího reálného gymnázia Krásnohorská v Praze 1934–35; 1936 na plese lékařů („sl. Ester Gillernová“) – nejspíš Karlova dcera; mezi patronkami plesu i „pí Gillernová“"
       ],
       "pozn": "Pozor: „Karl Freiherr von Gillern“ ze zeměbraneckého Schützenregimentu Nr. 24 (1917–1919) je nejspíš vídeňský Karl Gillern (1895–1971), ne náš Karel.",
       "vztahy": [
@@ -1436,7 +1459,7 @@
               {
                 "jmeno": "Maximilián Josef Emanuel svobodný pán z Gillernů",
                 "stav": "doc",
-                "roky": "asi 1700/1720 – po 1786",
+                "roky": "asi 1700/1720 – † 1782 (?)",
                 "pozn": "nadlesní: Bor Bobnický 1750–53, Hradištko 1756, Kladruby 1757–61, Čelákovice 1762–66, od asi 1769 Poděbrady",
                 "vazba": "nejiste",
                 "nase": true,
@@ -1485,7 +1508,7 @@
                                   {
                                     "jmeno": "Vilemína (?)",
                                     "roky": "* 30. 6. 1887 Líz",
-                                    "pozn": "jen rejstřík (tentýž dům, rodiče neuvedeni)",
+                                    "pozn": "rejstřík (tentýž dům, rodiče neuvedeni); 1903 „žákyně Vil. z Gillernů“ (Budivoj, Č. Budějovice)",
                                     "stav": "doc",
                                     "vazba": "prob"
                                   },
@@ -1495,7 +1518,16 @@
                                     "pozn": "nadporučík tyrolských myslivců; okresní hejtman Planá, Nové Město n. Met., Mělník, Strakonice",
                                     "stav": "lit",
                                     "vazba": "lit",
-                                    "profil": "karel"
+                                    "profil": "karel",
+                                    "deti": [
+                                      {
+                                        "jmeno": "Ester Gillernová",
+                                        "roky": "studentka 1934–35",
+                                        "pozn": "dívčí reálné gymnázium Krásnohorská v Praze, domov Planá u Mar. Lázní (kde byl Karel okresním hejtmanem) – snad dcera",
+                                        "stav": "lit",
+                                        "vazba": "nejiste"
+                                      }
+                                    ]
                                   },
                                   {
                                     "jmeno": "Marie",

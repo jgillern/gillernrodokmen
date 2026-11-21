@@ -181,3 +181,6 @@ Revize: `revize_maximilian_fable.md` (kořen repozitáře). Klíčové nálezy o
 - (Fable 6.11) Svědek 1771 „Josephus de Giller“ – otec, nebo syn? (vyřeší seznam titulů a jmen 6.1).
 - (Fable 6.12) Drobnosti: měsíc křtu 1781, příjmení nevěsty 1765 (Neška/Newka), jméno svědka majora 1765; zařazení malíře Josepha Edwarda (Wanowitz) [A].
 - Hledání „první manželky“ a „Josefa kolem 1737“ pozastaveno do ověření věku (Fable 5.2).
+
+### Stav po zprávě ChatGPT „Poděbrady – Ignác“ (21. 11. 2026, log 576)
+Priorita 1 HOTOVA: Ignác × Rosálie v O 1764–1772 není; Anna † 1772 jen „filia Rosaliae Krauzkin“ (nemanželská?); slovo 1784 = „Misnie (?)“ (odtud „z Míšně“ v článku 1928); Maximilián † 1782 v Poděbradech není; Sigisbert a „Antonín Gidler“ nepříbuzní; věk Josefa 48 potvrzen. **Další krok [B]:** Poděbrady O 11860 1772–1784 (sňatek Ignáce s Rosálií později?), Rosáliin další osud (sňatek/úmrtí 1772–1800); Ignác jako kmotr/otec 1765–1775 v N 11841/11843 (ChatGPT neuvedl). „Misnie“ – Míšeň (Meissen)? Hledat Gillerny v Míšni/Sasku (Matricula? SAXONIA?) až po přečtení dalších zápisů.

@@ -35,7 +35,7 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 `dokumenty/rodny_list_Milada_Beranova_1937.jpg` – jen lokálně (doklad žijící osoby), ne v gitu ani na webu.
 Vydal MNV Pravonín (okr. Vlašim) 13. 11. 1952 podle rodné matriky řím.-kat. farního úřadu Pravonín, sv. XXVI, s. 155, poř. č. 3.
 - Milada Beranová, * 1937 Pravonín čp. 72 (přesné datum v dokladu), ženské pohlaví.
-- Otec: Josef Beran, * 3. 6. 1910 Velká Jesenice, majitel cihelny, Pravonín čp. 72; syn Josefa Berana a Emilie roz. Kozákové.
+- Otec: Josef Beran, * 3. 6. 1910 Velká Jesenice, majitel cihelny, Pravonín čp. 72; syn Josefa Berana a Emilie roz. Kozákové. [Úmrtní list 1975 (dokumenty/umrtni_list_Josef_Beran_1975.jpg) uvádí * 13. 6. 1910 – souhlasí s rodným číslem; † 22. 8. 1975 Vlašim čp. 529, bydliště Buková čp. 8, obec Pravonín; pohřeb 27. 8. 1975 Pravonín.]
 - Matka: Ludmila Slunečková, * 7. 4. 1916 Buková (která Buková – neurčeno); dcera Františka Slunečka a Ludmily roz. Svatkové.
 - Buková, kde se narodila Ludmila Slunečková (1916), je podle Jana část obce Pravonín.
 

@@ -27,7 +27,7 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 | Ludmila Beranová, * 21. 4. 1912 Pravonín | výpis z matriky narozených (XXVI, s. 73) | matriční úřad Vlašim | sestra pradědečka Josefa; uvede rodiče Josefa Berana st. a Emilii Kozákovou i s jejich původem – zápis je starší 100 let, vydají ho komukoli |
 | Františka Šustrová, * 15. 9. 1892 Masákova Lhota č. 63 | kopie zápisu z matriky narozených (fara Zdíkovec, Mas. Lhota N 1868–1936, farní č. 17, s. 113) | matriční úřad Zdíkov | kniha je ještě na úřadě; jen potvrzení – rodiče už známe ze sňatků |
 | Josef Beran st. a Emilie Beranová, † po 1949 (asi Pravonín/Buková) | doslovný výpis / kopie zápisu z matriky zemřelých – uvádí datum a místo narození | matriční úřad Pravonín / Vlašim (podle roku úmrtí z náhrobku) | Jan je přímý potomek – má na výpis nárok |
-| Josef Beran, * 3. 6. 1910 Velká Jesenice | výpis z matriky narozených | matriční úřad pro Velkou Jesenici (Česká Skalice?) | totéž – rodiče a prarodiče |
+| Josef Beran, * 13. 6. 1910 Velká Jesenice (podle úmrtního listu a rodného čísla; rodný list dcery uvádí 3. 6.) | výpis z matriky narozených | matriční úřad pro Velkou Jesenici (Česká Skalice?) | totéž – rodiče a prarodiče |
 
 ## Archivy – knihy, které nejsou naskenované
 

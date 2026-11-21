@@ -1003,7 +1003,7 @@
       "vztahy": [
         {
           "vztah": "otec (nejspíš)",
-          "text": "Franz Leopold Giller, poštmistr a purkmistr ve Dvorcích"
+          "profil": "franz_leopold"
         },
         {
           "vztah": "příbuzný – rod Friedricha Wilhelma I.",
@@ -1062,6 +1062,7 @@
         }
       ],
       "zaznamy": [
+        "n_1690_giller_hans_carl",
         "o_1723_giller_mohr",
         "z_1762_gillern_carl_joseph"
       ]
@@ -1418,6 +1419,10 @@
         {
           "vztah": "příbuzný",
           "profil": "karel_josef"
+        },
+        {
+          "vztah": "příbuzný (bratr nebo bratranec?)",
+          "profil": "franz_leopold"
         }
       ],
       "zdroje": [
@@ -1441,6 +1446,8 @@
         }
       ],
       "zaznamy": [
+        "n_1688_giller_friedrich_wilhelm",
+        "n_1696_giller_carl_joseph",
         "n_1719_giller_maximilian",
         "o_1723_giller_mohr"
       ]
@@ -1488,6 +1495,9 @@
         {
           "nazev": "Matriky fary Dvorce (Zemský archiv v Opavě), křty 1688–1699"
         }
+      ],
+      "zaznamy": [
+        "n_1688_giller_friedrich_wilhelm"
       ]
     },
     "johann_christoph": {
@@ -1769,6 +1779,47 @@
         "o_1765_gyller_bedrich",
         "n_1766_gillern_jan_bedrich"
       ]
+    },
+    "franz_leopold": {
+      "jmeno": "Franz Leopold Giller",
+      "roky": "nejpozději 1665 – po 1712",
+      "stav": "doc",
+      "vazba": "poštmistr a purkmistr ve Dvorcích u Bruntálu; nejspíš otec Karla Josefa, pána Koryčan, a blízký příbuzný Friedricha Wilhelma I.",
+      "fakta": [
+        "Doložen ve Dvorcích u Bruntálu v letech 1690–1712. Narodil se nejpozději kolem roku 1665 – jeho dcera Maria Elisabeth se vdávala roku 1705.",
+        "Manželka Susanna, uváděná u křtů dětí v letech 1690–1709. Susanna Gillerová, která zemřela ve Dvorcích 25. 4. 1724 ve věku 60 let, mohla být ona.",
+        "Děti: Maria Elisabeth (× 7. 9. 1705 Martinus Maximilianus Sefftig (?), hejtman šternberského panství), Hans Carl (* 6. 2. 1690), Anna Rosina (* 1694, × 18. 1. 1712 Johann Anton Knapp, hejtman v Opavě), Joanna Theresia (* 1697), Maria Johanna (* 8. 7. 1706, zemřela po dvou dnech) a Frantz Philipp (* 2. 5. 1709).",
+        "Do roku 1700 je v matrikách bez titulu; roku 1705 je měšťanem a poštmistrem, roku 1709 poštmistrem a roku 1712 „poštmistrem Jeho římského císařského Veličenstva a zdejším purkmistrem“.",
+        "Často šel za kmotra ve Dvorcích; roku 1699 kmotroval i na Karlovci, na téže straně matriky hned po křtu dítěte Friedricha Wilhelma Gillera. Na svatbě jeho dcery roku 1705 svědčil Christian Giller ze Dvorců.",
+        "Po roce 1712 ve Dvorcích mizí. Sinapius (1728) uvádí Franze Leopolda jako syna Friedricha Wilhelma I. a roku 1723 zemského písaře knížectví Minstrberského a Frankenštejnska. Zda jde o tutéž osobu, není jisté – věkem byl Franz Leopold spíš vrstevníkem Friedricha Wilhelma I. (bratrem nebo bratrancem) než jeho synem.",
+        "Jeho syn Hans Carl byl nejspíš pozdější vídeňský dvorní rada a baron Karel Josef (Johann Karl Joseph) z Gillernů, pán Koryčan."
+      ],
+      "vztahy": [
+        {
+          "vztah": "syn (nejspíš)",
+          "profil": "karel_josef"
+        },
+        {
+          "vztah": "příbuzný (bratr nebo bratranec?)",
+          "profil": "fw1"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matriky fary Dvorce (ZA Opava): Dv I 1 O 2 (1688–1705), Dv I 1 (1706–1755)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        },
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        }
+      ],
+      "zaznamy": [
+        "n_1690_giller_hans_carl",
+        "o_1705_sefftig_gillerova",
+        "n_1709_giller_frantz_philipp",
+        "o_1712_knapp_gillerova"
+      ]
     }
   },
   "rodokmen": {
@@ -1932,14 +1983,14 @@
                         "jmeno": "Franz Leopold Giller",
                         "stav": "doc",
                         "vazba": "nejiste",
-                        "pozn": "ve Dvorcích do roku 1700 bez titulu, 1705–1712 měšťan, purkmistr a císařský poštmistr; narozen nejpozději kolem 1665, po roce 1712 ve Dvorcích chybí. Úzce spjat s měšťanskými Gillery (Christian), s rodinou Friedricha Wilhelma z Karlovce si za kmotry nechodili. Sinapius (1728) uvádí Franze Leopolda jako syna Friedricha Wilhelma I. a roku 1723 zemského písaře knížectví Minstrberského – zda jde o tutéž osobu, nevíme; podle věku by byl spíš bratrem nebo bratrancem Friedricha Wilhelma",
-                        "manzel": "× 1) Susanna, × 2) Anna",
+                        "pozn": "ve Dvorcích 1705 měšťan a poštmistr, 1712 císařský poštmistr a purkmistr; narozen nejpozději kolem 1665, po 1712 ve Dvorcích chybí; spjat s měšťanskými Gillery (Christian), roku 1699 kmotr na Karlovci. Vztah k Friedrichu Wilhelmovi I. nejasný (Sinapius: syn; podle věku spíš bratr nebo bratranec)",
+                        "manzel": "× Susanna (doložena 1690–1709)",
                         "deti": [
                           {
                             "jmeno": "Maria Elisabeth",
                             "stav": "doc",
                             "vazba": "doc",
-                            "pozn": "× 7. 9. 1705 Dvorce"
+                            "manzel": "× 7. 9. 1705 Martinus Maximilianus Sefftig (?), hejtman šternberského panství"
                           },
                           {
                             "jmeno": "Karel Josef (Johann Karl Joseph) svobodný pán z Gillernů",
@@ -1955,7 +2006,7 @@
                             "stav": "doc",
                             "vazba": "doc",
                             "roky": "křest 27. 2. 1694",
-                            "manzel": "× 1712 Johann Anton Knapp, hejtman v Opavě (?)"
+                            "manzel": "× 18. 1. 1712 Johann Anton Knapp, hejtman v Opavě"
                           },
                           {
                             "jmeno": "Joanna Theresia",
@@ -1966,17 +2017,18 @@
                           },
                           {
                             "jmeno": "Maria Johanna",
-                            "stav": "prob",
-                            "vazba": "prob",
-                            "roky": "1706"
+                            "stav": "doc",
+                            "vazba": "doc",
+                            "roky": "8. 7. 1706 – † 9. 7. 1706"
                           },
                           {
                             "jmeno": "Frantz Philipp",
-                            "stav": "prob",
-                            "vazba": "prob",
+                            "stav": "doc",
+                            "vazba": "doc",
                             "roky": "křest 2. 5. 1709"
                           }
-                        ]
+                        ],
+                        "profil": "franz_leopold"
                       }
                     ],
                     "id": "fw1",

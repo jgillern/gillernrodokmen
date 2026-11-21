@@ -936,5 +936,19 @@
   "svazek": "Wienerisches Diarium, 3. 12. 1760, č. 97",
   "popis": "Vídeňské noviny; seznam ztrát císařských pluků (po bitvě u Torgavy 3. 11. 1760), oddíl pluku Sincère.",
   "url": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=17601203&seite=14"
+ },
+ "dvorce_dv_i_1_o_2": {
+  "archiv": "Zemský archiv v Opavě",
+  "portal": "Digitalizované matriky ZA Opava",
+  "svazek": "Dvorce, Dv I 1 O 2 – opisy narozených a oddaných 1688–1705",
+  "popis": "Fara Dvorce (Hof), okr. Bruntál, s Karlovcem (Carlsberg); dobový opis křtů a sňatků 1688–1705.",
+  "url": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+ },
+ "dvorce_dv_i_1": {
+  "archiv": "Zemský archiv v Opavě",
+  "portal": "Digitalizované matriky ZA Opava",
+  "svazek": "Dvorce, Dv I 1 – N/O/Z 1706–1755",
+  "popis": "Fara Dvorce (Hof), okr. Bruntál; křty, sňatky a úmrtí 1706–1755.",
+  "url": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
  }
 }

@@ -2130,5 +2130,27 @@
   "strana": "fol. 145v, 6. zápis",
   "odkaz": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-088/?pg=294",
   "pozn": "Matricula, snímek 294 (rejstřík G snímek 606)."
+ },
+ {
+  "klic": "z_1783_gillern_karl_josef",
+  "druh": "Z",
+  "datum": "21. 11. 1783",
+  "nazev": "Úmrtí Karla Josefa, syna Kristiána z Gillernů, Vídeň (zpráva v tisku)",
+  "shrnuti": "21. 11. 1783 zemřel ve Vídni (ve městě, Jakobergasse č. 904) pan Karel Josef, 11letý syn urozeného pana Kristiána svobodného pána z Gillernů, c. k. podplukovníka (* asi 1772). Rodina tedy žila ve Vídni ještě roku 1783.",
+  "svazek": "tisk_wiener_zeitung_1783",
+  "strana": "s. 10 (snímek), levý sloupec",
+  "odkaz": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=17831126&seite=10",
+  "pozn": "Rubrika zemřelých ve Vídni."
+ },
+ {
+  "klic": "j_1760_giller_hauptmann",
+  "druh": "J",
+  "datum": "3. 12. 1760",
+  "nazev": "Granátnický hejtman Giller zajat nebo nezvěstný (pluk Sincère, Torgava 1760)",
+  "shrnuti": "Wienerisches Diarium 3. 12. 1760 otiskl seznam ztrát císařských pluků; u pluku Sincère je mezi zajatými nebo nezvěstnými „Gren. Hauptmann Giller“ – granátnický hejtman Giller. Křestní jméno chybí. Kapitán Jan Bedřich sloužil u pluku Pallavicini, takže jde spíš o Kristiána z Gillernů, který podle literatury bojoval roku 1760 u Torgavy.",
+  "svazek": "tisk_wienerisches_diarium_1760",
+  "strana": "s. 14 (snímek), levý sloupec",
+  "odkaz": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=17601203&seite=14",
+  "pozn": "Bitva u Torgavy byla 3. 11. 1760; seznam vyšel o měsíc později."
  }
 ]

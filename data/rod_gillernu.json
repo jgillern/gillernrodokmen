@@ -1078,6 +1078,8 @@
         "rakouský stav svobodných pánů 21. 6. 1766",
         "náhradní dědic Koryčan po bratranci Karlu Josefovi (1759); závětí z 31. 10. 1791 odkázal Koryčany dceři Marii Josefě, provdané za Konstantina svobodného pána Münch von Bellinghausen (1793)",
         "V letech 1766–1769 žil s rodinou ve Vídni: v červenci 1766 tam pohřbil dítě Theresii, 9. 7. 1767 dal u sv. Štěpána pokřtít dceru Marii Josefu Aloisii Walburgu a 24. 8. 1769 dceru Marii Antonii Josefu.",
+        "Rodina žila ve Vídni i později: 21. 11. 1783 tam zemřel Kristiánův jedenáctiletý syn Karel Josef (* asi 1772), v Jakoberově ulici č. 904.",
+        "Ve vídeňském seznamu ztrát po bitvě u Torgavy (1760) je u pluku Sincère zapsán jako zajatý nebo nezvěstný „granátnický hejtman Giller“ – nejspíš Kristián.",
         "Zemřel 25. 7. 1793 v Koryčanech (zámek č. 65) na mrtvici, ve věku 70 let, pohřben v rodinné kryptě.",
         "pradědeček Oswalda svobodného pána z Gillernů (* 1828, Dobberphul u Štětína) – tedy předek pruských baronů (Gotha 1884)",
         "Manželka Karolina svobodná paní z Locella (z rodiny sestry vdovy po Karlu Josefovi) zemřela 31. 1. 1805 v Koryčanech ve věku 73 let; dcera Marie Josefa, pokřtěná 9. 7. 1767 u sv. Štěpána ve Vídni (Hyrtl uvádí chybně 1768), zdědila Koryčany.",
@@ -1120,9 +1122,11 @@
         }
       ],
       "zaznamy": [
+        "j_1760_giller_hauptmann",
         "z_1766_gillern_theresia",
         "n_1767_gillern_maria_josepha",
-        "n_1769_gillern_maria_antonia"
+        "n_1769_gillern_maria_antonia",
+        "z_1783_gillern_karl_josef"
       ]
     },
     "matous": {
@@ -1835,6 +1839,12 @@
                                 "stav": "doc",
                                 "vazba": "doc",
                                 "roky": "* 24. 8. 1769 Vídeň"
+                              },
+                              {
+                                "jmeno": "Karel Josef",
+                                "stav": "doc",
+                                "vazba": "doc",
+                                "roky": "asi 1772 – † 21. 11. 1783 Vídeň"
                               },
                               {
                                 "jmeno": "… dvě generace (Gotha 1884 je nejmenuje)",

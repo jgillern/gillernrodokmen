@@ -922,5 +922,19 @@
   "svazek": "Wien, Dom- und Metropolitanpfarre St. Stephan, Taufbuch 01-088 (1768–1770)",
   "popis": "Kniha pokřtěných farnosti sv. Štěpána ve Vídni; rejstřík G snímek 606.",
   "url": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-088/"
+ },
+ "tisk_wiener_zeitung_1783": {
+  "archiv": "Österreichische Nationalbibliothek",
+  "portal": "ANNO",
+  "svazek": "Wiener Zeitung, 26. 11. 1783",
+  "popis": "Vídeňské noviny; rubrika zemřelých ve Vídni (Verstorbene zu Wien).",
+  "url": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=17831126&seite=10"
+ },
+ "tisk_wienerisches_diarium_1760": {
+  "archiv": "Österreichische Nationalbibliothek",
+  "portal": "ANNO",
+  "svazek": "Wienerisches Diarium, 3. 12. 1760, č. 97",
+  "popis": "Vídeňské noviny; seznam ztrát císařských pluků (po bitvě u Torgavy 3. 11. 1760), oddíl pluku Sincère.",
+  "url": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=17601203&seite=14"
  }
 }

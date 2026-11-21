@@ -1646,6 +1646,7 @@
         "Pán na Ober-Krehlau (Horní Krehlau, dnes část Krzelówa u Volova) – sousední statek bratra Carla Heinricha na Nieder-Krehlau; podle Sinapia (1728) také hejtman v Preichau.",
         "Manželka Eleonora Hedwig, snad rozená Klinge (purkmistr Franz Valentin Klinge z Winzigu kmotroval v rodině bratra).",
         "Děti pokřtěné v Krehlau: Christoph Franz Gregor (12. 3. 1716), Maria Anna Johanna Victoria (11. 5. 1717), Johann Heinrich Ferdinand (25. 6. 1718), Maria Elisabeth Apolonia (24. 9. 1719), Anna Josepha Francisca (10. 3. 1721), Maria Barbara Susanna (24. 5. 1722) a Friedrich Joseph Wilhelm (29. 2. 1724).",
+        "Čtyři z těchto dětí zemřely malé: Christoph Franz Gregor (pohřben 20. 4. 1718, 2 roky), Johann Heinrich Ferdinand (12. 12. 1718, 24 týdnů), Maria Elisabeth Apolonia (27. 10. 1719, 5 týdnů) a Anna Josepha Francisca (28. 5. 1724, 3 roky).",
         "Roku 1710 byl kmotrem v Preichau."
       ],
       "vztahy": [
@@ -2049,7 +2050,7 @@
                         "deti": [
                           {
                             "jmeno": "Johann Christoph (Friedrich)",
-                            "roky": "* 1711 Krehlau",
+                            "roky": "* 1711 Krehlau – † 17. 3. 1719",
                             "stav": "doc",
                             "vazba": "doc"
                           },
@@ -2061,13 +2062,13 @@
                           },
                           {
                             "jmeno": "Maria Philippina Francisca",
-                            "roky": "* 23. 9. 1715",
+                            "roky": "* 23. 9. 1715 – † 14. 4. 1718",
                             "stav": "doc",
                             "vazba": "doc"
                           },
                           {
                             "jmeno": "Maria Josepha Elisabetha",
-                            "roky": "* 22. 4. 1717",
+                            "roky": "* 22. 4. 1717; kmotra 1736",
                             "stav": "doc",
                             "vazba": "doc"
                           },
@@ -2420,19 +2421,19 @@
                           },
                           {
                             "jmeno": "Friedrich Bernhard Anton",
-                            "roky": "* 26. 8. (?) 1720",
-                            "stav": "prob",
-                            "vazba": "prob"
+                            "roky": "* 26. 8. 1720 – † 22. 7. 1724",
+                            "stav": "doc",
+                            "vazba": "doc"
                           },
                           {
                             "jmeno": "Maria Carolina Friderica",
-                            "roky": "* 1722",
+                            "roky": "* 3/1722 – † 9/1722 (?)",
                             "stav": "doc",
                             "vazba": "doc"
                           },
                           {
                             "jmeno": "Maria Catharina Theresia",
-                            "roky": "* 3. 10. 1723",
+                            "roky": "* 3. 10. 1723 – † 26. 1. 1724",
                             "stav": "doc",
                             "vazba": "doc"
                           },
@@ -2544,7 +2545,7 @@
                         "deti": [
                           {
                             "jmeno": "Christoph Franz Gregor",
-                            "roky": "* 12. 3. 1716",
+                            "roky": "* 12. 3. 1716 – † 20. 4. 1718",
                             "stav": "doc",
                             "vazba": "doc"
                           },
@@ -2556,19 +2557,19 @@
                           },
                           {
                             "jmeno": "Johann Heinrich Ferdinand",
-                            "roky": "* 25. 6. 1718",
+                            "roky": "* 25. 6. 1718 – † 12. 12. 1718",
                             "stav": "doc",
                             "vazba": "doc"
                           },
                           {
                             "jmeno": "Maria Elisabeth Apolonia",
-                            "roky": "* 24. 9. 1719",
+                            "roky": "* 24. 9. 1719 – † 27. 10. 1719",
                             "stav": "doc",
                             "vazba": "doc"
                           },
                           {
                             "jmeno": "Anna Josepha Francisca",
-                            "roky": "* 10. 3. 1721",
+                            "roky": "* 10. 3. 1721 – † 28. 5. 1724",
                             "stav": "doc",
                             "vazba": "doc"
                           },

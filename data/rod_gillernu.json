@@ -222,16 +222,16 @@
       "nazev": "1. větev – Dvorce, Koryčany a pruští baroni",
       "obdobi": "1688–20. století",
       "barva": "#8f5b6e",
-      "text": "Friedrich Wilhelm I. Giller (1651–1728), správce (Amtmann) a pak „hejtman“ v Karlovci (Carlsberg) u Dvorců u Bruntálu (Hof) – Karlovec patřil k šternberskému panství – založil ho koncem 16. století jeho majitel Karel II. Minsterberský (cs.wikipedia), od 1695 Lichtenštejnové (ne řád německých rytířů, jak jsme dřív psali). Ve Dvorcích dal v letech 1688–1699 pokřtít nejméně osm dětí, mezi nimi Friedricha Wilhelma II. (1688, podplukovník) a Carla Josepha (1696) – pozdějšího dvorního radu Karla Josefa, svobodného pána od 1732 a od 1742 pána Koryčan. Podle Sinapia měl i syny Johanna Petera a Carla Ludwiga. Karel Josef synovy nezanechal; Koryčany přešly na synovce Kristiána Matyáše (* 1723, syn Friedricha Wilhelma II.), od něhož podle Gothy pocházejí i pruští baroni 19. století. Ve Dvorcích žili také měšťanští Gillerové (Christian, František, krejčí, tkalci, farář Jan Karel) – vazba na hejtmanovu rodinu zatím neznámá.",
+      "text": "Friedrich Wilhelm I. Giller (1651–1728), správce (Amtmann) a pak „hejtman“ v Karlovci (Carlsberg) u Dvorců u Bruntálu (Hof) – Karlovec patřil k šternberskému panství, od roku 1695 lichtenštejnskému. Ve Dvorcích dal v letech 1688–1699 pokřtít nejméně osm dětí, mezi nimi Friedricha Wilhelma II. (1688, podplukovník) a Carla Josepha (1696) – pozdějšího dvorního radu Karla Josefa, svobodného pána od 1732 a od 1742 pána Koryčan. Podle Sinapia měl i syny Johanna Petera a Carla Ludwiga. Karel Josef synovy nezanechal; Koryčany přešly na synovce Kristiána Matyáše (* 1723, syn Friedricha Wilhelma II.), od něhož podle Gothy pocházejí i pruští baroni 19. století. Ve Dvorcích žili také měšťanští Gillerové (Christian, František, krejčí, tkalci, farář Jan Karel) – vazba na hejtmanovu rodinu zatím neznámá.",
       "vazba": "Vzdálení příbuzní: Friedrich Wilhelm I. byl bratr Maximiliánova děda Christopha Heinricha (a kmotr Maximiliána 1719), Karel Josef bratranec jeho otce, Kristián z Koryčan jeho bratranec z druhého kolena.",
-      "profil": "karel_josef"
+      "profil": "fw1"
     },
     {
       "nazev": "2. větev – slezské statky (naše)",
       "obdobi": "1686–19. století",
       "barva": "#5b6e8f",
-      "text": "Christoph Heinrich (1646–1717), mladší bratr Friedricha Wilhelma I., biskupský hejtman a zemský starší Stínavska. Jeho synové měli statky v Dolním Slezsku: Carl Heinrich (1686–1752, Hammer a Nieder-Krehlau, × Catharina Barbara Eleonora roz. Nerlich) – náš předek; Johann Christoph (hejtman v Preichau, svobodný pán 1732) a Franz Joseph (Ober-Krehlau). Carlu Heinrichovi se v Krehlau narodilo 14 dětí, mezi nimi Maximilián (1719), Johann Friedrich Rudolph (1724, nejspíš pozdější rakouský kapitán Jan Bedřich) a pruský generálmajor Ernst Heinrich (1730). Z linie Johanna Christopha pocházejí pruští baroni z Polnisch-Gandau a Kulmikau (Carl Joseph × 1785 Antonia von Nerlich).",
-      "vazba": "NAŠE VĚTEV: Maximilián (* 1719 Krehlau) je syn Carla Heinricha – doloženo křtem (FamilySearch, 21. 11. 2026). Ernst Heinrich (generál) a nejspíš kapitán Jan Bedřich jsou jeho bratři; Johann Christoph (Preichau) a Frantz Joseph (Ober-Krehlau) strýcové.",
+      "text": "Christoph Heinrich (1646–1717), bratr Friedricha Wilhelma I., biskupský hejtman a zemský starší Stínavska. Jeho synové měli statky v Dolním Slezsku: Carl Heinrich (1686–1752, Hammer a Nieder-Krehlau, × Catharina Barbara Eleonora roz. Nerlich) – náš předek; Johann Christoph (hejtman v Preichau, svobodný pán 1732) a Franz Joseph (Ober-Krehlau). Carlu Heinrichovi se v Krehlau narodilo 14 dětí, mezi nimi Maximilián (1719), Johann Friedrich Rudolph (1724, nejspíš pozdější rakouský kapitán Jan Bedřich) a pruský generálmajor Ernst Heinrich (1730). Z linie Johanna Christopha pocházejí pruští baroni z Polnisch-Gandau a Kulmikau (Carl Joseph × 1785 Antonia von Nerlich).",
+      "vazba": "Naše větev: Maximilián (* 1719 Krehlau) je syn Carla Heinricha – doloženo jeho křtem. Ernst Heinrich (generál) a nejspíš kapitán Jan Bedřich jsou jeho bratři; Johann Christoph (Preichau) a Frantz Joseph (Ober-Krehlau) strýcové.",
       "profil": "rodopis"
     },
     {
@@ -265,7 +265,7 @@
         "roky": "17. století",
         "pozn": "rytmistr; děd obou větví",
         "stav": "lit",
-        "profil": "rodopis"
+        "osoba": "johann-christof-giller"
       },
       {
         "id": "fw1",
@@ -275,7 +275,7 @@
         "roky": "1651–1728",
         "pozn": "Karlovec, Lehnice; kmotr Maximiliána",
         "stav": "lit",
-        "profil": "rodopis"
+        "profil": "fw1"
       },
       {
         "id": "ch",
@@ -285,7 +285,7 @@
         "roky": "1646–1717",
         "pozn": "biskupský hejtman, Volov",
         "stav": "doc",
-        "profil": "rodopis"
+        "osoba": "christoph-heinrich-von-giller-christophorus-henricus-1646"
       },
       {
         "id": "karel_josef",
@@ -305,7 +305,7 @@
         "roky": "1688–1751",
         "pozn": "* Karlovec, podplukovník",
         "stav": "doc",
-        "profil": "rodopis"
+        "profil": "fw2"
       },
       {
         "id": "otec",
@@ -315,7 +315,7 @@
         "roky": "1686–1752",
         "pozn": "pán na Hammeru, Krehlau",
         "stav": "doc",
-        "profil": "rodopis"
+        "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
       },
       {
         "id": "jch",
@@ -325,7 +325,7 @@
         "roky": "strýcové Maximiliána",
         "pozn": "Preichau, Ober-Krehlau",
         "stav": "doc",
-        "profil": "rodopis"
+        "profil": "johann_christoph"
       },
       {
         "id": "kristian",
@@ -355,7 +355,7 @@
         "roky": "bratři Maximiliána",
         "pozn": "pruský generál; rakouský kapitán",
         "stav": "doc",
-        "profil": "prusove"
+        "profil": "ernst_heinrich"
       },
       {
         "id": "prusove",
@@ -575,7 +575,8 @@
       "text": "Kapitán (Hauptmann) pěšího pluku č. 15 (hrabě Pallavicini) od 1753, 1771 major a velitel místa ve Velkém Varadíně; v seznamu důstojníků „Gillern Friedrich, Baron“. 1761 svědek v zastoupení a 1766 osobně svědek u křtů Maximiliánových dětí; 17. 2. 1765 × Pardubice Anna, dcera měšťana Josefa Newky (Nevky?).",
       "zdroj": "Kladruby 1761, Pardubice 1765, Čelákovice 1766; L. Rona, Geschichte des IR 15 (1901), s. 98, 235–247",
       "stav": "doc",
-      "odkaz": "https://archive.org/details/bub_gb_wWTRAAAAMAAJ/page/n758/mode/1up"
+      "odkaz": "https://archive.org/details/bub_gb_wWTRAAAAMAAJ/page/n758/mode/1up",
+      "profil": "jan_bedrich"
     },
     {
       "jmeno": "Ignác z Gillernů („Ignatius de Gillern“)",
@@ -590,7 +591,8 @@
       "text": "Mladší bratr našeho Maximiliána, pokřtěný 22. 1. 1730 v Krehlau jako syn Carla Heinricha von Giller a Cathariny Barbary roz. Nerlichové. Od roku 1748 v pruské armádě; u Torgavy (1760) stál proti rotě svého bratrance Kristiána na rakouské straně. 1773–1787 velitel posádkového granátnického praporu č. 6 v Nise, 1787 šéf fyzilírského praporu č. 9, 1789 šéf pěšího pluku č. 16 v Královci a generálmajor, rytíř řádu Pour le Mérite; 1792 odešel na odpočinek a téhož roku 13. června v Královci zemřel. × 1767 Anna Dorothea von Arndt; jediná dcera Amalie (1774–1792).",
       "zdroj": "Křty Krehlau 1730; de.wikipedia „Ernst Heinrich von Gillern“ (podle Priesdorffa); pruské armádní seznamy 1778–1804; G. Lehmann, Die Ritter des Ordens pour le mérite (1913)",
       "stav": "lit",
-      "odkaz": "https://archive.org/details/11766027bsb/page/n161/mode/1up"
+      "odkaz": "https://archive.org/details/11766027bsb/page/n161/mode/1up",
+      "profil": "ernst_heinrich"
     },
     {
       "jmeno": "Joseph von Gillern",
@@ -997,7 +999,28 @@
         "Manželka Maria Josepha roz. von Fellner. Jediný syn jim zemřel mladý, a tak roku 1759 odkázal Koryčany manželce a jako dalšího dědice určil synovce Kristiána Matyáše; vdova ve své závěti (1765) jmenuje už jen své sourozence.",
         "Zemřel 11. 8. 1762 ve Vídni v lichtenštejnském domě na Starém selském trhu, ve věku 70 let; podle Wikipedie pohřben u sv. Štěpána."
       ],
-      "vztahy": [],
+      "vztahy": [
+        {
+          "vztah": "otec (nejspíš)",
+          "profil": "fw1"
+        },
+        {
+          "vztah": "bratr (nejspíš)",
+          "profil": "fw2"
+        },
+        {
+          "vztah": "bratranec",
+          "profil": "johann_christoph"
+        },
+        {
+          "vztah": "bratranec",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        },
+        {
+          "vztah": "synovec a dědic",
+          "profil": "kristian"
+        }
+      ],
       "zdroje": [
         {
           "nazev": "Dopis Karla Vyšína (1978) podle K. F. von Franka a L. Hosáka"
@@ -1051,7 +1074,24 @@
         "Manželka Karolina svobodná paní z Locella (z rodiny sestry vdovy po Karlu Josefovi) zemřela 31. 1. 1805 v Koryčanech ve věku 73 let; dcera Marie Josefa zdědila Koryčany, další dcera Josefa se podle Hyrtla narodila 9. 7. 1768.",
         "U Torgavy (1760) bojoval na rakouské straně proti rotě svého pruského bratrance Ernsta Heinricha – Maximiliánova bratra."
       ],
-      "vztahy": [],
+      "vztahy": [
+        {
+          "vztah": "otec",
+          "profil": "fw2"
+        },
+        {
+          "vztah": "strýc a předchůdce v Koryčanech",
+          "profil": "karel_josef"
+        },
+        {
+          "vztah": "bratranec z druhého kolena",
+          "osoba": "maximilian-svobodny-pan-z-gillernu-1719"
+        },
+        {
+          "vztah": "bratranec z druhého kolena",
+          "profil": "ernst_heinrich"
+        }
+      ],
       "zdroje": [
         {
           "nazev": "Gothaisches genealogisches Taschenbuch der freiherrlichen Häuser 1884, s. 275–277",
@@ -1095,19 +1135,32 @@
       "jmeno": "Pruští svobodní páni z Gillernů",
       "roky": "od 1744",
       "stav": "lit",
-      "vazba": "slezsko-pruská větev; generál Ernst Heinrich (1730–1792) byl mladší bratr našeho Maximiliána, Carl Joseph († 1824) jeho bratranec",
+      "vazba": "pruští potomci obou slezských větví; generál Ernst Heinrich (1730–1792) byl mladší bratr našeho Maximiliána",
       "fakta": [
         "Pruští baroni z Gillernů pocházejí z obou slezských větví: podle Gothy 1884 vede jejich hlavní linie od Friedricha Wilhelma I. přes Friedricha Wilhelma II. a Kristiána Matyáše Antonína (* 1723) k Oswaldovi (* 1828) a jeho synovi Arthurovi (* 1855); z 2. větve pocházeli svobodní páni na Polnisch-Gandau, Kulmikau a Nieder-Kunzendorfu.",
         "1744 pruské uznání stavu svobodných pánů listem Fridricha II., potvrzeno 1855",
         "Ernst Heinrich z Gillernů (1730–1792), mladší bratr našeho Maximiliána: velitel granátnického praporu v Nise, generálmajor a šéf pěšího pluku v Královci, rytíř Pour le Mérite",
         "Dominika z Gillernů (1739–1810), poslední kněžna-abatyše kláštera v Trzebnici",
-        "Carl Joseph svobodný pán z Gillernů († 1824 Ober-Glogau), Maximiliánův bratranec z druhého kolena, × 1785 Antonia von Nerlich; pán na Polnisch-Gandau",
+        "Carl Joseph svobodný pán z Gillernů († 1824 Ober-Glogau), syn Maximiliánova bratrance, × 1785 Antonia von Nerlich; pán na Polnisch-Gandau",
         "Hugo z Gillernů alias Hugo Krüger (1829–1871), pěvec berlínské dvorní opery",
         "Georg svobodný pán z Gillernů (* 8. 4. 1835), hejtman pomořanského praporu myslivců, padl 2. 12. 1870 u Champigny – před svatbou s Annou von Rodbertus",
         "Arthur z Gillernů (1855–1916), pruský generálporučík",
         "Arnulf z Gillernů (1884–1944), spolumajitel zbrojovky Polte"
       ],
-      "vztahy": [],
+      "vztahy": [
+        {
+          "vztah": "generál, bratr Maximiliána",
+          "profil": "ernst_heinrich"
+        },
+        {
+          "vztah": "2. větev",
+          "profil": "carl_joseph"
+        },
+        {
+          "vztah": "1. větev – Koryčany",
+          "profil": "kristian"
+        }
+      ],
       "zdroje": [
         {
           "nazev": "de.wikipedia.org – Gillern",
@@ -1119,10 +1172,10 @@
       ]
     },
     "rodopis": {
-      "jmeno": "Slezský kmen rodu Gillerů",
+      "jmeno": "Slezský kmen rodu Gillerů – přehled",
       "roky": "17.–19. století",
       "stav": "lit",
-      "vazba": "předci a příbuzní naší linie – Maximilián (* 1719) byl vnuk Christopha Heinricha z 2. větve",
+      "vazba": "Přehled slezských předků a příbuzných naší linie. Každý z nich má i vlastní profil – viz Příbuzní níže.",
       "fakta": [
         "Heinrich Christof Giller, císařský podplukovník, usedlý v 17. století ve vsi Deschna; jeho první manželka byla rozená von Tschammer.",
         "Jeho syn Johann Christof Giller, císařský rytmistr pluku Gallas, se oženil se Susanne Bartsch von Sternegg. Je to poslední společný předek obou slezských větví.",
@@ -1138,12 +1191,64 @@
       ],
       "vztahy": [
         {
+          "vztah": "nejstarší známý předek",
+          "osoba": "heinrich-christof-giller"
+        },
+        {
+          "vztah": "předek – rytmistr",
+          "osoba": "johann-christof-giller"
+        },
+        {
+          "vztah": "předek – zakladatel 2. větve",
+          "osoba": "christoph-heinrich-von-giller-christophorus-henricus-1646"
+        },
+        {
+          "vztah": "předek – pán na Hammeru",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        },
+        {
+          "vztah": "náš předek – syn Carla Heinricha",
+          "osoba": "maximilian-svobodny-pan-z-gillernu-1719"
+        },
+        {
+          "vztah": "zakladatel 1. větve",
+          "profil": "fw1"
+        },
+        {
+          "vztah": "1. větev",
+          "profil": "fw2"
+        },
+        {
           "vztah": "1. větev",
           "profil": "karel_josef"
         },
         {
           "vztah": "1. větev",
           "profil": "kristian"
+        },
+        {
+          "vztah": "2. větev – Preichau",
+          "profil": "johann_christoph"
+        },
+        {
+          "vztah": "2. větev",
+          "profil": "joseph_anton"
+        },
+        {
+          "vztah": "2. větev",
+          "profil": "carl_joseph"
+        },
+        {
+          "vztah": "2. větev – Ober-Krehlau",
+          "profil": "franz_joseph"
+        },
+        {
+          "vztah": "bratr Maximiliána",
+          "profil": "ernst_heinrich"
+        },
+        {
+          "vztah": "bratr Maximiliána (nejspíš)",
+          "profil": "jan_bedrich"
         },
         {
           "vztah": "pruští potomci",
@@ -1239,6 +1344,381 @@
       "zaznamy": [
         "n_1887_1894_gillern_liz_rejstrik"
       ]
+    },
+    "fw1": {
+      "jmeno": "Friedrich Wilhelm I. Giller",
+      "roky": "1651 (?) – 1728",
+      "stav": "lit",
+      "vazba": "bratr našeho předka Christopha Heinricha a zakladatel 1. větve rodu; prastrýc a kmotr našeho Maximiliána",
+      "fakta": [
+        "Syn Johanna Christofa Gillera, císařského rytmistra, a Susanne Bartsch von Sternegg; narodil se asi roku 1651.",
+        "Roku 1700 dostal ve Vídni spolu s bratrem Christophem Heinrichem český šlechtický stav.",
+        "Byl správcem (Amtmann) a od roku 1694 hejtmanem na Karlovci (Carlsberg) u Dvorců u Bruntálu; Karlovec patřil k šternberskému panství a od roku 1695 Lichtenštejnům. Rodopis ho uvádí i jako bývalého císařského hejtmana.",
+        "Manželka Anna Marie. Ve Dvorcích jim v letech 1688–1699 pokřtili nejméně osm dětí: Friedricha Wilhelma (1688), Johannu (1689), Marii Apollonii (1691), Marii Josephu (1694), Marii Theresii (1695), Carla Josepha (1696), Marii Elisabeth (1698) a Hanse Petera (1699). Dcera Magdalena se roku 1692 vdala na Karlovci.",
+        "Později žil v Dolním Slezsku: jako rada císaře a komorní účetní knížectví Lehnického, Břežského a Volovského byl roku 1718 a 1721 kmotrem dětí synovce Johanna Christopha v Preichau.",
+        "Roku 1719 byl v Krehlau kmotrem našeho Maximiliána, syna svého synovce Carla Heinricha.",
+        "Zemřel roku 1728."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec",
+          "osoba": "johann-christof-giller"
+        },
+        {
+          "vztah": "bratr",
+          "osoba": "christoph-heinrich-von-giller-christophorus-henricus-1646"
+        },
+        {
+          "vztah": "syn",
+          "profil": "fw2"
+        },
+        {
+          "vztah": "syn (nejspíš)",
+          "profil": "karel_josef"
+        },
+        {
+          "vztah": "kmotřenec",
+          "osoba": "maximilian-svobodny-pan-z-gillernu-1719"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        },
+        {
+          "nazev": "Gotha – Freiherrliche Häuser 1884, s. 275–277",
+          "odkaz": "https://sbc.org.pl/Content/859298/i635235-1884-00-0001.pdf#page=302"
+        },
+        {
+          "nazev": "Matriky fary Dvorce (Zemský archiv v Opavě), křty 1688–1699"
+        },
+        {
+          "nazev": "Křty Krehlau 1707–1736 (katolická matrika, FamilySearch, film 8244728)",
+          "odkaz": "https://www.familysearch.org/search/catalog/koha:357669"
+        },
+        {
+          "nazev": "Křty Preichau 1696–1750 (katolická matrika, FamilySearch, film 8218293)"
+        }
+      ],
+      "zaznamy": [
+        "n_1719_giller_maximilian"
+      ]
+    },
+    "fw2": {
+      "jmeno": "Friedrich Wilhelm II. Giller",
+      "roky": "1688–1751",
+      "stav": "lit",
+      "vazba": "1. větev rodu; bratranec Carla Heinricha, otce našeho Maximiliána",
+      "fakta": [
+        "Pokřtěn 6. 4. 1688 ve Dvorcích u Bruntálu jako syn Friedricha Wilhelma Gillera, správce na Karlovci, a Anny Marie.",
+        "Sloužil v císařské armádě, dosáhl hodnosti podplukovníka.",
+        "Manželka Anna Marie; syn Kristián Matyáš Antonín se narodil roku 1723 v Lodi v Lombardii – rodina tedy žila tam, kde byl pluk.",
+        "Zemřel roku 1751 v Lucemburku.",
+        "Od jeho syna Kristiána, pozdějšího pána Koryčan, odvozuje rodopis z roku 1884 pruské barony z Gillernů 19. století."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec",
+          "profil": "fw1"
+        },
+        {
+          "vztah": "syn",
+          "profil": "kristian"
+        },
+        {
+          "vztah": "bratr (nejspíš)",
+          "profil": "karel_josef"
+        },
+        {
+          "vztah": "bratranec",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Gotha – Freiherrliche Häuser 1884, s. 275–277",
+          "odkaz": "https://sbc.org.pl/Content/859298/i635235-1884-00-0001.pdf#page=302"
+        },
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        },
+        {
+          "nazev": "Matriky fary Dvorce (Zemský archiv v Opavě), křty 1688–1699"
+        }
+      ]
+    },
+    "johann_christoph": {
+      "jmeno": "Johann Christoph svobodný pán z Gillernů",
+      "roky": "doložen 1705–1732",
+      "stav": "doc",
+      "vazba": "bratr Carla Heinricha – strýc našeho Maximiliána",
+      "fakta": [
+        "Syn Christopha Heinricha von Giller; bratři Carl Heinrich (náš předek) a Franz Joseph.",
+        "Hejtman (správce) panství Preichau (dnes Przychowa u Stínavy) – v matrice roku 1710 „Administrator Capitaneatus Preichaviensis“, později „Hauptmann allhier in Preichau“; pán na Schreibendorfu.",
+        "Manželka Maria Martha. Děti pokřtěné v Preichau: Joseph Anton Leopold (6. 9. 1710), Maria Anna Ludovica (?) (12. 4. 1718) a Maria Barbara Francisca (3. 10. 1721); dalšími dcerami byly Maria Carolina a Maria Ludovica, které v letech 1722–1725 v Preichau kmotrovaly.",
+        "Roku 1714 byl v Krehlau kmotrem synovce Carla Wilhelma Vita.",
+        "4. 6. 1732 získal spolu s bratrancem Karlem Josefem český stav svobodných pánů.",
+        "Z jeho linie pocházejí svobodní páni z Gillernů na Polnisch-Gandau u Vratislavi."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec",
+          "osoba": "christoph-heinrich-von-giller-christophorus-henricus-1646"
+        },
+        {
+          "vztah": "bratr",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        },
+        {
+          "vztah": "bratr",
+          "profil": "franz_joseph"
+        },
+        {
+          "vztah": "syn",
+          "profil": "joseph_anton"
+        },
+        {
+          "vztah": "bratranec",
+          "profil": "karel_josef"
+        },
+        {
+          "vztah": "synovec",
+          "osoba": "maximilian-svobodny-pan-z-gillernu-1719"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Křty Preichau 1696–1750 (katolická matrika, FamilySearch, film 8218293)"
+        },
+        {
+          "nazev": "Křty Krehlau 1707–1736 (katolická matrika, FamilySearch, film 8244728)",
+          "odkaz": "https://www.familysearch.org/search/catalog/koha:357669"
+        },
+        {
+          "nazev": "Gotha – Freiherrliche Häuser 1884, s. 275–277",
+          "odkaz": "https://sbc.org.pl/Content/859298/i635235-1884-00-0001.pdf#page=302"
+        },
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        }
+      ],
+      "zaznamy": [
+        "n_1705_preichau_giller_kmotr"
+      ]
+    },
+    "joseph_anton": {
+      "jmeno": "Joseph Anton z Gillernů",
+      "roky": "1710 – ?",
+      "stav": "prob",
+      "vazba": "syn Johanna Christopha z Preichau – bratranec našeho Maximiliána",
+      "fakta": [
+        "Pokřtěn 6. 9. 1710 v Preichau jako Josephus Antonius Leopoldus, syn Johanna Christopha von Giller, správce panství Preichau, a Marie Marthy.",
+        "Podle rodopisné literatury roku 1757 pán na Priedemostu (Przedmoście) u Hlohova.",
+        "Jeho syn Carl Joseph svobodný pán z Gillernů (* asi 1745) se roku 1785 oženil s Antonií von Nerlich. Že jde o téhož Josepha Antona jako v Preichau 1710, je velmi pravděpodobné (jméno, rod a doba sedí), přímo to ale doloženo není."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec",
+          "profil": "johann_christoph"
+        },
+        {
+          "vztah": "syn",
+          "profil": "carl_joseph"
+        },
+        {
+          "vztah": "bratranec",
+          "osoba": "maximilian-svobodny-pan-z-gillernu-1719"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Křty Preichau 1696–1750 (katolická matrika, FamilySearch, film 8218293)"
+        },
+        {
+          "nazev": "Ledebur, Adelslexicon der preußischen Monarchie I (1855), s. 259–260",
+          "odkaz": "https://archive.org/details/10428286bsb/page/n274/mode/1up"
+        }
+      ]
+    },
+    "carl_joseph": {
+      "jmeno": "Carl Joseph svobodný pán z Gillernů",
+      "roky": "asi 1745/1751 – 1824",
+      "stav": "doc",
+      "vazba": "vnuk Johanna Christopha z Preichau – syn Maximiliánova bratrance",
+      "fakta": [
+        "Syn Josepha Antona z Gillernů; narodil se asi 1745 (při sňatku 40 let), podle úmrtního oznámení až kolem 1751.",
+        "26. 4. 1785 se v Groß Karlowitz u Nisy oženil s Antonií von Nerlich (1759–1830), dcerou Franze Christopha von Nerlich, biskupského vládního rady a pána na Reisewitz u Otmuchova. Z rodu Nerlichů pocházela i Maximiliánova matka.",
+        "Držel statky Peiskern (1788), Polnisch-Gandau u Vratislavi (1790) a Jäschgüttel; děti se jim narodily v letech 1788–1793.",
+        "Zemřel 14. 4. 1824 v Ober-Glogau (Głogówek) ve věku 73 let; manželka Antonie tamtéž 18. 10. 1830."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec",
+          "profil": "joseph_anton"
+        },
+        {
+          "vztah": "děd",
+          "profil": "johann_christoph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Sňatky Groß Karlowitz 1785 (rejstřík katolických a luteránských matrik Slezska, FamilySearch)"
+        },
+        {
+          "nazev": "Schlesische Provinzialblätter 1785–1830 (oznámení sňatku a úmrtí)"
+        },
+        {
+          "nazev": "C. Blažek, Der abgestorbene Adel der preussischen Provinz Schlesien III (1894), s. 30 – Nerlich"
+        }
+      ]
+    },
+    "franz_joseph": {
+      "jmeno": "Franz Joseph von Giller",
+      "roky": "doložen 1710–1726",
+      "stav": "doc",
+      "vazba": "bratr Carla Heinricha – strýc našeho Maximiliána",
+      "fakta": [
+        "Syn Christopha Heinricha von Giller; bratři Carl Heinrich (náš předek) a Johann Christoph.",
+        "Pán na Ober-Krehlau (Horní Krehlau, dnes část Krzelówa u Volova) – sousední statek bratra Carla Heinricha na Nieder-Krehlau.",
+        "Manželka Eleonora Hedwig, snad rozená Klinge (purkmistr Franz Valentin Klinge z Winzigu kmotroval v rodině bratra).",
+        "Děti pokřtěné v Krehlau: Christoph Franz Gregor (12. 3. 1716), Maria Anna Johanna Victoria (11. 5. 1717), Johann Heinrich Ferdinand (25. 6. 1718), Maria Elisabeth Apolonia (24. 9. 1719), Anna Josepha Francisca (10. 3. 1721), Maria Barbara Susanna (24. 5. 1722) a Friedrich Joseph Wilhelm (29. 2. 1724).",
+        "Roku 1710 byl kmotrem v Preichau."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec",
+          "osoba": "christoph-heinrich-von-giller-christophorus-henricus-1646"
+        },
+        {
+          "vztah": "bratr",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        },
+        {
+          "vztah": "bratr",
+          "profil": "johann_christoph"
+        },
+        {
+          "vztah": "synovec",
+          "osoba": "maximilian-svobodny-pan-z-gillernu-1719"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Křty Krehlau 1707–1736 (katolická matrika, FamilySearch, film 8244728)",
+          "odkaz": "https://www.familysearch.org/search/catalog/koha:357669"
+        },
+        {
+          "nazev": "Křty Preichau 1696–1750 (katolická matrika, FamilySearch, film 8218293)"
+        },
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        }
+      ]
+    },
+    "ernst_heinrich": {
+      "jmeno": "Ernst Heinrich von Gillern",
+      "roky": "1730–1792",
+      "stav": "doc",
+      "vazba": "mladší bratr našeho Maximiliána",
+      "fakta": [
+        "Pokřtěn 22. 1. 1730 v Krehlau jako Ernestus Henricus Sebastianus, syn Carla Heinricha von Giller, pána na Hammeru, a Cathariny Barbary Eleonory roz. Nerlichové.",
+        "Od roku 1748 sloužil v pruské armádě. V bitvě u Torgavy (1760) stál proti rotě svého bratrance z druhého kolena Kristiána, který bojoval na rakouské straně.",
+        "1773–1787 velel posádkovému granátnickému praporu č. 6 v Nise, 1787 se stal šéfem fyzilírského praporu č. 9 a 1789 šéfem pěšího pluku č. 16 v Královci a generálmajorem; rytíř řádu Pour le Mérite.",
+        "Roku 1767 se oženil s Annou Dorotheou von Arndt; jediná dcera Amalie (1774–1792).",
+        "Roku 1792 odešel na odpočinek a 13. 6. téhož roku zemřel v Královci."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        },
+        {
+          "vztah": "matka",
+          "osoba": "catharina-barbara-eleonora-von-nerlich"
+        },
+        {
+          "vztah": "bratr",
+          "osoba": "maximilian-svobodny-pan-z-gillernu-1719"
+        },
+        {
+          "vztah": "bratr (nejspíš)",
+          "profil": "jan_bedrich"
+        },
+        {
+          "vztah": "bratranec z druhého kolena",
+          "profil": "kristian"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Křty Krehlau 1707–1736 (katolická matrika, FamilySearch, film 8244728)",
+          "odkaz": "https://www.familysearch.org/search/catalog/koha:357669"
+        },
+        {
+          "nazev": "de.wikipedia – Ernst Heinrich von Gillern (podle K. von Priesdorffa)",
+          "odkaz": "https://de.wikipedia.org/wiki/Ernst_Heinrich_von_Gillern"
+        },
+        {
+          "nazev": "G. Lehmann, Die Ritter des Ordens pour le mérite (1913)",
+          "odkaz": "https://archive.org/details/11766027bsb/page/n161/mode/1up"
+        },
+        {
+          "nazev": "pruské armádní seznamy 1778–1792"
+        }
+      ]
+    },
+    "jan_bedrich": {
+      "jmeno": "Jan Bedřich (Johann Friedrich) baron z Gillernů",
+      "krest": "Johann Friedrich Rudolph",
+      "roky": "1724 – po 1771",
+      "stav": "prob",
+      "vazba": "nejspíš mladší bratr našeho Maximiliána; kapitán rakouské armády a kmotr Maximiliánových dětí",
+      "fakta": [
+        "Nejspíš totožný s Johannem Friedrichem Rudolphem, pokřtěným 29. 12. 1724 v Krehlau jako syn Carla Heinricha von Giller a Cathariny roz. Nerlichové – tedy s Maximiliánovým o pět let mladším bratrem. Pro to mluví jméno, věk, šlechtický titul i to, že kmotroval Maximiliánovým dětem, které dostaly jména Bedřich Rudolf a Jan Bedřich.",
+        "Od roku 1753 hejtman (kapitán) pěšího pluku č. 15 hraběte Pallaviciniho; v seznamu důstojníků „Gillern Friedrich, Baron“.",
+        "1761 byl v zastoupení kmotrem Maximiliánova syna Jana Křtitele v Kladrubech nad Labem.",
+        "17. 2. 1765 se v Pardubicích oženil s Annou, dcerou pardubického měšťana Josefa Newky (Nevky?).",
+        "1766 byl osobně kmotrem Maximiliánova syna Jana Bedřicha Karla Viléma Víta na Čelákovském Hrádku.",
+        "1767–1770 je doložen ve Vídni, roku 1771 jako major a velitel místa (Platz-Major) ve Velkém Varadíně v Uhrách."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec (nejspíš)",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        },
+        {
+          "vztah": "bratr (nejspíš)",
+          "osoba": "maximilian-svobodny-pan-z-gillernu-1719"
+        },
+        {
+          "vztah": "bratr (nejspíš)",
+          "profil": "ernst_heinrich"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Křty Krehlau 1707–1736 (katolická matrika, FamilySearch, film 8244728)",
+          "odkaz": "https://www.familysearch.org/search/catalog/koha:357669"
+        },
+        {
+          "nazev": "L. Rona, Geschichte des k. u. k. Infanterie-Regiments Nr. 15 (1901), s. 98, 235–247",
+          "odkaz": "https://archive.org/details/bub_gb_wWTRAAAAMAAJ/page/n758/mode/1up"
+        },
+        {
+          "nazev": "matriky Kladruby nad Labem 1761, Pardubice 1765, Čelákovice 1766"
+        }
+      ],
+      "zaznamy": [
+        "n_1724_giller_johann_friedrich",
+        "n_1761_gillern_jan_baptista",
+        "o_1765_gyller_bedrich",
+        "n_1766_gillern_jan_bedrich"
+      ]
     }
   },
   "rodokmen": {
@@ -1254,7 +1734,6 @@
             "roky": "17. století",
             "pozn": "císařský podplukovník, usazen ve vsi Deschna",
             "manzel": "× 1) … roz. von Tschammer",
-            "profil": "rodopis",
             "deti": [
               {
                 "jmeno": "Johann Christof Giller",
@@ -1262,7 +1741,6 @@
                 "roky": "17. století",
                 "pozn": "císařský rytmistr pluku Gallas – společný děd obou větví",
                 "manzel": "× Susanne Bartsch von Sternegg",
-                "profil": "rodopis",
                 "deti": [
                   {
                     "jmeno": "Friedrich Wilhelm I. Giller",
@@ -1270,7 +1748,6 @@
                     "roky": "1651 (?) – 1728",
                     "pozn": "správce (Amtmann) v Karlovci, od 1694 „Haubtman“ (vojenská hodnost – Gotha: „vormals kaiserl. Hauptmann“); Karlovec patřil k šternberskému panství, od 1695 Lichtenštejnům; děti křtěny ve Dvorcích 1688–1699 (kmotry byli komtuři řádu)",
                     "manzel": "× Anna Marie",
-                    "profil": "rodopis",
                     "popis": "1. větev",
                     "deti": [
                       {
@@ -1326,7 +1803,8 @@
                           }
                         ],
                         "id": "fw2",
-                        "vazba": "doc"
+                        "vazba": "doc",
+                        "profil": "fw2"
                       },
                       {
                         "jmeno": "Johanna",
@@ -1430,7 +1908,8 @@
                         ]
                       }
                     ],
-                    "id": "fw1"
+                    "id": "fw1",
+                    "profil": "fw1"
                   },
                   {
                     "jmeno": "Christoph Heinrich von Giller",
@@ -1438,7 +1917,6 @@
                     "roky": "1646–1717",
                     "pozn": "biskupský hejtman, zemský starší Stínavska",
                     "popis": "2. větev – naše",
-                    "profil": "rodopis",
                     "deti": [
                       {
                         "jmeno": "Carl Heinrich von Giller",
@@ -1842,7 +2320,8 @@
                             "pozn": "hejtman pěšího pluku č. 15 od 1753, 1771 major ve Velkém Varadíně; kmotr Maximiliánových dětí 1761 a 1766",
                             "vazba": "prob",
                             "popis": "bratr",
-                            "manzel": "× 1765 Pardubice Anna Newková (Nevková?)"
+                            "manzel": "× 1765 Pardubice Anna Newková (Nevková?)",
+                            "profil": "jan_bedrich"
                           },
                           {
                             "jmeno": "Maria Victoria",
@@ -1856,8 +2335,8 @@
                             "stav": "doc",
                             "vazba": "doc",
                             "pozn": "pruský generálmajor, velitel v Nise 1773–1787",
-                            "profil": "prusove",
-                            "popis": "bratr – pruský generál"
+                            "popis": "bratr – pruský generál",
+                            "profil": "ernst_heinrich"
                           },
                           {
                             "jmeno": "Maria Catharina Hedwig",
@@ -1882,7 +2361,7 @@
                         "id": "carl_heinrich",
                         "manzel": "× Catharina Barbara Eleonora roz. Nerlich",
                         "vazba": "doc",
-                        "profil": "rodopis"
+                        "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
                       },
                       {
                         "jmeno": "Johann Christoph svobodný pán z Gillernů",
@@ -1906,9 +2385,10 @@
                                 "vazba": "lit",
                                 "manzel": "× 26. 4. 1785 Groß Karlowitz Antonia von Nerlich (1759–1830)",
                                 "pozn": "Peiskern, Polnisch-Gandau; děti 1788–1793",
-                                "profil": "rodopis"
+                                "profil": "carl_joseph"
                               }
-                            ]
+                            ],
+                            "profil": "joseph_anton"
                           },
                           {
                             "jmeno": "Maria Carolina",
@@ -1928,7 +2408,8 @@
                             "stav": "doc",
                             "vazba": "doc"
                           }
-                        ]
+                        ],
+                        "profil": "johann_christoph"
                       },
                       {
                         "jmeno": "Franz Joseph von Giller",
@@ -1980,19 +2461,23 @@
                             "stav": "doc",
                             "vazba": "doc"
                           }
-                        ]
+                        ],
+                        "profil": "franz_joseph"
                       }
                     ],
                     "id": "ch",
                     "nase": true,
-                    "vazba": "lit"
+                    "vazba": "lit",
+                    "osoba": "christoph-heinrich-von-giller-christophorus-henricus-1646"
                   }
                 ],
-                "nase": true
+                "nase": true,
+                "osoba": "johann-christof-giller"
               }
             ],
             "nase": true,
-            "popis": "kmen rodu"
+            "popis": "kmen rodu",
+            "osoba": "heinrich-christof-giller"
           }
         ]
       },

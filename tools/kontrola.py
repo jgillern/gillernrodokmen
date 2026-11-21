@@ -56,7 +56,7 @@ def main():
         if k > 1 and k // 2 not in P and k not in SAME:
             warn.append(f"osoba {k} ({p.get('n')}): v rodokmenu chybí její dítě {k // 2} – je číslo správně?")
         st = p.get("st", "unk")
-        if st not in ("doc", "prob", "fam", "mh", "unk"):
+        if st not in ("doc", "prob", "lit", "fam", "mh", "unk"):
             err.append(f"osoba {k}: neznámý stav '{st}'")
         for r in p.get("r", []):
             if r not in keys:

@@ -48,6 +48,7 @@ main.wider { max-width: none; }   /* mapa: přes celou šířku okna (Česko a S
 .st-doc { background: #e3f0e3; color: var(--doc); }
 .st-prob, .st-mh { background: #f8ecd2; color: var(--prob); }
 .st-fam { background: #e6eef6; color: #3e6488; }
+.st-lit { background: #f5ece0; color: #7a4f24; }
 .st-unk { background: #eeeae3; color: var(--unk); }
 
 .grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; }

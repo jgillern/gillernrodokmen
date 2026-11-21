@@ -31,7 +31,7 @@ export function dateKey(date) {
 export const genName = (g) =>
   ['výchozí osoba', 'rodiče', 'prarodiče', 'praprarodiče'][g] ?? `${g}. generace (${'pra'.repeat(g - 1)}rodiče)`;
 
-export const statusClass = (st) => ({ doc: 'st-doc', prob: 'st-prob', fam: 'st-fam', mh: 'st-mh' })[st] ?? 'st-unk';
+export const statusClass = (st) => ({ doc: 'st-doc', prob: 'st-prob', fam: 'st-fam', mh: 'st-mh', lit: 'st-lit' })[st] ?? 'st-unk';
 
 /** Větve (podrody) uvnitř rodu: z config.podrody; každá je otcovská linie od `koren` (Kekulé) nahoru (k → 2k → 4k …). */
 export const subLines = (config.podrody ?? []).map((s) => {

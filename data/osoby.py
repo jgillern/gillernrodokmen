@@ -251,6 +251,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+    dict(k=1, n="Kateřina Gillernová", t="Sestra Jana (údaj od rodiny). U žijících uvádíme jen jméno a rok narození."),
     dict(k=34, n="Františka Linková († 1822)", t="Mlynářka ve Lhotě Smetanové č. 68, zemřela 17. 10. 1822 ve věku 46 let. Nejspíš první manželka mlynáře Josefa Linka (stejně stará jako on) – Karlova matka to není (ta je Johanna Braunerová). Domněnka.", r=["z_1822_linkova_frantiska"]),
     dict(k=140, n="František Lew (Löw) (× 1783)", t="Sládek (braxator) v Praze, Nové Město; 23. 9. 1783 se na Zderazu oženil s Josefou, dcerou Josefa Chochola, měšťana z Příbrami. Roku 1803 šel za kmotra Františkovi, synovi Antonína Lewa – nejspíš Antonínův bratr (strýc). Domněnka – vztah zápisy neuvádějí.", r=[]),
     dict(k=70, n="Sourozenci Františka Löwa (Praha, sv. Vojtěch)", t="Děti Antonína Lewa (Löwa) podle rejstříku narozených sv. Vojtěcha (Nové Město pražské): Kateřina 1. 11. 1796, Marie Magdalena (?) 11. 8. 1798, František 24. 7. 1800 (asi zemřel – jméno dostal i další syn), Josef 9. 12. 1801, František 5. 12. 1803 (náš), Antonín 14. 4. 1806 († 18. 12. 1809 na neštovice), Jan 29. 8. 1808 († 7. 1. 1810 na křeče) – oba zemřeli v domě č. 415 „U pěti králů“ Na hrobci (Podskalí). Rodiče se tedy brali asi 1795–96 – u sv. Vojtěcha sňatek není (ani u sv. Jindřicha, sv. Petra, v Týně, u P. Marie Vítězné a sv. Štěpána 1788–1796).", r=[]),

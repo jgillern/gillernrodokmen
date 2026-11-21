@@ -1383,6 +1383,12 @@
                                                 "vazba": "doc",
                                                 "nase": true,
                                                 "osoba": "jan-gillern-1990"
+                                              },
+                                              {
+                                                "jmeno": "Kateřina Gillernová",
+                                                "stav": "fam",
+                                                "vazba": "doc",
+                                                "pozn": "sestra Jana"
                                               }
                                             ]
                                           }

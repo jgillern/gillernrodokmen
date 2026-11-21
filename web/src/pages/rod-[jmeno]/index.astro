@@ -454,13 +454,12 @@ const HVEZDA = (cx, cy, r) => {
   .rt-bar button { font: inherit; padding: 0.3rem 0.8rem; border: 1px solid var(--line); border-radius: 999px; background: var(--paper); cursor: pointer; color: #5a4632; }
   .rt-bar button:hover { background: var(--accent-soft); }
   .rt-btns { display: flex; gap: 0.35rem; flex-wrap: wrap; }
-  .rt-stage { position: relative; height: min(78vh, 920px); overflow: hidden; border: 1px solid var(--line); border-radius: 12px; touch-action: none; cursor: grab; user-select: none;
-    background-color: #fbf8f2; background-image: radial-gradient(#e3dccf 1px, transparent 1px); background-size: 22px 22px; }
+  .rt-stage { position: relative; height: min(78vh, 920px); overflow: hidden; border: 1px solid var(--line); border-radius: 12px; touch-action: none; cursor: grab; user-select: none; background: var(--paper); }
   .rt-stage:fullscreen { height: 100vh; border-radius: 0; }
   .rt-stage.tahne { cursor: grabbing; }
   .rt-platno { position: absolute; left: 0; top: 0; transform-origin: 0 0; display: flex; align-items: flex-start; gap: 7rem; padding: 2rem; width: max-content; will-change: transform; }
   .rt-spoje { position: absolute; left: 0; top: 0; pointer-events: none; overflow: visible; }
-  .rt-spoje :global(.rt-sp-popis) { font: italic 13px var(--sans); fill: #6e6153; paint-order: stroke; stroke: #fbf8f2; stroke-width: 4px; }
+  .rt-spoje :global(.rt-sp-popis) { font: italic 13px var(--sans); fill: #6e6153; paint-order: stroke; stroke: #ffffff; stroke-width: 4px; }
   .rt-cast { position: relative; display: flex; flex-direction: column; align-items: center; }
   .rt-nadpis { display: flex; flex-direction: column; align-items: center; margin-bottom: 0.9rem; text-align: center; max-width: 28rem; }
   .rt-nadpis strong { font: 600 1.25rem var(--serif); color: #3b2e22; }

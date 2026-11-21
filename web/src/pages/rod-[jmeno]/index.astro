@@ -179,28 +179,173 @@ const HVEZDA = (cx, cy, r) => {
     <section id="rodokmen">
       <h2>Rodokmen rodu</h2>
       {d.rodokmen.uvod && <p class="muted small">{d.rodokmen.uvod}</p>}
-      {d.rodokmen.casti.map((c) => (
-        <div class="rg-strom">
-          <h3>{c.nadpis}</h3>
-          {c.text && <p class="small muted">{c.text}</p>}
-          <div class="rg-strom-ovl small"><button type="button" data-z="-1">− zmenšit</button><button type="button" data-z="1">+ zvětšit</button><button type="button" data-z="0">celý strom</button></div>
-          <div class="rg-strom-wrap"><div class="rg-strom-in"><RodStrom uzly={c.uzly} slug={slug} profily={d.profily} koren /></div></div>
+      <div class="rt-bar">
+        <form class="rt-hledat" autocomplete="off">
+          <input list="rt-jmena" placeholder="Najít osobu…" aria-label="Najít osobu v rodokmenu" />
+          <datalist id="rt-jmena"></datalist>
+          <button type="submit">Najít</button>
+        </form>
+        <span class="rt-btns">
+          <button type="button" data-z="1.4" aria-label="Přiblížit">+</button>
+          <button type="button" data-z="0.714" aria-label="Oddálit">−</button>
+          <button type="button" data-z="0">Celý</button>
+          <button type="button" data-z="-1">Na celou obrazovku</button>
+        </span>
+      </div>
+      <div class="rt-stage" data-zarovnat={JSON.stringify(d.rodokmen.casti.map((c) => c.zarovnat_k ?? null))} data-spojnice={JSON.stringify(d.rodokmen.spojnice ?? [])}>
+        <div class="rt-platno">
+          <svg class="rt-spoje" aria-hidden="true"></svg>
+          {d.rodokmen.casti.map((c, i) => (
+            <div class={`rt-cast${i === d.rodokmen.casti.length - 1 && d.rodokmen.casti.length > 2 ? ' rt-volne' : ''}`}>
+              <div class="rt-nadpis"><strong>{c.nadpis}</strong>{c.text && <span>{c.text}</span>}</div>
+              <RodStrom uzly={c.uzly} slug={slug} profily={d.profily} koren />
+            </div>
+          ))}
         </div>
-      ))}
-      <p class="small muted">Široký strom se dá posouvat do stran (na telefonu prstem); tlačítkem „celý strom“ se zmenší, aby se vešel.</p>
+      </div>
       <script>
-        document.querySelectorAll('.rg-strom').forEach((s) => {
-          const wrap = s.querySelector('.rg-strom-wrap'), inn = s.querySelector('.rg-strom-in');
-          let z = 1;
-          const nastav = (nz) => { z = Math.min(1.4, Math.max(0.3, nz)); inn.style.zoom = String(z); };
-          const doStredu = () => { wrap.scrollLeft = (wrap.scrollWidth - wrap.clientWidth) / 2; };
-          s.querySelectorAll('.rg-strom-ovl button').forEach((b) => b.addEventListener('click', () => {
-            const k = Number(b.dataset.z);
-            if (k === 0) { inn.style.zoom = '1'; const w = inn.scrollWidth; nastav(Math.min(1, (wrap.clientWidth - 4) / w)); }
-            else nastav(z + k * 0.15);
-            doStredu();
-          }));
-          doStredu();
+        const stage = document.querySelector<HTMLElement>('.rt-stage')!;
+        const platno = stage.querySelector<HTMLElement>('.rt-platno')!;
+        let v = { x: 0, y: 0, s: 1 };
+        const apply = (anim = false) => {
+          platno.style.transition = anim ? 'transform 0.35s ease' : 'none';
+          platno.style.transform = `translate(${v.x}px, ${v.y}px) scale(${v.s})`;
+        };
+        // poloha prvku v souřadnicích plátna (nezávisle na posunu a přiblížení)
+        const vPlatne = (el: Element) => {
+          const r = el.getBoundingClientRect(), p = platno.getBoundingClientRect();
+          return { x: (r.left - p.left) / v.s, y: (r.top - p.top) / v.s, w: r.width / v.s, h: r.height / v.s };
+        };
+        const karta = (id: string) => platno.querySelector(`li[data-id="${id}"] > .ot-uzel`);
+
+        // naše větev posazená do generace podle let + tečkované spojnice „napojení hledáme“
+        const rozvrhni = () => {
+          const casti = [...platno.querySelectorAll<HTMLElement>('.rt-cast')];
+          const zar = JSON.parse(stage.dataset.zarovnat || '[]');
+          casti.forEach((c, i) => {
+            const strom = c.querySelector<HTMLElement>('.ot-koren')!;
+            strom.style.marginTop = '0px';
+            const cil = zar[i] && karta(zar[i]);
+            const koren = c.querySelector('.ot-koren > li > .ot-uzel');
+            if (cil && koren) strom.style.marginTop = Math.max(0, vPlatne(cil).y - vPlatne(koren).y) + 'px';
+          });
+          const svg = platno.querySelector<SVGSVGElement>('.rt-spoje')!;
+          svg.setAttribute('width', String(platno.scrollWidth)); svg.setAttribute('height', String(platno.scrollHeight));
+          svg.innerHTML = '';
+          // spojnice vedou pod kartičkami předků (v mezeře nad lištou jejich dětí), slévají se a vstupují do cíle zleva
+          const sps = JSON.parse(stage.dataset.spojnice || '[]').map((sp) => ({ sp, a: karta(sp.z), b: karta(sp.do) })).filter((x) => x.a && x.b);
+          const y0 = Math.max(...sps.map((x) => { const A = vPlatne(x.a); return A.y + A.h; })) + 8;
+          for (const { sp, a, b } of sps) {
+            const A = vPlatne(a), B = vPlatne(b);
+            const x1 = A.x + A.w / 2, y1 = A.y + A.h, xb = B.x - 28, yb = B.y + B.h / 2;
+            const d = `M${x1},${y1} V${y0} H${xb - 14} Q${xb},${y0} ${xb},${y0 + 14} V${yb - 14} Q${xb},${yb} ${xb + 14},${yb} H${B.x}`;
+            svg.insertAdjacentHTML('beforeend', `<path d="${d}" fill="none" stroke="#8a8278" stroke-width="2.2" stroke-dasharray="2 6" stroke-linecap="round"/>`);
+            if (sp.popis) svg.insertAdjacentHTML('beforeend', `<text x="${x1 + 8}" y="${y0 + 16}" class="rt-sp-popis" text-anchor="start">${sp.popis}</text>`);
+          }
+          if (sps.length) {
+            const B = vPlatne(sps[0].b);
+            svg.insertAdjacentHTML('beforeend', `<text x="${B.x - 40}" y="${y0 - 6}" class="rt-sp-popis" text-anchor="end">napojení hledáme ?</text>`);
+          }
+        };
+        const celek = (anim = true) => {
+          const W = platno.scrollWidth, H = platno.scrollHeight, r = stage.getBoundingClientRect();
+          v.s = Math.min(r.width / W, r.height / H) * 0.96;
+          v.x = (r.width - W * v.s) / 2; v.y = (r.height - H * v.s) / 2;
+          apply(anim);
+        };
+        const naKartu = (el: Element, s = 0.9) => {
+          const P = vPlatne(el), r = stage.getBoundingClientRect();
+          v.s = s; v.x = r.width / 2 - (P.x + P.w / 2) * s; v.y = r.height / 3 - (P.y + P.h / 2) * s;
+          apply(true);
+        };
+        const start = () => {
+          v = { x: 0, y: 0, s: 1 }; apply();
+          rozvrhni();
+          // úvodní pohled: celý slezský kmen na šířku (aspoň čitelně), odtud vede tečkovaná čára k naší větvi
+          const prvni = platno.querySelector<HTMLElement>('.rt-cast');
+          const r = stage.getBoundingClientRect();
+          if (prvni) {
+            const P = vPlatne(prvni), root = vPlatne(prvni.querySelector('.ot-uzel')!);
+            const s = Math.min(1, Math.max(0.55, r.width / (P.x + P.w + 80)));
+            v.s = s; v.y = 10;
+            v.x = (P.x + P.w) * s + 40 <= r.width ? 20 - P.x * s + 0 : r.width / 2 - (root.x + root.w / 2) * s;
+            apply();
+          } else celek(false);
+        };
+        (document.fonts?.ready ?? Promise.resolve()).then(start);
+
+        const zoomAt = (f: number, cx?: number, cy?: number) => {
+          const r = stage.getBoundingClientRect();
+          const px = (cx ?? r.left + r.width / 2) - r.left, py = (cy ?? r.top + r.height / 2) - r.top;
+          const s = Math.min(2.5, Math.max(0.08, v.s * f)), k = s / v.s;
+          v = { x: px - (px - v.x) * k, y: py - (py - v.y) * k, s };
+          apply();
+        };
+        stage.addEventListener('wheel', (e) => {
+          e.preventDefault();
+          let d = e.deltaY;
+          if (e.deltaMode === 1) d *= 33; else if (e.deltaMode === 2) d *= 300;
+          d = Math.max(-120, Math.min(120, d));
+          zoomAt(Math.exp(-d * (e.ctrlKey ? 0.012 : 0.0022)), e.clientX, e.clientY);
+        }, { passive: false });
+
+        const pts = new Map<number, { x: number; y: number }>();
+        let moved = 0, pinch = 0;
+        stage.addEventListener('pointerdown', (e) => { pts.set(e.pointerId, { x: e.clientX, y: e.clientY }); moved = 0; stage.classList.add('tahne'); });
+        stage.addEventListener('pointermove', (e) => {
+          const prev = pts.get(e.pointerId);
+          if (!prev) return;
+          pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+          if (pts.size === 2) {
+            const [a, b] = [...pts.values()];
+            const d = Math.hypot(a.x - b.x, a.y - b.y);
+            if (pinch) zoomAt(d / pinch, (a.x + b.x) / 2, (a.y + b.y) / 2);
+            pinch = d; moved += 10;
+            return;
+          }
+          const dx = e.clientX - prev.x, dy = e.clientY - prev.y;
+          moved += Math.abs(dx) + Math.abs(dy);
+          if (moved > 4) { stage.setPointerCapture(e.pointerId); v.x += dx; v.y += dy; apply(); }
+        });
+        const up = (e: PointerEvent) => { pts.delete(e.pointerId); if (pts.size < 2) pinch = 0; if (!pts.size) stage.classList.remove('tahne'); };
+        stage.addEventListener('pointerup', up);
+        stage.addEventListener('pointercancel', up);
+        stage.addEventListener('click', (e) => {
+          if (moved > 4) { e.preventDefault(); e.stopPropagation(); return; }
+          if ((e.target as Element).closest('a')) return;
+          // klepnutí na kartičku: zvýraznit cestu k nejstaršímu předkovi
+          const k = (e.target as Element).closest('.ot-uzel');
+          const bylo = k?.classList.contains('ot-cesta');
+          platno.querySelectorAll('.ot-cesta').forEach((x) => x.classList.remove('ot-cesta'));
+          if (!k || bylo) return;
+          for (let li = k.closest('li'); li; li = li.parentElement?.closest('li') ?? null) li.querySelector(':scope > .ot-uzel')?.classList.add('ot-cesta');
+        }, true);
+
+        document.querySelectorAll<HTMLButtonElement>('.rt-btns button').forEach((b) =>
+          b.addEventListener('click', () => {
+            const z = Number(b.dataset.z);
+            if (z > 0) { zoomAt(z); }
+            else if (z === 0) celek();
+            else if (document.fullscreenElement) document.exitFullscreen();
+            else (stage.requestFullscreen?.() ?? Promise.resolve()).catch(() => {});
+          })
+        );
+        document.addEventListener('fullscreenchange', () => setTimeout(() => celek(false), 50));
+
+        // hledání osoby: přiblížit a zvýraznit
+        const norm = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+        const karty = [...platno.querySelectorAll<HTMLElement>('.ot-jmeno, .ot-jm')];
+        const dl = document.getElementById('rt-jmena')!;
+        [...new Set(karty.map((k) => k.textContent!.trim()))].sort((a, b) => a.localeCompare(b, 'cs')).forEach((n) => { const o = document.createElement('option'); o.value = n; dl.appendChild(o); });
+        document.querySelector('.rt-hledat')!.addEventListener('submit', (e) => {
+          e.preventDefault();
+          const q = norm((e.currentTarget as HTMLFormElement).querySelector('input')!.value.trim());
+          platno.querySelectorAll('.ot-hit').forEach((x) => x.classList.remove('ot-hit'));
+          if (!q) return;
+          const hit = karty.filter((k) => norm(k.textContent || '').includes(q)).map((k) => k.closest('.ot-uzel')!);
+          if (!hit.length) return;
+          hit.forEach((h) => h.classList.add('ot-hit'));
+          naKartu(hit[0]);
         });
       </script>
     </section>
@@ -303,12 +448,25 @@ const HVEZDA = (cx, cy, r) => {
   .rg-osa li.rg-nase::before { background: #3f7d4a; border-color: #3f7d4a; }
   .rg-osa p { margin: 0.1rem 0; }
   .rg-rok { font: 600 1rem var(--serif); color: #8a5a2b; }
-  .rg-strom { margin: 1.2rem 0 1.6rem; }
-  .rg-strom h3 { margin-bottom: 0.2rem; }
-  .rg-strom-in { width: max-content; min-width: 100%; padding: 0.4rem 0.6rem; box-sizing: border-box; }
-  .rg-strom-ovl { display: flex; gap: 0.4rem; justify-content: flex-end; margin: 0.2rem 0 0.3rem; }
-  .rg-strom-ovl button { font: inherit; padding: 0.15rem 0.6rem; border: 1px solid var(--line); border-radius: 999px; background: var(--paper); cursor: pointer; color: #5a4632; }
-  .rg-strom-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; padding: 0.6rem 0.4rem; border: 1px solid var(--line); border-radius: 12px; background: var(--paper); }
+  .rt-bar { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; align-items: center; justify-content: space-between; margin: 0.6rem 0; }
+  .rt-hledat { display: flex; gap: 0.3rem; }
+  .rt-hledat input { font: inherit; padding: 0.3rem 0.6rem; border: 1px solid var(--line); border-radius: 8px; min-width: 14rem; background: var(--paper); }
+  .rt-bar button { font: inherit; padding: 0.3rem 0.8rem; border: 1px solid var(--line); border-radius: 999px; background: var(--paper); cursor: pointer; color: #5a4632; }
+  .rt-bar button:hover { background: var(--accent-soft); }
+  .rt-btns { display: flex; gap: 0.35rem; flex-wrap: wrap; }
+  .rt-stage { position: relative; height: min(78vh, 920px); overflow: hidden; border: 1px solid var(--line); border-radius: 12px; touch-action: none; cursor: grab; user-select: none;
+    background-color: #fbf8f2; background-image: radial-gradient(#e3dccf 1px, transparent 1px); background-size: 22px 22px; }
+  .rt-stage:fullscreen { height: 100vh; border-radius: 0; }
+  .rt-stage.tahne { cursor: grabbing; }
+  .rt-platno { position: absolute; left: 0; top: 0; transform-origin: 0 0; display: flex; align-items: flex-start; gap: 7rem; padding: 2rem; width: max-content; will-change: transform; }
+  .rt-spoje { position: absolute; left: 0; top: 0; pointer-events: none; overflow: visible; }
+  .rt-spoje :global(.rt-sp-popis) { font: italic 13px var(--sans); fill: #6e6153; paint-order: stroke; stroke: #fbf8f2; stroke-width: 4px; }
+  .rt-cast { position: relative; display: flex; flex-direction: column; align-items: center; }
+  .rt-nadpis { display: flex; flex-direction: column; align-items: center; margin-bottom: 0.9rem; text-align: center; max-width: 28rem; }
+  .rt-nadpis strong { font: 600 1.25rem var(--serif); color: #3b2e22; }
+  .rt-nadpis span { font-size: 0.8rem; color: #6e6153; }
+  .rt-volne :global(.ot-koren) { max-width: 24rem; }
+  .rt-volne { align-self: flex-start; }
   .rg-vetev { border-left: 5px solid var(--c); }
   .rg-vazba { background: var(--accent-soft); padding: 0.4rem 0.6rem; border-radius: 6px; }
   @media (max-width: 720px) {

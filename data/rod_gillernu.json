@@ -1103,7 +1103,7 @@
     }
   },
   "rodokmen": {
-    "uvod": "Celý rod, jak ho zatím známe – vše rozbalené, svisle po generacích. Barva rámečku = jak jisté je, že osoba existovala; čára k rodiči = jak jistý je vztah (plná zelená = doloženo matrikou, plná hnědá = z literatury, čárkovaná = domněnka, tečkovaná = vztah neznámý). Zeleně zvýrazněná je naše přímá linie. Strom budeme postupně doplňovat; největší neznámá je, kam patří Maximilián.",
+    "uvod": "Celý rod, jak ho zatím známe. Kolečkem myši (nebo dvěma prsty) přibližujte, tažením posouvejte, klepnutím na kartičku zvýrazníte cestu k nejstaršímu předkovi, na jméno otevřete stránku. Barva rámečku = jak jisté je, že osoba existovala; čára k rodiči = jak jistý je vztah (plná zelená = doloženo matrikou, plná hnědá = z literatury, čárkovaná = domněnka, tečkovaná = vztah neznámý). Naše přímá linie je zvýrazněná zeleně. Naše větev je posazená zhruba do generace, kam podle let patří; kde se napojí, zatím nevíme.",
     "casti": [
       {
         "nadpis": "Slezský kmen a jeho dvě větve",
@@ -1178,7 +1178,8 @@
                               }
                             ]
                           }
-                        ]
+                        ],
+                        "id": "fw2"
                       },
                       {
                         "jmeno": "Franz Leopold Giller",
@@ -1211,7 +1212,8 @@
                         "pozn": "Christian × Marie Magdalena (děti 1709–1716); František × Alžběta (8 dětí 1712–1728); František ml. × Terezie (1726, 1729) – zařadíme po ověření výřezů ze Dvorců",
                         "vazba": "nejiste"
                       }
-                    ]
+                    ],
+                    "id": "fw1"
                   },
                   {
                     "jmeno": "Christof Heinrich Giller (?)",
@@ -1246,7 +1248,8 @@
                         "stav": "lit",
                         "pozn": "na Ober-Krehlau, hejtman v Preichau"
                       }
-                    ]
+                    ],
+                    "id": "ch"
                   }
                 ]
               }
@@ -1587,12 +1590,14 @@
                 "vazba": "nejiste",
                 "popis": "příbuzný?"
               }
-            ]
+            ],
+            "id": "otec"
           }
-        ]
+        ],
+        "zarovnat_k": "fw2"
       },
       {
-        "nadpis": "Gillernové, které zatím neumíme zařadit",
+        "nadpis": "Zatím nezařazení",
         "text": null,
         "uzly": [
           {
@@ -1628,6 +1633,18 @@
             "pozn": "malíř Joseph Edward z Gillernů (1794–1845); chemik Karl Gillern (1895–1971)"
           }
         ]
+      }
+    ],
+    "spojnice": [
+      {
+        "z": "fw1",
+        "do": "otec",
+        "popis": "1. větev?"
+      },
+      {
+        "z": "ch",
+        "do": "otec",
+        "popis": "2. větev?"
       }
     ]
   }

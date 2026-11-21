@@ -42,7 +42,7 @@ if (!koren) {
     }
     const href = odkaz(u);
     return (
-      <li class={`ot-v-${u.vazba ?? u.stav ?? 'lit'}`}>
+      <li class={`ot-v-${u.vazba ?? u.stav ?? 'lit'}`} data-id={u.id}>
         {!koren && <span class="ot-spoj"></span>}
         <div class={`ot-uzel ot-st-${u.stav ?? 'lit'}${u.nase ? ' ot-nase' : ''}`}>
           {u.popis && <span class="ot-popis">{u.popis}</span>}
@@ -85,6 +85,9 @@ if (!koren) {
   .ot-roky, .ot-manzel { color: #5a4632; font-size: 0.76rem; }
   .ot-pozn { color: #6e6153; font-size: 0.72rem; }
   .ot-popis { font-style: italic; color: #8a8278; font-size: 0.7rem; }
+  .ot-uzel.ot-cesta { outline: 3px solid #d08a1e; outline-offset: 1px; }
+  .ot-uzel.ot-hit { outline: 3px solid #2f6fb0; outline-offset: 2px; }
+  .ot-uzel { cursor: pointer; }
   .ot-skupina { gap: 0.2rem; }
   .ot-polozka { font-size: 0.74rem; color: #5a4632; }
   .ot-jm { font: 600 0.78rem var(--serif); color: #2b2620; }

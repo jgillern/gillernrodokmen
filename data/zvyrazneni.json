@@ -2572,5 +2572,53 @@
   ],
   "status": "ok",
   "note": "celý zápis"
+ },
+ "z_1897_gillern_oswald": {
+  "boxes": [
+   [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
+ },
+ "o_1827_gillern_hinke": {
+  "boxes": [
+   [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
+ },
+ "n_1828_gillern_oswald": {
+  "boxes": [
+   [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
+ },
+ "z_1810_gillern_dominika": {
+  "boxes": [
+   [
+    0.01,
+    0.01,
+    0.99,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
  }
 }

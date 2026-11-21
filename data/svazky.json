@@ -957,5 +957,33 @@
   "svazek": "Krehlau (Krzelów, Kr. Wohlau), kath. Kirchenbuch D527: Taufen 1736–1773, Trauungen 1736–1759, DGS 8244729",
   "popis": "Římskokatolická fara Krehlau (dnes Krzelów, gm. Wińsko), Dolní Slezsko; pravé a levé strany zvlášť, místy vybledlé. Snímky z domu po přihlášení (FamilySearch). Neindexováno.",
   "url": "https://www.familysearch.org/search/catalog/koha:357669"
+ },
+ "bydgoszcz_usc_z_1897": {
+  "archiv": "Archiwum Państwowe w Bydgoszczy",
+  "portal": "szukajwarchiwach.gov.pl",
+  "svazek": "Standesamt Bromberg-Stadt, Sterberegister 1897, sv. I (6/1663/0/2.3/204)",
+  "popis": "Civilní matrika zemřelých města Bydhošť (Bromberg), 1897.",
+  "url": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/288cb74f9946b873124045d754be2aec24da72a3c63b7620d04728983cfc8eda"
+ },
+ "tisk_provinzialblaetter_1827_11": {
+  "archiv": "Śląska Biblioteka Cyfrowa",
+  "portal": "SBC",
+  "svazek": "Schlesische Provinzialblätter 86 (1827), č. 11 (listopad)",
+  "popis": "Slezský měsíčník; rubriky sňatků, narození a úmrtí.",
+  "url": "https://sbc.org.pl/Content/737684/PDF/i4002-1827-11-0001.pdf#page=93"
+ },
+ "tisk_provinzialblaetter_1828_09": {
+  "archiv": "Śląska Biblioteka Cyfrowa",
+  "portal": "SBC",
+  "svazek": "Schlesische Provinzialblätter 88 (1828), č. 9 (září)",
+  "popis": "Slezský měsíčník; rubriky sňatků, narození a úmrtí.",
+  "url": "https://sbc.org.pl/Content/21906/PDF/i4002-1828-09-0001.pdf#page=85"
+ },
+ "tisk_provinzialblaetter_1810_08": {
+  "archiv": "Śląska Biblioteka Cyfrowa",
+  "portal": "SBC",
+  "svazek": "Schlesische Provinzialblätter 52 (1810), č. 8 (srpen)",
+  "popis": "Slezský měsíčník; rubriky sňatků, narození a úmrtí.",
+  "url": "https://sbc.org.pl/Content/16715/PDF/i4002-1810-08-0001.pdf#page=90"
  }
 }

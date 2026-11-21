@@ -1176,15 +1176,15 @@
       "stav": "lit",
       "vazba": "pruští potomci obou slezských větví; generál Ernst Heinrich (1730–1792) byl mladší bratr našeho Maximiliána",
       "fakta": [
-        "Pruští baroni z Gillernů pocházejí z obou slezských větví: podle Gothy 1884 vede jejich hlavní linie od Friedricha Wilhelma I. přes Friedricha Wilhelma II. a Kristiána Matyáše Antonína (* 1723) k Oswaldovi (* 1828) a jeho synovi Arthurovi (* 1855); z 2. větve pocházeli svobodní páni na Polnisch-Gandau, Kulmikau a Nieder-Kunzendorfu.",
-        "1744 pruské uznání stavu svobodných pánů listem Fridricha II., potvrzeno 1855",
-        "Ernst Heinrich z Gillernů (1730–1792), mladší bratr našeho Maximiliána: velitel granátnického praporu v Nise, generálmajor a šéf pěšího pluku v Královci, rytíř Pour le Mérite",
-        "Dominika z Gillernů (1739–1810), poslední kněžna-abatyše kláštera v Trzebnici",
-        "Carl Joseph svobodný pán z Gillernů († 1824 Ober-Glogau), syn Maximiliánova bratrance, × 1785 Antonia von Nerlich; pán na Polnisch-Gandau",
-        "Hugo z Gillernů alias Hugo Krüger (1829–1871), pěvec berlínské dvorní opery",
-        "Georg svobodný pán z Gillernů (* 8. 4. 1835), hejtman pomořanského praporu myslivců, padl 2. 12. 1870 u Champigny – před svatbou s Annou von Rodbertus",
-        "Arthur z Gillernů (1855–1916), pruský generálporučík",
-        "Arnulf z Gillernů (1884–1944), spolumajitel zbrojovky Polte"
+        "Pruští baroni z Gillernů pocházejí z obou slezských větví. Podle Gothy 1884 vede jejich hlavní linie od Friedricha Wilhelma I. přes Friedricha Wilhelma II. a Kristiána Matyáše Antonína (* 1723) k Oswaldovi; mezi Kristiánem a Oswaldovým otcem chybí jedna generace a spojení samo doložené není.",
+        "Oswald svobodný pán z Gillernů se narodil 17. 9. 1828 v Goldbergu ve Slezsku (Złotoryja) – v ten den se tam baronce von Gillern roz. Hinke narodil syn. Jeho rodiče byli nejspíš baron Moritz (?) Eduard Alexander von Gillern, majitel poplužního dvora v Goldbergu, a Henriette Dorothea Wilhelmine Hinke, kteří se tam vzali 14. 11. 1827. Oswald byl evangelík, žil jako penzista ve Štětíně a zemřel 7. 5. 1897 v Bydhošti; manželka Marie roz. Lutze (1829–1877).",
+        "Jeho syn Arthur (* 4. 4. 1855 Altwasser u Hlohova, † 4. 5. 1916 Berlín) byl pruský generálporučík; Arthurův syn Arnulf (1884–1944) byl spolumajitelem zbrojovky Polte v Magdeburku.",
+        "1744 pruské uznání stavu svobodných pánů listem Fridricha II., potvrzeno 1855.",
+        "Ernst Heinrich z Gillernů (1730–1792), mladší bratr našeho Maximiliána: velitel granátnického praporu v Nise, generálmajor a šéf pěšího pluku v Královci, rytíř Pour le Mérite.",
+        "Dominika von Gillern (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici – z katolické linie z Rettkau (Johann Christoph a jeho potomci); jména rodičů neznáme.",
+        "Carl Joseph svobodný pán z Gillernů († 1824 Ober-Glogau), syn Maximiliánova bratrance, × 1785 Antonia von Nerlich; pán na Polnisch-Gandau. Baron z Gillernů na Kulmikau u Stínavy pohřbil roku 1793 nejmladší dceru Johannu Augustinu Barbaru Carolinu (3 roky).",
+        "Hugo z Gillernů alias Hugo Krüger (* 11. 1. 1829 Vratislav, † 19. 11. 1871 Berlín), tenorista berlínské dvorní opery, syn vysokého pruského důstojníka – podle Wikipedie Dominika svobodného pána z Gillernů a Henriette roz. Krüger.",
+        "Georg svobodný pán z Gillernů z Vratislavi, hejtman 1. roty pomořanského mysliveckého praporu č. 2, padl 2. 12. 1870 u Champigny."
       ],
       "vztahy": [
         {
@@ -1207,7 +1207,28 @@
         },
         {
           "nazev": "Genealogisches Taschenbuch der adeligen Häuser 1884, 1889, 1892"
+        },
+        {
+          "nazev": "Schlesische Provinzialblätter 1793, 1810, 1827, 1828 (SBC)"
+        },
+        {
+          "nazev": "Allgemeine Deutsche Biographie 17 (1883), s. 230 – Krüger, Hugo"
+        },
+        {
+          "nazev": "Verlustliste č. 144 (1870)"
+        },
+        {
+          "nazev": "E. H. Kneschke, Neues allgemeines Deutsches Adels-Lexicon III (1861), s. 523–524"
+        },
+        {
+          "nazev": "L. von Zedlitz-Neukirch, Neues preussisches Adels-Lexicon II (1836), s. 234"
         }
+      ],
+      "zaznamy": [
+        "z_1810_gillern_dominika",
+        "o_1827_gillern_hinke",
+        "n_1828_gillern_oswald",
+        "z_1897_gillern_oswald"
       ]
     },
     "rodopis": {
@@ -1899,26 +1920,51 @@
                                 "roky": "asi 1772 – † 21. 11. 1783 Vídeň"
                               },
                               {
-                                "jmeno": "… dvě generace (Gotha 1884 je nejmenuje)",
+                                "jmeno": "… jedna generace (neznámá)",
                                 "stav": "hyp",
                                 "vazba": "nejiste",
                                 "deti": [
                                   {
-                                    "jmeno": "Oswald svobodný pán z Gillernů",
-                                    "stav": "lit",
-                                    "roky": "* 17. 9. 1828 Dobberphul u Štětína",
-                                    "profil": "prusove",
+                                    "jmeno": "Moritz (?) Eduard Alexander svobodný pán z Gillernů",
+                                    "stav": "doc",
+                                    "vazba": "prob",
+                                    "roky": "× 14. 11. 1827 Goldberg",
+                                    "pozn": "majitel poplužního dvora v Goldbergu (Złotoryja); že je Oswaldovým otcem, je velmi pravděpodobné – syn baronce roz. Hinke se v Goldbergu narodil přesně v Oswaldův den",
+                                    "manzel": "× Henriette Dorothea Wilhelmine Hinke",
                                     "deti": [
                                       {
-                                        "jmeno": "Arthur z Gillernů",
-                                        "stav": "lit",
-                                        "roky": "1855–1916",
-                                        "pozn": "pruský generálporučík",
-                                        "profil": "prusove"
+                                        "jmeno": "Oswald svobodný pán z Gillernů",
+                                        "stav": "doc",
+                                        "roky": "* 17. 9. 1828 Goldberg – † 7. 5. 1897 Bydhošť",
+                                        "profil": "prusove",
+                                        "deti": [
+                                          {
+                                            "jmeno": "Arthur z Gillernů",
+                                            "stav": "lit",
+                                            "roky": "* 4. 4. 1855 Altwasser (Kr. Glogau) – † 4. 5. 1916 Berlín",
+                                            "pozn": "pruský generálporučík",
+                                            "profil": "prusove",
+                                            "manzel": "× Anna Strobell (1862–1894)",
+                                            "vazba": "doc",
+                                            "deti": [
+                                              {
+                                                "jmeno": "Arnulf svobodný pán z Gillernů",
+                                                "stav": "lit",
+                                                "vazba": "lit",
+                                                "roky": "* 23. 2. 1884 Berlín – † 15. 1. 1944 Magdeburg",
+                                                "pozn": "spolumajitel zbrojovky Polte v Magdeburku"
+                                              }
+                                            ]
+                                          }
+                                        ],
+                                        "vazba": "prob",
+                                        "manzel": "× Marie Lutze (1829–1877)",
+                                        "pozn": "penzista ve Štětíně, evangelík"
                                       }
                                     ]
                                   }
-                                ]
+                                ],
+                                "pozn": "podle Gothy (1884) byl Kristián Oswaldovým pradědečkem – mezi ním a Oswaldovým otcem chybí jedna generace; spojení samo není doloženo"
                               }
                             ],
                             "manzel": "× Karolina z Locella († 1805 Koryčany)"
@@ -2842,7 +2888,7 @@
           {
             "jmeno": "Pruští Gillernové 18.–20. století",
             "stav": "lit",
-            "pozn": "Dominika (1739–1810, abatyše v Trzebnici), Karl-Joseph (1743–1793, major), Hugo (1829–1871, pěvec), Georg (1835–1870, padl u Champigny), Arnulf (1884–1944) – do které větve patří, zatím nevíme",
+            "pozn": "Dominika (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici – rodiče neznámí; Karl-Joseph (1743–1793), major – nedoloženo; tenorista Hugo von Gillern alias Hugo Krüger (* 11. 1. 1829 Vratislav, † 1871 Berlín), syn pruského důstojníka Dominika von Gillern a Henriette roz. Krüger; kapitán Georg svobodný pán z Gillernů z Vratislavi, padl 2. 12. 1870 u Champigny; baron z Gillernů na Kulmikau (dcera † 1793). Do které větve patří, zatím nevíme",
             "profil": "prusove"
           },
           {

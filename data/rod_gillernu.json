@@ -100,7 +100,7 @@
     },
     {
       "rok": "1765",
-      "text": "V Pardubicích se žení Bedřich baron Gyller, kapitán císařského pluku Pallavicini, s Annou, dcerou měšťana Josefa Nešky (?) – blízký příbuzný Maximiliána.",
+      "text": "V Pardubicích se žení Bedřich baron Gyller, kapitán císařského pluku Pallavicini, s Annou, dcerou měšťana Josefa Newky (Nevky?) – blízký příbuzný Maximiliána.",
       "zdroj": "matrika Pardubice O 1737–1784 (ARON, sign. 1517)"
     },
     {
@@ -577,7 +577,7 @@
     {
       "jmeno": "Jan Bedřich (Friedrich) baron z Gillernů",
       "roky": "1753–1771",
-      "text": "Kapitán (Hauptmann) pěšího pluku č. 15 (hrabě Pallavicini) od 1753, 1771 major a velitel místa ve Velkém Varadíně; v seznamu důstojníků „Gillern Friedrich, Baron“. 1761 svědek v zastoupení a 1766 osobně svědek u křtů Maximiliánových dětí; 17. 2. 1765 × Pardubice Anna, dcera měšťana Josefa Nešky (?).",
+      "text": "Kapitán (Hauptmann) pěšího pluku č. 15 (hrabě Pallavicini) od 1753, 1771 major a velitel místa ve Velkém Varadíně; v seznamu důstojníků „Gillern Friedrich, Baron“. 1761 svědek v zastoupení a 1766 osobně svědek u křtů Maximiliánových dětí; 17. 2. 1765 × Pardubice Anna, dcera měšťana Josefa Newky (Nevky?).",
       "zdroj": "Kladruby 1761, Pardubice 1765, Čelákovice 1766; L. Rona, Geschichte des IR 15 (1901), s. 98, 235–247",
       "stav": "doc",
       "odkaz": "https://archive.org/details/bub_gb_wWTRAAAAMAAJ/page/n758/mode/1up"
@@ -1225,7 +1225,7 @@
     "casti": [
       {
         "nadpis": "Slezský kmen a jeho dvě větve",
-        "text": "Podle Sinapia (1728) a Gothajského kalendáře (1884); křty ve Dvorcích podle zprávy ChatGPT (výřezy neověřeny, ověřen jen křest Carla Josepha 1696).",
+        "text": "Podle Sinapia (1728) a Gothajského kalendáře (1884); křty ve Dvorcích podle zprávy ChatGPT – výřezy rodiny Friedricha Wilhelma I. a Franze Leopolda ověřeny (21. 11. 2026), Johanna 1689 a Maria Apollonia 1691 zatím ne.",
         "uzly": [
           {
             "jmeno": "Heinrich Christof Giller",
@@ -1254,13 +1254,13 @@
                     "deti": [
                       {
                         "jmeno": "Magdalena",
-                        "stav": "prob",
-                        "vazba": "prob",
-                        "manzel": "× 31. 1. 1692 Frantz Hoor ze Šternberka"
+                        "stav": "doc",
+                        "vazba": "doc",
+                        "manzel": "× 27. 1. 1692 Karlovec Frantz Hon (?), syn Johanna Hanse ze Šternberka"
                       },
                       {
                         "jmeno": "Friedrich Wilhelm II.",
-                        "stav": "prob",
+                        "stav": "doc",
                         "roky": "křest 6. 4. 1688 Karlovec – † 1751 Lucemburk",
                         "pozn": "císařský podplukovník; totožnost s křtěncem 1688 velmi pravděpodobná",
                         "manzel": "× Anna Marie",
@@ -1304,7 +1304,7 @@
                           }
                         ],
                         "id": "fw2",
-                        "vazba": "prob"
+                        "vazba": "doc"
                       },
                       {
                         "jmeno": "Johanna",
@@ -1320,15 +1320,15 @@
                       },
                       {
                         "jmeno": "Maria R. Josepha",
-                        "stav": "prob",
-                        "vazba": "prob",
+                        "stav": "doc",
+                        "vazba": "doc",
                         "roky": "křest 17. 3. 1694",
-                        "pozn": "kmotr Maximilian … svobodný pán, komtur řádu německých rytířů"
+                        "pozn": "kmotr Maximilian Rudolph Freiherr von Westernach (?), rytíř a komtur řádu německých rytířů"
                       },
                       {
                         "jmeno": "Maria Theresia",
-                        "stav": "prob",
-                        "vazba": "prob",
+                        "stav": "doc",
+                        "vazba": "doc",
                         "roky": "křest 20. 11. 1695"
                       },
                       {
@@ -1342,21 +1342,16 @@
                       },
                       {
                         "jmeno": "Maria Elisabeth",
-                        "stav": "prob",
-                        "vazba": "prob",
+                        "stav": "doc",
+                        "vazba": "doc",
                         "roky": "křest 23. 2. 1698"
                       },
                       {
-                        "jmeno": "Hans Wilhelm",
-                        "stav": "prob",
-                        "vazba": "prob",
-                        "roky": "křest 19. 1. 1699"
-                      },
-                      {
-                        "jmeno": "Johann Peter",
-                        "stav": "lit",
-                        "vazba": "lit",
-                        "pozn": "praporčík (Sinapius); křest nenalezen"
+                        "jmeno": "Hans Peter",
+                        "stav": "doc",
+                        "vazba": "doc",
+                        "roky": "křest 19. 1. 1699 Karlovec",
+                        "pozn": "v matrice „Hans Peter“ (dříve čteno Hans Wilhelm); nejspíš Johann Peter, praporčík (Sinapius)"
                       },
                       {
                         "jmeno": "Carl Ludwig",
@@ -1366,35 +1361,35 @@
                       },
                       {
                         "jmeno": "Franz Leopold Giller",
-                        "stav": "prob",
+                        "stav": "doc",
                         "vazba": "nejiste",
                         "pozn": "císařský poštmistr a purkmistr ve Dvorcích (1712); Sinapius ho uvádí jako syna Friedricha Wilhelma I., ale děti měl už od 1690 – spíš jeho bratr nebo jiný příbuzný",
                         "manzel": "× 1) Susanna, × 2) Anna",
                         "deti": [
                           {
                             "jmeno": "Maria Elisabeth",
-                            "stav": "prob",
-                            "vazba": "prob",
+                            "stav": "doc",
+                            "vazba": "doc",
                             "pozn": "× 7. 9. 1705 Dvorce"
                           },
                           {
                             "jmeno": "Hans Carl",
-                            "stav": "prob",
-                            "vazba": "prob",
+                            "stav": "doc",
+                            "vazba": "doc",
                             "roky": "křest 6. 2. 1690",
                             "pozn": "snad Karel Giller, švec ve Dvorcích († 1759, 70 let)"
                           },
                           {
                             "jmeno": "Anna Rosina",
-                            "stav": "prob",
-                            "vazba": "prob",
+                            "stav": "doc",
+                            "vazba": "doc",
                             "roky": "křest 27. 2. 1694",
                             "manzel": "× 1712 Johann Anton Knapp, hejtman v Opavě (?)"
                           },
                           {
                             "jmeno": "Joanna Theresia",
-                            "stav": "prob",
-                            "vazba": "prob",
+                            "stav": "doc",
+                            "vazba": "doc",
                             "roky": "křest 11. 7. 1697",
                             "pozn": "snad × 1716 J. S. Schirmer, lesní jezdec ve Šternberku"
                           },
@@ -1818,7 +1813,7 @@
                 "pozn": "1753 hejtman pěšího pluku č. 15 (Pallavicini), 1760 u plukovního depozitoria, 1766 Brno, 1767–70 Vídeň, 1771 major a velitel místa ve Velkém Varadíně (Rona, dějiny pluku 1901, v seznamu „Gillern Friedrich, Baron“); svědek u Maximiliánových dětí 1761 a 1766",
                 "vazba": "nejiste",
                 "popis": "příbuzný – bratr? bratranec?",
-                "manzel": "× 1765 Pardubice Anna Nešková (?)"
+                "manzel": "× 1765 Pardubice Anna Newková (Nevková?)"
               },
               {
                 "jmeno": "Ignác z Gillernů „ve Slezsku“",
@@ -1836,7 +1831,7 @@
       },
       {
         "nadpis": "Gillerové ve Dvorcích – měšťané a řemeslníci",
-        "text": "Matriky Dvorce u Bruntálu 1688–1787 (ZA Opava) – čteno druhým asistentem (zpráva ChatGPT 21. 11. 2026), výřezy zatím neověřeny, proto „pravděpodobné“. Vazba na šlechtický kmen neznámá.",
+        "text": "Matriky Dvorce u Bruntálu 1688–1787 (ZA Opava) podle zprávy ChatGPT 21. 11. 2026; výřezy hlavních zápisů ověřeny (Christian ml. 1708, František † 1771), ostatní „pravděpodobné“. Vazba na šlechtický kmen neznámá.",
         "uzly": [
           {
             "jmeno": "Christian Giller st.",
@@ -1858,16 +1853,16 @@
               },
               {
                 "jmeno": "Christian Giller ml.",
-                "stav": "prob",
-                "vazba": "prob",
+                "stav": "doc",
+                "vazba": "doc",
                 "roky": "asi 1681 – † 17. 8. 1755",
                 "pozn": "měšťan ve Dvorcích",
                 "manzel": "× 1) 1708 Maria Magdalena Wunderlich, × 2) 1749 Rosina, vdova Krone z Májůvky",
                 "deti": [
                   {
                     "jmeno": "Maria Elisabeth",
-                    "stav": "prob",
-                    "vazba": "prob",
+                    "stav": "doc",
+                    "vazba": "doc",
                     "roky": "křest 30. 11. 1709"
                   },
                   {
@@ -1912,8 +1907,8 @@
                   },
                   {
                     "jmeno": "Anna Rosina",
-                    "stav": "prob",
-                    "vazba": "prob",
+                    "stav": "doc",
+                    "vazba": "doc",
                     "roky": "1716"
                   }
                 ]
@@ -1922,8 +1917,8 @@
           },
           {
             "jmeno": "Franciscus (Franz Leopold ?) Giller",
-            "stav": "prob",
-            "vazba": "prob",
+            "stav": "doc",
+            "vazba": "doc",
             "roky": "asi 1683 – † 20. 5. 1771",
             "pozn": "měšťan ve Dvorcích, dům č. 31; u křtu 1716 „Francisc. Leop.“",
             "manzel": "× Elisabeth",
@@ -1955,8 +1950,8 @@
               },
               {
                 "jmeno": "Magdalena",
-                "stav": "prob",
-                "vazba": "prob",
+                "stav": "doc",
+                "vazba": "doc",
                 "roky": "křest 9. 2. 1721"
               },
               {
@@ -1967,8 +1962,8 @@
               },
               {
                 "jmeno": "Maria Elisabeth",
-                "stav": "prob",
-                "vazba": "prob",
+                "stav": "doc",
+                "vazba": "doc",
                 "roky": "křest 17. 10. 1725"
               },
               {
@@ -1987,8 +1982,8 @@
                 "deti": [
                   {
                     "jmeno": "Maria Theresia",
-                    "stav": "prob",
-                    "vazba": "prob",
+                    "stav": "doc",
+                    "vazba": "doc",
                     "roky": "† 1757"
                   },
                   {
@@ -2005,8 +2000,8 @@
                   },
                   {
                     "jmeno": "Magdalena",
-                    "stav": "prob",
-                    "vazba": "prob",
+                    "stav": "doc",
+                    "vazba": "doc",
                     "manzel": "× 1781 Josef Müller, pekař"
                   },
                   {

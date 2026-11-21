@@ -1,23 +1,55 @@
 ---
-// Svislý rodokmen celého rodu (data/rod_<jméno>.json → „rodokmen“): vnořené seznamy, vše rozbalené.
-// Uzel: { jmeno, roky?, pozn?, manzel?, stav (doc|lit|prob|hyp), vazba? (typ čáry k rodiči: doc|lit|prob|hyp|nejiste), popis? (popisek vztahu),
+// Rodokmen celého rodu shora dolů (data/rod_<jméno>.json → „rodokmen“): sourozenci vedle sebe na stejné úrovni, vše rozbalené.
+// Uzel: { jmeno, roky?, pozn?, manzel?, stav (doc|lit|prob|hyp|fam), vazba? (typ čáry k rodiči: doc|lit|prob|hyp|nejiste), popis? (popisek vztahu),
 //         nase? (přímá linie), osoba? (slug), profil? (id profilu), deti?: [uzly] }
+// Děti bez dalších potomků a bez zvláštností (aspoň 2) se kvůli šířce slučují do jedné kartičky „další děti“.
 import { people } from '../lib/data.js';
 interface Props { uzly: any[]; slug: string; profily?: Record<string, any>; koren?: boolean }
 const { uzly, slug, profily = {}, koren = false } = Astro.props;
 const odkaz = (u) => (u.osoba && people[u.osoba] ? `/osoba/${u.osoba}/` : u.profil && profily[u.profil] ? `/${slug}/${u.profil}/` : null);
+const prosty = (u) => !u.deti?.length && !u.nase && !u.popis && !u.manzel && ['doc', 'lit', undefined].includes(u.vazba) && ['doc', 'lit'].includes(u.stav);
+let polozky = uzly;
+if (!koren) {
+  const listy = uzly.filter(prosty);
+  if (listy.length >= 2) {
+    const i = uzly.indexOf(listy[0]);
+    polozky = uzly.filter((u) => !prosty(u));
+    polozky.splice(Math.min(i, polozky.length), 0, { skupina: listy, vazba: listy[0].vazba ?? listy[0].stav, stav: listy[0].stav });
+  }
+}
 ---
-<ul class={koren ? 'rs rs-koren' : 'rs'}>
-  {uzly.map((u) => {
+<ul class={koren ? 'ot ot-koren' : 'ot'}>
+  {polozky.map((u) => {
+    if (u.skupina) {
+      return (
+        <li class={`ot-v-${u.vazba}`}>
+          <span class="ot-spoj"></span>
+          <div class={`ot-uzel ot-skupina ot-st-${u.stav}`}>
+            <span class="ot-popis">další děti</span>
+            {u.skupina.map((c) => {
+              const h = odkaz(c);
+              return (
+                <span class="ot-polozka">
+                  <span class="ot-jm">{h ? <a href={h}>{c.jmeno}</a> : c.jmeno}</span>
+                  {c.roky && <span class="ot-roky"> {c.roky}</span>}
+                  {c.pozn && <span class="ot-pozn"> – {c.pozn}</span>}
+                </span>
+              );
+            })}
+          </div>
+        </li>
+      );
+    }
     const href = odkaz(u);
     return (
-      <li class={`rs-v-${u.vazba ?? u.stav ?? 'lit'}`}>
-        <div class={`rs-uzel rs-st-${u.stav ?? 'lit'}${u.nase ? ' rs-nase' : ''}`}>
-          {u.popis && <span class="rs-popis">{u.popis}</span>}
-          <span class="rs-jmeno">{href ? <a href={href}>{u.jmeno}</a> : u.jmeno}</span>
-          {u.roky && <span class="rs-roky">{u.roky}</span>}
-          {u.manzel && <span class="rs-manzel">{u.manzel}</span>}
-          {u.pozn && <span class="rs-pozn">{u.pozn}</span>}
+      <li class={`ot-v-${u.vazba ?? u.stav ?? 'lit'}`}>
+        {!koren && <span class="ot-spoj"></span>}
+        <div class={`ot-uzel ot-st-${u.stav ?? 'lit'}${u.nase ? ' ot-nase' : ''}`}>
+          {u.popis && <span class="ot-popis">{u.popis}</span>}
+          <span class="ot-jmeno">{href ? <a href={href}>{u.jmeno}</a> : u.jmeno}</span>
+          {u.roky && <span class="ot-roky">{u.roky}</span>}
+          {u.manzel && <span class="ot-manzel">{u.manzel}</span>}
+          {u.pozn && <span class="ot-pozn">{u.pozn}</span>}
         </div>
         {u.deti?.length > 0 && <Astro.self uzly={u.deti} slug={slug} profily={profily} />}
       </li>
@@ -26,36 +58,34 @@ const odkaz = (u) => (u.osoba && people[u.osoba] ? `/osoba/${u.osoba}/` : u.prof
 </ul>
 
 <style>
-  .rs { list-style: none; margin: 0; padding: 0 0 0 1.5rem; }
-  .rs-koren { padding-left: 0; }
-  .rs li { position: relative; padding: 0.3rem 0 0.3rem 1rem; }
-  .rs-koren > li { padding-left: 0; }
-  /* svislá čára od rodiče a vodorovná k uzlu */
-  .rs:not(.rs-koren) > li::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; border-left: 2px solid var(--rs-c); }
-  .rs:not(.rs-koren) > li:last-child::before { bottom: auto; height: 1.35rem; }
-  .rs:not(.rs-koren) > li::after { content: ''; position: absolute; left: 0; top: 1.35rem; width: 0.9rem; border-top: 2px solid var(--rs-c); }
-  .rs li { --rs-c: #8a5a2b; }
-  .rs li.rs-v-doc { --rs-c: #3f7d4a; }
-  .rs li.rs-v-prob { --rs-c: #b07a1e; }
-  .rs li.rs-v-hyp::before, .rs li.rs-v-hyp::after { border-style: dashed !important; }
-  .rs li.rs-v-hyp { --rs-c: #b07a1e; }
-  .rs li.rs-v-nejiste::before, .rs li.rs-v-nejiste::after { border-style: dotted !important; }
-  .rs li.rs-v-nejiste { --rs-c: #8a8278; }
-  .rs-uzel { display: inline-flex; flex-direction: column; gap: 0.05rem; max-width: 30rem; padding: 0.35rem 0.65rem; border: 1.6px solid #8a5a2b; border-radius: 8px; background: #fffdf8; font-size: 0.9rem; line-height: 1.3; }
-  .rs-st-doc { border-color: #3f7d4a; background: #eef6ee; }
-  .rs-st-fam { border-color: #3f7d4a; background: #f6faf5; }
-  .rs-st-prob { border-color: #b07a1e; background: #fbf1db; }
-  .rs-st-hyp { border-color: #8a8278; border-style: dashed; background: #f2efe9; }
-  .rs-nase { box-shadow: 0 0 0 3px #3f7d4a33; border-width: 2.4px; }
-  .rs-jmeno { font: 600 0.98rem var(--serif); }
-  .rs-roky { color: #5a4632; font-size: 0.85rem; }
-  .rs-manzel { color: #5a4632; font-size: 0.85rem; }
-  .rs-pozn { color: #6e6153; font-size: 0.8rem; }
-  .rs-popis { font-style: italic; color: #8a8278; font-size: 0.75rem; }
-  @media (max-width: 720px) {
-    .rs { padding-left: 0.55rem; }
-    .rs li { padding-left: 0.75rem; }
-    .rs:not(.rs-koren) > li::after { width: 0.65rem; }
-    .rs-uzel { font-size: 0.82rem; padding: 0.3rem 0.5rem; }
-  }
+  .ot { --cara: #b3a792; --mezera: 1.3rem; display: flex; justify-content: center; margin: 0; padding: var(--mezera) 0 0; position: relative; list-style: none; }
+  .ot-koren { padding-top: 0; flex-wrap: wrap; gap: 1rem 0.5rem; align-items: flex-start; }
+  .ot li { position: relative; padding: var(--mezera) 0.3rem 0; display: flex; flex-direction: column; align-items: center; flex: 0 0 auto; }
+  .ot-koren > li { padding-top: 0; }
+  /* vodorovná lišta nad sourozenci */
+  .ot:not(.ot-koren) > li::before, .ot:not(.ot-koren) > li::after { content: ''; position: absolute; top: 0; width: 50%; border-top: 2px solid var(--cara); }
+  .ot:not(.ot-koren) > li::before { right: 50%; }
+  .ot:not(.ot-koren) > li::after { left: 50%; }
+  .ot:not(.ot-koren) > li:first-child::before, .ot:not(.ot-koren) > li:last-child::after { border-top: 0; }
+  /* svislá čára od rodiče dolů k liště */
+  .ot:not(.ot-koren)::before { content: ''; position: absolute; top: 0; left: 50%; height: var(--mezera); border-left: 2px solid var(--cara); }
+  /* čára od lišty k dítěti – podle jistoty vztahu */
+  .ot-spoj { position: absolute; top: 0; left: 50%; height: var(--mezera); border-left: 2px solid #8a5a2b; }
+  .ot-v-doc > .ot-spoj { border-left-color: #3f7d4a; }
+  .ot-v-prob > .ot-spoj { border-left-color: #b07a1e; }
+  .ot-v-hyp > .ot-spoj { border-left: 2px dashed #b07a1e; }
+  .ot-v-nejiste > .ot-spoj { border-left: 2px dotted #6e6153; }
+  .ot-uzel { display: flex; flex-direction: column; gap: 0.05rem; width: 10.5rem; min-height: 4.2rem; padding: 0.35rem 0.5rem; border: 1.6px solid #8a5a2b; border-radius: 8px; background: #fffdf8; font-size: 0.8rem; line-height: 1.25; text-align: left; position: relative; z-index: 1; }
+  .ot-st-doc { border-color: #3f7d4a; background: #eef6ee; }
+  .ot-st-fam { border-color: #3f7d4a; background: #f6faf5; }
+  .ot-st-prob { border-color: #b07a1e; background: #fbf1db; }
+  .ot-st-hyp { border-color: #8a8278; border-style: dashed; background: #f2efe9; }
+  .ot-nase { box-shadow: 0 0 0 3px #3f7d4a40; border-width: 2.4px; }
+  .ot-jmeno { font: 600 0.86rem var(--serif); }
+  .ot-roky, .ot-manzel { color: #5a4632; font-size: 0.76rem; }
+  .ot-pozn { color: #6e6153; font-size: 0.72rem; }
+  .ot-popis { font-style: italic; color: #8a8278; font-size: 0.7rem; }
+  .ot-skupina { gap: 0.2rem; }
+  .ot-polozka { font-size: 0.74rem; color: #5a4632; }
+  .ot-jm { font: 600 0.78rem var(--serif); color: #2b2620; }
 </style>

@@ -239,11 +239,13 @@ const HVEZDA = (cx, cy, r) => {
             const A = vPlatne(a), B = vPlatne(b);
             const x1 = A.x + A.w / 2, y1 = A.y + A.h, xb = B.x - 28, yb = B.y + B.h / 2;
             const d = `M${x1},${y1} V${y0} H${xb - 14} Q${xb},${y0} ${xb},${y0 + 14} V${yb - 14} Q${xb},${yb} ${xb + 14},${yb} H${B.x}`;
-            svg.insertAdjacentHTML('beforeend', `<path d="${d}" fill="none" stroke="#8a8278" stroke-width="2.2" stroke-dasharray="2 6" stroke-linecap="round"/>`);
+            svg.insertAdjacentHTML('beforeend', sp.doc
+              ? `<path d="${d}" fill="none" stroke="#3f7d4a" stroke-width="2.4" stroke-linecap="round"/>`
+              : `<path d="${d}" fill="none" stroke="#8a8278" stroke-width="2.2" stroke-dasharray="2 6" stroke-linecap="round"/>`);
             if (sp.popis) svg.insertAdjacentHTML('beforeend', `<text x="${x1 + 8}" y="${y0 + 16}" class="rt-sp-popis" text-anchor="start">${sp.popis}</text>`);
           }
-          if (sps.length) {
-            const B = vPlatne(sps[0].b);
+          if (sps.some((x) => !x.sp.doc)) {
+            const B = vPlatne(sps.find((x) => !x.sp.doc)!.b);
             svg.insertAdjacentHTML('beforeend', `<text x="${B.x - 40}" y="${y0 - 6}" class="rt-sp-popis" text-anchor="end">napojení hledáme ?</text>`);
           }
         };

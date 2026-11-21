@@ -532,5 +532,12 @@
   "lat": 50.4329,
   "lon": 15.3976,
   "osm": "Robousy, Jičín, okres Jičín, Královéhradecký kraj, Česko"
+ },
+ "Krehlau": {
+  "re": "Krehl",
+  "dotaz": "Krehlau, Česko",
+  "lat": 51.438,
+  "lon": 16.5125,
+  "osm": "Krzelów, gmina Wińsko, powiat wołowski, województwo dolnośląskie, Polska"
  }
 }

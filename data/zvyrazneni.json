@@ -2308,5 +2308,41 @@
   ],
   "status": "ok",
   "note": "celý zápis č. 4 (levá a pravá polovina dvojstrany)"
+ },
+ "n_1719_giller_maximilian": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
+ },
+ "n_1724_giller_johann_friedrich": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
+ },
+ "n_1705_preichau_giller_kmotr": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
  }
 }

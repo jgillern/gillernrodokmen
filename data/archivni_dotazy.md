@@ -92,3 +92,10 @@ Katalog: https://www.archivinformationssystem.at (fulltext „Gillern“, „Gil
 5. **FHKA SUS Fam.A. G-102** (1722–1766, fol. 1–13), **AVA FA Harrach 518.19** (korespondence Karla Josefa 1738–41), **AVA Adel RAA 143.32** (Franz Niklas, Platzmajor Eger, 1703).
 
 Válečný archiv (Kriegsarchiv): musterlisty pěších pluků „Gayer/Geyer“ a „Platz“ (Friedrich Wilhelm II., asi 1715–1751) a pluku Pallavicini (kapitán Jan Bedřich, 1760–1766) – důstojnické listy uvádějí věk, rodiště, rodinu.
+
+## Čeňkova linie (21. 11. 2026)
+
+- **Městský úřad Březnice, matrika:** kniha Bubovice C (N 1886–1938), fol. 15, 28, 54 a 95 – křty Vilemíny (1887), Karla (1888), Marie (1890) a Bedřicha (1894) z Lízu č. 2 včetně kmotrů a **poznámek o sňatcích a úmrtích** (výpis nebo nahlédnutí; Jan jako příbuzný).
+- **Knihovna ČGHSP (Česká genealogická a heraldická společnost v Praze):** Zdeněk Nechanický, *Český šlechtic JUDr. Bedřich Gillern a jeho osudy* (2022), č. 12461–12462 – vypůjčit / nahlédnout; autora případně kontaktovat přes společnost.
+- **SOkA Ústí nad Orlicí:** třídní katalog / maturitní protokol VIII. třídy gymnázia Vysoké Mýto 1948 (Bedřich Gillern – rodiče, narození).
+- Úmrtí JUDr. Karla 1953 (snad Mariánské Lázně) – matriční úřad Mariánské Lázně.

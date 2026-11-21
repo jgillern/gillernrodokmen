@@ -746,12 +746,11 @@
         "* 3. 8. 1854 Veselíčko č. 71 (dům Vejdovců u Milevska), pokřtěn Vincenc; zapsán jako nemanželský – otec „Vinzenz Edler von Gillern, Revierjäger im Dienste Sr. fürstlichen Durchlaucht … zu Schwarzenberg“ se k němu v matrice na vlastní žádost přihlásil; rodiče se vzali 1. 2. 1859 (legitimace)",
         "křestní list vydán 10. 11. 1865",
         "1889 knížecí revírník na Orlíku (Vorlík) – svědek na svatbě bratra Augustina v Písku",
+        "1886 knížecí revírník v Karlově (Smetanova Lhota) č. 42; 2. 6. 1886 se v Chrašticích oženil s Josefínou Bohdaneckou (* 18. 3. 1860 Běštín, † 3. 2. 1904 Kostelec, tuberkulóza), dcerou Karla Bohdaneckého, knížecího revírníka ve Zbenicích č. 1, a Josefy roz. Markesové (?) ze Zvíkova; svědkem byl Josef Bohdanecký, lesmistr na Orlíku (Chraštice 21, fol. 91)",
         "v 80. letech revírník v Lízu u Orlíka; vedl tam meteorologickou stanici (Rozpravy České akademie 1886–1889: „Lis Líz (Gillern)“)",
         "1891–1892 člen Spolku honebního a na ochranu zvěře v Království českém („Gillern Čeněk, revírník, Líz pr. Vorlík“)",
         "1902 uveden ve Schematismu velkých statků (velkostatek Orlík, s. 416)",
         "1904–1905 knížecí schwarzenberský revírník v Kostelci (nad Vltavou)",
-        "1. manželka Josefína roz. Bohdanecká (* 18. 3. 1860 Běštín u Hostomic, † 3. 2. 1904 Kostelec, tuberkulóza)",
-        "děti: dcera Marie (* 18. 9. 1890 Líz, † 12. 1. 1905 Kostelec, tuberkulóza); synové JUDr. Karel (* 20. 6. 1888, † 1953, pohřben v Čimelicích) a JUDr. Bedřich (* 14. 4. 1894 Líz, † 8. 6. 1970) – oba úředníci politické správy (okresní hejtmani)",
         "2. manželka Antonie roz. Volfová z Vídně († 1940, pohřbena v Čimelicích)",
         "později nadlesní, na odpočinku ve Ždákově č. 7 (okr. Milevsko)",
         "† 6. 2. 1942 Ždákov č. 7, 87 let, arterioskleróza; pohřben 9. 2. v rodinném hrobě v Čimelicích – v úmrtním zápisu „Čeněk Giller z Gillernů“ (stejná podoba jména, jakou podle Wikipedie používala česká šlechtická větev)"
@@ -761,7 +760,9 @@
         "o_1889_gillern_linkova",
         "z_1904_gillern_josefina",
         "z_1905_gillern_marie",
-        "z_1942_gillern_cenek"
+        "z_1942_gillern_cenek",
+        "o_1886_gillern_bohdanecka",
+        "n_1887_1894_gillern_liz_rejstrik"
       ],
       "vztahy": [
         {
@@ -800,7 +801,7 @@
       "stav": "lit",
       "vazba": "syn Čeňka z Gillernů – bratranec pradědečka Jana (* 1894)",
       "fakta": [
-        "* 20. 6. 1888 (Status konceptního úřednictva politické správy 1936 a 1940); vyrůstal v Lízu u Orlíka, kde byl otec Čeněk revírníkem",
+        "* 20. 6. 1888 v Lízu č. 2 (fara Bubovice, okres Březnice) – rejstřík narozených Bubovice 17, fol. 28 C; datum potvrzuje i Status politické správy 1936 a 1940",
         "1904–1906 žák c. k. českého státního gymnázia v Praze na Malé Straně – „Giller z Gillern Karel, Lis“ (výroční zprávy 1904/05 a 1905/06); tím je doloženo, že je z Čeňkovy rodiny z Lízu",
         "do státní služby nastoupil 13. 3. 1914 (Status 1936, 1940)",
         "za 1. světové války nadporučík 1. pluku tyrolských císařských myslivců – „Giller v. Gillern Karl, 1. TJR“ (Reichenberger Zeitung 14. 7. 1915; Ranglisten 1916–1917; Feldblatt 1918)",
@@ -838,6 +839,9 @@
           "nazev": "de.wikipedia.org – Gillern",
           "odkaz": "https://de.wikipedia.org/wiki/Gillern"
         }
+      ],
+      "zaznamy": [
+        "n_1887_1894_gillern_liz_rejstrik"
       ]
     },
     "franz_st": {
@@ -1140,13 +1144,15 @@
       "stav": "lit",
       "vazba": "syn Čeňka z Gillernů – bratranec pradědečka Jana (* 1894), narozený v témže roce",
       "fakta": [
-        "* 14. 4. 1894 Líz u Orlíka, † 8. 6. 1970 (dopis K. Vyšína 1978)",
+        "* 14. 4. 1894 v Lízu č. 2 (fara Bubovice, okres Březnice) – rejstřík narozených Bubovice 17, fol. 95 C; † 8. 6. 1970 (dopis K. Vyšína 1978)",
         "za 1. světové války nejspíš poručík v záloze „Friedrich Giller Edler von Gillern“ zeměbraneckého (Landesschützen) pluku, 1917 u Kaiserschützenregimentu III přidělen k leteckému etapnímu parku (Verordnungsblatt der k. k. Landwehr 1916, 1917) – stejný typ tyrolských jednotek jako u bratra Karla",
         "1925 v Praze jako JUDr., místodržitelský koncipista (Chytilův adresář Prahy 1925)",
         "komisař, pak vrchní komisař politické správy na okresním úřadě v Žamberku (asi 1928–1940): 1932 zastupoval okresní úřad, za něj kolaudoval přehradu Pastviny; „okresní hejtman Dr. Gillern ze Žamberka“ (Rodové paměti v Kunčicích)",
-        "1944–1945 okresní hejtman ve Vysokém Mýtě (předseda kuratoria dívčí průmyslové školy), 1947–1948 vrchní rada ONV ve Vysokém Mýtě"
+        "1944–1945 okresní hejtman ve Vysokém Mýtě (předseda kuratoria dívčí průmyslové školy), 1947–1948 vrchní rada ONV ve Vysokém Mýtě",
+        "O jeho osudech existuje práce: Zdeněk Nechanický, „Český šlechtic JUDr. Bedřich Gillern a jeho osudy“ (2022) – v knihovně České genealogické a heraldické společnosti v Praze, č. 12461–12462",
+        "„Bedřich Gillern“ odmaturoval 1948 na gymnáziu ve Vysokém Mýtě (VIII. třída, tř. prof. Marie Michálková) – nejspíš syn (* asi 1930), rodiče seznam neuvádí"
       ],
-      "pozn": "Zápisy „z Gillernu B. (mim.), Kostelec“ (Dějiny technického učení v Praze) a „v. Gillern Friedrich (a. o.), Kosteletz“ (Festschrift německé techniky 1906) jsou z jubilejních publikací kolem roku 1906, kdy bylo Bedřichovi 12 let – nejspíš jde o staršího Bedřicha z Gillernů (lesní příručí v Sedlci 1872), jehož místo v rodu zatím neznáme. V almanachu gymnázia ve Vysokém Mýtě (1979) je mezi absolventy „Bedřich Gillern“ – snad syn; neověřeno.",
+      "pozn": "Zápisy „z Gillernu B. (mim.), Kostelec“ (Dějiny technického učení v Praze) a „v. Gillern Friedrich (a. o.), Kosteletz“ (Festschrift německé techniky 1906) jsou z jubilejních publikací kolem roku 1906, kdy bylo Bedřichovi 12 let – nejspíš jde o staršího Bedřicha z Gillernů (lesní příručí v Sedlci 1872), jehož místo v rodu zatím neznáme.",
       "vztahy": [
         {
           "vztah": "otec",
@@ -1175,6 +1181,9 @@
         {
           "nazev": "Přehrada Pastviny (2011); Rodové paměti v Kunčicích (2006); Almanach 100 let gymnázia ve Vysokém Mýtě (1979) – ČDK, jen úryvky"
         }
+      ],
+      "zaznamy": [
+        "n_1887_1894_gillern_liz_rejstrik"
       ]
     }
   },
@@ -1471,11 +1480,18 @@
                                 "pozn": "nadlesní; „Edler von Gillern“",
                                 "vazba": "doc",
                                 "profil": "cenek",
-                                "manzel": "× 1) Josefína Bohdanecká (1860–1904), × 2) Antonie Volfová z Vídně († 1940)",
+                                "manzel": "× 1) 2. 6. 1886 Chraštice Josefína Bohdanecká (1860–1904), × 2) Antonie Volfová z Vídně († 1940)",
                                 "deti": [
                                   {
+                                    "jmeno": "Vilemína (?)",
+                                    "roky": "* 30. 6. 1887 Líz",
+                                    "pozn": "jen rejstřík (tentýž dům, rodiče neuvedeni)",
+                                    "stav": "doc",
+                                    "vazba": "prob"
+                                  },
+                                  {
                                     "jmeno": "JUDr. Karel z Gillernů",
-                                    "roky": "20. 6. 1888 – 1953",
+                                    "roky": "20. 6. 1888 Líz – 1953",
                                     "pozn": "nadporučík tyrolských myslivců; okresní hejtman Planá, Nové Město n. Met., Mělník, Strakonice",
                                     "stav": "lit",
                                     "vazba": "lit",
@@ -1496,9 +1512,10 @@
                                     "profil": "bedrich",
                                     "deti": [
                                       {
-                                        "jmeno": "Bedřich Gillern (?)",
-                                        "pozn": "absolvent gymnázia ve Vysokém Mýtě (almanach 1979) – snad syn",
-                                        "stav": "hyp",
+                                        "jmeno": "Bedřich Gillern",
+                                        "roky": "maturita 1948 Vysoké Mýto",
+                                        "pozn": "snad syn (* asi 1930)",
+                                        "stav": "lit",
                                         "vazba": "nejiste"
                                       }
                                     ]

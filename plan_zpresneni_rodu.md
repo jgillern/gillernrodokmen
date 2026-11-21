@@ -16,6 +16,21 @@ Prošel jsem všechny nejisté vazby v rodokmenu rodu (hlavní strom, Gillerové
 
 ---
 
+## Průběh (aktualizuje se)
+
+| Krok | Stav | Výsledek |
+|---|---|---|
+| C1 | ✔ částečně | Sinapius (1728, s. 641), čteno z originálu: rod „se dělí od dvou bratrů ve dvě linie“, ale pořadí neurčuje, kdo byl starší. Roku 1723 žil Friedrich Wilhelm I. jako rada a vrchní účetní knížectví Lehnického, Břežského a Volovského a měl pět synů. Spis o šlechtictví z roku 1700 (Rakouský státní archiv) online není. Úmrtí Friedricha Wilhelma I. → kolo 3 pro lokálního Clauda. |
+| C2 | ✔ vyřešeno | Sinapius uvádí Carla Josepha mezi syny Friedricha Wilhelma I. jako sekretáře knížete z Lichtenštejna v Opavě a Krnově. Spolu s křtem 1696 ve Dvorcích to rozhoduje: Karel Josef byl synem Friedricha Wilhelma I. Pohřeb 1762 ve Vídni zůstává v zadání pro ChatGPT jen jako doplněk. |
+| C3 | rozpracováno | Podle Sinapia byl Franz Leopold (syn Friedricha Wilhelma I.) roku 1723 zemským písařem knížectví Minstrberského a Frankenštejnska. Zda je totožný s poštmistrem ve Dvorcích, ukáže rozbor kmotrovství. |
+| A5 | ✔ částečně | Rodopis Nerlichů (Blažek 1890 a 1894): Anton Heinrich von Nerlich († 1731), kancléř Niského knížectví, byl synem knížecího biskupského rady Andrease Nerlicha. Catharina Barbara Eleonora v hesle není; mohla být Andreasovou dcerou. → Kolo 3: křty v Nise 1680–1700, děti Andrease Nerlicha. |
+| A7 | přesun | Wiener Zeitung (ANNO) se z cloudu nedá otevřít → kolo 3 pro lokálního Clauda. |
+| B1 | ✔ bez změny | Úmrtní zápis jasně uvádí 70 let. Totožnost s Františkem Ludvíkem (* 1753) zůstává otevřená. |
+| B3, B5 | ✔ bez výsledku | Ve stažených datech České digitální knihovny nic nového. |
+| C9 | ✔ nová stopa | Ledebur (1855): erb opavských Gillerů „von Lilienfeld“ je prakticky týž jako erb Gillernů. Henel (1704): Lucas Giller de Lilienfeld, rodák z Opavy, doktor medicíny (Basilej 1604), lékař Karla st. ze Žerotína. Slezští Gillernové tedy nejspíš pocházejí z opavských Gillerů. |
+
+---
+
 ## 1. Plán kroků podle priority
 
 ### A – naše přímá linie

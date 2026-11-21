@@ -292,7 +292,7 @@
         "s": 0,
         "r": 2,
         "jmeno": "Karel Josef z Gillernů",
-        "roky": "asi 1692 – 1762",
+        "roky": "1696–1762",
         "pozn": "svob. pán 1732, pán Koryčan",
         "stav": "lit",
         "profil": "karel_josef"
@@ -450,8 +450,8 @@
       {
         "z": "fw1",
         "do": "karel_josef",
-        "typ": "nejiste",
-        "popis": "syn/synovec"
+        "typ": "doc",
+        "popis": "syn"
       },
       {
         "z": "ch",
@@ -987,11 +987,11 @@
     },
     "karel_josef": {
       "jmeno": "Karel Josef svobodný pán z Gillernů",
-      "roky": "asi 1692 – 11. 8. 1762",
+      "roky": "1696 – 11. 8. 1762",
       "stav": "lit",
-      "vazba": "bratranec Carla Heinricha – otce našeho Maximiliána (1. větev); Maximiliánův strýc z druhého kolena",
+      "vazba": "syn Friedricha Wilhelma I. (1. větev) a bratranec Carla Heinricha – otce našeho Maximiliána",
       "fakta": [
-        "Narodil se asi roku 1692 ve Dvorcích u Bruntálu do rodiny 1. větve. Mohl to být Hans Carl, pokřtěný 6. 2. 1690 jako syn Franze Leopolda Gillera, nebo Carl Joseph, pokřtěný 25. 9. 1696 v Karlovci jako syn Friedricha Wilhelma I. – který z nich, zatím nevíme.",
+        "Pokřtěn 25. 9. 1696 ve Dvorcích u Bruntálu jako Carl Joseph, syn Friedricha Wilhelma Gillera, správce na Karlovci, a Anny Marie. Že je to pozdější baron, potvrzuje Sinapius (1728), který ho mezi syny Friedricha Wilhelma I. uvádí jako sekretáře knížete z Lichtenštejna v Opavě a Krnově. (Wikipedie uvádí narození 1691 a otce Franze Leopolda; to se nepotvrdilo – věk 70 let v úmrtním oznámení je zaokrouhlený.)",
         "1728 sekretář knížete z Lichtenštejna v Opavě a Krnově; později lichtenštejnský a císařský dvorní rada a dvorní rada bankovní deputace ve Vídni.",
         "Rakouský mírový vyjednavač za první slezské války; podílel se na tereziánských reformách v Čechách.",
         "Rytířský stav „Edler Herr von Gillern“ (1724/1726) za služby předků ve švédských válkách a uherských nepokojích; český stav svobodných pánů 4. 6. 1732 spolu s bratrancem Johannem Christophem z Gillernů.",
@@ -1001,11 +1001,11 @@
       ],
       "vztahy": [
         {
-          "vztah": "otec (nejspíš)",
+          "vztah": "otec",
           "profil": "fw1"
         },
         {
-          "vztah": "bratr (nejspíš)",
+          "vztah": "bratr",
           "profil": "fw2"
         },
         {
@@ -1115,15 +1115,35 @@
       "jmeno": "Matouš Giller",
       "roky": "16. století",
       "stav": "lit",
-      "vazba": "nejstarší známý nositel šlechtictví v rodu",
+      "vazba": "nejstarší známý nositel šlechtictví „von Lilienfeld“ – nejspíš předek slezských Gillernů (doklad chybí)",
       "fakta": [
-        "10. 4. 1568 ve Vídni český erbovní list s přídomkem „von Lilienfeld“",
-        "rod se podle Wikipedie odvozuje od měšťanů Gillerů z Laufenburgu a Waldshutu (14.–16. století)"
+        "10. 4. 1568 dostal ve Vídni český erbovní list s přídomkem „von Lilienfeld“.",
+        "Gillerové „von Lilienfeld“ byli patricijskou rodinou v Opavě. Patřil k nim i Lucas Giller de Lilienfeld, rodák z Opavy: studoval ve Vratislavi, roku 1604 se stal v Basileji doktorem medicíny, byl lékařem v Greiffenbergu (Gryfów Śląski) a pak mnoho let osobním lékařem Karla staršího ze Žerotína v Rosicích.",
+        "Erb Gillerů z Lilienfeldu – v modrém poli hvězda, v dalších polích šikmé břevno se třemi liliemi – je v podstatě týž jako erb pozdějších svobodných pánů z Gillernů. Roku 1721 dostal Karel Josef „potvrzení“ šlechtictví, což ukazuje na starší šlechtický původ rodu.",
+        "Slezští Gillernové (od podplukovníka Heinricha Christofa v 17. století) tedy nejspíš z opavských Gillerů pocházejí; přímý genealogický doklad zatím chybí.",
+        "Rod se podle Wikipedie odvozuje od měšťanů Gillerů z Laufenburgu a Waldshutu (14.–16. století)."
       ],
-      "vztahy": [],
+      "vztahy": [
+        {
+          "vztah": "nejspíš potomek",
+          "osoba": "heinrich-christof-giller"
+        }
+      ],
       "zdroje": [
         {
           "nazev": "Dopis Karla Vyšína (1978)"
+        },
+        {
+          "nazev": "J. Henel, Silesiographia renovata I (1704), kap. VII – Lucas Gillerus de Lilienfeld",
+          "odkaz": "https://archive.org/details/bub_gb_8Dg_AAAAcAAJ"
+        },
+        {
+          "nazev": "Ledebur, Adelslexicon der preußischen Monarchie I (1855), s. 259",
+          "odkaz": "https://archive.org/details/10428286bsb/page/n274/mode/1up"
+        },
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
         },
         {
           "nazev": "de.wikipedia.org – Gillern",
@@ -1183,10 +1203,10 @@
         "1. větev – Friedrich Wilhelm I. (1651–1728), správce a hejtman v Karlovci u Dvorců u Bruntálu, později císařský rada a vrchní účetní knížectví Lehnického, Břežského a Volovského. Ve Dvorcích se mu v letech 1688–1699 narodilo nejméně osm dětí, mezi nimi Friedrich Wilhelm II. (1688–1751, podplukovník, otec Kristiána z Koryčan). Do jeho rodiny patří i Karel Josef svobodný pán z Gillernů (asi 1692–1762), pán Koryčan. Friedrich Wilhelm I. byl roku 1719 kmotrem našeho Maximiliána.",
         "2. větev – Christoph Heinrich (1646–1717), biskupský hejtman, zastánce protireformace ve Volovském knížectví a od 1706 zemský starší Stínavského kraje. Jeho synové měli statky v Dolním Slezsku: Carl Heinrich, Johann Christoph a Franz Joseph.",
         "Carl Heinrich (1686–1752), pán na Hammeru a Nieder-Krehlau, dvorský soudce a zemský starší Stínavska, × Catharina Barbara Eleonora roz. Nerlich. V letech 1711–1734 se jim v Krehlau narodilo čtrnáct dětí, mezi nimi Maximilián Josef Emanuel (1719) – náš předek –, Johann Friedrich Rudolph (1724, nejspíš pozdější rakouský kapitán Jan Bedřich) a Ernst Heinrich (1730–1792), pruský generálmajor.",
-        "Johann Christoph, hejtman (správce) biskupského panství Preichau a pán na Schreibendorfu, roku 1732 svobodný pán spolu s bratrancem Karlem Josefem; × Maria Martha. Jeho syn Joseph Anton (* 1710) držel Priedemost u Hlohova; vnuk Carl Joseph svobodný pán z Gillernů († 1824) se roku 1785 oženil s Antonií von Nerlich a sídlil na Polnisch-Gandau u Vratislavi.",
+        "Johann Christoph, hejtman (správce) biskupského panství Preichau a pán na Schwebedowě u Milicze, roku 1732 svobodný pán spolu s bratrancem Karlem Josefem; × Maria Martha. Jeho syn Joseph Anton (* 1710) držel Priedemost u Hlohova; vnuk Carl Joseph svobodný pán z Gillernů († 1824) se roku 1785 oženil s Antonií von Nerlich a sídlil na Polnisch-Gandau u Vratislavi.",
         "Franz Joseph, pán na Ober-Krehlau, × Eleonora Hedwig (snad roz. Klinge); v letech 1716–1725 se jim v Krehlau narodilo sedm dětí.",
         "Na přelomu 18. a 19. století žili ve Slezsku další svobodní páni z Gillernů této katolické větve – Johann Christoph na Kulmikau u Stínavy († 1804 v Lehnici), Joseph na Nieder-Kunzendorfu u Minstrberka, kanovnice Maria Josepha „z dědova rodového sídla Rettkau“; z rodu pocházejí i pozdější pruští baroni.",
-        "Statky rodu ve Slezsku: Hammer, Ober- a Nieder-Krehlau, Preichau, Schreibendorf, Priedemost, Rettkau (1723), Sibischau (1781), Peiskern (1788), Polnisch-Gandau (1790), Schützendorf (1793), Kulmikau (1804).",
+        "Statky rodu ve Slezsku: Hammer, Ober- a Nieder-Krehlau, Preichau, Schwebedowa, Priedemost, Rettkau (1723), Sibischau (1781), Peiskern (1788), Polnisch-Gandau (1790), Schützendorf (1793), Kulmikau (1804).",
         "Ve Dvorcích u Bruntálu žily v letech 1688–1787 i měšťanské rodiny Gillerů (poštmistr a purkmistr Franz Leopold, krejčí, tkalci, farář Jan Karel); jak souvisí s rodinou Friedricha Wilhelma I., zatím nevíme."
       ],
       "vztahy": [
@@ -1356,6 +1376,7 @@
         "Byl správcem (Amtmann) a od roku 1694 hejtmanem na Karlovci (Carlsberg) u Dvorců u Bruntálu; Karlovec patřil k šternberskému panství a od roku 1695 Lichtenštejnům. Rodopis ho uvádí i jako bývalého císařského hejtmana.",
         "Manželka Anna Marie. Ve Dvorcích jim v letech 1688–1699 pokřtili nejméně osm dětí: Friedricha Wilhelma (1688), Johannu (1689), Marii Apollonii (1691), Marii Josephu (1694), Marii Theresii (1695), Carla Josepha (1696), Marii Elisabeth (1698) a Hanse Petera (1699). Dcera Magdalena se roku 1692 vdala na Karlovci.",
         "Později žil v Dolním Slezsku: jako rada císaře a komorní účetní knížectví Lehnického, Břežského a Volovského byl roku 1718 a 1721 kmotrem dětí synovce Johanna Christopha v Preichau.",
+        "Roku 1723 (podle Sinapia, 1728) byl ještě naživu a měl pět synů: Franze Leopolda, zemského písaře knížectví Minstrberského a Frankenštejnska; Friedricha Wilhelma, hejtmana pluku barona Geyera v Sedmihradsku; Johanna Petera, praporčíka téhož pluku; Carla Ludwiga, dobrovolníka v armádě; a Carla Josepha, sekretáře knížete z Lichtenštejna v Opavě a Krnově – pozdějšího barona a pána Koryčan.",
         "Roku 1719 byl v Krehlau kmotrem našeho Maximiliána, syna svého synovce Carla Heinricha.",
         "Zemřel roku 1728."
       ],
@@ -1373,7 +1394,7 @@
           "profil": "fw2"
         },
         {
-          "vztah": "syn (nejspíš)",
+          "vztah": "syn",
           "profil": "karel_josef"
         },
         {
@@ -1412,6 +1433,7 @@
       "vazba": "1. větev rodu; bratranec Carla Heinricha, otce našeho Maximiliána",
       "fakta": [
         "Pokřtěn 6. 4. 1688 ve Dvorcích u Bruntálu jako syn Friedricha Wilhelma Gillera, správce na Karlovci, a Anny Marie.",
+        "Roku 1723 hejtman pěšího pluku barona Geyera v Sedmihradsku; v témže pluku sloužil jako praporčík jeho bratr Johann Peter.",
         "Sloužil v císařské armádě, dosáhl hodnosti podplukovníka.",
         "Manželka Anna Marie; syn Kristián Matyáš Antonín se narodil roku 1723 v Lodi v Lombardii – rodina tedy žila tam, kde byl pluk.",
         "Zemřel roku 1751 v Lucemburku.",
@@ -1427,7 +1449,7 @@
           "profil": "kristian"
         },
         {
-          "vztah": "bratr (nejspíš)",
+          "vztah": "bratr",
           "profil": "karel_josef"
         },
         {
@@ -1456,7 +1478,7 @@
       "vazba": "bratr Carla Heinricha – strýc našeho Maximiliána",
       "fakta": [
         "Syn Christopha Heinricha von Giller; bratři Carl Heinrich (náš předek) a Franz Joseph.",
-        "Hejtman (správce) biskupského panství Preichau (dnes Przychowa u Stínavy) – v matrice roku 1710 „Administrator Capitaneatus Preichaviensis“, později „Hauptmann allhier in Preichau“; pán na Schreibendorfu, Rettkau a od roku 1730 na Priedemostu u Hlohova. Úřad v Preichau zastával asi do roku 1742.",
+        "Hejtman (správce) biskupského panství Preichau (dnes Przychowa u Stínavy) – v matrice roku 1710 „Administrator Capitaneatus Preichaviensis“, později „Hauptmann allhier in Preichau“; pán na Schwebedowě ve svobodném stavovském panství Milicz (v matrikách Preichau čteno „Schwibendorf / Schreibendorf“), na Rettkau a od roku 1730 na Priedemostu u Hlohova. Úřad v Preichau zastával asi do roku 1742.",
         "Manželka Maria Martha. Děti pokřtěné v Preichau: Joseph Anton Leopold (6. 9. 1710), Maria Anna Ludovica (?) (12. 4. 1718) a Maria Barbara Francisca (3. 10. 1721); dalšími dcerami byly Maria Carolina a Maria Ludovica, které v letech 1722–1725 v Preichau kmotrovaly.",
         "Roku 1714 byl v Krehlau kmotrem synovce Carla Wilhelma Vita.",
         "4. 6. 1732 získal spolu s bratrancem Karlem Josefem český stav svobodných pánů.",
@@ -1592,7 +1614,7 @@
       "vazba": "bratr Carla Heinricha – strýc našeho Maximiliána",
       "fakta": [
         "Syn Christopha Heinricha von Giller; bratři Carl Heinrich (náš předek) a Johann Christoph.",
-        "Pán na Ober-Krehlau (Horní Krehlau, dnes část Krzelówa u Volova) – sousední statek bratra Carla Heinricha na Nieder-Krehlau.",
+        "Pán na Ober-Krehlau (Horní Krehlau, dnes část Krzelówa u Volova) – sousední statek bratra Carla Heinricha na Nieder-Krehlau; podle Sinapia (1728) také hejtman v Preichau.",
         "Manželka Eleonora Hedwig, snad rozená Klinge (purkmistr Franz Valentin Klinge z Winzigu kmotroval v rodině bratra).",
         "Děti pokřtěné v Krehlau: Christoph Franz Gregor (12. 3. 1716), Maria Anna Johanna Victoria (11. 5. 1717), Johann Heinrich Ferdinand (25. 6. 1718), Maria Elisabeth Apolonia (24. 9. 1719), Anna Josepha Francisca (10. 3. 1721), Maria Barbara Susanna (24. 5. 1722) a Friedrich Joseph Wilhelm (29. 2. 1724).",
         "Roku 1710 byl kmotrem v Preichau."
@@ -1843,7 +1865,7 @@
                       {
                         "jmeno": "Karel Josef svobodný pán z Gillernů",
                         "stav": "doc",
-                        "roky": "asi 1692 – † 11. 8. 1762 Vídeň",
+                        "roky": "křest 25. 9. 1696 Dvorce – † 11. 8. 1762 Vídeň",
                         "pozn": "dvorní rada, svobodný pán 1732, od 1742 pán Koryčan; jediný syn zemřel mladý",
                         "manzel": "× Maria Josefa roz. von Fellner (výtah závěti 1765; jinde „von Tallern“)",
                         "profil": "karel_josef",
@@ -1860,7 +1882,7 @@
                         "stav": "doc",
                         "vazba": "doc",
                         "roky": "křest 19. 1. 1699 Karlovec",
-                        "pozn": "v matrice „Hans Peter“ (dříve čteno Hans Wilhelm); nejspíš Johann Peter, praporčík (Sinapius)"
+                        "pozn": "v matrice „Hans Peter“ (dříve čteno Hans Wilhelm); nejspíš Johann Peter, roku 1723 praporčík pluku barona Geyera (Sinapius)"
                       },
                       {
                         "jmeno": "Carl Ludwig",
@@ -1872,7 +1894,7 @@
                         "jmeno": "Franz Leopold Giller",
                         "stav": "doc",
                         "vazba": "nejiste",
-                        "pozn": "císařský poštmistr a purkmistr ve Dvorcích (1712); Sinapius ho uvádí jako syna Friedricha Wilhelma I., ale děti měl už od 1690 – spíš jeho bratr nebo jiný příbuzný",
+                        "pozn": "podle Sinapia (1728) syn Friedricha Wilhelma I. a roku 1723 zemský písař knížectví Minstrberského a Frankenštejnska; ve Dvorcích je Franz Leopold Giller poštmistrem a purkmistrem (1693–1720) s dětmi od 1690 – zda jde o tutéž osobu, není jisté",
                         "manzel": "× 1) Susanna, × 2) Anna",
                         "deti": [
                           {
@@ -2375,7 +2397,7 @@
                       {
                         "jmeno": "Johann Christoph svobodný pán z Gillernů",
                         "stav": "doc",
-                        "pozn": "hejtman (správce) panství Preichau, pán na Schreibendorfu; svobodný pán 1732",
+                        "pozn": "hejtman (správce) panství Preichau, pán na Schwebedowě a Rettkau; svobodný pán 1732",
                         "roky": "doložen 1710–1725 (Preichau)",
                         "vazba": "lit",
                         "manzel": "× Maria Martha",
@@ -2714,7 +2736,7 @@
             "jmeno": "Matouš Giller",
             "stav": "lit",
             "roky": "erb 1568",
-            "pozn": "český erbovní list s přídomkem „von Lilienfeld“",
+            "pozn": "český erbovní list s přídomkem „von Lilienfeld“ (1568). Gillerové „von Lilienfeld“ byli opavští patricijové; patřil k nim i Lucas Giller de Lilienfeld, rodák z Opavy, doktor medicíny (Basilej 1604) a lékař Karla staršího ze Žerotína v Rosicích. Jejich erb (hvězda a šikmé břevno se třemi liliemi) je v podstatě týž jako erb pozdějších Gillernů a Karel Josef dostal roku 1721 „potvrzení“ šlechtictví – slezský rod tedy nejspíš z opavských Gillerů pochází; přímý doklad chybí.",
             "profil": "matous"
           },
           {

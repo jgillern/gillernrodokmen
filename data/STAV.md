@@ -166,3 +166,18 @@ Revize: `revize_maximilian_fable.md` (kořen repozitáře). Klíčové nálezy o
 6. [B] Koryčany 1742–1800 (MZA) – kmotři u Kristiána (Josefa 1768).
 7. [J] Uhry / FamilySearch (H4, Bedřich po 1771) – nízká.
 **Přestat:** další rejstříky polabských far bez nové indicie; Geneteka pro Dolní Slezsko; hromadný sběr ČDK kvůli 18. stol.; objednávky z Vídně jako další krok; zapisovat do rodokmenu jako „doloženo“, co nikdo neviděl na snímku. Dvorecké měšťany (A1–A8) jen udržovat, nerozvíjet.
+**Zásobník – další body z revize Fable (po prioritách 1–4):**
+- (Fable 7) ZA Opava – Opava, Krnov, Šternberk 1710–1735: křty Gillerů v lichtenštejnské službě (Maximilián?) [B].
+- (Fable 8) Úmrtí Maximiliána 1782–1795 mimo Poděbrady: pražské fary (AHMP rejstříky Z) [A], Brandýs, Stará Boleslav, Kostelec n. L. [B].
+- (Fable 9) Josefův křest a sňatek rodičů 1736–1749 tam, kde se nehledalo: Stará Boleslav, Kostelec n. L. přímo, fary pardubického panství (ARON) [A], lichtenštejnská panství Kostelec n. Č. lesy, Škvorec [B].
+- (Fable 10) Lucemburk 1740–1751 (pohřeb FW II. 1751 se jmény dětí), posádky pluků „Geyer“ a „Platz“; „Herr Giller, Fändrich vom Geyerischen Regiment“ (Wienerisches Diarium 1720) a „Gillern, Obr. Lieut.“ 1744 (ročenka, s. 243, 538 – log 559) přečíst [A/B].
+- (Fable 11) Sňatek Eleonory × Clanner 1780 – Kostelec n. L., Brandýs, Praha [B, A].
+- (Fable 3.6) Ověřit, zda komorní panství Poděbrady, Pardubice, Brandýs spravovala bankovní deputace (Karel Josef v ní byl) [A, literatura].
+- (Fable 3.8) Přečíst celý článek M. Hanuše o Clannerech (pratelepardubicka.cz) – kariéra Clannera, Maximiliánův konec služby [A].
+- (Fable 6.1) Projít všechny zápisy 1750–1786 a vypsat přesné tituly Maximiliána (Baro / L. Baro / Perillustris / Praenobilis) [A z našich výřezů + B].
+- (Fable 6.5) Ověřit na obrazech [N] nálezy: Zimmermann sv. 7, 8, 12; Schlesische Provinzialblätter 15 (1792); Hyrtl 1851 s. 261 (Kristián × Locella, Josefa * 9. 7. 1768) [A].
+- (Fable 6.6) Kostra šlechtického rodu: kdo je Karel Josef (1690/1696), komu patřil Karlovec (cs.wikipedia – po stopce), Friedrich Wilhelm I. – Amtmann Karlovec i účetní v Lehnici? [A].
+- (Fable 6.9) Ověřit výřezy ze Dvorců v PDF zprávách (vložené výřezy N01–N27, O01–O25, Z01–Z31) – já sám z PDF [A].
+- (Fable 6.11) Svědek 1771 „Josephus de Giller“ – otec, nebo syn? (vyřeší seznam titulů a jmen 6.1).
+- (Fable 6.12) Drobnosti: měsíc křtu 1781, příjmení nevěsty 1765 (Neška/Newka), jméno svědka majora 1765; zařazení malíře Josepha Edwarda (Wanowitz) [A].
+- Hledání „první manželky“ a „Josefa kolem 1737“ pozastaveno do ověření věku (Fable 5.2).

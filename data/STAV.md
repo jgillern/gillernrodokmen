@@ -135,3 +135,10 @@ Na mapě jsou jen obce, které jdou určit spolehlivě. 21. 11. 2026 prověřeny
 | 219 Rozyna Hadová | „… Hada (?), sedláka z … (?)“ | obec nečitelná | najít jiný zápis téže rodiny |
 
 Pozn.: Spolí má souřadnice zadané ručně (přibližně); Doubravice = přibližný střed katastru Libíň a Doubravice.
+
+## Plán: rozplétání Dvorců a identita Maximiliána (21. 11. 2026)
+Podrobně v chatu 21. 11. Zkratky: A = vazby ve Dvorcích, H = hypotézy o Maximiliánovi.
+- A1 dva Franzové Leopoldové (Susanna 1690–97 / Anna 1706–09; Susanna † 1724) · A2 František měšťan (1683–1771) = Franz Leopold ml.? · A3 poštmistr Franz Leopold × hejtman FW I. (Sinapius „syn“ vs. chronologie; ověřit rok nar. FW I.) · A4 Christian st. (1643–1711) bratr FW I.? · A5 J. Kašpar tkadlec = „Franz (?) Caspar“ 1713? · A6 švec Karel (1689–1759) = Hans Carl 1690? · A7 zemřelé ženy 1724–1741 · A8 farář Jan Karel, kaplan Jan (katalogy kléru, univerzitní matriky) · A9 Jan Bedřich z Roudna 1757 = kapitán Jan Bedřich baron? · A10 souvislá četba Dvorců 1706–1787, rejstřík N G 1731–1787 (Ignác).
+- H1 vnuk FW I. (syn FW II., Hanse Wilhelma, Johanna Petera) · H2 syn Karla Josefa · H3 2. větev (Johann Christoph, Slezsko) · H4 Franz Niklas (odloženo) · H5 dvorecká měšťanská rodina.
+- Pořadí: 1 Gotha 1884 + Sinapius (sám) · 2 ÖStA katalog Adelsakten (sám) · 3 Geneteka / szukajwarchiwach (sám, Geneteka crawl-delay 120 s) · 4 ČDK/archive.org katalogy kléru a univerzit (sám) · 5 ChatGPT Dvorce II · 6 ChatGPT Roudno + sňatek Maximiliána na Bruntálsku/Opavsku · 7–9 offline (Kriegsarchiv musterlisty IR Pallavicini, MZA závěť K. J., SOkA Bruntál městské knihy Dvorců).
+- Pilnáček, Rody starého Slezska (1972), č. 866: „Giller z Lilienfeldu … na Opavsku; z jejich pošlosti (občanské) snad vyšli později na Moravě usedlí Gillernové“.

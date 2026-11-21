@@ -1,6 +1,7 @@
 ---
 // Stránka o celém rodu (data/rod_<jméno>.json → /rod-<jméno>/): erb, časová osa, větve, schéma napojení, další nositelé jména.
 import Base from '../../layouts/Base.astro';
+import RodStrom from '../../components/RodStrom.astro';
 import stranky from '../../generated/rodove_stranky.json';
 import { people } from '../../lib/data.js';
 
@@ -122,6 +123,7 @@ const HVEZDA = (cx, cy, r) => {
 
   <nav class="rg-toc small" aria-label="Obsah stránky">
     {g && <a href="#napojeni">Jak jsme napojeni</a>}
+    {d.rodokmen && <a href="#rodokmen">Rodokmen rodu</a>}
     {d.osa?.length > 0 && <a href="#osa">Časová osa rodu</a>}
     {d.vetve?.length > 0 && <a href="#vetve">Větve rodu</a>}
     {d.osoby?.length > 0 && <a href="#osoby">Další Gillernové v pramenech</a>}
@@ -132,7 +134,7 @@ const HVEZDA = (cx, cy, r) => {
   {g && (
     <section id="napojeni">
       <h2>Jak jsme napojeni</h2>
-      <p class="muted small">Plná čára = doložený vztah, přerušovaná = domněnka, tečkovaná = vztah zatím neznámý (jen stejný rod). Na každou osobu se dá kliknout – otevře se její profil se vším, co o ní víme.</p>
+      <p class="muted small">Zjednodušené schéma: jak spolu souvisí obě slezské větve a kde by se na ně mohla napojit naše linie. Plná čára = doložený vztah, přerušovaná = domněnka, tečkovaná = vztah zatím neznámý (jen stejný rod). Na každou osobu se dá kliknout – otevře se její profil se vším, co o ní víme.</p>
       <div class="chips">
         {Object.entries(STAV).map(([k, s]) => <span class={`chip ${s.cls}`}>{s.label}</span>)}
         <span class="chip rg-chip-svedek">svědek na svatbě</span>
@@ -173,6 +175,20 @@ const HVEZDA = (cx, cy, r) => {
     </section>
   )}
 
+  {d.rodokmen && (
+    <section id="rodokmen">
+      <h2>Rodokmen rodu</h2>
+      {d.rodokmen.uvod && <p class="muted small">{d.rodokmen.uvod}</p>}
+      {d.rodokmen.casti.map((c) => (
+        <div class="rg-strom">
+          <h3>{c.nadpis}</h3>
+          {c.text && <p class="small muted">{c.text}</p>}
+          <div class="rg-strom-wrap"><RodStrom uzly={c.uzly} slug={slug} profily={d.profily} koren /></div>
+        </div>
+      ))}
+    </section>
+  )}
+
   {d.osa?.length > 0 && (
     <section id="osa">
       <h2>Časová osa rodu</h2>
@@ -200,7 +216,7 @@ const HVEZDA = (cx, cy, r) => {
             <p class="small muted">{v.obdobi}</p>
             <p class="small">{v.text}</p>
             {v.vazba && <p class="small rg-vazba"><strong>Vazba k nám:</strong> {v.vazba}</p>}
-            {profilHref(v.profil) && <p class="small"><a href={profilHref(v.profil)}>Starší rodopis větví →</a></p>}
+            {profilHref(v.profil) && <p class="small"><a href={profilHref(v.profil)}>Podrobnosti →</a></p>}
           </div>
         ))}
       </div>
@@ -270,6 +286,9 @@ const HVEZDA = (cx, cy, r) => {
   .rg-osa li.rg-nase::before { background: #3f7d4a; border-color: #3f7d4a; }
   .rg-osa p { margin: 0.1rem 0; }
   .rg-rok { font: 600 1rem var(--serif); color: #8a5a2b; }
+  .rg-strom { margin: 1.2rem 0 1.6rem; }
+  .rg-strom h3 { margin-bottom: 0.2rem; }
+  .rg-strom-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; padding: 0.6rem 0.4rem; border: 1px solid var(--line); border-radius: 12px; background: var(--paper); }
   .rg-vetev { border-left: 5px solid var(--c); }
   .rg-vazba { background: var(--accent-soft); padding: 0.4rem 0.6rem; border-radius: 6px; }
   @media (max-width: 720px) {

@@ -40,3 +40,6 @@ L3. Čeněk (Vincenc) Löw – majitel domu Nové Město č. 418 (Na hrobci, bý
 L4. Linkovi po roce 1889 – které Lažany („Aloisie z Lažan“ 1894), matriky Z tamějších far po 1889 (Karel, Aloisie), stopy synů Josefa (* 1853) a Františka (* 1855). Plné znění v chatu 21. 11.
 
 B1. Beranovi – sčítání lidu 1910 Velká Jesenice (ARON, SOkA Náchod: sčítací archy) → narození a rodiště Josefa st. a Emilie; záloha: sňatek 1906–1910 v okolních farách (rejstříky O pod B). Plné znění v chatu 21. 11.
+
+## Č1 – Čeňkova linie (21. 11. 2026) – plné znění poslané Janovi v chatu
+Narození Karla (20. 6. 1888), Marie (18. 9. 1890) a Bedřicha (14. 4. 1894) v Lízu u Orlíka – farnost, celé zápisy včetně pozdějších poznámek o sňatku a úmrtí; sňatek Čeňka × Josefína Bohdanecká (asi 1886–1888, Běštín / Hostomice); 2. sňatek s Antonií Volfovou (1904–1910). Etapa 2: sňatky a děti Karla a Bedřicha podle poznámek (SOA Třeboň, SOA Praha, ARON, Porta fontium). Výstup Cenkova_linie_obe_etapy.pdf.

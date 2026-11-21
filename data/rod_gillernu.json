@@ -1351,7 +1351,7 @@
       "stav": "lit",
       "vazba": "bratr našeho předka Christopha Heinricha a zakladatel 1. větve rodu; prastrýc a kmotr našeho Maximiliána",
       "fakta": [
-        "Syn Johanna Christofa Gillera, císařského rytmistra, a Susanne Bartsch von Sternegg; narodil se asi roku 1651.",
+        "Syn Johanna Christofa Gillera, císařského rytmistra, a Susanne Bartsch von Sternegg; rok narození (asi 1651) je nejistý.",
         "Roku 1700 dostal ve Vídni spolu s bratrem Christophem Heinrichem český šlechtický stav.",
         "Byl správcem (Amtmann) a od roku 1694 hejtmanem na Karlovci (Carlsberg) u Dvorců u Bruntálu; Karlovec patřil k šternberskému panství a od roku 1695 Lichtenštejnům. Rodopis ho uvádí i jako bývalého císařského hejtmana.",
         "Manželka Anna Marie. Ve Dvorcích jim v letech 1688–1699 pokřtili nejméně osm dětí: Friedricha Wilhelma (1688), Johannu (1689), Marii Apollonii (1691), Marii Josephu (1694), Marii Theresii (1695), Carla Josepha (1696), Marii Elisabeth (1698) a Hanse Petera (1699). Dcera Magdalena se roku 1692 vdala na Karlovci.",
@@ -1451,15 +1451,16 @@
     },
     "johann_christoph": {
       "jmeno": "Johann Christoph svobodný pán z Gillernů",
-      "roky": "doložen 1705–1732",
+      "roky": "doložen 1705–1742",
       "stav": "doc",
       "vazba": "bratr Carla Heinricha – strýc našeho Maximiliána",
       "fakta": [
         "Syn Christopha Heinricha von Giller; bratři Carl Heinrich (náš předek) a Franz Joseph.",
-        "Hejtman (správce) panství Preichau (dnes Przychowa u Stínavy) – v matrice roku 1710 „Administrator Capitaneatus Preichaviensis“, později „Hauptmann allhier in Preichau“; pán na Schreibendorfu.",
+        "Hejtman (správce) biskupského panství Preichau (dnes Przychowa u Stínavy) – v matrice roku 1710 „Administrator Capitaneatus Preichaviensis“, později „Hauptmann allhier in Preichau“; pán na Schreibendorfu, Rettkau a od roku 1730 na Priedemostu u Hlohova. Úřad v Preichau zastával asi do roku 1742.",
         "Manželka Maria Martha. Děti pokřtěné v Preichau: Joseph Anton Leopold (6. 9. 1710), Maria Anna Ludovica (?) (12. 4. 1718) a Maria Barbara Francisca (3. 10. 1721); dalšími dcerami byly Maria Carolina a Maria Ludovica, které v letech 1722–1725 v Preichau kmotrovaly.",
         "Roku 1714 byl v Krehlau kmotrem synovce Carla Wilhelma Vita.",
         "4. 6. 1732 získal spolu s bratrancem Karlem Josefem český stav svobodných pánů.",
+        "Rettkau zůstalo „rodovým sídlem“ – ještě roku 1792 se jeho vnučka, kanovnice Maria Josepha svobodná paní von Giller, psala „z dědova rodového sídla Rettkau“.",
         "Z jeho linie pocházejí svobodní páni z Gillernů na Polnisch-Gandau u Vratislavi."
       ],
       "vztahy": [
@@ -1503,6 +1504,14 @@
         {
           "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
           "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        },
+        {
+          "nazev": "F. A. Zimmermann, Beyträge zur Beschreibung von Schlesien, sv. 8 (1789)",
+          "odkaz": "https://archive.org/details/10014531bsb"
+        },
+        {
+          "nazev": "Schlesische Provinzialblätter, sv. 15 (1792)",
+          "odkaz": "https://archive.org/details/bub_gb_bZABAAAAYAAJ"
         }
       ],
       "zaznamy": [
@@ -1511,13 +1520,14 @@
     },
     "joseph_anton": {
       "jmeno": "Joseph Anton z Gillernů",
-      "roky": "1710 – ?",
+      "roky": "1710 – před 1765",
       "stav": "prob",
       "vazba": "syn Johanna Christopha z Preichau – bratranec našeho Maximiliána",
       "fakta": [
         "Pokřtěn 6. 9. 1710 v Preichau jako Josephus Antonius Leopoldus, syn Johanna Christopha von Giller, správce panství Preichau, a Marie Marthy.",
-        "Podle rodopisné literatury roku 1757 pán na Priedemostu (Przedmoście) u Hlohova.",
-        "Jeho syn Carl Joseph svobodný pán z Gillernů (* asi 1745) se roku 1785 oženil s Antonií von Nerlich. Že jde o téhož Josepha Antona jako v Preichau 1710, je velmi pravděpodobné (jméno, rod a doba sedí), přímo to ale doloženo není."
+        "Roku 1757 pán na Priedemostu (Przedmoście) u Hlohova, který před ním držel jeho otec.",
+        "Manželka Maria Franziska, rozená hraběnka Osteschau; roku 1765 už je uváděna jako vdova, Joseph Anton tedy zemřel před rokem 1765.",
+        "Jeho syn Carl Joseph svobodný pán z Gillernů (* asi 1745) se roku 1785 oženil s Antonií von Nerlich. Že jde o téhož Josepha Antona jako v Preichau 1710, je velmi pravděpodobné (jméno, rod, doba i statky sedí), přímo to ale doloženo není."
       ],
       "vztahy": [
         {
@@ -1538,8 +1548,7 @@
           "nazev": "Křty Preichau 1696–1750 (katolická matrika, FamilySearch, film 8218293)"
         },
         {
-          "nazev": "Ledebur, Adelslexicon der preußischen Monarchie I (1855), s. 259–260",
-          "odkaz": "https://archive.org/details/10428286bsb/page/n274/mode/1up"
+          "nazev": "de.wikipedia – Przedmoście (Głogów), majitelé vsi podle místní kroniky"
         }
       ]
     },
@@ -2712,7 +2721,7 @@
             "jmeno": "František Mikuláš (Franz Niklas) svobodný pán z Gillernů",
             "stav": "lit",
             "roky": "1673–1727",
-            "pozn": "důstojník, major pevnosti Cheb, uherský baron 1707; od 1715 statky v Taunusu. Hypotéza, že je otcem Maximiliána, zatím bez dokladu",
+            "pozn": "důstojník, major pevnosti Cheb, rytířský stav 1703, uherský baron 1707; od 1715 statky v Taunusu. Jak je spřízněn s ostatními Gillery, nevíme (dřívější domněnka, že byl otcem Maximiliána, padla – Maximilián byl syn Carla Heinricha).",
             "manzel": "× 1704 Eleonore von Cronberg"
           },
           {

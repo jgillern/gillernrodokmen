@@ -101,3 +101,6 @@ Válečný archiv (Kriegsarchiv): musterlisty pěších pluků „Gayer/Geyer“
 - Úmrtí JUDr. Karla 1953 (snad Mariánské Lázně) – matriční úřad Mariánské Lázně.
 
 | Ignác z Gillernů (Mösen u Otmuchova?) | Grund Akten von der rittermäßigen Scholtisei zu Mösen Vol I, 1743–1818; pozemkové knihy Mösen (1785–) a Reisewitz (1792–) | AP Opole, Sąd Obwodowy w Otmuchowie 45/1251/0/11.47/3160, 10.27/414–415, 10.39/521 (bez skenů) | držitelé šoltézství po 1784 – Gillern? |
+
+## Slezští předci (21. 11. 2026)
+- **Krehlau (Krzelów), katolické pohřby 1736–1780** – FamilySearch film 8018561 (jen s klíčkem, z domu nepřístupný): úmrtí Carla Heinricha von Giller (26. 10. 1752 podle literatury) s věkem.

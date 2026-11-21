@@ -1,0 +1,168 @@
+# Plán zpřesnění rodu Gillernů (21. 11. 2026)
+
+Prošel jsem všechny nejisté vazby v rodokmenu rodu (hlavní strom, Gillerové ve Dvorcích, nezařazení) i Gillerny z pramenů, které zatím nikam nepatří. Úplný seznam je v části 3, tady nahoře je plán.
+
+**Priority:**
+- **A – naše přímá linie:** chybějící předci a vazby, na kterých stojí náš rodokmen.
+- **B – nejbližší příbuzní:** sourozenci a strýcové naší linie. Jejich zápisy často prozradí, co u přímých předků chybí.
+- **C – celý rod:** jak spolu souvisejí větve, a tedy kdo je kdo v rodu jako celku.
+- **D – okrajové věci:** jen když bude čas, nebo když se objeví samy při jiné práci.
+
+**Kdo co dělá:**
+- **lokální Claude** – sezení v desktopové aplikaci, pracuje v Janově prohlížeči (FamilySearch, případně Acta Publica);
+- **já** – Claude v cloudu (archive.org, digitální knihovny, rozbor dat, která už máme);
+- **ChatGPT** – archivy, které jsou pro mě zavřené (Matricula, ZA Opava, MZA, eBadatelna);
+- **Jan** – rodina a rodinné doklady.
+
+---
+
+## 1. Plán kroků podle priority
+
+### A – naše přímá linie
+
+| # | Krok | Co tím vyřešíme | Kde | Kdo | Šance / práce |
+|---|---|---|---|---|---|
+| A1 | Pohřby v Krehlau 1719–1737 | Že Maximilián z Krehlau nezemřel jako dítě. Je to jediná věc, která by mohla ztotožnění s naším Maximiliánem shodit. Zároveň dočíst poznámku „NB 3 Maij … alt 24“ u Friedricha Bernharda (1720). | FamilySearch, film 8244728 | lokální Claude (běží v kole 2) | vysoká / malá |
+| A2 | Krehlau křty 1736–1750 a sňatky 1738–1759, filiálka Wischütz | Sňatek Maximiliána a křest Josefa. Dozvěděli bychom se, kdo byla Josefova matka (v rodokmenu je dnes prázdné místo), kdy se Josef narodil (rozpor 1738 nebo 1746/47) a odkud byla Johanna. | FamilySearch, filmy 8244729 a 8245851 | lokální Claude (kolo 2) | střední / střední (zhoršený rukopis; Maximilián mohl být už pryč) |
+| A3 | Krehlau sňatky do roku 1737 | Sňatek Carla Heinricha s Catharinou Nerlichovou (asi 1709–1710). Dostali bychom jména jejích rodičů, tedy dva nové předky. Ze stejné části filmu i sňatek Franze Josepha s Eleonorou Hedwig (byla rozená Klinge?). | stejný film 8244728, oddíl sňatků 1602–1737 | lokální Claude | střední / malá |
+| A4 | Preichau křty 1678–1696 a sňatky 1617–1678 (starší část filmu, kterou jsme ještě neprošli) | Křty synů Christopha Heinricha: Carla Heinricha (1686), Johanna Christopha a Franze Josepha. Dozvěděli bychom se jméno Carlovy matky (dnes prázdné místo) a matrikou bychom potvrdili, že jsou to bratři. | FamilySearch, film 8218293 (snímky před č. 316) | lokální Claude | střední / střední (Christoph Heinrich byl podle rodopisu výběrčí daní ve Vratislavi a děti mohl křtít tam) |
+| A5 | Nerlichové: rodopis Nerlichů (Blažek 1894, s. 30) a pak křest Cathariny Barbary Eleonory v Nise | Rodiče a rok narození Maximiliánovy matky. Doplní A3. | Blažek: knihovna online; Nisa sv. Jakub 1688–1695: FamilySearch | já (Blažek, je-li volně online), lokální Claude (Nisa) | střední / malá až střední |
+| A6 | Kapitán Jan Bedřich: vojenské kmenové listy (Musterlisten) pěšího pluku č. 15 z let 1753–1771. Nejdřív v katalogu FamilySearch ověřit, zda jsou nafilmované. Dále jeho děti ve Vídni 1767–1770 a úmrtí ve Velkém Varadíně po roce 1771. | Kmenové listy uvádějí věk a rodiště. Pokud je kapitán z Krehlau, máme nezávislé potvrzení, že čeští Gillernové pocházejí z rodiny Carla Heinricha. Ve stejných listech je i Franz Anton Gillern (1744–1746). | FamilySearch (katalog), Matricula Vídeň | lokální Claude, ChatGPT | střední / střední |
+| A7 | Kde byl Maximilián v letech 1735–1750 a kde zemřel po roce 1786. Zbývá: sňatky u sv. Štěpána ve Vídni 1735–1750; 22 neprojitých výskytů „Giller/Güller“ ve Wiener Zeitung; Koryčany 1760–1800 souvisle (mohl dožít u příbuzných). | Původ Johanny, Maximiliánova kariéra před Čechami a jeho úmrtí | Matricula, ANNO, MZA (Acta Publica) | ChatGPT (Vídeň, Koryčany), já (ANNO) | nízká / střední |
+
+### B – nejbližší příbuzní naší linie
+
+| # | Krok | Co tím vyřešíme | Kde | Kdo | Šance / práce |
+|---|---|---|---|---|---|
+| B1 | Franz von Gillern († 1817 Malejovice): znovu přečíst úmrtní zápis (věk, poznámky) a dohledat jeho službu (adjunkt u myslivosti) v Poděbradech a na Kolínsku v letech 1770–1810. | Byl to Maximiliánův syn? Pracovní domněnka: je totožný s Františkem Ludvíkem Alexandrem (* 1753 Bor), protože věk v úmrtních zápisech bývá nepřesný. V Malejovicích sloužil Maximiliánův vnuk Clanner, Franz tedy nejspíš dožil u synovce. | výřez máme; eBadatelna | já, ChatGPT | střední / malá |
+| B2 | Jan Gillern z Olešovic (adresát Vyšínova dopisu z roku 1978) – zeptat se v rodině | Byl bratrem dědečka Augustina (* 1924)? | rodina, rodinné doklady | Jan | vysoká / malá |
+| B3 | Synové Františka (1785–1840) a jeho bratři: komu patřila vdova „Marie z Gillernů roz. Jägerová“ († 1886 Gorice) a zda „Joseph von Gillern“, c. k. hejtman ve výslužbě (1847), není Josef Emanuel (* 1789 Býchory), bratr našeho Františka | Doplnění boční větve naší linie | vojenské šematismy (ČDK, ANNO), sňatky v Kutné Hoře 1860–1880 | já, ChatGPT | střední / střední |
+| B4 | Sigisbert Güller († 1775 Poděbrady, vysloužilý kapitán): znovu přečíst zápis (je tam „de“? věk?) | Mohl to být Maximiliánův příbuzný, který dožil u něj. | eBadatelna (výřez od ChatGPT) | ChatGPT nebo já z výřezu | nízká / malá |
+| B5 | Čeňkovy děti Vilemína (1887), Karel (1888) a Bedřich (1894): vazbu na Čeňka zatím dokládá jen rejstřík (stejný dům v Lízu) a literatura | Potvrzení Čeňkovy rodiny (Čeněk byl starší bratr našeho Augustina) | výroční zprávy škol, úmrtní oznámení (ČDK; NDK s Janovým přihlášením) | já (+ Jan pro NDK) | střední / malá |
+
+### C – celý rod
+
+| # | Krok | Co tím vyřešíme | Kde | Kdo | Šance / práce |
+|---|---|---|---|---|---|
+| C1 | Nejstarší generace a dělení větví. Přečíst Sinapia (1728, s. 641) v originále. Dohledat úmrtí Friedricha Wilhelma I. (1728, snad Lehnice). V online katalogu Rakouského státního archivu zjistit, zda je naskenovaný spis o šlechtictví z 20. 8. 1700. | Kdo byl starší bratr a kdy se Friedrich Wilhelm I. narodil. Uvádí se rok 1651, ale jeho dcera se vdávala už 1692 a Franz Leopold měl děti od 1690, takže se narodil spíš kolem roku 1640. Spis o šlechtictví obvykle obsahuje i doklady o předcích. | archive.org, FamilySearch, archivinformationssystem.at | já, lokální Claude | střední / malá |
+| C2 | Karel Josef (pán Koryčan): byl synem Friedricha Wilhelma I. (křest „Carl Joseph“ 1696 ve Dvorcích; jako syna ho uvádí i Sinapius 1728), nebo Franze Leopolda (křest „Hans Carl“ 1690; tak to uvádí Wikipedie)? Zkontrolovat pohřební zápis z Vídně 1762, knihu Der mährische Adel (1899) a to, zda Hans Carl ve Dvorcích nezemřel jako dítě. | Kdo byli bratři Karla Josefa, a tedy jak vypadá 1. větev | Matricula Vídeň, archive.org, ZA Opava | ChatGPT, já | střední / střední |
+| C3 | Franz Leopold, poštmistr a purkmistr ve Dvorcích: byl synem Friedricha Wilhelma I. (tak píše Sinapius), nebo jeho bratrem? Dohledat jeho sňatek (asi 1689) a úmrtí s věkem a rozebrat kmotrovství ve Dvorcích z dat, která už od ChatGPT máme. | Jak souvisí měšťanští Gillerové ve Dvorcích s 1. větví. Rozplete i dva „Franze Leopolda“ (jeden v hlavním stromu, druhý, 1683–1771, ve Dvorcích). | ZA Opava; data, která už máme | já (rozbor), ChatGPT | střední / malá až střední |
+| C4 | Měšťanští Gillerové ve Dvorcích (Christian st., 1643–1711, a potomci): podívat se, zda jim šli za kmotry lidé z rodiny Friedricha Wilhelma I. a co uvádí úmrtní zápis Christiana st. z roku 1711 | Christian st. je vrstevník bratrů Christopha Heinricha a Friedricha Wilhelma I. Mohl to být jejich bratr nebo bratranec. | ZA Opava; data, která už máme | já, ChatGPT | nízká až střední / malá |
+| C5 | Linie Johann Christoph → Joseph Anton → Carl Joseph: najít křest Carla Josepha (asi 1745, Priedemost nebo Hlohov) a další děti obou z tisku | Potvrdí, že Joseph Anton z Preichau (1710) je otcem Carla Josepha | FamilySearch (katalog), archive.org (Provinzialblätter, Zimmermann) | lokální Claude, já | střední / střední |
+| C6 | Pruští Gillernové: abatyše Dominika (1739–1810), major Karl-Joseph (1743–1793), Hugo, Georg a Arnulf; dvě chybějící generace mezi Kristiánem z Koryčan a Oswaldem (* 1828). Projít pozdější ročníky Gothy (1885–1940), dějiny trzebnického kláštera, Kristiánovy syny v koryčanských křtech 1755–1775 a Oswaldův křest (Dobberphul 1828). | Do které větve kdo patří a jak se z koryčanské linie stali pruští baroni | archive.org, MZA, FamilySearch (katalog) | já, ChatGPT, lokální Claude | střední / střední |
+| C7 | František Mikuláš (Franz Niklas, 1673–1727): odkud byl? Dohledat jeho děti v Chebu 1703–1715 a záznam o spisu k rytířskému stavu z roku 1703 v katalogu. | Možná mladší syn Johanna Christofa nebo Heinricha Christofa z druhého manželství | Porta fontium (Cheb), katalog Rakouského státního archivu | já | nízká až střední / malá |
+| C8 | Malíř Joseph Edward (* 1794 Wanowitz u Hlubčic, otec Johann, úředník) a chemik Karl (1895–1971) | Kam patří tzv. vídeňská větev | FamilySearch (katalog), Matricula Vídeň | lokální Claude, ChatGPT | nízká / malá |
+| C9 | Matouš Giller (erb 1568) | Navazuje na slezské Gillery? | online pramen zatím neznáme | – | – |
+
+### D – okrajové
+
+| # | Krok | Poznámka |
+|---|---|---|
+| D1 | Ignác „ve Slezsku“ (1784): křty Ottmachau 1739–1775 | Stovky snímků a pro naši linii na něm nezáleží – až úplně nakonec, nebo vůbec. |
+| D2 | Gillerové z pramenů bez zařazení: poručík Antonín, písař Ondřej, Jindřichův Hradec, důstojníci ze šematismů 1805–1840, Marie (1945), Rosarie Opeltová | Cíleně nehledat. Přiřadit jen tehdy, když se objeví při jiném kroku. |
+| D3 | „Pravděpodobné“ děti ve stromu: dcery Friedricha Wilhelma I. z let 1689 a 1691, děti Franze Leopolda z let 1706 a 1709, Friedrich Bernhard Anton (1720), Anna Rozálie (1787), děti ve Dvorcích | Stačí potvrdit čtení na výřezech, až na ně při jiné práci narazíme. |
+
+---
+
+## 2. Pořadí práce
+
+1. **Teď běží:** lokální Claude, kolo 2 na FamilySearch (A1, A2).
+2. **Hned potom, kolo 3 pro lokálního Clauda.** Všechno jsou to filmy, které už zná, nebo dotazy v katalogu:
+   - A3: sňatky v Krehlau (tentýž film);
+   - A4: Preichau 1678–1696;
+   - A5: Nisa;
+   - A6: katalog vojenských listů;
+   - C1: úmrtí Friedricha Wilhelma I.;
+   - C5: křest Carla Josepha;
+   - C6: Dobberphul;
+   - C8: Wanowitz.
+
+   Zadání připravím, až uvidím výsledky kola 2.
+3. **Já, hned a bez čekání:**
+   - A5: Blažek;
+   - A7: ANNO;
+   - B1: přečíst úmrtní zápis Franze;
+   - B3: šematismy;
+   - B5: školní zprávy;
+   - C1: Sinapius a katalog rakouského archivu;
+   - C2: Der mährische Adel;
+   - C3 a C4: rozbor kmotrovství ve Dvorcích z dat, která už máme;
+   - C6: Gotha;
+   - C7: Porta fontium.
+4. **ChatGPT** – má málo tokenů, takže jedno společné zadání „Vídeň“: sňatky u sv. Štěpána 1735–1750 (A7), pohřeb Karla Josefa 1762 (C2) a děti kapitána Jana Bedřicha 1767–1770 (A6). Další zadání (Dvorce, Koryčany) až podle výsledků.
+5. **Jan:** B2 – zeptat se v rodině na Jana Gillerna z Olešovic.
+
+---
+
+## 3. Všechny nejisté vazby (kontrolní seznam)
+
+### Hlavní strom
+
+| Vazba | Co je nejisté | Krok |
+|---|---|---|
+| Heinrich Christof → Johann Christof → Christoph Heinrich a Friedrich Wilhelm I. | Známe je jen z rodopisů (Gotha 1884, Sinapius 1728); pořadí bratrů a rok 1651 si odporují. | C1, A4 |
+| Christoph Heinrich × ? | Manželka (matka Carla Heinricha) je neznámá. | A4 |
+| Christoph Heinrich → Johann Christoph, Franz Joseph | Bratrství s Carlem Heinrichem známe z literatury a z kmotrovství, matriční doklad chybí. | A4 |
+| Carl Heinrich × Catharina Barbara Eleonora Nerlich | Sňatek doložen křty dětí; datum sňatku a její rodiče chybí. | A3, A5 |
+| Carl Heinrich → Maximilián | Doloženo křtem; zbývá vyloučit, že tento Maximilian zemřel jako dítě. | A1 |
+| Maximilián × 1) ?, × 2) Johanna | Kde a kdy se oženil a odkud byla Johanna, nevíme. | A2, A7 |
+| Maximilián → Josef | Vazba doložena (Josef je 1786 „syn pana Maximiliána“); matka a rok narození jsou nejisté. | A2 |
+| Maximilián → Franz († 1817) | Jen domněnka. | B1 |
+| Carl Heinrich → Johann Friedrich Rudolph = kapitán Jan Bedřich | Pravděpodobné, ne doložené. | A6 |
+| Carl Heinrich → Friedrich Bernhard Anton (1720) | Nejisté čtení zápisu. | A1 (poznámka „NB“), D3 |
+| Johann Christoph → Joseph Anton → Carl Joseph | Joseph Anton je doložen křtem 1710; že je otcem Carla Josepha, je pravděpodobné. | C5 |
+| Franz Joseph × Eleonora Hedwig „roz. Klinge?“ | Rodné jméno je jen domněnka. | A3 |
+| Friedrich Wilhelm I. → Karel Josef | Sporné: Carl Joseph (1696), nebo Hans Carl (1690, syn Franze Leopolda)? | C2 |
+| Friedrich Wilhelm I. → Franz Leopold | Sporné: syn, nebo bratr? | C3 |
+| Friedrich Wilhelm I. → Carl Ludwig | Zná ho jen Sinapius, křest nenalezen. | C1 |
+| Friedrich Wilhelm I. → Johanna (1689), Maria Apollonia (1691) | Pravděpodobné. | D3 |
+| Franz Leopold → Maria Johanna (1706), Frantz Philipp (1709) | Pravděpodobné. | C3, D3 |
+| Kristián → Marie Josefa | Z literatury. | C6 |
+| Kristián → … → Oswald (* 1828) → Arthur | Dvě generace chybí. | C6 |
+| Čeněk → Vilemína, Karel, Bedřich | Rejstřík a literatura. | B5 |
+| Karel → Ester; Bedřich → Bedřich (maturita 1948) | Jen domněnky; 20. století, zčásti možná žijící. | B5, jen bude-li potřeba |
+| Jan z Gillernů (1894) → Jan z Olešovic | Údaj od rodiny, nepotvrzený. | B2 |
+| Josef → Anna Rozálie (1787) | Pravděpodobné. | D3 |
+
+### Gillerové ve Dvorcích
+
+| Vazba | Co je nejisté | Krok |
+|---|---|---|
+| Celá skupina ↔ rodina Friedricha Wilhelma I. | Souvislost neznáme. | C3, C4 |
+| Christian st. → Elisabeth, Anna | Pravděpodobné. | C4, D3 |
+| Christian ml. → Anna Maria, Joannes Caspar (čteno i „Franz (?) Caspar“) | Pravděpodobné. | C4, D3 |
+| Joannes Caspar → čtyři děti | Pravděpodobné. | D3 |
+| Franciscus (Franz Leopold ?), 1683–1771 | Je to Franz Leopold z hlavního stromu, nebo jiný člověk (syn)? | C3 |
+| jeho děti (Rosalia, Anna Maria, Jan Karel – farář, Augustin …) | Pravděpodobné. | D3 |
+| František ml. (snad řezník † 1735) | Totožnost nejistá. | C4 |
+| další Gillerové (Karel 1716, Jan 1715, Ondřej, kaplan Jan 1755, Jan Bedřich z Roudna 1757) | Nezařazení. | C4, D2 |
+
+### Zatím nezařazení
+
+| Osoba | Krok |
+|---|---|
+| Matouš Giller (erb 1568) | C9 |
+| František Mikuláš (1673–1727) | C7 |
+| Pruští Gillernové 18.–20. století | C6 |
+| Vídeňská větev | C8 |
+| Franz Anton Gillern (pluk č. 15, 1744–1746) | A6 |
+| Ignác „ve Slezsku“ (1784) | D1 |
+
+### Další Gillernové v pramenech (seznam na rodové stránce)
+
+| Osoba | Krok |
+|---|---|
+| Franz von Gillern († 1817) | B1 |
+| Marie roz. Jägerová († 1886), Joseph von Gillern (1847) | B3 |
+| Sigisbert Güller († 1775) | B4 |
+| ostatní (Antonín, Ondřej, Jindřichův Hradec, šematismy, Marie 1945, Rosarie Opeltová, Karl 1895–1971) | D2, C8 |
+
+---
+
+## Opravy provedené při revizi (21. 11. 2026)
+- Podle rodopisu z roku 1884 pocházel Johann Christof z prvního manželství Heinricha Christofa s rozenou von Tschammer. Doplněna jako předkyně (osoba 4097), u Heinricha Christofa doplněn pluk Wrbna.
+- U Christopha Heinricha doplněn úřad vrchního výběrčího daní ve Vratislavi (rodopis z roku 1884).
+- Domněnka, že Maximiliánovým otcem byl František Mikuláš, je na webu označena jako vyvrácená.
+- Joseph Anton: manželka Maria Franziska roz. hraběnka Osteschau, zemřel před rokem 1765; zdroj ke statku Priedemost opraven.
+- Johann Christoph: statky Rettkau a Priedemost (1730), úřad v Preichau asi do roku 1742.
+- Rok narození Friedricha Wilhelma I. (1651) je na webu označen jako nejistý.

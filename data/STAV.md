@@ -7,6 +7,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 ## ★ PRŮLOM 21. 11. 2026 – Maximilián pochází z Krehlau (Slezsko), 2. větev
 Křest 4. 3. (?) 1719 Krehlau (Krzelów u Volova): **Maximilianus Joseph Emanuel, syn Carla Heinricha v. Giller (Hammer) × Catharina Barbara Eleonora roz. Nerlich** (log 601; FamilySearch film 8244728 sn. 435). Linie: Heinrich Christof → Johann Christof → **Christoph Heinrich (1646–1717)** → **Carl Heinrich (1686–1752)** → **Maximilián (1719)** → Josef → František → … Bratři: generál Ernst Heinrich (1730), nejspíš kapitán Jan Bedřich = Johann Friedrich Rudolph (1724). H3 potvrzena, H1/H5 odpadají.
 Další kroky (online, Claude v Janově prohlížeči / FamilySearch): (1) pohřby Krehlau 1719–1737 (8244728) – nezemřel Maximilian jako dítě?; (2) Krehlau 8244729 (N 1736–1773, O 1738–1759) – sňatek Maximiliána s Johannou, křest Josefa (~1738/1746), Maximilián jako kmotr; (3) filiálka Wischütz (8245851, N/O/Z 1720–1758); (4) úmrtí Carla Heinricha 1752 (Krehlau Z 1736–1780 jen s klíčkem – 8018561). Kde byl Maximilián 1735–1750 (rakouská armáda? lesní služba?) – otevřené.
+**Plán zpřesnění celého rodu (všechny nejisté vazby, priority A–D, kdo co dělá): `plan_zpresneni_rodu.md` (21. 11. 2026).**
 
 ## Pro koho
 - Výchozí osoba: Jan Gillern (rok a místo narození doplnit). Cíl: rodokmen co nejdál do minulosti.

@@ -2296,5 +2296,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "o_1936_beran_sluneckova": {
+  "boxes": [
+   [
+    0.005,
+    0.005,
+    0.995,
+    0.995
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis č. 4 (levá a pravá polovina dvojstrany)"
  }
 }

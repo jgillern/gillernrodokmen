@@ -525,5 +525,12 @@
   "lon": 14.395,
   "osm": "Bratříkovice, Mokřany, Nechvalice, okres Příbram, Středočeský kraj, Česko",
   "pozn": "asi 4 km od Vitína, kde žila Zelenkova dcera"
+ },
+ "Robousy": {
+  "re": "Robou",
+  "dotaz": "Robousy, Česko",
+  "lat": 50.4329,
+  "lon": 15.3976,
+  "osm": "Robousy, Jičín, okres Jičín, Královéhradecký kraj, Česko"
  }
 }

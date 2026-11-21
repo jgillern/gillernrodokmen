@@ -2011,5 +2011,37 @@
   "shrnuti": "Polabské noviny 18. 1. 1928, s. 5: „Po Kroužkovi Ignátovi zůstaly z prvého manželství 2 dcery: Rosálie a Marie … Dcera Rosálie roz. 30. ledna 1745 provdala se za panského lesníka Ignáta z Gillern-ů, který pocházel z Míšně ve Slezsku. Povila dceru Annu, která v útlém věku 2 let zemřela r. 1772.“ Sestra Marie (* 26. 6. 1750) × 1) Josef Kloušek, dělostřelec pluku Ahrenberg, 2) František Zinder (Zünderf) z Velkého Varadína, 3) 1789 Matěj Jelínek. Údaj „z Míšně ve Slezsku“ autor zřejmě převzal z křtu 1784 („in Silesia Incola Misnie“); sňatek Rosálie s Ignácem matrika zatím nedokládá (Anna † 1772 zapsána jen jako dcera Rosálie Kroužkové).",
   "strana": "s. 5",
   "odkaz": "https://www.ceskadigitalniknihovna.cz/uuid/uuid:0e6a3d24-c978-11e5-851a-005056b5ed69"
+ },
+ {
+  "klic": "o_1936_beran_sluneckova",
+  "druh": "O",
+  "datum": "11. 10. 1936",
+  "nazev": "Sňatek Josefa Berana a Ludmily Slunečkové, Pravonín",
+  "shrnuti": "11. 10. 1936 v kostele v Pravoníně (farář František Vacek): Josef Beran, majitel cihelny v Pravoníně č. 72, nar. 13. 6. 1910 ve Velké Jesenici č. 82 (okr. soud Česká Skalice, okr. úřad Náchod), syn Josefa Berana, mistra cihlářského v Pravoníně č. 72, a Emilie rodem (dcery) Františka Kozáka z Robous č. 75, 26¼ roku, svobodný – a Ludmila Slunečková, nar. 7. 4. 1916 v Palčicích č. 6, dcera Františka Slunečka, domkáře v Bukové č. 8, a Ludmily rodem Jana Svatka z Bukové č. 5, 20½ roku, svobodná (bydliště Buková č. 8). Svědci Josef Beran, mistr cihlářský v Pravoníně č. 72, a Jan Svatek, výměnkář v Bukové č. 5. Otec nezletilé nevěsty svolil (podpis Slunečko František). Křestní list ženicha z Velké Jesenice 17. 9. 1936, nevěsty ze Zhoře.",
+  "svazek": "pravonin_26",
+  "strana": "200",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/15260/141",
+  "pozn": "Oddíl Buková, zápis č. 4, snímek 141 (zpráva ChatGPT D, výřez ověřen). Rejstřík (snímek 188) uvádí datum 10. 10. 1936."
+ },
+ {
+  "klic": "i_n_1916_sluneckova_ludmila",
+  "druh": "N",
+  "datum": "7. 4. 1916",
+  "nazev": "Rejstřík narozených: Ludmila Slunečková, Palčice",
+  "shrnuti": "Rejstřík narozených fary Zhoř (Zhoř 14): 7. dubna 1916 – Slunečková Ludmila – otec František, matka Ludmila Svatková – Palčice č. 6 – matrika V, s. 226. Jen rejstřík; samotná matrika s rokem 1916 online není.",
+  "svazek": "zhor_14",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/9169/63",
+  "pozn": "Snímek 63, pravá strana (s. 78) (zpráva ChatGPT D, výřez ověřen)."
+ },
+ {
+  "klic": "n_1882_kozakova_emilie",
+  "druh": "N",
+  "datum": "8. 7. 1882",
+  "nazev": "Narození Emilie Marie Kozákové, Robousy (fara Jičín) – kandidátka",
+  "shrnuti": "8. 7. 1882 narozena a pokřtěna (Jos. Jidler (?), kaplan) v Robousích č. 33: Emilie Marie, dcera Františka Kozáka, podruha v Robousích č. 33, syna † Václava Kozáka, podruha ze Želejova č. 1 (okr. Turnov), a Františky dcery Václava Ouhrábka, chalupníka v Boskově č. 59 (okr. Semily) – a Barbory, dcery † Jana Kapla, podruha z Robous č. 48, a Anny dcery Františka Kozáka, domkáře z Popovic. Kmotři Marie Kopecká, vdova po † Josefu Kopeckém, rolníku v Robousích č. 33, a Jan Studnička, obuvník v Robousích č. 34. Porodní bába Františka Záděrová z Jičína č. 57. KANDIDÁTKA na Emilii Beranovou: sňatek syna 1936 jmenuje jejího otce Františka Kozáka z Robous č. 75; v Robousích jiná vhodná Emilie Kozáková 1872–1896 není (Emilie * 13. 12. 1896 z č. 51 je dcera Josefa Kozáka – příliš mladá). Spojení č. 33 → č. 75 zatím nedoloženo.",
+  "svazek": "jicin_70_3361",
+  "strana": "13",
+  "odkaz": "https://aron.vychodoceskearchivy.cz/apu/6965d7a1-245b-4202-a440-c7a4a46b263b",
+  "pozn": "Snímek 16, 3. zápis (zpráva ChatGPT D; výřez ověřen – číslo domu 33, ne 93; babička z otcovy strany „Ouhrábka … v Boskově č. 59“, ne „Petráška“). Rejstřík Jičín 70-3358, snímek 119."
  }
 ]

@@ -146,6 +146,8 @@ Podrobně v chatu 21. 11. Zkratky: A = vazby ve Dvorcích, H = hypotézy o Maxim
 - Pořadí: 1 Gotha 1884 + Sinapius (sám) · 2 ÖStA katalog Adelsakten (sám) · 3 Geneteka / szukajwarchiwach (sám, Geneteka crawl-delay 120 s) · 4 ČDK/archive.org katalogy kléru a univerzit (sám) · 5 ChatGPT Dvorce II · 6 ChatGPT Roudno + sňatek Maximiliána na Bruntálsku/Opavsku · 7–9 offline (Kriegsarchiv musterlisty IR Pallavicini, MZA závěť K. J., SOkA Bruntál městské knihy Dvorců).
 - Pilnáček, Rody starého Slezska (1972), č. 866: „Giller z Lilienfeldu … na Opavsku; z jejich pošlosti (občanské) snad vyšli později na Moravě usedlí Gillernové“.
 
+## Zásada (Jan 21. 11. 2026, důrazně): Janovi NENAVRHOVAT osobní návštěvy (archivy, střediska FamilySearch, badatelny). Pracovat jen s tím, co je online; offline věci jen tiše evidovat v archivni_dotazy.md.
+
 ## Zásada (Jan 21. 11. 2026): před zápisem do archivních dotazů vždy nejdřív projít online cesty
 Kontrolní seznam: ČDK/Kramerius ve všech tvarech jména (Gillern, Gillernová/-ové/-ovou/-a/-em, Gillernů, z Gillern, Giller) + OCR celé stránky přes API (veřejné dokumenty); tištěné ročenky, adresáře, školní výroční zprávy, výsledky pozemkové reformy, oznámení v novinách (narozeniny, úmrtí, sňatky); ARON/Porta fontium kroniky; katalogy archivů (ÖStA, ARON, eBadatelna – seznamy); Geneteka; web (genealogické portály, hroby); teprve pak archiv / úřad.
 

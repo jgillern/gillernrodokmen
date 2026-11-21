@@ -155,3 +155,14 @@ Kontrolní seznam: ČDK/Kramerius ve všech tvarech jména (Gillern, Gillernová
 - **Karel** – snad dcera Ester (Praha, Planá u M. L., 1934–36).
 - **Kutná Hora**: Marie z G. roz. Jägrová († 1886 Gorice, vdova po nadlesním) → který syn Františka (1785–1840) byl nadlesním?
 - **Poděbradsko 19. stol.**: Rosarie z G. × řezník František Opelt (vdova × 1876 Jan Jambor) → potomci Josefových dětí v Polabí?
+
+## Plán po revizi Fable (21. 11. 2026) – NAHRAZUJE pořadí v „Plán: rozplétání Dvorců…“
+Revize: `revize_maximilian_fable.md` (kořen repozitáře). Klíčové nálezy ověřeny na obrazech (log 570). Fable = externí konzultant (Jan 21. 11.): obracet se na něj u strategických otázek a sporných čtení.
+1. **[B] Poděbrady – jedno zadání pro ChatGPT:** (a) sňatek **Ignáce z Gillernů × Rosálie Kroužková** (* 30. 1. 1745) asi 1765–1770 + křest dcery Anny asi 1770 a její úmrtí 1772 → Ignácovi rodiče a rodiště („Mišné ve Slezsku“); (b) souvisle sňatky 5/1745–2/1756 (kniha 11837 – nikdo nečetl; Maximilián × Johanna?); (c) znovu na plném rozlišení: Sigisbert Güller † 5. 2. 1775 (11867/49), slovo za „Incola“ 1784 (11845/10), věky obou Josefů 1786 (11863/7), úmrtí 1782 (Maximilián † 1782 podle knihy 1924?), Čelákovice 1762 (4722/449), poručík Antonín Giller (11872/22, /81), invalida Josef Gillar † 7. 7. 1792.
+2. **[A] Kapitán Bedřich:** Rona (IR 15) – přečíst s. 235–247 a pasáže 1753 (Como) z obrazů; vojenské a dvorské schematismy 1772–1795 (archive.org) – rok zmizení = úmrtí/penze; [J/B] Vídeň 1767–1770 křty (GenTeam – Jan by si musel zřídit účet; Matricula – B); Velký Varadín po 1771 (dostupnost online neověřena).
+3. **[A] Slezská baronská větev z tisku** (archive.org fulltext: Schlesische Provinzialblätter 1785–1810, Zimmermann, Zedlitz-Neukirch II s. 234) → tabulka dětí Johanna Christopha a Josepha Antona; zařadit Ignáce, Bedřicha, Maximiliána. Zjistit, kde je „Mišné“.
+4. **[A] Polabské noviny 18. 1. 1928, s. 5** – článek o rodu Kroužků (Ignác); obraz stránky (DNNT) – zkusit odkaz ČDK; zjistit autora a jeho prameny.
+5. [J] Vídeň GenTeam (rodina Karla Josefa, pohřeb 1759) – nižší priorita, H2 prakticky vyloučena.
+6. [B] Koryčany 1742–1800 (MZA) – kmotři u Kristiána (Josefa 1768).
+7. [J] Uhry / FamilySearch (H4, Bedřich po 1771) – nízká.
+**Přestat:** další rejstříky polabských far bez nové indicie; Geneteka pro Dolní Slezsko; hromadný sběr ČDK kvůli 18. stol.; objednávky z Vídně jako další krok; zapisovat do rodokmenu jako „doloženo“, co nikdo neviděl na snímku. Dvorecké měšťany (A1–A8) jen udržovat, nerozvíjet.

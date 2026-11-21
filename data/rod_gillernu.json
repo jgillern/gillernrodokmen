@@ -30,7 +30,7 @@
     },
     {
       "rok": "1696",
-      "text": "V Karlovci u Dvorců je 25. 9. pokřtěn Carl Joseph, syn Friedricha Wilhelma Gillera, hejtmana panství Karlovec řádu německých rytířů, a Anny Marie – pozdější Karel Josef svobodný pán z Gillernů, pán Koryčan.",
+      "text": "V Karlovci u Dvorců je 25. 9. pokřtěn Carl Joseph, syn Friedricha Wilhelma Gillera, „zdejšího hejtmana“, a Anny Marie. Zda je to pozdější Karel Josef svobodný pán z Gillernů, pán Koryčan, není jisté – Wikipedie ho má za syna Franze Leopolda (* 1691; ve Dvorcích pokřtěn 1690 Hans Carl, syn Franze Leopolda).",
       "zdroj": "ZA Opava, matrika Dvorce Dv I 1 O 2, snímek 80 (zpráva ChatGPT, výřez ověřen)"
     },
     {
@@ -217,7 +217,7 @@
       "nazev": "1. větev – Dvorce, Koryčany a pruští baroni",
       "obdobi": "1688–20. století",
       "barva": "#8f5b6e",
-      "text": "Friedrich Wilhelm I. Giller (1651–1728), správce a pak hejtman panství Karlovec (Carlsberg) řádu německých rytířů u Dvorců u Bruntálu (Hof). Ve Dvorcích dal v letech 1688–1699 pokřtít nejméně osm dětí, mezi nimi Friedricha Wilhelma II. (1688, podplukovník) a Carla Josepha (1696) – pozdějšího dvorního radu Karla Josefa, svobodného pána od 1732 a od 1742 pána Koryčan. Podle Sinapia měl i syny Johanna Petera a Carla Ludwiga. Karel Josef synovy nezanechal; Koryčany přešly na synovce Kristiána Matyáše (* 1723, syn Friedricha Wilhelma II.), od něhož podle Gothy pocházejí i pruští baroni 19. století. Ve Dvorcích žili také měšťanští Gillerové (Christian, František, krejčí, tkalci, farář Jan Karel) – vazba na hejtmanovu rodinu zatím neznámá.",
+      "text": "Friedrich Wilhelm I. Giller (1651–1728), správce (Amtmann) a pak „hejtman“ v Karlovci (Carlsberg) u Dvorců u Bruntálu (Hof) – Karlovec patřil k šternberskému panství, od 1695 Lichtenštejnům (ne řádu německých rytířů, jak jsme dřív psali). Ve Dvorcích dal v letech 1688–1699 pokřtít nejméně osm dětí, mezi nimi Friedricha Wilhelma II. (1688, podplukovník) a Carla Josepha (1696) – pozdějšího dvorního radu Karla Josefa, svobodného pána od 1732 a od 1742 pána Koryčan. Podle Sinapia měl i syny Johanna Petera a Carla Ludwiga. Karel Josef synovy nezanechal; Koryčany přešly na synovce Kristiána Matyáše (* 1723, syn Friedricha Wilhelma II.), od něhož podle Gothy pocházejí i pruští baroni 19. století. Ve Dvorcích žili také měšťanští Gillerové (Christian, František, krejčí, tkalci, farář Jan Karel) – vazba na hejtmanovu rodinu zatím neznámá.",
       "vazba": "Přímo od Karla Josefa ani Kristiána pocházet nemůžeme. Maximilián ale může být vnukem Friedricha Wilhelma I. – synem Friedricha Wilhelma II., Hanse Wilhelma (* 1699) nebo jiného z bratrů. Ve Dvorcích se jeho křest v letech 1688–1730 nenašel; rodina sloužila i jinde (Lodi, Lucemburk).",
       "profil": "karel_josef"
     },
@@ -576,16 +576,17 @@
     },
     {
       "jmeno": "Jan Bedřich (Friedrich) baron z Gillernů",
-      "roky": "1761–1766",
-      "text": "Kapitán císařského pěšího pluku hraběte Pallaviciniho. 1761 svědek (v zastoupení) při křtu Maximiliánova syna v Kladrubech, × 17. 2. 1765 Pardubice Anna Nešková (?), 1766 svědek při křtu Maximiliánova syna Jana Bedřicha v Čelákovicích. Blízký příbuzný Maximiliána – bratr, bratranec nebo synovec?",
-      "zdroj": "matriky Kladruby n. L., Pardubice (ARON), Čelákovice (eBadatelna 4722)",
-      "stav": "doc"
+      "roky": "1753–1771",
+      "text": "Kapitán (Hauptmann) pěšího pluku č. 15 (hrabě Pallavicini) od 1753, 1771 major a velitel místa ve Velkém Varadíně; v seznamu důstojníků „Gillern Friedrich, Baron“. 1761 svědek v zastoupení a 1766 osobně svědek u křtů Maximiliánových dětí; 17. 2. 1765 × Pardubice Anna, dcera měšťana Josefa Nešky (?).",
+      "zdroj": "Kladruby 1761, Pardubice 1765, Čelákovice 1766; L. Rona, Geschichte des IR 15 (1901), s. 98, 235–247",
+      "stav": "doc",
+      "odkaz": "https://archive.org/details/bub_gb_wWTRAAAAMAAJ/page/n758/mode/1up"
     },
     {
       "jmeno": "Ignác z Gillernů („Ignatius de Gillern“)",
-      "roky": "1784",
-      "text": "„Ve Slezsku“ – kmotr Maximiliána Clannera v Poděbradech 1784, zastoupil ho řezník František Kratochvíl.",
-      "zdroj": "matrika Poděbrady 15, pag. 74 (eBadatelna 11845/10)",
+      "roky": "asi 1770; 1784",
+      "text": "Panský lesník na Poděbradsku, „který pocházel z Mišné (?) ve Slezsku“; manželka Rosálie, dcera poděbradského řezníka Ignáta Kroužka, * 30. 1. 1745; jejich dcera Anna zemřela 1772 ve věku 2 let (Polabské noviny 18. 1. 1928, s. 5 – článek o rodu Kroužků; zatím jen úryvek z vyhledávání). 1784 kmotr (v zastoupení) Maximiliánova vnuka Maximiliána Clannera jako „Ignatius de Gillern in Silesia incola“. Ignác tedy kolem 1770 sloužil přímo u Maximiliána – blízký příbuzný ze Slezska (syn? synovec? bratr?).",
+      "zdroj": "Poděbrady N 1784; Polabské noviny 1928",
       "stav": "doc"
     },
     {
@@ -988,7 +989,7 @@
       "stav": "lit",
       "vazba": "syn Friedricha Wilhelma I. (1. větev); vztah k poděbradskému Maximiliánovi zatím neznámý",
       "fakta": [
-        "pokřtěn 25. 9. 1696 v Karlovci (Carlsberg, farnost Dvorce u Bruntálu) jako Carl Joseph, syn „Fridrich Wilhelm Giller, Haubtman alhier“ (hejtman panství Karlovec) a Anny Marie; kmotři Hans Rotter (?) a Maria Theresia R…in (ZA Opava, Dv I 1 O 2, snímek 80) – potvrzuje Sinapia (syn Friedricha Wilhelma I.); Wikipedie uvádí rok 1691 a otce Franze Leopolda – nejspíš omyl",
+        "Narození – NEROZHODNUTO: (a) Carl Joseph, pokřtěn 25. 9. 1696 v Karlovci, syn „Fridrich Wilhelm Giller, Haubtman alhier“ a Anny Marie (ZA Opava, Dv I 1 O 2, sn. 80 – výřez ověřen) – souhlasí se Sinapiem (1728), který Carla Josepha řadí mezi syny Friedricha Wilhelma I.; (b) Hans (Johann) Carl, pokřtěn 6. 2. 1690 ve Dvorcích, syn Franze Leopolda a Susanny – souhlasí s Wikipedií (* 1691, otec Franz Leopold, strýc Friedrich) a s tím, že se psal „Johann Karl Joseph“ (šlechtický spis 1721)",
         "lichtenštejnský a císařský dvorní rada; rakouský mírový vyjednavač za první slezské války; podílel se na tereziánských reformách v Čechách",
         "rytířský stav „Edler Herr von Gillern“ – za služby předků ve švédských válkách a uherských nepokojích (zdroje uvádějí 4. 4. 1724 i 5. 3. 1726)",
         "dvorní rada a císařský rada 17. 3. 1726",
@@ -998,7 +999,9 @@
         "1728 sekretář knížete z Lichtenštejna v Opavě a Krnově (Sinapius)",
         "29. 12. 1742 koupil Koryčany od Antona Emericha Horeckého z Horky za 164 000 zl. rýnských, tehdy „k. k. Hofkammer-Bankalrath“ (d'Elvert 1874)",
         "manželka Maria Josepha roz. von Tallern; 1759 jí Koryčany odkázal, jako náhradního dědice určil bratrance („Vetter“) Kristiána Matyáše (Der mährische Adel 1899, s. 37)",
-        "podle Vyškovského sborníku (2020) zemřel 11. 8. 1762 a Kristián spravoval Koryčany od 1765 – rozpor s rokem 1759 (rok závěti?) zatím nerozhodnut"
+        "podle Vyškovského sborníku (2020) zemřel 11. 8. 1762 a Kristián spravoval Koryčany od 1765 – rozpor s rokem 1759 (rok závěti?) zatím nerozhodnut",
+        "Podle německé Wikipedie zemřel na podzim 1759 ve Vídni, pohřben u sv. Štěpána; syn mu zemřel mladý, proto Koryčany odkázal manželce a synovci Kristiánovi",
+        "Výtah závěti vdovy (Monatsblatt der Heraldischen Gesellschaft Adler IV, s. 442, ověřeno na obrazu stránky): „Gillern, Maria Josefa, Freiin, geb. von Fellner, p. 1765. Geschwister: Karl Josef, Johann Adam und Maria Theresia, verehel. Freiin von Locella“ – jmenuje jen její sourozence, žádné děti → Maximilián jejich synem nebyl (hypotéza H2 prakticky vyloučena)"
       ],
       "vztahy": [],
       "zdroje": [
@@ -1027,6 +1030,10 @@
         {
           "nazev": "d'Elvert, Notizen-Blatt 1874, č. 9, s. [65]",
           "odkaz": "https://sbc.org.pl/Content/11743/PDF/11743.pdf#page=67"
+        },
+        {
+          "nazev": "Monatsblatt der Kais. Kön. Heraldischen Gesellschaft „Adler“, sv. IV, s. 442",
+          "odkaz": "https://archive.org/details/monatsblattdesh01adlgoog/page/n454/mode/1up"
         }
       ]
     },
@@ -1041,7 +1048,8 @@
         "rytířský stav „von Gillern“ 27. 3. 1763 (Gotha) / 1764 (Rakouský státní archiv), český inkolát 29. 3. 1764",
         "rakouský stav svobodných pánů 21. 6. 1766",
         "náhradní dědic Koryčan po bratranci Karlu Josefovi (1759); závětí z 31. 10. 1791 odkázal Koryčany dceři Marii Josefě, provdané za Konstantina svobodného pána Münch von Bellinghausen (1793)",
-        "pradědeček Oswalda svobodného pána z Gillernů (* 1828, Dobberphul u Štětína) – tedy předek pruských baronů (Gotha 1884)"
+        "pradědeček Oswalda svobodného pána z Gillernů (* 1828, Dobberphul u Štětína) – tedy předek pruských baronů (Gotha 1884)",
+        "manželka M. Karolina svobodná paní z Locella (rodina sestry vdovy po Karlu Josefovi); dcera Josefa * 9. 7. 1768 (Hyrtl 1851, s. 261 – podle revize, neověřeno)"
       ],
       "vztahy": [],
       "zdroje": [
@@ -1119,10 +1127,11 @@
         "2. větev – mladší bratr „N.“ (jméno neuvedeno); synové: Carl Heinrich (na Hammeru, zemský starší ve Steinau), Johann Christoph (na Schwebedowa, hejtman v Preichau; 1732 svobodný pán spolu s bratrancem Karlem Josefem), Frantz Joseph (na Ober-Kreulau, hejtman v Preichau)",
         "slezské statky rodu podle Ledebura: Hammer, Ober-Krehlau, Preichau, Priedemost, Rettkau (1723), Sibischau (1781), Peiskern (1788), Polnisch-Gandau (1790), Schützendorf (1793), Kulmickau (1804) – mohou vymezit, kde hledat Ignáce „ve Slezsku“ (1784)",
         "Maximilián, Josef, Eleonora ani Ignác v žádném z rodopisů nejsou; Maximilián se tedy zatím nedá přiřadit k žádné větvi",
-        "Dvorce u Bruntálu (ZA Opava, 1688–1787): Friedrich Wilhelm I. × Anna Maria, správce a od 1694 hejtman panství Karlovec řádu německých rytířů, tu dal pokřtít děti Friedricha Wilhelma (1688), Johannu (1689), Marii Apollonii (1691), Marii R. Josephu (1694), Marii Theresii (1695), Carla Josepha (1696), Marii Elisabeth (1698) a Hanse Wilhelma (1699); dcera Magdalena se 1692 vdala. Franz Leopold Giller (poštmistr a purkmistr ve Dvorcích) měl děti už od 1690 – Sinapiova zmínka, že je synem Friedricha Wilhelma I., tak nejspíš neplatí. Kmotry dětí byli komtuři řádu německých rytířů, 1694 mezi nimi „Maximilian … svobodný pán“ – jméno Maximilián tedy v okolí rodiny bylo. Maximilián, Josef ani Ignác mezi křty 1688–1730 nejsou.",
+        "Dvorce u Bruntálu (ZA Opava, 1688–1787): Friedrich Wilhelm I. × Anna Maria, správce a od 1694 „hejtman“ v Karlovci (šternberské panství, od 1695 lichtenštejnské), tu dal pokřtít děti Friedricha Wilhelma (1688), Johannu (1689), Marii Apollonii (1691), Marii R. Josephu (1694), Marii Theresii (1695), Carla Josepha (1696), Marii Elisabeth (1698) a Hanse Wilhelma (1699); dcera Magdalena se 1692 vdala. Franz Leopold Giller (poštmistr a purkmistr ve Dvorcích) měl děti už od 1690 – Sinapiova zmínka, že je synem Friedricha Wilhelma I., tak nejspíš neplatí. Kmotry dětí byli komtuři řádu německých rytířů ze sousedního Bruntálu, 1694 mezi nimi „Maximilian … svobodný pán“ – jméno Maximilián tedy v okolí rodiny bylo. Maximilián, Josef ani Ignác mezi křty 1688–1730 nejsou.",
         "Gotha 1884 (s. 276, přečteno ze skenu): Heinrich Christof Giller, císařský podplukovník pluku „Webna“, usazen ve vsi Deschna, dvakrát ženatý, 1. manželka roz. von Tschammer → syn Johann Christof, rytmistr pluku „Gallas“ × Susanne Bartsch von Sternegg → synové Christoph Heinrich, vrchní výběrčí daní ve Vratislavi, a Friedrich Wilhelm I., „vormals kaiserl. Hauptmann, dann Amtmann in Karlsburg“ (odtud „Haubtman“ v matrice Dvorců) – český šlechtický stav Vídeň 20. 8. 1700. Friedrich Wilhelm I. „hinterließ einen Sohn“ (Gotha sleduje jen jednu linii): Friedrich Wilhelm II. (* 4. 4. 1688 Dvorce, † 1751 Lucemburk), podplukovník pěšího pluku „Gayer“, pak pluku „Platz“ × Anna Maria (rodné jméno neuvedeno) → Kristián Matyáš Antonín (* 16. 5. 1723 Lodi). Rok narození Friedricha Wilhelma I. Gotha neuvádí (1651 je z Wikipedie).",
         "Sinapius 1728 (text archive.org): 1. linie – Friedrich Wilhelm von Giller, císařský rada a vrchní účetní knížectví Lehnice, Břeh a Volov, „annoch im Leben“; jeho synové (stav 1723): Franz Leopold, zemský písař knížectví Minstrberk a frankenštejnského okrsku; Friedrich Wilhelm, hejtman pluku barona Geyera v Sedmihradsku; [Johann Peter, Carl Ludwig]; Carl Joseph, sekretář knížete z Lichtenštejna v Opavě a Krnově. 2. linie – N. von Giller, synové 1723: Carl Heinrich na Hammeru (zemský starší a dvorský soudce Steinau), Johann Christoph na Schwebedowě (hejtman biskupského úřadu Preichau), Frantz Joseph na Ober-Krehlau.",
-        "Rakouský státní archiv (katalog, 21. 11. 2026): šlechtické spisy AVA Adel RAA 143.32 (Franz Niklas 1703), 143.33 (Johann Karl Joseph 1721 – opis listu z 20. 8. 1700), 143.35 (Karl Joseph 1726 – ověřené opisy 1707, 1721, 1722, 1724), 143.34 a 143.36 (Kristián 1764, 1766), HAA AR 287.48–287.51, 288.1–288.2; FHKA SUS Fam.A. G-102 (1722–1766); HHStA OMaA 821-7 – pozůstalostní řízení „Maria Josefa Gillern Freiin, vdova po c. k. dvorním radovi“ (1765) – vyjmenuje dědice; FA Harrach 518.19 (korespondence Karla Josefa 1738–41). Online jsou jen obrázky erbů, spisy je nutné objednat. Mimochodem: 1742 poštmistr v Trnavě Severinus Eusebius Giller (FA Paar 51.10)."
+        "Rakouský státní archiv (katalog, 21. 11. 2026): šlechtické spisy AVA Adel RAA 143.32 (Franz Niklas 1703), 143.33 (Johann Karl Joseph 1721 – opis listu z 20. 8. 1700), 143.35 (Karl Joseph 1726 – ověřené opisy 1707, 1721, 1722, 1724), 143.34 a 143.36 (Kristián 1764, 1766), HAA AR 287.48–287.51, 288.1–288.2; FHKA SUS Fam.A. G-102 (1722–1766); HHStA OMaA 821-7 – pozůstalostní řízení „Maria Josefa Gillern Freiin, vdova po c. k. dvorním radovi“ (1765) – vyjmenuje dědice; FA Harrach 518.19 (korespondence Karla Josefa 1738–41). Online jsou jen obrázky erbů, spisy je nutné objednat. Mimochodem: 1742 poštmistr v Trnavě Severinus Eusebius Giller (FA Paar 51.10).",
+        "Slezská baronská (2.) větev podle tisku 18. století (revize Fable 21. 11. 2026, čteno z OCR, zatím neověřeno na obrazech): Johann Christoph svobodný pán z Gillernů na Rettkau, hejtman biskupského úřadu Preichau, asi do 1742 (Zimmermann, Beyträge zur Beschreibung von Schlesien 8, 1789); Priedemost u Hlohova: Johann Christoph (1730), Joseph Anton (1757), vdova Maria Franziska roz. hraběnka Osteschau (1765); 80. léta: „Freyherr v. Gillern“ koupil Culmikau (Stínavsko) a Gorkau (Zimmermann 7, 1787); 1792 se baronce „von Giller zu Culmickau“ narodil syn Christian Ludwig Antonius; kanovnice „Maria Josepha Freyin von Giller, aus dem großväterlichen Stammhause Rettkau“ (Schlesische Provinzialblätter 15, 1792). Větev katolická, ve službách vratislavského biskupa."
       ],
       "vztahy": [
         {
@@ -1215,7 +1224,7 @@
     "casti": [
       {
         "nadpis": "Slezský kmen a jeho dvě větve",
-        "text": "Podle Sinapia (1728) a Gothajského kalendáře (1884).",
+        "text": "Podle Sinapia (1728) a Gothajského kalendáře (1884); křty ve Dvorcích podle zprávy ChatGPT (výřezy neověřeny, ověřen jen křest Carla Josepha 1696).",
         "uzly": [
           {
             "jmeno": "Heinrich Christof Giller",
@@ -1237,20 +1246,20 @@
                     "jmeno": "Friedrich Wilhelm I. Giller",
                     "stav": "lit",
                     "roky": "1651 (?) – 1728",
-                    "pozn": "správce (Amtmann), od 1694 hejtman panství Karlovec řádu německých rytířů; děti křtěny ve Dvorcích 1688–1699 (kmotry byli komtuři řádu)",
+                    "pozn": "správce (Amtmann) v Karlovci, od 1694 „Haubtman“ (vojenská hodnost – Gotha: „vormals kaiserl. Hauptmann“); Karlovec patřil k šternberskému panství, od 1695 Lichtenštejnům; děti křtěny ve Dvorcích 1688–1699 (kmotry byli komtuři řádu)",
                     "manzel": "× Anna Marie",
                     "profil": "rodopis",
                     "popis": "1. větev",
                     "deti": [
                       {
                         "jmeno": "Magdalena",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "manzel": "× 31. 1. 1692 Frantz Hoor ze Šternberka"
                       },
                       {
                         "jmeno": "Friedrich Wilhelm II.",
-                        "stav": "doc",
+                        "stav": "prob",
                         "roky": "křest 6. 4. 1688 Karlovec – † 1751 Lucemburk",
                         "pozn": "císařský podplukovník; totožnost s křtěncem 1688 velmi pravděpodobná",
                         "manzel": "× Anna Marie",
@@ -1294,52 +1303,52 @@
                           }
                         ],
                         "id": "fw2",
-                        "vazba": "doc"
+                        "vazba": "prob"
                       },
                       {
                         "jmeno": "Johanna",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "roky": "křest 29. 11. 1689"
                       },
                       {
                         "jmeno": "Maria Apollonia",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "roky": "křest 21. 8. 1691"
                       },
                       {
                         "jmeno": "Maria R. Josepha",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "roky": "křest 17. 3. 1694",
                         "pozn": "kmotr Maximilian … svobodný pán, komtur řádu německých rytířů"
                       },
                       {
                         "jmeno": "Maria Theresia",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "roky": "křest 20. 11. 1695"
                       },
                       {
                         "jmeno": "Karel Josef svobodný pán z Gillernů",
                         "stav": "doc",
-                        "roky": "křest 25. 9. 1696 Karlovec – † 1759/1762",
-                        "pozn": "dvorní rada; rytíř 1724/26, svobodný pán 1732; 1742 koupil Koryčany; synové nejsou známi. Křest 1696 potvrzuje Sinapia (otec Friedrich Wilhelm I.), ne Wikipedii (1691, otec Franz Leopold)",
-                        "manzel": "× Maria Josepha roz. von Tallern",
+                        "roky": "1690 nebo 1696 – † podzim 1759 Vídeň (?)",
+                        "pozn": "dvorní rada; rytíř 1724/26, svobodný pán 1732; 1742 koupil Koryčany; syn zemřel mladý (Wikipedie). Totožnost nerozhodnuta: Carl Joseph * 1696 (syn Friedricha Wilhelma I., výřez ověřen) nebo Hans Carl * 1690 (syn Franze Leopolda – tak Wikipedie: * 1691, otec Franz Leopold; sám se psal Johann Karl Joseph)",
+                        "manzel": "× Maria Josefa roz. von Fellner (výtah závěti 1765; jinde „von Tallern“)",
                         "profil": "karel_josef",
                         "vazba": "doc"
                       },
                       {
                         "jmeno": "Maria Elisabeth",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "roky": "křest 23. 2. 1698"
                       },
                       {
                         "jmeno": "Hans Wilhelm",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "roky": "křest 19. 1. 1699"
                       },
                       {
@@ -1356,48 +1365,48 @@
                       },
                       {
                         "jmeno": "Franz Leopold Giller",
-                        "stav": "doc",
+                        "stav": "prob",
                         "vazba": "nejiste",
                         "pozn": "císařský poštmistr a purkmistr ve Dvorcích (1712); Sinapius ho uvádí jako syna Friedricha Wilhelma I., ale děti měl už od 1690 – spíš jeho bratr nebo jiný příbuzný",
                         "manzel": "× 1) Susanna, × 2) Anna",
                         "deti": [
                           {
                             "jmeno": "Maria Elisabeth",
-                            "stav": "doc",
-                            "vazba": "doc",
+                            "stav": "prob",
+                            "vazba": "prob",
                             "pozn": "× 7. 9. 1705 Dvorce"
                           },
                           {
                             "jmeno": "Hans Carl",
-                            "stav": "doc",
-                            "vazba": "doc",
+                            "stav": "prob",
+                            "vazba": "prob",
                             "roky": "křest 6. 2. 1690",
                             "pozn": "snad Karel Giller, švec ve Dvorcích († 1759, 70 let)"
                           },
                           {
                             "jmeno": "Anna Rosina",
-                            "stav": "doc",
-                            "vazba": "doc",
+                            "stav": "prob",
+                            "vazba": "prob",
                             "roky": "křest 27. 2. 1694",
                             "manzel": "× 1712 Johann Anton Knapp, hejtman v Opavě (?)"
                           },
                           {
                             "jmeno": "Joanna Theresia",
-                            "stav": "doc",
-                            "vazba": "doc",
+                            "stav": "prob",
+                            "vazba": "prob",
                             "roky": "křest 11. 7. 1697",
                             "pozn": "snad × 1716 J. S. Schirmer, lesní jezdec ve Šternberku"
                           },
                           {
                             "jmeno": "Maria Johanna",
-                            "stav": "doc",
-                            "vazba": "doc",
+                            "stav": "prob",
+                            "vazba": "prob",
                             "roky": "1706"
                           },
                           {
                             "jmeno": "Frantz Philipp",
-                            "stav": "doc",
-                            "vazba": "doc",
+                            "stav": "prob",
+                            "vazba": "prob",
                             "roky": "křest 2. 5. 1709"
                           }
                         ]
@@ -1804,8 +1813,8 @@
               {
                 "jmeno": "Jan Bedřich (Friedrich) baron z Gillernů",
                 "stav": "doc",
-                "roky": "doložen 1761–1766",
-                "pozn": "kapitán pluku Pallavicini; svědek u Maximiliánových dětí",
+                "roky": "doložen 1753–1771",
+                "pozn": "1753 hejtman pěšího pluku č. 15 (Pallavicini), 1760 u plukovního depozitoria, 1766 Brno, 1767–70 Vídeň, 1771 major a velitel místa ve Velkém Varadíně (Rona, dějiny pluku 1901, v seznamu „Gillern Friedrich, Baron“); svědek u Maximiliánových dětí 1761 a 1766",
                 "vazba": "nejiste",
                 "popis": "příbuzný – bratr? bratranec?",
                 "manzel": "× 1765 Pardubice Anna Nešková (?)"
@@ -1813,8 +1822,8 @@
               {
                 "jmeno": "Ignác z Gillernů „ve Slezsku“",
                 "stav": "doc",
-                "roky": "1784",
-                "pozn": "kmotr (v zastoupení) Maximiliánova vnuka v Poděbradech",
+                "roky": "asi 1770 Poděbrady; 1784 ve Slezsku",
+                "pozn": "panský lesník, „pocházel z Mišné (?) ve Slezsku“; × Rosálie Kroužková (* 30. 1. 1745 Poděbrady), dcera Anna † 1772 ve 2 letech (Polabské noviny 1928); 1784 kmotr (v zastoupení) Maximiliánova vnuka",
                 "vazba": "nejiste",
                 "popis": "příbuzný?"
               }
@@ -1826,49 +1835,49 @@
       },
       {
         "nadpis": "Gillerové ve Dvorcích – měšťané a řemeslníci",
-        "text": "Matriky Dvorce u Bruntálu 1688–1787 (ZA Opava, zpráva ChatGPT 21. 11. 2026). Vazba na šlechtický kmen zatím neznámá.",
+        "text": "Matriky Dvorce u Bruntálu 1688–1787 (ZA Opava) – čteno druhým asistentem (zpráva ChatGPT 21. 11. 2026), výřezy zatím neověřeny, proto „pravděpodobné“. Vazba na šlechtický kmen neznámá.",
         "uzly": [
           {
             "jmeno": "Christian Giller st.",
-            "stav": "doc",
-            "vazba": "doc",
+            "stav": "prob",
+            "vazba": "prob",
             "roky": "asi 1643 – † 7. 7. 1711 Dvorce",
             "deti": [
               {
                 "jmeno": "Elisabeth",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "manzel": "× 15. 11. 1688 Michael Titz (?)"
               },
               {
                 "jmeno": "Anna",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "manzel": "× 15. 11. 1689 Hans Georg Klebl (?)"
               },
               {
                 "jmeno": "Christian Giller ml.",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "asi 1681 – † 17. 8. 1755",
                 "pozn": "měšťan ve Dvorcích",
                 "manzel": "× 1) 1708 Maria Magdalena Wunderlich, × 2) 1749 Rosina, vdova Krone z Májůvky",
                 "deti": [
                   {
                     "jmeno": "Maria Elisabeth",
-                    "stav": "doc",
-                    "vazba": "doc",
+                    "stav": "prob",
+                    "vazba": "prob",
                     "roky": "křest 30. 11. 1709"
                   },
                   {
                     "jmeno": "Anna Maria",
-                    "stav": "doc",
-                    "vazba": "doc",
+                    "stav": "prob",
+                    "vazba": "prob",
                     "roky": "1711–1713"
                   },
                   {
                     "jmeno": "Joannes Caspar Giller",
-                    "stav": "doc",
+                    "stav": "prob",
                     "vazba": "prob",
                     "roky": "křest 22. 11. 1713 – † 30. 7. 1770",
                     "pozn": "tkadlec; křest čten „Franz (?) Caspar“",
@@ -1876,34 +1885,34 @@
                     "deti": [
                       {
                         "jmeno": "Anna Maria",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "manzel": "× 1770 Franz Kolbe, tkadlec"
                       },
                       {
                         "jmeno": "Carl Joseph",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "roky": "† 1759"
                       },
                       {
                         "jmeno": "Maria Magdalena",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "roky": "† 1762"
                       },
                       {
                         "jmeno": "dcera",
-                        "stav": "doc",
-                        "vazba": "doc",
+                        "stav": "prob",
+                        "vazba": "prob",
                         "roky": "† 1763"
                       }
                     ]
                   },
                   {
                     "jmeno": "Anna Rosina",
-                    "stav": "doc",
-                    "vazba": "doc",
+                    "stav": "prob",
+                    "vazba": "prob",
                     "roky": "1716"
                   }
                 ]
@@ -1912,97 +1921,97 @@
           },
           {
             "jmeno": "Franciscus (Franz Leopold ?) Giller",
-            "stav": "doc",
-            "vazba": "doc",
+            "stav": "prob",
+            "vazba": "prob",
             "roky": "asi 1683 – † 20. 5. 1771",
             "pozn": "měšťan ve Dvorcích, dům č. 31; u křtu 1716 „Francisc. Leop.“",
             "manzel": "× Elisabeth",
             "deti": [
               {
                 "jmeno": "Rosalia",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "1712–1714"
               },
               {
                 "jmeno": "Anna Maria",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "křest 6. 5. 1714"
               },
               {
                 "jmeno": "Johanna Theresia",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "křest 24. 6. 1716"
               },
               {
                 "jmeno": "Jan Karel Giller",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "křest 26. 9. 1718 – † 19. 6. 1769",
                 "pozn": "farář ve Dvorcích, pohřben v kryptě kostela"
               },
               {
                 "jmeno": "Magdalena",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "křest 9. 2. 1721"
               },
               {
                 "jmeno": "Jan Filip",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "1723–1727"
               },
               {
                 "jmeno": "Maria Elisabeth",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "křest 17. 10. 1725"
               },
               {
                 "jmeno": "Josef",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "1728–1749"
               },
               {
                 "jmeno": "Augustin Giller",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "asi 1733 – † 30. 7. 1783",
                 "pozn": "krejčí, měšťan ve Dvorcích č. 15",
                 "manzel": "× 1755 Anna Maria Wunderlich, dcera chirurga",
                 "deti": [
                   {
                     "jmeno": "Maria Theresia",
-                    "stav": "doc",
-                    "vazba": "doc",
+                    "stav": "prob",
+                    "vazba": "prob",
                     "roky": "† 1757"
                   },
                   {
                     "jmeno": "Anna Rosa",
-                    "stav": "doc",
-                    "vazba": "doc",
+                    "stav": "prob",
+                    "vazba": "prob",
                     "roky": "† 1766"
                   },
                   {
                     "jmeno": "Jan",
-                    "stav": "doc",
-                    "vazba": "doc",
+                    "stav": "prob",
+                    "vazba": "prob",
                     "roky": "† 1774"
                   },
                   {
                     "jmeno": "Magdalena",
-                    "stav": "doc",
-                    "vazba": "doc",
+                    "stav": "prob",
+                    "vazba": "prob",
                     "manzel": "× 1781 Josef Müller, pekař"
                   },
                   {
                     "jmeno": "Jan Giller",
-                    "stav": "doc",
-                    "vazba": "doc",
+                    "stav": "prob",
+                    "vazba": "prob",
                     "roky": "tkadlec",
                     "manzel": "× 1783 Magdalena Altman"
                   }
@@ -2012,28 +2021,28 @@
           },
           {
             "jmeno": "František Giller ml.",
-            "stav": "doc",
-            "vazba": "doc",
+            "stav": "prob",
+            "vazba": "prob",
             "pozn": "snad řezník František († 1735, 31 let)",
             "manzel": "× 20. 10. 1725 Maria Theresia Loserth (?)",
             "deti": [
               {
                 "jmeno": "Maria Johanna",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "křest 30. 10. 1726"
               },
               {
                 "jmeno": "Jan František",
-                "stav": "doc",
-                "vazba": "doc",
+                "stav": "prob",
+                "vazba": "prob",
                 "roky": "křest 29. 7. 1729"
               }
             ]
           },
           {
             "jmeno": "Další Gillerové ve Dvorcích a okolí",
-            "stav": "doc",
+            "stav": "prob",
             "vazba": "nejiste",
             "pozn": "Karel × 1716 Rosina; Jan z …dorfu × 1715 Maria Elisabeth Müller (Karlovec); Ondřej (svědek 1716); Jan Giller, kaplan v Reigersdorfu (1755); Jan Bedřich Giller z Roudna (svědek 1757)"
           }
@@ -2073,7 +2082,14 @@
             "jmeno": "Vídeňská větev",
             "stav": "lit",
             "roky": "19.–20. století",
-            "pozn": "malíř Joseph Edward z Gillernů (1794–1845); chemik Karl Gillern (1895–1971)"
+            "pozn": "chemik Karl Gillern (1895–1971). Malíř Joseph Edward z Gillernů (1794–1845) se podle Wikipedie narodil ve Wanowitz u Hlubčic v pruském Slezsku (otec Johann, úředník) – patří spíš ke slezským Gillernům (neověřeno)"
+          },
+          {
+            "jmeno": "Franz Anton Gillern",
+            "roky": "1744–1746",
+            "pozn": "praporčík „z civilu“ 1744, poručík, 1746 rezignoval – pěší pluk č. 15 (tehdy v Itálii), týž pluk jako kapitán Bedřich (Rona 1901, s. 98)",
+            "stav": "lit",
+            "vazba": "lit"
           }
         ]
       }

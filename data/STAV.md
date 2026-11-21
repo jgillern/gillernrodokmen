@@ -25,6 +25,9 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 | `pracovni/` | Pracovní soubory (stažené stránky, kontrolní obrázky) – nejdou na web. |
 | `web/` | Rodinný web. `cd web && npm run nahled` (data + sestavení + náhled); po změně dat stačí `npm run data && npm run build`. |
 
+## Přístupy k pramenům (aktualizovat)
+- **Národní digitální knihovna – díla nedostupná na trhu (DNNT):** Jan má od 21. 11. 2026 vzdálenou registraci NK ČR (bankovní identita, 100 Kč, platí 365 dní – do 21. 11. 2027). Po přihlášení na ndk.cz („Přihlásit se knihovním účtem/eduID“ → Národní knihovna ČR) čte stránky s licencí „dnnto“ (noviny, časopisy, knihy cca do 2007, které nejsou na trhu). Postup: já najdu přes API ČDK úryvek a PID stránky (accessibility „private“, licenses „dnnto“) → pošlu Janovi odkaz https://ndk.cz/uuid/<pid> → Jan pošle snímek obrazovky. Stránky jen „onsite“ (bez dnnto) jdou jen ve studovně NK. První použití: blahopřání Julii 1967 (j_1967_gillernova_julie).
+
 ## Pravidla
 1. Než něco ohlásím jako nové, prohledám `osoby.py`, `zaznamy.json` a `research_log.md` (jméno, místo, rok).
 2. Údaj je „doloženo“ (doc) jen tehdy, když jsem ho přečetl přímo na snímku. Čtení od pomocníků ověřím sám.

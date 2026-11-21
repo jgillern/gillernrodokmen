@@ -77,3 +77,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - (19. 11.) Profily osob zobrazují „Zajímavosti“, které na osobu odkazují (web/src/lib/zajimavosti.js + components/ZajimavostiOsoby.astro): oddíl ## v zajimavosti.md s odkazem /osoba/<slug>/ nebo /rod-<jméno>/<id>/ → karta s ukázkou a proklikem na kotvu nadpisu. Hodilo by se do skillu obecně.
 
 - 21. 11. 2026 – `tools/kramerius7_uryvky.py`: ČDK (API v7) teď vrací klíče ve `highlighting` jako „root_pid!pid“, takže nástroj ukládal prázdné úryvky. Opraveno (klíč se bere za posledním „!“) – vhodné převzít do skillu.
+
+- 21. 11. 2026 – Díla nedostupná na trhu (DNNT) v NDK: uživatel si může za 100 Kč/rok zřídit vzdálenou registraci NK ČR přes bankovní identitu (registrace.nkp.cz) a pak číst na ndk.cz stránky s licencí „dnnto“ (noviny 20. století – parte, blahopřání, oznámení sňatků). Agent je najde přes API ČDK (úryvky + pole licenses/licenses_of_ancestors) a pošle uživateli seznam odkazů ndk.cz/uuid/<pid>. Stálo by za to přidat do skillu jako standardní krok i jako pomocný nástroj (výpis neveřejných stránek s licencí dnnto pro uživatele).

@@ -24,7 +24,7 @@ while st["celkem"] is None or st["start"] < st["celkem"]:
     req = urllib.request.Request(API + urllib.parse.urlencode(p), headers={"User-Agent": slusne.UA})
     d = json.loads(urllib.request.urlopen(req, timeout=120).read())
     st["celkem"] = d["response"]["numFound"]
-    hl = d.get("highlighting", {})
+    hl = {k.split("!")[-1]: v for k, v in d.get("highlighting", {}).items()}   # klíče bývají „root_pid!pid“ (změna API 2026)
     with open(OUT, "a", encoding="utf-8") as f:
         for x in d["response"]["docs"]:
             x["uryvky"] = hl.get(x["pid"], {}).get("text_ocr", [])

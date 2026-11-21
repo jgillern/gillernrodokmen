@@ -75,3 +75,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - Uživatel chtěl samostatnou sekci o celém rodu (šlechtické větve, souvislosti mimo přímou linii). Udělal jsem obecný mechanismus: `data/rod_<jméno>.json` → stránka `/rod-<jméno>/` (web/src/pages/rod-[jmeno].astro) + odkaz v menu; export_web.py ji zapíše do `src/generated/rodove_stranky.json` a kontroluje v ní odkazy na osoby.
 - Obsah: úvod, erb (SVG podle blasonu), schéma napojení (uzly ve sloupcích/řádcích, hrany doc/lit/hyp/nejiste/svedek), časová osa, větve, další nositelé jména se stavem jistoty, otevřené otázky, zdroje. Mohlo by se hodit do skillu pro všechny rody se zajímavou historií.
 - (19. 11.) Profily osob zobrazují „Zajímavosti“, které na osobu odkazují (web/src/lib/zajimavosti.js + components/ZajimavostiOsoby.astro): oddíl ## v zajimavosti.md s odkazem /osoba/<slug>/ nebo /rod-<jméno>/<id>/ → karta s ukázkou a proklikem na kotvu nadpisu. Hodilo by se do skillu obecně.
+
+- 21. 11. 2026 – `tools/kramerius7_uryvky.py`: ČDK (API v7) teď vrací klíče ve `highlighting` jako „root_pid!pid“, takže nástroj ukládal prázdné úryvky. Opraveno (klíč se bere za posledním „!“) – vhodné převzít do skillu.

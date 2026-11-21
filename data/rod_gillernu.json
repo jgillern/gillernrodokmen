@@ -607,10 +607,10 @@
     {
       "jmeno": "JUDr. Karel Gillern (Karl Giller von Gillern)",
       "roky": "1888–1953",
-      "text": "Nadporučík císařských myslivců, od 1919 československý úředník, okresní hejtman v Mělníku (1939–1942) a ve Strakonicích (1942–1945). Nejspíš syn Čeňka z Gillernů (JUDr. Karel, pohřben v Čimelicích).",
+      "text": "Syn Čeňka z Gillernů (gymnázium v Praze 1904–06 jako „Giller z Gillern Karel, Lis“). * 20. 6. 1888, nadporučík tyrolských císařských myslivců, od 1919 v politické správě, okresní hejtman v Plané, Novém Městě nad Metují, Mělníku a Strakonicích, † 1953.",
       "zdroj": "de.wikipedia.org – Gillern",
       "odkaz": "https://de.wikipedia.org/wiki/Gillern",
-      "stav": "prob",
+      "stav": "lit",
       "profil": "karel"
     },
     {
@@ -746,7 +746,7 @@
         "1902 uveden ve Schematismu velkých statků (velkostatek Orlík, s. 416)",
         "1904–1905 knížecí schwarzenberský revírník v Kostelci (nad Vltavou)",
         "1. manželka Josefína roz. Bohdanecká (* 18. 3. 1860 Běštín u Hostomic, † 3. 2. 1904 Kostelec, tuberkulóza)",
-        "děti: dcera Marie (* 18. 9. 1890 Líz, † 12. 1. 1905 Kostelec, tuberkulóza); synové JUDr. Bedřich (* 14. 4. 1894 Líz, † 8. 6. 1970; mimořádný posluchač pražské techniky) a JUDr. Karel (pohřben v Čimelicích)",
+        "děti: dcera Marie (* 18. 9. 1890 Líz, † 12. 1. 1905 Kostelec, tuberkulóza); synové JUDr. Karel (* 20. 6. 1888, † 1953, pohřben v Čimelicích) a JUDr. Bedřich (* 14. 4. 1894 Líz, † 8. 6. 1970) – oba úředníci politické správy (okresní hejtmani)",
         "2. manželka Antonie roz. Volfová z Vídně († 1940, pohřbena v Čimelicích)",
         "později nadlesní, na odpočinku ve Ždákově č. 7 (okr. Milevsko)",
         "† 6. 2. 1942 Ždákov č. 7, 87 let, arterioskleróza; pohřben 9. 2. v rodinném hrobě v Čimelicích – v úmrtním zápisu „Čeněk Giller z Gillernů“ (stejná podoba jména, jakou podle Wikipedie používala česká šlechtická větev)"
@@ -774,6 +774,10 @@
         {
           "vztah": "syn",
           "profil": "karel"
+        },
+        {
+          "vztah": "syn",
+          "profil": "bedrich"
         }
       ],
       "zdroje": [
@@ -786,26 +790,45 @@
       ]
     },
     "karel": {
-      "jmeno": "JUDr. Karel Gillern (Karl Giller von Gillern)",
+      "jmeno": "JUDr. Karel z Gillernů (Karl Giller von Gillern)",
       "roky": "1888–1953",
-      "stav": "prob",
-      "vazba": "nejspíš syn Čeňka z Gillernů – bratranec pradědečka Jana (* 1894)",
+      "stav": "lit",
+      "vazba": "syn Čeňka z Gillernů – bratranec pradědečka Jana (* 1894)",
       "fakta": [
-        "do roku 1918 „Karl Giller von Gillern“, pak „Karel Gillern“",
-        "doktor práv (JUDr.)",
-        "nadporučík císařských myslivců (Kaiserjäger)",
-        "od 1919 československý státní úředník",
-        "okresní hejtman v Mělníku (1939–1942) a ve Strakonicích (1942–1945)",
-        "Čeněk z Gillernů měl syna JUDr. Karla, pohřbeného v Čimelicích – totožnost zatím neověřena (chybí narození)"
+        "* 20. 6. 1888 (Status konceptního úřednictva politické správy 1936 a 1940); vyrůstal v Lízu u Orlíka, kde byl otec Čeněk revírníkem",
+        "1904–1906 žák c. k. českého státního gymnázia v Praze na Malé Straně – „Giller z Gillern Karel, Lis“ (výroční zprávy 1904/05 a 1905/06); tím je doloženo, že je z Čeňkovy rodiny z Lízu",
+        "do státní služby nastoupil 13. 3. 1914 (Status 1936, 1940)",
+        "za 1. světové války nadporučík 1. pluku tyrolských císařských myslivců – „Giller v. Gillern Karl, 1. TJR“ (Reichenberger Zeitung 14. 7. 1915; Ranglisten 1916–1917; Feldblatt 1918)",
+        "doktor práv (JUDr.), od 1919 v československé politické správě; do 1918 „Karl Giller von Gillern“, pak „Karel Gillern“",
+        "okresní hejtman (rada politické správy): Planá u Mariánských Lázní (1935–1936), Nové Město nad Metují (1937–1938), Mělník (1939, pak přeložen), Strakonice (1940–1941 podle sborníku Strakonice 2005; Wikipedie uvádí Mělník 1939–1942 a Strakonice 1942–1945)",
+        "zemřel 1953 (Wikipedie), podle dopisu K. Vyšína v Mariánských Lázních; pohřben v rodinném hrobě v Čimelicích"
       ],
-      "pozn": "Německá Wikipedie ho uvádí mezi členy rodu a říká, že příslušníci české šlechtické větve se do roku 1918 psali „Giller von Gillern“ nebo „Giller Edler von Gillern“.",
+      "pozn": "Pozor: „Karl Freiherr von Gillern“ ze zeměbraneckého Schützenregimentu Nr. 24 (1917–1919) je nejspíš vídeňský Karl Gillern (1895–1971), ne náš Karel.",
       "vztahy": [
         {
-          "vztah": "otec (?)",
+          "vztah": "otec",
           "profil": "cenek"
+        },
+        {
+          "vztah": "bratr",
+          "profil": "bedrich"
         }
       ],
       "zdroje": [
+        {
+          "nazev": "Výroční zpráva c. k. českého státního gymnasia v Praze na Malé straně 1904–1905 (s. 65) a 1905–1906 (s. 61) – Česká digitální knihovna",
+          "odkaz": "https://www.ceskadigitalniknihovna.cz/uuid/uuid:a13054d8-9bce-11ec-83d9-001b63bd97ba"
+        },
+        {
+          "nazev": "Status konkretální a dislokační konceptního úřednictva politické správy 1936, 1940; Politický kalendář 1935–1938 (ČDK, neveřejné – jen úryvky)"
+        },
+        {
+          "nazev": "Reichenberger Zeitung 14. 7. 1915",
+          "odkaz": "https://www.ceskadigitalniknihovna.cz/uuid/uuid:d04c0b96-4a1e-48e3-8982-f1707f2fc05a"
+        },
+        {
+          "nazev": "Strakonice: vlastivědný sborník 3 (2005), s. 68 – seznam okresních hejtmanů"
+        },
         {
           "nazev": "de.wikipedia.org – Gillern",
           "odkaz": "https://de.wikipedia.org/wiki/Gillern"
@@ -942,7 +965,8 @@
         "podle Sinapia (1728) syn Friedricha Wilhelma I. von Giller (císařského rady a vrchního účetního knížectví Lehnice, Břeh a Volov); novodobý životopis uvádí za otce Franze Leopolda – rozpor nerozhodnut",
         "1728 sekretář knížete z Lichtenštejna v Opavě a Krnově (Sinapius)",
         "29. 12. 1742 koupil Koryčany od Antona Emericha Horeckého z Horky za 164 000 zl. rýnských, tehdy „k. k. Hofkammer-Bankalrath“ (d'Elvert 1874)",
-        "manželka Maria Josepha roz. von Tallern; 1759 jí Koryčany odkázal, jako náhradního dědice určil bratrance („Vetter“) Kristiána Matyáše (Der mährische Adel 1899, s. 37)"
+        "manželka Maria Josepha roz. von Tallern; 1759 jí Koryčany odkázal, jako náhradního dědice určil bratrance („Vetter“) Kristiána Matyáše (Der mährische Adel 1899, s. 37)",
+        "podle Vyškovského sborníku (2020) zemřel 11. 8. 1762 a Kristián spravoval Koryčany od 1765 – rozpor s rokem 1759 (rok závěti?) zatím nerozhodnut"
       ],
       "vztahy": [],
       "zdroje": [
@@ -1100,6 +1124,49 @@
           "odkaz": "https://www.digitale-sammlungen.de/de/view/bsb10362302?page=56"
         }
       ]
+    },
+    "bedrich": {
+      "jmeno": "JUDr. Bedřich z Gillernů (Friedrich Giller von Gillern)",
+      "roky": "1894–1970",
+      "stav": "lit",
+      "vazba": "syn Čeňka z Gillernů – bratranec pradědečka Jana (* 1894), narozený v témže roce",
+      "fakta": [
+        "* 14. 4. 1894 Líz u Orlíka, † 8. 6. 1970 (dopis K. Vyšína 1978)",
+        "za 1. světové války nejspíš poručík v záloze „Friedrich Giller Edler von Gillern“ zeměbraneckého (Landesschützen) pluku, 1917 u Kaiserschützenregimentu III přidělen k leteckému etapnímu parku (Verordnungsblatt der k. k. Landwehr 1916, 1917) – stejný typ tyrolských jednotek jako u bratra Karla",
+        "1925 v Praze jako JUDr., místodržitelský koncipista (Chytilův adresář Prahy 1925)",
+        "komisař, pak vrchní komisař politické správy na okresním úřadě v Žamberku (asi 1928–1940): 1932 zastupoval okresní úřad, za něj kolaudoval přehradu Pastviny; „okresní hejtman Dr. Gillern ze Žamberka“ (Rodové paměti v Kunčicích)",
+        "1944–1945 okresní hejtman ve Vysokém Mýtě (předseda kuratoria dívčí průmyslové školy), 1947–1948 vrchní rada ONV ve Vysokém Mýtě"
+      ],
+      "pozn": "Zápisy „z Gillernu B. (mim.), Kostelec“ (Dějiny technického učení v Praze) a „v. Gillern Friedrich (a. o.), Kosteletz“ (Festschrift německé techniky 1906) jsou z jubilejních publikací kolem roku 1906, kdy bylo Bedřichovi 12 let – nejspíš jde o staršího Bedřicha z Gillernů (lesní příručí v Sedlci 1872), jehož místo v rodu zatím neznáme. V almanachu gymnázia ve Vysokém Mýtě (1979) je mezi absolventy „Bedřich Gillern“ – snad syn; neověřeno.",
+      "vztahy": [
+        {
+          "vztah": "otec",
+          "profil": "cenek"
+        },
+        {
+          "vztah": "bratr",
+          "profil": "karel"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Dopis Karla Vyšína (1978)"
+        },
+        {
+          "nazev": "Verordnungsblatt für die k. k. Landwehr 29. 4. 1916, 19. 9. 1917",
+          "odkaz": "https://www.ceskadigitalniknihovna.cz/uuid/uuid:b5d00360-a302-11e7-a093-005056825209"
+        },
+        {
+          "nazev": "Chytilův adresář hl. m. Prahy 1925, s. 437; Politický kalendář 1924–1932; Status konceptního úřednictva 1936, 1940 (ČDK, neveřejné – jen úryvky)"
+        },
+        {
+          "nazev": "Výroční zpráva dívčí průmyslové školy ve Vysokém Mýtě 1945, 1947, 1948",
+          "odkaz": "https://www.ceskadigitalniknihovna.cz/uuid/uuid:c55fdc30-64b7-11ed-88d3-00155d01210b"
+        },
+        {
+          "nazev": "Přehrada Pastviny (2011); Rodové paměti v Kunčicích (2006); Almanach 100 let gymnázia ve Vysokém Mýtě (1979) – ČDK, jen úryvky"
+        }
+      ]
     }
   },
   "rodokmen": {
@@ -1201,7 +1268,7 @@
                       {
                         "jmeno": "Karel Josef svobodný pán z Gillernů",
                         "stav": "lit",
-                        "roky": "1691 (?) – 1759",
+                        "roky": "1691 (?) – 1759/1762",
                         "pozn": "dvorní rada; rytíř 1724/26, svobodný pán 1732; 1742 koupil Koryčany; synové nejsou známi. Podle Wikipedie syn Franze Leopolda – rozhodne zápis křtu ze Dvorců (čeká se na ověření)",
                         "manzel": "× Maria Josepha roz. von Tallern",
                         "profil": "karel_josef"
@@ -1313,22 +1380,37 @@
                                 "pozn": "nadlesní; „Edler von Gillern“",
                                 "vazba": "doc",
                                 "profil": "cenek",
-                                "manzel": "× Josefína Bohdanecká",
+                                "manzel": "× 1) Josefína Bohdanecká (1860–1904), × 2) Antonie Volfová z Vídně († 1940)",
                                 "deti": [
                                   {
-                                    "jmeno": "JUDr. Karel Gillern",
-                                    "stav": "prob",
-                                    "roky": "1888–1953",
-                                    "pozn": "okresní hejtman v Mělníku a ve Strakonicích",
-                                    "vazba": "hyp",
-                                    "popis": "syn?",
+                                    "jmeno": "JUDr. Karel z Gillernů",
+                                    "roky": "20. 6. 1888 – 1953",
+                                    "pozn": "nadporučík tyrolských myslivců; okresní hejtman Planá, Nové Město n. Met., Mělník, Strakonice",
+                                    "stav": "lit",
+                                    "vazba": "lit",
                                     "profil": "karel"
                                   },
                                   {
-                                    "jmeno": "JUDr. Bedřich z Gillernů",
+                                    "jmeno": "Marie",
+                                    "roky": "1890 Líz – 1905 Kostelec",
                                     "stav": "doc",
-                                    "roky": "* 14. 4. 1894",
                                     "vazba": "doc"
+                                  },
+                                  {
+                                    "jmeno": "JUDr. Bedřich z Gillernů",
+                                    "roky": "14. 4. 1894 Líz – 8. 6. 1970",
+                                    "pozn": "vrchní komisař v Žamberku, 1944–45 okresní hejtman ve Vysokém Mýtě",
+                                    "stav": "lit",
+                                    "vazba": "lit",
+                                    "profil": "bedrich",
+                                    "deti": [
+                                      {
+                                        "jmeno": "Bedřich Gillern (?)",
+                                        "pozn": "absolvent gymnázia ve Vysokém Mýtě (almanach 1979) – snad syn",
+                                        "stav": "hyp",
+                                        "vazba": "nejiste"
+                                      }
+                                    ]
                                   }
                                 ]
                               },

@@ -80,3 +80,15 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 
 - **Svatkovi:** Šebířov, oddíl Bzová, narození 1840–1848 – narození Jana Svatka (otec František, matka Barbora); 1849–1864 prohledáno.
 - **Malí, Pešanovi, Slunečkovi, Bezkočkovi:** podrobnosti v tabulce slepých konců (data/STAV.md).
+
+## Rakouský státní archiv (Vídeň) – objednat kopie (21. 11. 2026)
+
+Katalog: https://www.archivinformationssystem.at (fulltext „Gillern“, „Giller“). Online jsou jen obrázky erbů; kopie spisů se objednávají přes formulář archivu (placené). Nejdřív nejlevnější a nejvíc slibné:
+
+1. **HHStA HA OMaA 821-7** – pozůstalostní řízení (Abhandlung) Marie Josefy svobodné paní z Gillernů, vdovy po c. k. dvorním radovi (1765) = vdova po Karlu Josefovi. Vyjmenuje dědice → buď Maximilián (nebo jeho děti) mezi nimi je, nebo ne (hypotéza H2).
+2. **AVA Adel RAA 143.33** – Johann Karl Joseph Giller, potvrzení šlechtictví 1721, s opisem šlechtického listu z 20. 8. 1700 (fol. 1–15) – rodový původ, jména otce a strýce.
+3. **AVA Adel RAA 143.34, 143.36; HAA AR 287.50, 287.51, 288.2** – Kristián Matyáš Antonín 1764–1766 (žádosti o rytířství, inkolát a baronát) – rodinné poměry, sourozenci.
+4. **AVA Adel RAA 143.35; HAA AR 287.48, 287.49, 288.1** – Karel Josef 1724–1727 (ověřené opisy listin 1707, 1721, 1722, 1724).
+5. **FHKA SUS Fam.A. G-102** (1722–1766, fol. 1–13), **AVA FA Harrach 518.19** (korespondence Karla Josefa 1738–41), **AVA Adel RAA 143.32** (Franz Niklas, Platzmajor Eger, 1703).
+
+Válečný archiv (Kriegsarchiv): musterlisty pěších pluků „Gayer/Geyer“ a „Platz“ (Friedrich Wilhelm II., asi 1715–1751) a pluku Pallavicini (kapitán Jan Bedřich, 1760–1766) – důstojnické listy uvádějí věk, rodiště, rodinu.

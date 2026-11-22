@@ -45,7 +45,4 @@ Chceme zjistit:
 ## Etapa 2 – okolní a navazující prameny
 1. **Krnov** (Krnov, Kr I …): rejstříky křtů a sňatků **1640–1730**, písmena G a K – je to druhé lichtenštejnské knížectví, kde Carl Joseph sloužil.
 2. **Dvorce** (Dv I …): pouze **zemřelí 1700–1730**. Křty a sňatky už máme. Hledáme hlavně pohřeb **Friedricha Wilhelma I.** († 1728 – zemřel snad v Lehnici, ale mohl být pohřben u rodiny) a jeho manželky **Anny Marie**.
-3. **Literatura online** (jen vyhledat a přečíst dotčené stránky, nic nestahovat celé):
-   - Česká digitální knihovna, Digitalniknihovna.cz, Google Books: „Giller von Lilienfeld“, „Gillerové z Lilienfeldu“, „Matthias Giller“, „Lucas Giller“, „Bartsch von Sternegg“;
-   - časopisy *Slezský sborník*, *Opavský sborník*, *Zprávy Slezského zemského muzea*.
-   - Edice urbáře z roku 1652 (P. Tesař) – co uvádí o rodině Matyáše Gillera (manželka, děti, dům).
+(Literaturu online dohledává druhý asistent sám – tu vynech.)

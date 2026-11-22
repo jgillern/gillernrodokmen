@@ -264,7 +264,7 @@ Revize v `revize_maximilian3_fable.md` (log 644). Josefův rok narození stojí 
 |---|---|---|---|
 | H1 | Z1 – Nymburk a Sadská 1750–1756 celé (mezera 1753–1755, „Alexia“, kmotři, Johanny * 1719–1727, Sadská sn. 462) | lokální Claude (`zadani_lokalni_Z1_nymburk_sadska.md`) | ▶ |
 | H2 | Z2 – Bílá Voda („Franciscus Giller × Eleonora“ 1754/56), Opava, Jesenicko, Šternberk 1740–1760 | lokální Claude (`zadani_lokalni_Z2_slezsko_rakouske.md`, upřesněno: 2 křty z indexu 1754/1756, Franz Anton „aus Hammer“) | |
-| H3 | Z3 – pluk č. 15, kmenové listy 1744–1756 všech setnin (Franz Anton, Friedrich, Maximilián?) | lokální Claude (`zadani_familysearch_Z3_ir15.md`) | |
+| H3 | Z3 – pluk č. 15, kmenové listy 1744–1756 všech setnin (Franz Anton, Friedrich, Maximilián?) | lokální Claude (`zadani_familysearch_Z3_ir15.md`) | ✔ log 648: Franz Anton 1745 z Hammeru, Friedrich 1753–1756; Maximilián ne; přehlídky 1746–1752 nedochovány |
 | H4 | Slezsko, 2. okruh: katol. Hlohov, Vratislav, Lehnice, Trebnice, Trachenberg, Prausnitz; luterské Winzig, Wohlau, Steinau, Herrnstadt – sňatky 1743–1749 (nejdřív katalog) | lokální Claude ▶ `zadani_familysearch_kolo8_slezsko.md` |
 | H5 | Chlumec nad Cidlinou (Kinský) – sňatky 1740–1749, křty 1744–1749 | lokální Claude (doplněk komorních panství) | |
 | H6 | Praha – rejstříky oddaných 1743–1749 | lokální Claude | |

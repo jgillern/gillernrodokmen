@@ -1826,7 +1826,7 @@
         "Kmenové listy pěšího pluku Pallavicini (č. 15) 1762–1764: „Friedrich Baron v. Gillern, aus Schlesien von Hammern gebürtig“, 34½–36 let, katolík, svobodný, slouží od asi 1746. Hammer byl statek Carla Heinricha von Giller – kapitán Friedrich je tedy jeho syn a bratr našeho Maximiliána (pokřtěn v Krehlau 1724 jako Johann Friedrich Rudolph; věk v listech je o tři roky nižší). Jako Maximiliánův bratr byl kmotrem jeho dětí 1761 a 1766 – nezávislé potvrzení, že Maximilián pochází z Hammeru a Krehlau.",
         "V přehlídce 30. 12. 1767 (Vídeň) je už „verheyrathet mit 1 Kind“ (ženatý, 1 dítě), 40 let, vlastnoruční podpis „Gillern“ – souhlasí se sňatkem v Pardubicích 1765.",
         "Nejspíš totožný s Johannem Friedrichem Rudolphem, pokřtěným 29. 12. 1724 v Krehlau jako syn Carla Heinricha von Giller a Cathariny roz. Nerlichové – tedy s Maximiliánovým o pět let mladším bratrem. Pro to mluví jméno, věk, šlechtický titul i to, že kmotroval Maximiliánovým dětem, které dostaly jména Bedřich Rudolf a Jan Bedřich.",
-        "Od roku 1753 hejtman (kapitán) pěšího pluku č. 15 hraběte Pallaviciniho; v seznamu důstojníků „Gillern Friedrich, Baron“.",
+        "Nejpozději od roku 1753 hejtman (kapitán) pěšího pluku č. 15 hraběte Pallaviciniho; v seznamu důstojníků „Gillern Friedrich, Baron“. V přehlídkách 1753 a 20. 5. 1756 (Milánsko): „Fridrich Baron Gillern, gebürtig von Hammer aus Schlesien“, 1756 31 let, katolík, svobodný, slouží 13 let. Starší přehlídky pluku z let 1746–1752 se nedochovaly; v lednu 1745 u pluku ještě nebyl.",
         "1761 byl v zastoupení kmotrem Maximiliánova syna Jana Křtitele v Kladrubech nad Labem.",
         "17. 2. 1765 se v Pardubicích oženil s Annou, dcerou pardubického měšťana Josefa Newky (Nevky?).",
         "1766 byl osobně kmotrem Maximiliánova syna Jana Bedřicha Karla Viléma Víta na Čelákovském Hrádku.",
@@ -1864,7 +1864,8 @@
         "n_1761_gillern_jan_baptista",
         "o_1765_gyller_bedrich",
         "n_1766_gillern_jan_bedrich",
-        "j_1762_ir15_gillern_friedrich"
+        "j_1762_ir15_gillern_friedrich",
+        "j_1756_ir15_gillern_friedrich"
       ]
     },
     "franz_leopold": {

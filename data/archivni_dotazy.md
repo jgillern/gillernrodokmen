@@ -125,3 +125,12 @@ Komorní lesy (Poděbrady, Brandýs, Pardubice, Zbiroh, Kladruby) řídil v 50. 
 - **NA Praha, ČDKM V, kart. 20–21** – nařízení nejvyššího lovčího, přehled translokací „úředníků“ loveckého úřadu (lesmistři, dvorní myslivci, polesní, nadlesní), „Status personalis“ – Maximilián jako nadlesní v Hradištku (1756), dvorní myslivec v Kladrubech (1757–1761), přeložení do Čelákovic (1762).
 - **SOA Zámrsk, RA Kinských (Chlumec n. C.), kart. 97, inv. č. 2030** – korespondence Leopolda Kinského s císařem a Toussaintem 1753–1758 (obsazování míst, penze).
 - Penze po roce 1782 (Maximilián, vdova) – návrhy penzí nejvyššího lovčího / dvorská komora.
+
+## Cesty přes Josefovu manželku a Maximiliánovy děti (22. 11. 2026)
+Spisy, které by mohly obsahovat Maximiliánovu službu, původ nebo úmrtí (vše jen offline; ÖStA umí zhotovit placené kopie na písemnou objednávku):
+- **ÖStA AVA Adel HAA AR 147.1 – Claner, Maximilian, Revierjäger, rittermäßiger Adelstand, 1813–1838**: žádost Maximiliánova vnuka (syn Eleonory roz. z Gillernů) – šlechtické žádosti obvykle dokládají původ matky (doklady o „Maximilian Freiherr von Gillern“, jeho službě, případně úmrtní list).
+- **ÖStA AVA Adel HAA AR 288.1** (Freiherrenstand Karl Josef 1727) – „Darin: Alois von Gillern um ein Zertifikat (1883); Freiherr von Gillern, geheimer Justizrat, um eine Wappenkopie (1894)“; **HAA AR 287.52 – Giller, Familie, diverse Gesuche um Abschriften und Auskünfte 1908–1912**; **HAA AR 287.54 – Gesuch von Peter Kapitza 1932**: žádosti potomků 19.–20. stol. – mohou obsahovat rodokmeny (pokud jde o českou linii).
+- **ÖStA AVA FA Harrach, Fam. in spec. 518.19 – Giller, Freiherr Karl Josef, Korrespondenz mit Friedrich August Harrach 1738–1741**: dopisy patrona rodu z let, kdy Maximilián hledal místo.
+- **Vdovská penze Anny Gillerové (Kochové) 1799** – po Josefovi, myslivci komorního panství Kolín: žádost o penzi bývá doložena služebním výkazem manžela (kde sloužil před 1785, vojsko?) a křestním listem (NA, Česká komora / komorní správa; SOA Praha, Velkostatek Kolín).
+- **Pozůstalost Johanny z Gillernů († 1782) a Maximiliána** – pozůstalostní řízení úředníků komorního panství (SOA Praha, Velkostatek Poděbrady): seznam dědiců s jejich bydlištěm.
+- **František z Gillernů – personální spis schwarzenberského lesníka** (SOA Třeboň, schwarzenberská ústřední lesní správa; 1816 si vyžádal křestní list): přílohy k původu.

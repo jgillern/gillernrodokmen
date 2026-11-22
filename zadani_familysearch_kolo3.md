@@ -29,7 +29,7 @@ Navazuje na `FamilySearch_kolo2.md`. Postup stejný jako dosud:
 4. **Jen katalog** (nic neprohlížet, jen zapsat, zda existuje film, jaké roky a jestli je z domu prohlížitelný, nebo jen s klíčkem):
    - **Lehnice (Liegnitz), katolická farnost – pohřby 1728** (úmrtí Friedricha Wilhelma I. von Giller);
    - **Priedemost (Przedmoście) nebo Hlohov (Glogau), katolické křty asi 1740–1750** (křest Carla Josepha von Gillern, * asi 1745);
-   - **Rettkau (Retków) nebo farnost, kam patřil – křty 1739** (Dominika von Gillern, * 3. 8. 1739 Rettkau);
+   - **Rettkau (Retków) nebo farnost, kam patřil – křty 1739** (Dominika von Gillern, * 29. 3. 1739 Rettkau);
    - **Goldberg (Złotoryja) – evangelické křty a sňatky asi 1795–1830** (Oswald von Gillern * 17. 9. 1828 a sňatek jeho rodičů 14. 11. 1827: baron Moritz Eduard Alexander von Gillern × Henriette Dorothea Wilhelmine Hinke);
    - **Wanowitz u Hlubčic (Leobschütz) – katolické křty 1794** (malíř Joseph Edward von Gillern);
    - **rakouské vojenské kmenové listy (Musterlisten) pěšího pluku č. 15 (Pallavicini), asi 1750–1771** – existují na FamilySearch vůbec?

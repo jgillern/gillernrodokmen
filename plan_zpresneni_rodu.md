@@ -290,8 +290,8 @@ Revize v `revize_maximilian4_fable.md` (log 665). „Pominecz“ = „homines Li
 | J1 | Čelákovice 1761–1767 (mezera v křtech, Josef?), slovo 1751 na plném snímku, strana sňatků Poděbrady 1786 | lokální Claude (`zadani_lokalni_celakovice_1761_1767.md`) | ✔ log 666: v Čelákovicích 1761–1767 žádné další dítě → Josef * před 1750; „homines Liberi“ potvrzeno; rodina v Čelákovicích od 9/1761 |
 | J2 | Slezsko – kolo 12: Krehlau křty 1736–1742 (Gillerové kmotři, myslivci, lidé z Winzigu), Trachenberg dočtení (1737, manžel Johanny Charlotty, Ebert/Rock, kmotři), Preichau O 1726–1750 a Z 1741–1760, Prausnitz O 1744–1749, Milíč | lokální Claude (`zadani_familysearch_kolo12_slezsko.md`) | zadání připraveno |
 | J3 | Vratislav – katolické sňatky 1743–1749 (Matricula, FamilySearch) | lokální Claude (`zadani_lokalni_vratislav_1743_1749.md`) | zadání připraveno |
-| J4 | Geneteka (Giller, Gyller, Giler, Güller, Gillern – Velkopolsko, Dolní Slezsko 1735–1755), BaSIA, ANNO fulltext „Gillern“ 1740–1800 | já | |
-| J5 | szukajwarchiwach – Giller, Ertel, Krzelów, Młoty, Wińsko (skeny?) | lokální Claude | |
+| J4 | Geneteka (Giller, Gyller, Giler, Güller, Gillern – Velkopolsko, Dolní Slezsko 1735–1755), BaSIA, ANNO fulltext „Gillern“ 1740–1800 | já | ✔ log 667: Geneteka negativní; ANNO nedostupné (WZ hotovo dřív); BaSIA → J5 |
+| J5 | BaSIA + szukajwarchiwach – Giller, Ertel, Krzelów, Młoty, Wińsko (skeny?) | lokální Claude (`zadani_lokalni_polsko_jmenna_hledani.md`) | zadání připraveno |
 | J6 | Krnov – rejstřík oddaných 1740–1749 (G, K) – přidat k zadání předků | lokální Claude | |
 | J7 | Pluk č. 15, přehlídka 29. 1. 1745 – mužstvo všech setnin (Friedrich, Maximilián) | lokální Claude | nízká priorita |
 

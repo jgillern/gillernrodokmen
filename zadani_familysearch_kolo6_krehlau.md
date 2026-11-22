@@ -63,7 +63,7 @@ V katalogu (Krehlau, kat.) zjisti, zda jsou nafilmované **pohřby (Tote, Begrab
 
 Na konci krátké shrnutí: co se přečetlo nově, co zůstává nečitelné, co je staženo.
 
-## Doplněk (podle revize Fable, 22. 11.)
+## Doplněk (podle revize Fable, 22. 11.) – NEODESLÁNO, agent už finišoval; případně jako nové zadání
 Při čtení křtů Krehlau (úkoly 1 a 2) a pohřbů (úkol 4) vypiš navíc **všechny zápisy rodiny von Ertel** 1749–1760:
 - děti **Johanna Wenzela von Ertel** (podle lexikonu Johann Wenzel * 1749, Heinrich 1751, Karl 1752, Franz 1756, Joseph 1758, Philippine 1760);
 - u každého zápisu: datum, titul a statek otce (Herr auf Ober-/Nieder-Krehlau?), kmotři.

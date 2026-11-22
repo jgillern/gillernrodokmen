@@ -2644,5 +2644,41 @@
   ],
   "status": "ok",
   "note": "celý zápis"
+ },
+ "n_1777_podebrady_eleonora_svedkyne": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
+ },
+ "n_1778_podebrady_eleonora_kmotra": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
+ },
+ "n_1782_podebrady_johanna_kmotra": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
  }
 }

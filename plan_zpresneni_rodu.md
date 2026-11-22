@@ -271,7 +271,7 @@ Revize v `revize_maximilian3_fable.md` (log 644). Josefův rok narození stojí 
 | H7 | Terezie: nový sňatek vdovy 1789–1799 (Brandýs, St. Boleslav, listováním), gruntovní knihy Brandýsa (dům č. 14) | lokální Claude (`zadani_lokalni_terezie_brandys.md`) | zadání připraveno |
 | H8 | Vratislavské noviny 1752–1756, 1767–1768 (Hammer, Krehlau, Giller, Ertel) | já (SBC, dLibra Vratislav) | ✔ log 660: noviny z té doby nejsou online jako text – uzavřeno |
 | H9 | Tchyně („socrus“) v pohřbech farností 1750–1782 | při každém čtení | |
-| H10 | **Trachenberg 1743–1761: pohřeb Carla Ludwiga, děti s Johannou Leonorou, vdova; druhé filmování koha:649219** – test hypotézy „Johanna = Johanna Leonora, vdova po Carlu Ludwigovi“ | lokální Claude (`zadani_familysearch_kolo9_trachenberg.md`) | |
+| H10 | **Trachenberg 1743–1761: pohřeb Carla Ludwiga, děti s Johannou Leonorou, vdova; druhé filmování koha:649219** – test hypotézy „Johanna = Johanna Leonora, vdova po Carlu Ludwigovi“ | lokální Claude (`zadani_familysearch_kolo9_trachenberg.md`) | ✔ log 663: po svatbě 1743 pár v Trachenbergu nedoložen – hypotéza nepotvrzena ani nevyvrácena; pohřeb 1747 Johanny Charlotty roz. von Gyllar (?) |
 
 ## Další kroky mimo Maximiliána a Josefa (22. 11. 2026, Jan: rozjet 1, 3, 4, 5 + hloubka rodu)
 | # | Krok | Kdo | Stav |

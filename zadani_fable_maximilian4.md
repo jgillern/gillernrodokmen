@@ -35,7 +35,7 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
   - hejtman **Friedrich baron Gillern z Hammeru**, 1756 31 let, slouží 13 let (`j_1756_ir15_gillern_friedrich`).
 
   Maximilián v přehlídce 1/1745 ani v letech 1753 a 1756 není. **Přehlídky 1746–1752 se nedochovaly.**
-- **Trachenberg 5. 2. 1743: Johann Carl Ludwig v. Giller** (syn Friedricha Wilhelma I.) **× Johanna Leonora**, dcera radního z Winzigu, snad Ebert (`o_1743_trachenberg_giller_ebert`, č. 650). Pracovní hypotéza zní: **Johanna = tato Johanna Leonora, ovdovělá a znovu vdaná za Maximiliána**. Čtení „Pominecz“ ji oslabuje.
+- **Trachenberg 5. 2. 1743: Johann Carl Ludwig v. Giller** (syn Friedricha Wilhelma I.) **× Johanna Leonora**, dcera radního z Winzigu, snad Ebert (`o_1743_trachenberg_giller_ebert`, č. 650). Pracovní hypotéza zní: **Johanna = tato Johanna Leonora, ovdovělá a znovu vdaná za Maximiliána**. Čtení „Pominecz“ ji oslabuje. **Kolo 9 (č. 663)**: po svatbě pár v Trachenbergu žádnou stopu nezanechal (žádné křty 1743–1749, pohřby 1743–1761 ani nový sňatek vdovy 1744–1750), takže se tam hypotéza nedá potvrdit ani vyvrátit.
 - **Maximilián † 7. 6. 1789 Stará Boleslav** (`z_1789_gillern_maximilian`) a vdova Terezie 1790 a 1793 – to už znáš z 5. kola.
 - **Erb Bartschů von Sternegg** (Krnovsko, Herrnstadt) je téměř shodný s erbem Gillerů (č. 656). Susanna Bartsch byla matka Christopha Heinricha * 1646. Erb a predikát dostali Barschové až 1695. **Jindřich Honorius Barsch byl asi 1711–1720 císařským lesmistrem ve Volově (Wohlau) a hejtmanem v Herrnstadtu**, tedy v okolí Krehlau a Hammeru (č. 656, 662). Je to příbuzenská síť v lesnické službě, kde mohl začínat i Maximilián.
 - **Friedrich Wilhelm I.** (prastrýc a kmotr Maximiliána) byl v letech 1687–1691 úředníkem v Karlovci u vévody Silvia Friedricha Württembersko-Olešnického (č. 662).
@@ -43,7 +43,7 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
 **Negativní výsledky** (vše v deníku):
 - Krehlau – čitelné strany 1736–1750 vyčerpány (č. 643, 645, 646). Zbývá několik nečitelných zápisů 1745/46 (sn. 40, 382).
 - Katolické sňatky 1743–1748 ve Steinau, Köbenu, Guhrau a Guhren (č. 643).
-- Druhý slezský okruh: Glogau Dom, Trachenberg – sňatky (č. 650).
+- Druhý slezský okruh: Glogau Dom, Trachenberg – sňatky (č. 650); Trachenberg – křty 1737–1749, pohřby 1743–1761, sňatky 1744–1750 (č. 663). Jediný nález: **pohřeb 15. 5. 1747 „Johanna Charlotta St…ngerin (?) geb. von Gyllar (?)“** (`z_1747_trachenberg_gyllar_johanna_charlotta`), snad dcera FW I. Johanna (* 1689).
 - GenTeam (celá databáze, všechny tvary jména) a Lanškroun (č. 647).
 - Kostelec nad Černými lesy 1736–1749 (č. 649). „Josef Grill“ z Poděbrad 1765 je opravdu Grill (č. 649).
 - Bílá Voda, Opava, Jesenicko, Skorošice, Supíkovice a Šternberk 1741–1769 (č. 657). „Franciscus Giller“ z Bílé Vody je šenkýř, nesouvisí s námi.
@@ -55,7 +55,6 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
   - **ZA Opava** blokuje vestavěný prohlížeč agenta (Jan se tam dostane; příště to agent zkusí v Janově Chrome).
 
 **Právě běží nebo je připraveno** – nenavrhuj znovu, ale klidně zhodnoť, zda to dává smysl, a co by měl agent dělat jinak:
-- **kolo 9 – Trachenberg 1743–1761** (`zadani_familysearch_kolo9_trachenberg.md`), běží: pohřeb Carla Ludwiga, děti s Johannou Leonorou, osud vdovy. Průběžně hlášeno, zatím neověřeno: pohřeb **13. 5. 1747 „Johanna Charlotta geb. von Gyllar“**.
 - **H6 Praha 1743–1749** – rejstříky oddaných a křtů (`zadani_lokalni_praha_1743_1749.md`).
 - **H7 Terezie** – nový sňatek vdovy, úmrtí, gruntovní a sirotčí knihy Brandýsa, dům č. 14 (`zadani_lokalni_terezie_brandys.md`).
 - **kolo 10** – rodiče Cathariny Barbary Eleonory Nerlich, Nisa (`zadani_familysearch_kolo10_nerlich.md`).
@@ -68,7 +67,7 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
    - Rodina ztrácí statky: sestra se vdává 1747, strýc je 1747 už „bývalý pán“, Ertel drží Krehlau od 12/1749, Maximilián nastupuje 1749 do císařské služby. Co to vypovídá o tom, kde byl předtím?
    - Je tu scénář, který jsme vůbec nezvážili?
 2. **Kdo byla Johanna?** Porovnej dvě stopy: hypotézu „Johanna Leonora, vdova po Carlu Ludwigovi“ (Trachenberg 1743) a čtení „Pominecz / Pominetz“ (1751). Prohlédni si výřez `n_1751_giller_maria_johanna`.
-   - Co přesně by muselo kolo 9 najít, aby hypotézu potvrdilo nebo vyvrátilo?
+   - Kolo 9 v Trachenbergu nic nerozhodlo. Kde jinde by se dalo zjistit, co se s Carlem Ludwigem a Johannou Leonorou stalo po roce 1743 (Winzig, jeho služba, pruské prameny)?
    - Kdo může být „Johanna Charlotta geb. von Gyllar“ († 1747 Trachenberg)?
    - Jaký jiný tvar jména se v „P…omine…z“ může skrývat (polské, české, německé, slezské šlechtické rody)?
 3. **Josef:** teď víme, že se narodil před rokem 1750. Jaké je nejpravděpodobnější rozpětí a místo? Mohl být synem Carla Ludwiga (tedy nevlastním synem Maximiliána)? Jak souvisí „Franz von Gillern“ († 1817 Malejovice, * asi 1747)?

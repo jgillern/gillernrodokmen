@@ -2992,5 +2992,17 @@
   ],
   "status": "ok",
   "note": "Pohřeb Johanny Charlotty, roz. von Gyllar (?), 15. 5. 1747"
+ },
+ "o_1789_stboleslav_gillernove_pritomni": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "Přítomni: slečna a Maxmilián z Gillernů"
  }
 }

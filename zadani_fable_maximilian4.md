@@ -49,6 +49,7 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
 - Bílá Voda, Opava, Jesenicko, Skorošice, Supíkovice a Šternberk 1741–1769 (č. 657). „Franciscus Giller“ z Bílé Vody je šenkýř, nesouvisí s námi.
 - Komorní panství (č. 659, 661): Drahoňův Újezd, Zbiroh, Mýto, Cerhovice, Žebrák (rejstřík N), Beroun, Přelouč, Sezemice, Rohovládova Bělá. Lesní personál Pardubic 1744–1749 je doložen jménem, Maximilián mezi ním není. **Chlumec nad Cidlinou (Kinský) má matriky až od 1775.** Nedočteno: Lázně Bohdaneč 1747–1749, Žebrák O, Týnec n. L., pražské obory.
 - Jméno Pominetz / Pominecz v indexech (č. 653, 654).
+- **H7 Terezie** (č. 664): nový sňatek vdovy (St. Boleslav, Brandýs – města 1789–1800) ani její úmrtí nenalezeny; **gruntovní a sirotčí knihy Brandýsa 1780–1800 online nejsou**. Nález: 17. 2. 1789 Maximilián a slečna (Johanna ?) z Gillernů přítomni na svatbě ve Staré Boleslavi (`o_1789_stboleslav_gillernove_pritomni`).
 - Literatura o 30leté válce online (č. 658); vratislavské noviny 50. let 18. století nejsou online jako text (č. 660).
 - Nečitelné nebo zablokované zdroje:
   - **Acta Publica (MZA Brno)** blokuje Janovu IP – Valtice, Lednice a Moravská Třebová nejsou udělané;
@@ -56,7 +57,6 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
 
 **Právě běží nebo je připraveno** – nenavrhuj znovu, ale klidně zhodnoť, zda to dává smysl, a co by měl agent dělat jinak:
 - **H6 Praha 1743–1749** – rejstříky oddaných a křtů (`zadani_lokalni_praha_1743_1749.md`).
-- **H7 Terezie** – nový sňatek vdovy, úmrtí, gruntovní a sirotčí knihy Brandýsa, dům č. 14 (`zadani_lokalni_terezie_brandys.md`).
 - **kolo 10** – rodiče Cathariny Barbary Eleonory Nerlich, Nisa (`zadani_familysearch_kolo10_nerlich.md`).
 - **kolo 11** – Maximiliánovi sourozenci a pruští baroni Gillernové (`zadani_familysearch_kolo11_sourozenci_prusove.md`).
 - **předci Heinricha Christofa** v matrikách Opavy a Krnova (`zadani_lokalni_predci_heinrich_christof.md`). Literatura v NDK už je hotová (č. 662).
@@ -72,13 +72,13 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
    - Jaký jiný tvar jména se v „P…omine…z“ může skrývat (polské, české, německé, slezské šlechtické rody)?
 3. **Josef:** teď víme, že se narodil před rokem 1750. Jaké je nejpravděpodobnější rozpětí a místo? Mohl být synem Carla Ludwiga (tedy nevlastním synem Maximiliána)? Jak souvisí „Franz von Gillern“ († 1817 Malejovice, * asi 1747)?
 4. **Síť rodiny v habsburských službách:** Franz Anton, Friedrich baron, Karel Josef (dvorská komora), Kinský. Kdo mohl Maximiliánovi 1749 místo zajistit a jaký úřad o tom mohl vést spisy, které jsou dnes online?
-5. **Terezie a dům č. 14:** jsou úkoly v H7 zvolené dobře? Co dalšího by mohlo jmenovat Maximiliánovy dědice?
+5. **Terezie a dědici:** H7 nic nerozhodlo a pozůstalostní knihy online nejsou. Má smysl Terezii dál hledat? Co dalšího online by mohlo jmenovat Maximiliánovy dědice?
 6. Cokoli dalšího, co uznáš za podstatné. Klidně otázky, které jsme si nepoložili.
 
 ## Kde co najdeš (čti sám, nespoléhej na shrnutí)
 - `data/STAV.md` – stav a pravidla. Nejnovější je oddíl „★ 22. 11. 2026 – Maximilián † 7. 6. 1789“.
 - `plan_zpresneni_rodu.md` – plán. Sekce „Po 5. revizi Fable“ (H1–H10) a „Další kroky mimo Maximiliána a Josefa“ (I1–I5).
-- `data/research_log.md` – deník všech hledání. Pro tuto otázku hlavně řádky od 498, nejnovější vývoj od č. 643 do 663.
+- `data/research_log.md` – deník všech hledání. Pro tuto otázku hlavně řádky od 498, nejnovější vývoj od č. 643 do 664.
 - `data/osoby.py` (osoby 128 Josef, 256 Maximilián, 257 Johanna, 512 Carl Heinrich, 1025, 2050; boční příbuzní v SIDE) a `data/rod_gillernu.json` (profily, časová osa, strom).
 - `data/zaznamy.json`, `data/prepisy.json`, `vyrezy/` – zápisy, přepisy a výřezy originálů. Nové klíče:
   - `n_1754_gillern_maria_elisabeth_juliana`
@@ -90,6 +90,7 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
   - `n_1751_giller_maria_johanna`
   - `z_1789_gillern_maximilian`
   - `z_1747_trachenberg_gyllar_johanna_charlotta`
+  - `o_1789_stboleslav_gillernove_pritomni`
 - `data/archivni_dotazy.md` – co je jen offline (pro úplnost; offline cesty nenavrhuj).
 - Dřívější revize: `revize_maximilian_fable.md`, `revize_maximilian2_fable.md`, `revize_maximilian3_fable.md`, `revize_rod3_fable.md` a další `revize_*_fable.md`. Podívej se, co se z tvých návrhů ověřilo a co ne.
 

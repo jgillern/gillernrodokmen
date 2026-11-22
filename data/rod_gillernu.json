@@ -2866,16 +2866,60 @@
         "mimo": true
       },
       {
-        "nadpis": "Zatím nezařazení",
-        "text": null,
+        "nadpis": "Gillerové z Lilienfeldu – Opava, Krnov, Olomouc",
+        "text": "Opavská patricijská a lékařská rodina s erbem a přídomkem „von Lilienfeld“ (1568). Erb je téměř shodný s erbem Gillernů a jména Ignác a Benedikt se objevují v obou rodinách, napojení na náš rod ale zatím doložené není – zjistit ho je jeden z úkolů výzkumu. Vazby uvnitř rodiny jsou z literatury (Tesař, Zukal), ne z matrik.",
         "uzly": [
           {
             "jmeno": "Matouš Giller",
             "stav": "lit",
             "roky": "erb 1568",
-            "pozn": "český erbovní list s přídomkem „von Lilienfeld“ (1568). Gillerové „von Lilienfeld“ byli opavští patricijové; patřil k nim i Lucas Giller de Lilienfeld, rodák z Opavy, doktor medicíny (Basilej 1604) a lékař Karla staršího ze Žerotína v Rosicích. Jejich erb (hvězda a šikmé břevno se třemi liliemi) je v podstatě týž jako erb pozdějších Gillernů a Karel Josef dostal roku 1721 „potvrzení“ šlechtictví – slezský rod tedy nejspíš z opavských Gillerů pochází; přímý doklad chybí.",
-            "profil": "matous"
-          },
+            "pozn": "český erbovní list s přídomkem „von Lilienfeld“ (1568); erb (hvězda a šikmé břevno se třemi liliemi) je v podstatě týž jako erb pozdějších Gillernů – napojení na náš rod zatím nedoloženo",
+            "profil": "matous",
+            "deti": [
+              {
+                "jmeno": "Lukas Giller z Lilienfeldu",
+                "stav": "lit",
+                "vazba": "nejiste",
+                "roky": "* 1578 Opava – † 1618 Opava",
+                "pozn": "doktor filozofie a medicíny (Basilej 1604), lékař Karla st. ze Žerotína; vztah k Matoušovi neznámý"
+              },
+              {
+                "jmeno": "Matyáš Giller z Lilienfeldu",
+                "stav": "lit",
+                "vazba": "nejiste",
+                "roky": "† 1655/1656 Krnov",
+                "pozn": "lékař v Olomouci a Opavě, roku 1652 sestavil kostelní urbář Opavy; od 1642 v Krnově; manželky Zuzana a Zuzana (Götzová?); vztah k Matoušovi neznámý",
+                "deti": [
+                  {
+                    "jmeno": "Benedikt Josef Giller z Lilienfeldu",
+                    "stav": "lit",
+                    "vazba": "lit",
+                    "pozn": "lékárník v Krnově"
+                  },
+                  {
+                    "jmeno": "Ignác Giller",
+                    "stav": "lit",
+                    "vazba": "lit",
+                    "roky": "17. století"
+                  }
+                ]
+              },
+              {
+                "jmeno": "Ignác Giller z Lilienfeldu, rytíř, na Doloplazích",
+                "stav": "lit",
+                "vazba": "nejiste",
+                "roky": "asi 1796–1854",
+                "pozn": "majitel statku Doloplazy u Olomouce (katalog moravskoslezského zemského práva 1783–1850); totožnost s Ignácem z Gillernů, kmotrem 1784, je otevřená otázka"
+              }
+            ]
+          }
+        ],
+        "mimo": true
+      },
+      {
+        "nadpis": "Zatím nezařazení",
+        "text": null,
+        "uzly": [
           {
             "jmeno": "František Mikuláš (Franz Niklas) svobodný pán z Gillernů",
             "stav": "lit",

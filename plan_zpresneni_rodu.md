@@ -232,3 +232,8 @@ Celá revize je v souboru `revize_rod3_fable.md`. Ověřil jsem z ní a do dat z
 - Co se stalo s nejstarším přeživším bratrem Carlem Wilhelmem Vitem (* 1714) a s pěti sestrami?
 - Kde byl syn Josef před rokem 1785?
 - Od kterých Maximiliánových dětí pocházejí Gillernové 19. století v Polabí, které automaticky řadíme k Josefovi?
+
+**Zásada (Jan, 22. 11. 2026):** do hlavního stromu patří jen ti, u kterých víme, že jsou příbuzní. Skupiny se stejným příjmením a nedoloženým napojením mají vlastní část mimo strom: **měšťané ve Dvorcích** a **Gillerové z Lilienfeldu (Opava, Krnov, Olomouc, Doloplazy)**. Najít jejich napojení na náš rod je otevřený úkol:
+- u Gillerů z Lilienfeldu: zadání S (Ignác na Doloplazích), souvislé čtení opavských křtů 1644–1653, výpisky Zukal a Doerr (offline);
+- u měšťanů ve Dvorcích: kroky C3 a C4.
+

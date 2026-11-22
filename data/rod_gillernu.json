@@ -222,7 +222,7 @@
       "nazev": "1. větev – Dvorce, Koryčany a pruští baroni",
       "obdobi": "1688–20. století",
       "barva": "#8f5b6e",
-      "text": "Friedrich Wilhelm I. Giller (1651–1728), správce (Amtmann) a pak „hejtman“ v Karlovci (Carlsberg) u Dvorců u Bruntálu (Hof) – Karlovec patřil k šternberskému panství, od roku 1695 lichtenštejnskému. Ve Dvorcích dal v letech 1688–1699 pokřtít nejméně osm dětí, mezi nimi Friedricha Wilhelma II. (1688, podplukovník) a Carla Josepha (1696), roku 1723 lichtenštejnského sekretáře ve Vídni. Pánem Koryčan (od 1742) a svobodným pánem se stal jeho starší příbuzný Karel Josef (Johann Karl Joseph, asi 1690–1762) – nejspíš syn dvoreckého poštmistra Franze Leopolda. Podle Sinapia měl i syny Johanna Petera a Carla Ludwiga. Karel Josef synovy nezanechal; Koryčany přešly na příbuzného Kristiána Matyáše (* 1723, syn Friedricha Wilhelma II.), od něhož podle Gothy pocházejí i pruští baroni 19. století. Ve Dvorcích žili také měšťanští Gillerové (Christian, František, krejčí, tkalci, farář Jan Karel) – vazba na hejtmanovu rodinu zatím neznámá.",
+      "text": "Friedrich Wilhelm I. Giller (1651–1728), správce (Amtmann) a pak „hejtman“ v Karlovci (Carlsberg) u Dvorců u Bruntálu (Hof) – Karlovec patřil do roku 1693 vévodovi Silviu Friedrichovi Württembersko-Olešnickému, od roku 1699 Lichtenštejnům. Ve Dvorcích dal v letech 1688–1699 pokřtít nejméně osm dětí, mezi nimi Friedricha Wilhelma II. (1688, podplukovník) a Carla Josepha (1696), roku 1723 lichtenštejnského sekretáře ve Vídni. Pánem Koryčan (od 1742) a svobodným pánem se stal jeho starší příbuzný Karel Josef (Johann Karl Joseph, asi 1690–1762) – nejspíš syn dvoreckého poštmistra Franze Leopolda. Podle Sinapia měl i syny Johanna Petera a Carla Ludwiga. Karel Josef synovy nezanechal; Koryčany přešly na příbuzného Kristiána Matyáše (* 1723, syn Friedricha Wilhelma II.), od něhož podle Gothy pocházejí i pruští baroni 19. století. Ve Dvorcích žili také měšťanští Gillerové (Christian, František, krejčí, tkalci, farář Jan Karel) – vazba na hejtmanovu rodinu zatím neznámá.",
       "vazba": "Vzdálení příbuzní: Friedrich Wilhelm I. byl bratr Maximiliánova děda Christopha Heinricha (a kmotr Maximiliána 1719), Karel Josef bratranec jeho otce, Kristián z Koryčan jeho bratranec z druhého kolena.",
       "profil": "fw1"
     },
@@ -1456,7 +1456,8 @@
       "fakta": [
         "Syn Johanna Christofa Gillera, císařského rytmistra, a Susanne Bartsch von Sternegg; rok narození (asi 1651) je nejistý.",
         "Roku 1700 dostal spolu s bratrem Christophem Heinrichem český šlechtický stav.",
-        "Byl správcem (Amtmann) a od roku 1694 hejtmanem na Karlovci (Carlsberg) u Dvorců u Bruntálu; Karlovec patřil k šternberskému panství a od roku 1695 Lichtenštejnům. Rodopis ho uvádí i jako bývalého císařského hejtmana.",
+        "Byl správcem (Amtmann) a od roku 1694 hejtmanem na Karlovci (Carlsberg) u Dvorců u Bruntálu. Karlovec byl tehdy samostatným dílem šternberského panství: do 13. 5. 1693 patřil Silviu Friedrichovi, vévodovi Württembersko-Olešnickému, pak hraběti Strattmannovi a od roku 1699 Lichtenštejnům. Rodopis ho uvádí i jako bývalého císařského hejtmana.",
+        "V letech 1687–1691 ho jako „Amtmann in Karlsberg“ zmiňuje kniha hornického bratrstva: prohlížel doly a vykupoval pro vrchnost železnou rudu (K. Berger, Geschichte der Stadt Bärn, 1901, s. 172–173).",
         "Manželka Anna Marie. Ve Dvorcích jim v letech 1688–1699 pokřtili nejméně osm dětí: Friedricha Wilhelma (1688), Johannu (1689), Marii Apollonii (1691), Marii Josephu (1694), Marii Theresii (1695), Carla Josepha (1696), Marii Elisabeth (1698) a Hanse Petera (1699). Dcera Magdalena se roku 1692 vdala na Karlovci.",
         "Později žil v Dolním Slezsku: jako rada císaře a komorní účetní knížectví Lehnického, Břežského a Volovského byl roku 1718 a 1721 kmotrem dětí synovce Johanna Christopha v Preichau.",
         "Roku 1723 (podle Sinapia, 1728) byl ještě naživu a měl pět synů: Franze Leopolda, zemského písaře knížectví Minstrberského a Frankenštejnska; Friedricha Wilhelma, hejtmana pluku barona Geyera v Sedmihradsku; Johanna Petera, praporčíka téhož pluku; Carla Ludwiga, dobrovolníka v armádě; a Carla Josepha, sekretáře knížete z Lichtenštejna v Opavě a Krnově (ten se roku 1723 oženil ve Vídni s Joannou Magdalenou von Mohr; pánem Koryčan byl jeho starší příbuzný Karel Josef).",
@@ -1939,7 +1940,7 @@
                     "jmeno": "Friedrich Wilhelm I. Giller",
                     "stav": "lit",
                     "roky": "1651 (?) – 1728",
-                    "pozn": "správce (Amtmann) v Karlovci, od 1694 „Haubtman“ (vojenská hodnost – Gotha: „vormals kaiserl. Hauptmann“); Karlovec patřil k šternberskému panství, od 1695 Lichtenštejnům; děti křtěny ve Dvorcích 1688–1699 (kmotry byli komtuři řádu)",
+                    "pozn": "správce (Amtmann) v Karlovci, od 1694 „Haubtman“ (vojenská hodnost – Gotha: „vormals kaiserl. Hauptmann“); Karlovec patřil do 1693 vévodovi Silviu Friedrichovi Württembersko-Olešnickému, pak Strattmannům, od 1699 Lichtenštejnům; děti křtěny ve Dvorcích 1688–1699 (kmotry byli komtuři řádu)",
                     "manzel": "× Anna Marie",
                     "popis": "1. větev",
                     "deti": [

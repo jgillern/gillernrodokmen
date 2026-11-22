@@ -37,7 +37,8 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
   Maximilián v přehlídce 1/1745 ani v letech 1753 a 1756 není. **Přehlídky 1746–1752 se nedochovaly.**
 - **Trachenberg 5. 2. 1743: Johann Carl Ludwig v. Giller** (syn Friedricha Wilhelma I.) **× Johanna Leonora**, dcera radního z Winzigu, snad Ebert (`o_1743_trachenberg_giller_ebert`, č. 650). Pracovní hypotéza zní: **Johanna = tato Johanna Leonora, ovdovělá a znovu vdaná za Maximiliána**. Čtení „Pominecz“ ji oslabuje.
 - **Maximilián † 7. 6. 1789 Stará Boleslav** (`z_1789_gillern_maximilian`) a vdova Terezie 1790 a 1793 – to už znáš z 5. kola.
-- **Erb Bartschů von Sternegg** (Krnovsko, Herrnstadt) je téměř shodný s erbem Gillerů (č. 656). Susanna Bartsch byla babička Christopha Heinricha * 1646.
+- **Erb Bartschů von Sternegg** (Krnovsko, Herrnstadt) je téměř shodný s erbem Gillerů (č. 656). Susanna Bartsch byla matka Christopha Heinricha * 1646. Erb a predikát dostali Barschové až 1695. **Jindřich Honorius Barsch byl asi 1711–1720 císařským lesmistrem ve Volově (Wohlau) a hejtmanem v Herrnstadtu**, tedy v okolí Krehlau a Hammeru (č. 656, 662). Je to příbuzenská síť v lesnické službě, kde mohl začínat i Maximilián.
+- **Friedrich Wilhelm I.** (prastrýc a kmotr Maximiliána) byl v letech 1687–1691 úředníkem v Karlovci u vévody Silvia Friedricha Württembersko-Olešnického (č. 662).
 
 **Negativní výsledky** (vše v deníku):
 - Krehlau – čitelné strany 1736–1750 vyčerpány (č. 643, 645, 646). Zbývá několik nečitelných zápisů 1745/46 (sn. 40, 382).

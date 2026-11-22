@@ -62,3 +62,10 @@ V katalogu (Krehlau, kat.) zjisti, zda jsou nafilmované **pohřby (Tote, Begrab
 - Pokud ne: zapiš, co katalog nabízí.
 
 Na konci krátké shrnutí: co se přečetlo nově, co zůstává nečitelné, co je staženo.
+
+## Doplněk (podle revize Fable, 22. 11.)
+Při čtení křtů Krehlau (úkoly 1 a 2) a pohřbů (úkol 4) vypiš navíc **všechny zápisy rodiny von Ertel** 1749–1760:
+- děti **Johanna Wenzela von Ertel** (podle lexikonu Johann Wenzel * 1749, Heinrich 1751, Karl 1752, Franz 1756, Joseph 1758, Philippine 1760);
+- u každého zápisu: datum, titul a statek otce (Herr auf Ober-/Nieder-Krehlau?), kmotři.
+
+Ertel po Gillernech převzal Krehlau. První jeho křest ukáže, od kdy tam seděl, a mezi kmotry mohou být Gillerové s údajem, kde tehdy žili. Snímky 39–55 a 233–251 tím pokryješ, pokračuj do snímku asi 90 (pravé strany) a 270 (levé strany), tedy do roku 1760.

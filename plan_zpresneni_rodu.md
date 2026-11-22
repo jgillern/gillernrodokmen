@@ -251,9 +251,23 @@ Celá revize je v souboru `revize_maximilian2_fable.md`. Klíčový nález (ově
 | G5 | Kmenové listy IR 15 – nejstarší ročníky a 1765–1771 | lokální Claude | částečně |
 | G6 | Krehlau – vybledlé strany 1736–1750 se zvýšeným kontrastem; sňatky 1743–1748 v katolických farnostech Volovska | lokální Claude | ✔ negativní (log 638, 643: Krehlau, Steinau, Köben, Guhrau, Guhren; ostatní fary okolí sňatky 1743–1748 na FamilySearch nemají) |
 | G7 | Poděbrady Z 1765, snímek 11866/34 („Josef Grill, lovecký adjunkt“ – Grill, nebo Giller?) | ChatGPT | |
-| G8 | Kam mohl otec Maximiliána poslat (1737–1749) – síť příbuzných v habsburských službách (Karel Josef: dvorská komora 1736–1746 = správa komorních panství, lichtenštejnský rada; kmotr FW I lichtenštejnský úředník). Cíleně: lichtenštejnské panství Kostelec nad Černými lesy, kniha 07 (N+O+Z 1744–1754, eBadatelna) – křty 1745–1748, sňatky 1743–1748; pak 06 (1734–1743) jen sňatky a kmotři | lokální Claude (`zadani_lokalni_lichtenstejn.md`) | ▶ |
+| G8 | (Fable 5: Kostelec jen jako sousední panství, úkol 3 vynechat) Kam mohl otec Maximiliána poslat (1737–1749) – síť příbuzných v habsburských službách (Karel Josef: dvorská komora 1736–1746 = správa komorních panství, lichtenštejnský rada; kmotr FW I lichtenštejnský úředník). Cíleně: lichtenštejnské panství Kostelec nad Černými lesy, kniha 07 (N+O+Z 1744–1754, eBadatelna) – křty 1745–1748, sňatky 1743–1748; pak 06 (1734–1743) jen sňatky a kmotři | lokální Claude (`zadani_lokalni_lichtenstejn.md`) | ▶ |
 | G9 | Jiná komorní panství 1743–1749: Zbiroh–Točník–Králův Dvůr, zbytek Pardubicka, pražské obory | lokální Claude (`zadani_lokalni_komorni_panstvi.md`) | ▶ |
 | G10 | GenTeam (všechny tvary jména 1730–1800) + lichtenštejnská panství Valtice, Lednice, Mor. Třebová (Acta Publica), Lanškroun (ARON) | lokální Claude (`zadani_lokalni_genteam_morava.md`) | ▶ |
 
 **Ukončeno:** Nisa (kolo 4), hledání Maximiliánova úmrtí v Poděbradech, na Kolínsku, v Praze, ve Vídni a v Koryčanech, Sigisbert (F9), Holíč jako samostatný směr. **Pozor při hledání v tisku:** vždy všechny tvary (Gillerů, Gilleru, Gilernu, Giller, Güller, Gyller, Killer).
 
+## Po 5. revizi Fable (22. 11. 2026)
+Revize v `revize_maximilian3_fable.md` (log 644). Josefův rok narození stojí na dvou nespolehlivých věcích; nevyloučená je i mezera v křtech 1753–1755. Znak „Alexia“ nejistý. Maximiliána 1749 přijal nejspíš Leopold Kinský (přímluva přes Vídeň).
+
+| # | Krok | Kdo | Stav |
+|---|---|---|---|
+| H1 | Z1 – Nymburk a Sadská 1750–1756 celé (mezera 1753–1755, „Alexia“, kmotři, Johanny * 1719–1727, Sadská sn. 462) | lokální Claude (`zadani_lokalni_Z1_nymburk_sadska.md`) | |
+| H2 | Z2 – Bílá Voda („Franciscus Giller × Eleonora“ 1754/56), Opava, Jesenicko, Šternberk 1740–1760 | lokální Claude (`zadani_lokalni_Z2_slezsko_rakouske.md`) | |
+| H3 | Z3 – pluk č. 15, kmenové listy 1744–1756 všech setnin (Franz Anton, Friedrich, Maximilián?) | lokální Claude (`zadani_familysearch_Z3_ir15.md`) | |
+| H4 | Slezsko, 2. okruh: katol. Hlohov, Vratislav, Lehnice, Trebnice, Trachenberg, Prausnitz; luterské Winzig, Wohlau, Steinau, Herrnstadt – sňatky 1743–1749 (nejdřív katalog) | lokální Claude | |
+| H5 | Chlumec nad Cidlinou (Kinský) – sňatky 1740–1749, křty 1744–1749 | lokální Claude (doplněk komorních panství) | |
+| H6 | Praha – rejstříky oddaných 1743–1749 | lokální Claude | |
+| H7 | Terezie: nový sňatek vdovy 1789–1799 (Brandýs, St. Boleslav, listováním), gruntovní knihy Brandýsa (dům č. 14) | lokální Claude | |
+| H8 | Vratislavské noviny 1752–1756, 1767–1768 (Hammer, Krehlau, Giller, Ertel) | já (SBC, dLibra Vratislav) | |
+| H9 | Tchyně („socrus“) v pohřbech farností 1750–1782 | při každém čtení | |

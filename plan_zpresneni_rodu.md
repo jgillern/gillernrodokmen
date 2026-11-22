@@ -249,7 +249,7 @@ Celá revize je v souboru `revize_maximilian2_fable.md`. Klíčový nález (ově
 | G3 | Paroubek, *Josefa šl. Clannerova* (1906), s. 15–25; Prášek I–III; seriál „Časové vzpomínky na staré Poděbrady“ (Nezávislost 1910); rejstříky Vavákových Pamětí | lokální Claude (NDK), já (ČDK) | |
 | G4 | Jmenné rejstříky s variantami (FamilySearch celý svět; GenTeam) | lokální Claude / Jan | částečně (vojenské zadání) |
 | G5 | Kmenové listy IR 15 – nejstarší ročníky a 1765–1771 | lokální Claude | částečně |
-| G6 | Krehlau – vybledlé strany 1736–1750 se zvýšeným kontrastem; sňatky 1743–1748 v katolických farnostech Volovska | lokální Claude | |
+| G6 | Krehlau – vybledlé strany 1736–1750 se zvýšeným kontrastem; sňatky 1743–1748 v katolických farnostech Volovska | lokální Claude | ✔ negativní (log 638, 643: Krehlau, Steinau, Köben, Guhrau, Guhren; ostatní fary okolí sňatky 1743–1748 na FamilySearch nemají) |
 | G7 | Poděbrady Z 1765, snímek 11866/34 („Josef Grill, lovecký adjunkt“ – Grill, nebo Giller?) | ChatGPT | |
 | G8 | Kam mohl otec Maximiliána poslat (1737–1749) – síť příbuzných v habsburských službách (Karel Josef: dvorská komora 1736–1746 = správa komorních panství, lichtenštejnský rada; kmotr FW I lichtenštejnský úředník). Cíleně: lichtenštejnské panství Kostelec nad Černými lesy, kniha 07 (N+O+Z 1744–1754, eBadatelna) – křty 1745–1748, sňatky 1743–1748; pak 06 (1734–1743) jen sňatky a kmotři | lokální Claude (`zadani_lokalni_lichtenstejn.md`) | ▶ |
 | G9 | Jiná komorní panství 1743–1749: Zbiroh–Točník–Králův Dvůr, zbytek Pardubicka, pražské obory | lokální Claude (`zadani_lokalni_komorni_panstvi.md`) | ▶ |

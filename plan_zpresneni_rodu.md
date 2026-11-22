@@ -215,7 +215,7 @@ Celá revize je v souboru `revize_rod3_fable.md`. Ověřil jsem z ní a do dat z
 | F9 | Sigisbert Güller († 1775 Poděbrady, kapitán pluku De Caroli) – celé znění zápisu; mohl být Johannin příbuzný | ChatGPT |
 | F10 | ▶ lokální Claude (index Lucemburk) + zadání P (pluk Friedricha Wilhelma II. ze schematismů) – Lucemburk 1737–1751 – posádka pluku Friedricha Wilhelma II., jeho úmrtí 1751; vojenská stopa Maximiliána a Johanny | Claude / ChatGPT |
 | F11 | Pruští baroni: FamilySearch – jmenné hledání Eduard / Moritz / Alexander von Gillern 1795–1810 (Lehnice, Goldberg) | lokální Claude |
-| F12 | ▶ zadání Q (`zadani_chatgpt_opava_predci.md`) – Předci: křty Opava 1640–1660 (Christoph Heinrich 1646, Friedrich Wilhelm 1651, Franz Leopold 1656); „Deschna“ = Deštná u Jindřichova Hradce? | ChatGPT |
+| F12 | ✘ zatím bez výsledku (log 624; Op I 1 souvisle 1644–1653 nepokryto) – zadání Q (`zadani_chatgpt_opava_predci.md`) – Předci: křty Opava 1640–1660 (Christoph Heinrich 1646, Friedrich Wilhelm 1651, Franz Leopold 1656); „Deschna“ = Deštná u Jindřichova Hradce? | ChatGPT |
 | F13 | Křest „mladšího“ Bedřicha Rudolfa (* asi 4/1760, Kladruby a okolí) – kmotr kapitán s plným jménem | Claude (ARON) |
 
 **Co přestat dělat (podle revize):**

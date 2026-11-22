@@ -115,3 +115,7 @@ Online bez skenů; spis by jmenoval dědice (Maximilián v Čechách):
 - **GStA PK Berlín, I. HA Rep. 96, č. 426 P – Vasallentabellen für Schlesien 1748–1756**: vlastníci rytířských statků kolem roku 1752 (kraj Wohlau / Steinau), způsob nabytí. Srovnat s **I. HA Rep. 46 B, č. 3144** (1741–1761), **3145** (1774–1776), **3146** (1773–1779), **3147** (1741, 1799–1805), **3150** (Glogau 1798 – Gorkau, Culmikau); **č. 1328** Allodifikationen 1743–1763 (zásah „Freiherr von Gillern“, Rettkau).
 - **AP Wrocław, Sąd Obwodowy w Ścinawie (82/579/0)**: Umowy 1770–1792 (jedn. 1), Księgi gruntowe 1747–1851 (jedn. 2–4 – rytířská folia Ober- a Nieder-Krehlau a Hammer), Sprawy spadkowe – Podział spadku 1739–1748 (jedn. 8).
 - Soudně patřil kraj Volov k **Oberamtsregierung Glogau** – pozůstalostní spisy šlechty 1752 (kde jsou dnes, neurčeno).
+
+## Nejstarší předci – Opava (22. 11. 2026, zpráva ChatGPT Q)
+- **ZA Opava, fond Josef Zukal, inv. č. 195–208, 211, 213–240** (výpisky z opavských matrik a o opavských rodech; inv. 198 – rodina Matyáše Gillera z Lilienfeldu) a **výpisky Augusta von Doerr** z opavských matrik 1601–1900 (fond Farní úřad u Panny Marie Opava, inv. č. 238): Gillerové z Lilienfeldu, Johann Christof Giller × Susanne Bartsch, křty 1646/1651.
+- **SOkA Opava, Archiv města Opavy** – pozemkové a měšťanské knihy 17. století (Gillerové z Lilienfeldu).

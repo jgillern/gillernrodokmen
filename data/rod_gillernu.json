@@ -1078,8 +1078,8 @@
         "rytířský stav „von Gillern“ 27. 3. 1763 (Gotha) / 1764 (Rakouský státní archiv), český inkolát 29. 3. 1764",
         "rakouský stav svobodných pánů 21. 6. 1766",
         "náhradní dědic Koryčan po bratranci Karlu Josefovi (1759); závětí z 31. 10. 1791 odkázal Koryčany dceři Marii Josefě, provdané za Konstantina svobodného pána Münch von Bellinghausen (1793)",
-        "V letech 1766–1769 žil s rodinou ve Vídni: v červenci 1766 tam pohřbil dítě Theresii, 9. 7. 1767 dal u sv. Štěpána pokřtít dceru Marii Josefu Aloisii Walburgu a 24. 8. 1769 dceru Marii Antonii Josefu.",
-        "Rodina žila ve Vídni i později: 21. 11. 1783 tam zemřel Kristiánův jedenáctiletý syn Karel Josef (* asi 1772), v Jakoberově ulici č. 904.",
+        "Od roku 1766 žil s rodinou ve Vídni: 31. 5. 1766 tam dal u sv. Štěpána pokřtít dceru Marii Terezii Karolínu (pohřbena už 15. 7. 1766), 9. 7. 1767 dceru Marii Josefu Aloisii Walburgu, 24. 8. 1769 dceru Marii Antonii Josefu a 29. 4. 1773 syna Karla Boromejského – rodina tehdy bydlela ve městě v domě č. 904.",
+        "Rodina bydlela ve Vídni i o deset let později: 21. 11. 1783 tam v Jakoberově ulici č. 904 zemřel Kristiánův syn, ve vídeňských novinách zapsaný jako „Karl Jos.“, 11 let – nejspíš Karel Boromejský (* 1773). Jiný Kristiánův syn ve vídeňských matrikách 1755–1776 není.",
         "Ve vídeňském seznamu ztrát po bitvě u Torgavy (1760) je u pluku Sincère zapsán jako zajatý nebo nezvěstný „granátnický hejtman Giller“ – nejspíš Kristián.",
         "Zemřel 25. 7. 1793 v Koryčanech (zámek č. 65) na mrtvici, ve věku 70 let, pohřben v rodinné kryptě.",
         "pradědeček Oswalda svobodného pána z Gillernů (* 1828, Dobberphul u Štětína) – tedy předek pruských baronů (Gotha 1884)",
@@ -1124,9 +1124,11 @@
       ],
       "zaznamy": [
         "j_1760_giller_hauptmann",
+        "n_1766_gillern_maria_theresia",
         "z_1766_gillern_theresia",
         "n_1767_gillern_maria_josepha",
         "n_1769_gillern_maria_antonia",
+        "n_1773_gillern_carolus",
         "z_1783_gillern_karl_josef"
       ]
     },
@@ -1896,10 +1898,10 @@
                             "profil": "kristian",
                             "deti": [
                               {
-                                "jmeno": "Theresia",
+                                "jmeno": "Maria Theresia Carolina",
                                 "stav": "doc",
                                 "vazba": "doc",
-                                "roky": "† 7/1766 Vídeň (dítě)"
+                                "roky": "* 31. 5. 1766 – † 15. 7. 1766 Vídeň"
                               },
                               {
                                 "jmeno": "Marie Josefa z Gillernů",
@@ -1916,10 +1918,10 @@
                                 "roky": "* 24. 8. 1769 Vídeň"
                               },
                               {
-                                "jmeno": "Karel Josef",
+                                "jmeno": "Carolus Borromaeus („Karl Jos.“)",
                                 "stav": "doc",
                                 "vazba": "doc",
-                                "roky": "asi 1772 – † 21. 11. 1783 Vídeň"
+                                "roky": "* 29. 4. 1773 Vídeň – † 21. 11. 1783 (?)"
                               },
                               {
                                 "jmeno": "… jedna generace (neznámá)",

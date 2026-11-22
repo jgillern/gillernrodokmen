@@ -985,5 +985,19 @@
   "svazek": "Schlesische Provinzialblätter 52 (1810), č. 8 (srpen)",
   "popis": "Slezský měsíčník; rubriky sňatků, narození a úmrtí.",
   "url": "https://sbc.org.pl/Content/16715/PDF/i4002-1810-08-0001.pdf#page=90"
+ },
+ "wien_stephan_01-086": {
+  "archiv": "Diözesanarchiv Wien",
+  "portal": "Matricula",
+  "svazek": "Wien, Dom- und Metropolitanpfarre St. Stephan, Taufbuch 01-086 (1765–1767)",
+  "popis": "Kniha pokřtěných farnosti sv. Štěpána ve Vídni; rejstřík G snímek 626.",
+  "url": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-086/"
+ },
+ "wien_stephan_01-090": {
+  "archiv": "Diözesanarchiv Wien",
+  "portal": "Matricula",
+  "svazek": "Wien, Dom- und Metropolitanpfarre St. Stephan, Taufbuch 01-090 (1772–1773)",
+  "popis": "Kniha pokřtěných farnosti sv. Štěpána ve Vídni; rejstřík G snímek 708.",
+  "url": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-090/"
  }
 }

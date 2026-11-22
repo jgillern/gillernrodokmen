@@ -1798,7 +1798,7 @@
   "druh": "Z",
   "datum": "31. 1. 1762",
   "nazev": "Úmrtí Bedřicha Rudolfa, syna Maximiliána de Gillern, císařského lesníka, Čelákovice",
-  "shrnuti": "31. 1. 1762 zemřel v Čelákovicích ve vrchnostenském domě mladší (junior) Bedřich Rudolf, syn urozeného pana Maximiliána de Gillern, císařského lesníka (Silvanus Caesareus), 1 rok, 9 (?) měsíců a 17 dní; pohřben 2. 2. u Nanebevzetí P. Marie v Čelákovicích.",
+  "shrnuti": "31. 1. 1762 zemřel v Čelákovicích ve vrchnostenském domě mladší (junior) Bedřich Rudolf, syn urozeného pana Maximiliána de Gillern, císařského lesníka (Silvanus Caesareus), ve věku 1 roku, 1 (?) měsíce a 14 dní (narozen tedy asi v prosinci 1760 nebo v lednu 1761 – nejspíš totéž dítě jako Jan Křtitel, * 16. 1. 1761 Kladruby); pohřben 2. 2. u Nanebevzetí P. Marie v Čelákovicích.",
   "strana": "str. 893, 3. zápis",
   "odkaz": "https://ebadatelna.soapraha.cz/d/4722/449"
  },
@@ -2680,5 +2680,27 @@
   "odkaz": "https://ebadatelna.soapraha.cz/d/12366/7",
   "pozn": "Lokální Claude – zadání H7 (Terezie); výřez sám přečten. Křestní jméno slečny („Jeanne“ ?) nejisté, příjmení novomanželů nejistá.",
   "shrnuti": "17. 2. 1789 se ve Staré Boleslavi (dům č. 19) oddával Jan, syn Jana Halíře (?), 23 let, s Barborou, dcerou pana Václava Gelleho (?) z Čelákovic, 24 let; oddával kaplan P. František Němec. Vedle svědků Jiřího Hlavky a Antonína Hrzo… (?) jsou zapsáni jako přítomní „Jeanne (?) J. M. Freylinie z Gillernů“ a „Maxmilian z Gillernů Oberforst“ – nadlesní necelé čtyři měsíce před smrtí a nejspíš jeho svobodná dcera Johanna (* 1751), která s ním ve Staré Boleslavi žila."
+ },
+ {
+  "klic": "n_1761_celakovice_johanna_svedkyne",
+  "druh": "N",
+  "datum": "12. 9. 1761",
+  "nazev": "Křest v Čelákovicích – svědkyně Johanna, manželka Maximiliána z Gillernů, lesmistra",
+  "svazek": "celakovice_4722",
+  "strana": "s. 338, poslední zápis",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/4722/178",
+  "pozn": "Lokální Claude – zadání Čelákovice 1761–1767 (výřez sám přečten). Nejstarší doklad rodiny v Čelákovicích; ještě 16. 1. 1761 byl dvorním myslivcem v Čelákovicích Josef Karel Höffer.",
+  "shrnuti": "12. 9. 1761 pokřtil děkan Jan Bedřich Jeník Zaradský z Gömsendorffu v Čelákovicích Marii Alžbětu, dceru Jana Sedličky (?) a Kateřiny, svobodných z Čelákovic; kmotrou byla urozená slečna Josefa Jeníková Zaradská, svědky „Johanna Uxor Perillustris Dni Maximiliani de Gillern Silvani“ a p. Antonín Novoveský. Rodina tedy byla v Čelákovicích už v září 1761, ne až od roku 1762."
+ },
+ {
+  "klic": "n_1764_celakovice_anna_kmotra",
+  "druh": "N",
+  "datum": "23. 11. 1764",
+  "nazev": "Křest v Čelákovicích – kmotra slečna Anna, dcera pana z Gillernů",
+  "svazek": "celakovice_4722",
+  "strana": "s. 362",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/4722/190",
+  "pozn": "Lokální Claude – zadání Čelákovice 1761–1767 (výřez sám přečten). Anna byla kmotrou či svědkyní i 2. 1. 1765 (s. 363) a 8. 11. 1766 (s. 380: „Herula Anna filia Perillustris Dni Maximiliani de Güllern Venatoris Aulici ex Hradek Schellakowitz“).",
+  "shrnuti": "23. 11. 1764 pokřtil kaplan Josef Vokálek v Čelákovicích Alžbětu Kateřinu, dceru zemřelého Karla Sedlického (?) a Anny, svobodných z Čelákovic; kmotrou byla „Perillustris Herula Anna filia Perillustris domini de Gillern“ – urozená slečna Anna, dcera urozeného pana z Gillernů (nejspíš Anna Barbora, * 1750); svědci Alžběta, manželka Václava Labíka, a p. Václav Hradecký."
  }
 ]

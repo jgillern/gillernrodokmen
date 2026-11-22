@@ -3004,5 +3004,29 @@
   ],
   "status": "ok",
   "note": "Přítomni: slečna a Maxmilián z Gillernů"
+ },
+ "n_1761_celakovice_johanna_svedkyne": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "Svědkyně Johanna, manželka Maximiliána z Gillernů"
+ },
+ "n_1764_celakovice_anna_kmotra": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "Kmotra slečna Anna, dcera pana z Gillernů"
  }
 }

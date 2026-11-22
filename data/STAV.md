@@ -154,6 +154,7 @@ Podrobně v chatu 21. 11. Zkratky: A = vazby ve Dvorcích, H = hypotézy o Maxim
 - Pilnáček, Rody starého Slezska (1972), č. 866: „Giller z Lilienfeldu … na Opavsku; z jejich pošlosti (občanské) snad vyšli později na Moravě usedlí Gillernové“.
 
 ## Zásada (Jan 21. 11. 2026, důrazně): Janovi NENAVRHOVAT osobní návštěvy (archivy, střediska FamilySearch, badatelny). Pracovat jen s tím, co je online; offline věci jen tiše evidovat v archivni_dotazy.md.
+**Zpřesněno 22. 11. 2026 (Jan, podruhé):** v odpovědích offline cesty NEROZEPISOVAT ani nenabízet (ani objednávky kopií) – jen tiše zapsat do archivni_dotazy.md. Offline řešit jen tehdy, když o ně Jan výslovně požádá. Návrhy postupu = jen online kroky.
 
 ## Zásada (Jan 21. 11. 2026): před zápisem do archivních dotazů vždy nejdřív projít online cesty
 Kontrolní seznam: ČDK/Kramerius ve všech tvarech jména (Gillern, Gillernová/-ové/-ovou/-a/-em, Gillernů, z Gillern, Giller) + OCR celé stránky přes API (veřejné dokumenty); tištěné ročenky, adresáře, školní výroční zprávy, výsledky pozemkové reformy, oznámení v novinách (narozeniny, úmrtí, sňatky); ARON/Porta fontium kroniky; katalogy archivů (ÖStA, ARON, eBadatelna – seznamy); Geneteka; web (genealogické portály, hroby); teprve pak archiv / úřad.

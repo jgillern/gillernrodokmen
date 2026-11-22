@@ -216,7 +216,7 @@ Celá revize je v souboru `revize_rod3_fable.md`. Ověřil jsem z ní a do dat z
 | F10 | ▶ lokální Claude (index Lucemburk) + zadání P (pluk Friedricha Wilhelma II. ze schematismů) – Lucemburk 1737–1751 – posádka pluku Friedricha Wilhelma II., jeho úmrtí 1751; vojenská stopa Maximiliána a Johanny | Claude / ChatGPT |
 | F11 | Pruští baroni: FamilySearch – jmenné hledání Eduard / Moritz / Alexander von Gillern 1795–1810 (Lehnice, Goldberg) | lokální Claude |
 | F12 | ✘ zatím bez výsledku (log 624; Op I 1 souvisle 1644–1653 nepokryto) – zadání Q (`zadani_chatgpt_opava_predci.md`) – Předci: křty Opava 1640–1660 (Christoph Heinrich 1646, Friedrich Wilhelm 1651, Franz Leopold 1656); „Deschna“ = Deštná u Jindřichova Hradce? | ChatGPT |
-| F13 | Křest „mladšího“ Bedřicha Rudolfa (* asi 4/1760, Kladruby a okolí) – kmotr kapitán s plným jménem | Claude (ARON) |
+| F13 | ✔ (log 655: v Kladrubech 1760 nic; „junior Fridericus Rudolphus“ † 1762 = nejspíš Jan Křtitel * 1761) – Křest „mladšího“ Bedřicha Rudolfa | Claude (ARON) |
 
 **Co přestat dělat (podle revize):**
 - další polabské rejstříky kvůli Maximiliánovu sňatku;
@@ -272,3 +272,12 @@ Revize v `revize_maximilian3_fable.md` (log 644). Josefův rok narození stojí 
 | H8 | Vratislavské noviny 1752–1756, 1767–1768 (Hammer, Krehlau, Giller, Ertel) | já (SBC, dLibra Vratislav) | |
 | H9 | Tchyně („socrus“) v pohřbech farností 1750–1782 | při každém čtení | |
 | H10 | **Trachenberg 1743–1761: pohřeb Carla Ludwiga, děti s Johannou Leonorou, vdova; druhé filmování koha:649219** – test hypotézy „Johanna = Johanna Leonora, vdova po Carlu Ludwigovi“ | lokální Claude (`zadani_familysearch_kolo9_trachenberg.md`) | |
+
+## Další kroky mimo Maximiliána a Josefa (22. 11. 2026, Jan: rozjet 1, 3, 4, 5 + hloubka rodu)
+| # | Krok | Kdo | Stav |
+|---|---|---|---|
+| I1 | A5 – rodiče Cathariny Barbary Eleonory Nerlich (Nisa, křty 1680–1700, Andreas Nerlich) | lokální Claude (`zadani_familysearch_kolo10_nerlich.md`) | |
+| I2 | Sourozenci Maximiliána (Carl Wilhelm Vitus * 1714, sestry, Franz Anton) + pruští baroni (FW v. Gillern × Rochow Lehnice 1793–98 = syn Ernsta Heinricha?; Moritz Eduard Alexander × Hinke 1827) | lokální Claude (`zadani_familysearch_kolo11_sourozenci_prusove.md`) | |
+| I3 | F13 | já | ✔ log 655 |
+| I4 | **Hloubka rodu – předci Heinricha Christofa:** Opava Op I 1 křty 1644–1653 souvisle, sňatky 1638–1646, pohřby; Krnov Kr I 1; Osoblaha (Bartschové) | lokální Claude (`zadani_lokalni_predci_heinrich_christof.md`) | |
+| I5 | Hloubka rodu – literatura: Tschammer (Sinapius, rodová historie), Bartsch v. Sternegg, třicetiletá válka (pluk Wrbna – Oberstleutnant Giller; pluk Gallas – Rittmeister Giller): Hallwich, DBBTI, Theatrum Europaeum | já | log 656 (částečně) |

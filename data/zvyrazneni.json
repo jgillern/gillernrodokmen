@@ -2812,5 +2812,65 @@
   ],
   "status": "ok",
   "note": "celý výřez"
+ },
+ "o_1783_giller_holaubsova": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "n_1784_stboleslav_gillern_svedek": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "n_1785_stboleslav_johanna_kmotra": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "n_1787_stboleslav_terezie_kmotra": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "n_1789_stboleslav_maximilian_kmotr": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
  }
 }

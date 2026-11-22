@@ -1,6 +1,6 @@
 # Maximilián 1736–1749, Johanna a Josef – nezávislá revize, 5. kolo
 
-Fable, 22. 11. 2026. Podklad: větev `claude/nice-dirac-8inizg` ve stavu `df03684` (zadání `zadani_fable_maximilian3.md`).
+Fable, 22. 11. 2026. Podklad: větev `claude/nice-dirac-8inizg` ve stavu `df03684` (zadání `zadani_fable_maximilian3.md`); před odevzdáním doplněno podle stavu `0d4e403` (dodatek 1a).
 Nic kromě tohoto souboru jsem neměnil.
 
 **Značky:** [D] doloženo zápisem · [L] tištěná literatura · [O] odvozeno · [H] domněnka · [N] nově zjištěno v tomto kole · [P] z mé paměti, neověřeno · (?) nejisté čtení.
@@ -22,6 +22,13 @@ Složka `pracovni/` v repozitáři stále není. Zprávy lokálního Clauda a Ch
 8. **Běžící úkoly dávají smysl,** jen Kostelec nad Černými lesy stojí na chybném předpokladu (oddíl 9).
 9. **Tři nejlepší cesty** (hotová zadání v oddíle 12): Z1 Nymburk a Sadská 1750–1756 znovu a celé; Z2 rakouské Slezsko – Bílá Voda, Opava; Z3 kmenové listy pluku č. 15 z let 1744–1756, tentokrát všechny setniny.
 10. Poctivý odhad: všechny běžící i nově navržené cesty dohromady mají na nalezení sňatku asi třetinovou šanci. Zbytek leží v pramenech, které online nejsou.
+
+---
+
+## 1a. Dodatek: co přibylo na větvi během mé práce (stav `0d4e403`)
+
+- **Kolo 5 je negativní** (deník č. 643): katolické sňatky 1743–1748 ve Steinau, Köbenu, Guhrau a Guhren – žádný Giller. Tím je první okruh kolem Krehlau vyčerpán. Scénář A proto snižuji z 35 na **30 %** a rozdíl dávám do „jinde“ (tabulka 3.4 je už opravená). Ve scénáři A zbývají: nečitelná místa Krehlau, druhý okruh (Hlohov, Vratislav, Lehnice, Trebnice, Trachenberg) a luterské matriky – cesta 4.
+- **Kolo 6 (`zadani_familysearch_kolo6_krehlau.md`) dává smysl.** Doporučuji k němu přidat jeden úkol, který nestojí skoro nic: v křtech Krehlau **1749–1760 vypsat děti Johanna Wenzela von Ertel** (podle lexikonu Johann Wenzel \* 1749, Heinrich 1751, Karl 1752, Franz 1756, Joseph 1758, Philippine 1760 – viz N2) i s titulem otce a kmotry. První takový křest ukáže, **od kdy Ertel v Krehlau seděl**, tedy kdy Gillerové statek pustili, a mezi kmotry mohou být Gillerové s údajem, kde tehdy žili. Totéž u pohřbů (úkol 4 kola 6): hledat i příjmení Ertel.
 
 ---
 
@@ -79,13 +86,13 @@ Otázka: kde žil pár v době sňatku. Odhady jsou subjektivní; v závorce hod
 
 | Scénář | Co přibylo | Odhad |
 |---|---|---|
-| **A. Dolní Slezsko** – doma nebo u nevěsty | Krehlau čitelné strany negativní, část 1743–1745 nečitelná (deník č. 638). Nisa negativní (č. 636). Pro: řetěz přímluvy (3.2) nevyžaduje pobyt jinde; otec měl od 1742 úřad pod vládou v **Hlohově** (č. 623) a hlohovští Ertelové po něm získali Krehlau [N2]. **Nikdo nezvážil luterské matriky** – okolní šlechta byla luterská a bratr Ernst Heinrich se 1767 ženil evangelicky (č. 636). | **35 %** (35) |
+| **A. Dolní Slezsko** – doma nebo u nevěsty | Krehlau čitelné strany negativní, část 1743–1745 nečitelná (deník č. 638). Nisa negativní (č. 636). Pro: řetěz přímluvy (3.2) nevyžaduje pobyt jinde; otec měl od 1742 úřad pod vládou v **Hlohově** (č. 623) a hlohovští Ertelové po něm získali Krehlau [N2]. **Nikdo nezvážil luterské matriky** – okolní šlechta byla luterská a bratr Ernst Heinrich se 1767 ženil evangelicky (č. 636). Proti: kolo 5 negativní (č. 643). | **30 %** (35) |
 | **A2. Rakouské Slezsko a Opava** | Bílá Voda (3.3); Ertelův bratr fiskálem v Opavě; Javorník, Vidnava a Zlaté Hory negativní jen v rejstřících (č. 621). | **10 %** (7 pro „Nisu a biskupské statky“) |
 | **B. Vojsko** | Pluk č. 43 negativní (č. 637). U pluku č. 15 čtena jen „Prima Plana 1/1745“ a setnina bratra 1762–1767. Franz Anton, který by v 1/1745 být měl, v deníku č. 637 zmíněn není → kontrola nebyla úplná. | **8 %** (25) |
 | **C. Čechy před 1749** – jiné komorní panství, služba u šlechtice, Praha | Řetěz přímluvy to oslabuje. Nově: Kinského vlastní panství **Chlumec nad Cidlinou**; pražské farnosti (sídlo úřadu lovčího). | **15 %** (15) |
 | **D. Vídeň, Morava, Lichtenštejnové** | Koryčany a část Vídně negativní; GenTeam dá Vídeň celou. | **8 %** (10) |
 | **E. Místní nevěsta v Polabí, sňatek 1748/49** | Dosud zamítnuto větou „mezi kmotry není nikdo z její rodiny“ – to je kruh, viz 5.2. Sňatky Nymburk, Sadská, Poděbrady negativní. | **6 %** (–) |
-| **F. Jinde** (Polsko, Sasko, Uhry, Nizozemí) | Index FamilySearch negativní (č. 637). | **18 %** (8) |
+| **F. Jinde** (Polsko, Sasko, Uhry, Nizozemí) | Index FamilySearch negativní (č. 637). | **23 %** (8) |
 
 Scénář F je velký schválně: po čtyřech kolech negativních výsledků musím připustit, že odpověď může ležet mimo všechno, co nás napadlo.
 
@@ -203,7 +210,8 @@ Zapsaných 70 let dává rok 1747. Vedle Franze \* 1747 by rodiče roku 1753 tě
 
 | Úkol | Soud | Odhad zásahu |
 |---|---|---|
-| Kolo 5 – katolické sňatky Steinau, Köben, Guhrau, Guhren | Ano, je to jádro scénáře A. Chybí: **Hlohov**, Vratislav, luterské matriky (cesta 4). | 8 % |
+| Kolo 5 – katolické sňatky Steinau, Köben, Guhrau, Guhren | Byl to správný krok; mezitím skončil **negativně** (deník č. 643). Zbývá: **Hlohov**, Vratislav, luterské matriky (cesta 4). | hotovo |
+| Kolo 6 – Krehlau při plném přiblížení | Ano. Přidat děti Ertelů 1749–1760 (dodatek 1a). | 5 % |
 | Kostelec nad Černými lesy + „Josef Grill“ | Rozcvička (1 snímek) ano. Kostelec jen jako sousední panství – viz K7. Výřez z roku 1784 na Kostelec neukazuje [N5b]. | 3 % |
 | Komorní panství (Zbiroh, zbytek Pardubicka, pražské obory) | Ano. Translokace mezi panstvími jsou doložené (roku 1755 šel zbirožský nadlesní do Kladrub, VČSH s. 116). Řetěz přímluvy (3.2) ale snižuje potřebu předchozí služby. | 6 % |
 | GenTeam + Valtice, Lednice, Mor. Třebová, Lanškroun | GenTeam ano – jednou provždy uzavře Vídeň. Z lichtenštejnských panství chybí to, kde měli Gillerové příbuzné: **Šternberk** (hejtman Sefftig × Gillerová 1705, `o_1705_sefftig_gillerova`; deník č. 578 „Šternberk jen katalog“). | 5 % |
@@ -217,7 +225,7 @@ Zapsaných 70 let dává rok 1747. Vedle Franze \* 1747 by rodiče roku 1753 tě
 | **1** | **Nymburk a Sadská 1750–1756 celé:** křty a pohřby souvisle, snímek 462, ověření „Alexia“, nepřepsaná slova 1751 a 1753, kdo byli kmotři, Johanny \* 1719–1727 s jejich příjmeními | eBadatelna: Nymburk 07 (10406), rejstřík 10439; Sadská 05 (11453), rejstřík 11513 | L | 6.2, 5.1, 5.2, N6 | Josefův křest 12–15 %; nový užitečný údaj 60 % |
 | **2** | **Bílá Voda** – „Franciscus Giller × Eleonora“ 1754/56; pak sňatky 1740–1750 a křty 1744–1750 tamtéž; **Opava** – rejstříky oddaných 1740–1749; Jeseník, Žulová, Supíkovice – rejstříky | ZA Opava (digi.archives.cz) | L (Jan pomůže s přístupem) | 3.3; nikdo to nečetl | příbuzný 30 %; Maximilián 6 % |
 | **3** | **Pluk č. 15, 1744–1756:** „Prima Plana“ všech setnin, Franz Anton, první zápis Friedricha, jakýkoli další Gillern | FamilySearch, kmenové listy IR 15 (DGS 7606413, 7606414, 7607065 a sousední) | L | 3.3, K8 | Maximilián 8 %; údaje o Franzi Antonovi 70 % |
-| 4 | **Slezsko, druhý okruh – sňatky 1743–1749:** katolické Hlohov, Vratislav, Lehnice, Trebnice, Trachenberg, Prausnitz; **luterské** Winzig, Wohlau, Steinau, Herrnstadt. Nejdřív katalog: co jde z domu. | FamilySearch | L | 3.4 A | 8 % |
+| 4 | **Slezsko, druhý okruh – sňatky 1743–1749:** katolické Hlohov, Vratislav, Lehnice, Trebnice, Trachenberg, Prausnitz; **luterské** Winzig, Wohlau, Steinau, Herrnstadt. Nejdřív katalog: co jde z domu. (První okruh je po kole 5 hotový, deník č. 643.) | FamilySearch | L | 3.4 A | 8 % |
 | 5 | **Chlumec nad Cidlinou** (Kinského panství): sňatky 1740–1749, křty 1744–1749; pak Žiželice, Kratonohy | ARON SOA Zámrsk | L | N3: Kinský bral a povyšoval sám | 5 % |
 | 6 | **Praha – rejstříky oddaných 1743–1749** všech farností (G, K), potom křty 1745–1749 | AHMP | L | sídlo úřadu lovčího; „svobodní“ lidé; dosud jen úmrtí 1786–1800 (deník č. 600) | 5 % |
 | 7 | **Terezie a dům č. 14** – čtyři kroky z oddílu 7 | eBadatelna | L | otázka 5; soupis dědiců | nový sňatek 35 %; kniha online 25 % |

@@ -1461,7 +1461,8 @@
         "Později žil v Dolním Slezsku: jako rada císaře a komorní účetní knížectví Lehnického, Břežského a Volovského byl roku 1718 a 1721 kmotrem dětí synovce Johanna Christopha v Preichau.",
         "Roku 1723 (podle Sinapia, 1728) byl ještě naživu a měl pět synů: Franze Leopolda, zemského písaře knížectví Minstrberského a Frankenštejnska; Friedricha Wilhelma, hejtmana pluku barona Geyera v Sedmihradsku; Johanna Petera, praporčíka téhož pluku; Carla Ludwiga, dobrovolníka v armádě; a Carla Josepha, sekretáře knížete z Lichtenštejna v Opavě a Krnově (ten se roku 1723 oženil ve Vídni s Joannou Magdalenou von Mohr; pánem Koryčan byl jeho starší příbuzný Karel Josef).",
         "Roku 1719 byl v Krehlau kmotrem našeho Maximiliána, syna svého synovce Carla Heinricha.",
-        "Zemřel roku 1728."
+        "Zemřel roku 1728.",
+        "Jeho syn Johann Carl Ludwig se 5. 2. 1743 oženil v Trachenbergu (Żmigród) s Johannou Leonorou, dcerou zesnulého radního města Winzig Johanna Carla Eberta (?); otec je v zápisu „weyland“ (zesnulý) rytíř Friedrich Wilhelm von Giller, bývalý císařsko-královský účetní a rada."
       ],
       "vztahy": [
         {
@@ -1513,7 +1514,8 @@
         "n_1688_giller_friedrich_wilhelm",
         "n_1696_giller_carl_joseph",
         "n_1719_giller_maximilian",
-        "o_1723_giller_mohr"
+        "o_1723_giller_mohr",
+        "o_1743_trachenberg_giller_ebert"
       ]
     },
     "fw2": {
@@ -2042,10 +2044,11 @@
                         "pozn": "v matrice „Hans Peter“ (dříve čteno Hans Wilhelm); nejspíš Johann Peter, roku 1723 praporčík pluku barona Geyera (Sinapius)"
                       },
                       {
-                        "jmeno": "Carl Ludwig",
-                        "stav": "lit",
-                        "vazba": "lit",
-                        "pozn": "dobrovolník (Sinapius); křest nenalezen"
+                        "jmeno": "Johann Carl Ludwig",
+                        "stav": "doc",
+                        "vazba": "doc",
+                        "pozn": "1723 dobrovolník v armádě (Sinapius); křest nenalezen",
+                        "manzel": "× 5. 2. 1743 Trachenberg Johanna Leonora, dcera radního z Winzigu Johanna Carla Eberta (?)"
                       },
                       {
                         "jmeno": "Franz Leopold Giller",

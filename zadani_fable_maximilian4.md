@@ -1,6 +1,6 @@
 # Zadání pro Fable: Maximilián, Johanna a Josef – kde hledat dál (nezávislá revize, 6. kolo)
 
-Pomáháš s rodokmenem rodiny Gillernů. Od tvé 5. revize (`revize_maximilian3_fable.md`) proběhlo asi patnáct hledání. Většina skončila negativně, ale přibylo několik nových faktů (níže). Hlavní otázka zůstává otevřená: **kde byl Maximilián v letech 1736–1749, kdo byla Johanna a kde se narodil Josef.**
+Pomáháš s rodokmenem rodiny Gillernů. Od tvé 5. revize (`revize_maximilian3_fable.md`) proběhlo asi dvacet hledání. Většina skončila negativně, ale přibylo několik nových faktů (níže). Hlavní otázka zůstává otevřená: **kde byl Maximilián v letech 1736–1749, kdo byla Johanna a kde se narodil Josef.**
 
 Chceme od tebe znovu **čerstvý, nezávislý pohled**:
 - co jsme přehlédli;
@@ -59,7 +59,7 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
 - **H7 Terezie** – nový sňatek vdovy, úmrtí, gruntovní a sirotčí knihy Brandýsa, dům č. 14 (`zadani_lokalni_terezie_brandys.md`).
 - **kolo 10** – rodiče Cathariny Barbary Eleonory Nerlich, Nisa (`zadani_familysearch_kolo10_nerlich.md`).
 - **kolo 11** – Maximiliánovi sourozenci a pruští baroni Gillernové (`zadani_familysearch_kolo11_sourozenci_prusove.md`).
-- **předci Heinricha Christofa** (`zadani_lokalni_predci_heinrich_christof.md`, `zadani_ndk_kolo3_predci.md`).
+- **předci Heinricha Christofa** v matrikách Opavy a Krnova (`zadani_lokalni_predci_heinrich_christof.md`). Literatura v NDK už je hotová (č. 662).
 
 ## Otázky
 1. **Kde byl Maximilián v letech 1736–1749?** Přepočítej své scénáře z 5. revize podle nových výsledků.
@@ -78,7 +78,7 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
 ## Kde co najdeš (čti sám, nespoléhej na shrnutí)
 - `data/STAV.md` – stav a pravidla. Nejnovější je oddíl „★ 22. 11. 2026 – Maximilián † 7. 6. 1789“.
 - `plan_zpresneni_rodu.md` – plán. Sekce „Po 5. revizi Fable“ (H1–H10) a „Další kroky mimo Maximiliána a Josefa“ (I1–I5).
-- `data/research_log.md` – deník všech hledání. Pro tuto otázku hlavně řádky od 498, nejnovější vývoj od č. 643 do 660.
+- `data/research_log.md` – deník všech hledání. Pro tuto otázku hlavně řádky od 498, nejnovější vývoj od č. 643 do 663.
 - `data/osoby.py` (osoby 128 Josef, 256 Maximilián, 257 Johanna, 512 Carl Heinrich, 1025, 2050; boční příbuzní v SIDE) a `data/rod_gillernu.json` (profily, časová osa, strom).
 - `data/zaznamy.json`, `data/prepisy.json`, `vyrezy/` – zápisy, přepisy a výřezy originálů. Nové klíče:
   - `n_1754_gillern_maria_elisabeth_juliana`
@@ -89,6 +89,7 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
   - `o_1743_trachenberg_giller_ebert`
   - `n_1751_giller_maria_johanna`
   - `z_1789_gillern_maximilian`
+  - `z_1747_trachenberg_gyllar_johanna_charlotta`
 - `data/archivni_dotazy.md` – co je jen offline (pro úplnost; offline cesty nenavrhuj).
 - Dřívější revize: `revize_maximilian_fable.md`, `revize_maximilian2_fable.md`, `revize_maximilian3_fable.md`, `revize_rod3_fable.md` a další `revize_*_fable.md`. Podívej se, co se z tvých návrhů ověřilo a co ne.
 

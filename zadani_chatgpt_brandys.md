@@ -57,3 +57,13 @@ Farnosti **Brandýs nad Labem** a **Stará Boleslav**:
 ## Etapa 2 – křty a ročenky
 1. **Křty 1782–1798** v týchž farnostech: hledej Gillery jako **kmotry nebo svědky** (např. „Fräulein / herula / Virgo … von Giller“, „Herr Maximilian von Giller, Oberförster“). Zapiš i první rok, kdy se v Brandýse nebo ve Staré Boleslavi objeví. Postačí rejstříky kmotrů, pokud nejsou, jen zběžné listování po letech (hledat šlechtické tituly).
 2. **Google Books / ÖNB:** *Schematismus für das Königreich Böheim* (vychází od 1789), ročníky **1789–1799**, oddíl komorních panství, **panství Brandeis**: ve kterých ročnících je Gillern (Giller) jako Oberförster a od kdy je tam Baudisch. Přepiš celé řádky.
+
+## Doplněk (etapa 3) – úmrtí Maximiliána ve Staré Boleslavi
+Díky za zprávu `Brandys_Gillernove.pdf`. Ověřeno: Maximilián žil ve Staré Boleslavi (myslivna č. 1) ještě 1. 4. 1789 (kmotr, „Kay. Königl. Oberforstner“); roku 1793 ho v úřadě vystřídal Baudiš. Zápisy Z1 (Magdalena 1797) a Z2 (František 1799) jsme na výřezech přečetli jako „Gisslowa“ a „Gyßler“ – nejsou to Gillerové.
+
+1. **Stará Boleslav, zemřelí (Stará Boleslav 16, 12363, a předchozí kniha, pokud 1789–1792 obsahuje jiná):** souvisle **1789–1796**, **i přifařené vsi** – každý zápis v roce, ne jen výběr. Hledej Maximilián / Josef / Emanuel / Ferdinand z Gillernů (Giller, Gillern, Güller, Gyller, Killer), asi 70–77 let, nadlesní, „pensionirt / jubilirt“; dále **Terezii** (jeho druhou manželku) a **Johannu** (dceru, * 1751).
+2. Potom totéž **1800–1805**.
+3. **Brandýs nad Labem:** rejstřík zemřelých (Brandýs 38) pod **K** (Killer, Killer) a souvislé listování knihou Brandýs 24 (město do 1800) jen pro roky **1789–1796**.
+4. U nalezeného úmrtí přepiš celý zápis včetně věku, nemoci, čísla domu a **případného rodiště** (Josefínské knihy mají rubriku pro místo).
+
+Výsledky dopiš jako novou etapu do stejného dokumentu, nebo do nového `Brandys_Gillernove_2.pdf`.

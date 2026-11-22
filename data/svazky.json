@@ -999,5 +999,33 @@
   "svazek": "Wien, Dom- und Metropolitanpfarre St. Stephan, Taufbuch 01-090 (1772–1773)",
   "popis": "Kniha pokřtěných farnosti sv. Štěpána ve Vídni; rejstřík G snímek 708.",
   "url": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-090/"
+ },
+ "preichau_8258892": {
+  "archiv": "Arcidiecézní archiv Vratislav (mikrofilm GSU)",
+  "portal": "FamilySearch",
+  "svazek": "Preichau (Przychowa, Kr. Steinau), kath. Kirchenbuch: D971A Tote 1680–1765, D972 Heiraten 1679–1764, DGS 8258892",
+  "popis": "Římskokatolická fara Preichau (dnes Przychowa), Dolní Slezsko; pohřby a sňatky. Snímky z domu po přihlášení (FamilySearch). Neindexováno.",
+  "url": "https://www.familysearch.org/search/catalog/"
+ },
+ "lux_ville_bmd": {
+  "archiv": "Archives nationales de Luxembourg (farní matriky)",
+  "portal": "FamilySearch",
+  "svazek": "Luxembourg, Church and Civil Registration 1601–1923 – Lucemburk-město, katolické matriky (křty a sňatky 1749–1755)",
+  "popis": "Indexováno; snímky z domu po přihlášení.",
+  "url": "https://www.familysearch.org/search/collection/"
+ },
+ "ir15_7606413": {
+  "archiv": "Österreichisches Staatsarchiv, Kriegsarchiv – Musterlisten IR 15 (Pallavicini)",
+  "portal": "FamilySearch",
+  "svazek": "Musterlisten und Standestabellen, Infanterieregiment 15, Fasz. 851 (1762–1763), DGS 7606413; pokračování DGS 7606414 (1763–1769)",
+  "popis": "Kmenové listy pluku; neindexováno, z domu po přihlášení. Katalog koha:136933.",
+  "url": "https://www.familysearch.org/search/catalog/136933"
+ },
+ "ir43_7612583": {
+  "archiv": "Österreichisches Staatsarchiv, Kriegsarchiv – Musterlisten IR 43 (Platz)",
+  "portal": "FamilySearch",
+  "svazek": "Musterlisten und Standestabellen, Infanterieregiment 43, Fasz. 4498–4499 (asi 1745–1750), DGS 7612583",
+  "popis": "Kmenové listy pluku hraběte Platze; posádka Lucemburk. Neindexováno, z domu po přihlášení. Katalog koha:425906.",
+  "url": "https://www.familysearch.org/cs/search/catalog/koha:425906"
  }
 }

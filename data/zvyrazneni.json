@@ -2680,5 +2680,137 @@
   ],
   "status": "ok",
   "note": "celý zápis"
+ },
+ "o_1710_giller_nerlich": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "o_1714_giller_klinge": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "o_1684_giller_hertzel": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "z_1683_giller_catharina_juliana": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "z_1691_hertzel_marcus": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "n_1690_giller_anna_regina": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "n_1683_giller_johann_christoph": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "o_1723_preichau_svedci_giller": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "j_1762_ir15_gillern_friedrich": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "j_1750_ir43_giller_fw": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "n_1750_lux_giller_fw": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
  }
 }

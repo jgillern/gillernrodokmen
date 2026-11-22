@@ -244,7 +244,7 @@ Celá revize je v souboru `revize_maximilian2_fable.md`. Klíčový nález (ově
 
 | # | Krok | Kdo | Stav |
 |---|---|---|---|
-| G1 | Brandýs n. L. a Stará Boleslav: úmrtí Maximiliána 1797–1799 → 1793–1796 → 1787–1792 → 1800–1805; sňatky 1780–1800 (Eleonora × Clanner 1780, dcery, 2. sňatek); Gillerové jako kmotři 1782–1798 | ChatGPT – zadání T (`zadani_chatgpt_brandys.md`) | ▶ |
+| G1 | Brandýs n. L. a Stará Boleslav: úmrtí Maximiliána 1797–1799 → 1793–1796 → 1787–1792 → 1800–1805; sňatky 1780–1800 (Eleonora × Clanner 1780, dcery, 2. sňatek); Gillerové jako kmotři 1782–1798 | ChatGPT – zadání T (`zadani_chatgpt_brandys.md`) | ✔ **Maximilián † 7. 6. 1789 Stará Boleslav č. 1** (log 642); vdova Terezie žije 1790–1793; její a Johannino úmrtí 1789–1796, 1800–1805 nenalezeno |
 | G2 | Schematismus für das Königreich Böheim 1789–1799, panství Brandeis | ChatGPT – zadání T | ▶ |
 | G3 | Paroubek, *Josefa šl. Clannerova* (1906), s. 15–25; Prášek I–III; seriál „Časové vzpomínky na staré Poděbrady“ (Nezávislost 1910); rejstříky Vavákových Pamětí | lokální Claude (NDK), já (ČDK) | |
 | G4 | Jmenné rejstříky s variantami (FamilySearch celý svět; GenTeam) | lokální Claude / Jan | částečně (vojenské zadání) |

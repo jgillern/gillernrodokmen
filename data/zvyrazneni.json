@@ -2872,5 +2872,41 @@
   ],
   "status": "ok",
   "note": "celý výřez"
+ },
+ "z_1789_gillern_maximilian": {
+  "boxes": [
+   [
+    0.01,
+    0.13,
+    0.99,
+    0.82
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
+ },
+ "n_1790_stboleslav_terezie_vdova": {
+  "boxes": [
+   [
+    0.01,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "n_1793_stboleslav_terezie_vdova": {
+  "boxes": [
+   [
+    0.01,
+    0.08,
+    0.99,
+    0.92
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis"
  }
 }

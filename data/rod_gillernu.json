@@ -146,8 +146,8 @@
     },
     {
       "rok": "1787–1789",
-      "text": "Josef a Anna Kochová odcházejí z Poděbrad na komorní panství Kolín. Maximilián ještě 1786 žije; kde a kdy zemřel, nevíme – v Poděbradech a okolí 1786–1810 jeho úmrtí není.",
-      "zdroj": "úmrtí Poděbrady a okolí 1786–1810 prohlédnuta"
+      "text": "Josef a Anna Kochová odcházejí z Poděbrad na komorní panství Kolín. Maximilián je od roku 1783 nadlesním komorního panství Brandýs a bydlí v myslivně ve Staré Boleslavi; tam 7. 6. 1789 umírá jako „urozený vladyka pan Maximilián z Gillernů, dobře zasloužilý nadlesní“. Jeho vdova Terezie žije ve Staré Boleslavi ještě 1793.",
+      "zdroj": "matriky Stará Boleslav 04 a 16"
     },
     {
       "rok": "1789–1798",
@@ -538,9 +538,9 @@
     },
     {
       "jmeno": "Maximilián z Gillernů",
-      "roky": "2. pol. 18. stol.",
-      "text": "„Nejvyšší myslivec“ (nadlesní) c. k. komorního panství Poděbrady v letech 1766–1782 (předtím 1753 polní myslivec v Bobnicích), pak nadlesní komorního panství Brandýs nad Labem (doložen 1787, do 1793; dům v Brandýse 1787–1798); celým jménem Maximilián Josef Emanuel, v matrikách obvykle „Perillustris Dominus Maximilianus de Giller“ (jen jednou, 1781, „L. Baro“ – spíš zdvořilostně). Kariéra v císařských lesích: Bor Bobnický u Nymburka (1750–1753), Hradištko (1756), Kladruby nad Labem (1757–1761), Čelákovice (1762–1766), Poděbrady (1766–1782). Manželka Johanna († 1782), s ní nejméně devět dětí 1750–1766; syn Josef (* asi 1746/47, méně pravděpodobně 1738; narozen jinde) – nejspíš také Johannin. Dědeček našeho Františka.",
-      "zdroj": "matriky Nymburk, Sadská, Kladruby, Čelákovice, Poděbrady; M. Hanuš 1998",
+      "roky": "1719–1789",
+      "text": "„Nejvyšší myslivec“ (nadlesní) c. k. komorního panství Poděbrady v letech 1766–1782 (předtím 1753 polní myslivec v Bobnicích), pak nadlesní komorního panství Brandýs nad Labem (od 1783, myslivna ve Staré Boleslavi; † 7. 6. 1789 Stará Boleslav); celým jménem Maximilián Josef Emanuel, v matrikách obvykle „Perillustris Dominus Maximilianus de Giller“ (jen jednou, 1781, „L. Baro“ – spíš zdvořilostně). Kariéra v císařských lesích: Bor Bobnický u Nymburka (1750–1753), Hradištko (1756), Kladruby nad Labem (1757–1761), Čelákovice (1762–1766), Poděbrady (1766–1782). Manželka Johanna († 1782), s ní nejméně devět dětí 1750–1766; podruhé ženatý 1783 s Terezií; syn Josef (* asi 1746/47, méně pravděpodobně 1738; narozen jinde) – nejspíš také Johannin. Dědeček našeho Františka.",
+      "zdroj": "matriky Nymburk, Sadská, Kladruby, Čelákovice, Poděbrady, Brandýs, Stará Boleslav; M. Hanuš 1998",
       "odkaz": "https://pratelepardubicka.cz/eduard-napravnik-iv-cast-rod-clanneru-z-engelshofenu/",
       "stav": "doc",
       "osoba": "maximilian-z-gillernu-1719"
@@ -720,7 +720,7 @@
   ],
   "otazky": [
     "Kde byl Maximilián (* 1719 Krehlau ve Slezsku) mezi lety 1735 a 1750 – kde se oženil s Johannou a kde se narodil syn Josef? Proč přešel ze Slezska do Čech (rakouská služba po válce o Slezsko 1740–1742?)",
-    "Kdy se narodil Josef z Gillernů – asi 1738 (48 let při sňatku 1786), nebo asi 1746/47 (52 let při úmrtí 1799)? V druhém případě mohla být jeho matkou Maximiliánova manželka Johanna. Kde a kdy zemřel Maximilián?",
+    "Kdy se narodil Josef z Gillernů – asi 1738 (48 let při sňatku 1786), nebo asi 1746/47 (52 let při úmrtí 1799)? V druhém případě mohla být jeho matkou Maximiliánova manželka Johanna.",
     "Byl „Franz von Gillern“ († 1817 Malejovice, * asi 1747) synem Maximiliána a bratrem Josefa?",
     "Kdo byla Maximiliánova manželka Johanna (* asi 1723, † 1782)?",
     "Je JUDr. Karel Gillern (1888–1953) opravdu syn Čeňka z Gillernů?",
@@ -2140,7 +2140,7 @@
                           {
                             "jmeno": "Maximilián Josef Emanuel z Gillernů",
                             "stav": "doc",
-                            "roky": "* 1719 Krehlau (Slezsko) – po 1787",
+                            "roky": "* 1719 Krehlau (Slezsko) – † 1789 Stará Boleslav",
                             "pozn": "nejvyšší myslivec (nadlesní) komorního panství Poděbrady",
                             "vazba": "doc",
                             "nase": true,

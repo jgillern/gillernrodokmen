@@ -206,16 +206,16 @@ Celá revize je v souboru `revize_rod3_fable.md`. Ověřil jsem z ní a do dat z
 |---|---|---|
 | F1 | Krehlau – pohřby 1738–1760 (otec † 1752, matka, Carl Wilhelm Vitus) a Gillerové jako kmotři po roce 1750; v katalogu ověřit, zda jsou pohřby po roce 1737 vůbec nafilmované | lokální Claude (kolo 3) |
 | F2 | Prodej Krehlau a Hammeru po roce 1752 – inventáře polských archivů (Krzelów, Hammer, Giller, Gersdorf). Spis o pozůstalosti by jmenoval všechny dědice. | ChatGPT – zadání N (`zadani_chatgpt_krehlau_dedictvi.md`) |
-| F3 | Dvorské a zemské schematismy 1750–1790: Maximilián, kapitán Friedrich (major ve Velkém Varadíně – poslední rok výskytu), Karel Josef | ChatGPT / lokální Claude |
+| F3 | ▶ zadání P (`zadani_chatgpt_schematismy.md`) – Dvorské a zemské schematismy 1750–1790: Maximilián, kapitán Friedrich (major ve Velkém Varadíně – poslední rok výskytu), Karel Josef | ChatGPT / lokální Claude |
 | F4 | Úmrtí otce pod jménem „Josef“ / „Jan Maximilián“ a soupis všech Gillerů v Polabí po 1780: Poděbrady sňatky 1787–1800 souvisle (dcery jako nevěsty – „post defunctum“), sňatek Eleonora × Clanner 1780, rejstříky panství Kolín 1782–1830. Zápis 7. 7. 1792 (Josef Gillar, 66) už vyřešen – invalida, manžel Ludmily (log 584), ne Maximilián | ChatGPT – zadání O (`zadani_chatgpt_polabi_gillernove.md`) |
 | F5 | Úmrtí jinde 1782–1800: Kladruby, Pardubice, Nymburk, Sadská, Čelákovice | Claude (ARON), ChatGPT |
 | F6 | Nisa – sňatek Carla Heinricha s Nerlichovou dát v kole 3 před křty | lokální Claude |
 | F7 | „Carolina, hejtmanová z Preichau“ – titul Marie Caroliny 1722–1725 a pohřby Preichau 1717–1740 (předkyně č. 1025?) | lokální Claude |
-| F8 | Karel Josef: Duncker – studie o Gillernovi jako vyjednavači 1741 (Mittheilungen des k. k. Kriegs-Archivs); sňatek s Fellnerovou v dosud nečtených farnostech | Claude (archive.org), ChatGPT |
+| F8 | ✔ částečně (log 622: Österreichischer Erbfolge-Krieg III, 1741 Opava, dohled nad lichtenštejnskými panstvími) – Karel Josef: Duncker – studie o Gillernovi jako vyjednavači 1741 (Mittheilungen des k. k. Kriegs-Archivs); sňatek s Fellnerovou v dosud nečtených farnostech | Claude (archive.org), ChatGPT |
 | F9 | Sigisbert Güller († 1775 Poděbrady, kapitán pluku De Caroli) – celé znění zápisu; mohl být Johannin příbuzný | ChatGPT |
-| F10 | Lucemburk 1737–1751 – posádka pluku Friedricha Wilhelma II., jeho úmrtí 1751; vojenská stopa Maximiliána a Johanny | Claude / ChatGPT |
+| F10 | ▶ lokální Claude (index Lucemburk) + zadání P (pluk Friedricha Wilhelma II. ze schematismů) – Lucemburk 1737–1751 – posádka pluku Friedricha Wilhelma II., jeho úmrtí 1751; vojenská stopa Maximiliána a Johanny | Claude / ChatGPT |
 | F11 | Pruští baroni: FamilySearch – jmenné hledání Eduard / Moritz / Alexander von Gillern 1795–1810 (Lehnice, Goldberg) | lokální Claude |
-| F12 | Předci: křty Opava 1640–1660 (Christoph Heinrich 1646, Friedrich Wilhelm 1651, Franz Leopold 1656); „Deschna“ = Deštná u Jindřichova Hradce? | ChatGPT |
+| F12 | ▶ zadání Q (`zadani_chatgpt_opava_predci.md`) – Předci: křty Opava 1640–1660 (Christoph Heinrich 1646, Friedrich Wilhelm 1651, Franz Leopold 1656); „Deschna“ = Deštná u Jindřichova Hradce? | ChatGPT |
 | F13 | Křest „mladšího“ Bedřicha Rudolfa (* asi 4/1760, Kladruby a okolí) – kmotr kapitán s plným jménem | Claude (ARON) |
 
 **Co přestat dělat (podle revize):**

@@ -39,3 +39,10 @@ Navazuje na `FamilySearch_kolo2.md`. Postup stejný jako dosud:
 6. **Pořadí v úkolu 3 (Nisa):** nejdřív **sňatek Carla Heinricha s Nerlichovou** (asi 1708–1711), teprve potom křty.
 7. **Preichau – „Carolina“:** ve svých poznámkách z pilotu (a případně na snímcích) zjisti, jak je **Maria Carolina** v letech 1722–1725 titulována (Frau, Fräulein, Wittib?), a zda je v Preichau pohřeb **Christopha Heinricha von Giller** (1717) nebo jeho manželky (1717–1740). Jde o to, zda „Carolina, hejtmanová z Preichau“ (kmotra 1719) nebyla jeho manželka – naše předkyně.
 8. **Jmenné hledání (záznamy, ne snímky):** **Eduard / Moritz / Alexander von Gillern**, narození asi 1795–1810, hlavně Lehnice (Liegnitz) a Goldberg; a evangelická rodina **Friedrich Wilhelm von Gillern × Amalie Mariane von Rochow** (děti v Lehnici 1793–1798) – kdo byli jejich synové.
+
+## Doplněk 2 (22. 11. 2026) – až skončíš s Preichau a plukem č. 15
+9. **Lucemburk – jmenné hledání v indexu FamilySearch** (Luxembourg, katolické matriky jsou indexované): příjmení Giller / Gillern / Güller / Gyller, roky **1735–1755**, místo Lucembursko.
+   - Hlavně **pohřeb Friedricha Wilhelma von Giller(n)**, císařského podplukovníka, roku **1751**. Zapiš celé znění a **název jeho pluku**.
+   - Dále křty, sňatky a pohřby Gillerů. Mohl by tam být i **Maximilián** (* 1719, náš předek), který v letech 1736–1750 nejspíš sloužil na vojně, s manželkou **Johannou** (* asi 1723) a synem **Josefem** (* asi 1746/47).
+   - Výsledky indexu ověř na snímku, pokud jde otevřít z domu.
+10. Když z bodu 9 vyjde název pluku, zjisti v katalogu (Kriegsarchiv Wien, Musterlisten), zda jsou **kmenové listy toho pluku 1736–1751** z domu prohlížitelné. Zatím jen katalog: roky, filmy, přístup.

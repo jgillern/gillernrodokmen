@@ -205,7 +205,7 @@ Celá revize je v souboru `revize_rod3_fable.md`. Ověřil jsem z ní a do dat z
 | # | Krok | Kdo |
 |---|---|---|
 | F1 | Krehlau – pohřby 1738–1760 (otec † 1752, matka, Carl Wilhelm Vitus) a Gillerové jako kmotři po roce 1750; v katalogu ověřit, zda jsou pohřby po roce 1737 vůbec nafilmované | lokální Claude (kolo 3) |
-| F2 | Prodej Krehlau a Hammeru po roce 1752 – inventáře polských archivů (Krzelów, Hammer, Giller, Gersdorf). Spis o pozůstalosti by jmenoval všechny dědice. | ChatGPT – zadání N (`zadani_chatgpt_krehlau_dedictvi.md`) |
+| F2 | ✘ online bez výsledku (log 623; signatury offline v archivni_dotazy.md) – Prodej Krehlau a Hammeru po roce 1752 – inventáře polských archivů (Krzelów, Hammer, Giller, Gersdorf). Spis o pozůstalosti by jmenoval všechny dědice. | ChatGPT – zadání N (`zadani_chatgpt_krehlau_dedictvi.md`) |
 | F3 | ▶ zadání P (`zadani_chatgpt_schematismy.md`) – Dvorské a zemské schematismy 1750–1790: Maximilián, kapitán Friedrich (major ve Velkém Varadíně – poslední rok výskytu), Karel Josef | ChatGPT / lokální Claude |
 | F4 | Úmrtí otce pod jménem „Josef“ / „Jan Maximilián“ a soupis všech Gillerů v Polabí po 1780: Poděbrady sňatky 1787–1800 souvisle (dcery jako nevěsty – „post defunctum“), sňatek Eleonora × Clanner 1780, rejstříky panství Kolín 1782–1830. Zápis 7. 7. 1792 (Josef Gillar, 66) už vyřešen – invalida, manžel Ludmily (log 584), ne Maximilián | ChatGPT – zadání O (`zadani_chatgpt_polabi_gillernove.md`) |
 | F5 | Úmrtí jinde 1782–1800: Kladruby, Pardubice, Nymburk, Sadská, Čelákovice | Claude (ARON), ChatGPT |

@@ -109,3 +109,9 @@ Válečný archiv (Kriegsarchiv): musterlisty pěších pluků „Gayer/Geyer“
 - **SOA Praha, Velkostatek (komorní panství) Poděbrady** – služební tabely, personální spisy a účty lesního úřadu kolem 1748–1750: přijetí Maximiliána z Gillernů za revírníka v Bobnicích (Bor Bobnický) a odkud přišel; 1766 jmenování nadlesním, 1782 odchod (nástupce J. B. Böser).
 - **Národní archiv, Česká komora / královský lesní úřad v Brandýse** – dekrety lesních úředníků komorních panství 1748–1782; dvorní myslivci v Kladrubech a Čelákovicích 1757–1766.
 - **ÖStA HHStA, Obersthofjägermeisteramt** – dvorní myslivci (Hofjäger) v Čechách 1757–1766.
+
+## Dědictví po Carlu Heinrichovi von Giller († 1752) – Krehlau a Hammer (22. 11. 2026, zpráva ChatGPT N)
+Online bez skenů; spis by jmenoval dědice (Maximilián v Čechách):
+- **GStA PK Berlín, I. HA Rep. 96, č. 426 P – Vasallentabellen für Schlesien 1748–1756**: vlastníci rytířských statků kolem roku 1752 (kraj Wohlau / Steinau), způsob nabytí. Srovnat s **I. HA Rep. 46 B, č. 3144** (1741–1761), **3145** (1774–1776), **3146** (1773–1779), **3147** (1741, 1799–1805), **3150** (Glogau 1798 – Gorkau, Culmikau); **č. 1328** Allodifikationen 1743–1763 (zásah „Freiherr von Gillern“, Rettkau).
+- **AP Wrocław, Sąd Obwodowy w Ścinawie (82/579/0)**: Umowy 1770–1792 (jedn. 1), Księgi gruntowe 1747–1851 (jedn. 2–4 – rytířská folia Ober- a Nieder-Krehlau a Hammer), Sprawy spadkowe – Podział spadku 1739–1748 (jedn. 8).
+- Soudně patřil kraj Volov k **Oberamtsregierung Glogau** – pozůstalostní spisy šlechty 1752 (kde jsou dnes, neurčeno).

@@ -12,6 +12,7 @@ Pomáháš Janovi s rodokmenem rodu **Gillernů**. Výzkum vede jiný asistent v
 ## Pravidla
 - Prohlížej **ručně, po jednotlivých snímcích**, nic hromadně nestahuj.
 - Výsledky zapiš do **nového souboru `FamilySearch_kolo10.md`**, výřezy do **nové složky `FamilySearch_kolo10_snimky`**.
+- **Obrázky odevzdej zabalené v ZIPu:** celou složku `FamilySearch_kolo10_snimky` zabal do `FamilySearch_kolo10_snimky.zip`. Jeden ZIP smí mít **nejvýš 30 MB** – kdyby byl větší, rozděl obrázky do více ZIPů (`FamilySearch_kolo10_snimky_1.zip`, `FamilySearch_kolo10_snimky_2.zip` …), každý do 30 MB. MD soubor posílej zvlášť, nezabalený.
 - U každého nálezu: odkaz (ark), film (DGS), snímek, **doslovný přepis celého zápisu** a český překlad.
 - Nejisté čtení (?), nečitelné „…“. Nic nedomýšlej.
 - Veď tabulku prošlého (film, snímky, roky, čitelnost, výsledek).

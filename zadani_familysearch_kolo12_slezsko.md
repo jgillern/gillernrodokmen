@@ -23,6 +23,7 @@ Příbuzní, kteří se mohou objevit:
 - Ručně, snímek po snímku, nic hromadně nestahuj.
 - Knihy bývají nafilmované zvlášť po pravých a levých stranách – projdi obě.
 - Výstup: nový soubor `FamilySearch_kolo12.md`, výřezy do nové složky `FamilySearch_kolo12_snimky`.
+- **Obrázky odevzdej zabalené v ZIPu:** celou složku `FamilySearch_kolo12_snimky` zabal do `FamilySearch_kolo12_snimky.zip`. Jeden ZIP smí mít **nejvýš 30 MB** – kdyby byl větší, rozděl obrázky do více ZIPů (`FamilySearch_kolo12_snimky_1.zip`, `FamilySearch_kolo12_snimky_2.zip` …), každý do 30 MB. MD soubor posílej zvlášť, nezabalený.
 - U každého nálezu: film (DGS), snímek, odkaz (ark), DOSLOVNÝ přepis celého zápisu, český překlad.
 - Nejisté čtení (?), nečitelné „…“. Nic nedomýšlej.
 - Veď tabulku prošlého (film, snímky, roky, čitelnost, výsledek).

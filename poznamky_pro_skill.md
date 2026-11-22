@@ -89,3 +89,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 
 ## Rozbité odkazy na osoby po změně roku narození (22. 11. 2026)
 Adresa profilu osoby (slug) se skládá ze jména a roku narození v poli `y`. Když se rok opraví (zde Josef „asi 1738“ → „asi 1746“), změní se adresa, ale odkazy v `data/rod_gillernu.json` (`"osoba": "…"`), v příbězích (`/osoba/…`) a v zajímavostech zůstanou staré a na webu nejdou prokliknout. `tools/kontrola.py` to nehlásí. Návrh: kontrola by měla ověřit všechny odkazy `"osoba"` a `/osoba/…` proti seznamu slugů (jako ve web/src/data/site.json) a při změně `y` nabídnout přejmenování odkazů.
+
+- 23. 11. 2026 – **Zadání pro lokálního agenta v prohlížeči: výstupní obrázky rovnou v ZIPu do 30 MB.** Uživatel nahrává výsledky ručně a velké nebo nezabalené složky jsou nepraktické. Do šablony zadání (oddíl Pravidla) patří řádek: „Obrázky odevzdej zabalené v ZIPu: celou složku `<X>_snimky` zabal do `<X>_snimky.zip`; jeden ZIP nejvýš 30 MB, jinak rozdělit na `<X>_snimky_1.zip`, `_2.zip` …; MD soubor zvlášť, nezabalený.“

@@ -10,6 +10,7 @@ Pomáháš Janovi s rodokmenem rodu **Gillernů** (psáno také Giller, Gillern,
 ## Pravidla
 - Ručně, nic hromadně nestahuj.
 - Výstup: **nový soubor `Polsko_jmenna_hledani.md`**, snímky obrazovky do **nové složky `Polsko_jmenna_hledani_snimky`**.
+- **Obrázky odevzdej zabalené v ZIPu:** celou složku `Polsko_jmenna_hledani_snimky` zabal do `Polsko_jmenna_hledani_snimky.zip`. Jeden ZIP smí mít **nejvýš 30 MB** – kdyby byl větší, rozděl obrázky do více ZIPů (`Polsko_jmenna_hledani_snimky_1.zip`, `Polsko_jmenna_hledani_snimky_2.zip` …), každý do 30 MB. MD soubor posílej zvlášť, nezabalený.
 - U každého nálezu: databáze, přesný dotaz, odkaz, doslovný opis řádku (jméno, rok, farnost, rodiče, partner).
 - Zapiš i hledání bez výsledku (dotaz → 0).
 

@@ -7,6 +7,7 @@ Hlavně **jmenné hledání v záznamech** (Records). Snímky otevírej jen u n�
 
 ## Pravidla
 - Výsledky do **nového souboru `FamilySearch_kolo11.md`**, snímky obrazovky a výřezy do **nové složky `FamilySearch_kolo11_snimky`**.
+- **Obrázky odevzdej zabalené v ZIPu:** celou složku `FamilySearch_kolo11_snimky` zabal do `FamilySearch_kolo11_snimky.zip`. Jeden ZIP smí mít **nejvýš 30 MB** – kdyby byl větší, rozděl obrázky do více ZIPů (`FamilySearch_kolo11_snimky_1.zip`, `FamilySearch_kolo11_snimky_2.zip` …), každý do 30 MB. MD soubor posílej zvlášť, nezabalený.
 - U každé shody: jméno, druh (křest, sňatek, pohřeb), datum, místo, rodiče a partner, odkaz (ark). Pokud jde otevřít snímek, **doslovný přepis celého zápisu** a překlad.
 - Nejisté (?), nečitelné „…“. Nic nedomýšlej.
 - Zapiš i hledání bez výsledku (co jsi zadal).

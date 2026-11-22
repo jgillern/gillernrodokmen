@@ -267,7 +267,7 @@ Revize v `revize_maximilian3_fable.md` (log 644). Josefův rok narození stojí 
 | H3 | Z3 – pluk č. 15, kmenové listy 1744–1756 všech setnin (Franz Anton, Friedrich, Maximilián?) | lokální Claude (`zadani_familysearch_Z3_ir15.md`) | ✔ log 648: Franz Anton 1745 z Hammeru, Friedrich 1753–1756; Maximilián ne; přehlídky 1746–1752 nedochovány |
 | H4 | Slezsko, 2. okruh: katol. Hlohov, Vratislav, Lehnice, Trebnice, Trachenberg, Prausnitz; luterské Winzig, Wohlau, Steinau, Herrnstadt – sňatky 1743–1749 (nejdřív katalog) | ✔ log 650: Trachenberg 1743 Johann Carl Ludwig v. Giller × Johanna Leonora (Winzig) – hypotéza o Johanně |
 | H5 | Chlumec nad Cidlinou (Kinský) – sňatky 1740–1749, křty 1744–1749 | lokální Claude (doplněk komorních panství) | ✖ nelze: matriky Chlumce začínají až 1775 (log 661) |
-| H6 | Praha – rejstříky oddaných 1743–1749 (+ rejstříky křtů 1744–1749) | lokální Claude (`zadani_lokalni_praha_1743_1749.md`) | zadání připraveno |
+| H6 | Praha – rejstříky oddaných 1743–1749 (+ rejstříky křtů 1744–1749) | lokální Claude (`zadani_lokalni_praha_1743_1749.md`) | ✔ log 668: negativní (hlavní farnosti Malé Strany, Hradčan, Starého a Nového Města); zbytek nepokračovat |
 | H7 | Terezie: nový sňatek vdovy 1789–1799 (Brandýs, St. Boleslav, listováním), gruntovní knihy Brandýsa (dům č. 14) | lokální Claude (`zadani_lokalni_terezie_brandys.md`) | ✔ log 664: nový sňatek ani úmrtí Terezie nenalezeny; gruntovní a sirotčí knihy online nejsou; nález: 2/1789 Maximilián a dcera Johanna přítomni na svatbě |
 | H8 | Vratislavské noviny 1752–1756, 1767–1768 (Hammer, Krehlau, Giller, Ertel) | já (SBC, dLibra Vratislav) | ✔ log 660: noviny z té doby nejsou online jako text – uzavřeno |
 | H9 | Tchyně („socrus“) v pohřbech farností 1750–1782 | při každém čtení | |

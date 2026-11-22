@@ -16,6 +16,7 @@ statku Preichau); ženichův pradědeček byl úředníkem vratislavské komory.
 ## Pravidla
 - Ručně, snímek po snímku, nic hromadně nestahuj; mezi snímky 5–10 vteřin.
 - Výstup: nový soubor `Vratislav_1743_1749.md`, výřezy do nové složky `Vratislav_1743_1749_snimky`.
+- **Obrázky odevzdej zabalené v ZIPu:** celou složku `Vratislav_1743_1749_snimky` zabal do `Vratislav_1743_1749_snimky.zip`. Jeden ZIP smí mít **nejvýš 30 MB** – kdyby byl větší, rozděl obrázky do více ZIPů (`Vratislav_1743_1749_snimky_1.zip`, `Vratislav_1743_1749_snimky_2.zip` …), každý do 30 MB. MD soubor posílej zvlášť, nezabalený.
 - U každého nálezu: farnost, kniha (signatura nebo film DGS), odkaz, snímek, DOSLOVNÝ přepis celého zápisu,
   český překlad.
 - Nejisté čtení (?), nečitelné „…“. Nic nedomýšlej.

@@ -237,3 +237,20 @@ Celá revize je v souboru `revize_rod3_fable.md`. Ověřil jsem z ní a do dat z
 - u Gillerů z Lilienfeldu: zadání S (Ignác na Doloplazích), souvislé čtení opavských křtů 1644–1653, výpisky Zukal a Doerr (offline);
 - u měšťanů ve Dvorcích: kroky C3 a C4.
 
+---
+
+## Po 4. revizi Fable (22. 11. 2026) – Maximilián a Josef
+Celá revize je v souboru `revize_maximilian2_fable.md`. Klíčový nález (ověřen, log 635): **Maximilián byl roku 1787 nadlesním komorního panství Brandýs nad Labem** (byt v myslivně ve Staré Boleslavi), do roku 1793; dům v Brandýse mu patřil 1787–1798.
+
+| # | Krok | Kdo | Stav |
+|---|---|---|---|
+| G1 | Brandýs n. L. a Stará Boleslav: úmrtí Maximiliána 1797–1799 → 1793–1796 → 1787–1792 → 1800–1805; sňatky 1780–1800 (Eleonora × Clanner 1780, dcery, 2. sňatek); Gillerové jako kmotři 1782–1798 | ChatGPT – zadání T (`zadani_chatgpt_brandys.md`) | ▶ |
+| G2 | Schematismus für das Königreich Böheim 1789–1799, panství Brandeis | ChatGPT – zadání T | ▶ |
+| G3 | Paroubek, *Josefa šl. Clannerova* (1906), s. 15–25; Prášek I–III; seriál „Časové vzpomínky na staré Poděbrady“ (Nezávislost 1910); rejstříky Vavákových Pamětí | lokální Claude (NDK), já (ČDK) | |
+| G4 | Jmenné rejstříky s variantami (FamilySearch celý svět; GenTeam) | lokální Claude / Jan | částečně (vojenské zadání) |
+| G5 | Kmenové listy IR 15 – nejstarší ročníky a 1765–1771 | lokální Claude | částečně |
+| G6 | Krehlau – vybledlé strany 1736–1750 se zvýšeným kontrastem; sňatky 1743–1748 v katolických farnostech Volovska | lokální Claude | |
+| G7 | Poděbrady Z 1765, snímek 11866/34 („Josef Grill, lovecký adjunkt“ – Grill, nebo Giller?) | ChatGPT | |
+
+**Ukončeno:** Nisa (kolo 4), hledání Maximiliánova úmrtí v Poděbradech, na Kolínsku, v Praze, ve Vídni a v Koryčanech, Sigisbert (F9), Holíč jako samostatný směr. **Pozor při hledání v tisku:** vždy všechny tvary (Gillerů, Gilleru, Gilernu, Giller, Güller, Gyller, Killer).
+

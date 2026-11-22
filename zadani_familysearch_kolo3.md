@@ -46,3 +46,8 @@ Navazuje na `FamilySearch_kolo2.md`. Postup stejný jako dosud:
    - Dále křty, sňatky a pohřby Gillerů. Mohl by tam být i **Maximilián** (* 1719, náš předek), který v letech 1736–1750 nejspíš sloužil na vojně, s manželkou **Johannou** (* asi 1723) a synem **Josefem** (* asi 1746/47).
    - Výsledky indexu ověř na snímku, pokud jde otevřít z domu.
 10. Když z bodu 9 vyjde název pluku, zjisti v katalogu (Kriegsarchiv Wien, Musterlisten), zda jsou **kmenové listy toho pluku 1736–1751** z domu prohlížitelné. Zatím jen katalog: roky, filmy, přístup.
+
+## Doplněk 3 (22. 11. 2026) – pluk Friedricha Wilhelma je určen
+Z vídeňských ročenek a Wredeho dějin pluků: Friedrich Wilhelm von Giller sloužil nejspíš u **pěšího pluku hraběte Platze** (dříve barona Geyera; od 1769 č. 43), který měl v letech **1748–1756 posádku v Lucemburku**. Kmenové listy jsou v Kriegsarchivu (série „Musterlisten Infanterie LIR Nr. 43“) – kartony **10.249 (1748–1749), 10.250 (1750), 10.251 (1751)**; na FamilySearch byly vidět jen po přihlášení.
+11. V katalogu FamilySearch najdi kmenové listy **pěšího pluku č. 43** a zjisti, které roky jsou z domu prohlížitelné (hlavně 1737–1751).
+12. Pokud jdou otevřít: projdi **listy štábu a důstojníků** 1748–1751 (Friedrich Wilhelm – rodiště, věk, rodina) a pak u roku **1748–1750** hledej v setninách jméno **Maximilian Giller / Gyller / Güller** (* 1719 Krehlau) – mohl tam sloužit jako kadet, poddůstojník nebo myslivec, s manželkou Johannou a synem Josefem. Nejdřív stačí důstojníci; celé seznamy mužstva jen po domluvě s Janem.

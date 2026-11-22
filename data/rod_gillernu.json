@@ -1162,7 +1162,7 @@
         "Gillerové „von Lilienfeld“ byli patricijskou rodinou v Opavě. Patřil k nim i Lucas Giller de Lilienfeld, rodák z Opavy: studoval ve Vratislavi, roku 1604 se stal v Basileji doktorem medicíny, byl lékařem v Greiffenbergu (Gryfów Śląski) a pak mnoho let osobním lékařem Karla staršího ze Žerotína v Rosicích.",
         "Roku 1652 sestavil kostelní urbář města Opavy „Matthias Gieller von Lilienfeldt“ – rod v Opavě tedy žil i v polovině 17. století, kdy se narodili Christoph Heinrich (1646) a Friedrich Wilhelm (asi 1651). Přímou vazbu na ně matriky zatím neukázaly.",
         "Podle Zeitschrift des Vereines für die Geschichte Mährens und Schlesiens (1914) se Lukas Giller z Lilienfeldu, doktor filozofie a medicíny a spolužák Stephana Henela ve Vratislavi, narodil roku 1578 v Opavě a tamtéž roku 1618 zemřel. Matyáš Giller z Lilienfeldu byl v 1. polovině 17. století městským lékařem v Olomouci; Žerotínské rukopisy uvádějí jeho spis o chování za moru a zprávu o čarodějnických procesech.",
-        "Matyáš Giller z Lilienfeldu se roku 1642 přestěhoval do Krnova, kde po tchyni zdědil svobodný dům s dvorem; otcovský dům v Opavě prodal 1644. Zemřel 1655/1656. Měl dvě manželky jménem Zuzana (jedna byla podle Zukala dcerou Hanse von Götz a Zuzany Dreßler von Scharfenstein) a syny Benedikta Josefa, krnovského lékárníka, a Ignáce. Jména Ignác a Benedikt se v rodu objevují i v 18. století – Ignác Giller z Lilienfeldu na Doloplazích, Johann Benedict Giller ve Dvorcích (1731).",
+        "Matyáš Giller z Lilienfeldu se roku 1642 přestěhoval do Krnova, kde po tchyni zdědil svobodný dům s dvorem; otcovský dům v Opavě prodal 1644. Zemřel 1655/1656. Měl dvě manželky jménem Zuzana (jedna byla podle Zukala dcerou Hanse von Götz a Zuzany Dreßler von Scharfenstein) a syny Benedikta Josefa, krnovského lékárníka, a Ignáce.",
         "Erb Gillerů z Lilienfeldu – v modrém poli hvězda, v dalších polích šikmé břevno se třemi liliemi – je v podstatě týž jako erb pozdějších svobodných pánů z Gillernů. Roku 1721 dostal Karel Josef „potvrzení“ šlechtictví, což ukazuje na starší šlechtický původ rodu.",
         "Slezští Gillernové (od podplukovníka Heinricha Christofa v 17. století) tedy nejspíš z opavských Gillerů pocházejí; přímý genealogický doklad zatím chybí.",
         "Rod se podle Wikipedie odvozuje od měšťanů Gillerů z Laufenburgu a Waldshutu (14.–16. století)."
@@ -2856,6 +2856,13 @@
                     "vazba": "prob",
                     "roky": "tkadlec",
                     "manzel": "× 1783 Magdalena Altman"
+                  },
+                  {
+                    "jmeno": "Ignác Leopold Giller",
+                    "stav": "doc",
+                    "vazba": "doc",
+                    "roky": "křest 12. 7. 1771 Dvorce č. 15",
+                    "pozn": "správce (Verwalter) statku Doloplazy u Olomouce, doložen 1803–1807; × 8. 2. 1803 Tršice Anna Schanzová ze Dzbelu (?); děti Ignác Leopold (1803–1805) a Anna Amálie Leopoldina (1805). Je to „Ignác Giller na Doloplazích“ z katalogu zemského práva – ne Ignác z Gillernů, kmotr z roku 1784 (tomu by bylo 13 let)."
                   }
                 ]
               }
@@ -2893,7 +2900,7 @@
       },
       {
         "nadpis": "Gillerové z Lilienfeldu – Opava, Krnov, Olomouc",
-        "text": "Opavská patricijská a lékařská rodina s erbem a přídomkem „von Lilienfeld“ (1568). Erb je téměř shodný s erbem Gillernů a jména Ignác a Benedikt se objevují v obou rodinách, napojení na náš rod ale zatím doložené není – zjistit ho je jeden z úkolů výzkumu. Vazby uvnitř rodiny jsou z literatury (Tesař, Zukal), ne z matrik.",
+        "text": "Opavská patricijská a lékařská rodina s erbem a přídomkem „von Lilienfeld“ (1568). Erb je téměř shodný s erbem Gillernů a napojení na náš rod ale zatím doložené není – zjistit ho je jeden z úkolů výzkumu. Vazby uvnitř rodiny jsou z literatury (Tesař, Zukal), ne z matrik.",
         "uzly": [
           {
             "jmeno": "Matouš Giller",
@@ -2929,13 +2936,6 @@
                     "roky": "17. století"
                   }
                 ]
-              },
-              {
-                "jmeno": "Ignác Giller z Lilienfeldu, rytíř, na Doloplazích",
-                "stav": "lit",
-                "vazba": "nejiste",
-                "roky": "asi 1796–1854",
-                "pozn": "majitel statku Doloplazy u Olomouce (katalog moravskoslezského zemského práva 1783–1850); totožnost s Ignácem z Gillernů, kmotrem 1784, je otevřená otázka"
               }
             ]
           }

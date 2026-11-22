@@ -1,6 +1,6 @@
 # Maximilián, Johanna a Josef – nezávislá revize, 6. kolo
 
-Fable, 22. 11. 2026. Podklad: větev `claude/nice-dirac-8inizg` ve stavu `ebf0373` (zadání `zadani_fable_maximilian4.md`).
+Fable, 22. 11. 2026. Podklad: větev `claude/nice-dirac-8inizg` ve stavu `ebf0373` (zadání `zadani_fable_maximilian4.md`); před odevzdáním doplněno podle stavu `5c9c499` (výsledek H7, deník č. 664 – oddíl 8).
 Nic kromě tohoto souboru jsem neměnil.
 
 **Značky:** [D] doloženo zápisem · [L] tištěná literatura · [O] odvozeno · [H] domněnka · [N] nově zjištěno v tomto kole · [P] z mé paměti, neověřeno · (?) nejisté čtení.
@@ -72,7 +72,8 @@ Všechny běžící a zde navržené online cesty dohromady mají na nalezení *
 7. **H10 (Johanna = Johanna Leonora) zůstává možná, ale slabá – asi 8 %.** V Trachenbergu ji už rozhodnout nejde. „Josef jako syn Carla Ludwiga“ odporuje vašemu vlastnímu zápisu z roku 1786 (oddíl 6.4).
 8. **Franz († 1817):** své tvrzení z 5. revize, že je to jistě František Ludvík (\* 1753), beru zpět. Rozestupy křtů nechávají před rokem 1750 místo pro dvě děti; Franz může být samostatný starší syn (oddíl 6.5).
 9. **Vojsko:** kontrola pluku č. 15 se týkala jen důstojníků a poddůstojníků. Bratr Friedrich podle listiny z roku 1756 sloužil už od roku 1743, a přesto v lednu 1745 mezi nimi není – šlechtičtí nováčci často začínali bez hodnosti. Maximiliána tam nečekám, ale závěr „u pluku nebyl“ je silnější, než dovolují data (oddíl 4.3).
-10. **Tři nejlepší cesty** (hotová zadání v oddíle 14): (1) eBadatelna – Čelákovice 1761–1767, slovo z roku 1751, strana sňatků 1786; (2) FamilySearch – Krehlau křty 1736–1742, dočtení Trachenbergu, Preichau a Prausnitz; (3) Vratislav – katolické sňatky 1743–1749.
+10. **Terezii už samostatně nehledejte.** H7 mezitím skončilo bez výsledku a pozůstalostní knihy online nejsou (deník č. 664). K Josefovi ani k Johanně by nevedla ani úspěšná stopa (oddíl 8).
+11. **Tři nejlepší cesty** (hotová zadání v oddíle 14): (1) eBadatelna – Čelákovice 1761–1767, slovo z roku 1751, strana sňatků 1786; (2) FamilySearch – Krehlau křty 1736–1742, dočtení Trachenbergu, Preichau a Prausnitz; (3) Vratislav – katolické sňatky 1743–1749.
 
 ---
 
@@ -273,7 +274,7 @@ V 5. revizi jsem napsal „Franz = František Ludvík (\* 1753), dokud se neuká
 - Chlapec z roku 1753 byl pokřtěn Franciscus Ludovicus Alexander; první jméno je po kmotrovi Franzi Kurkovi. Roku 1770 vystupuje jako „**Ludovicus** de Gyller“. Říkalo se mu tedy Ludvík.
 - Vedle Ludvíka mohl žít starší bratr, kterému se říkalo Franz. Rozestupy pro něj místo mají (6.2).
 - Odhad: samostatný syn \* asi 1747/48 – 45 %; totožný s Ludvíkem – 45 %; někdo jiný – 10 %.
-- **Jak to rozhodnout:** najít po roce 1770 zápis, kde vystupují Franz a Ludvík jako dvě osoby, nebo úmrtí Ludvíka. Hodí se k tomu úkol 4 běžícího zadání o Terezii (kmotři v Brandýse 1784–1800) – přidejte tam, ať agent zapisuje křestní jméno každého Gillera přesně tak, jak stojí.
+- **Jak to rozhodnout:** najít po roce 1770 zápis, kde vystupují Franz a Ludvík jako dvě osoby, nebo úmrtí Ludvíka. Hodí se k tomu část H7, která zůstala neprošlá (kmotři v brandýských křtech 1784–1800, deník č. 664): zapisovat křestní jméno každého Gillera přesně tak, jak stojí.
 
 ---
 
@@ -297,14 +298,23 @@ V 5. revizi jsem napsal „Franz = František Ludvík (\* 1753), dokud se neuká
 
 ---
 
-## 8. Otázka 5: Terezie a dům č. 14
+## 8. Otázka 5: Terezie a dědici
 
-Úkoly H7 (`zadani_lokalni_terezie_brandys.md`) jsou zvolené dobře. Doplnil bych:
-1. **Noviny.** Po smrti úředníka soud vyzýval věřitele a dědice tiskem, a dražba domu se oznamovala také. Hledat „Gillern“ a „Brandeis“ v letech 1789–1790 a 1797–1799: Wiener Zeitung (ANNO, fulltext) a Prager Oberpostamtszeitung (NDK, s Janovým přihlášením). Šance malá, cena nulová.
-2. **Kmotři v Brandýse 1784–1800** (úkol 4) – zapisovat přesná křestní jména kvůli Franzovi a Ludvíkovi (6.5).
-3. **Rodina nevěsty.** V Brandýse a Staré Boleslavi křty 1740–1765: Terezie Holub / Holoubek / Holaubs. Pro strom, ne pro hlavní otázku.
+Během mé práce přibyl výsledek H7 (deník č. 664): nový sňatek vdovy ve městech Stará Boleslav a Brandýs 1789–1800 není, úmrtí není, gruntovní a sirotčí knihy brandýského zámeckého okresu online nejsou. Otázku jste proto změnili na „má smysl Terezii dál hledat?“.
 
-**Co dalšího může jmenovat dědice:** zápis o pozůstalosti u vrchnostenského úřadu panství Brandýs (Maximilián nebyl držitelem deskového statku, takže ne zemské desky) a sirotčí kniha, pokud zůstaly nezletilé děti – děti s Johannou už byly dospělé a o dětech s Terezií nevíme. Online to bude jen tehdy, jsou-li digitalizované pozemkové knihy; to H7 zjišťuje. Pro Josefovo rodiště z toho nic nečekám.
+**Má smysl Terezii dál hledat?** Pro hlavní otázku ne. Její nový sňatek ani úmrtí neřeknou nic o Josefově rodišti ani o Johanně. Pro strom má jen malou cenu. Nechal bych to být. Výjimka jsou levné zbytky, které H7 samo jmenuje, a ty jen tehdy, když se ty knihy budou číst z jiného důvodu:
+- vesnické oddíly sňatků 1789–1800 (vdova po nadlesním si mohla vzít lesníka na vsi);
+- Stará Boleslav, úmrtí 1806–1811;
+- rejstříky pod H a K.
+
+**Co dalšího online může jmenovat dědice:**
+1. **Noviny.** Po smrti úředníka soud vyzýval věřitele a dědice tiskem, a dražba domu se oznamovala také. Hledat „Gillern“ a „Brandeis“ v letech 1789–1790 a 1797–1799: Wiener Zeitung (ANNO, fulltext) a Prager Oberpostamtszeitung (NDK, s Janovým přihlášením). Šance malá, cena skoro nulová. Je to jediná online cesta, kterou tu vidím.
+2. **Kde spis nejspíš ležel.** Maximilián byl šlechtic; pozůstalosti šlechty projednával po roce 1783 zemský soud v Praze, ne vrchnostenský úřad [P]. V `data/archivni_dotazy.md` máte jen velkostatek Brandýs a archiv města. Doplňte si tam zemský soud (Národní archiv). Online to není; uvádím to jen proto, aby poznámka byla správně.
+3. **Kmotři v brandýských křtech 1784–1800** – z H7 zůstali neprošlí. Hodnotu mají jen kvůli Franzovi a Ludvíkovi (6.5): zapisovat křestní jméno každého Gillera přesně tak, jak stojí.
+
+Pro Josefovo rodiště z ničeho z toho nic nečekám.
+
+**K novému zápisu ze 17. 2. 1789** (`o_1789_stboleslav_gillernove_pritomni`). Nevěsta je „Barbora dcera P. Waclawa Gelle (?) z Čelakowic (?)“, 24 let. Narodila se tedy kolem 1764/65 v Čelákovicích – a právě roku 1764 tam byla Johanna kmotrou (deník č. 535). Nejspíš jde o kmotřenku rodiny, proto jsou otec a dcera na svatbě „přítomni“ [H]. Zadání 1 ten křest najde; ukáže, jak čelákovický farář Gillerny psal, a to pomůže při čtení celé díry 1761–1766. Výřez má malé rozlišení; jméno slečny („Jeanne“ ?) z něj neumím přečíst lépe než vy.
 
 ---
 
@@ -352,7 +362,7 @@ V 5. revizi jsem napsal „Franz = František Ludvík (\* 1753), dokud se neuká
 | Úkol | Soud | Co změnit |
 |---|---|---|
 | **H6 Praha 1743–1749** | Dává smysl jako jednorázové uzavření Prahy. Šance asi 3–4 %. | Vypustit „Pominecz“ a „Alexander“ (K2, K8). Připsat, že ženich může být zapsán jen jako „Joseph von Giller“ a bez povolání. Začít farnostmi Hradčan a Malé Strany (dvůr a úřady). |
-| **H7 Terezie** | Dobře zvolené. | Doplňky v oddíle 8. |
+| **H7 Terezie** | Mezitím hotovo, bez výsledku (deník č. 664). | Dál nehledat; viz oddíl 8. |
 | **Kolo 10 Nerlich / Nisa** | Pro strom ano; k hlavní otázce nevede. | Ať agent cestou zapíše každého Gillera, Klinge a Eberta, kterého v Nise 1680–1700 potká. |
 | **Kolo 11 sourozenci a pruští baroni** | Ano. Osud Carla Wilhelma Vita je důležitý: byl-li dědicem on, vysvětluje to, proč Maximilián odešel. | Vyškrtnout Bílou Vodu (K11). Přidat: jméno strýcova dítěte z října 1725 (rozhodne Franze Antona, 4.3). U Ernsta Heinricha hledat pod plukem Tauentzien [N2] (roku 1749 se podle mě jmenoval Lestwitz a ležel ve Vratislavi [P]). |
 | **Předci Heinricha Christofa (ZA Opava)** | Bez připomínek k věci. | Přidat jeden úkol navíc: **Krnov – rejstřík oddaných 1740–1749, písmena G a K** (4.5). |
@@ -372,7 +382,7 @@ V 5. revizi jsem napsal „Franz = František Ludvík (\* 1753), dokud se neuká
 | 7 | **Pluk č. 15, přehlídka 29. 1. 1745 – mužstvo všech setnin**: každý Giller | FamilySearch DGS 7607065 | L | 4.3; najde Friedricha, vyloučí Maximiliána | Maximilián 2 %; Friedrich 55 % |
 | 8 | **Vybledlé strany Krehlau jinak:** na stažených originálech (snímky 382, 40, 188, 381) zkusit porovnávání se vzorem – vystřihnout slova „Giller“, „Hammer“, „Jäger“ z čitelného zápisu téhož písaře (snímek 385) a hledat podobné zbytky tahů | vlastní soubory | C | 4.5, bod 2 | 2 % |
 | 9 | Jméno strýcova dítěte z října 1725 | vlastní zpráva kola 2 | C | 4.3 | jistý výsledek |
-| – | H6 Praha, H7 Terezie, kolo 10, kolo 11, předci | běží | L | oddíl 11 | |
+| – | H6 Praha, kolo 10, kolo 11, předci | běží | L | oddíl 11 | |
 
 **Nenavrhuji:** české panství Hatzfeldů (napadlo mě kvůli Trachenbergu, ale vlastnictví ve 40. letech jsem neověřil a vazba je slabá – pod 1 %).
 
@@ -388,6 +398,7 @@ V 5. revizi jsem napsal „Franz = František Ludvík (\* 1753), dokud se neuká
 6. **Brát „před rokem 1750“ jako potvrzené** (K1) a **věk 48 jako údaj** (K4).
 7. **Používat „Alexander“ jako znak pro léta před 1750** (K8).
 8. **Vratislavské noviny, Lehnice, Chlumec, Vídeň ručně** – uzavřeno nebo nedostupné.
+9. **Terezii samostatně hledat** (oddíl 8).
 
 ---
 
@@ -433,7 +444,8 @@ C) Roku 1786 jsou na jedné straně knihy oddaných dva ženichové jménem Jose
       „Silvanus Caesareus“, „Hofjäger“, „ex Domo Dominicali“, „ex Hradek“; matku Johannu. Každý takový křest
       přepiš celý včetně kmotrů.
    b) Každý zápis, kde jsou Maximilián, Johanna nebo jejich děti KMOTRY nebo svědky (známe jen roky 1763
-      a 1764 bez podrobností) – přepiš celý.
+      a 1764 bez podrobností) – přepiš celý. Zvlášť hledej křest BARBORY, dcery Václava Gelle (?),
+      asi 1764–1765: byla jí kmotrou Johanna z Gillernů?
    c) ÚMRTÍ od ledna 1761 do konce 1767 (asi snímky 445–462): děti Gillerů; a také každá starší žena
       z panského domu nebo z Hrádku zapsaná jako matka nebo tchyně myslivce (mater, socrus, vidua).
    d) Má-li fara Čelákovice pro tato léta ještě jinou knihu křtů (přifařené vsi) nebo rejstřík (snad kniha

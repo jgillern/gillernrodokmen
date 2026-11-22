@@ -1714,7 +1714,7 @@
     },
     "franz_joseph": {
       "jmeno": "Franz Joseph von Giller",
-      "roky": "doložen 1710–1725",
+      "roky": "doložen 1710–1747",
       "stav": "doc",
       "vazba": "bratr Carla Heinricha – strýc našeho Maximiliána",
       "fakta": [
@@ -1725,7 +1725,7 @@
         "Děti pokřtěné v Krehlau: Christoph Franz Gregor (12. 3. 1716), Maria Anna Johanna Victoria (11. 5. 1717), Johann Heinrich Ferdinand (25. 6. 1718), Maria Elisabeth Apolonia (24. 9. 1719), Anna Josepha Francisca (10. 3. 1721), Maria Barbara Susanna (24. 5. 1722) a Friedrich Joseph Wilhelm (29. 2. 1724) a v říjnu 1725 ještě dítě, jehož jméno je v rozpitém zápisu nečitelné (snad Maria Hedwig).",
         "Čtyři z těchto dětí zemřely malé: Christoph Franz Gregor (pohřben 20. 4. 1718, 2 roky), Johann Heinrich Ferdinand (12. 12. 1718, 24 týdnů), Maria Elisabeth Apolonia (27. 10. 1719, 5 týdnů) a Anna Josepha Francisca (28. 5. 1724, 3 roky).",
         "Roku 1710 byl kmotrem v Preichau.",
-        "Po roce 1725 rodina z Krehlau zmizela: nejsou tam další křty ani pohřby (ani samotného Franze Josepha) a v letech 1738–1757 se tam žádná z dcer nevdávala. Roku 1745 už v Horním Krehlau sídlila jiná šlechtická rodina. Rodina se tedy kolem roku 1726 odstěhovala – kam, zatím nevíme. Franz Joseph byl podle Sinapia (1723) také hejtmanem biskupského panství Preichau, takže mohl odejít v biskupských službách na jiné biskupské panství.",
+        "Po roce 1725 se mu v Krehlau další děti nekřtily a v letech 1738–1757 se tam žádná z dcer nevdávala. Horní Krehlau statek pustil: roku 1745 tam sídlila rodina von Mostroschin a nejpozději v prosinci 1749 Johann Wenzel von Ertel. Sám Franz Joseph ale v Krehlau zůstal nebo se tam vracel – 16. 9. 1747 tam byl kmotrem jako „der Wohlgebohrne Herr Franz Joseph v. Giller, gewesener Erbherr auf Ober Krehlau“ (bývalý dědičný pán Horního Krehlau). Jmenný index FamilySearch uvádí v letech 1754/56 pár „Franciscus Giller × Eleonora“ v Bílé Vodě v rakouském Slezsku – mohl by to být on s manželkou Eleonorou Hedwig; neověřeno.",
         "Ze známých dětí přežily dětství nejspíš dcery Maria Anna Johanna Victoria (1717; roku 1723 kmotrou) a Maria Barbara Susanna (1722), syn Friedrich Joseph Wilhelm (1724) a dítě z roku 1725. Friedrich Joseph Wilhelm byl jediným synem, který mohl rod této větve dál nést."
       ],
       "vztahy": [
@@ -1760,7 +1760,8 @@
         }
       ],
       "zaznamy": [
-        "o_1714_giller_klinge"
+        "o_1714_giller_klinge",
+        "n_1747_krehlau_franz_joseph_kmotr"
       ]
     },
     "ernst_heinrich": {

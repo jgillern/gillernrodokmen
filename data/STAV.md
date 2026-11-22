@@ -5,7 +5,7 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 
 ## ★ 22. 11. 2026 – Maximilián † 7. 6. 1789 Stará Boleslav č. 1 (log 642)
-Nadlesní komorního panství Brandýs (od 1783), zapsán 78 let (skutečně 70), horká zimnice. Vdova Terezie (× 1783) kmotrou ještě 1790 a 12/1793. Hledání Maximiliánova úmrtí UKONČENO. Otevřené zůstává: kde byl 1736–1749 (běží: lokální Claude kolo 5 Slezsko, Kostelec n. Č. l., komorní panství, GenTeam + Morava), Johannin původ, Josefovo rodiště.
+Nadlesní komorního panství Brandýs (od 1783), zapsán 78 let (skutečně 70), horká zimnice. Vdova Terezie (× 1783) kmotrou ještě 1790 a 12/1793. Hledání Maximiliánova úmrtí UKONČENO. **Acta Publica (MZA) od 22. 11. blokuje Janovu síť (Cloudflare 403) – nezkoušet, dokud Jan neřekne.** Otevřené zůstává: kde byl 1736–1749 (běží: lokální Claude kolo 5 Slezsko, Kostelec n. Č. l., komorní panství, GenTeam + Morava), Johannin původ, Josefovo rodiště.
 
 ## ★ PRŮLOM 21. 11. 2026 – Maximilián pochází z Krehlau (Slezsko), 2. větev
 Křest 4. 3. (?) 1719 Krehlau (Krzelów u Volova): **Maximilianus Joseph Emanuel, syn Carla Heinricha v. Giller (Hammer) × Catharina Barbara Eleonora roz. Nerlich** (log 601; FamilySearch film 8244728 sn. 435). Linie: Heinrich Christof → Johann Christof → **Christoph Heinrich (1646–1717)** → **Carl Heinrich (1686–1752)** → **Maximilián (1719)** → Josef → František → … Bratři: generál Ernst Heinrich (1730), nejspíš kapitán Jan Bedřich = Johann Friedrich Rudolph (1724). H3 potvrzena, H1/H5 odpadají.

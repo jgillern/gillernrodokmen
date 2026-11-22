@@ -253,7 +253,7 @@ Celá revize je v souboru `revize_maximilian2_fable.md`. Klíčový nález (ově
 | G7 | Poděbrady Z 1765, snímek 11866/34 („Josef Grill, lovecký adjunkt“ – Grill, nebo Giller?) | ChatGPT | |
 | G8 | (Fable 5: Kostelec jen jako sousední panství, úkol 3 vynechat) Kam mohl otec Maximiliána poslat (1737–1749) – síť příbuzných v habsburských službách (Karel Josef: dvorská komora 1736–1746 = správa komorních panství, lichtenštejnský rada; kmotr FW I lichtenštejnský úředník). Cíleně: lichtenštejnské panství Kostelec nad Černými lesy, kniha 07 (N+O+Z 1744–1754, eBadatelna) – křty 1745–1748, sňatky 1743–1748; pak 06 (1734–1743) jen sňatky a kmotři | lokální Claude (`zadani_lokalni_lichtenstejn.md`) | ▶ |
 | G9 | Jiná komorní panství 1743–1749: Zbiroh–Točník–Králův Dvůr, zbytek Pardubicka, pražské obory | lokální Claude (`zadani_lokalni_komorni_panstvi.md`) | ▶ |
-| G10 | GenTeam (všechny tvary jména 1730–1800) + lichtenštejnská panství Valtice, Lednice, Mor. Třebová (Acta Publica), Lanškroun (ARON) | lokální Claude (`zadani_lokalni_genteam_morava.md`) | ▶ |
+| G10 | GenTeam (všechny tvary jména 1730–1800) + lichtenštejnská panství Valtice, Lednice, Mor. Třebová (Acta Publica), Lanškroun (ARON) | lokální Claude (`zadani_lokalni_genteam_morava.md`) | ✔ GenTeam a Lanškroun negativní (log 647); Acta Publica blokuje Janovu IP – Valtice, Lednice, Mor. Třebová zbývají |
 
 **Ukončeno:** Nisa (kolo 4), hledání Maximiliánova úmrtí v Poděbradech, na Kolínsku, v Praze, ve Vídni a v Koryčanech, Sigisbert (F9), Holíč jako samostatný směr. **Pozor při hledání v tisku:** vždy všechny tvary (Gillerů, Gilleru, Gilernu, Giller, Güller, Gyller, Killer).
 

@@ -46,7 +46,7 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
 - GenTeam (celá databáze, všechny tvary jména) a Lanškroun (č. 647).
 - Kostelec nad Černými lesy 1736–1749 (č. 649). „Josef Grill“ z Poděbrad 1765 je opravdu Grill (č. 649).
 - Bílá Voda, Opava, Jesenicko, Skorošice, Supíkovice a Šternberk 1741–1769 (č. 657). „Franciscus Giller“ z Bílé Vody je šenkýř, nesouvisí s námi.
-- Komorní panství, zatím (č. 659): Drahoňův Újezd, Zbiroh, Mýto, Cerhovice, Žebrák (rejstřík), Beroun, Přelouč, Sezemice.
+- Komorní panství (č. 659, 661): Drahoňův Újezd, Zbiroh, Mýto, Cerhovice, Žebrák (rejstřík N), Beroun, Přelouč, Sezemice, Rohovládova Bělá. Lesní personál Pardubic 1744–1749 je doložen jménem, Maximilián mezi ním není. **Chlumec nad Cidlinou (Kinský) má matriky až od 1775.** Nedočteno: Lázně Bohdaneč 1747–1749, Žebrák O, Týnec n. L., pražské obory.
 - Jméno Pominetz / Pominecz v indexech (č. 653, 654).
 - Literatura o 30leté válce online (č. 658); vratislavské noviny 50. let 18. století nejsou online jako text (č. 660).
 - Nečitelné nebo zablokované zdroje:
@@ -55,7 +55,6 @@ Nespěchej a přemýšlej do hloubky. Výstup piš **česky**, srozumitelně i p
 
 **Právě běží nebo je připraveno** – nenavrhuj znovu, ale klidně zhodnoť, zda to dává smysl, a co by měl agent dělat jinak:
 - **kolo 9 – Trachenberg 1743–1761** (`zadani_familysearch_kolo9_trachenberg.md`), běží: pohřeb Carla Ludwiga, děti s Johannou Leonorou, osud vdovy. Průběžně hlášeno, zatím neověřeno: pohřeb **13. 5. 1747 „Johanna Charlotta geb. von Gyllar“**.
-- **komorní panství – zbytek** (`zadani_lokalni_komorni_panstvi.md`), běží: Chlumec n. C. (Kinský), Týnec n. L., Lázně Bohdaneč, pražské obory.
 - **H6 Praha 1743–1749** – rejstříky oddaných a křtů (`zadani_lokalni_praha_1743_1749.md`).
 - **H7 Terezie** – nový sňatek vdovy, úmrtí, gruntovní a sirotčí knihy Brandýsa, dům č. 14 (`zadani_lokalni_terezie_brandys.md`).
 - **kolo 10** – rodiče Cathariny Barbary Eleonory Nerlich, Nisa (`zadani_familysearch_kolo10_nerlich.md`).

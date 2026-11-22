@@ -104,3 +104,8 @@ Válečný archiv (Kriegsarchiv): musterlisty pěších pluků „Gayer/Geyer“
 
 ## Slezští předci (21. 11. 2026)
 - **Krehlau (Krzelów), katolické pohřby 1736–1780** – FamilySearch film 8018561 (jen s klíčkem, z domu nepřístupný): úmrtí Carla Heinricha von Giller (26. 10. 1752 podle literatury) s věkem.
+
+## Maximilián – předchozí služba před rokem 1750 (22. 11. 2026)
+- **SOA Praha, Velkostatek (komorní panství) Poděbrady** – služební tabely, personální spisy a účty lesního úřadu kolem 1748–1750: přijetí Maximiliána z Gillernů za revírníka v Bobnicích (Bor Bobnický) a odkud přišel; 1766 jmenování nadlesním, 1782 odchod (nástupce J. B. Böser).
+- **Národní archiv, Česká komora / královský lesní úřad v Brandýse** – dekrety lesních úředníků komorních panství 1748–1782; dvorní myslivci v Kladrubech a Čelákovicích 1757–1766.
+- **ÖStA HHStA, Obersthofjägermeisteramt** – dvorní myslivci (Hofjäger) v Čechách 1757–1766.

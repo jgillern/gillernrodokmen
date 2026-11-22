@@ -29,7 +29,7 @@ Na vesnici platil pevný žebříček: nahoře **sedlák** s celým gruntem, pod
 - **Vlašimští:** [Matěj Píša](/osoba/matej-pisa-1759/), syn sedláka z Kondrace, se ženil 20. listopadu 1781 – tři týdny po vydání patentu. Kovářem v Kondraci byl tehdy jeho tchán Jan Jahoda. Úplně jinak na tom byli Malí z Bukové: [Jan Malý](/osoba/jan-maly/) se ještě roku 1819 psal „královský svobodník“ – rod, který nebyl poddaný žádné vrchnosti a robotu nekonal.
 - **Šumavští:** sedláci Sovové v Masákově Lhotě a Uhlířové ve Stachách, domkáři Myslíkové v Branišově – všichni poddaní malého statku Přečín nebo panství Zdíkov.
 - **Votičtí:** předek [František Kypta](/osoba/frantisek-kypta-1771/) se narodil kolem roku 1771 a vyučil se kolářem; Piglové byli poddaní k Jistebnici, Richtrovi k Mitrovicům.
-- **Gillernové:** náš předek Maximilián svobodný pán z Gillernů byl roku 1781 nejvyšším myslivcem (nadlesním) komorního panství Poděbrady, jeho syn Josef tam byl myslivcem – šlechtici, ale ve službách vrchnosti. Moravští příbuzní tehdy drželi panství Koryčany; jak přesně jsou s námi spřízněni, zatím nevíme.
+- **Gillernové:** náš předek Maximilián z Gillernů byl roku 1781 nejvyšším myslivcem (nadlesním) komorního panství Poděbrady, jeho syn Josef tam byl myslivcem – šlechtici, ale ve službách vrchnosti. Moravští příbuzní tehdy drželi panství Koryčany; jak přesně jsou s námi spřízněni, zatím nevíme.
 
 **Jak to mohli prožívat:** Pro sedláky se mnoho nezměnilo – grunt i robota zůstaly. Pro mladší syny bez dědictví ale patent otevřel cestu k řemeslu: o generaci později najdeme v rodokmenu koláře, krejčí a ševce.
 

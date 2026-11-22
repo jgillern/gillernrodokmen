@@ -33,3 +33,9 @@ Navazuje na `FamilySearch_kolo2.md`. Postup stejný jako dosud:
    - **Goldberg (Złotoryja) – evangelické křty a sňatky asi 1795–1830** (Oswald von Gillern * 17. 9. 1828 a sňatek jeho rodičů 14. 11. 1827: baron Moritz Eduard Alexander von Gillern × Henriette Dorothea Wilhelmine Hinke);
    - **Wanowitz u Hlubčic (Leobschütz) – katolické křty 1794** (malíř Joseph Edward von Gillern);
    - **rakouské vojenské kmenové listy (Musterlisten) pěšího pluku č. 15 (Pallavicini), asi 1750–1771** – existují na FamilySearch vůbec?
+
+## Doplněk (22. 11. 2026, podle nezávislé revize)
+5. **Krehlau – pohřby 1738–1760** (pokud je kniha z domu prohlížitelná; nejdřív to ověř v katalogu): pohřeb **Carla Heinricha von Giller** (26. 10. 1752), jeho manželky **Cathariny Barbary Eleonory** a nejstaršího přeživšího syna **Carla Wilhelma Vita** (* 1714). Při procházení zapisuj i Gillery jako kmotry po roce 1750.
+6. **Pořadí v úkolu 3 (Nisa):** nejdřív **sňatek Carla Heinricha s Nerlichovou** (asi 1708–1711), teprve potom křty.
+7. **Preichau – „Carolina“:** ve svých poznámkách z pilotu (a případně na snímcích) zjisti, jak je **Maria Carolina** v letech 1722–1725 titulována (Frau, Fräulein, Wittib?), a zda je v Preichau pohřeb **Christopha Heinricha von Giller** (1717) nebo jeho manželky (1717–1740). Jde o to, zda „Carolina, hejtmanová z Preichau“ (kmotra 1719) nebyla jeho manželka – naše předkyně.
+8. **Jmenné hledání (záznamy, ne snímky):** **Eduard / Moritz / Alexander von Gillern**, narození asi 1795–1810, hlavně Lehnice (Liegnitz) a Goldberg; a evangelická rodina **Friedrich Wilhelm von Gillern × Amalie Mariane von Rochow** (děti v Lehnici 1793–1798) – kdo byli jejich synové.

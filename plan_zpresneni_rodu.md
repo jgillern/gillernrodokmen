@@ -25,7 +25,7 @@ Prošel jsem všechny nejisté vazby v rodokmenu rodu (hlavní strom, Gillerové
 | C1 | ✔ částečně | Sinapius (1728, s. 641), čteno z originálu: rod „se dělí od dvou bratrů ve dvě linie“, ale pořadí neurčuje, kdo byl starší. Roku 1723 žil Friedrich Wilhelm I. jako rada a vrchní účetní knížectví Lehnického, Břežského a Volovského a měl pět synů. Spis o šlechtictví z roku 1700 (Rakouský státní archiv) online není. Úmrtí Friedricha Wilhelma I. → kolo 3 pro lokálního Clauda. |
 | C2 | ✔ přehodnoceno | Svatba ve Vídni v dubnu 1723 (zpráva ChatGPT, výřez ověřen): ženichem byl Joseph Carl von Giller, sekretář knížete z Lichtenštejna, svědkem Carolus Josephus von Giller, už císařský a knížecí dvorní rada. Šlo tedy o dva muže. Sinapiův „Carl Joseph, sekretář“ (syn Friedricha Wilhelma I., * 1696) je ženich. Pozdější baron a pán Koryčan byl nejspíš starší dvorní rada Johann Karl Joseph (potvrzení šlechtictví 1721, † 1762 v 70 letech), tedy Hans Carl (* 1690), syn poštmistra Franze Leopolda, jak uvádí i Wikipedie. Doklad by dal jeho sňatek s Marií Josefou von Fellner (ve Vídni zatím nenalezen) nebo spisy o šlechtictví ve Vídni. |
 | C3 | ✔ částečně | Podle Sinapia byl Franz Leopold (syn Friedricha Wilhelma I.) roku 1723 zemským písařem knížectví Minstrberského a Frankenštejnska. Poštmistr Franz Leopold ve Dvorcích se narodil nejpozději kolem roku 1665 a po roce 1712 ze Dvorců mizí. S rodinou Friedricha Wilhelma z Karlovce si za kmotry nechodili, s měšťanskými Gillery ano. Věkem patří spíš do stejné generace jako Friedrich Wilhelm I. (bratr nebo bratranec) než mezi jeho syny. Sinapiův Franz Leopold tak mohl být jiný člověk. Zbývá: ověřit na originále sňatek z roku 1705 (O2/165, úřad a původ otce) a sporná čtení „G/B“ (ChatGPT, ZA Opava). |
-| C4 | ✔ částečně | Měšťanští Gillerové (Christian st. † 1711 v 68 letech, Christian ml., Franciscus 1683–1771, Augustin, Joannes Caspar) tvořili jednu síť s poštmistrem Franzem Leopoldem. S rodinou z Karlovce spojeni nebyli; ta si brala za kmotry komtury Řádu německých rytířů. Hans Carl (1690) je nejspíš švec Carolus († 1759). Franciscus (1683–1771) není starší Franz Leopold, je to otec krejčího Augustina. |
+| C4 | ✔ částečně | Měšťanští Gillerové (Christian st. † 1711 v 68 letech, Christian ml., Franciscus 1683–1771, Augustin, Joannes Caspar) tvořili jednu síť s poštmistrem Franzem Leopoldem. S rodinou z Karlovce spojeni nebyli; ta si brala za kmotry komtury Řádu německých rytířů. Hans Carl (1690) byl spíš pozdější baron Karel Josef než švec Carolus († 1759) – viz C2 a Vídeň 1723. Franciscus (1683–1771) není starší Franz Leopold, je to otec krejčího Augustina. |
 | C3/C4 – originály | ✔ ověřeno | Originály ve Dvorcích ověřil ChatGPT a já jsem je zkontroloval na výřezech. Franz Leopold byl roku 1705 měšťan a poštmistr, 1712 císařský poštmistr a purkmistr. Manželkou byla po celou dobu (1690–1709) Susanna, ne Anna. Roku 1699 šel za kmotra na Karlovci hned po křtu dítěte Friedricha Wilhelma. Odkud byl, zápisy neuvádějí. Franciscus (1683–1771) je otec krejčího Augustina, ne Franz Leopold. Nový profil Franze Leopolda a šest zápisů s výřezy. |
 | C6 | ✔ částečně | Oswald (1828–1897) se narodil v Goldbergu ve Slezsku, ne v Dobberphulu. Jeho rodiče byli velmi pravděpodobně baron Moritz (?) Eduard Alexander von Gillern a Henriette Hinke (sňatek v Goldbergu 1827). Mezi Kristiánem a Moritzem Eduardem tak chybí jen jedna generace; samo spojení s Kristiánem uvádí jen Gotha 1884. Abatyše Dominika se narodila 29. 3. 1739. Tenorista Hugo byl syn důstojníka Dominika von Gillern. Kristiánův syn zemřel roku 1783 jako dítě. Další krok: Goldberg, evangelické křty a sňatky kolem 1795–1830 (sňatek a křest Moritze Eduarda) – jen ve vratislavském archivu, skeny nejsou. Ve vídeňských křtech 1755–1776 má Kristián kromě dcer jen syna Karla Boromejského (* 1773), který zemřel jako dítě (1783). Spojení Kristián → Oswald, které uvádí Gotha 1884, je tím spíš oslabené. |
 | C10 | **Kam odešla rodina Franze Josepha (po roce 1725)** – osm dětí 1716–1725, čtyři zemřely malé; přeživší Maria Anna Johanna Victoria (1717), Maria Barbara Susanna (1722), Friedrich Joseph Wilhelm (1724) a dítě 1725 | Pokračování 2. větve; možní předci pozdějších slezských Gillernů (Joseph z Nieder-Kunzendorfu? Ignác 1784?) | biskupská panství (Franz Joseph byl biskupským úředníkem): Nisa a Otmuchov (FamilySearch), rakouská část biskupství po roce 1742 – Javorník, Vidnava, Frývaldov, Zlaté Hory (ZA Opava); Preichau do 1750 už prošlé | lokální Claude (Nisa), ChatGPT (ZA Opava) | nízká až střední / střední |
@@ -190,3 +190,45 @@ Prošel jsem všechny nejisté vazby v rodokmenu rodu (hlavní strom, Gillerové
 - Joseph Anton: manželka Maria Franziska roz. hraběnka Osteschau, zemřel před rokem 1765; zdroj ke statku Priedemost opraven.
 - Johann Christoph: statky Rettkau a Priedemost (1730), úřad v Preichau asi do roku 1742.
 - Rok narození Friedricha Wilhelma I. (1651) je na webu označen jako nejistý.
+
+---
+
+## Po 3. revizi Fable (22. 11. 2026) – nové kroky
+
+Celá revize je v souboru `revize_rod3_fable.md`. Ověřil jsem z ní a do dat zapracoval:
+- Fetter v Koryčanech není naše rodina, protože data narození dětí se vylučují.
+- Svědek z roku 1771 je nejspíš otec Maximilián.
+- „Svobodný pán“ u Maximiliána je jen zdvořilostní titul.
+- Krehlau bylo prodáno.
+- Oswaldova linie je odpojená od Kristiána.
+
+| # | Krok | Kdo |
+|---|---|---|
+| F1 | Krehlau – pohřby 1738–1760 (otec † 1752, matka, Carl Wilhelm Vitus) a Gillerové jako kmotři po roce 1750; v katalogu ověřit, zda jsou pohřby po roce 1737 vůbec nafilmované | lokální Claude (kolo 3) |
+| F2 | Prodej Krehlau a Hammeru po roce 1752 – inventáře polských archivů (Krzelów, Hammer, Giller, Gersdorf). Spis o pozůstalosti by jmenoval všechny dědice. | ChatGPT (szukajwarchiwach) |
+| F3 | Dvorské a zemské schematismy 1750–1790: Maximilián, kapitán Friedrich (major ve Velkém Varadíně – poslední rok výskytu), Karel Josef | ChatGPT / lokální Claude |
+| F4 | Úmrtí otce pod jménem „Josef“: Poděbrady 1782–1800; znovu přečíst zápis o Josefu Gillarovi z 7. 7. 1792 (66 let – číslo domu, znění) | ChatGPT (eBadatelna) |
+| F5 | Úmrtí jinde 1782–1800: Kladruby, Pardubice, Nymburk, Sadská, Čelákovice | Claude (ARON), ChatGPT |
+| F6 | Nisa – sňatek Carla Heinricha s Nerlichovou dát v kole 3 před křty | lokální Claude |
+| F7 | „Carolina, hejtmanová z Preichau“ – titul Marie Caroliny 1722–1725 a pohřby Preichau 1717–1740 (předkyně č. 1025?) | lokální Claude |
+| F8 | Karel Josef: Duncker – studie o Gillernovi jako vyjednavači 1741 (Mittheilungen des k. k. Kriegs-Archivs); sňatek s Fellnerovou v dosud nečtených farnostech | Claude (archive.org), ChatGPT |
+| F9 | Sigisbert Güller († 1775 Poděbrady, kapitán pluku De Caroli) – celé znění zápisu; mohl být Johannin příbuzný | ChatGPT |
+| F10 | Lucemburk 1737–1751 – posádka pluku Friedricha Wilhelma II., jeho úmrtí 1751; vojenská stopa Maximiliána a Johanny | Claude / ChatGPT |
+| F11 | Pruští baroni: FamilySearch – jmenné hledání Eduard / Moritz / Alexander von Gillern 1795–1810 (Lehnice, Goldberg) | lokální Claude |
+| F12 | Předci: křty Opava 1640–1660 (Christoph Heinrich 1646, Friedrich Wilhelm 1651, Franz Leopold 1656); „Deschna“ = Deštná u Jindřichova Hradce? | ChatGPT |
+| F13 | Křest „mladšího“ Bedřicha Rudolfa (* asi 4/1760, Kladruby a okolí) – kmotr kapitán s plným jménem | Claude (ARON) |
+
+**Co přestat dělat (podle revize):**
+- další polabské rejstříky kvůli Maximiliánovu sňatku;
+- Vídeň bez nové stopy;
+- Ignác, Cheb a Franz Niklas;
+- další ročníky Gothy;
+- měšťané ve Dvorcích;
+- Sasko;
+- dokazovat rok 1738 a „první manželku“.
+
+**Otevřené otázky, které jsme si nepoložili:**
+- Kdo zdědil a prodal Hammer a Krehlau?
+- Co se stalo s nejstarším přeživším bratrem Carlem Wilhelmem Vitem (* 1714) a s pěti sestrami?
+- Kde byl syn Josef před rokem 1785?
+- Od kterých Maximiliánových dětí pocházejí Gillernové 19. století v Polabí, které automaticky řadíme k Josefovi?

@@ -119,3 +119,9 @@ Online bez skenů; spis by jmenoval dědice (Maximilián v Čechách):
 ## Nejstarší předci – Opava (22. 11. 2026, zpráva ChatGPT Q)
 - **ZA Opava, fond Josef Zukal, inv. č. 195–208, 211, 213–240** (výpisky z opavských matrik a o opavských rodech; inv. 198 – rodina Matyáše Gillera z Lilienfeldu) a **výpisky Augusta von Doerr** z opavských matrik 1601–1900 (fond Farní úřad u Panny Marie Opava, inv. č. 238): Gillerové z Lilienfeldu, Johann Christof Giller × Susanne Bartsch, křty 1646/1651.
 - **SOkA Opava, Archiv města Opavy** – pozemkové a měšťanské knihy 17. století (Gillerové z Lilienfeldu).
+
+## Maximilián – jmenování a penze v komorních lesích (22. 11. 2026, podle Martínková–Valenta–Vilímovská, VČSH 14, 2007)
+Komorní lesy (Poděbrady, Brandýs, Pardubice, Zbiroh, Kladruby) řídil v 50. letech 18. stol. nejvyšší lovčí hrabě Leopold Kinský; jmenování lesmistrů, **dvorních myslivců (Hofjäger)**, polesných a nadlesních (Oberforst) i penze schvaloval císař (návrhy přes barona Toussainta):
+- **NA Praha, ČDKM V, kart. 20–21** – nařízení nejvyššího lovčího, přehled translokací „úředníků“ loveckého úřadu (lesmistři, dvorní myslivci, polesní, nadlesní), „Status personalis“ – Maximilián jako nadlesní v Hradištku (1756), dvorní myslivec v Kladrubech (1757–1761), přeložení do Čelákovic (1762).
+- **SOA Zámrsk, RA Kinských (Chlumec n. C.), kart. 97, inv. č. 2030** – korespondence Leopolda Kinského s císařem a Toussaintem 1753–1758 (obsazování míst, penze).
+- Penze po roce 1782 (Maximilián, vdova) – návrhy penzí nejvyššího lovčího / dvorská komora.

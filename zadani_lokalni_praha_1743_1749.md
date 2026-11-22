@@ -5,7 +5,8 @@ Pomáháš Janovi s rodokmenem rodu **Gillernů** (psáno také Giller, Gillern,
 
 **Koho hledáme:**
 - **Maximilián Josef Emanuel von Giller** (* 1719 ve Slezsku), od roku 1749 polní myslivec císařského komorního panství Poděbrady. Psán i jen **Maximilian, Joseph** nebo **Emanuel**, s „Herr / D. / Perillustris / Nobilis“, povolání Jäger, venator, Förster.
-- Manželka **Johanna** (* asi 1720–1725), rodné jméno neznáme (snad „Pominecz / Pominetz“ ?). Syn **Josef** (* asi 1744–1749). Syn z roku 1753 dostal jméno **Alexander**.
+- Manželka **Johanna** (* asi 1720–1725), rodné jméno neznáme, nejspíš dcera měšťana nebo úředníka (ne šlechtična). Syn **Josef** (* asi 1745–1748).
+- Ženich může být zapsán i jen jako „Joseph von Giller“ nebo „Herr … Giller“, **bez povolání**.
 - Proč Praha: místa v císařských lesích obsazoval **úřad nejvyššího lovčího Království českého** (zástupce Leopold hrabě Kinský) se sídlem v Praze. Maximilián mohl před nástupem žít nebo se ženit v Praze.
 - Už prohledáno (nedělej): Praha – úmrtí 1786–1800; sv. Vojtěch, Zderaz (jiné roky a jiné osoby).
 

@@ -281,3 +281,18 @@ Revize v `revize_maximilian3_fable.md` (log 644). Josefův rok narození stojí 
 | I3 | F13 | já | ✔ log 655 |
 | I4 | **Hloubka rodu – předci Heinricha Christofa:** Opava Op I 1 křty 1644–1653 souvisle, sňatky 1638–1646, pohřby; Krnov Kr I 1; Osoblaha (Bartschové) | lokální Claude (`zadani_lokalni_predci_heinrich_christof.md`) | |
 | I5 | Hloubka rodu – literatura: Tschammer (Sinapius, rodová historie), Bartsch v. Sternegg, třicetiletá válka (pluk Wrbna – Oberstleutnant Giller; pluk Gallas – Rittmeister Giller): Hallwich, DBBTI, Theatrum Europaeum | já | log 656, 658: volné texty bez výsledku; NDK kolo 3 (log 662): o Heinrichu a Johannu Christofovi nic; nové: FW I. 1687–1691 Amtmann v Karlovci u vévody Württembersko-Olešnického, Barschové predikát až 1695 |
+
+## Po 6. revizi Fable (22. 11. 2026)
+Revize v `revize_maximilian4_fable.md` (log 665). „Pominecz“ = „homines Liberi“ (ověřeno); Josefův věk 48 není samostatný údaj; nejpravděpodobnější je sňatek kolem 1745 na Volovsku s dcerou katolického měšťana z Winzigu nebo Wohlau.
+
+| # | Krok | Kdo | Stav |
+|---|---|---|---|
+| J1 | Čelákovice 1761–1767 (mezera v křtech, Josef?), slovo 1751 na plném snímku, strana sňatků Poděbrady 1786 | lokální Claude (`zadani_lokalni_celakovice_1761_1767.md`) | zadání připraveno |
+| J2 | Slezsko – kolo 12: Krehlau křty 1736–1742 (Gillerové kmotři, myslivci, lidé z Winzigu), Trachenberg dočtení (1737, manžel Johanny Charlotty, Ebert/Rock, kmotři), Preichau O 1726–1750 a Z 1741–1760, Prausnitz O 1744–1749, Milíč | lokální Claude (`zadani_familysearch_kolo12_slezsko.md`) | zadání připraveno |
+| J3 | Vratislav – katolické sňatky 1743–1749 (Matricula, FamilySearch) | lokální Claude (`zadani_lokalni_vratislav_1743_1749.md`) | zadání připraveno |
+| J4 | Geneteka (Giller, Gyller, Giler, Güller, Gillern – Velkopolsko, Dolní Slezsko 1735–1755), BaSIA, ANNO fulltext „Gillern“ 1740–1800 | já | |
+| J5 | szukajwarchiwach – Giller, Ertel, Krzelów, Młoty, Wińsko (skeny?) | lokální Claude | |
+| J6 | Krnov – rejstřík oddaných 1740–1749 (G, K) – přidat k zadání předků | lokální Claude | |
+| J7 | Pluk č. 15, přehlídka 29. 1. 1745 – mužstvo všech setnin (Friedrich, Maximilián) | lokální Claude | nízká priorita |
+
+**Přestat:** Pominecz, další čtení Trachenbergu kvůli H10, pluky naslepo, zbytky komorních panství, Terezie samostatně.

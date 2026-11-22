@@ -25,10 +25,10 @@ Rodiče: **Carl Heinrich von Giller**, pán na Hammeru a Nieder-Krehlau († 175
 Hledej (Německo, Polsko, Rakousko, Česko; roky 1730–1800):
 1. sňatek a úmrtí **Carl Wilhelm (Vitus) von Giller / Gillern**;
 2. sňatky a úmrtí sester (všechna jména výše, i jen „Maria … von Giller“); u Scholastiky a dalších zkus i kláštery (vstup do řádu, „Profess“, Trebnitz, Breslau);
-3. sňatek a úmrtí **Franz Anton Giller** (také v Bílé Vodě / Weißwasser u Jeseníku, kde index uvádí křty 1754 a 1756 dětí páru „Franciscus Giller × Eleonora“ – otevři oba záznamy: ark:/61903/1:1:6PMK-RCCN a 6PMK-YCQD).
+3. sňatek a úmrtí **Franz Anton Giller** (Bílá Voda už je vyřešená – tamní „Franciscus Giller × Eleonora“ byl šenkýř, jiná rodina; neotevírej). Zjisti také, zda je Franz Anton totožný s hejtmanem Friedrichem: oba jsou u pluku č. 15 „z Hammeru“ a věk se liší o rok.
 
 ## Část B – pruští baroni: chybějící generace
-- **Ernst Heinrich von Gillern** (1730–1792), bratr Maximiliána, pruský generálmajor, se 23. 11. 1767 oženil evangelicky v **Grüneiche u Vratislavi** s **Annou Dorotheou Arndt** (index, neověřeno).
+- **Ernst Heinrich von Gillern** (1730–1792), bratr Maximiliána, pruský generálmajor (roku 1749 vstoupil k pruskému pěšímu pluku Tauentzien, praporčík 1752), se 23. 11. 1767 oženil evangelicky v **Grüneiche u Vratislavi** s **Annou Dorotheou Arndt** (index, neověřeno).
 - V **Lehnici (Liegnitz)** se v letech 1793–1798 narodilo pět dětí **Friedrichu Wilhelmovi von Gillern** a **(Amalie) Marianne von Rochow**, mezi nimi **Christoph Eduard Carl** (křest 1. 2. 1796).
 - **Baron Moritz (?) Eduard Alexander von Gillern** se **14. 11. 1827 v Goldbergu (Złotoryja)** oženil s Henriette Dorotheou Wilhelmine **Hinke**; jejich syn Oswald (* 17. 9. 1828 Goldberg) je předek pozdějších pruských baronů.
 

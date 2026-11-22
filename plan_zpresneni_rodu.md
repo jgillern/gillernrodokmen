@@ -262,7 +262,7 @@ Revize v `revize_maximilian3_fable.md` (log 644). Josefův rok narození stojí 
 
 | # | Krok | Kdo | Stav |
 |---|---|---|---|
-| H1 | Z1 – Nymburk a Sadská 1750–1756 celé (mezera 1753–1755, „Alexia“, kmotři, Johanny * 1719–1727, Sadská sn. 462) | lokální Claude (`zadani_lokalni_Z1_nymburk_sadska.md`) | ▶ |
+| H1 | Z1 – Nymburk a Sadská 1750–1756 celé (mezera 1753–1755, „Alexia“, kmotři, Johanny * 1719–1727, Sadská sn. 462) | lokální Claude (`zadani_lokalni_Z1_nymburk_sadska.md`) | ✔ log 651: dcera Marie Alžběta Juliána 1754, Josef ne; 1751 = Constantia; 1750 ne Alexia |
 | H2 | Z2 – Bílá Voda („Franciscus Giller × Eleonora“ 1754/56), Opava, Jesenicko, Šternberk 1740–1760 | lokální Claude (`zadani_lokalni_Z2_slezsko_rakouske.md`, upřesněno: 2 křty z indexu 1754/1756, Franz Anton „aus Hammer“) | |
 | H3 | Z3 – pluk č. 15, kmenové listy 1744–1756 všech setnin (Franz Anton, Friedrich, Maximilián?) | lokální Claude (`zadani_familysearch_Z3_ir15.md`) | ✔ log 648: Franz Anton 1745 z Hammeru, Friedrich 1753–1756; Maximilián ne; přehlídky 1746–1752 nedochovány |
 | H4 | Slezsko, 2. okruh: katol. Hlohov, Vratislav, Lehnice, Trebnice, Trachenberg, Prausnitz; luterské Winzig, Wohlau, Steinau, Herrnstadt – sňatky 1743–1749 (nejdřív katalog) | ✔ log 650: Trachenberg 1743 Johann Carl Ludwig v. Giller × Johanna Leonora (Winzig) – hypotéza o Johanně |

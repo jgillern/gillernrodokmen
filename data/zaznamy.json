@@ -1708,7 +1708,7 @@
   "druh": "N",
   "datum": "23. 1. 1750",
   "nazev": "Křest Anny Alexie Barbory, dcery myslivce Maximiliána von Giller, Bor Bobnický",
-  "shrnuti": "23. 1. 1750 pokřtěna, z Boru Bobnického (fara Nymburk): Anna Alexia (?) Barbara (prostřední jméno čteno nejistě); otec Maximilián Josef Emanuel von Gyller, myslivec (Jäger), matka Anna Johanna; kmotři Anna Hollanová (?), Ludmila Kudlová (?), Pavel Antoš (?).",
+  "shrnuti": "23. 1. 1750 pokřtěna, z Boru Bobnického (fara Nymburk): Anna … Barbara (prostřední jméno nečitelné – ne „Alexia“); otec Maximilián Josef Emanuel von Gyller, myslivec (Jäger), matka Anna Johanna; kmotři Anna Hollanová (?), Ludmila Kudlová (?), Pavel Antoš (?).",
   "strana": "str. 82, 6. zápis v lednu",
   "odkaz": "https://ebadatelna.soapraha.cz/d/10406/47"
  },
@@ -1718,7 +1718,7 @@
   "druh": "N",
   "datum": "25. 9. 1751",
   "nazev": "Narození Marie Johanny Terezie, dcery myslivce Maximiliána von Giller, Bor Bobnický",
-  "shrnuti": "* 25. 9., pokřtěna 26. 9. 1751, z Boru (Bobnického), fara Nymburk: Maria Johanna Theresia; otec Maximilián Josef von Giller, matka Maria Johanna; kmotři Kateřina … (?), Ludmila Kudlová (?), Pavel Antoš (?); křtil P. Tomáš Kulka, děkan.",
+  "shrnuti": "* 25. 9., pokřtěna 26. 9. 1751, z Boru (Bobnického), fara Nymburk: Maria Johanna Constantia; otec Maximilián Josef von Giller, matka Maria Johanna; kmotři Kateřina … (?), Ludmila Kudlová (?), Pavel Antoš (?); křtil P. Tomáš Kulka, děkan.",
   "strana": "str. 98, 7. zápis v září",
   "odkaz": "https://ebadatelna.soapraha.cz/d/10406/55"
  },
@@ -2647,5 +2647,16 @@
   "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPJ-SCLK",
   "pozn": "FamilySearch, film 8245736, snímek 456; lokální Claude, kolo 8 – výřez sám přečten. Příjmení nevěsty (Ebert / Eberl ?) a slovo „Buchhalters“ nejisté.",
   "shrnuti": "5. 2. 1743 oddal v Trachenbergu farář a arcikněz Johann Franz Blasius (?) urozeného pana Johanna Carla Ludwiga, manželského syna zesnulého urozeného rytíře a pana Friedricha Wilhelma von Giller, bývalého císařsko-královského účetního (Buchhalter) a rady, s pannou Johannou Leonorou, dcerou zesnulého pana Johanna Carla Eberta (?), radního císařsko-královského města Winzig. Svědci Johann Franz Rock (?), knížecí trachenberský rentmistr, a Joseph Anton Gregory (?), polský kurát. Ženich je Carl Ludwig, syn Friedricha Wilhelma I. (kmotra Maximiliána 1719), tedy bratranec Maximiliánova otce."
+ },
+ {
+  "klic": "n_1754_gillern_maria_elisabeth_juliana",
+  "druh": "N",
+  "datum": "23. 6. 1754",
+  "nazev": "Křest Marie Alžběty Juliány de Güllern, Hradištko (fara Sadská)",
+  "svazek": "sadska_05",
+  "strana": "červen 1754, 2. zápis na pravé straně (str. 117a)",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/11453/118",
+  "pozn": "Lokální Claude, zadání Z1 (výřez sám přečten). Rejstřík Sadská 49: „Güller Maria – Hradischko – 20 Juni – 117“.",
+  "shrnuti": "* 20. 6., pokřtěna 23. 6. 1754 v Hradištku (fara Sadská): Maria Elisabeth Juliana, dcera urozeného pana Josefa Maximiliána Emanuela de Güllern (?), myslivce, lidově „obrforšt“ hradišťského, a paní Marie Johanny, rodičů svobodných. Kmotra urozená panna Alžběta, dcera urozeného pana Jana Hoffmanna, hejtmana myslivosti poděbradského; svědci paní Juliána, manželka pana Václava Nekana (?), rychtáře města Nymburka, a pan Josef Susnergraff (?), poděbradský rybmistr. Dosud neznámá dcera z mezery v křtech 1753–1756 – Josef v ní není."
  }
 ]

@@ -1,11 +1,11 @@
 # E-mail do Národního archivu (Praha) – návrh, verze 1 (24. 11. 2026)
 
 **Komu:** posta@na.gov.cz
-**Stav:** NEODESLÁNO – čeká na Janovo schválení.
+**Stav:** koncept v Gmailu (draft r-6840277585107811200), NEODESLÁNO – čeká na Janovo schválení.
 
 ---
 
-**Předmět:** Rod Gillernů – žádost o kopie šlechtických listů a spisů (1700, 1732) a dotaz na zmínky o Maximiliánovi z Gillernů (1750–1761)
+**Předmět:** Žádost o digitální kopie - Gillern
 
 Dobrý den,
 

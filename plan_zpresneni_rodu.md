@@ -337,3 +337,17 @@ Jan: tři témata jsou jedna otázka – odkud rod pochází a jak spolu souvis�
 | L5 | Cheb sv. Mikuláš 1698–1704 (Porta fontium, N a O): Franz Niklas jako kmotr / svědek / ženich (1. manželství?), plné tituly | já (portafontium.py) | |
 | L6 | ANNO – Wienerisches Diarium 1703–1727 „Giller/Gillern“: povýšení, služba, úmrtí 1727 (místo) | lokální Claude (tamtéž, úkol 2) | zadáno |
 | L7 | ÖStA: reprodukce spisu RAA 143.32 (žádost 1703 – zásluhy, předci) – placená objednávka, jen když Jan výslovně chce | Jan | volitelné |
+
+### K8 – podplukovník Heinrich Christof Giller (otec Johanna Christofa) – Jan 23. 11. 2026
+Dosud ho nikdo cíleně nehledal. Víme (Gotha 1884): císařský podplukovník pluku Wrbna, usadil se ve vsi Deschna, 2× ženatý (1. manželka roz. von Tschammer).
+- **Deschna = nejspíš Deštné u Jakartovic** (moravská enkláva mezi Dvorci a Opavou, lenní statek olomouckého biskupství, poštovní stanice; lenníci 1622–1664 Huttendorfové, 1664 Scherz – Giller ne). Leží 10 km od Dvorců/Karlovce, kde pak žil vnuk Friedrich Wilhelm I. a měšťanští Gillerové – **možná spojka mezi naší linií a Dvorcemi**.
+- **Pluk Wrbna:** kyrysníci naverbovaní 1645 na Moravě, 1646 velitel hrabě Wrbna (Stephan?), 1647 Creutz, ve Slezsku – podplukovník Giller nejspíš 1645–1647.
+
+| # | Krok | Kdo | Stav |
+|---|---|---|---|
+| K8a | Wrede III/2 – obraz stránky s plukem Wrbna/Creutz (1645–1650): podplukovník, posádky, rozpuštění; Wrede II (pěchota) – jiný pluk Wrbna? | já (archive.org / HathiTrust) | |
+| K8b | Opava 1627–1665 (běžící agent): kmotři/rodiče Heinrich Christof, Johann Christof, „von Deschna“, Tschammer; Deštné jako místo | lokální Claude (Opava) | doplnit do příštího kola |
+| K8c | Matriky okolí Deštného (Jakartovice, Litultovice, Hořejší Kunčice, Moravice, Dvorce, Lodenice) – nejstarší knihy, pohřby 1640–1690: Heinrich Christof, Johann Christof | lokální Claude (ZA Opava / FamilySearch) | |
+| K8d | Olomoucké biskupství – lenní knihy / manský soud (Deschna 1622–1690), literatura o Huttendorfech a Scherzích; „Jan Arnošt Giller“, purkrabí biskupa v Kroměříži 1688 | já (literatura online) | |
+| K8e | Tschammer – rodová historie (archive.org 11747757bsb) znovu: dcera provdaná za Gillera (asi 1600–1625) | já | |
+| K8f | „říšský stav 1654“ – Frank, Standeserhebungen (Google Books snippet po obnovení kvóty), GHdA Adelslexikon IV s. 118 | já | |

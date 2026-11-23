@@ -230,7 +230,7 @@
       "nazev": "2. větev – slezské statky (naše)",
       "obdobi": "1686–19. století",
       "barva": "#5b6e8f",
-      "text": "Christoph Heinrich (1646–1717), bratr Friedricha Wilhelma I., biskupský hejtman a zemský starší Stínavska. Jeho synové měli statky v Dolním Slezsku: Carl Heinrich (1686–1752, Hammer a Nieder-Krehlau, × Catharina Barbara Eleonora roz. Nerlich) – náš předek; Johann Christoph (hejtman v Preichau, svobodný pán 1732) a Franz Joseph (Ober-Krehlau). Carlu Heinrichovi se v Krehlau narodilo nejméně 15 dětí, mezi nimi Maximilián (1719), Johann Friedrich Rudolph (1724, nejspíš pozdější rakouský kapitán Jan Bedřich) a pruský generálmajor Ernst Heinrich (1730). Z linie Johanna Christopha pocházejí pruští baroni z Polnisch-Gandau a Kulmikau (Carl Joseph × 1785 Antonia von Nerlich).",
+      "text": "Christoph Heinrich (1646–1717), bratr Friedricha Wilhelma I., biskupský hejtman a zemský starší Stínavska. Jeho synové měli statky v Dolním Slezsku: Carl Heinrich (1686–1752, Hammer a Nieder-Krehlau, × Catharina Barbara Eleonora roz. Nerlich) – náš předek; Johann Christoph (hejtman v Preichau, svobodný pán 1732) a Franz Joseph (Ober-Krehlau). Carlu Heinrichovi se v Krehlau narodilo nejméně 16 dětí, mezi nimi Maximilián (1719), Johann Friedrich Rudolph (1724, nejspíš pozdější rakouský kapitán Jan Bedřich) a pruský generálmajor Ernst Heinrich (1730). Z linie Johanna Christopha pocházejí pruští baroni z Polnisch-Gandau a Kulmikau (Carl Joseph × 1785 Antonia von Nerlich).",
       "vazba": "Naše větev: Maximilián (* 1719 Krehlau) je syn Carla Heinricha – doloženo jeho křtem. Ernst Heinrich (generál) a nejspíš kapitán Jan Bedřich jsou jeho bratři; Johann Christoph (Preichau) a Frantz Joseph (Ober-Krehlau) strýcové.",
       "profil": "rodopis"
     },
@@ -1288,7 +1288,7 @@
         "Synové Johanna Christofa – Christoph Heinrich a Friedrich Wilhelm – dostali 20. 8. 1700 český šlechtický stav (list vydán ve Vídeňském Novém Městě). Od nich vedou dvě větve rodu.",
         "1. větev – Friedrich Wilhelm I. (asi 1651–1728), správce a hejtman v Karlovci u Dvorců u Bruntálu, později císařský rada a vrchní účetní knížectví Lehnického, Břežského a Volovského. Ve Dvorcích se mu v letech 1688–1699 narodilo nejméně osm dětí, mezi nimi Friedrich Wilhelm II. (1688–1751, podplukovník, otec Kristiána z Koryčan). Do jeho rodiny patří i Karel Josef svobodný pán z Gillernů (asi 1692–1762), pán Koryčan. Friedrich Wilhelm I. byl roku 1719 kmotrem našeho Maximiliána.",
         "2. větev – Christoph Heinrich (1646–1717), biskupský hejtman, zastánce protireformace ve Volovském knížectví a od 1706 zemský starší Stínavského kraje. Jeho synové měli statky v Dolním Slezsku: Carl Heinrich, Johann Christoph a Franz Joseph.",
-        "Carl Heinrich (1686–1752), pán na Hammeru a Nieder-Krehlau, dvorský soudce a zemský starší Stínavska, × Catharina Barbara Eleonora roz. Nerlich. V letech 1711–1734 se jim v Krehlau narodilo nejméně patnáct dětí, mezi nimi Maximilián Josef Emanuel (1719) – náš předek –, Johann Friedrich Rudolph (1724, nejspíš pozdější rakouský kapitán Jan Bedřich) a Ernst Heinrich (1730–1792), pruský generálmajor.",
+        "Carl Heinrich (1686–1752), pán na Hammeru a Nieder-Krehlau, dvorský soudce a zemský starší Stínavska, × Catharina Barbara Eleonora roz. Nerlich. V letech 1711–1736 se jim v Krehlau narodilo nejméně šestnáct dětí, mezi nimi Maximilián Josef Emanuel (1719) – náš předek –, Johann Friedrich Rudolph (1724, nejspíš pozdější rakouský kapitán Jan Bedřich) a Ernst Heinrich (1730–1792), pruský generálmajor.",
         "Johann Christoph, hejtman (správce) biskupského panství Preichau a pán na Schwebedowě u Milicze, roku 1732 svobodný pán spolu s bratrancem Karlem Josefem; × Maria Martha. Jeho syn Joseph Anton (* 1710) držel Priedemost u Hlohova; vnuk Carl Joseph svobodný pán z Gillernů († 1824) se roku 1785 oženil s Antonií von Nerlich a sídlil na Polnisch-Gandau u Vratislavi.",
         "Franz Joseph, pán na Ober-Krehlau, × Eleonora Hedwig (snad roz. Klinge); v letech 1716–1725 se jim v Krehlau narodilo sedm dětí.",
         "Na přelomu 18. a 19. století žili ve Slezsku další svobodní páni z Gillernů této katolické větve – Johann Christoph na Kulmikau u Stínavy († 1804 v Lehnici), Joseph na Nieder-Kunzendorfu u Minstrberka, kanovnice Maria Josepha „z dědova rodového sídla Rettkau“; z rodu pocházejí i pozdější pruští baroni.",
@@ -5272,7 +5272,7 @@
                         "jmeno": "Carl Heinrich von Giller",
                         "roky": "1686–1752",
                         "stav": "doc",
-                        "pozn": "pán na Hammeru a Nieder-Krehlau; nejméně 15 dětí pokřtěných v Krehlau 1711–1734",
+                        "pozn": "pán na Hammeru a Nieder-Krehlau; nejméně 16 dětí pokřtěných v Krehlau 1711–1736",
                         "deti": [
                           {
                             "jmeno": "Johann Christoph (Friedrich)",
@@ -5766,6 +5766,13 @@
                             "stav": "doc",
                             "vazba": "doc",
                             "profil": "maria_sophia_1734"
+                          },
+                          {
+                            "jmeno": "I…a (?) Clara Susanna",
+                            "stav": "doc",
+                            "vazba": "doc",
+                            "roky": "křest 10. 8. 1736 – † 9/1736",
+                            "pozn": "nejmladší dítě; matka pohřbena 10. 9. 1736, dítě 23. 9. 1736 (6 týdnů)"
                           }
                         ],
                         "nase": true,

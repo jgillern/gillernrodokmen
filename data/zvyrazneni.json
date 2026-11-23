@@ -3088,5 +3088,41 @@
   ],
   "status": "ok",
   "note": "kmotr: der Junge Herr Carolus Wilhelmus Vitus de Giller"
+ },
+ "z_1736_krehlau_giller_catharina_barbara": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "pohřeb 10. 9. 1736 – Catharina Barbara V. Gillerin, 44 let"
+ },
+ "n_1736_krehlau_giller_clara_susanna": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "křest 10. 8. 1736 – otec Carl Heinrich von Giller, matka Catharina Barbara geb. Nerlichin (?)"
+ },
+ "z_1736_krehlau_giller_clara_susanna": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    0.8
+   ]
+  ],
+  "status": "ok",
+  "note": "pohřeb 23. 9. 1736 – dítě pana V. Gillera, 6 týdnů"
  }
 }

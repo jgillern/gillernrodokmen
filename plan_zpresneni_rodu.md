@@ -294,6 +294,7 @@ Revize v `revize_maximilian4_fable.md` (log 665). „Pominecz“ = „homines Li
 | J5 | BaSIA + szukajwarchiwach – Giller, Ertel, Krzelów, Młoty, Wińsko (skeny?) | lokální Claude (`zadani_lokalni_polsko_jmenna_hledani.md`) | ✔ log 674: negativní; AAWr bez skenů; Winzig kat. před 1879 a Wohlau kat. sňatky po 1722 ztraceny |
 | J6 | Krnov – rejstřík oddaných 1740–1749 (G, K) – přidat k zadání předků | lokální Claude | |
 | J7 | Pluk č. 15, přehlídka 29. 1. 1745 – mužstvo všech setnin (Friedrich, Maximilián) | lokální Claude | nízká priorita |
+| J8 | **Jan schválil (23. 11. 2026): objednat z AAWr skeny jen nejistých stran Krehlau** – MB.289.TR.a (sňatky 1742–1749) a MB.289.TF.a (křty 1744–1749); výběr stran, kontakt, podmínky a koncept e-mailu | lokální Claude (`zadani_lokalni_aawr_objednavka_skenu.md`), odešle Jan | zadání připraveno |
 
 **Přestat:** Pominecz, další čtení Trachenbergu kvůli H10, pluky naslepo, zbytky komorních panství, Terezie samostatně.
 

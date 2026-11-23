@@ -347,7 +347,7 @@ Dosud ho nikdo cíleně nehledal. Víme (Gotha 1884): císařský podplukovník 
 |---|---|---|---|
 | K8a | Wrede III/2 – obraz stránky s plukem Wrbna/Creutz (1645–1650): podplukovník, posádky, rozpuštění; Wrede II (pěchota) – jiný pluk Wrbna? | já (archive.org / HathiTrust) | |
 | K8b | Opava 1627–1665 (běžící agent): kmotři/rodiče Heinrich Christof, Johann Christof, „von Deschna“, Tschammer; Deštné jako místo | lokální Claude (Opava) | doplnit do příštího kola |
-| K8c | Matriky okolí Deštného (Jakartovice, Litultovice, Hořejší Kunčice, Moravice, Dvorce, Lodenice) – nejstarší knihy, pohřby 1640–1690: Heinrich Christof, Johann Christof | lokální Claude (ZA Opava / FamilySearch) | |
+| K8c | Matriky okolí Deštného (Jakartovice, Litultovice, Hořejší Kunčice, Moravice, Dvorce, Lodenice) – nejstarší knihy, pohřby 1640–1690: Heinrich Christof, Johann Christof | lokální Claude (`zadani_lokalni_destne_heinrich_christof.md`) | zadáno |
 | K8d | Olomoucké biskupství – lenní knihy / manský soud (Deschna 1622–1690), literatura o Huttendorfech a Scherzích; „Jan Arnošt Giller“, purkrabí biskupa v Kroměříži 1688 | já (literatura online) | |
 | K8e | Tschammer – rodová historie (archive.org 11747757bsb) znovu: dcera provdaná za Gillera (asi 1600–1625) | já | |
 | K8f | „říšský stav 1654“ – Frank, Standeserhebungen (Google Books snippet po obnovení kvóty), GHdA Adelslexikon IV s. 118 | já | |

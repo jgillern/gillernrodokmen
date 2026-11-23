@@ -23,4 +23,6 @@ Pomáháš Janovi s rodokmenem rodu **Gillernů** (psáno také Giller, Gillern,
 
    U každé nalezené jednotky (fond, signatura, název, léta) zapiš, **zda má skeny online**. Hledáme hlavně: pozemkové a hypoteční knihy statků Krehlau a Hammer, spisy o prodeji statků 1745–1755, pozůstalost Carla Heinricha von Giller († 1752), katolické matriky Winzigu a Wohlau ze 40. let 18. století. Má-li jednotka skeny a týká se let 1735–1755, otevři ji a projdi jen obsah (soupis, první strany), ne celou knihu – výsledek popiš a nic nestahuj.
 
+3. **Katalog Arcidiecézního archivu ve Vratislavi** (archiwum.archidiecezja.wroc.pl/katalog – beta verze): zjisti, zda u katolických matrik **města Vratislavi** jsou **skeny online**. Jde o sňatky (Trauungen / śluby) let **1743–1749** těchto farností: **St. Maria auf dem Sande (NMP na Piasku)**, **St. Adalbert (św. Wojciech)**, **St. Matthias (św. Maciej)** a **St. Dorothea (św. Doroty)**. Pokud skeny jsou, napiš přesný odkaz a signaturu a projdi sňatky 1743–1749 (ženich Giller / Gillern / Güller / Killer – Maximilian, Joseph, Emanuel; nevěsta Johanna). Pokud skeny nejsou, stačí to zapsat. (Dóm sv. Jana má sňatky 1738–1752 ztracené, ten nehledej.)
+
 Na konci krátké shrnutí: co se našlo, které jednotky mají skeny a stojí za další čtení, co bylo bez výsledku.

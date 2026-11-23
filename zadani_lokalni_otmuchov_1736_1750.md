@@ -30,7 +30,7 @@ Katolická farnost Otmuchov (Ottmachau), katalog **koha:14936** („Kirchenbuch,
 - Pokud jsou zamčené, napiš to a pokračuj úkolem 3.
 
 ## Úkol 3 – okolní farnosti (katalog a sonda)
-1. V katalogu FamilySearch najdi katolické matriky farností **Rathmannsdorf (Ratnowice)** – patří k ní ves **Mösen** – a **Groß Karlowitz (Karłowice)**. Zapiš filmy, roky a zda jdou otevřít z domu.
+1. V katalogu FamilySearch najdi katolické matriky farností **Rathmannsdorf (Ratnowice)** – patří k ní ves **Mösen** – a **Groß Karlowitz (Karłowice)**, a zjisti, ke které farnosti patřil statek **Reisewitz (Rysiewice) u Otmuchova** – sídlo rodiny **von Nerlich** (Franz Christoph von Nerlich, * 1731 Nisa, † 1790 Reisewitz, bratranec Maximiliána). Zvlášť si všímej **Nerlichů jako rodičů nebo kmotrů 1736–1750** – mohou ukázat, kde Maximilián s Johannou žili. Zapiš filmy, roky a zda jdou otevřít z domu.
 2. Pokud jdou otevřít a pokrývají léta 1736–1750: projdi **křty a sňatky 1736–1750** se stejným cílem jako v úkolu 2.
 3. **Zbude-li čas:** v katalogu FamilySearch nebo v digitální badatelně ZA Opava zjisti, jaké matriky z let 1736–1750 existují online pro farnosti **rakouské části biskupství**: **Javorník (Jauernig), Vidnava (Weidenau), Jeseník (Freiwaldau), Zlaté Hory (Zuckmantel)**. Jen soupis (kniha, roky, odkaz, přístupnost) – nečti je.
 

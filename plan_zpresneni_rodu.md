@@ -309,3 +309,4 @@ Jan: tři témata jsou jedna otázka – odkud rod pochází a jak spolu souvis�
 | K4 | Opava pohřby 1665–1670 (vol. 12) – Heinrich Christoph | lokální Claude | nízká priorita |
 | K5 | Olomouc 1620–1642 (Matyáš městským lékařem) – matriky sv. Mořic / sv. Václav (FS kopie?) | lokální Claude | po K1 |
 | K6 | Revize Fable „původ rodu“ po K1–K3 | Fable | |
+| K7 | Johann Christoph (rytmistr) – data narození a úmrtí: šlechtické spisy 1700–1732 (ÖStA, NA – digitalizáty?), Hlubčice (sňatek s Bartschovou, křty synů 1646/1651, pohřby), pohřební kázání (GESA, VD17), Theatrum Europaeum | lokální Claude (`zadani_lokalni_johann_christoph.md`) | zadání připraveno |

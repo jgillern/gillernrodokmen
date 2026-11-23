@@ -30,7 +30,7 @@
     },
     {
       "rok": "1696",
-      "text": "V Karlovci u Dvorců je 25. 9. pokřtěn Carl Joseph, syn Friedricha Wilhelma Gillera, „zdejšího hejtmana“, a Anny Marie. Zda je to pozdější Karel Josef svobodný pán z Gillernů, pán Koryčan, není jisté – Wikipedie ho má za syna Franze Leopolda (* 1691; ve Dvorcích pokřtěn 1690 Hans Carl, syn Franze Leopolda).",
+      "text": "V Karlovci u Dvorců je 25. 9. pokřtěn Carl Joseph, syn Friedricha Wilhelma Gillera, „zdejšího hejtmana“, a Anny Marie. Není to pozdější Karel Josef svobodný pán z Gillernů, pán Koryčan: roku 1723 byl Carl Joseph (Joseph Carl) lichtenštejnským sekretářem a na jeho svatbě ve Vídni svědčil jeho starší příbuzný, dvorní rada Carolus Josephus von Giller – pozdější pán Koryčan, nejspíš Hans Carl, syn Franze Leopolda (pokřtěn 1690 ve Dvorcích).",
       "zdroj": "ZA Opava, matrika Dvorce Dv I 1 O 2, snímek 80"
     },
     {
@@ -583,7 +583,8 @@
       "roky": "1784 (ve Slezsku)",
       "text": "Roku 1784 byl kmotrem (v zastoupení) Maximiliánova vnuka Maximiliána Clannera v Poděbradech, zapsán jako „Perillustris Dominus Ignatius de Güllern in Silesia Incola M…“ – obyvatel Slezska; poslední slovo se nedá jistě přečíst (snad Misnia – Míšeň, nebo ves Mösen u Otmuchova). Článek v Polabských novinách 1928 o něm píše jako o panském lesníkovi, který si vzal poděbradskou Rosálii Kroužkovou; matriky to nepotvrzují – Rosálie byla manželkou vojáka Josefa Gillara a autor článku je zřejmě zaměnil. Mezi Maximiliánovými sourozenci v Krehlau Ignác není; patřil nejspíš k některé ze slezských linií rodu.",
       "zdroj": "Poděbrady, křty 1784; Polabské noviny 18. 1. 1928, s. 5",
-      "stav": "doc"
+      "stav": "doc",
+      "profil": "ignac_slezsko"
     },
     {
       "jmeno": "Ernst Heinrich von Gillern",
@@ -630,7 +631,8 @@
       "text": "Rakouský chemik a agronom ve Vídni.",
       "zdroj": "de.wikipedia.org – Gillern",
       "odkaz": "https://de.wikipedia.org/wiki/Gillern",
-      "stav": "lit"
+      "stav": "lit",
+      "profil": "videnska_vetev"
     },
     {
       "jmeno": "Ondřej Güller, písař",
@@ -679,7 +681,8 @@
       "roky": "* 1753",
       "text": "Syn Maximiliána a Johanny, pokřtěn v lednu 1753 v Nymburce (Bor Bobnický). Nejspíš „Perillustris D. Ludovicus de Gyller“, kmotr v Poděbradech 13. 8. 1770, a snad i „František de Gyller“ (1773).",
       "zdroj": "matrika Nymburk 07 (10406/67); Poděbrady 11 (11841/125)",
-      "stav": "doc"
+      "stav": "doc",
+      "profil": "frantisek_ludvik_1753"
     },
     {
       "jmeno": "Dcery a syn Maximiliána z Gillernů",
@@ -1880,7 +1883,7 @@
       "fakta": [
         "Doložen ve Dvorcích u Bruntálu v letech 1690–1712. Narodil se nejpozději kolem roku 1665 – jeho dcera Maria Elisabeth se vdávala roku 1705.",
         "Manželka Susanna, uváděná u křtů dětí v letech 1690–1709. Susanna Gillerová, která zemřela ve Dvorcích 25. 4. 1724 ve věku 60 let, mohla být ona.",
-        "Děti: Maria Elisabeth (× 7. 9. 1705 Martinus Maximilianus Sefftig (?), hejtman šternberského panství), Hans Carl (* 6. 2. 1690), Anna Rosina (* 1694, × 18. 1. 1712 Johann Anton Knapp, hejtman v Opavě), Joanna Theresia (* 1697), Maria Johanna (* 8. 7. 1706, zemřela po dvou dnech) a Frantz Philipp (* 2. 5. 1709).",
+        "Děti: Maria Elisabeth (× 7. 9. 1705 Martinus Maximilianus Sefftig (?), hejtman šternberského panství), Hans Carl (* 6. 2. 1690), Anna Rosina (* 1694, × 18. 1. 1712 Johann Anton Knapp, hejtman v Opavě), Joanna Theresia (* 1697), Maria Johanna (* 8. 7. 1706, zemřela hned druhý den) a Frantz Philipp (* 2. 5. 1709).",
         "Do roku 1700 je v matrikách bez titulu; roku 1705 je měšťanem a poštmistrem, roku 1709 poštmistrem a roku 1712 „poštmistrem Jeho římského císařského Veličenstva a zdejším purkmistrem“.",
         "Často šel za kmotra ve Dvorcích; roku 1699 kmotroval i na Karlovci, na téže straně matriky hned po křtu dítěte Friedricha Wilhelma Gillera. Na svatbě jeho dcery roku 1705 svědčil Christian Giller ze Dvorců.",
         "Po roce 1712 ve Dvorcích mizí. Sinapius (1728) uvádí Franze Leopolda jako syna Friedricha Wilhelma I. a roku 1723 zemského písaře knížectví Minstrberského a Frankenštejnska. Zda jde o tutéž osobu, není jisté – věkem byl Franz Leopold spíš vrstevníkem Friedricha Wilhelma I. (bratrem nebo bratrancem) než jeho synem.",
@@ -1913,6 +1916,2987 @@
         "o_1705_sefftig_gillerova",
         "n_1709_giller_frantz_philipp",
         "o_1712_knapp_gillerova"
+      ]
+    },
+    "magdalena_1692": {
+      "jmeno": "Magdalena Gillerová",
+      "roky": "× 27. 1. 1692 Karlovec",
+      "stav": "doc",
+      "vazba": "Dcera Friedricha Wilhelma I. Gillera, správce a od roku 1694 hejtmana na Karlovci u Dvorců, a Anny Marie – sestřenice Carla Heinricha, otce našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "27. 1. 1692 se na Karlovci (Carlsberg) u Dvorců na Bruntálsku vdala za Frantze Hona (?), syna Johanna Hanse ze Šternberka.",
+        "Karlovec patřil k faře Dvorce; její otec tu byl tehdy panským správcem (Amtmann).",
+        "Její křest v matrikách Dvorců, které se (v opisu) dochovaly od roku 1688, není – narodila se tedy před tímto rokem."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "fw1"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "27. 1. 1692 Karlovec Frantz Hon (?), syn Johanna Hanse ze Šternberka"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – dobový opis křtů a sňatků 1688–1705 (Zemský archiv v Opavě), sňatky 1692",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        }
+      ]
+    },
+    "maria_theresia_1766": {
+      "jmeno": "Maria Theresia Carolina z Gillernů",
+      "roky": "křest 31. 5. 1766 Vídeň – pohřeb 15. 7. 1766 Vídeň",
+      "stav": "doc",
+      "vazba": "Nejstarší známá dcera Kristiána Matyáše Antonína svobodného pána z Gillernů (1723–1793), c. k. podplukovníka a pozdějšího pána Koryčan, a Karoliny roz. svobodné paní z Locelly; Kristián byl podle rodopisu vnuk Friedricha Wilhelma I., tedy bratranec našeho předka Maximiliána (* 1719) z druhého kolena.",
+      "fakta": [
+        "Pokřtěna 31. 5. 1766 v dómské farnosti sv. Štěpána ve Vídni plným jménem Maria Theresia Carolina Josepha Ferdinanda. Otec Kristián Matyáš Antonín svobodný pán z Gillernů byl c. k. podplukovník; matka je v zápisu uvedena jako Karolína Anna rozená baronka z Locelly (v pozdějších zápisech Karolína Amálie).",
+        "Kmotrou byla Maria Margaretha Grünbeckin (?) ze špitálu sv. Jana Nepomuckého, křtil kněz Fast.",
+        "Zemřela jako nemluvně: 15. 7. 1766 je u sv. Štěpána zapsán pohřeb Theresie, dítěte urozeného pana Kristiána svobodného pána z Gillernů (hřbitov „Todten Ackerl“ (?), poplatek 1 zlatý).",
+        "Rodina žila od roku 1766 ve Vídni."
+      ],
+      "zaznamy": [
+        "n_1766_gillern_maria_theresia",
+        "z_1766_gillern_theresia"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "kristian"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Vídeň, sv. Štěpán, kniha pokřtěných 01-086, s. 186 (Matricula, snímek 377)",
+          "odkaz": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-086/?pg=377"
+        },
+        {
+          "nazev": "Vídeň, sv. Štěpán, kniha zemřelých 03-30, s. 98 (Matricula, snímek 124)",
+          "odkaz": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/03-30/?pg=124"
+        }
+      ]
+    },
+    "marie_josefa_1767": {
+      "jmeno": "Marie Josefa z Gillernů, provdaná Münch-Bellinghausen",
+      "roky": "křest 9. 7. 1767 Vídeň",
+      "stav": "doc",
+      "vazba": "Dcera Kristiána Matyáše Antonína svobodného pána z Gillernů (1723–1793), c. k. podplukovníka a pána Koryčan, a Karoliny roz. svobodné paní z Locelly, dědička Koryčan; Kristián byl podle rodopisu vnuk Friedricha Wilhelma I., tedy bratranec našeho předka Maximiliána (* 1719) z druhého kolena.",
+      "fakta": [
+        "Pokřtěna 9. 7. 1767 u sv. Štěpána ve Vídni plným jménem Maria Josepha Aloysia Walburga; otec c. k. podplukovník Kristián Matyáš Antonín svobodný pán z Gillernů, matka Karolína Amálie rozená baronka z Locelly.",
+        "Kmotrou byla Maria Anna Krineblumin (?) ze špitálu sv. Jana Nepomuckého, křtil kněz Kernbeiß.",
+        "Provdala se za Konstantina svobodného pána Münch von Bellinghausen.",
+        "Otec jí závětí z 31. 10. 1791 odkázal moravské panství Koryčany (okres Kyjov), které po jeho smrti roku 1793 zdědila; tím panství z rodu Gillernů odešlo.",
+        "Roku 1826 přešly Koryčany po třetinách na její děti Konstantina, Josefa a Marii; roku 1846 panství koupil Salomon Mayer svobodný pán Rothschild za 775 000 zlatých."
+      ],
+      "zaznamy": [
+        "n_1767_gillern_maria_josepha"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "kristian"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "Konstantin svobodný pán Münch von Bellinghausen"
+        },
+        {
+          "vztah": "další děti",
+          "text": "Konstantin Münch-Bellinghausen (rok narození neznámý; 1826 spoludědic Koryčan); Josef Münch-Bellinghausen (rok narození neznámý; 1826 spoludědic Koryčan); Marie Münch-Bellinghausen (rok narození neznámý; 1826 spoludědička Koryčan)"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Vídeň, sv. Štěpán, kniha pokřtěných 01-087, fol. 64r (Matricula, snímek 129)",
+          "odkaz": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-087/?pg=129"
+        },
+        {
+          "nazev": "L. Hosák, Historický místopis země moravskoslezské, s. 398 (citováno v dopisu K. Vyšína z roku 1978)"
+        },
+        {
+          "nazev": "J. Hyrtl (1851), s. 261 – uvádí narození 9. 7. 1768",
+          "odkaz": "https://archive.org/details/bub_gb_jR9AAAAAYAAJ"
+        }
+      ]
+    },
+    "maria_antonia_1769": {
+      "jmeno": "Maria Antonia Josepha z Gillernů",
+      "roky": "křest 24. 8. 1769 Vídeň",
+      "stav": "doc",
+      "vazba": "Dcera Kristiána Matyáše Antonína svobodného pána z Gillernů (1723–1793), c. k. podplukovníka a pozdějšího pána Koryčan, a Karoliny roz. svobodné paní z Locelly; Kristián byl podle rodopisu vnuk Friedricha Wilhelma I., tedy bratranec našeho předka Maximiliána (* 1719) z druhého kolena.",
+      "fakta": [
+        "Pokřtěna 24. 8. 1769 u sv. Štěpána ve Vídni jménem Maria Antonia Josepha; otec c. k. podplukovník Kristián Matyáš Antonín svobodný pán z Gillernů, matka Karolína Amálie rozená svobodná paní z Locelly.",
+        "Kmotrou byla Regina Mostelinnin (?), správkyně (?) špitálu sv. Jana Nepomuckého, křtil kněz Schnell.",
+        "Její další osud neznáme."
+      ],
+      "zaznamy": [
+        "n_1769_gillern_maria_antonia"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "kristian"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Vídeň, sv. Štěpán, kniha pokřtěných 01-088, fol. 145v (Matricula, snímek 294)",
+          "odkaz": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-088/?pg=294"
+        }
+      ]
+    },
+    "carolus_borromaeus_1773": {
+      "jmeno": "Karel Boromejský (Carolus Borromaeus) z Gillernů",
+      "roky": "křest 29. 4. 1773 Vídeň – † 21. 11. 1783 Vídeň (?)",
+      "stav": "doc",
+      "vazba": "Jediný známý syn Kristiána Matyáše Antonína svobodného pána z Gillernů (1723–1793), c. k. podplukovníka a pozdějšího pána Koryčan, a Karoliny roz. svobodné paní z Locelly; Kristián byl podle rodopisu vnuk Friedricha Wilhelma I., tedy bratranec našeho předka Maximiliána (* 1719) z druhého kolena.",
+      "fakta": [
+        "Pokřtěn 29. 4. 1773 u sv. Štěpána ve Vídni plným jménem Carolus Borromaeus Franciscus Xaverius Joannes Nepomucenus (Karel Boromejský František Xaverský Jan Nepomucký); rodina tehdy bydlela ve vnitřním městě v domě č. 904.",
+        "Otec byl c. k. podplukovník Kristián Matyáš Antonín svobodný pán z Gillernů, matka Karolína Amálie rozená svobodná paní z Locelly. Kmotrem byl Mathäus Jahota (?) ze špitálu sv. Jana, křtil kněz Mayr.",
+        "21. 11. 1783 zemřel ve Vídni v Jakoberově ulici (Jakobergasse) č. 904 „Karl Jos.“, jedenáctiletý syn urozeného pana Kristiána svobodného pána z Gillernů, c. k. podplukovníka – podle stejného domu nejspíš právě on. Zprávu otiskly Wiener Zeitung 26. 11. 1783.",
+        "Jiný Kristiánův syn ve vídeňských křestních matrikách z let 1755–1776 není. Proto je nejisté tvrzení gothajského rodopisu (1884), že od Kristiána pocházejí pozdější pruští baroni z Gillernů."
+      ],
+      "zaznamy": [
+        "n_1773_gillern_carolus",
+        "z_1783_gillern_karl_josef"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "kristian"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Vídeň, sv. Štěpán, kniha pokřtěných 01-090, s. 262 (Matricula, snímek 526)",
+          "odkaz": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/01-090/?pg=526"
+        },
+        {
+          "nazev": "Wiener Zeitung, 26. 11. 1783, s. 10 – rubrika zemřelých ve Vídni (ANNO)",
+          "odkaz": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=17831126&seite=10"
+        }
+      ]
+    },
+    "johanna_1689": {
+      "jmeno": "Johanna Gillerová",
+      "roky": "křest 29. 11. 1689 (fara Dvorce)",
+      "stav": "prob",
+      "vazba": "Dcera Friedricha Wilhelma I. Gillera, správce a od roku 1694 hejtmana na Karlovci u Dvorců, a Anny Marie – sestřenice Carla Heinricha, otce našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna 29. 11. 1689 ve farnosti Dvorce u Bruntálu, kam patřil Karlovec (Carlsberg), jako dcera Friedricha Wilhelma Gillera, tehdy panského správce (Amtmann) na Karlovci, a jeho manželky Anny Marie.",
+        "Snad je totožná s urozenou paní Johannou Charlottou St…ngerovou (?), rozenou von Gyllar (?), která byla 15. 5. 1747 pohřbena v Trachenbergu (dnes Żmigród) ve Slezsku s velkým pohřbem – s osmi údery zvonu, Salve Regina a varhanami. Věk zemřelé ani jméno jejího manžela zápis neuvádí.",
+        "V Trachenbergu se roku 1743 oženil její bratr Johann Carl Ludwig."
+      ],
+      "zaznamy": [
+        "z_1747_trachenberg_gyllar_johanna_charlotta"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "fw1"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – dobový opis křtů a sňatků 1688–1705 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        },
+        {
+          "nazev": "Matrika Trachenberg (kat. fara, dnes Żmigród), pohřby 1747, FamilySearch film 8245736, snímek 522",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPJ-SCKV"
+        }
+      ]
+    },
+    "maria_apollonia_1691": {
+      "jmeno": "Maria Apollonia Gillerová",
+      "roky": "křest 21. 8. 1691 (fara Dvorce)",
+      "stav": "prob",
+      "vazba": "Dcera Friedricha Wilhelma I. Gillera, správce a od roku 1694 hejtmana na Karlovci u Dvorců, a Anny Marie – sestřenice Carla Heinricha, otce našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna 21. 8. 1691 ve farnosti Dvorce u Bruntálu jako dcera Friedricha Wilhelma Gillera, tehdy panského správce (Amtmann) na Karlovci, a Anny Marie.",
+        "Její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "fw1"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – dobový opis křtů a sňatků 1688–1705 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        }
+      ]
+    },
+    "maria_r_1694": {
+      "jmeno": "Maria R. Josepha Gillerová",
+      "roky": "křest 17. 3. 1694 (fara Dvorce)",
+      "stav": "doc",
+      "vazba": "Dcera Friedricha Wilhelma I. Gillera, správce a od roku 1694 hejtmana na Karlovci u Dvorců, a Anny Marie – sestřenice Carla Heinricha, otce našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna 17. 3. 1694 ve farnosti Dvorce u Bruntálu jako dcera Friedricha Wilhelma Gillera, tehdy už hejtmana (Hauptmann) na Karlovci, a Anny Marie.",
+        "Kmotrem byl vznešený host – Maximilian Rudolph svobodný pán von Westernach (?), rytíř řádu německých rytířů a komtur (správce) řádového domu.",
+        "Její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "fw1"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – dobový opis křtů a sňatků 1688–1705 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        }
+      ]
+    },
+    "maria_theresia_1695": {
+      "jmeno": "Maria Theresia Gillerová",
+      "roky": "křest 20. 11. 1695 (fara Dvorce)",
+      "stav": "doc",
+      "vazba": "Dcera Friedricha Wilhelma I. Gillera, správce a od roku 1694 hejtmana na Karlovci u Dvorců, a Anny Marie – sestřenice Carla Heinricha, otce našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna 20. 11. 1695 ve farnosti Dvorce u Bruntálu jako dcera Friedricha Wilhelma Gillera, „tamního hejtmana“ na Karlovci, a Anny Marie.",
+        "Její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "fw1"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – dobový opis křtů a sňatků 1688–1705 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        }
+      ]
+    },
+    "carl_joseph_1696": {
+      "jmeno": "Carl Joseph (Joseph Carl) von Giller",
+      "roky": "křest 25. 9. 1696 Karlovec; × duben 1723 Vídeň",
+      "stav": "doc",
+      "vazba": "Syn Friedricha Wilhelma I. Gillera, hejtmana na Karlovci u Dvorců, a Anny Marie, mladší bratr podplukovníka Friedricha Wilhelma II. – bratranec Carla Heinricha, otce našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěn 25. 9. 1696 na Karlovci (fara Dvorce u Bruntálu) jako syn Friedricha Wilhelma Gillera, „zdejšího hejtmana“, a Anny Marie. Kmotry byli Hans Rotter (?) a Maria Theresia Kü…lin.",
+        "Vstoupil do služeb knížat z Lichtenštejna. Roku 1723 byl jako „Joseph Carl von Giller“ sekretářem vládnoucího knížete z Lichtenštejna a bydlel ve Vídni v knížecím paláci v Herrengasse; slezský genealog Sinapius ho (1728) uvádí jako sekretáře knížete pro Opavsko a Krnovsko.",
+        "V dubnu 1723 se ve vídeňské skotské farnosti (u Skotů) oženil s urozenou pannou Joannou Magdalenou von Mohr zu … und Mohrenberg, komornou kněžny z Lambergu, rodačkou z Bolzana v Tyrolsku, dcerou žijících rodičů Michaela a Christiny von Mohr. Oddával P. Henricus, třetí ohláška byla prominuta.",
+        "Svědky na svatbě byli jeho starší příbuzný Carolus Josephus von Giller, císařský rada a knížecí lichtenštejnský dvorní rada (pozdější svobodný pán a pán Koryčan), a pan Jos. Bapt. (?) von …, rada dvorské komory.",
+        "Jeho další osud neznáme."
+      ],
+      "zaznamy": [
+        "n_1696_giller_carl_joseph",
+        "o_1723_giller_mohr"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "fw1"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "duben 1723 Vídeň Joanna Magdalena von Mohr z Bolzana"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce Dv I 1 O 2 (ZA Opava), křty 1696, rub s. 79, snímek 80",
+          "odkaz": "https://digi.archives.cz/da/showZoomifySeparate?imageNumberSeparate=80&myEntityUuid=29e3f91ac933f2f4%3a-64ab7bf1%3a1503c0399c5%3a-7ff4&myImageUuid=9f575934abea40f0867faa42bbf8f161"
+        },
+        {
+          "nazev": "Vídeň, farnost U Skotů (Schotten), kniha oddaných 02-23, fol. 120v (Matricula, snímek 242)",
+          "odkaz": "https://data.matricula-online.eu/de/oesterreich/wien/01-unsere-liebe-frau-zu-den-schotten/02-23/?pg=242"
+        },
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        }
+      ]
+    },
+    "maria_elisabeth_1698": {
+      "jmeno": "Maria Elisabeth Gillerová",
+      "roky": "křest 23. 2. 1698 (fara Dvorce)",
+      "stav": "doc",
+      "vazba": "Dcera Friedricha Wilhelma I. Gillera, správce a od roku 1694 hejtmana na Karlovci u Dvorců, a Anny Marie – sestřenice Carla Heinricha, otce našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna 23. 2. 1698 ve farnosti Dvorce u Bruntálu jako dcera Friedricha Wilhelma Gillera, hejtmana na Karlovci, a Anny Marie.",
+        "Její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "fw1"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – dobový opis křtů a sňatků 1688–1705 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        }
+      ]
+    },
+    "hans_peter_1699": {
+      "jmeno": "Hans Peter (Johann Peter) von Giller",
+      "roky": "křest 19. 1. 1699 Karlovec",
+      "stav": "doc",
+      "vazba": "Syn Friedricha Wilhelma I. Gillera, správce a od roku 1694 hejtmana na Karlovci u Dvorců, a Anny Marie – bratranec Carla Heinricha, otce našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěn 19. 1. 1699 na Karlovci (fara Dvorce u Bruntálu) jako nejmladší známé dítě Friedricha Wilhelma Gillera, hejtmana na Karlovci, a Anny Marie.",
+        "Nejspíš je to Johann Peter von Giller, kterého slezský genealog Sinapius uvádí roku 1723 jako praporčíka (Fähnrich) pěšího pluku barona Geyera v Sedmihradsku; v témže pluku byl hejtmanem jeho starší bratr Friedrich Wilhelm II."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "fw1"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – dobový opis křtů a sňatků 1688–1705 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        },
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        }
+      ]
+    },
+    "johann_carl_1743": {
+      "jmeno": "Johann Carl Ludwig von Giller",
+      "roky": "× 5. 2. 1743 Trachenberg",
+      "stav": "doc",
+      "vazba": "Syn Friedricha Wilhelma I. Gillera, správce a od roku 1694 hejtmana na Karlovci u Dvorců, a Anny Marie – bratranec Carla Heinricha, otce našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Slezský genealog Sinapius ho roku 1723 uvádí mezi syny Friedricha Wilhelma I. jako dobrovolníka (Volontaire) v armádě. Jeho křest se ve Dvorcích nenašel.",
+        "5. 2. 1743 se v Trachenbergu (dnes Żmigród) ve Slezsku oženil s pannou Johannou Leonorou, dcerou zesnulého Johanna Carla Eberta (?), radního města Winzig (dnes Wińsko). Oddával farář a arcikněz Johann Franz Blasius (?), svědky byli Johann Franz Rock (?), knížecí trachenberský rentmistr, a Joseph Anton Gregory (?), polský kurát v Trachenbergu.",
+        "Oddací zápis ho nazývá „urozeným panem“ a jeho otce „zesnulým rytířem a panem Friedrichem Wilhelmem von Giller, bývalým císařsko-královským účetním a radou“ – otec tedy roku 1743 už nežil.",
+        "Po svatbě se v Trachenbergu už neobjevuje: nejsou tam křty dětí manželů ani jeho pohřeb a Johanna Leonora se tam znovu neprovdala. Kam rodina odešla, nevíme."
+      ],
+      "zaznamy": [
+        "o_1743_trachenberg_giller_ebert"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "fw1"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "5. 2. 1743 Trachenberg Johanna Leonora, dcera radního z Winzigu Johanna Carla Eberta (?)"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Trachenberg (kat. fara, dnes Żmigród), sňatky 1743, FamilySearch film 8245736, snímek 456",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPJ-SCLK"
+        },
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        }
+      ]
+    },
+    "maria_elisabeth_1705": {
+      "jmeno": "Maria Elisabeth Gillerová, provdaná Sefftigová (?)",
+      "roky": "× 7. 9. 1705 Dvorce",
+      "stav": "doc",
+      "vazba": "Dcera Franze Leopolda Gillera, měšťana, poštmistra a purkmistra ve Dvorcích u Bruntálu; Franz Leopold byl blízký příbuzný (snad bratr nebo bratranec) Friedricha Wilhelma I., prastrýce našeho předka Maximiliána (* 1719) – přesný vztah k naší linii neznáme.",
+      "fakta": [
+        "7. 9. 1705 se ve Dvorcích u Bruntálu vdala za urozeného pana Martina Maximiliána Sefftiga (?), hejtmana (správce) šternberského panství. V zápisu je „panna Maria Elisabeth, manželská dcera pana Franze Leopolda Gillera, měšťana a poštmistra“.",
+        "Svědky byli Christian Giller ze Dvorců a Heinrich Hausern (?).",
+        "Jejím bratrem byl nejspíš Hans Carl (* 1690), pozdější vídeňský dvorní rada a svobodný pán Karel Josef z Gillernů, pán Koryčan."
+      ],
+      "zaznamy": [
+        "o_1705_sefftig_gillerova"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_leopold"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "7. 9. 1705 Martinus Maximilianus Sefftig (?), hejtman šternberského panství"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce Dv I 1 O 2 (ZA Opava), oddaní 1705, naproti s. 163, snímek 165",
+          "odkaz": "https://digi.archives.cz/da/showZoomifySeparate?imageNumberSeparate=165&myEntityUuid=29e3f91ac933f2f4%3a-64ab7bf1%3a1503c0399c5%3a-7ff4&myImageUuid=3781e12977e949d1b562c289c050dca4"
+        }
+      ]
+    },
+    "anna_rosina_1694": {
+      "jmeno": "Anna Rosina Gillerová, provdaná Knappová",
+      "roky": "křest 27. 2. 1694 Dvorce – × 18. 1. 1712 Dvorce",
+      "stav": "doc",
+      "vazba": "Dcera Franze Leopolda Gillera, měšťana, poštmistra a purkmistra ve Dvorcích u Bruntálu, a Susanny; Franz Leopold byl blízký příbuzný (snad bratr nebo bratranec) Friedricha Wilhelma I., prastrýce našeho předka Maximiliána (* 1719) – přesný vztah k naší linii neznáme.",
+      "fakta": [
+        "Pokřtěna 27. 2. 1694 ve Dvorcích u Bruntálu jako dcera Franze Leopolda Gillera a jeho manželky Susanny.",
+        "18. 1. 1712 se ve Dvorcích vdala za urozeného pana Johanna Antona Knappa, hejtmana v Opavě. Otec je v zápisu nazván „poštmistrem Jeho římského císařského Veličenstva a zdejším purkmistrem“. Svědky byli Ludwig Mayer (?) a Hans Georg Molußký (?).",
+        "Jejím starším bratrem byl nejspíš Hans Carl (* 1690), pozdější svobodný pán Karel Josef z Gillernů, pán Koryčan."
+      ],
+      "zaznamy": [
+        "o_1712_knapp_gillerova"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_leopold"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "18. 1. 1712 Johann Anton Knapp, hejtman v Opavě"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – dobový opis křtů a sňatků 1688–1705 (Zemský archiv v Opavě), křty 1694",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        },
+        {
+          "nazev": "Matrika fary Dvorce Dv I 1 (ZA Opava), oddaní s. 35, snímek 569; datum podle oddacího rejstříku Dv I 20",
+          "odkaz": "https://digi.archives.cz/da/showZoomifySeparate?imageNumberSeparate=569&myEntityUuid=be96a71e-f13c-102f-8255-0050568c0263&myImageUuid=9b617cbcd7374bfdaffe8ce139cd7aae"
+        }
+      ]
+    },
+    "joanna_theresia_1697": {
+      "jmeno": "Joanna Theresia Gillerová",
+      "roky": "křest 11. 7. 1697 Dvorce",
+      "stav": "doc",
+      "vazba": "Dcera Franze Leopolda Gillera, měšťana, poštmistra a purkmistra ve Dvorcích u Bruntálu, a Susanny; Franz Leopold byl blízký příbuzný (snad bratr nebo bratranec) Friedricha Wilhelma I., prastrýce našeho předka Maximiliána (* 1719) – přesný vztah k naší linii neznáme.",
+      "fakta": [
+        "Pokřtěna 11. 7. 1697 ve Dvorcích u Bruntálu jako dcera Franze Leopolda Gillera a Susanny.",
+        "Snad se roku 1716 provdala za J. S. Schirmera, lesního jezdce ve Šternberku."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_leopold"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – dobový opis křtů a sňatků 1688–1705 (Zemský archiv v Opavě), křty 1697",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        }
+      ]
+    },
+    "maria_johanna_1706": {
+      "jmeno": "Maria Johanna Gillerová",
+      "roky": "* 8. 7. 1706 Dvorce – † 9. 7. 1706 Dvorce",
+      "stav": "doc",
+      "vazba": "Dcera Franze Leopolda Gillera, měšťana, poštmistra a purkmistra ve Dvorcích u Bruntálu, a Susanny; Franz Leopold byl blízký příbuzný (snad bratr nebo bratranec) Friedricha Wilhelma I., prastrýce našeho předka Maximiliána (* 1719) – přesný vztah k naší linii neznáme.",
+      "fakta": [
+        "Narodila se 8. 7. 1706 ve Dvorcích u Bruntálu jako dcera Franze Leopolda Gillera a Susanny.",
+        "Zemřela hned následujícího dne: 9. 7. 1706 je v knize zemřelých Dvorců zapsána Maria Johanna, „dcerka pana Frantze Leopolta Gillera“."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_leopold"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce Dv I 1 – narození, oddaní a zemřelí 1706–1755 (ZA Opava), zemřelí s. 5, snímek 724",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "frantz_philipp_1709": {
+      "jmeno": "Frantz Philipp Giller",
+      "roky": "křest 2. 5. 1709 Dvorce",
+      "stav": "doc",
+      "vazba": "Syn Franze Leopolda Gillera, měšťana, poštmistra a purkmistra ve Dvorcích u Bruntálu, a Susanny; Franz Leopold byl blízký příbuzný (snad bratr nebo bratranec) Friedricha Wilhelma I., prastrýce našeho předka Maximiliána (* 1719) – přesný vztah k naší linii neznáme.",
+      "fakta": [
+        "Pokřtěn 2. 5. 1709 ve Dvorcích u Bruntálu jako syn pana Frantze Leopolda Gillera, poštmistra, a Susanny. Kmotry byli Matthäus Zimer a Rosina, manželka Heinricha Mayera.",
+        "Je nejmladším známým dítětem Franze Leopolda; jeho další osud neznáme."
+      ],
+      "zaznamy": [
+        "n_1709_giller_frantz_philipp"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_leopold"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce Dv I 1 (ZA Opava), křty 1709, s. 37, snímek 39",
+          "odkaz": "https://digi.archives.cz/da/showZoomifySeparate?imageNumberSeparate=39&myEntityUuid=be96a71e-f13c-102f-8255-0050568c0263&myImageUuid=07bc7cd7a6764bd8b9bc7d38c2f6d5e3"
+        }
+      ]
+    },
+    "johann_christoph_1711": {
+      "jmeno": "Johann Christoph Friedrich von Giller",
+      "roky": "křest 18. (?) 7. 1711 Krehlau – pohřeb 17. 3. 1719 Krehlau",
+      "stav": "doc",
+      "vazba": "Nejstarší syn Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – starší bratr našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěn asi 18. 7. 1711 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako Johannes Christophorus, syn pana Carla Heinricha von Giller, dědičného pána na Hammeru, a Cathariny Barbary Eleonory.",
+        "Mezi kmotry byli prastrýc „Wilhelm v. Giller“ (Friedrich Wilhelm I.), úředník knížectví Lehnického (?), pan Georg Friedrich (?) … a paní … Francisca ….",
+        "Už jako malý chlapec šel (nejspíš v zastoupení) za kmotra dětem poddaných z Hammeru – 8. 8. a 18. 8. 1715 a 5. 4. 1717 – zapsán jako „pan Johann Christoph Friedrich von Giller, mladý pán zdejší / z Hammeru“.",
+        "Zemřel v sedmi letech: 17. 3. 1719 bylo v Krehlau pohřbeno „dítě pana Carla Heinricha von Giller na Hammeru jménem Johann Christoph Friedrich, 7 let“ – jen asi dva týdny po křtu jeho bratra Maximiliána."
+      ],
+      "zaznamy": [
+        "z_1719_giller_johann_christoph_friedrich"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 413",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97L-K"
+        },
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1715 (kmotr), FamilySearch film 8244728, snímek 423",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97Z-K"
+        },
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1717 (kmotr), FamilySearch film 8244728, snímek 428",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97V-8"
+        },
+        {
+          "nazev": "Matrika Krehlau, pohřby 1667–1737 (D525c, s. 41), FamilySearch film 8244728, snímek 339",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T978-2"
+        }
+      ]
+    },
+    "carl_wilhelm_1714": {
+      "jmeno": "Carl Wilhelm Vitus von Giller",
+      "roky": "křest 15. 6. 1714 Krehlau",
+      "stav": "doc",
+      "vazba": "Syn Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – starší bratr našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěn 15. 6. 1714 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako Carolus Wilhelmus Vitus, syn pana Carla Heinricha von Giller, pána na Hammeru, a Cathariny Barbary Eleonory. Křest připadl na svátek sv. Víta, odtud zřejmě jméno Vitus.",
+        "Kmotry byli prastrýc „Wilhelm v. Giller“ (Friedrich Wilhelm I.), pan Friedrich (?) … z Lehnice (?), strýc Johann Christoph von Giller, hejtman v Preichau, a Charlotta (?) von Gillern, snad dcera hejtmana z Preichau.",
+        "Mezi pohřby v Krehlau z let 1718–1737 není; jeho další osud neznáme.",
+        "Jeho jména se v rodině vrátila: bratr Maximilián dal roku 1766 synovi jména Jan Bedřich Karel Vilém Vít."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 420",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97F-D"
+        }
+      ]
+    },
+    "maria_philippina_1715": {
+      "jmeno": "Maria Philippina Francisca von Giller",
+      "roky": "křest 23. 9. 1715 Krehlau – pohřeb 14. 4. 1718 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – starší sestra našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna 23. 9. 1715 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako dcera pana Carla Heinricha von Giller na Hammeru a Cathariny Barbary Eleonory roz. Nerlichové.",
+        "Kmotry byli pan Johann (?) … von Hoffmann (?), úředník biskupství (?), Carolina von Gillerová, (dcera?) hejtmana z Preichau, a Susanna Elisabeth (?) von Gillerová.",
+        "Zemřela ve třech letech: 14. 4. 1718 bylo v Krehlau pohřbeno „dítě urozeného pana Carla Heinricha von Giller na Hammeru jménem Maria Philippina Francisca, 3 roky“.",
+        "Její jméno se v rodině vrátilo: bratr Maximilián dal roku 1759 dceři jméno Marie Filipína Jenovéfa Karolína."
+      ],
+      "zaznamy": [
+        "z_1718_giller_maria_philippina"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 424",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97F-8"
+        },
+        {
+          "nazev": "Matrika Krehlau, pohřby 1667–1737 (D525c, s. 40), FamilySearch film 8244728, snímek 338",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97D-4"
+        }
+      ]
+    },
+    "maria_josepha_1717": {
+      "jmeno": "Maria Josepha Elisabetha von Giller",
+      "roky": "křest 22. 4. 1717 Krehlau – × asi 1747 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – starší sestra našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna 22. 4. 1717 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako dcera urozeného pana Carla Heinricha von Giller na Hammeru a paní Cathariny Barbary Eleonory.",
+        "Kmotry byli Franz Valentin Klinge, purkmistr ve Winzigu, paní Carolina von Gillerová, „hejtmanová z Preichau“, a teta Eleonora Hedwig von Gillerová, paní na Horním Krehlau.",
+        "20. 5. 1726 byla v Krehlau kmotrou jako „slečna Maria Josepha von Gillerin z Hammeru“. V červenci 1736 byla kmotrou znovu – tehdy za ni u křtu stála v zastoupení jiná urozená dáma a zápis ji nazývá dcerou pana Carla Heinricha von Giller, dědičného pána na Hammeru a Dolním Krehlau.",
+        "Asi roku 1747 se v Krehlau vdala. Ženichem byl nejspíš urozený pan Philipp August (?) …, radní (?) z Wohlau (dnes Wołów); oddával vysoce důstojný pan Joannes Nepomucenus Vincentius (?) von … a svědky byli dva kněží. Bratr Maximilián mezi svědky není."
+      ],
+      "zaznamy": [
+        "n_1736_krehlau_giller_kmotra",
+        "o_1747_krehlau_giller_maria_josepha"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 428",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97V-8"
+        },
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1726 (kmotra), FamilySearch film 8244728, snímek 461",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97G-5"
+        },
+        {
+          "nazev": "Matrika Krehlau, křty 1736–1773 (D527A s. 2 vpravo), FamilySearch film 8244729, snímek 8",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-B9HJ-1"
+        },
+        {
+          "nazev": "Matrika Krehlau, sňatky 1736–1759 (D527B s. 9 vlevo), FamilySearch film 8244729, snímek 385",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-B9HV-8"
+        }
+      ]
+    },
+    "vilemina_1887": {
+      "jmeno": "Vilemína (?) z Gillernů",
+      "roky": "* 30. 6. 1887 Líz",
+      "stav": "doc",
+      "vazba": "nejspíš dcera Čeňka z Gillernů, staršího bratra našeho Augustina – sestřenice Jana z Gillernů (* 1894)",
+      "fakta": [
+        "V rejstříku narozených fary Bubovice je 30. 6. 1887 zapsána Vilemína (?) z Gillernů, Líz (Lis u Nouzova) č. 2 – v témže domě, kde se Čeňkovi narodily děti Karel (1888), Marie (1890) a Bedřich (1894). Rodiče rejstřík neuvádí, originál matriky je na městském úřadě v Březnici.",
+        "Roku 1903 se v časopise Budivoj (České Budějovice) jmenuje „žákyně Vil. z Gillernů“ – nejspíš ona."
+      ],
+      "zaznamy": [
+        "n_1887_1894_gillern_liz_rejstrik"
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec (pravděpodobně)",
+          "profil": "cenek"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "SOA Praha, Bubovice 17 – rejstřík narozených 1788–1949"
+        },
+        {
+          "nazev": "Budivoj (České Budějovice) 1903 – Česká digitální knihovna"
+        }
+      ]
+    },
+    "ester_gillernova": {
+      "jmeno": "Ester Gillernová",
+      "roky": "studentka 1934–1935",
+      "stav": "lit",
+      "vazba": "snad dcera JUDr. Karla z Gillernů, okresního hejtmana v Plané (doklad chybí)",
+      "fakta": [
+        "Ve školním roce 1934–1935 studovala na dívčím reálném gymnáziu Elišky Krásnohorské v Praze; jako domov je uvedena Planá u Mariánských Lázní, kde byl JUDr. Karel z Gillernů okresním hejtmanem. Proto je nejspíš jeho dcerou – matriční doklad zatím nemáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec (snad)",
+          "profil": "karel"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Výroční zpráva dívčího reálného gymnázia Krásnohorská v Praze 1934–1935 – Česká digitální knihovna"
+        }
+      ]
+    },
+    "marie_1890": {
+      "jmeno": "Marie z Gillernů",
+      "roky": "* 18. 9. 1890 Líz – † 12. 1. 1905 Kostelec nad Vltavou",
+      "stav": "doc",
+      "vazba": "dcera Čeňka z Gillernů a Josefíny roz. Bohdanecké – sestřenice Jana z Gillernů (* 1894)",
+      "fakta": [
+        "Narodila se 18. 9. 1890 v Lízu (Lis u Nouzova, fara Bubovice), kde byl otec knížecím revírníkem.",
+        "Zemřela 12. 1. 1905 v Kostelci nad Vltavou ve 14 letech na tuberkulózu, necelý rok po matce Josefíně; pohřbena byla v rodinném hrobě v Čimelicích."
+      ],
+      "zaznamy": [
+        "z_1905_gillern_marie",
+        "n_1887_1894_gillern_liz_rejstrik"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "cenek"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "SOA Třeboň, Čimelice 19A (Z 1877–1931), s. 280"
+        },
+        {
+          "nazev": "SOA Praha, Bubovice 17 – rejstřík narozených"
+        }
+      ]
+    },
+    "tekla_marie_1892": {
+      "jmeno": "Tekla Marie z Gillernů",
+      "roky": "* 1892 Bohostice",
+      "stav": "doc",
+      "vazba": "dcera Augustina z Gillernů a Marie roz. Linkové – starší sestra Jana z Gillernů (* 1894)",
+      "fakta": [
+        "Starší sestra Jana. Nar. 1892 v Bohosticích č. 33 (rejstřík narozených Těchnice, s. 69). Roku 1896 dostala stejné jméno další dcera – starší Tekla asi zemřela.",
+        "Narodila se roku 1892 v Bohosticích č. 33 (fara Těchnice); zapsána v rejstříku narozených Těchnice, sv. VI, s. 69.",
+        "Roku 1896 dostala stejné jméno další dcera – starší Tekla Marie tedy nejspíš zemřela jako malá. Jméno má po babičce Tekle roz. Vejdovcové."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "augustin-z-gillernu-1859"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "SOA Praha, Těchnice 08 – rejstřík narozených 1881–1907, s. 69"
+        }
+      ]
+    },
+    "jan_olesovice": {
+      "jmeno": "Jan Gillern (Olešovice)",
+      "roky": "20. století",
+      "stav": "hyp",
+      "vazba": "podle rodinného podání snad bratr Augustina z Gillernů (* 1924) – nedoloženo",
+      "fakta": [
+        "Snad bratr Augustýna (údaj od rodiny, nejistý). Olešovice u Kamenice (okr. Praha-východ); manželka Anna Gillernová. V knize Kamenice v proměnách věků (2010) se zmiňuje Jan G. a Jan G. ml.",
+        "Podle údaje od rodiny žil v Olešovicích u Kamenice (okres Praha-východ) Jan Gillern s manželkou Annou Gillernovou; snad byl bratrem Augustina (* 1924). Kniha Kamenice v proměnách věků (2010) zmiňuje Jana G. a Jana G. mladšího.",
+        "Matriční doklad o jeho původu zatím nemáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec (snad)",
+          "osoba": "jan-z-gillernu-1894"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Údaj od rodiny"
+        },
+        {
+          "nazev": "Kamenice v proměnách věků (2010)"
+        }
+      ]
+    },
+    "tekla_marie_1896": {
+      "jmeno": "Tekla Marie z Gillernů",
+      "roky": "* 1896 Bohostice",
+      "stav": "doc",
+      "vazba": "dcera Augustina z Gillernů a Marie roz. Linkové – mladší sestra Jana z Gillernů (* 1894)",
+      "fakta": [
+        "Mladší sestra Jana. Nar. 1896 v Bohosticích č. 38 (rejstřík narozených Těchnice, s. 95).",
+        "Narodila se roku 1896 v Bohosticích č. 38 (fara Těchnice); zapsána v rejstříku narozených Těchnice, s. 95. Jméno dostala po starší sestře (* 1892), která asi zemřela, a po babičce Tekle roz. Vejdovcové.",
+        "Další osud zatím neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "augustin-z-gillernu-1859"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "SOA Praha, Těchnice 08 – rejstřík narozených 1881–1907, s. 95"
+        }
+      ]
+    },
+    "augustin_1900": {
+      "jmeno": "Augustin Vincenc Karel z Gillernů",
+      "roky": "* 1900 Bohostice",
+      "stav": "doc",
+      "vazba": "syn Augustina z Gillernů a Marie roz. Linkové – mladší bratr Jana z Gillernů (* 1894)",
+      "fakta": [
+        "Mladší bratr Jana. Nar. 1900 v Bohosticích č. 38 (rejstřík narozených Těchnice, s. 125).",
+        "Narodil se roku 1900 v Bohosticích č. 38 (fara Těchnice); zapsán v rejstříku narozených Těchnice, s. 125. Jména Augustin a Vincenc má po otci a po dědovi.",
+        "Další osud zatím neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "augustin-z-gillernu-1859"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "SOA Praha, Těchnice 08 – rejstřík narozených 1881–1907, s. 125"
+        }
+      ]
+    },
+    "katerina_1862": {
+      "jmeno": "Kateřina z Gillernů",
+      "roky": "* 1862 Spolí (?)",
+      "stav": "doc",
+      "vazba": "dcera Vincence z Gillernů a Tekly roz. Vejdovcové – mladší sestra našeho Augustina (* 1859)",
+      "fakta": [
+        "Mladší sestra Augustina z Gillernů; podle rejstříku narozených Oslov 1862, Spolí (?), kniha V, fol. 54 (?).",
+        "Podle rejstříku narozených fary Oslov se narodila roku 1862, nejspíš ve Spolí (?), kde byl otec knížecím revírníkem (kniha V, fol. 54 ?).",
+        "Další osud zatím neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "vincenc-z-gillernu-1822"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "SOA Třeboň, Oslov – rejstřík narozených"
+        }
+      ]
+    },
+    "jan_krtitel_1825": {
+      "jmeno": "Jan Křtitel z Gillernů",
+      "roky": "* 7. 11. 1825 Šebestěnice",
+      "stav": "doc",
+      "vazba": "syn Františka z Gillernů a Anny roz. Solnařové – mladší bratr našeho Vincence",
+      "fakta": [
+        "Mladší bratr Vincence. * 7. 11. 1825 Šebestěnice č. 1 (Zbyšov 01, s. 190); otec „pan František z Gillern“, matka Anna roz. Solnařová z Mitrova; kmotr Johann Solnař, šenkýř z Mitrova. Další osud neznámý."
+      ],
+      "zaznamy": [
+        "n_1825_gillern_jan"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "franz-frantisek-z-gillernu-1785"
+        }
+      ]
+    },
+    "frantisek_1827": {
+      "jmeno": "František z Gillernů",
+      "roky": "* 11. 8. 1827 Šebestěnice",
+      "stav": "doc",
+      "vazba": "syn Františka z Gillernů a Anny roz. Solnařové – mladší bratr našeho Vincence",
+      "fakta": [
+        "Mladší bratr Vincence. * 11. 8. 1827 Šebestěnice č. 1 (Zbyšov 01, s. 206); kmotři Vincenc Solnař (strýc) a Marie Wojáčková z Mitrova. Další osud neznámý."
+      ],
+      "zaznamy": [
+        "n_1827_gillern_frantisek"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "franz-frantisek-z-gillernu-1785"
+        }
+      ]
+    },
+    "kristyna_1832": {
+      "jmeno": "Kristýna (?) z Gillernů",
+      "roky": "* 24. 12. 1832 Kostelec nad Vltavou",
+      "stav": "doc",
+      "vazba": "dcera Františka z Gillernů a Anny roz. Solnařové – mladší sestra našeho Vincence",
+      "fakta": [
+        "Mladší sestra Vincence. * 24. 12. 1832 Kostelec nad Vltavou č. 30 (rejstřík čte jméno „Rozina“, originál spíš Kristýna); otec František z Gillernů, „syn † Josefa z Býchor a Anny roz. Kochové z Poděbrad“, matka Anna roz. Solnařová. Další osud neznámý."
+      ],
+      "zaznamy": [
+        "n_1832_gillern_kristyna"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "franz-frantisek-z-gillernu-1785"
+        }
+      ]
+    },
+    "augustin_1836": {
+      "jmeno": "Augustin z Gillernů",
+      "roky": "† 9. 2. 1836 Kostelec nad Vltavou",
+      "stav": "doc",
+      "vazba": "syn Františka z Gillernů a Anny roz. Solnařové – mladší bratr našeho Vincence, zemřel jako kojenec",
+      "fakta": [
+        "Mladší bratr Vincence. † 9. 2. 1836 Kostelec nad Vltavou č. 30 ve věku několika týdnů; „dítě Františka Gyllera, revírníka z Kostelce“."
+      ],
+      "zaznamy": [
+        "z_1836_gillern_augustin"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "franz-frantisek-z-gillernu-1785"
+        }
+      ]
+    },
+    "karel_1838": {
+      "jmeno": "Karel z Gillernů",
+      "roky": "* 23. 3. 1838 – † 30. 5. 1838 Kostelec nad Vltavou",
+      "stav": "doc",
+      "vazba": "syn Františka z Gillernů a Anny roz. Solnařové – nejmladší bratr našeho Vincence",
+      "fakta": [
+        "Mladší bratr Vincence. † 30. 5. 1838 Kostelec nad Vltavou č. 30 jako malé dítě; „dítě Františka Güllerna, revírníka knížecího z Kostelce“. Dva měsíce po něm zemřela i matka Anna.",
+        "Narodil se 23. 3. 1838 v Kostelci nad Vltavou; v zápisu je otec František výslovně označen jako syn † Josefa, revírníka z Býchor, a Anny roz. Kochové z Poděbrad – jeden z klíčových dokladů naší linie."
+      ],
+      "zaznamy": [
+        "z_1838_gillern_karel",
+        "n_1838_gillern_karel"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "franz-frantisek-z-gillernu-1785"
+        }
+      ]
+    },
+    "jindrich_ludvik_1840": {
+      "jmeno": "Jindřich Ludvík z Gillernů",
+      "roky": "* 24. 2. 1840 Kostelec nad Vltavou",
+      "stav": "doc",
+      "vazba": "syn Františka z Gillernů a jeho druhé manželky Josefy roz. Holmanové – nevlastní bratr našeho Vincence",
+      "fakta": [
+        "Nevlastní bratr Vincence – syn Františka z Gillernů a jeho druhé manželky Josefy roz. Holmanové (?) z Kutné Hory (sňatek 8. 10. 1839). * 24. 2. 1840 Kostelec nad Vltavou č. 30; otec zemřel o půl roku později. Další osud neznámý.",
+        "Roku 1886 zemřela v Gorici „paní Marie z Gillernů, vdova po nadlesním, rozená Jägrová z Kutné Hory“, 41 let; jejím manželem mohl být Jindřich Ludvík (matka byla rovněž z Kutné Hory) nebo některý z jeho nevlastních bratrů – nedoloženo."
+      ],
+      "zaznamy": [
+        "n_1840_gillern_jindrich",
+        "o_1839_gillern_holmanova"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "franz-frantisek-z-gillernu-1785"
+        }
+      ]
+    },
+    "anna_rozalie_1787": {
+      "jmeno": "Anna Rozálie z Gillernů",
+      "roky": "* 1. 10. 1787 Poděbrady",
+      "stav": "prob",
+      "vazba": "dcera Josefa de Giller a Anny roz. Kochové (pravděpodobně) – mladší sestra našeho Františka",
+      "fakta": [
+        "Mladší sestra Františka (pravděpodobně). * a pokřtěna 1. 10. 1787 Poděbrady č. 7, manželská dcera pana Josefa Gillera, myslivce, a paní Anny; kmotři slečna Apolonie (?) a Ferdinand Kaufman (?), hudebník (?)."
+      ],
+      "zaznamy": [
+        "n_1787_giller_anna_rozalie"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "osoba": "josef-z-gillernu-de-giller-1746"
+        }
+      ]
+    },
+    "josef_emanuel_1789": {
+      "jmeno": "Josef Emanuel z Gillernů",
+      "roky": "* 17. 10. 1789 Býchory",
+      "stav": "doc",
+      "vazba": "syn Josefa z Gillernů a Anny roz. Kochové – mladší bratr našeho Františka",
+      "fakta": [
+        "Mladší bratr Františka. * 17. 10. 1789 Býchory č. 11 (fara Ovčáry); otec pan Josef z Gillernů, fořt, matka Anna Kochová. Další osud neznámý.",
+        "Jména dostal po otci a po dědovi Maximiliánovi Josefovi Emanuelovi."
+      ],
+      "zaznamy": [
+        "n_1789_gillern_josef_emanuel"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "josef-z-gillernu-de-giller-1746"
+        }
+      ]
+    },
+    "marie_anna_1791": {
+      "jmeno": "Marie Anna z Gillernů",
+      "roky": "* 27. 4. 1791 Býchory",
+      "stav": "doc",
+      "vazba": "dcera Josefa z Gillernů a Anny roz. Kochové – mladší sestra našeho Františka",
+      "fakta": [
+        "Mladší sestra Františka. * 27. 4. 1791 Býchory č. 11; otec pan Josef z Gillernů, myslivec."
+      ],
+      "zaznamy": [
+        "n_1791_gillern_marie_anna"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "josef-z-gillernu-de-giller-1746"
+        }
+      ]
+    },
+    "lambert_1792": {
+      "jmeno": "Lambert Josef z Gillernů",
+      "roky": "* 27. 12. 1792 (?) Býchory",
+      "stav": "doc",
+      "vazba": "syn Josefa z Gillernů a Anny roz. Kochové – mladší bratr našeho Františka",
+      "fakta": [
+        "Mladší bratr Františka. * 27. 12. 1792 (?) Býchory č. 11 – rok nejistý (v knize pod 1793)."
+      ],
+      "zaznamy": [
+        "n_1792_gillern_lambert"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "josef-z-gillernu-de-giller-1746"
+        }
+      ]
+    },
+    "barbora_1795": {
+      "jmeno": "Barbora z Gillernů",
+      "roky": "* 5. 3. 1795 Býchory",
+      "stav": "doc",
+      "vazba": "dcera Josefa z Gillernů a Anny roz. Kochové – mladší sestra našeho Františka",
+      "fakta": [
+        "Mladší sestra Františka. * 5. 3. 1795 Býchory č. 11 („Barbora Gillerowa“); otec pan Josef z Gillernů, myslivec."
+      ],
+      "zaznamy": [
+        "n_1795_gillerova_barbora"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "josef-z-gillernu-de-giller-1746"
+        }
+      ]
+    },
+    "eleonora_barbora_1797": {
+      "jmeno": "Eleonora Barbora z Gillernů",
+      "roky": "* 18. 4. 1797 Býchory",
+      "stav": "doc",
+      "vazba": "dcera Josefa z Gillernů a Anny roz. Kochové – nejmladší známá sestra našeho Františka",
+      "fakta": [
+        "Nejmladší známá sestra Františka. * 18. 4. 1797 Býchory č. 11; otec pan Josef z Gillernů, fořt.",
+        "Jméno Eleonora měla i její teta, Josefova sestra Marie Eleonora provdaná Clannerová."
+      ],
+      "zaznamy": [
+        "n_1797_gillern_eleonora_barbora"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "josef-z-gillernu-de-giller-1746"
+        }
+      ]
+    },
+    "anna_barbora_1750": {
+      "jmeno": "Anna Barbora z Gillernů",
+      "roky": "pokřtěna 23. 1. 1750 Nymburk (Bor Bobnický)",
+      "stav": "doc",
+      "vazba": "dcera Maximiliána z Gillernů a Johanny – sestra našeho Josefa",
+      "fakta": [
+        "Sestra Josefa. Pokřtěna 23. 1. 1750 v Nymburce, z Boru Bobnického (prostřední jméno snad Kateřina – „Alexie“ ani „Alžběta“ to není); otec Maximilián Josef Emanuel von Gyller, myslivec, matka Anna Johanna. Nejstarší známý doklad o Maximiliánovi. V letech 1764–1766 byla v Čelákovicích třikrát kmotrou nebo svědkyní jako „slečna Anna, dcera urozeného pana Maximiliána z Gillernů“. Další osud neznámý.",
+        "Její křest je nejstarší známý doklad o Maximiliánovi v Čechách."
+      ],
+      "zaznamy": [
+        "n_1750_giller_anna_alexia",
+        "n_1764_celakovice_anna_kmotra"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "maximilian-z-gillernu-1719"
+        }
+      ]
+    },
+    "marie_johanna_1751": {
+      "jmeno": "Marie Johanna Konstancie z Gillernů",
+      "roky": "* 25. 9. 1751 Bor Bobnický",
+      "stav": "doc",
+      "vazba": "dcera Maximiliána z Gillernů a Johanny – sestra našeho Josefa",
+      "fakta": [
+        "Sestra Josefa. * 25. 9. 1751 Bor Bobnický (fara Nymburk). Nejspíš „Johanna de Gillern“, kmotra v Poděbradech 1775–1778; 1782 ještě svobodná a třikrát kmotra / svědkyně v Poděbradech (28. 1., 1. 8. – „Johanna filia D. Maximiliani de Güllern“, 22. 9. – „filia Illust. D. Maximiliani de Gillern Venatorum Praefect.“). Po matčině smrti žila s otcem ve Staré Boleslavi: 1785–1786 tam byla několikrát kmotrou („dcera Pana Maxim. z Gill.“) a 17. 2. 1789 je jako slečna z Gillernů zapsána spolu s otcem mezi přítomnými na svatbě."
+      ],
+      "zaznamy": [
+        "n_1751_giller_maria_johanna",
+        "o_1789_stboleslav_gillernove_pritomni",
+        "n_1785_stboleslav_johanna_kmotra",
+        "n_1782_podebrady_johanna_kmotra"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "maximilian-z-gillernu-1719"
+        }
+      ]
+    },
+    "marie_alzbeta_1754": {
+      "jmeno": "Marie Alžběta Juliána z Gillernů",
+      "roky": "* 20. 6. 1754 Hradištko",
+      "stav": "doc",
+      "vazba": "dcera Maximiliána z Gillernů a Johanny – sestra našeho Josefa",
+      "fakta": [
+        "Sestra Josefa. * 20. 6., pokřtěna 23. 6. 1754 v Hradištku (fara Sadská), kde byl otec nadlesním; kmotra urozená panna Alžběta Hoffmannová, dcera hejtmana myslivosti poděbradského. Další osud neznámý."
+      ],
+      "zaznamy": [
+        "n_1754_gillern_maria_elisabeth_juliana"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "maximilian-z-gillernu-1719"
+        }
+      ]
+    },
+    "frantisek_ludvik_1753": {
+      "jmeno": "František Ludvík Alexandr z Gillernů",
+      "roky": "pokřtěn v lednu 1753 Nymburk (Bor Bobnický)",
+      "stav": "doc",
+      "vazba": "syn Maximiliána z Gillernů a Johanny – bratr našeho Josefa",
+      "fakta": [
+        "Bratr Josefa. Pokřtěn v lednu 1753 v Nymburce, z Boru Bobnického (otec zapsán jako „Josef de Giller, myslivec“, matka Johanna). Nejspíš „Ludovicus de Gyller“, kmotr v Poděbradech 1770, a možná i „František de Gyller“ (1773).",
+        "Možná je totožný s „Franzem von Gillern“, penzionovaným adjunktem u myslivosti, který zemřel 24. 1. 1817 v Malejovicích ve věku 70 let – věk by pak byl zapsán o několik let nižší. Doklad chybí."
+      ],
+      "zaznamy": [
+        "n_1753_giller_frantisek_ludvik"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "maximilian-z-gillernu-1719"
+        },
+        {
+          "vztah": "snad totožný s",
+          "profil": "franz_st"
+        }
+      ]
+    },
+    "marie_terezie_1756": {
+      "jmeno": "Marie Terezie z Gillernů",
+      "roky": "pokřtěna 17. 1. 1756 Sadská – † 2. 10. 1762 Čelákovice",
+      "stav": "doc",
+      "vazba": "dcera Maximiliána z Gillernů a Johanny – sestra našeho Josefa",
+      "fakta": [
+        "Sestra Josefa. Pokřtěna 17. 1. 1756 v Sadské, z Hradištka, kde byl otec nadlesním; kmotra dcera poděbradského nejvyššího myslivce Jana Hoffmanna. † 2. 10. 1762 Čelákovice, 6 let."
+      ],
+      "zaznamy": [
+        "n_1756_giller_marie_terezie",
+        "z_1762_gillern_terezie"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "maximilian-z-gillernu-1719"
+        }
+      ]
+    },
+    "marie_filipina_1759": {
+      "jmeno": "Marie Filipína Jenovéfa Karolína z Gillernů",
+      "roky": "* 19. 1. 1759 Kladruby nad Labem",
+      "stav": "doc",
+      "vazba": "dcera Maximiliána z Gillernů a Johanny – sestra našeho Josefa",
+      "fakta": [
+        "Sestra Josefa. * 19. 1. 1759 Kladruby nad Labem. Nejspíš „„Herula“ (= slečna) Filipína de Gillern“, kmotra v Poděbradech 1781.",
+        "Jména Filipína a Karolína se v rodině opakují: Maximiliánovy sestry v Krehlau se jmenovaly Maria Philippina Francisca (1715) a Maria Carolina Friderica (1722)."
+      ],
+      "zaznamy": [
+        "n_1759_giller_maria_filipina"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "maximilian-z-gillernu-1719"
+        }
+      ]
+    },
+    "bedrich_rudolf_1762": {
+      "jmeno": "Bedřich Rudolf z Gillernů",
+      "roky": "† 31. 1. 1762 Čelákovice",
+      "stav": "doc",
+      "vazba": "syn Maximiliána z Gillernů a Johanny – bratr našeho Josefa",
+      "fakta": [
+        "Nejspíš TOTÉŽ DÍTĚ jako Jan Křtitel (* 16. 1. 1761) – k datu pohřbu 2. 2. 1762 mu bylo přesně 1 rok a 17 dní, kmotrem byl v zastoupení Bedřich z Gillernů. Bratr Josefa. † 31. 1. 1762 Čelákovice ve věku 1 roku, 1 (?) měsíce a 14 dní.",
+        "Jméno Bedřich Rudolf odpovídá Maximiliánovu bratrovi Johannu Friedrichu Rudolphovi (kapitánu Bedřichovi z Gillernů)."
+      ],
+      "zaznamy": [
+        "z_1762_gillern_bedrich_rudolf",
+        "n_1761_gillern_jan_baptista"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "maximilian-z-gillernu-1719"
+        },
+        {
+          "vztah": "nejspíš totéž dítě jako",
+          "profil": "jan_krtitel_1761"
+        }
+      ]
+    },
+    "jan_krtitel_1761": {
+      "jmeno": "Jan Křtitel z Gillernů",
+      "roky": "* 16. 1. 1761 Kladruby nad Labem",
+      "stav": "doc",
+      "vazba": "syn Maximiliána z Gillernů a Johanny – bratr našeho Josefa",
+      "fakta": [
+        "Nejspíš totéž dítě jako „Bedřich Rudolf“ († 31. 1. 1762, 1 rok a 17 dní). Bratr Josefa. * 16. 1. 1761 Kladruby nad Labem; otec Maximilián de Güllern, dvorní myslivec v Kladrubech; svědkem (v zastoupení) Bedřich de Güllern. Další osud neznámý."
+      ],
+      "zaznamy": [
+        "n_1761_gillern_jan_baptista",
+        "z_1762_gillern_bedrich_rudolf"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "maximilian-z-gillernu-1719"
+        },
+        {
+          "vztah": "nejspíš totéž dítě jako",
+          "profil": "bedrich_rudolf_1762"
+        },
+        {
+          "vztah": "svědek při křtu (v zastoupení)",
+          "profil": "jan_bedrich"
+        }
+      ]
+    },
+    "jan_bedrich_1766": {
+      "jmeno": "Jan Bedřich Karel Vilém Vít z Gillernů",
+      "roky": "* 9. 2. 1766 Čelákovský Hrádek – † 16. 5. 1766",
+      "stav": "doc",
+      "vazba": "syn Maximiliána z Gillernů a Johanny – nejmladší známý bratr našeho Josefa",
+      "fakta": [
+        "Bratr Josefa. * 9. 2. 1766 Čelákovský Hrádek, svědek kapitán Jan Bedřich z Gillernů; † 16. 5. 1766, 3 měsíce.",
+        "Jména Karel Vilém Vít má po Maximiliánově bratrovi Carlu Wilhelmu Vitovi (* 1714 Krehlau), jméno Jan Bedřich po kmotrovi – kapitánu Janu Bedřichovi z Gillernů."
+      ],
+      "zaznamy": [
+        "n_1766_gillern_jan_bedrich",
+        "z_1766_gillern_jan_bedrich"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "maximilian-z-gillernu-1719"
+        },
+        {
+          "vztah": "svědek při křtu",
+          "profil": "jan_bedrich"
+        }
+      ]
+    },
+    "friedrich_bernhard_1720": {
+      "jmeno": "Friedrich Bernhard Anton von Giller",
+      "roky": "křest 26. (?) 8. 1720 Krehlau – pohřeb 22. 7. 1724 Krehlau",
+      "stav": "doc",
+      "vazba": "Syn Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – mladší bratr našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěn asi 26. 8. 1720 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako Fridericus Bernardus Antonius, syn pana Carla Heinricha von Giller na Hammeru a Cathariny roz. Nerlichové. Mezi kmotry byli Peter (?) …, Anna … a Johannes … z Krehlau.",
+        "Zemřel necelé čtyři roky stár: 22. 7. 1724 byl v Krehlau pohřben „milovaný synáček Jeho Milosti pana Carla Heinricha von Giller, Friedrich Bernhard Anton, 4 roky bez 4 týdnů“."
+      ],
+      "zaznamy": [
+        "z_1724_giller_friedrich_bernhard"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 438",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97L-3"
+        },
+        {
+          "nazev": "Matrika Krehlau, pohřby 1667–1737 (D525c, s. 45), FamilySearch film 8244728, snímek 343",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97D-K"
+        }
+      ]
+    },
+    "maria_carolina_1722": {
+      "jmeno": "Maria Carolina Friderica von Giller",
+      "roky": "křest 1?. 3. 1722 Krehlau – pohřeb 13. 9. (?) 1722 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – mladší sestra našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna v březnu 1722 (den čten jen zčásti) v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako dcera vysoce urozeného pana Carla Heinricha von Giller, dědičného pána na Hammeru, a Cathariny.",
+        "Kmotry byli duchovní Christophorus Fridericus von … (?) od sv. Jana ve Vratislavi (?), strýc Johann Christoph von Giller, hejtman (v Preichau), a Maria Elisabetha von … (?).",
+        "Zemřela jako půlroční: 13. 9. (?) 1722 byla v Krehlau pohřbena „slečinka Maria Carolina Friderica (?), dcera milostivého pana Carla Heinricha von Giller, 6 měsíců“."
+      ],
+      "zaznamy": [
+        "z_1722_giller_maria_carolina"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 443",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97V-X"
+        },
+        {
+          "nazev": "Matrika Krehlau, pohřby 1667–1737 (D525c, s. 44), FamilySearch film 8244728, snímek 342",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97Z-Y"
+        }
+      ]
+    },
+    "maria_catharina_1723": {
+      "jmeno": "Maria Catharina Theresia von Giller",
+      "roky": "křest 3. 10. 1723 Krehlau – pohřeb 26. 1. 1724 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – mladší sestra našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna 3. 10. 1723 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) farářem Johannem Franzem Hetscherem jako dcera Jeho Milosti pana Carla Heinricha von Giller, dědičného pána na Hammeru, a Cathariny.",
+        "Kmotry byli vznešení hosté: Christophorus Fridericus von Gelhorn (?), kanovník a děkan v Hlohově (?), Ludolphus von Wingman (?), hejtman v císařském pluku, a paní Maria Elisabetha von Rackitz (?) rozená Nerlichová z Hlohova (?).",
+        "Zemřela jako šestnáctitýdenní: 26. 1. 1724 byla v Krehlau pohřbena „malá slečinka Maria Catharina Theresia, 16 týdnů a 3 dny“."
+      ],
+      "zaznamy": [
+        "z_1724_giller_maria_catharina"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 451",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97J-8"
+        },
+        {
+          "nazev": "Matrika Krehlau, pohřby 1667–1737 (D525c, s. 44), FamilySearch film 8244728, snímek 342",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97Z-Y"
+        }
+      ]
+    },
+    "maria_victoria_1726": {
+      "jmeno": "Maria Victoria Kunigunda (?) von Giller",
+      "roky": "křest 23. 3. 1726 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – mladší sestra našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna 23. 3. 1726 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) farářem Johannem Franzem Hetscherem jako dcera Jeho Milosti pana Carla Heinricha von Giller na Hammeru a milostivé paní Cathariny roz. Nerlichové; jméno je zapsáno jako Maria Victoria Gunigundis (?).",
+        "Kmotry byli tři lidé z Krehlau: Urbanus Grische, Catharina Clamtová a Anna Starostová.",
+        "Mezi pohřby v Krehlau do roku 1737 není; její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 461",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97G-5"
+        }
+      ]
+    },
+    "maria_catharina_1731": {
+      "jmeno": "Maria Catharina Hedwig Brigitta von Giller",
+      "roky": "křest 8. (?) 10. 1731 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – mladší sestra našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna asi 8. 10. 1731 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) farářem Johannem Franzem Hetscherem jako dcera pana Carla Heinricha von Giller z Hammeru a Cathariny roz. (von) Nerlichové; plným jménem Maria Catharina Hedwigis Brigitta.",
+        "Kmotry byli Georg Pfeiffer (?) z Wischütz (dnes Wyszęcice) (?), Catharina Klamtová, manželka truhláře (?) v Krehlau, a Anna … z Krehlau.",
+        "Její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 479",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97F-L"
+        }
+      ]
+    },
+    "maria_scholastica_1733": {
+      "jmeno": "Maria Scholastica Gertrud Helena von Giller",
+      "roky": "křest v březnu 1733 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – mladší sestra našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna v březnu 1733 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) farářem Johannem Franzem Hetscherem jako dcera Jeho Milosti pana Carla Heinricha von Giller na Hammeru a milostivé paní Cathariny roz. Nerlichové; plným jménem Maria Scholastica Gertrudis Helena.",
+        "Kmotry byli Joannes Clamt (?), Georg Pfeiffer (?) z Wischütz (?) a Hedwig … z Krehlau.",
+        "Její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 483",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97V-H"
+        }
+      ]
+    },
+    "maria_sophia_1734": {
+      "jmeno": "Maria … Sophia von Giller",
+      "roky": "křest v květnu 1734 Krehlau",
+      "stav": "doc",
+      "vazba": "Nejmladší známá dcera Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – mladší sestra našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna v květnu 1734 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) farářem Johannem Franzem Hetscherem jako dcera Jeho Milosti pana Carla Heinricha von Giller na Hammeru a Cathariny roz. Nerlichové.",
+        "Kmotry byli Joannes Clamt (?), Hedwig … z Krehlau a Georg Pfeiffer (?) z Wischütz (?).",
+        "Je nejmladším ze čtrnácti dětí, které se Carlu Heinrichovi v letech 1711–1734 narodily v Krehlau. Její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 486",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97G-9"
+        }
+      ]
+    },
+    "maria_carolina_1722_2": {
+      "jmeno": "Maria Carolina von Giller(n)",
+      "roky": "kmotra 1722 a 1724 Preichau",
+      "stav": "doc",
+      "vazba": "Dcera Johanna Christopha von Giller (pozdějšího svobodného pána z Gillernů), hejtmana panství Preichau, a Marie Marthy – sestřenice našeho předka Maximiliána (* 1719); Johann Christoph byl nevlastní bratr Maximiliánova otce Carla Heinricha.",
+      "fakta": [
+        "14. 10. 1722 byla v Preichau (dnes Przychowa u Stínavy, Dolní Slezsko) kmotrou synovi Christiana Schöna (?), panského písaře; zapsána jako „urozená slečna Maria Carolina von Gillern, dcera urozeného rytíře a pana Johanna Christopha von Giller, hejtmana“.",
+        "6. 12. 1724 byla v Preichau kmotrou dcerce Anny Marie Schön (?) – jako „urozená slečna Maria Carolina von Giller, dcera zdejšího pana hejtmana“.",
+        "Její křest se v matrice Preichau nenašel."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "johann_christoph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Preichau (kat. fara, dnes Przychowa u Stínavy), křty 1678–1744, FamilySearch film 8218293, snímek 417–418",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RN5C"
+        },
+        {
+          "nazev": "Matrika Preichau (kat. fara, dnes Przychowa u Stínavy), křty 1678–1744, FamilySearch film 8218293, snímek 434",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RNPR"
+        }
+      ]
+    },
+    "maria_anna_1718": {
+      "jmeno": "Maria Anna Ludovica (?) von Giller",
+      "roky": "* 12. 4. 1718 Preichau",
+      "stav": "doc",
+      "vazba": "Dcera Johanna Christopha von Giller (pozdějšího svobodného pána z Gillernů), hejtmana panství Preichau, a Marie Marthy – sestřenice našeho předka Maximiliána (* 1719); Johann Christoph byl nevlastní bratr Maximiliánova otce Carla Heinricha.",
+      "fakta": [
+        "Narodila se 12. 4. 1718 v Preichau (dnes Przychowa u Stínavy, Dolní Slezsko) a druhý den byla pokřtěna jako dcera urozeného rytíře a pana Johanna Christopha von Giller, hejtmana v Preichau, a paní Marie Marthy. Jméno dítěte je zapsáno jen na okraji.",
+        "Kmotry byli prastrýc Friedrich Wilhelm von Giller, rada Jeho císařského Veličenstva a úředník knížectví Lehnického (?); rytíř Heinrich (?) Leonhard (?) … na Pilgramsdorfu a Matz…dorfu (?), císařský hejtman a lesmistr; a teta Catharina Barbara roz. Nerlichová (?), manželka Carla Heinricha von Giller, pána na Hammeru – matka našeho Maximiliána.",
+        "Snad je to ta „urozená slečna Maria Ludovica, dcera pana Johanna Christopha von Giller, pána na … a Schreibendorfu, zdejšího hejtmana“, která byla 2. 1. 1725 v Preichau kmotrou; mohla to ale být i jiná, starší dcera."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "johann_christoph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Preichau (kat. fara, dnes Przychowa u Stínavy), křty 1678–1744, FamilySearch film 8218293, snímek 387",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RNBC"
+        },
+        {
+          "nazev": "Matrika Preichau (kat. fara, dnes Przychowa u Stínavy), křty 1678–1744, FamilySearch film 8218293, snímek 435",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RN1V"
+        }
+      ],
+      "krest": "13. 4. 1718 Preichau"
+    },
+    "maria_barbara_1721": {
+      "jmeno": "Maria Barbara Francisca von Giller",
+      "roky": "křest 3. 10. (?) 1721 Preichau",
+      "stav": "doc",
+      "vazba": "Dcera Johanna Christopha von Giller (pozdějšího svobodného pána z Gillernů), hejtmana panství Preichau, a Marie Marthy – sestřenice našeho předka Maximiliána (* 1719); Johann Christoph byl nevlastní bratr Maximiliánova otce Carla Heinricha.",
+      "fakta": [
+        "Pokřtěna asi 3. 10. 1721 v Preichau (dnes Przychowa u Stínavy, Dolní Slezsko) jako dcera urozeného rytíře a pana Johanna Christopha von Giller, hejtmana v Preichau, a Marie Marthy.",
+        "Kmotry byli prastrýc Friedrich Wilhelm von Giller, rada Jeho císařského Veličenstva a úředník knížectví Volovského (?); teta Catharina Barbara roz. Nerlichová, manželka Carla Heinricha von Giller na Hammeru (matka našeho Maximiliána); a manželka strýce Franze Josepha von Giller.",
+        "Její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "johann_christoph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Preichau (kat. fara, dnes Przychowa u Stínavy), křty 1678–1744, FamilySearch film 8218293, snímek 409",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RJQ9"
+        },
+        {
+          "nazev": "Matrika Preichau (kat. fara, dnes Przychowa u Stínavy), křty 1678–1744, FamilySearch film 8218293, snímek 410",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RNTM"
+        }
+      ]
+    },
+    "christoph_franz_1716": {
+      "jmeno": "Christoph Franz Gregor von Giller",
+      "roky": "křest 12. 3. 1716 Krehlau – pohřeb 20. 4. 1718 Krehlau",
+      "stav": "doc",
+      "vazba": "Prvorozený syn Franze Josepha von Giller, pána na Horním Krehlau (Ober-Krehlau), a Eleonory Hedwig – bratranec našeho předka Maximiliána (* 1719), jehož otec Carl Heinrich byl Franzův bratr.",
+      "fakta": [
+        "Pokřtěn 12. 3. 1716 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako Christof Frantz Gregorius, syn pana Franze Josepha von Giller na Horním Krehlau a Eleonory Hedwig.",
+        "Kmotry byli … Samuel (?) z Krehlau, Johannes Hebstler (?), otec tamního faráře, a stará Maria …, vdova z Dolního Krehlau.",
+        "Zemřel ve dvou letech: 20. 4. 1718 byl v Krehlau pohřben – jen šest dní po pohřbu své sestřenice Marie Philippiny Franciscy."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_joseph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 425",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97J-X"
+        },
+        {
+          "nazev": "Matrika Krehlau, pohřby 1667–1737 (D525c, s. 40), FamilySearch film 8244728, snímek 338",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97D-4"
+        }
+      ]
+    },
+    "maria_anna_1717": {
+      "jmeno": "Maria Anna Johanna Victoria von Giller",
+      "roky": "křest 11. 5. 1717 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Franze Josepha von Giller, pána na Horním Krehlau (Ober-Krehlau), a Eleonory Hedwig – sestřenice našeho předka Maximiliána (* 1719), jehož otec Carl Heinrich byl Franzův bratr.",
+      "fakta": [
+        "Pokřtěna 11. 5. 1717 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako dcera vysoce urozeného pana Franze Josepha von Giller na Horním Krehlau a paní Eleonory Hedwig. Kmotry byli Johann Samuel (?) … a Dorothea … z Krehlau a Maria … z Hammeru.",
+        "24. 2. 1723 byla v Krehlau kmotrou synovi zahradníka Christopha Schulze (?) – zapsána jako „milostivá slečna Anna Joanna, (dcera) pana Franze Gillera z Horního Krehlau“; bylo jí tehdy necelých šest let.",
+        "Mezi pohřby v Krehlau do roku 1737 není; její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_joseph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 429",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97H-1"
+        },
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1723 (kmotra), FamilySearch film 8244728, snímek 447",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97Z-C"
+        }
+      ]
+    },
+    "johann_heinrich_1718": {
+      "jmeno": "Johann Heinrich Ferdinand von Giller",
+      "roky": "křest 25. 6. 1718 Krehlau – pohřeb 12. 12. 1718 Krehlau",
+      "stav": "doc",
+      "vazba": "Syn Franze Josepha von Giller, pána na Horním Krehlau (Ober-Krehlau), a Eleonory Hedwig – bratranec našeho předka Maximiliána (* 1719), jehož otec Carl Heinrich byl Franzův bratr.",
+      "fakta": [
+        "Pokřtěn 25. 6. 1718 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako Johannes Henricus Ferdinandus, syn vysoce urozeného pana Franze Josepha von Giller na Horním Krehlau a Eleonory Hedwig. Kmotry byli Johannes Samuel (?) … z Krehlau, Dorothea … a Anna …, obyvatelka Dolního Krehlau.",
+        "Zemřel ve věku 24 týdnů: 12. 12. 1718 bylo v Krehlau pohřbeno „dítě vysoce urozeného pana Franze Josepha von Giller na Horním Krehlau jménem Johann Heinrich Ferdinand, 24 týdnů“."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_joseph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 432",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97L-S"
+        },
+        {
+          "nazev": "Matrika Krehlau, pohřby 1667–1737 (D525c, s. 40), FamilySearch film 8244728, snímek 338",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97D-4"
+        }
+      ]
+    },
+    "maria_elisabeth_1719": {
+      "jmeno": "Maria Elisabeth Apolonia von Giller",
+      "roky": "křest 24. (?) 9. 1719 Krehlau – pohřeb 27. 10. 1719 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Franze Josepha von Giller, pána na Horním Krehlau (Ober-Krehlau), a Eleonory Hedwig – sestřenice našeho předka Maximiliána (* 1719), jehož otec Carl Heinrich byl Franzův bratr.",
+      "fakta": [
+        "Pokřtěna asi 24. 9. 1719 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako dcera pana Franze Josepha von Giller na Horním Krehlau a Eleonory Hedwig. Kmotry byli Johannes Samuel (?) …, Maria … a Anna … z Krehlau.",
+        "Zemřela ve stáří pěti týdnů: 27. 10. 1719 byla v Krehlau pohřbena."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_joseph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 436",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97P-S"
+        },
+        {
+          "nazev": "Matrika Krehlau, pohřby 1667–1737 (D525c, s. 41), FamilySearch film 8244728, snímek 339",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T978-2"
+        }
+      ]
+    },
+    "anna_josepha_1721": {
+      "jmeno": "Anna Josepha Francisca von Giller",
+      "roky": "křest 10. 3. 1721 Krehlau – pohřeb 28. 5. 1724 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Franze Josepha von Giller, pána na Horním Krehlau (Ober-Krehlau), a Eleonory Hedwig – sestřenice našeho předka Maximiliána (* 1719), jehož otec Carl Heinrich byl Franzův bratr.",
+      "fakta": [
+        "Pokřtěna 10. 3. 1721 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako dcera pana Franze Josepha von Giller na Horním Krehlau a paní Eleonory Hedwig. Kmotry byli Joannes …, Maria Rosina … a Anna … z Krehlau.",
+        "Zemřela ve věku tří let a deseti týdnů, snad na neštovice: 28. 5. 1724 byla v Krehlau pohřbena jako „slečinka Anna Josepha Francisca, dcera milostivého pána na Horním Krehlau Franze Josepha von Giller“."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_joseph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 440",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97V-V"
+        },
+        {
+          "nazev": "Matrika Krehlau, pohřby 1667–1737 (D525c, s. 44), FamilySearch film 8244728, snímek 342",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97Z-Y"
+        }
+      ]
+    },
+    "maria_barbara_1722": {
+      "jmeno": "Maria Barbara Susanna von Giller",
+      "roky": "křest 24. 5. 1722 Krehlau",
+      "stav": "doc",
+      "vazba": "Dcera Franze Josepha von Giller, pána na Horním Krehlau (Ober-Krehlau), a Eleonory Hedwig – sestřenice našeho předka Maximiliána (* 1719), jehož otec Carl Heinrich byl Franzův bratr.",
+      "fakta": [
+        "Pokřtěna 24. 5. 1722 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako dcera Jeho Milosti (?) pana Franze Josepha von Giller na Horním Krehlau a Eleonory Hedwig. Kmotry byli Joannes … z Krehlau, Maria Rosina … a Anna … z Krehlau.",
+        "Mezi pohřby v Krehlau do roku 1737 není; její další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_joseph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 444",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97F-R"
+        }
+      ]
+    },
+    "friedrich_joseph_1724": {
+      "jmeno": "Friedrich Joseph Wilhelm von Giller",
+      "roky": "křest 29. 2. 1724 Krehlau",
+      "stav": "doc",
+      "vazba": "Syn Franze Josepha von Giller, pána na Horním Krehlau (Ober-Krehlau), a Eleonory Hedwig – bratranec našeho předka Maximiliána (* 1719), jehož otec Carl Heinrich byl Franzův bratr.",
+      "fakta": [
+        "Pokřtěn 29. 2. 1724 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) farářem Joannem Hetscherem jako syn Jeho Milosti pana Franze Josepha von Giller, dědičného pána na Horním Krehlau, a paní Eleonory Hedwig rozené Klingeové (?). Kmotry byli Joannes Clamt (?), Urbanus Grische (?) a Anna Staustin (?), všichni z Krehlau.",
+        "Snad je to on, kdo byl 27. 8. 1726 v Krehlau kmotrem nemanželskému dítěti jako „Fridericus Josephus de Giller in Krelau“ – mohl to ale být i jeho otec.",
+        "Je jediným známým synem Franze Josepha, který nezemřel jako malé dítě, a mohl tedy jeho větev rodu nést dál. Jeho další osud neznáme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_joseph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 453",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97Z-J"
+        },
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1726 (kmotr), FamilySearch film 8244728, snímek 462",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97V-9"
+        }
+      ]
+    },
+    "maria_hedwig_1725": {
+      "jmeno": "Maria Hedwig (?) von Giller",
+      "roky": "křest 2?. 10. 1725 Krehlau",
+      "stav": "prob",
+      "vazba": "Nejspíš dcera Franze Josepha von Giller, pána na Horním Krehlau (Ober-Krehlau), a Eleonory Hedwig – sestřenice našeho předka Maximiliána (* 1719), jehož otec Carl Heinrich byl Franzův bratr.",
+      "fakta": [
+        "V říjnu 1725 (mezi 20. a 29.) pokřtil farář Johann Franz Hetscher v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) dítě pana Franze Josepha von Giller z Horního Krehlau a Eleonory Hedwig; kmotry byli Joannes Clamt (?) a další, všichni z Krehlau.",
+        "Na okraji je jméno čteno jako „Ma… Hedwig (?)“ – šlo tedy nejspíš o dceru.",
+        "Je to poslední známé dítě Franze Josepha pokřtěné v Krehlau."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franz_joseph"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Krehlau (kat. fara, dnes Krzelów u Volova), křty 1692–1736, FamilySearch film 8244728, snímek 459",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T972-Q"
+        }
+      ]
+    },
+    "anna_regina_1690": {
+      "jmeno": "Anna Regina Gillerová",
+      "roky": "křest 10. (?) 6. 1690 Preichau",
+      "stav": "doc",
+      "vazba": "Dcera Christopha Heinricha Gillera, hejtmana v Preichau, a jeho druhé manželky Anny Victorie roz. Hertzel (?) – sestra Carla Heinricha, a tedy teta našeho předka Maximiliána (* 1719).",
+      "fakta": [
+        "Pokřtěna asi 10. 6. 1690 v Preichau (dnes Przychowa u Stínavy, Dolní Slezsko) jako dcera velmi urozeného Christopha Heinricha Gillera, hejtmana biskupského panství Preichau, a jeho manželky Anny Victorie.",
+        "Kmotry byli urozený pan Matthias Kunt (?) z Laube (?) v Polsku, urozená paní Anna, manželka syndika Andrease Jacoba Karlitze (?), a urozená panna Maria Regina, dcera Marca Hertzela (?), registrátora císařské komory ve Vratislavi – sestra její matky.",
+        "Její dědeček Marcus Augustin Hertzel (?) byl o rok později, 31. 7. 1691, pohřben v Preichau.",
+        "Její další osud neznáme; v knize pohřbů Preichau z let 1690–1740 její pohřeb nalezen nebyl."
+      ],
+      "zaznamy": [
+        "n_1690_giller_anna_regina"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "osoba": "christoph-heinrich-von-giller-christophorus-henricus-1646"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Preichau (kat. fara, dnes Przychowa u Stínavy), křty 1678–1744, FamilySearch film 8218293, snímek 299",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RFYY"
+        }
+      ]
+    },
+    "christian_st_1643": {
+      "jmeno": "Christian Giller starší",
+      "roky": "* asi 1643 – † 7. 7. 1711 Dvorce (68 let)",
+      "stav": "prob",
+      "vazba": "Nejstarší známý z měšťanských Gillerů ve Dvorcích u Bruntálu (německy Hof); jak souvisí s naší linií a s rodinou Friedricha Wilhelma I. Gillera ze sousedního Karlovce, zatím nevíme.",
+      "fakta": [
+        "Narodil se asi roku 1643; odkud pocházel, zápisy neuvádějí.",
+        "Patřil k měšťanským Gillerům ve Dvorcích u Bruntálu; v zápisu o úmrtí je titulován „Herr“ (pan).",
+        "Jeho dcery se ve Dvorcích vdaly: Elisabeth 15. 11. 1688 za Michaela Titze (?) a Anna 15. 11. 1689 za Hanse Georga Klebla (?). Synem byl Christian Giller mladší (asi 1681–1755), rovněž dvorecký měšťan.",
+        "7. 9. 1705 byl ve Dvorcích svědkem na svatbě Marie Elisabeth, dcery poštmistra Franze Leopolda Gillera, s Martinem Maxmiliánem Sefftigem (?), hejtmanem šternberského panství.",
+        "Jeho manželkou byla snad Anna Maria Gillerová, měšťanka, která zemřela ve Dvorcích roku 1741 ve věku 96 let.",
+        "Zemřel ve Dvorcích 7. 7. 1711 ve věku 68 let."
+      ],
+      "zaznamy": [
+        "o_1705_sefftig_gillerova"
+      ],
+      "vztahy": [
+        {
+          "vztah": "dítě",
+          "profil": "elisabeth_1688"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "anna_1689"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "christian_ml_1681"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – opis narozených a oddaných 1688–1705 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        },
+        {
+          "nazev": "Dv I 1 O 2, snímek 165 – sňatek Sefftig × Maria Elisabeth Gillerová, 7. 9. 1705 (svědek Christian Giller)",
+          "odkaz": "https://digi.archives.cz/da/showZoomifySeparate?imageNumberSeparate=165&myEntityUuid=29e3f91ac933f2f4%3a-64ab7bf1%3a1503c0399c5%3a-7ff4&myImageUuid=3781e12977e949d1b562c289c050dca4"
+        },
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "elisabeth_1688": {
+      "jmeno": "Elisabeth Gillerová",
+      "roky": "provdaná 15. 11. 1688",
+      "stav": "prob",
+      "vazba": "Dcera Christiana Gillera staršího, měšťana ve Dvorcích u Bruntálu – vazba na naši linii neznámá.",
+      "fakta": [
+        "Byla dcerou Christiana Gillera staršího ze Dvorců u Bruntálu.",
+        "15. 11. 1688 se ve farnosti Dvorce provdala za Michaela Titze (příjmení ženicha je čteno nejistě)."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "christian_st_1643"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "15. 11. 1688 Michael Titz (?)"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – opis narozených a oddaných 1688–1705 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        }
+      ]
+    },
+    "anna_1689": {
+      "jmeno": "Anna Gillerová",
+      "roky": "provdaná 15. 11. 1689",
+      "stav": "prob",
+      "vazba": "Dcera Christiana Gillera staršího, měšťana ve Dvorcích u Bruntálu – vazba na naši linii neznámá.",
+      "fakta": [
+        "Byla dcerou Christiana Gillera staršího ze Dvorců u Bruntálu.",
+        "15. 11. 1689 se ve farnosti Dvorce provdala za Hanse Georga Klebla (příjmení ženicha je čteno nejistě)."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "christian_st_1643"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "15. 11. 1689 Hans Georg Klebl (?)"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 O 2 – opis narozených a oddaných 1688–1705 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4%3A-64ab7bf1%3A1503c0399c5%3A-7ff4"
+        }
+      ]
+    },
+    "christian_ml_1681": {
+      "jmeno": "Christian Giller mladší",
+      "roky": "* asi 1681 – † 17. 8. 1755",
+      "stav": "doc",
+      "vazba": "Syn Christiana Gillera staršího, měšťan ve Dvorcích u Bruntálu – vazba na naši linii neznámá.",
+      "fakta": [
+        "Narodil se asi roku 1681 jako syn Christiana Gillera staršího.",
+        "Byl měšťanem ve Dvorcích u Bruntálu.",
+        "Roku 1708 se oženil s Marií Magdalenou Wunderlichovou.",
+        "V letech 1709–1716 jim ve Dvorcích křtili děti: Marii Elisabeth (30. 11. 1709), syna Adama (?), který zemřel v květnu 1711 ve stáří pěti týdnů, Annu Marii (zemřela 1713 ve dvou letech), Joannese Caspara (22. 11. 1713, pozdějšího tkadlce) a Annu Rosinu (1716).",
+        "Roku 1749 se podruhé oženil s Rosinou, vdovou po Kronem (Krone) z Májůvky.",
+        "Zemřel 17. 8. 1755."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "christian_st_1643"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "1) 1708 Maria Magdalena Wunderlich, × 2) 1749 Rosina, vdova Krone z Májůvky"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "maria_elisabeth_1709"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "anna_maria_1711"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "joannes_caspar_1713"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "anna_rosina_1716"
+        },
+        {
+          "vztah": "další děti",
+          "text": "Adam (?) († 23. 5. 1711, ve stáří 5 týdnů)"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "maria_elisabeth_1709": {
+      "jmeno": "Maria Elisabeth Gillerová",
+      "roky": "křest 30. 11. 1709 Dvorce",
+      "stav": "doc",
+      "vazba": "Dcera dvoreckého měšťana Christiana Gillera mladšího a Marie Magdaleny roz. Wunderlichové – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěna 30. 11. 1709 ve Dvorcích u Bruntálu jako dcera měšťana Christiana Gillera mladšího a Marie Magdaleny roz. Wunderlichové."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "christian_ml_1681"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "anna_maria_1711": {
+      "jmeno": "Anna Maria Gillerová",
+      "roky": "* asi 1711 – † 1713 Dvorce (pohřeb 5. 9. 1713)",
+      "stav": "prob",
+      "vazba": "Dcera dvoreckého měšťana Christiana Gillera mladšího a Marie Magdaleny roz. Wunderlichové – vazba na naši linii neznámá.",
+      "fakta": [
+        "Narodila se asi roku 1711 jako dcera měšťana Christiana Gillera mladšího a Marie Magdaleny ve Dvorcích u Bruntálu.",
+        "Zemřela jako malé dítě ve věku dvou let; pohřbena byla ve Dvorcích 5. 9. 1713."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "christian_ml_1681"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "joannes_caspar_1713": {
+      "jmeno": "Joannes Caspar (Jan Kašpar) Giller",
+      "roky": "křest 22. 11. 1713 Dvorce – † 30. 7. 1770",
+      "stav": "prob",
+      "vazba": "Syn dvoreckého měšťana Christiana Gillera mladšího a Marie Magdaleny roz. Wunderlichové, tkadlec – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěn 22. 11. 1713 ve Dvorcích u Bruntálu jako syn měšťana Christiana Gillera mladšího a Marie Magdaleny roz. Wunderlichové; v křestním zápisu je jeho jméno čteno „Franz (?) Caspar“.",
+        "Byl tkadlcem ve Dvorcích.",
+        "Jeho první manželka Anna Maria zemřela roku 1757; jako sňatek je uváděn i rok 1751 (?) s Annou Marií Krumpholtzovou. Roku 1757 se oženil s Annou Rosou Kronesovou.",
+        "Děti: Anna Maria (roku 1770 se provdala za tkadlce Franze Kolbeho), Carl Joseph († 1759), Maria Magdalena († 1762) a dcera, která zemřela roku 1763.",
+        "Zemřel 30. 7. 1770."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "christian_ml_1681"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "1) Anna Maria († 1757), × 2) 1751 (?) Anna Maria Krumpholtz, × 3) 1757 Anna Rosa Krones"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "anna_maria_1770"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "carl_joseph_1759"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "maria_magdalena_1762"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "dcera_1763"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        },
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "anna_maria_1770": {
+      "jmeno": "Anna Maria Gillerová",
+      "roky": "provdaná 1770",
+      "stav": "prob",
+      "vazba": "Dcera tkadlce Joannese Caspara Gillera ze Dvorců u Bruntálu (vnučka Christiana Gillera mladšího) – vazba na naši linii neznámá.",
+      "fakta": [
+        "Dcera tkadlce Joannese Caspara Gillera ze Dvorců u Bruntálu.",
+        "Roku 1770 se provdala za Franze Kolbeho, tkadlce."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "joannes_caspar_1713"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "1770 Franz Kolbe, tkadlec"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "carl_joseph_1759": {
+      "jmeno": "Carl Joseph Giller",
+      "roky": "† 1759",
+      "stav": "prob",
+      "vazba": "Syn tkadlce Joannese Caspara Gillera ze Dvorců u Bruntálu (vnuk Christiana Gillera mladšího) – vazba na naši linii neznámá.",
+      "fakta": [
+        "Syn tkadlce Joannese Caspara Gillera ze Dvorců u Bruntálu; zemřel roku 1759."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "joannes_caspar_1713"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "maria_magdalena_1762": {
+      "jmeno": "Maria Magdalena Gillerová",
+      "roky": "† 1762",
+      "stav": "prob",
+      "vazba": "Dcera tkadlce Joannese Caspara Gillera ze Dvorců u Bruntálu (vnučka Christiana Gillera mladšího) – vazba na naši linii neznámá.",
+      "fakta": [
+        "Dcera tkadlce Joannese Caspara Gillera ze Dvorců u Bruntálu; zemřela roku 1762."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "joannes_caspar_1713"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "dcera_1763": {
+      "jmeno": "Dcera Joannese Caspara Gillera",
+      "roky": "† 1763",
+      "stav": "prob",
+      "vazba": "Dcera tkadlce Joannese Caspara Gillera ze Dvorců u Bruntálu (vnučka Christiana Gillera mladšího) – vazba na naši linii neznámá.",
+      "fakta": [
+        "Dcera tkadlce Joannese Caspara Gillera ze Dvorců u Bruntálu, jejíž jméno není známo; zemřela roku 1763."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "joannes_caspar_1713"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "anna_rosina_1716": {
+      "jmeno": "Anna Rosina Gillerová",
+      "roky": "1716 (pohřeb 17. 3. 1716 Dvorce)",
+      "stav": "doc",
+      "vazba": "Dcera dvoreckého měšťana Christiana Gillera mladšího a Marie Magdaleny roz. Wunderlichové – vazba na naši linii neznámá.",
+      "fakta": [
+        "Narodila se roku 1716 jako dcera měšťana Christiana Gillera mladšího a Marie Magdaleny ve Dvorcích u Bruntálu.",
+        "Zemřela jako dítě; pohřbena byla ve Dvorcích 17. 3. 1716."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "christian_ml_1681"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "franciscus_1683": {
+      "jmeno": "Franciscus (Franz Leopold ?) Giller",
+      "roky": "* asi září 1683 – † 20. 5. 1771 Dvorce (87 let)",
+      "stav": "doc",
+      "vazba": "Měšťan ve Dvorcích u Bruntálu, otec faráře Jana Karla a krejčího Augustina; není totožný se starším poštmistrem Franzem Leopoldem Gillerem a jeho vztah k naší linii není znám.",
+      "fakta": [
+        "Narodil se asi v září 1683 – při úmrtí mu bylo 87 let, 8 měsíců a 13 dní.",
+        "Byl měšťanem ve Dvorcích u Bruntálu a bydlel v domě č. 31.",
+        "S manželkou Elisabeth měl v letech 1712–1728 osm dětí – Rosalii, Annu Marii, Johannu Theresii, Jana Karla, Magdalenu, Jana Filipa, Marii Elisabeth a Josefa – a roku 1732 ještě syna Augustina.",
+        "U křtu dcery Johanny Theresie roku 1716 je otec zapsán jako „Francisc. Leop.“ – měl tedy patrně i druhé jméno Leopold.",
+        "Syn Jan Karel se stal farářem ve Dvorcích, syn Augustin krejčím a měšťanem; při Augustinově svatbě roku 1755 byl otec ještě naživu.",
+        "Zemřel ve Dvorcích 20. 5. 1771.",
+        "Není totožný se starším Franzem Leopoldem Gillerem, dvoreckým poštmistrem a purkmistrem (doložen 1690–1712), který se narodil nejpozději kolem roku 1665; věkem by mohl být jeho synem, doklad pro to ale chybí."
+      ],
+      "vztahy": [
+        {
+          "vztah": "manžel(ka)",
+          "text": "Elisabeth"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "rosalia_1712"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "anna_maria_1714"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "johanna_theresia_1716"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "jan_karel_1718"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "magdalena_1721"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "jan_filip_1723"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "maria_elisabeth_1725"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "josef_1728"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "augustin_1733"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        },
+        {
+          "nazev": "Matrika fary Dvorce Dv I 2 (Zemský archiv v Opavě), úmrtí 20. 5. 1771, snímek 734"
+        }
+      ]
+    },
+    "rosalia_1712": {
+      "jmeno": "Rosalia Gillerová",
+      "roky": "* 1712 – † 1714 (pohřeb 5. 6. 1714 Dvorce)",
+      "stav": "prob",
+      "vazba": "Dcera dvoreckého měšťana Františka (Franciscus) Gillera a Elisabeth – vazba na naši linii neznámá.",
+      "fakta": [
+        "Narodila se roku 1712 ve Dvorcích u Bruntálu jako první známé dítě měšťana Františka (Franciscus) Gillera a Elisabeth.",
+        "Zemřela jako dítě; pohřbena byla ve Dvorcích 5. 6. 1714."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "franciscus_1683"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "anna_maria_1714": {
+      "jmeno": "Anna Maria Gillerová",
+      "roky": "křest 6. 5. 1714 Dvorce",
+      "stav": "prob",
+      "vazba": "Dcera dvoreckého měšťana Františka (Franciscus) Gillera a Elisabeth – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěna 6. 5. 1714 ve Dvorcích u Bruntálu jako dcera měšťana Františka (Franciscus) Gillera a Elisabeth."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "franciscus_1683"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "johanna_theresia_1716": {
+      "jmeno": "Johanna Theresia Gillerová",
+      "roky": "křest 24. 6. 1716 Dvorce",
+      "stav": "prob",
+      "vazba": "Dcera dvoreckého měšťana Františka (Franciscus) Gillera a Elisabeth – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěna 24. 6. 1716 ve Dvorcích u Bruntálu jako dcera měšťana Františka Gillera a Elisabeth.",
+        "V jejím křestním zápisu je otec zapsán jako „Francisc. Leop.“ (Franciscus Leopoldus)."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "franciscus_1683"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "jan_karel_1718": {
+      "jmeno": "Jan Karel (Joannes Carolus) Giller",
+      "roky": "křest 26. 9. 1718 Dvorce – † 19. 6. 1769 Dvorce",
+      "stav": "prob",
+      "vazba": "Syn dvoreckého měšťana Františka (Franciscus) Gillera a Elisabeth, farář ve Dvorcích – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěn 26. 9. 1718 ve Dvorcích u Bruntálu jako Joannes Carolus, syn měšťana Františka (Franciscus) Gillera a Elisabeth.",
+        "Stal se knězem a byl farářem ve své rodné farnosti Dvorce.",
+        "Zemřel 19. 6. 1769, asi v 50 letech, a byl pohřben v kryptě dvoreckého kostela."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "franciscus_1683"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        },
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "magdalena_1721": {
+      "jmeno": "Magdalena Gillerová",
+      "roky": "křest 9. 2. 1721 Dvorce",
+      "stav": "doc",
+      "vazba": "Dcera dvoreckého měšťana Františka (Franciscus) Gillera a Elisabeth – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěna 9. 2. 1721 ve Dvorcích u Bruntálu jako dcera měšťana Františka (Franciscus) Gillera a Elisabeth."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franciscus_1683"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "jan_filip_1723": {
+      "jmeno": "Jan Filip (Joannes Philippus) Giller",
+      "roky": "* asi 1723 – † 1727 (pohřeb 10. 7. 1727 Dvorce)",
+      "stav": "prob",
+      "vazba": "Syn dvoreckého měšťana Františka (Franciscus) Gillera a Elisabeth – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěn asi roku 1723 ve Dvorcích u Bruntálu jako Joannes Philippus, syn měšťana Františka (Franciscus) Gillera a Elisabeth.",
+        "Zemřel ve čtyřech letech; pohřben byl ve Dvorcích 10. 7. 1727 (zapsán jako „Philip giller“)."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "franciscus_1683"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "maria_elisabeth_1725": {
+      "jmeno": "Maria Elisabeth Gillerová",
+      "roky": "křest 17. 10. 1725 Dvorce",
+      "stav": "doc",
+      "vazba": "Dcera dvoreckého měšťana Františka (Franciscus) Gillera a Elisabeth – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěna 17. 10. 1725 ve Dvorcích u Bruntálu jako dcera měšťana Františka (Franciscus) Gillera a Elisabeth."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "franciscus_1683"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "josef_1728": {
+      "jmeno": "Josef (Joseph) Giller",
+      "roky": "* 1728 Dvorce – † 1749",
+      "stav": "prob",
+      "vazba": "Syn dvoreckého měšťana Františka (Franciscus) Gillera a Elisabeth – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěn roku 1728 ve Dvorcích u Bruntálu jako Joseph, syn měšťana Františka (Franciscus) Gillera a Elisabeth.",
+        "Zemřel roku 1749."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "franciscus_1683"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "augustin_1733": {
+      "jmeno": "Augustin Giller",
+      "roky": "* 30. 7. 1732 Dvorce – † 30. 7. 1783 Dvorce",
+      "stav": "prob",
+      "vazba": "Syn dvoreckého měšťana Františka (Franciscus) Gillera a Elisabeth, krejčí a měšťan ve Dvorcích, otec Ignáce Leopolda, správce v Doloplazích – vazba na naši linii neznámá.",
+      "fakta": [
+        "Narodil se (byl pokřtěn) 30. 7. 1732 ve Dvorcích u Bruntálu jako syn měšťana Františka (Franciscus) Gillera a Elisabeth.",
+        "Byl krejčím a měšťanem ve Dvorcích a bydlel v domě č. 15.",
+        "Roku 1755 se oženil s Annou Marií Wunderlichovou, dcerou chirurga; jeho otec byl tehdy ještě naživu. Stejné příjmení měla i první manželka Christiana Gillera mladšího (sňatek 1708).",
+        "Děti: Maria Theresia († 1757), Anna Rosa († 1766), Jan († 1774), Magdalena (roku 1781 se provdala za pekaře Josefa Müllera), Jan (tkadlec, roku 1783 se oženil s Magdalenou Altmanovou) a Ignác Leopold (pokřtěn 12. 7. 1771), pozdější správce statku Doloplazy u Olomouce.",
+        "Zemřel 30. 7. 1783."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "franciscus_1683"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "1755 Anna Maria Wunderlich, dcera chirurga"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "maria_theresia_1757"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "anna_rosa_1766"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "jan_1774"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "magdalena_1781"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "jan_1783"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "ignac_leopold_1771"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        },
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "maria_theresia_1757": {
+      "jmeno": "Maria Theresia Gillerová",
+      "roky": "† 1757",
+      "stav": "doc",
+      "vazba": "Dcera krejčího Augustina Gillera ze Dvorců u Bruntálu (vnučka měšťana Františka Gillera) – vazba na naši linii neznámá.",
+      "fakta": [
+        "Dcera krejčího Augustina Gillera a Anny Marie roz. Wunderlichové ze Dvorců u Bruntálu; zemřela roku 1757."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "augustin_1733"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "anna_rosa_1766": {
+      "jmeno": "Anna Rosa Gillerová",
+      "roky": "† 1766",
+      "stav": "prob",
+      "vazba": "Dcera krejčího Augustina Gillera ze Dvorců u Bruntálu (vnučka měšťana Františka Gillera) – vazba na naši linii neznámá.",
+      "fakta": [
+        "Dcera krejčího Augustina Gillera a Anny Marie roz. Wunderlichové ze Dvorců u Bruntálu; zemřela roku 1766."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "augustin_1733"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "jan_1774": {
+      "jmeno": "Jan Giller",
+      "roky": "† 1774",
+      "stav": "prob",
+      "vazba": "Syn krejčího Augustina Gillera ze Dvorců u Bruntálu (vnuk měšťana Františka Gillera) – vazba na naši linii neznámá.",
+      "fakta": [
+        "Syn krejčího Augustina Gillera a Anny Marie roz. Wunderlichové ze Dvorců u Bruntálu; zemřel roku 1774."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "augustin_1733"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "magdalena_1781": {
+      "jmeno": "Magdalena Gillerová",
+      "roky": "provdaná 1781",
+      "stav": "doc",
+      "vazba": "Dcera krejčího Augustina Gillera ze Dvorců u Bruntálu (vnučka měšťana Františka Gillera) – vazba na naši linii neznámá.",
+      "fakta": [
+        "Dcera krejčího Augustina Gillera a Anny Marie roz. Wunderlichové ze Dvorců u Bruntálu.",
+        "Roku 1781 se provdala za Josefa Müllera, pekaře."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "augustin_1733"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "1781 Josef Müller, pekař"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "jan_1783": {
+      "jmeno": "Jan Giller",
+      "roky": "sňatek 1783",
+      "stav": "prob",
+      "vazba": "Syn krejčího Augustina Gillera ze Dvorců u Bruntálu (vnuk měšťana Františka Gillera) – vazba na naši linii neznámá.",
+      "fakta": [
+        "Syn krejčího Augustina Gillera ze Dvorců u Bruntálu.",
+        "Byl tkadlcem; roku 1783 se oženil s Magdalenou Altmanovou."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "augustin_1733"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "1783 Magdalena Altman"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "ignac_leopold_1771": {
+      "jmeno": "Ignác Leopold Giller (Ignác Giller v. Lilienfeld)",
+      "roky": "křest 12. 7. 1771 Dvorce č. 15 – doložen ještě 1822–1826",
+      "stav": "doc",
+      "vazba": "Syn krejčího Augustina Gillera ze Dvorců u Bruntálu, správce statku Doloplazy u Olomouce; s naší linií není prokazatelně spojen.",
+      "fakta": [
+        "Pokřtěn 12. 7. 1771 ve Dvorcích u Bruntálu, v domě č. 15, jako syn měšťana a krejčího Augustina Gillera a Anny Marie.",
+        "Byl správcem (Verwalter) statku Doloplazy u Olomouce (fara Tršice); jako správce je doložen v letech 1803–1807. Statek mu nepatřil – v té době ho vlastnili rytíři z Dietrichů (od 1796 František, od 1827 jeho syn Ludwig), od roku 1835 rod Managetta.",
+        "8. 2. 1803 se v Tršicích oženil s Annou, dcerou sedláka Johanna Schanze ze „Dzbell“ (snad Džbel); ženichovi bylo 31 let, nevěstě 22.",
+        "Děti: Ignác Leopold (* 25. 6. 1803, † 3. 11. 1805) a Anna Amálie Leopoldina (* 6. 7. 1805). U křtu dcery je u otce poznamenáno, že pochází „von Hof“ – ze Dvorců.",
+        "V letech 1804, 1805 a 1807 šel v Doloplazích za kmotra. 26. 2. 1804 se tam jako matka křtěného dítěte objevuje i Viktorie (Wictoria) Gillerová, rovněž „ze Dvorců“.",
+        "V rejstříku soudních spisů moravskoslezského zemského práva je veden jako „Ignác Giller v. Lilienfeld na Doloplazích“: v letech 1822–1826 s ním petrovický sirotčí úřad vedl spor o nucený prodej luk v Tršicích (spis č. 233, 44 listů, německy).",
+        "Přídomek „von Lilienfeld“ (z Lilienfeldu) patřil starému opavskému rodu Gillerů, který dostal erb roku 1568 – dvorecký Ignác se k tomuto rodu tedy hlásil.",
+        "Není totožný s „Ignácem z Gillernů, obyvatelem Slezska“, který byl roku 1784 v Poděbradech kmotrem vnuka našeho předka Maximiliána – dvoreckému Ignácovi bylo tehdy teprve 13 let."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič",
+          "profil": "augustin_1733"
+        },
+        {
+          "vztah": "další děti",
+          "text": "Ignác Leopold (* 25. 6. 1803, † 3. 11. 1805); Anna Amálie Leopoldina (* 6. 7. 1805)"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce Dv I 2 (narození 1771) a rejstřík narozených Dv I 19 (Zemský archiv v Opavě)"
+        },
+        {
+          "nazev": "Matriky fary Tršice (Zemský archiv v Opavě): VB XIII 4 – narození 1803–1807, VB XIII 11 – oddaní 1803, VB XIII 17 – zemřelí 1796–1807, rejstříky VB XIII 23"
+        },
+        {
+          "nazev": "Moravskoslezské zemské právo 1783–1850, katalog fondu C 9 (1960), s. 16 – záznam č. 151, spis 233",
+          "odkaz": "https://ndk.cz/uuid/uuid:9f86678e-2660-4f95-8e33-73d43eee644d"
+        },
+        {
+          "nazev": "Moravskoslezské zemské právo 1783–1850, katalog fondu C 9 (1960), jmenný rejstřík s. 69",
+          "odkaz": "https://ndk.cz/uuid/uuid:d39c0e94-25a5-4fc6-914c-905523f26d74"
+        },
+        {
+          "nazev": "G. Wolny, Topographie (1839), s. 259–260 – majitelé statku Doloplazy"
+        }
+      ]
+    },
+    "frantisek_ml_1725": {
+      "jmeno": "František (Franciscus) Giller mladší",
+      "roky": "sňatek 20. 10. 1725 Dvorce; snad † 1735 (31 let)",
+      "stav": "prob",
+      "vazba": "Měšťan nebo řemeslník ve Dvorcích u Bruntálu, rodiče neznámí; s naší linií není prokazatelně spojen.",
+      "fakta": [
+        "20. 10. 1725 se ve Dvorcích u Bruntálu oženil s Marií Theresií Loserthovou (příjmení je čteno nejistě).",
+        "Při křtech dětí je zapsán jako Franciscus Giller mladší (?) a manželka jako (Maria) Theresia.",
+        "Děti: Maria Johanna (pokřtěna 30. 10. 1726) a Jan František (pokřtěn 29. 7. 1729).",
+        "Snad je totožný s dvoreckým řezníkem Františkem Gillerem, který zemřel roku 1735 ve věku 31 let.",
+        "Příjmení Loserth se objevuje i v okolí poštmistra Franze Leopolda Gillera – Rosina Loserthová (?) byla roku 1690 kmotrou jeho syna Hanse Carla."
+      ],
+      "vztahy": [
+        {
+          "vztah": "manžel(ka)",
+          "text": "20. 10. 1725 Maria Theresia Loserth (?)"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "maria_johanna_1726"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "jan_frantisek_1729"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "maria_johanna_1726": {
+      "jmeno": "Maria Johanna Gillerová",
+      "roky": "křest 30. 10. 1726 Dvorce",
+      "stav": "prob",
+      "vazba": "Dcera Františka (Franciscus) Gillera mladšího ze Dvorců u Bruntálu – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěna 30. 10. 1726 ve Dvorcích u Bruntálu jako dcera Františka (Franciscus) Gillera mladšího a Marie Theresie roz. Loserthové (?)."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "frantisek_ml_1725"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "jan_frantisek_1729": {
+      "jmeno": "Jan František Giller",
+      "roky": "křest 29. 7. 1729 Dvorce",
+      "stav": "prob",
+      "vazba": "Syn Františka (Franciscus) Gillera mladšího ze Dvorců u Bruntálu – vazba na naši linii neznámá.",
+      "fakta": [
+        "Pokřtěn 29. 7. 1729 ve Dvorcích u Bruntálu jako syn Františka (Franciscus) Gillera mladšího a Marie Theresie roz. Loserthové (?)."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (pravděpodobně)",
+          "profil": "frantisek_ml_1725"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        }
+      ]
+    },
+    "dalsi_gillerove": {
+      "jmeno": "Další Gillerové ve Dvorcích a okolí",
+      "roky": "1715–1804",
+      "stav": "prob",
+      "vazba": "Gillerové ze Dvorců u Bruntálu a okolí, které zatím nelze zařadit do žádné rodiny; jejich vztah k naší linii není znám.",
+      "fakta": [
+        "Karel (Carolus) Giller, švec ve Dvorcích, se roku 1716 oženil s Rosinou a zemřel 3. 1. 1759 ve věku 70 let (narodil se tedy asi 1689).",
+        "Jan Giller z …dorfu (název obce je nečitelný) se roku 1715 oženil s Marií Elisabeth Müllerovou; zápis se vztahuje ke Karlovci u Dvorců.",
+        "Ondřej Giller byl roku 1716 svědkem ve Dvorcích.",
+        "Jan Giller se v dvoreckých matrikách objevuje roku 1755 jako kaplan v Reigersdorfu.",
+        "Jan Bedřich Giller z Roudna byl roku 1757 svědkem ve Dvorcích.",
+        "V rejstříku zemřelých fary Dvorce je k roku 1731 uveden Johann Benedict Giller (?); bližší údaje nejsou známy.",
+        "Susanna Gillerová zemřela ve Dvorcích 25. 4. 1724 ve věku 60 let; snad to byla manželka poštmistra Franze Leopolda Gillera.",
+        "Anna Maria Gillerová, měšťanka, zemřela ve Dvorcích roku 1741 ve věku 96 let; snad to byla manželka Christiana Gillera staršího.",
+        "Viktorie (Wictoria) Gillerová „ze Dvorců“ byla 26. 2. 1804 zapsána jako matka křtěného dítěte v Doloplazích u Olomouce, kde byl správcem Ignác Leopold Giller ze Dvorců; snad jde o Marii Viktorii pokřtěnou ve Dvorcích 24. 8. 1766."
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 1 – narození, oddaní a zemřelí 1706–1755 (Zemský archiv v Opavě)",
+          "odkaz": "https://digi.archives.cz/da/permalink?xid=be96a71e-f13c-102f-8255-0050568c0263"
+        },
+        {
+          "nazev": "Matrika fary Dvorce u Bruntálu Dv I 2 – narození, oddaní a zemřelí 1756–1787 (Zemský archiv v Opavě)"
+        },
+        {
+          "nazev": "Rejstřík zemřelých fary Dvorce Dv I 21, písmeno G (Zemský archiv v Opavě)"
+        },
+        {
+          "nazev": "Matrika fary Tršice VB XIII 4 – narození 1803–1807 (Zemský archiv v Opavě)"
+        }
+      ]
+    },
+    "lukas_lilienfeld": {
+      "jmeno": "Lukáš (Lucas) Giller z Lilienfeldu",
+      "roky": "* 1578 Opava – † 1618 Opava",
+      "stav": "lit",
+      "vazba": "opavský lékař z rodu Gillerů z Lilienfeldu; vztah k Matoušovi a k pozdějším Gillernům neznámý",
+      "fakta": [
+        "Narodil se roku 1578 v Opavě. Studoval ve Vratislavi, kde byl spolužákem Stephana Henela.",
+        "Roku 1604 se stal v Basileji doktorem filozofie a medicíny. Byl lékařem v Greiffenbergu (Gryfów Śląski) a pak mnoho let osobním lékařem Karla staršího ze Žerotína v Rosicích.",
+        "Podle Zeitschrift des Vereines für die Geschichte Mährens und Schlesiens (1914) zemřel roku 1618 v Opavě. Německá Wikipedie uvádí jinak: byl kalvínským kazatelem a zemřel až roku 1632 jako exulant v Řezně (Regensburg) – rozpor zatím nevyřešen.",
+        "Pilnáček (Rody starého Slezska) ho řadí mezi potomky Matouše Gillera, který roku 1568 dostal přídomek „von Lilienfeld“; přesné příbuzenství (syn, vnuk?) neuvádí."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rod Gillerů z Lilienfeldu (erb 1568)",
+          "profil": "matous"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "J. Henel, Silesiographia renovata I (1704), kap. VII – Lucas Gillerus de Lilienfeld",
+          "odkaz": "https://archive.org/details/bub_gb_8Dg_AAAAcAAJ"
+        },
+        {
+          "nazev": "Zeitschrift des Vereines für die Geschichte Mährens und Schlesiens 1914 (Česká digitální knihovna)"
+        },
+        {
+          "nazev": "J. Pilnáček, Rody starého Slezska 2 (1972), s. 15–16"
+        },
+        {
+          "nazev": "de.wikipedia.org – Gillern",
+          "odkaz": "https://de.wikipedia.org/wiki/Gillern"
+        }
+      ]
+    },
+    "matyas_lilienfeld": {
+      "jmeno": "Matyáš Giller z Lilienfeldu",
+      "roky": "† 1655/1656 Krnov",
+      "stav": "lit",
+      "vazba": "lékař v Olomouci, Opavě a Krnově; otec krnovského lékárníka Benedikta – vztah k Matoušovi a k pozdějším Gillernům neznámý",
+      "fakta": [
+        "V 1. polovině 17. století byl městským lékařem v Olomouci; v Žerotínských rukopisech se uvádí jeho spis o chování za moru (1633) a zpráva o čarodějnických procesech.",
+        "Podle německé Wikipedie se narodil roku 1591, doktorát z filozofie a medicíny získal v Padově a dopisoval si s mystikem Jakobem Böhmem. Do roku 1629 byl knížecím rychtářem (Fürstenrichter) v Opavě a v letech 1627 a 1629 jednal za město osobně s Valdštejnem. Rodina byla roku 1629 postižena císařskou klatbou proti protestantským vzbouřencům na Opavsku a přišla o predikát i majetek. Po přestupu ke katolické víře sloužil od roku 1636 Karlu Eusebiovi z Lichtenštejna, pozdějšímu vrchnímu hejtmanovi Slezska.",
+        "Roku 1652 sestavil „Matthias Gieller von Lilienfeldt“ kostelní urbář města Opavy.",
+        "Zajímavá shoda: i pozdější Gillerové ve Dvorcích byli spjati s Lichtenštejny – poštmistr Franz Leopold Giller byl úředníkem lichtenštejnského panství Karlovec a Karel Josef lichtenštejnským sekretářem ve Vídni. Zda jde o rodinnou návaznost, nevíme.",
+        "Roku 1642 se přestěhoval do Krnova, kde po tchyni zdědil svobodný dům s dvorem; otcovský dům v Opavě prodal roku 1644. Zemřel 1655/1656.",
+        "Měl dvě manželky jménem Zuzana – jedna byla podle Zukala dcerou Hanse von Götz a Zuzany Dreßler von Scharfenstein. Synové: Benedikt Josef, lékárník v Krnově, a Ignác (Pilnáček uvádí také syna Jana).",
+        "V krnovských křtech 1640–1674 jako otec nevystupuje – jeho děti se narodily dřív nebo jinde. Jedinou možnou stopou je kmotra „Susanna Mathias …“ z roku 1643 (čtení nejisté)."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rod Gillerů z Lilienfeldu (erb 1568)",
+          "profil": "matous"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "benedikt_lilienfeld"
+        },
+        {
+          "vztah": "dítě",
+          "profil": "ignac_lilienfeld"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "J. Zukal, Troppauer Ärztewesen (1910/1911), s. 109"
+        },
+        {
+          "nazev": "P. Tesař (ed.), Kostelní urbář města Opavy z roku 1652, s. 17–19"
+        },
+        {
+          "nazev": "Žerotínské rukopisy Bludovské (1958), s. 108, 150, 208–215"
+        },
+        {
+          "nazev": "J. Pilnáček, Rody starého Slezska 2 (1972), s. 15–16"
+        },
+        {
+          "nazev": "ZA Opava, Krnov – matrika N 1640–1674 (FamilySearch, film 5398576)"
+        },
+        {
+          "nazev": "de.wikipedia.org – Gillern",
+          "odkaz": "https://de.wikipedia.org/wiki/Gillern"
+        }
+      ]
+    },
+    "benedikt_lilienfeld": {
+      "jmeno": "Benedikt Josef Giller z Lilienfeldu",
+      "roky": "lékárník v Krnově, doložen 1646–1660. léta",
+      "stav": "doc",
+      "vazba": "syn lékaře Matyáše Gillera z Lilienfeldu; zda souvisí se slezskými Gillerny, nevíme",
+      "fakta": [
+        "Podle Zukala byl synem lékaře Matyáše Gillera z Lilienfeldu a lékárníkem v Krnově.",
+        "V krnovské matrice je zapsán jako „Benedictus Ignatius Giller“, manželka Zuzana; roku 1652 výslovně „ein Apotecker“. Písaři psali jeho příjmení různě (i Diller), ale ve dvou zápisech z roku 1648 je zřetelné G – stejné jako v okolních slovech „Gotfried“ a „Georg“.",
+        "Děti pokřtěné v Krnově: Anna Zuzana (asi 7. 1. 1646), Gotfried Benedikt (26. 3. 1648), Anna Rosina (4. 8. 1650), Jan Kryštof (18. 4. 1652) a další Anna Rosina (60. léta ?).",
+        "Predikát „von Lilienfeld“ v matrice nepoužívá. Pilnáček uvádí jako syna Matouše Gillera (erb 1568) Beneše (Benedikta) a mezi Matoušovými vnuky lékárníka Gotharda; jak se tyto údaje kryjí s krnovským lékárníkem Benediktem a jeho synem Gotfriedem (* 1648), není jasné."
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodič (podle literatury)",
+          "profil": "matyas_lilienfeld"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "ZA Opava, Krnov – matrika N 1640–1674 (FamilySearch, film 5398576)"
+        },
+        {
+          "nazev": "J. Zukal, Troppauer Ärztewesen (1910/1911), s. 109"
+        }
+      ]
+    },
+    "ignac_lilienfeld": {
+      "jmeno": "Ignác Giller z Lilienfeldu",
+      "roky": "17. století",
+      "stav": "lit",
+      "vazba": "podle Zukala syn lékaře Matyáše Gillera z Lilienfeldu; vztah k ostatním Gillerům neznámý",
+      "fakta": [
+        "Zukal uvádí Ignáce jako syna Matyáše Gillera z Lilienfeldu; Pilnáček zmiňuje Ignáce z roku 1658 na Krnovsku.",
+        "V krnovských křtech 1640–1674 jako otec není. Benedikt, Matyášův syn, je v matrice zapsán jako „Benedictus Ignatius“ – Ignác tak může být jen jeho druhé jméno, ne další bratr."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec (podle Zukala)",
+          "profil": "matyas_lilienfeld"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "J. Zukal, Troppauer Ärztewesen (1910/1911), s. 109"
+        },
+        {
+          "nazev": "J. Pilnáček, Rody starého Slezska 2 (1972), s. 15–16"
+        }
+      ]
+    },
+    "frantisek_mikulas": {
+      "jmeno": "František Mikuláš (Franz Niklas) svobodný pán z Gillernů",
+      "roky": "1673–1727",
+      "stav": "lit",
+      "vazba": "císařský důstojník; jak je spřízněn s ostatními Gillery, nevíme",
+      "fakta": [
+        "Narodil se roku 1673 (místo neznámé). Sloužil jako císařský důstojník – podle Wikipedie bojoval u Zenty (1697) a u Ambergu (1703).",
+        "Jako „Franz Niklas Giller“, major pevnosti Cheb, dostal 7. 2. 1703 říšský rytířský stav (Rakouský státní archiv, Reichsadelsakten 143.32); roku 1707 se stal uherským svobodným pánem a magnátem.",
+        "Roku 1704 se oženil s Eleonorou von Cronberg (* před 1670, žila ještě 1728), nemanželskou, později legitimovanou dcerou hraběte Krafta Adolfa Otty von Cronberg († 1692); Eleonora byla v letech 1686–1688 kmotrou v Červeném Poříčí u Klatov, které Cronbergům patřilo.",
+        "Od roku 1715 spravoval statky po Cronbergech v Taunusu (Schwalbach, Soden, Sulzbach, Niederhöchstadt, Niederursel); v hesenských archivech jsou spisy „Barona von Giller“ z let 1712–1713 (nárok vůči stavebnímu úřadu v Kronbergu, správa kronberských lén).",
+        "Eleonora nebyla připuštěna k dědictví po otci; podle Omptedy žila roku 1728 se sestrou Franziskou „v hluboké chudobě“ ve Frankfurtu. František Mikuláš zemřel roku 1727.",
+        "Děti zatím nenalezeny – ani v Chebu (křty 1705–1712), ani v Červeném Poříčí (1702–1713), v Taunusu a ve Frankfurtu (1700–1720). Strom J. Ksíra uvádí dceru Marii Karolínu provdanou za Ferdinanda Augustina von Langenthal – neověřeno.",
+        "Dřívější domněnka, že byl otcem našeho Maximiliána, padla: Maximilián byl synem Carla Heinricha von Giller (křest 1719 v Krehlau)."
+      ],
+      "vztahy": [
+        {
+          "vztah": "manžel(ka)",
+          "text": "1704 Eleonore von Cronberg"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "de.wikipedia.org – Gillern; Stammliste des Hauses Cronberg",
+          "odkaz": "https://de.wikipedia.org/wiki/Gillern"
+        },
+        {
+          "nazev": "Rakouský státní archiv, AVA Adel RAA 143.32 (rytířský stav 1703)"
+        },
+        {
+          "nazev": "Hessisches Hauptstaatsarchiv Wiesbaden 332, VIII f 1; 102, 550; Hessisches Staatsarchiv Darmstadt F 24 C, 424/1–4"
+        },
+        {
+          "nazev": "F. v. Ompteda, Die von Kronberg und ihr Herrensitz (1899), s. 594, 603"
+        },
+        {
+          "nazev": "H. Gensicke, Die von Kronberg, Nassauische Annalen 98 (1987), s. 311"
+        },
+        {
+          "nazev": "SOA Plzeň (Porta fontium), Cheb – sv. Mikuláš 005, 006, 056; Vřeskovice 02, 03"
+        }
+      ]
+    },
+    "moritz_eduard": {
+      "jmeno": "Moritz (?) Eduard Alexander svobodný pán z Gillernů",
+      "roky": "× 14. 11. 1827 Goldberg",
+      "stav": "doc",
+      "vazba": "nejspíš otec Oswalda svobodného pána z Gillernů (* 1828 Goldberg) – předek pruských baronů 19. století",
+      "fakta": [
+        "14. 11. 1827 se v Goldbergu ve Slezsku (Złotoryja) oženil baron Mor. Eduard Alexand. von Gillern, majitel poplužního dvora, se slečnou Henriettou Dorotheou Wilhelminou Hinke.",
+        "17. 9. 1828 se v Goldbergu narodil „baronce von Gillern roz. Hinke“ syn – přesně v den a místě narození Oswalda svobodného pána z Gillernů. Moritz Eduard Alexander je tedy velmi pravděpodobně Oswaldův otec.",
+        "Gotha 1884 odvozuje Oswaldovu linii od Kristiána Matyáše Antonína z Koryčan – to je nejisté (Kristián měl jen dcery a syna, který zemřel jako dítě, a Oswald byl evangelík). Pravděpodobnějšími předky jsou evangeličtí Gillernové v Lehnici: Friedrich Wilhelm von Gillern × Amalie Mariane von Rochow, děti 1793–1798 (mezi nimi Christoph Eduard Carl * 1. 2. 1796)."
+      ],
+      "zaznamy": [
+        "o_1827_gillern_hinke",
+        "n_1828_gillern_oswald"
+      ],
+      "vztahy": [
+        {
+          "vztah": "rodová větev",
+          "profil": "prusove"
+        },
+        {
+          "vztah": "manžel(ka)",
+          "text": "Henriette Dorothea Wilhelmine Hinke"
+        },
+        {
+          "vztah": "dítě (nejspíš)",
+          "text": "Oswald svobodný pán z Gillernů * 17. 9. 1828 Goldberg – † 7. 5. 1897 Bydhošť – viz profil pruské větve"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Schlesische Provinzialblätter 1827 (listopad), s. 507; 1828 (září), s. 321",
+          "odkaz": "https://sbc.org.pl/Content/737684/PDF/i4002-1827-11-0001.pdf#page=93"
+        }
+      ]
+    },
+    "arnulf": {
+      "jmeno": "Arnulf svobodný pán z Gillernů",
+      "roky": "* 23. 2. 1884 Berlín – † 15. 1. 1944 Magdeburg",
+      "stav": "lit",
+      "vazba": "syn pruského generálporučíka Arthura z Gillernů, vnuk Oswalda – pruská větev rodu",
+      "fakta": [
+        "Narodil se 23. 2. 1884 v Berlíně jako syn Arthura svobodného pána z Gillernů (1855–1916), pruského generálporučíka.",
+        "Byl spolumajitelem zbrojovky Polte v Magdeburku; zemřel 15. 1. 1944 v Magdeburku."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec Arthur z Gillernů (* 4. 4. 1855 Altwasser (Kr. Glogau) – † 4. 5. 1916 Berlín) – profil pruské větve",
+          "profil": "prusove"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "de.wikipedia.org – Gillern",
+          "odkaz": "https://de.wikipedia.org/wiki/Gillern"
+        }
+      ]
+    },
+    "videnska_vetev": {
+      "jmeno": "Vídeňská větev Gillernů",
+      "roky": "19.–20. století",
+      "stav": "lit",
+      "vazba": "Gillernové ve Vídni 19. a 20. století; vazba na ostatní větve zatím neznámá",
+      "fakta": [
+        "Joseph Edward z Gillernů (1794–1845), malíř biedermeieru ve Vídni. Podle Wikipedie se narodil ve Wanowitz u Hlubčic v pruském Slezsku, otec Johann byl úředníkem – patří tedy spíš ke slezským Gillernům (neověřeno).",
+        "Karl Gillern (do roku 1919 Karl svobodný pán z Gillernů, 1895–1971), rakouský chemik a agronom, přední výzkumník Spolkového zemědělského ústavu ve Vídni, maltézský rytíř.",
+        "Ve Vídni žil už v 18. století Karel Josef svobodný pán z Gillernů, pán Koryčan († 1762), a jeho příbuzný Kristián Matyáš Antonín se svými dětmi – zda z nich vídeňští Gillernové 19. století pocházejí, nevíme."
+      ],
+      "vztahy": [
+        {
+          "vztah": "ve Vídni dříve",
+          "profil": "karel_josef"
+        },
+        {
+          "vztah": "ve Vídni dříve",
+          "profil": "kristian"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "de.wikipedia.org – Gillern",
+          "odkaz": "https://de.wikipedia.org/wiki/Gillern"
+        }
+      ]
+    },
+    "franz_anton": {
+      "jmeno": "Franz Anton Giller (Gillern)",
+      "roky": "* asi 1725/1726 Hammer ve Slezsku; praporčík 1744–1746",
+      "stav": "lit",
+      "vazba": "důstojník z Hammeru – statku Carla Heinricha von Giller; nejspíš bratranec našeho Maximiliána (syn Franze Josepha?) – doklad chybí",
+      "fakta": [
+        "Při přehlídce pěšího pluku Pallavicini (č. 15) 29. 1. 1745 (v Itálii) je zapsán praporčík „Frantz Antoni Giller“, rodem z „Hamer in Schlesien“, 19 let, katolík, svobodný, u pluku „znovu“ od 21. 3. 1744, slouží 1 rok.",
+        "Hammer (dnes Młoty u Krehlau/Krzelówa) byl statek Carla Heinricha von Giller, otce našeho Maximiliána. Ze stejného místa pocházel i hejtman téhož pluku Friedrich baron z Gillernů – Maximiliánův bratr.",
+        "Dějiny pluku (Rona 1901) uvádějí: „Gillern Franz Anton, F. 1744 vom Civile, L. 1746 resigniert“ – praporčík 1744 „z civilu“, poručík, roku 1746 ze služby vystoupil.",
+        "Kdo byl jeho otcem, nevíme. Podle věku se narodil mezi únorem 1725 a lednem 1726. Synem Carla Heinricha podle toho být nemůže – ten měl děti pokřtěné 29. 12. 1724 a 23. 3. 1726 –, ledaže by byl jeho věk zapsán o několik let nižší (křty v Krehlau z let 1726–1729 jsou na mikrofilmu silně rozpité).",
+        "Nejlépe by seděl syn Franze Josepha von Giller z Horního Krehlau, bratra Carla Heinricha: jeho dítě pokřtěné v říjnu 1725 je v matrice rozpité a dosud bylo čteno jako dcera „Ma… Hedwig (?)“; jméno Franz by měl po otci. Jinou možností je syn „Tit. Herr Ignatia Antonia Gillera“, úředníka na Hammeru (1738).",
+        "S kapitánem Friedrichem baronem z Gillernů z Hammeru to nejspíš není tentýž muž: při přehlídce 1745 Friedrich v pluku není, roku 1753 je už hejtmanem se službou od let 1742/43, kdežto Franz Anton slouží od 1744 a roku 1746 odchází. Kmenové listy pluku z let 1746–1752 se nedochovaly."
+      ],
+      "zaznamy": [
+        "j_1745_ir15_giller_franz_anton"
+      ],
+      "vztahy": [
+        {
+          "vztah": "z téhož statku a pluku",
+          "profil": "jan_bedrich"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Kriegsarchiv Wien, kmenové listy pěšího pluku č. 15 (FamilySearch, film 7607065)"
+        },
+        {
+          "nazev": "L. Rona, Geschichte des k. u. k. Infanterie-Regimentes Nr. 15 (Praha 1901), s. 98",
+          "odkaz": "https://archive.org/details/bub_gb_wWTRAAAAMAAJ"
+        }
+      ]
+    },
+    "ignac_slezsko": {
+      "jmeno": "Ignác z Gillernů „ve Slezsku“",
+      "roky": "1738 (?) a 1784",
+      "stav": "doc",
+      "vazba": "příbuzný Maximiliána z Gillernů ze Slezska – jak blízký, nevíme",
+      "fakta": [
+        "8. 11. 1784 byl v Poděbradech kmotrem (v zastoupení) Maximiliánova vnuka Maximiliána Clannera z Engelshofenu: „Perillustris Dominus Ignatius de Güllern in Silesia Incola M…“ – obyvatel Slezska; poslední slovo se nedá jistě přečíst (snad Misnie). Za kmotra se bral blízký příbuzný – Ignác tedy rodinu v Poděbradech znal.",
+        "Asi 28. 2. 1738 byl v Krehlau kmotrem syna osobního myslivce na Hammeru „Tit. Herr Ignatius Antonius Giller“ – podle všeho úředník vrchnosti na Hammeru (funkce čtena nejistě). Zda je to tentýž Ignác, jeho otec nebo jiný příbuzný, nevíme; mezi dětmi Carla Heinricha ani jeho bratrů Ignác není.",
+        "Článek „Rod Kroužkův“ v Polabských novinách (1928) píše, že si Rosálie Kroužková z Poděbrad (* 1745) vzala „panského lesníka Ignáta z Gillernů, který pocházel z Míšně ve Slezsku“, a jejich dcera Anna zemřela roku 1772. Matriky to nepotvrzují: Anna † 1772 je zapsána jen jako dcera Rosálie Kroužkové a Rosálie byla manželkou vojáka Josefa Gillara – autor článku zřejmě obě osoby zaměnil a údaj „z Míšně“ převzal z křtu 1784.",
+        "Ignác Leopold Giller (* 1771 Dvorce), správce v Doloplazích, který se psal „von Lilienfeld“, jím být nemohl – roku 1784 mu bylo 13 let."
+      ],
+      "zaznamy": [
+        "n_1784_clanner_maximilian",
+        "n_1738_krehlau_ignatius_antonius_giller_kmotr",
+        "j_1928_krouzkovi_gillern",
+        "z_1772_krouzkova_anna"
+      ],
+      "vztahy": [
+        {
+          "vztah": "kmotr (1784) Maximiliánova vnuka",
+          "profil": "clanner"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "SOA Praha, Poděbrady 15, pag. 74",
+          "odkaz": "https://ebadatelna.soapraha.cz/d/11845/10"
+        },
+        {
+          "nazev": "Krehlau – křty 1736–1773 (FamilySearch, film 8244729)"
+        },
+        {
+          "nazev": "Polabské noviny 18. 1. 1928, s. 5 – Česká digitální knihovna"
+        }
       ]
     }
   },
@@ -1949,7 +4933,8 @@
                         "jmeno": "Magdalena",
                         "stav": "doc",
                         "vazba": "doc",
-                        "manzel": "× 27. 1. 1692 Karlovec Frantz Hon (?), syn Johanna Hanse ze Šternberka"
+                        "manzel": "× 27. 1. 1692 Karlovec Frantz Hon (?), syn Johanna Hanse ze Šternberka",
+                        "profil": "magdalena_1692"
                       },
                       {
                         "jmeno": "Friedrich Wilhelm II.",
@@ -1969,7 +4954,8 @@
                                 "jmeno": "Maria Theresia Carolina",
                                 "stav": "doc",
                                 "vazba": "doc",
-                                "roky": "* 31. 5. 1766 – † 15. 7. 1766 Vídeň"
+                                "roky": "* 31. 5. 1766 – † 15. 7. 1766 Vídeň",
+                                "profil": "maria_theresia_1766"
                               },
                               {
                                 "jmeno": "Marie Josefa z Gillernů",
@@ -1977,19 +4963,22 @@
                                 "pozn": "zdědila Koryčany (1793)",
                                 "manzel": "× Konstantin svobodný pán Münch von Bellinghausen",
                                 "roky": "* 9. 7. 1767 Vídeň",
-                                "vazba": "doc"
+                                "vazba": "doc",
+                                "profil": "marie_josefa_1767"
                               },
                               {
                                 "jmeno": "Maria Antonia Josepha",
                                 "stav": "doc",
                                 "vazba": "doc",
-                                "roky": "* 24. 8. 1769 Vídeň"
+                                "roky": "* 24. 8. 1769 Vídeň",
+                                "profil": "maria_antonia_1769"
                               },
                               {
                                 "jmeno": "Carolus Borromaeus („Karl Jos.“)",
                                 "stav": "doc",
                                 "vazba": "doc",
-                                "roky": "* 29. 4. 1773 Vídeň – † 21. 11. 1783 (?)"
+                                "roky": "* 29. 4. 1773 Vídeň – † 21. 11. 1783 (?)",
+                                "profil": "carolus_borromaeus_1773"
                               }
                             ],
                             "manzel": "× Karolina z Locella († 1805 Koryčany)"
@@ -2004,26 +4993,30 @@
                         "stav": "prob",
                         "vazba": "prob",
                         "roky": "křest 29. 11. 1689",
-                        "pozn": "snad totožná s Johannou Charlottou St…ngerovou (?), rozenou von Gyllar (?), pohřbenou 15. 5. 1747 v Trachenbergu, kde se 1743 ženil její bratr Carl Ludwig – nejisté"
+                        "pozn": "snad totožná s Johannou Charlottou St…ngerovou (?), rozenou von Gyllar (?), pohřbenou 15. 5. 1747 v Trachenbergu, kde se 1743 ženil její bratr Carl Ludwig – nejisté",
+                        "profil": "johanna_1689"
                       },
                       {
                         "jmeno": "Maria Apollonia",
                         "stav": "prob",
                         "vazba": "prob",
-                        "roky": "křest 21. 8. 1691"
+                        "roky": "křest 21. 8. 1691",
+                        "profil": "maria_apollonia_1691"
                       },
                       {
                         "jmeno": "Maria R. Josepha",
                         "stav": "doc",
                         "vazba": "doc",
                         "roky": "křest 17. 3. 1694",
-                        "pozn": "kmotr Maximilian Rudolph Freiherr von Westernach (?), rytíř a komtur řádu německých rytířů"
+                        "pozn": "kmotr Maximilian Rudolph Freiherr von Westernach (?), rytíř a komtur řádu německých rytířů",
+                        "profil": "maria_r_1694"
                       },
                       {
                         "jmeno": "Maria Theresia",
                         "stav": "doc",
                         "vazba": "doc",
-                        "roky": "křest 20. 11. 1695"
+                        "roky": "křest 20. 11. 1695",
+                        "profil": "maria_theresia_1695"
                       },
                       {
                         "jmeno": "Carl Joseph (Joseph Carl) Giller",
@@ -2031,27 +5024,31 @@
                         "vazba": "doc",
                         "roky": "křest 25. 9. 1696 Karlovec",
                         "pozn": "1723 sekretář knížete z Lichtenštejna ve Vídni (Sinapius: v Opavě a Krnově); nezaměňovat s příbuzným Karlem Josefem, pánem Koryčan",
-                        "manzel": "× duben 1723 Vídeň Joanna Magdalena von Mohr z Bolzana"
+                        "manzel": "× duben 1723 Vídeň Joanna Magdalena von Mohr z Bolzana",
+                        "profil": "carl_joseph_1696"
                       },
                       {
                         "jmeno": "Maria Elisabeth",
                         "stav": "doc",
                         "vazba": "doc",
-                        "roky": "křest 23. 2. 1698"
+                        "roky": "křest 23. 2. 1698",
+                        "profil": "maria_elisabeth_1698"
                       },
                       {
                         "jmeno": "Hans Peter",
                         "stav": "doc",
                         "vazba": "doc",
                         "roky": "křest 19. 1. 1699 Karlovec",
-                        "pozn": "v matrice „Hans Peter“ (dříve čteno Hans Wilhelm); nejspíš Johann Peter, roku 1723 praporčík pluku barona Geyera (Sinapius)"
+                        "pozn": "v matrice „Hans Peter“ (dříve čteno Hans Wilhelm); nejspíš Johann Peter, roku 1723 praporčík pluku barona Geyera (Sinapius)",
+                        "profil": "hans_peter_1699"
                       },
                       {
                         "jmeno": "Johann Carl Ludwig",
                         "stav": "doc",
                         "vazba": "doc",
                         "pozn": "1723 dobrovolník v armádě (Sinapius); křest nenalezen; po svatbě se v Trachenbergu už neobjevuje (křty 1743–1749, pohřby 1743–1761)",
-                        "manzel": "× 5. 2. 1743 Trachenberg Johanna Leonora, dcera radního z Winzigu Johanna Carla Eberta (?)"
+                        "manzel": "× 5. 2. 1743 Trachenberg Johanna Leonora, dcera radního z Winzigu Johanna Carla Eberta (?)",
+                        "profil": "johann_carl_1743"
                       },
                       {
                         "jmeno": "Franz Leopold Giller",
@@ -2064,7 +5061,8 @@
                             "jmeno": "Maria Elisabeth",
                             "stav": "doc",
                             "vazba": "doc",
-                            "manzel": "× 7. 9. 1705 Martinus Maximilianus Sefftig (?), hejtman šternberského panství"
+                            "manzel": "× 7. 9. 1705 Martinus Maximilianus Sefftig (?), hejtman šternberského panství",
+                            "profil": "maria_elisabeth_1705"
                           },
                           {
                             "jmeno": "Karel Josef (Johann Karl Joseph) svobodný pán z Gillernů",
@@ -2080,26 +5078,30 @@
                             "stav": "doc",
                             "vazba": "doc",
                             "roky": "křest 27. 2. 1694",
-                            "manzel": "× 18. 1. 1712 Johann Anton Knapp, hejtman v Opavě"
+                            "manzel": "× 18. 1. 1712 Johann Anton Knapp, hejtman v Opavě",
+                            "profil": "anna_rosina_1694"
                           },
                           {
                             "jmeno": "Joanna Theresia",
                             "stav": "doc",
                             "vazba": "doc",
                             "roky": "křest 11. 7. 1697",
-                            "pozn": "snad × 1716 J. S. Schirmer, lesní jezdec ve Šternberku"
+                            "pozn": "snad × 1716 J. S. Schirmer, lesní jezdec ve Šternberku",
+                            "profil": "joanna_theresia_1697"
                           },
                           {
                             "jmeno": "Maria Johanna",
                             "stav": "doc",
                             "vazba": "doc",
-                            "roky": "8. 7. 1706 – † 9. 7. 1706"
+                            "roky": "8. 7. 1706 – † 9. 7. 1706",
+                            "profil": "maria_johanna_1706"
                           },
                           {
                             "jmeno": "Frantz Philipp",
                             "stav": "doc",
                             "vazba": "doc",
-                            "roky": "křest 2. 5. 1709"
+                            "roky": "křest 2. 5. 1709",
+                            "profil": "frantz_philipp_1709"
                           }
                         ],
                         "profil": "franz_leopold"
@@ -2125,25 +5127,29 @@
                             "jmeno": "Johann Christoph (Friedrich)",
                             "roky": "* 1711 Krehlau – † 17. 3. 1719",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "johann_christoph_1711"
                           },
                           {
                             "jmeno": "Carl Wilhelm Vitus",
                             "roky": "* 15. 6. 1714 Krehlau",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "carl_wilhelm_1714"
                           },
                           {
                             "jmeno": "Maria Philippina Francisca",
                             "roky": "* 23. 9. 1715 – † 14. 4. 1718",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_philippina_1715"
                           },
                           {
                             "jmeno": "Maria Josepha Elisabetha",
-                            "roky": "* 22. 4. 1717; kmotra 1736; × asi 1747 Krehlau (ženich čten nejistě – z rodiny radního z Wohlau)",
+                            "roky": "křest 22. 4. 1717; kmotra 1726 a 1736; × asi 1747 Krehlau (ženich nejspíš Philipp August (?) …, radní (?) z Wohlau)",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_josepha_1717"
                           },
                           {
                             "jmeno": "Maximilián Josef Emanuel z Gillernů",
@@ -2199,7 +5205,8 @@
                                                 "roky": "* 30. 6. 1887 Líz",
                                                 "pozn": "rejstřík (tentýž dům, rodiče neuvedeni); 1903 „žákyně Vil. z Gillernů“ (Budivoj, Č. Budějovice)",
                                                 "stav": "doc",
-                                                "vazba": "prob"
+                                                "vazba": "prob",
+                                                "profil": "vilemina_1887"
                                               },
                                               {
                                                 "jmeno": "JUDr. Karel z Gillernů",
@@ -2214,7 +5221,8 @@
                                                     "roky": "studentka 1934–35",
                                                     "pozn": "dívčí reálné gymnázium Krásnohorská v Praze, domov Planá u Mar. Lázní (kde byl Karel okresním hejtmanem) – snad dcera",
                                                     "stav": "lit",
-                                                    "vazba": "nejiste"
+                                                    "vazba": "nejiste",
+                                                    "profil": "ester_gillernova"
                                                   }
                                                 ]
                                               },
@@ -2222,7 +5230,8 @@
                                                 "jmeno": "Marie",
                                                 "roky": "1890 Líz – 1905 Kostelec",
                                                 "stav": "doc",
-                                                "vazba": "doc"
+                                                "vazba": "doc",
+                                                "profil": "marie_1890"
                                               },
                                               {
                                                 "jmeno": "JUDr. Bedřich z Gillernů",
@@ -2257,7 +5266,8 @@
                                                 "jmeno": "Tekla Marie",
                                                 "stav": "doc",
                                                 "roky": "* 1892 Bohostice",
-                                                "vazba": "doc"
+                                                "vazba": "doc",
+                                                "profil": "tekla_marie_1892"
                                               },
                                               {
                                                 "jmeno": "Jan z Gillernů",
@@ -2309,7 +5319,8 @@
                                                     "jmeno": "Jan Gillern",
                                                     "stav": "hyp",
                                                     "pozn": "Olešovice u Kamenice; snad bratr Augustina (údaj od rodiny)",
-                                                    "vazba": "nejiste"
+                                                    "vazba": "nejiste",
+                                                    "profil": "jan_olesovice"
                                                   }
                                                 ]
                                               },
@@ -2317,13 +5328,15 @@
                                                 "jmeno": "Tekla Marie",
                                                 "stav": "doc",
                                                 "roky": "* 1896 Bohostice",
-                                                "vazba": "doc"
+                                                "vazba": "doc",
+                                                "profil": "tekla_marie_1896"
                                               },
                                               {
                                                 "jmeno": "Augustin Vincenc Karel",
                                                 "stav": "doc",
                                                 "roky": "* 1900 Bohostice",
-                                                "vazba": "doc"
+                                                "vazba": "doc",
+                                                "profil": "augustin_1900"
                                               }
                                             ]
                                           },
@@ -2331,7 +5344,8 @@
                                             "jmeno": "Kateřina",
                                             "stav": "doc",
                                             "roky": "* 1862",
-                                            "vazba": "doc"
+                                            "vazba": "doc",
+                                            "profil": "katerina_1862"
                                           }
                                         ]
                                       },
@@ -2339,38 +5353,44 @@
                                         "jmeno": "Jan Křtitel",
                                         "stav": "doc",
                                         "roky": "* 1825 Šebestěnice",
-                                        "vazba": "doc"
+                                        "vazba": "doc",
+                                        "profil": "jan_krtitel_1825"
                                       },
                                       {
                                         "jmeno": "František",
                                         "stav": "doc",
                                         "roky": "* 1827 Šebestěnice",
-                                        "vazba": "doc"
+                                        "vazba": "doc",
+                                        "profil": "frantisek_1827"
                                       },
                                       {
                                         "jmeno": "Kristýna (?)",
                                         "stav": "doc",
                                         "roky": "* 1832 Kostelec n. Vlt.",
-                                        "vazba": "doc"
+                                        "vazba": "doc",
+                                        "profil": "kristyna_1832"
                                       },
                                       {
                                         "jmeno": "Augustin",
                                         "stav": "doc",
                                         "roky": "† 1836 jako kojenec",
-                                        "vazba": "doc"
+                                        "vazba": "doc",
+                                        "profil": "augustin_1836"
                                       },
                                       {
                                         "jmeno": "Karel",
                                         "stav": "doc",
                                         "roky": "† 1838 jako dítě",
-                                        "vazba": "doc"
+                                        "vazba": "doc",
+                                        "profil": "karel_1838"
                                       },
                                       {
                                         "jmeno": "Jindřich Ludvík",
                                         "stav": "doc",
                                         "roky": "* 1840",
                                         "pozn": "z 2. manželství",
-                                        "vazba": "doc"
+                                        "vazba": "doc",
+                                        "profil": "jindrich_ludvik_1840"
                                       }
                                     ]
                                   },
@@ -2378,37 +5398,43 @@
                                     "jmeno": "Anna Rozálie",
                                     "stav": "prob",
                                     "roky": "* 1787 Poděbrady",
-                                    "vazba": "prob"
+                                    "vazba": "prob",
+                                    "profil": "anna_rozalie_1787"
                                   },
                                   {
                                     "jmeno": "Josef Emanuel",
                                     "stav": "doc",
                                     "roky": "* 1789 Býchory",
-                                    "vazba": "doc"
+                                    "vazba": "doc",
+                                    "profil": "josef_emanuel_1789"
                                   },
                                   {
                                     "jmeno": "Marie Anna",
                                     "stav": "doc",
                                     "roky": "* 1791 Býchory",
-                                    "vazba": "doc"
+                                    "vazba": "doc",
+                                    "profil": "marie_anna_1791"
                                   },
                                   {
                                     "jmeno": "Lambert Josef",
                                     "stav": "doc",
                                     "roky": "* 1792 (?) Býchory",
-                                    "vazba": "doc"
+                                    "vazba": "doc",
+                                    "profil": "lambert_1792"
                                   },
                                   {
                                     "jmeno": "Barbora",
                                     "stav": "doc",
                                     "roky": "* 1795 Býchory",
-                                    "vazba": "doc"
+                                    "vazba": "doc",
+                                    "profil": "barbora_1795"
                                   },
                                   {
                                     "jmeno": "Eleonora Barbora",
                                     "stav": "doc",
                                     "roky": "* 1797 Býchory",
-                                    "vazba": "doc"
+                                    "vazba": "doc",
+                                    "profil": "eleonora_barbora_1797"
                                   }
                                 ]
                               },
@@ -2425,32 +5451,37 @@
                                 "jmeno": "Anna … Barbora",
                                 "stav": "doc",
                                 "roky": "* 1750 Bor Bobnický",
-                                "vazba": "doc"
+                                "vazba": "doc",
+                                "profil": "anna_barbora_1750"
                               },
                               {
                                 "jmeno": "Marie Johanna Konstancie",
                                 "stav": "doc",
                                 "roky": "* 1751 Bor Bobnický",
-                                "vazba": "doc"
+                                "vazba": "doc",
+                                "profil": "marie_johanna_1751"
                               },
                               {
                                 "jmeno": "Marie Alžběta Juliána",
                                 "stav": "doc",
                                 "roky": "* 1754 Hradištko",
-                                "vazba": "doc"
+                                "vazba": "doc",
+                                "profil": "marie_alzbeta_1754"
                               },
                               {
                                 "jmeno": "František Ludvík Alexandr",
                                 "stav": "doc",
                                 "roky": "* 1753 Bor Bobnický",
                                 "pozn": "snad „Ludovicus de Gyller“ (1770)",
-                                "vazba": "doc"
+                                "vazba": "doc",
+                                "profil": "frantisek_ludvik_1753"
                               },
                               {
                                 "jmeno": "Marie Terezie",
                                 "stav": "doc",
                                 "roky": "1756–1762",
-                                "vazba": "doc"
+                                "vazba": "doc",
+                                "profil": "marie_terezie_1756"
                               },
                               {
                                 "jmeno": "Marie Eleonora",
@@ -2474,25 +5505,29 @@
                                 "jmeno": "Marie Filipína",
                                 "stav": "doc",
                                 "roky": "* 1759 Kladruby",
-                                "vazba": "doc"
+                                "vazba": "doc",
+                                "profil": "marie_filipina_1759"
                               },
                               {
                                 "jmeno": "Bedřich Rudolf",
                                 "stav": "doc",
                                 "roky": "† 1762 Čelákovice",
-                                "vazba": "doc"
+                                "vazba": "doc",
+                                "profil": "bedrich_rudolf_1762"
                               },
                               {
                                 "jmeno": "Jan Křtitel",
                                 "stav": "doc",
                                 "roky": "* 1761 Kladruby",
-                                "vazba": "doc"
+                                "vazba": "doc",
+                                "profil": "jan_krtitel_1761"
                               },
                               {
                                 "jmeno": "Jan Bedřich",
                                 "stav": "doc",
                                 "roky": "1766 Čelákovský Hrádek",
-                                "vazba": "doc"
+                                "vazba": "doc",
+                                "profil": "jan_bedrich_1766"
                               }
                             ],
                             "popis": "náš předek",
@@ -2502,19 +5537,22 @@
                             "jmeno": "Friedrich Bernhard Anton",
                             "roky": "* 26. 8. 1720 – † 22. 7. 1724",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "friedrich_bernhard_1720"
                           },
                           {
                             "jmeno": "Maria Carolina Friderica",
                             "roky": "* 3/1722 – † 9/1722 (?)",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_carolina_1722"
                           },
                           {
                             "jmeno": "Maria Catharina Theresia",
                             "roky": "* 3. 10. 1723 – † 26. 1. 1724",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_catharina_1723"
                           },
                           {
                             "jmeno": "Johann Friedrich Rudolph (kapitán Friedrich, baron z Gillernů)",
@@ -2530,7 +5568,8 @@
                             "jmeno": "Maria Victoria",
                             "roky": "* 23. 3. 1726",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_victoria_1726"
                           },
                           {
                             "jmeno": "Ernst Heinrich von Gillern",
@@ -2545,19 +5584,22 @@
                             "jmeno": "Maria Catharina Hedwig",
                             "roky": "* 1731",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_catharina_1731"
                           },
                           {
                             "jmeno": "Maria Scholastica",
                             "roky": "* 1733",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_scholastica_1733"
                           },
                           {
                             "jmeno": "Maria Sophia",
                             "roky": "* 1734",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_sophia_1734"
                           }
                         ],
                         "nase": true,
@@ -2597,19 +5639,22 @@
                             "jmeno": "Maria Carolina",
                             "roky": "kmotra 1722, 1724",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_carolina_1722_2"
                           },
                           {
                             "jmeno": "Maria Anna Ludovica (?)",
                             "roky": "* 12. 4. 1718 Preichau",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_anna_1718"
                           },
                           {
                             "jmeno": "Maria Barbara Francisca",
                             "roky": "* 3. 10. 1721 Preichau",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_barbara_1721"
                           }
                         ],
                         "profil": "johann_christoph"
@@ -2626,50 +5671,58 @@
                             "jmeno": "Christoph Franz Gregor",
                             "roky": "* 12. 3. 1716 – † 20. 4. 1718",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "christoph_franz_1716"
                           },
                           {
                             "jmeno": "Maria Anna Johanna Victoria",
                             "roky": "* 11. 5. 1717",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_anna_1717"
                           },
                           {
                             "jmeno": "Johann Heinrich Ferdinand",
                             "roky": "* 25. 6. 1718 – † 12. 12. 1718",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "johann_heinrich_1718"
                           },
                           {
                             "jmeno": "Maria Elisabeth Apolonia",
                             "roky": "* 24. 9. 1719 – † 27. 10. 1719",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_elisabeth_1719"
                           },
                           {
                             "jmeno": "Anna Josepha Francisca",
                             "roky": "* 10. 3. 1721 – † 28. 5. 1724",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "anna_josepha_1721"
                           },
                           {
                             "jmeno": "Maria Barbara Susanna",
                             "roky": "* 24. 5. 1722",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "maria_barbara_1722"
                           },
                           {
                             "jmeno": "Friedrich Joseph Wilhelm",
                             "roky": "* 29. 2. 1724",
                             "stav": "doc",
-                            "vazba": "doc"
+                            "vazba": "doc",
+                            "profil": "friedrich_joseph_1724"
                           },
                           {
                             "jmeno": "Maria Hedwig (?)",
                             "stav": "prob",
                             "vazba": "doc",
                             "roky": "křest 2?. 10. 1725",
-                            "pozn": "zápis rozpitý, jméno nejisté"
+                            "pozn": "zápis rozpitý, jméno nejisté",
+                            "profil": "maria_hedwig_1725"
                           }
                         ],
                         "profil": "franz_joseph"
@@ -2678,7 +5731,8 @@
                         "jmeno": "Anna Regina",
                         "stav": "doc",
                         "vazba": "doc",
-                        "roky": "křest 10. 6. 1690 Preichau"
+                        "roky": "křest 10. 6. 1690 Preichau",
+                        "profil": "anna_regina_1690"
                       }
                     ],
                     "id": "ch",
@@ -2712,13 +5766,15 @@
                 "jmeno": "Elisabeth",
                 "stav": "prob",
                 "vazba": "prob",
-                "manzel": "× 15. 11. 1688 Michael Titz (?)"
+                "manzel": "× 15. 11. 1688 Michael Titz (?)",
+                "profil": "elisabeth_1688"
               },
               {
                 "jmeno": "Anna",
                 "stav": "prob",
                 "vazba": "prob",
-                "manzel": "× 15. 11. 1689 Hans Georg Klebl (?)"
+                "manzel": "× 15. 11. 1689 Hans Georg Klebl (?)",
+                "profil": "anna_1689"
               },
               {
                 "jmeno": "Christian Giller ml.",
@@ -2732,13 +5788,15 @@
                     "jmeno": "Maria Elisabeth",
                     "stav": "doc",
                     "vazba": "doc",
-                    "roky": "křest 30. 11. 1709"
+                    "roky": "křest 30. 11. 1709",
+                    "profil": "maria_elisabeth_1709"
                   },
                   {
                     "jmeno": "Anna Maria",
                     "stav": "prob",
                     "vazba": "prob",
-                    "roky": "1711–1713"
+                    "roky": "1711–1713",
+                    "profil": "anna_maria_1711"
                   },
                   {
                     "jmeno": "Joannes Caspar Giller",
@@ -2752,37 +5810,45 @@
                         "jmeno": "Anna Maria",
                         "stav": "prob",
                         "vazba": "prob",
-                        "manzel": "× 1770 Franz Kolbe, tkadlec"
+                        "manzel": "× 1770 Franz Kolbe, tkadlec",
+                        "profil": "anna_maria_1770"
                       },
                       {
                         "jmeno": "Carl Joseph",
                         "stav": "prob",
                         "vazba": "prob",
-                        "roky": "† 1759"
+                        "roky": "† 1759",
+                        "profil": "carl_joseph_1759"
                       },
                       {
                         "jmeno": "Maria Magdalena",
                         "stav": "prob",
                         "vazba": "prob",
-                        "roky": "† 1762"
+                        "roky": "† 1762",
+                        "profil": "maria_magdalena_1762"
                       },
                       {
                         "jmeno": "dcera",
                         "stav": "prob",
                         "vazba": "prob",
-                        "roky": "† 1763"
+                        "roky": "† 1763",
+                        "profil": "dcera_1763"
                       }
-                    ]
+                    ],
+                    "profil": "joannes_caspar_1713"
                   },
                   {
                     "jmeno": "Anna Rosina",
                     "stav": "doc",
                     "vazba": "doc",
-                    "roky": "1716"
+                    "roky": "1716",
+                    "profil": "anna_rosina_1716"
                   }
-                ]
+                ],
+                "profil": "christian_ml_1681"
               }
-            ]
+            ],
+            "profil": "christian_st_1643"
           },
           {
             "jmeno": "Franciscus (Franz Leopold ?) Giller",
@@ -2796,50 +5862,58 @@
                 "jmeno": "Rosalia",
                 "stav": "prob",
                 "vazba": "prob",
-                "roky": "1712–1714"
+                "roky": "1712–1714",
+                "profil": "rosalia_1712"
               },
               {
                 "jmeno": "Anna Maria",
                 "stav": "prob",
                 "vazba": "prob",
-                "roky": "křest 6. 5. 1714"
+                "roky": "křest 6. 5. 1714",
+                "profil": "anna_maria_1714"
               },
               {
                 "jmeno": "Johanna Theresia",
                 "stav": "prob",
                 "vazba": "prob",
-                "roky": "křest 24. 6. 1716"
+                "roky": "křest 24. 6. 1716",
+                "profil": "johanna_theresia_1716"
               },
               {
                 "jmeno": "Jan Karel Giller",
                 "stav": "prob",
                 "vazba": "prob",
                 "roky": "křest 26. 9. 1718 – † 19. 6. 1769",
-                "pozn": "farář ve Dvorcích, pohřben v kryptě kostela"
+                "pozn": "farář ve Dvorcích, pohřben v kryptě kostela",
+                "profil": "jan_karel_1718"
               },
               {
                 "jmeno": "Magdalena",
                 "stav": "doc",
                 "vazba": "doc",
-                "roky": "křest 9. 2. 1721"
+                "roky": "křest 9. 2. 1721",
+                "profil": "magdalena_1721"
               },
               {
                 "jmeno": "Jan Filip",
                 "stav": "prob",
                 "vazba": "prob",
-                "roky": "1723–1727"
+                "roky": "1723–1727",
+                "profil": "jan_filip_1723"
               },
               {
                 "jmeno": "Maria Elisabeth",
                 "stav": "doc",
                 "vazba": "doc",
-                "roky": "křest 17. 10. 1725"
+                "roky": "křest 17. 10. 1725",
+                "profil": "maria_elisabeth_1725"
               },
               {
                 "jmeno": "Josef",
                 "stav": "prob",
                 "vazba": "prob",
-                "roky": "1728–1749"
+                "roky": "1728–1749",
+                "profil": "josef_1728"
               },
               {
                 "jmeno": "Augustin Giller",
@@ -2853,43 +5927,51 @@
                     "jmeno": "Maria Theresia",
                     "stav": "doc",
                     "vazba": "doc",
-                    "roky": "† 1757"
+                    "roky": "† 1757",
+                    "profil": "maria_theresia_1757"
                   },
                   {
                     "jmeno": "Anna Rosa",
                     "stav": "prob",
                     "vazba": "prob",
-                    "roky": "† 1766"
+                    "roky": "† 1766",
+                    "profil": "anna_rosa_1766"
                   },
                   {
                     "jmeno": "Jan",
                     "stav": "prob",
                     "vazba": "prob",
-                    "roky": "† 1774"
+                    "roky": "† 1774",
+                    "profil": "jan_1774"
                   },
                   {
                     "jmeno": "Magdalena",
                     "stav": "doc",
                     "vazba": "doc",
-                    "manzel": "× 1781 Josef Müller, pekař"
+                    "manzel": "× 1781 Josef Müller, pekař",
+                    "profil": "magdalena_1781"
                   },
                   {
                     "jmeno": "Jan Giller",
                     "stav": "prob",
                     "vazba": "prob",
                     "roky": "tkadlec",
-                    "manzel": "× 1783 Magdalena Altman"
+                    "manzel": "× 1783 Magdalena Altman",
+                    "profil": "jan_1783"
                   },
                   {
                     "jmeno": "Ignác Leopold Giller",
                     "stav": "doc",
                     "vazba": "doc",
                     "roky": "křest 12. 7. 1771 Dvorce č. 15",
-                    "pozn": "správce (Verwalter) statku Doloplazy u Olomouce, doložen 1803–1807; × 8. 2. 1803 Tršice Anna Schanzová ze Dzbelu (?); děti Ignác Leopold (1803–1805) a Anna Amálie Leopoldina (1805). V soudním sporu 1822–1826 (moravskoslezské zemské právo, spis 233) vystupuje jako „Ignác Giller v. Lilienfeld na Doloplazích“ – měšťanský rod ze Dvorců se tedy hlásil k opavským Gillerům z Lilienfeldu. Kmotrem z roku 1784 („Ignác z Gillernů ze Slezska“) být nemohl – bylo mu 13 let."
+                    "pozn": "správce (Verwalter) statku Doloplazy u Olomouce, doložen 1803–1807; × 8. 2. 1803 Tršice Anna Schanzová ze Dzbelu (?); děti Ignác Leopold (1803–1805) a Anna Amálie Leopoldina (1805). V soudním sporu 1822–1826 (moravskoslezské zemské právo, spis 233) vystupuje jako „Ignác Giller v. Lilienfeld na Doloplazích“ – měšťanský rod ze Dvorců se tedy hlásil k opavským Gillerům z Lilienfeldu. Kmotrem z roku 1784 („Ignác z Gillernů ze Slezska“) být nemohl – bylo mu 13 let.",
+                    "profil": "ignac_leopold_1771"
                   }
-                ]
+                ],
+                "profil": "augustin_1733"
               }
-            ]
+            ],
+            "profil": "franciscus_1683"
           },
           {
             "jmeno": "František Giller ml.",
@@ -2902,21 +5984,25 @@
                 "jmeno": "Maria Johanna",
                 "stav": "prob",
                 "vazba": "prob",
-                "roky": "křest 30. 10. 1726"
+                "roky": "křest 30. 10. 1726",
+                "profil": "maria_johanna_1726"
               },
               {
                 "jmeno": "Jan František",
                 "stav": "prob",
                 "vazba": "prob",
-                "roky": "křest 29. 7. 1729"
+                "roky": "křest 29. 7. 1729",
+                "profil": "jan_frantisek_1729"
               }
-            ]
+            ],
+            "profil": "frantisek_ml_1725"
           },
           {
             "jmeno": "Další Gillerové ve Dvorcích a okolí",
             "stav": "prob",
             "vazba": "nejiste",
-            "pozn": "Karel × 1716 Rosina; Jan z …dorfu × 1715 Maria Elisabeth Müller (Karlovec); Ondřej (svědek 1716); Jan Giller, kaplan v Reigersdorfu (1755); Jan Bedřich Giller z Roudna (svědek 1757)"
+            "pozn": "Karel × 1716 Rosina; Jan z …dorfu × 1715 Maria Elisabeth Müller (Karlovec); Ondřej (svědek 1716); Jan Giller, kaplan v Reigersdorfu (1755); Jan Bedřich Giller z Roudna (svědek 1757)",
+            "profil": "dalsi_gillerove"
           }
         ],
         "mimo": true
@@ -2937,7 +6023,8 @@
                 "stav": "lit",
                 "vazba": "nejiste",
                 "roky": "* 1578 Opava – † 1618 Opava",
-                "pozn": "doktor filozofie a medicíny (Basilej 1604), lékař Karla st. ze Žerotína; vztah k Matoušovi neznámý"
+                "pozn": "doktor filozofie a medicíny (Basilej 1604), lékař Karla st. ze Žerotína; vztah k Matoušovi neznámý",
+                "profil": "lukas_lilienfeld"
               },
               {
                 "jmeno": "Matyáš Giller z Lilienfeldu",
@@ -2950,16 +6037,19 @@
                     "jmeno": "Benedikt Josef Giller z Lilienfeldu",
                     "stav": "doc",
                     "vazba": "lit",
-                    "pozn": "lékárník v Krnově; v krnovské matrice „Benedictus Ignatius Giller“ (písaři též Diller), × Zuzana; děti pokřtěné v Krnově: Anna Zuzana (asi 7. 1. 1646), Gotfried Benedikt (26. 3. 1648), Anna Rosina (4. 8. 1650), Jan Kryštof (18. 4. 1652) a Anna Rosina (60. léta ?)"
+                    "pozn": "lékárník v Krnově; v krnovské matrice „Benedictus Ignatius Giller“ (písaři též Diller), × Zuzana; děti pokřtěné v Krnově: Anna Zuzana (asi 7. 1. 1646), Gotfried Benedikt (26. 3. 1648), Anna Rosina (4. 8. 1650), Jan Kryštof (18. 4. 1652) a Anna Rosina (60. léta ?)",
+                    "profil": "benedikt_lilienfeld"
                   },
                   {
                     "jmeno": "Ignác Giller",
                     "stav": "lit",
                     "vazba": "nejiste",
                     "roky": "17. století",
-                    "pozn": "uvádí Zukal; v krnovských matrikách 1640–1674 jako otec není – snad jde o druhé jméno Benedikta („Benedictus Ignatius“)"
+                    "pozn": "uvádí Zukal; v krnovských matrikách 1640–1674 jako otec není – snad jde o druhé jméno Benedikta („Benedictus Ignatius“)",
+                    "profil": "ignac_lilienfeld"
                   }
-                ]
+                ],
+                "profil": "matyas_lilienfeld"
               }
             ]
           }
@@ -2975,7 +6065,8 @@
             "stav": "lit",
             "roky": "1673–1727",
             "pozn": "důstojník, major pevnosti Cheb, rytířský stav 1703, uherský baron 1707; od 1715 statky v Taunusu. Jak je spřízněn s ostatními Gillery, nevíme (dřívější domněnka, že byl otcem Maximiliána, padla – Maximilián byl syn Carla Heinricha).",
-            "manzel": "× 1704 Eleonore von Cronberg"
+            "manzel": "× 1704 Eleonore von Cronberg",
+            "profil": "frantisek_mikulas"
           },
           {
             "jmeno": "Pruští svobodní páni z Gillernů (Goldberg, Štětín)",
@@ -3011,7 +6102,8 @@
                             "stav": "lit",
                             "vazba": "lit",
                             "roky": "* 23. 2. 1884 Berlín – † 15. 1. 1944 Magdeburg",
-                            "pozn": "spolumajitel zbrojovky Polte v Magdeburku"
+                            "pozn": "spolumajitel zbrojovky Polte v Magdeburku",
+                            "profil": "arnulf"
                           }
                         ]
                       }
@@ -3020,9 +6112,11 @@
                     "manzel": "× Marie Lutze (1829–1877)",
                     "pozn": "penzista ve Štětíně, evangelík"
                   }
-                ]
+                ],
+                "profil": "moritz_eduard"
               }
-            ]
+            ],
+            "profil": "prusove"
           },
           {
             "jmeno": "Pruští Gillernové 18.–20. století",
@@ -3034,14 +6128,16 @@
             "jmeno": "Vídeňská větev",
             "stav": "lit",
             "roky": "19.–20. století",
-            "pozn": "chemik Karl Gillern (1895–1971). Malíř Joseph Edward z Gillernů (1794–1845) se podle Wikipedie narodil ve Wanowitz u Hlubčic v pruském Slezsku (otec Johann, úředník) – patří spíš ke slezským Gillernům (neověřeno)"
+            "pozn": "chemik Karl Gillern (1895–1971). Malíř Joseph Edward z Gillernů (1794–1845) se podle Wikipedie narodil ve Wanowitz u Hlubčic v pruském Slezsku (otec Johann, úředník) – patří spíš ke slezským Gillernům (neověřeno)",
+            "profil": "videnska_vetev"
           },
           {
             "jmeno": "Franz Anton Gillern",
             "roky": "1744–1746",
             "pozn": "praporčík „z civilu“ 1744, poručík, 1746 rezignoval – pěší pluk č. 15 (tehdy v Itálii), týž pluk jako kapitán Bedřich (Rona 1901, s. 98)",
             "stav": "lit",
-            "vazba": "lit"
+            "vazba": "lit",
+            "profil": "franz_anton"
           },
           {
             "jmeno": "Ignác z Gillernů „ve Slezsku“",
@@ -3049,7 +6145,8 @@
             "roky": "1784 ve Slezsku",
             "pozn": "1784 kmotr (v zastoupení) Maximiliánova vnuka, „in Silesia Incola M…“; údaj novin 1928 o lesníkovi a sňatku s Rosálií Kroužkovou matriky nepotvrzují (spíš záměna s vojákem Josefem Gillarem); roku 1738 byl v Krehlau kmotrem „Tit. Herr Ignatius Antonius Giller“, nejspíš šafář vrchnosti na Hammeru – možná týž člověk nebo jeho příbuzný",
             "vazba": "nejiste",
-            "popis": "příbuzný?"
+            "popis": "příbuzný?",
+            "profil": "ignac_slezsko"
           }
         ],
         "mimo": true

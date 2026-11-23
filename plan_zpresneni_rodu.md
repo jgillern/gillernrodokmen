@@ -322,8 +322,8 @@ Jan: tři témata jsou jedna otázka – odkud rod pochází a jak spolu souvis�
 
 | # | Krok | Kdo | Stav |
 |---|---|---|---|
-| L1 | Krehlau DGS 8244728: snímky 459 (10/1725), 457–458 a 463–467 (1725–1729, rozpité) stáhnout v plném rozlišení (Jan potvrdí každé stažení) → já úprava kontrastu a čtení: pohlaví a jméno dítěte z 10/1725, děti Carla Heinricha 1726–1729, jakýkoli otec Giller (Ignatius) | lokální Claude (`zadani_lokalni_franz_anton_krehlau.md`, úkol 1) + já | zadáno |
-| L2 | Krehlau sňatky 1715–1736 a pohřby 1725–1760: sňatek Ignatia Antonia Gillera, pohřeb Franze Antona / Franze Josepha | lokální Claude (tamtéž, úkoly 2–3) | zadáno |
+| L1 | Krehlau DGS 8244728: snímky 459 (10/1725), 457–458 a 463–467 (1725–1729, rozpité) stáhnout v plném rozlišení (Jan potvrdí každé stažení) → já úprava kontrastu a čtení: pohlaví a jméno dítěte z 10/1725, děti Carla Heinricha 1726–1729, jakýkoli otec Giller (Ignatius) | lokální Claude (`zadani_lokalni_franz_anton_krehlau.md`, úkol 1) + já | log 684: dítě 10/1725 = Maria Hedwig (dcera) → hypotéza padla; NOVĚ kmotr 1727 „junge Herr vom Hammer Alexander von Giller“, křest 31. 8. 1728 (Jan Nepomuk ?) dítěte Carla Heinricha; čeká se na ZIP 1–4 k ověření |
+| L2 | Krehlau sňatky 1715–1736 a pohřby 1725–1760: sňatek Ignatia Antonia Gillera, pohřeb Franze Antona / Franze Josepha | lokální Claude (tamtéž, úkoly 2–3) | log 684: sňatky 1715–1735 bez Gillera; pohřby 1736–1780 jen v indexu FS (DGS 7769311) – „Gill“ 1738, „Gillin“ 1739 otevřít |
 | L3 | (Pokud L1 nerozhodne) Krehlau pohřby a sňatky 1746–1759 jsou v objednávce AAWr jen částečně – Franz Anton po odchodu z armády 1746? | AAWr | volitelné |
 
 **František Mikuláš (Franz Niklas) Giller** (* 1673; 1703 major pevnosti Cheb, říšský rytířský stav 7. 2. 1703 – RAA 143.32, bez „von“, bez digitalizátu; 1707 uherský svobodný pán a magnát; × 1704 Eleonore v. Cronberg; od 1715 Taunus; † 1727).
@@ -351,3 +351,5 @@ Dosud ho nikdo cíleně nehledal. Víme (Gotha 1884): císařský podplukovník 
 | K8d | Olomoucké biskupství – lenní knihy / manský soud (Deschna 1622–1690), literatura o Huttendorfech a Scherzích; „Jan Arnošt Giller“, purkrabí biskupa v Kroměříži 1688 | já (literatura online) | |
 | K8e | Tschammer – rodová historie (archive.org 11747757bsb) znovu: dcera provdaná za Gillera (asi 1600–1625) | já | |
 | K8f | „říšský stav 1654“ – Frank, Standeserhebungen (Google Books snippet po obnovení kvóty), GHdA Adelslexikon IV s. 118 | já | |
+| L8 | **Index FamilySearch k DGS 7769311 / 8018561 (Krehlau 1736–1780, i pohřby)**: otevřít záznamy „Gill“ (pohřeb 1738) a „Gillin“ (1739); hledat pohřby Carla Heinricha (1752), Cathariny Nerlich, Franze Josepha, Ignatia, Alexandra, Franze Antona i pod tvary Giler, Gieler, Güller, Gyller, Killer, Hiller; křty 1736–1750 s otcem Giller* | lokální Claude (index – snímky zamčené) | |
+| L9 | **Alexander von Giller** („junge Herr vom Hammer“, kmotr 1727): křest asi 1708–1714 (Krehlau 1711–1714 projít znovu souvisle, Preichau, Nisa), další stopy (pluky, Sinapius 1728) | lokální Claude + já | |

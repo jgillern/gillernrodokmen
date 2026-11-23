@@ -1,4 +1,4 @@
-# E-mail pro Arcidiecézní archiv ve Vratislavi (AAWr) – koncept v Janově Gmailu, NEODESLÁNO (verze 4, 23. 11. 2026: po etapách, bez příloh, bez adresy a telefonu)
+# E-mail pro Arcidiecézní archiv ve Vratislavi (AAWr) – ODESLÁNO 23. 11. 2026 z Janova Gmailu (vlákno 1a20846715143661) (verze 4, 23. 11. 2026: po etapách, bez příloh, bez adresy a telefonu)
 
 **Komu:** archiwum@tumwroc.pl (tel. +48 71 327 11 50; pl. Katedralny 5a, 50-329 Wrocław; sekretariát po–pá 9–14).
 **Přílohy:** žádné (Jan 23. 11. 2026). Snímky z mikrofilmu k identifikaci stran jsou připravené v `pracovni/aawr/Krzelow_mikrofilm_zrzuty.zip`, kdyby o ně archiv požádal. Otázka na starší knihu 1692–1736 vypuštěna – netýká se Maximiliána ani Josefa.

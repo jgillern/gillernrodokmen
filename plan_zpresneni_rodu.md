@@ -276,7 +276,7 @@ Revize v `revize_maximilian3_fable.md` (log 644). Josefův rok narození stojí 
 ## Další kroky mimo Maximiliána a Josefa (22. 11. 2026, Jan: rozjet 1, 3, 4, 5 + hloubka rodu)
 | # | Krok | Kdo | Stav |
 |---|---|---|---|
-| I1 | A5 – rodiče Cathariny Barbary Eleonory Nerlich (Nisa, křty 1680–1700, Andreas Nerlich) | lokální Claude (`zadani_familysearch_kolo10_nerlich.md`) | |
+| I1 | A5 – rodiče Cathariny Barbary Eleonory Nerlich (Nisa, křty 1680–1700, Andreas Nerlich) | lokální Claude (`zadani_familysearch_kolo10_nerlich.md`) | ✔ log 675: Andreas nenalezen (sňatky 1675–1690, pohřby 1700–1730); pohřeb kancléře Antona 1731 a jeho synka 1724; zbývají křty 1680–1700 |
 | I2 | Sourozenci Maximiliána (Carl Wilhelm Vitus * 1714, sestry, Franz Anton) + pruští baroni (FW v. Gillern × Rochow Lehnice 1793–98 = syn Ernsta Heinricha?; Moritz Eduard Alexander × Hinke 1827) | lokální Claude (`zadani_familysearch_kolo11_sourozenci_prusove.md`) | |
 | I3 | F13 | já | ✔ log 655 |
 | I4 | **Hloubka rodu – předci Heinricha Christofa:** Opava Op I 1 křty 1644–1653 souvisle, sňatky 1638–1646, pohřby; Krnov Kr I 1; Osoblaha (Bartschové) | lokální Claude (`zadani_lokalni_predci_heinrich_christof.md`) | |

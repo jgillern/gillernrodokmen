@@ -3040,5 +3040,17 @@
   ],
   "status": "ok",
   "note": "Kmotr Tit. Herr Ignatius Antonius Giller"
+ },
+ "z_1731_nisa_nerlich_anton": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "Pohřeb kancléře Antona von Nerlich"
  }
 }

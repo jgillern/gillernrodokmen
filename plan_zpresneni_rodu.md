@@ -27,6 +27,7 @@ Platí jen tato tabulka. Všechno pod čarou „ARCHIV“ je historie kroků (ho
 | 16 | 2 | Olomouc 1620–1642 (Matyáš), Wrede III/2 obraz strany (pluk Wrbna), Tschammer | FS, archive.org | L, C | po krocích 5, 8, 9 |
 | 17 | 1 | Mužstvo pluku č. 15 v lednu 1745 | FS DGS 7607065 | L | jen zbude-li čas |
 | 18 | – | Pruští baroni (kolo 11 B), vídeňská větev, Cheb plošně | – | – | odloženo (jména vypadnou z kroku 2) |
+| 19 | 1 | **Josef 1750–1784 (log 701):** kde byl, než se 1784/85 objevil v Poděbradech. Hypotézy: A voják (~45 %), B myslivecký pomocník na cizích panstvích (~25 %), C vyrůstal / žil ve Slezsku (~20 %). Online testy: (1) Poděbrady křty 11843 (1772–1784) souvisle – Gillerové jako kmotři/svědci; (2) ANNO 1755–1790 „Gillern / Giller / von Giller“ (povýšení, vojsko, lesníci); (3) církevní knihy pluku č. 15 od 1768 (FS katalog); (4) Kladruby a Čelákovice 1757–1766 – Josef jako kmotr? Offline (zásobník): penzijní spis vdovy Anny 1799, služební tabely panství Kolín/Poděbrady | eBadatelna, ANNO, FS | L | návrh |
 
 **Přestat:** plošně číst film Krehlau 1935; plánovat plošnou etapu 2 v AAWr; hledat v rejstřících bez předložky a psát to jako negativní; F. Mikuláše přes Uhry, ANNO a Wikipedii (jen krok 13); přidávat na web údaje z Wikipedie bez označení; další pražské farnosti, zbytky komorních panství, Krnov 1740–1749 (J6), Terezie; nadpisy „vyčerpáno“.
 

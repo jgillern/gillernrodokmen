@@ -296,3 +296,15 @@ Revize v `revize_maximilian4_fable.md` (log 665). „Pominecz“ = „homines Li
 | J7 | Pluk č. 15, přehlídka 29. 1. 1745 – mužstvo všech setnin (Friedrich, Maximilián) | lokální Claude | nízká priorita |
 
 **Přestat:** Pominecz, další čtení Trachenbergu kvůli H10, pluky naslepo, zbytky komorních panství, Terezie samostatně.
+
+## Původ rodu – předci Heinricha Christofa, Gillerové z Lilienfeldu, dvorečtí měšťané (23. 11. 2026)
+Jan: tři témata jsou jedna otázka – odkud rod pochází a jak spolu souvisí tři skupiny Gillerů 17. století na Opavsku, Krnovsku a Bruntálsku: (a) naše linie od podplukovníka Heinricha Christofa (vojáci, později Slezsko), (b) opavsko-krnovští Gillerové z Lilienfeldu (lékaři, lékárník; erb 1568), (c) měšťané ve Dvorcích (od 1688; jména Christian, Benedikt, Ignác; v 19. stol. „v. Lilienfeld“). Pojítka: téměř shodný erb (Gillern = erb Lilienfeld + srdeční štítek, Der mährische Adel 1899), FW I. 1687–1699 v Karlovci hned u Dvorců, jména Benedikt a Ignác v Krnově i ve Dvorcích, Karel Josef 1721 „potvrzení“ šlechtictví. Klíčový bod: **krnovský lékárník Benedikt (Ignác/Josef) Giller z Lilienfeldu × Zuzana, děti 1646–1652+ (log 671 – agent četl „Diller“)**.
+
+| # | Krok | Kdo | Stav |
+|---|---|---|---|
+| K1 | Krnov vol. 807 (FS 5398576): přezkoumat čtení Diller/Giller (G v „Gotfried“ 1648); rejstřík otců M (Matthias), I (Ignatius), ostatní písmena „-iller“; křty 1640–1645 (děti Matyáše, Christian * asi 1643 → Dvorce?) a 1652–1674 (děti Benedikta, Ignác, kmotři); pohřby/sňatky Krnov v katalogu | lokální Claude (pokračování Opava předci, kolo 5) | |
+| K2 | Opava Op I 1 křty 1627–1643 (Matyáš z Lilienfeldu a rodina jako rodiče/kmotři; Voltin/Anna ?iller – srovnání písma) | lokální Claude | |
+| K3 | Literatura: Zukal, Troppauer Ärztewesen (1910/11); Tesař, Kostelní urbář Opavy 1652; Frank, Standeserhebungen (Giller 1700, 1721, 1726, 1727, 1732 – „Bestätigung“ = vazba na 1568?); Doerr | já (archive.org, ČDK) + NDK lokální Claude | |
+| K4 | Opava pohřby 1665–1670 (vol. 12) – Heinrich Christoph | lokální Claude | nízká priorita |
+| K5 | Olomouc 1620–1642 (Matyáš městským lékařem) – matriky sv. Mořic / sv. Václav (FS kopie?) | lokální Claude | po K1 |
+| K6 | Revize Fable „původ rodu“ po K1–K3 | Fable | |

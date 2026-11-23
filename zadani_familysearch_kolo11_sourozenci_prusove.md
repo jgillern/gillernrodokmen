@@ -40,6 +40,12 @@ Hledej:
 4. sňatek 1827 Goldberg (Gillern × Hinke) – jméno a rodiče ženicha, jeho věk a rodiště;
 5. úmrtí Friedricha Wilhelma von Gillern (Lehnice / Goldberg, 1800–1840) a Ernsta Heinricha (1792, Königsberg ?).
 
+## Část C – drobnosti k Maximiliánovi (nakonec)
+1. **Ignatius Antonius Giller** – roku 1738 kmotr v Krehlau jako „Tit. Herr … der Gnädigen Herrschafft …“, nejspíš úředník (šafář) vrchnosti na Hammeru. Jmenné hledání 1700–1800 (Slezsko, Čechy): křest, sňatek, úmrtí, děti. Je to „Ignatius de Gillern in Silesia“, který byl roku 1784 kmotrem v Poděbradech?
+2. **Manžel sestry Marie Josefy Alžběty** (sňatek asi 24. 11. 1747 Krehlau; ženich čten „Philipp August (?) …“, snad radní z Wohlau): jmenné hledání křtů jejich dětí 1748–1760 (matka Maria Josepha geb. von Giller).
+3. **Prausnitz (Prusice), film DGS 8245413, sňatky 1746–1749** (asi snímky 185–205) – v kole 12 nedočteno: každý Giller; každý ženich „Jäger“ s titulem „Herr“; nevěsta Johanna s ženichem „von“.
+
 Na konci krátké shrnutí:
 - co se stalo se sourozenci;
+- kdo byl Ignatius Antonius Giller a manžel Marie Josefy; výsledek Prausnitz 1746–1749;
 - zda je Friedrich Wilhelm (Lehnice) synem Ernsta Heinricha a zda je Moritz Eduard Alexander synem Friedricha Wilhelma.

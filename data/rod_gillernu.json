@@ -2948,15 +2948,16 @@
                 "deti": [
                   {
                     "jmeno": "Benedikt Josef Giller z Lilienfeldu",
-                    "stav": "lit",
+                    "stav": "doc",
                     "vazba": "lit",
-                    "pozn": "lékárník v Krnově"
+                    "pozn": "lékárník v Krnově; v krnovské matrice „Benedictus Ignatius Giller“ (písaři též Diller), × Zuzana; děti pokřtěné v Krnově: Anna Zuzana (asi 7. 1. 1646), Gotfried Benedikt (26. 3. 1648), Anna Rosina (4. 8. 1650), Jan Kryštof (18. 4. 1652) a Anna Rosina (60. léta ?)"
                   },
                   {
                     "jmeno": "Ignác Giller",
                     "stav": "lit",
-                    "vazba": "lit",
-                    "roky": "17. století"
+                    "vazba": "nejiste",
+                    "roky": "17. století",
+                    "pozn": "uvádí Zukal; v krnovských matrikách 1640–1674 jako otec není – snad jde o druhé jméno Benedikta („Benedictus Ignatius“)"
                   }
                 ]
               }

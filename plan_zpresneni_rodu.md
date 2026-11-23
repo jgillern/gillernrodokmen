@@ -303,7 +303,7 @@ Jan: tři témata jsou jedna otázka – odkud rod pochází a jak spolu souvis�
 
 | # | Krok | Kdo | Stav |
 |---|---|---|---|
-| K1 | Krnov vol. 807 (FS 5398576): přezkoumat čtení Diller/Giller (G v „Gotfried“ 1648); rejstřík otců M (Matthias), I (Ignatius), ostatní písmena „-iller“; křty 1640–1645 (děti Matyáše, Christian * asi 1643 → Dvorce?) a 1652–1674 (děti Benedikta, Ignác, kmotři); pohřby/sňatky Krnov v katalogu | lokální Claude (pokračování Opava předci, kolo 5) | |
+| K1 | Krnov vol. 807 (FS 5398576): přezkoumat čtení Diller/Giller (G v „Gotfried“ 1648); rejstřík otců M (Matthias), I (Ignatius), ostatní písmena „-iller“; křty 1640–1645 (děti Matyáše, Christian * asi 1643 → Dvorce?) a 1652–1674 (děti Benedikta, Ignác, kmotři); pohřby/sňatky Krnov v katalogu | lokální Claude (pokračování Opava předci, kolo 5) | ✔ log 677: Benedikt = Giller (G ve dvou zápisech 1648), 5 dětí 1646–60. léta; Matyáš v Krnově jako otec není; zbývá Krnov 1652–1674 (kmotři) a pohřby od 1658 |
 | K2 | Opava Op I 1 křty 1627–1643 (Matyáš z Lilienfeldu a rodina jako rodiče/kmotři; Voltin/Anna ?iller – srovnání písma) | lokální Claude | |
 | K3 | Literatura: Zukal, Troppauer Ärztewesen (1910/11); Tesař, Kostelní urbář Opavy 1652; Frank, Standeserhebungen (Giller 1700, 1721, 1726, 1727, 1732 – „Bestätigung“ = vazba na 1568?); Doerr | já (archive.org, ČDK) + NDK lokální Claude | |
 | K4 | Opava pohřby 1665–1670 (vol. 12) – Heinrich Christoph | lokální Claude | nízká priorita |

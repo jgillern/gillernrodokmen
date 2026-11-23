@@ -1,7 +1,7 @@
 # E-mail do Národního archivu (Praha) – návrh, verze 1 (24. 11. 2026)
 
 **Komu:** posta@na.gov.cz
-**Stav:** koncept v Gmailu (draft r-6840277585107811200), NEODESLÁNO – čeká na Janovo schválení.
+**Stav:** ODESLÁNO 24. 11. 2026 (Gmail, vlákno 1a20a30e6b4a0599) – čeká se na odpověď.
 
 ---
 

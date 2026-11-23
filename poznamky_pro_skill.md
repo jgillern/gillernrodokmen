@@ -97,3 +97,6 @@ Uživatel opakovaně (asi 20×) slyšel, že něco „z domova neposuneme“, a 
 
 ## Web: žádný deník v profilech (23. 11. 2026, Jan opakovaně)
 Do textů na webu (profily, poznámky u osob, fakta) asistent opakovaně psal deníkové věty („v matrice není“, „na FamilySearch zamčeno“, „spisy nejsou digitalizované“, „křty jsou na mikrofilmu rozpité“, „pohřeb nenalezen“). Uživatel to nechce. Do skillu: pravidlo + automatická kontrola v tools/kontrola.py (hledat v textech pro web slova typu FamilySearch, mikrofilm, snímek, nenalez*, nedigitaliz*, zamčen*, rozpit*, nečiteln*, „není v matrice“, ověřit) a hlásit je jako upozornění.
+
+## FamilySearch – jmenný rejstřík a šlechtické předložky (23. 11. 2026)
+Rejstřík FamilySearch (např. sbírka „Deutschland, Preußen, Schlesien, Katholische und Lutherische Kirchenbücher“) zapisuje „von“ do příjmení („von Gillerin“, „V Gillerin“, „Voegillerin“, „Heinrich von Gellerin“). Dotaz „Giller*“ s přesnou shodou je proto nenajde – nutné hledat `*Giller*`, `von G*`, `V G*` (přesně). Volné hledání „Giller“ vrací hlavně „Keller“. Filtr filmu: URL `…/search/record/results?q.filmNumber=<DGS>&q.surname=…&q.surname.exact=on`. Do skillu (reference FamilySearch) jako tip pro pomocníky.

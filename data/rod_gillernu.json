@@ -1728,7 +1728,7 @@
         "Oženil se v Krehlau v květnu (?) 1714 s Leonorou Hedwig Klingeovou, dcerou Valentina Klinge, komorníka (?) ve Winzigu (?); ženich zapsán jako syn „bývalého hejtmana v Preichau“ Christopha Heinricha, svědky byli bratři Johann Christoph a Carl Heinrich.",
         "Syn Christopha Heinricha von Giller; bratři Carl Heinrich (náš předek) a Johann Christoph.",
         "Pán na Ober-Krehlau (Horní Krehlau, dnes část Krzelówa u Volova) – sousední statek bratra Carla Heinricha na Nieder-Krehlau; podle Sinapia (1728) také hejtman v Preichau.",
-        "Manželka Eleonora Hedwig, snad rozená Klinge (purkmistr Franz Valentin Klinge z Winzigu kmotroval v rodině bratra).",
+        "Manželka Eleonora Hedwig, snad rozená Klinge (purkmistr Franz Valentin Klinge z Winzigu kmotroval v rodině bratra). Zemřela roku 1755: 16. 5. 1755 byla v Krehlau pohřbena „Eleonora Hedwigis von Gillerin“, 67 let (* asi 1688).",
         "Děti pokřtěné v Krehlau: Christoph Franz Gregor (12. 3. 1716), Maria Anna Johanna Victoria (11. 5. 1717), Johann Heinrich Ferdinand (25. 6. 1718), Maria Elisabeth Apolonia (24. 9. 1719), Anna Josepha Francisca (10. 3. 1721), Maria Barbara Susanna (24. 5. 1722) a Friedrich Joseph Wilhelm (29. 2. 1724) a 24. 10. 1725 ještě dceru Marii Hedwig.",
         "Čtyři z těchto dětí zemřely malé: Christoph Franz Gregor (pohřben 20. 4. 1718, 2 roky), Johann Heinrich Ferdinand (12. 12. 1718, 24 týdnů), Maria Elisabeth Apolonia (27. 10. 1719, 5 týdnů) a Anna Josepha Francisca (28. 5. 1724, 3 roky).",
         "Roku 1710 byl kmotrem v Preichau.",
@@ -1764,6 +1764,9 @@
         {
           "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
           "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        },
+        {
+          "nazev": "Jmenný rejstřík FamilySearch k matrice Krehlau 1736–1780 (film 7769311): pohřeb 16. 5. 1755"
         }
       ],
       "zaznamy": [
@@ -2543,7 +2546,7 @@
         "Pokřtěna 22. 4. 1717 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako dcera urozeného pana Carla Heinricha von Giller na Hammeru a paní Cathariny Barbary Eleonory.",
         "Kmotry byli Franz Valentin Klinge, purkmistr ve Winzigu, paní Carolina von Gillerová, „hejtmanová z Preichau“, a teta Eleonora Hedwig von Gillerová, paní na Horním Krehlau.",
         "20. 5. 1726 byla v Krehlau kmotrou jako „slečna Maria Josepha von Gillerin z Hammeru“. V červenci 1736 byla kmotrou znovu – tehdy za ni u křtu stála v zastoupení jiná urozená dáma a zápis ji nazývá dcerou pana Carla Heinricha von Giller, dědičného pána na Hammeru a Dolním Krehlau.",
-        "Asi roku 1747 se v Krehlau vdala. Ženichem byl nejspíš urozený pan Philipp August (?) …, radní (?) z Wohlau (dnes Wołów); oddával vysoce důstojný pan Joannes Nepomucenus Vincentius (?) von … a svědky byli dva kněží. Bratr Maximilián mezi svědky není."
+        "24. 11. 1747 se v Krehlau vdala za Philippa Augustina Noa (?), nejspíš radního z Wohlau (dnes Wołów); oddával vysoce důstojný pan Joannes Nepomucenus Vincentius (?) von … a svědky byli dva kněží. Bratr Maximilián mezi svědky není."
       ],
       "zaznamy": [
         "n_1736_krehlau_giller_kmotra",
@@ -2571,6 +2574,9 @@
         {
           "nazev": "Matrika Krehlau, sňatky 1736–1759 (D527B s. 9 vlevo), FamilySearch film 8244729, snímek 385",
           "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-B9HV-8"
+        },
+        {
+          "nazev": "Jmenný rejstřík FamilySearch k matrice Krehlau 1736–1780 (film 7769311): sňatek 24. 11. 1747"
         }
       ]
     },
@@ -5219,7 +5225,7 @@
                           },
                           {
                             "jmeno": "Maria Josepha Elisabetha",
-                            "roky": "křest 22. 4. 1717; kmotra 1726 a 1736; × asi 1747 Krehlau (ženich nejspíš Philipp August (?) …, radní (?) z Wohlau)",
+                            "roky": "křest 22. 4. 1717; × 24. 11. 1747 Krehlau Philipp Augustin Noa (?)",
                             "stav": "doc",
                             "vazba": "doc",
                             "profil": "maria_josepha_1717"

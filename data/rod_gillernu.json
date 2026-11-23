@@ -3688,7 +3688,7 @@
         "Narodil se asi roku 1643; odkud pocházel, zápisy neuvádějí.",
         "Patřil k měšťanským Gillerům ve Dvorcích u Bruntálu; v zápisu o úmrtí je titulován „Herr“ (pan).",
         "Roku 1676 byl ve Dvorcích přísežným „mladé rady“ (des jungen Rates). Roku 1708 si město vypůjčilo „bei Herrn Christian Giller“ 675 zlatých na 6 % – nejspíš u něj, mohl to být ale i jeho syn.",
-        "Jeho dcery se ve Dvorcích vdaly: Elisabeth 15. 11. 1688 za Michaela Titze (?) a Anna 15. 11. 1689 za Hanse Georga Klebla (?). Synem byl Christian Giller mladší (asi 1681–1755), rovněž dvorecký měšťan.",
+        "Jeho dcery se ve Dvorcích vdaly: Elisabeth 15. 11. 1688 za Michaela Titze (?) a Susanna 15. 11. 1689 za Hanse Georga Klebla (?). 13. 2. 1692 mu a manželce Anně Marii pokřtili ve Dvorcích dceru Mariannu. Synem byl Christian Giller mladší (asi 1681–1755), rovněž dvorecký měšťan.",
         "7. 9. 1705 byl ve Dvorcích svědkem na svatbě Marie Elisabeth, dcery poštmistra Franze Leopolda Gillera, s Martinem Maxmiliánem Sefftigem (?), hejtmanem šternberského panství.",
         "Jeho manželkou byla snad Anna Maria Gillerová, měšťanka, která zemřela ve Dvorcích roku 1741 ve věku 96 let.",
         "Zemřel ve Dvorcích 7. 7. 1711 ve věku 68 let."
@@ -3755,13 +3755,13 @@
       ]
     },
     "anna_1689": {
-      "jmeno": "Anna Gillerová",
+      "jmeno": "Susanna Gillerová",
       "roky": "provdaná 15. 11. 1689",
       "stav": "prob",
       "vazba": "Dcera Christiana Gillera staršího, měšťana ve Dvorcích u Bruntálu – vazba na naši linii neznámá.",
       "fakta": [
-        "Byla dcerou Christiana Gillera staršího ze Dvorců u Bruntálu.",
-        "15. 11. 1689 se ve farnosti Dvorce provdala za Hanse Georga Klebla (příjmení ženicha je čteno nejistě)."
+        "Byla dcerou Christiana Gillera staršího ze Dvorců u Bruntálu; roku 1688 šla dvakrát za kmotru jako „Susanna, des Christian Gillers Tochter“.",
+        "15. 11. 1689 se ve farnosti Dvorce provdala za mládence Hanse Georga Klebla (?), syna … Klebla (příjmení ženicha a jeho obec čteny nejistě): „Mit Jungfrau Susanna des Christian Gillers ehelichen Tochter“."
       ],
       "vztahy": [
         {
@@ -5942,7 +5942,7 @@
                 "profil": "elisabeth_1688"
               },
               {
-                "jmeno": "Anna",
+                "jmeno": "Susanna",
                 "stav": "prob",
                 "vazba": "prob",
                 "manzel": "× 15. 11. 1689 Hans Georg Klebl (?)",

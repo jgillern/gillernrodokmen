@@ -310,3 +310,30 @@ Jan: tři témata jsou jedna otázka – odkud rod pochází a jak spolu souvis�
 | K5 | Olomouc 1620–1642 (Matyáš městským lékařem) – matriky sv. Mořic / sv. Václav (FS kopie?) | lokální Claude | po K1 |
 | K6 | Revize Fable „původ rodu“ po K1–K3 | Fable | |
 | K7 | Johann Christoph (rytmistr) – data narození a úmrtí: šlechtické spisy 1700–1732 (ÖStA, NA – digitalizáty?), Hlubčice (sňatek s Bartschovou, křty synů 1646/1651, pohřby), pohřební kázání (GESA, VD17), Theatrum Europaeum | lokální Claude (`zadani_lokalni_johann_christoph.md`) | zadání připraveno |
+
+## Identifikace Františka Mikuláše a Franze Antona (23. 11. 2026)
+
+**Franz Anton Giller** (IR 15: 29. 1. 1745 praporčík, „Hamer in Schlesien“, 19 let → * II/1725–I/1726; Rona: F. 1744 „vom Civile“, L. 1746 resigniert).
+- Není to kapitán Friedrich: v přehlídce 1/1745 (všech 14 setnin) Friedrich není, v roce 1753 je už hejtmanem se službou od 1742/43; Franz Anton slouží od 3/1744 a 1746 odchází. Dva různí muži z Hammeru.
+- Synem Carla Heinricha podle věku být nemůže: Carlovi se narodily děti 29. 12. 1724 a 23. 3. 1726 – mezi nimi není místo; jedině kdyby byl věk zapsán o 1–3 roky nižší (rozpité křty 1726–1729).
+- **Nejlépe sedí dítě Franze Josepha (Ober-Krehlau) pokřtěné 2?. 10. 1725** (sn. 459, rozpité, čteno „Ma… Hedwig (?)“): k 29. 1. 1745 by mu bylo přesně 19 let a jméno Franz má po otci. Rodiště „Hamer“ = sousední statek strýce (písař mohl napsat sídlo rodiny). Ověřit plným rozlišením.
+- Další možnost: syn „Tit. Herr Ignatius Antonius Giller“, úředníka na Hammeru 1738 (Anton – Antonius).
+- Bez „von“ / „Baron“ – u Friedricha 1753–1764 vždy „Baron“. Slabý znak nižšího postavení (Ignatius Antonius?), ale v roce 1745 ještě nemusí nic znamenat.
+
+| # | Krok | Kdo | Stav |
+|---|---|---|---|
+| L1 | Krehlau DGS 8244728: snímky 459 (10/1725), 457–458 a 463–467 (1725–1729, rozpité) stáhnout v plném rozlišení (Jan potvrdí každé stažení) → já úprava kontrastu a čtení: pohlaví a jméno dítěte z 10/1725, děti Carla Heinricha 1726–1729, jakýkoli otec Giller (Ignatius) | lokální Claude + já | |
+| L2 | Krehlau sňatky 1715–1736 a pohřby 1725–1760: sňatek Ignatia Antonia Gillera, pohřeb Franze Antona / Franze Josepha | lokální Claude | po L1 |
+| L3 | (Pokud L1 nerozhodne) Krehlau pohřby a sňatky 1746–1759 jsou v objednávce AAWr jen částečně – Franz Anton po odchodu z armády 1746? | AAWr | volitelné |
+
+**František Mikuláš (Franz Niklas) Giller** (* 1673; 1703 major pevnosti Cheb, říšský rytířský stav 7. 2. 1703 – RAA 143.32, bez „von“, bez digitalizátu; 1707 uherský svobodný pán a magnát; × 1704 Eleonore v. Cronberg; od 1715 Taunus; † 1727).
+- Rodokmen Gillernů (GHdA, Wikipedie, dopis Vyšína) řadí jeho povýšení 1707 mezi povýšení rodu – rodové podání ho tedy bere za příbuzného; doklad chybí.
+- Věkem (1673) mohl být: syn Christopha Heinricha z 1. manželství (CH * 1646, 1. manželka † 1683, sňatek neznámý), mladší syn rytmistra Johanna Christofa (pak bratr CH a FW I.), nebo z měšťanských Gillerů (Dvorce, Krnov). Že dostal 1703 vlastní rytířský stav, ač CH a FW I. měli od 1700 český šlechtický stav pro sebe i potomky, mluví spíš proti synovi CH nebo FW I. – ale může jít jen o povýšení za zásluhy.
+- **Erb je nejlepší test.** Erb Gillerů (1721, 1764: hvězda + šikmé břevno s liliemi; 1766 přibyl štítek s hlavou Turka – obrazy ÖStA) – má-li Franz Niklas 1703/1707 týž erb, je to tentýž rod. Hlava Turka v baronském erbu je až z roku 1766 (Kristián), od Franze Niklase tedy nepochází.
+
+| # | Krok | Kdo | Stav |
+|---|---|---|---|
+| L4 | **Hungaricana – Királyi könyvek (Libri regii) 1707**: zápis baronátu Giller (Ferenc Miklós / Franciscus Nicolaus): popis erbu, výčet zásluh, rodiště, otec; MNL OL armáles (R 64) – obraz erbu | lokální Claude (Hungaricana cloudu vrací 403) | |
+| L5 | Cheb sv. Mikuláš 1698–1704 (Porta fontium, N a O): Franz Niklas jako kmotr / svědek / ženich (1. manželství?), plné tituly | já (portafontium.py) | |
+| L6 | ANNO – Wienerisches Diarium 1703–1727 „Giller/Gillern“: povýšení, služba, úmrtí 1727 (místo) | lokální Claude | |
+| L7 | ÖStA: reprodukce spisu RAA 143.32 (žádost 1703 – zásluhy, předci) – placená objednávka, jen když Jan výslovně chce | Jan | volitelné |

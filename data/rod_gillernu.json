@@ -3,7 +3,7 @@
   "menu": "Rod z Gillernů",
   "lead": "Všechno, co víme o celém rodu z Gillernů – nejen o naší přímé linii, kterou dnes umíme sledovat až do Slezska 17. století. Šlechtický rod, jeho dvě slezské větve, Koryčany na Moravě, pruští baroni, Vídeň a lesníci kolem Poděbrad a Orlíka. Stránka roste s každým nálezem.",
   "uvod": [
-    "Gillernové jsou starý rod, který se podle německé Wikipedie odvozuje od měšťanů Gillerů z Laufenburgu a Waldshutu v jihozápadním Německu (14.–16. století). Roku 1568 dostal Matouš Giller český erbovní list s přídomkem „von Lilienfeld“, v 17. a 18. století přišla další povýšení – už jako „von Gillern“ – až po stav svobodných pánů (baronů). Rod se rozvětvil do Slezska a Pruska, na Moravu (panství Koryčany), do Čech a do Vídně.",
+    "Gillernové jsou starý rod. Roku 1568 dostal Matouš Giller český erbovní list s přídomkem „von Lilienfeld“, v 17. a 18. století přišla další povýšení – už jako „von Gillern“ – až po stav svobodných pánů (baronů). Rod se rozvětvil do Slezska a Pruska, na Moravu (panství Koryčany), do Čech a do Vídně.",
     "Naše přímá linie je v matrikách doložená až k Maximiliánovi z Gillernů, „nejvyššímu myslivci“ (nadlesnímu) c. k. komorního panství Poděbrady. Jeho syn Josef byl myslivcem a revírníkem, vnuk František (1785–1840) schwarzenberským revírníkem v Kostelci nad Vltavou a odtud vede linie přes lesníky na Orlíku až k dnešním Gillernům. Neznáme hlavně, odkud kolem roku 1750 do Polabí přišel sám Maximilián a jak navazuje na Karla Josefa z Gillernů a další větve šlechtického rodu. A v Čechách se šlechtická větev psala „Giller (Edler) von Gillern“ – přesně tak, „Edler von Gillern“, je zapsán i Františkův vnuk Čeněk (1854). Od 21. 11. 2026 víme i odkud Maximilián pochází: byl pokřtěn 4. 3. (?) 1719 v Krehlau u Volova ve Slezsku jako syn Carla Heinricha von Giller, pána na Hammeru, a Cathariny Barbary Eleonory roz. Nerlichové – vnuk Christopha Heinricha z 2. (slezské) větve. Jeho mladším bratrem byl pruský generál Ernst Heinrich von Gillern (1730–1792) a nejspíš i kapitán Jan Bedřich (* 1724)."
   ],
   "erb": {
@@ -212,9 +212,9 @@
   "vetve": [
     {
       "nazev": "Kmen rodu (do roku 1700)",
-      "obdobi": "14.–17. století",
+      "obdobi": "16.–17. století",
       "barva": "#7a6a55",
-      "text": "Měšťané Gillerové z Laufenburgu a Waldshutu; roku 1568 erbovní list pro Matouše Gillera („von Lilienfeld“) – jak navazuje na pozdější slezské Gillery, nevíme. Doložená posloupnost začíná podplukovníkem Heinrichem Christofem Gillerem (Deschna), pokračuje jeho synem, rytmistrem Johannem Christofem (× Susanne Bartsch von Sternegg), a jeho dvěma syny, kteří roku 1700 dostali český šlechtický stav. Od nich vedou dvě větve.",
+      "text": "Roku 1568 erbovní list pro Matouše Gillera („von Lilienfeld“) – jak navazuje na pozdější slezské Gillery, nevíme. Doložená posloupnost začíná podplukovníkem Heinrichem Christofem Gillerem (Deschna), pokračuje jeho synem, rytmistrem Johannem Christofem (× Susanne roz. Bartsch, podle rodopisu 1884 „von Sternegg“), a jeho dvěma syny, kteří roku 1700 dostali český šlechtický stav. Od nich vedou dvě větve.",
       "vazba": "Společní předci obou slezských větví – a naši: Maximilián je pravnuk Johanna Christofa.",
       "profil": "rodopis"
     },
@@ -222,7 +222,7 @@
       "nazev": "1. větev – Dvorce, Koryčany a pruští baroni",
       "obdobi": "1688–20. století",
       "barva": "#8f5b6e",
-      "text": "Friedrich Wilhelm I. Giller (1651–1728), správce (Amtmann) a pak „hejtman“ v Karlovci (Carlsberg) u Dvorců u Bruntálu (Hof) – Karlovec patřil do roku 1693 vévodovi Silviu Friedrichovi Württembersko-Olešnickému, od roku 1699 Lichtenštejnům. Ve Dvorcích dal v letech 1688–1699 pokřtít nejméně osm dětí, mezi nimi Friedricha Wilhelma II. (1688, podplukovník) a Carla Josepha (1696), roku 1723 lichtenštejnského sekretáře ve Vídni. Pánem Koryčan (od 1742) a svobodným pánem se stal jeho starší příbuzný Karel Josef (Johann Karl Joseph, asi 1690–1762) – nejspíš syn dvoreckého poštmistra Franze Leopolda. Podle Sinapia měl i syny Johanna Petera a Carla Ludwiga. Karel Josef synovy nezanechal; Koryčany přešly na příbuzného Kristiána Matyáše (* 1723, syn Friedricha Wilhelma II.), od něhož podle Gothy pocházejí i pruští baroni 19. století. Ve Dvorcích žili také měšťanští Gillerové (Christian, František, krejčí, tkalci, farář Jan Karel) – vazba na hejtmanovu rodinu zatím neznámá.",
+      "text": "Friedrich Wilhelm I. Giller (1651–1728), správce (Amtmann) a pak „hejtman“ v Karlovci (Carlsberg) u Dvorců u Bruntálu (Hof) – Karlovec patřil do roku 1693 vévodovi Silviu Friedrichovi Württembersko-Olešnickému, od roku 1699 Lichtenštejnům. Ve Dvorcích dal v letech 1688–1699 pokřtít nejméně osm dětí, mezi nimi Friedricha Wilhelma II. (1688, podplukovník) a Carla Josepha (1696), roku 1723 lichtenštejnského sekretáře ve Vídni. Pánem Koryčan (od 1742) a svobodným pánem se stal jeho starší příbuzný Karel Josef (Johann Karl Joseph, asi 1690–1762) – nejspíš syn dvoreckého poštmistra Franze Leopolda. Podle Sinapia měl i syny Johanna Petera a Carla Ludwiga. Karel Josef synovy nezanechal; Koryčany přešly na příbuzného Kristiána Matyáše (* 1723, podle rodopisu 1884 syn Friedricha Wilhelma II.), od něhož podle Gothy pocházejí i pruští baroni 19. století. Ve Dvorcích žili také měšťanští Gillerové (Christian, František, krejčí, tkalci, farář Jan Karel) – vazba na hejtmanovu rodinu zatím neznámá.",
       "vazba": "Vzdálení příbuzní: Friedrich Wilhelm I. byl bratr Maximiliánova děda Christopha Heinricha (a kmotr Maximiliána 1719), Karel Josef bratranec jeho otce, Kristián z Koryčan jeho bratranec z druhého kolena.",
       "profil": "fw1"
     },
@@ -1100,7 +1100,7 @@
       "stav": "lit",
       "vazba": "moravská (koryčanská) větev; vnuk Friedricha Wilhelma I. – bratranec našeho Maximiliána z druhého kolena (u Torgavy 1760 stál proti Maximiliánovu bratru Ernstu Heinrichovi); podle Gothy 1884 předek pruských baronů – to je ale nejisté (jediný jeho známý syn zemřel jako dítě)",
       "fakta": [
-        "* 16. 5. 1723 Lodi v Lombardii, syn Friedricha Wilhelma II. von Giller (* 4. 4. 1688 Dvorce na Moravě, † 1751 Lucemburk, císařský podplukovník) a Anny Marie (Gotha 1884)",
+        "* 16. 5. 1723 Lodi v Lombardii, syn Friedricha Wilhelma II. von Giller (* 4. 4. 1688 Dvorce na Moravě, † 1751 Lucemburk, císařský podplukovník) a Anny Marie – tak uvádí rodopis rodu (Gotha 1884)",
         "c. k. podplukovník pluku O'Kelly (?); ze služby odešel 16. 5. 1763",
         "rytířský stav „von Gillern“ 27. 3. 1763 (Gotha) / 1764 (Rakouský státní archiv), český inkolát 29. 3. 1764",
         "rakouský stav svobodných pánů 21. 6. 1766",
@@ -1176,7 +1176,7 @@
         "Matyáš Giller z Lilienfeldu se roku 1642 přestěhoval do Krnova, kde po tchyni zdědil svobodný dům s dvorem; otcovský dům v Opavě prodal 1644. Zemřel 1655/1656. Měl dvě manželky jménem Zuzana (jedna byla podle Zukala dcerou Hanse von Götz a Zuzany Dreßler von Scharfenstein) a syny Benedikta Josefa, krnovského lékárníka, a Ignáce.",
         "Erb Gillerů z Lilienfeldu – v modrém poli hvězda, v dalších polích šikmé břevno se třemi liliemi – je v podstatě týž jako erb pozdějších svobodných pánů z Gillernů. Roku 1721 dostal Karel Josef „potvrzení šlechtictví“ (Adelsbestätigung); ve spisu je opis českého šlechtického listu z 20. 8. 1700 pro bratry Christopha Heinricha a Friedricha Wilhelma – potvrzení se tedy opíralo o list z roku 1700, ne o starší šlechtictví.",
         "Slezští Gillernové (od podplukovníka Heinricha Christofa v 17. století) tedy nejspíš z opavských Gillerů pocházejí; přímý genealogický doklad zatím chybí.",
-        "Rod se podle Wikipedie odvozuje od měšťanů Gillerů z Laufenburgu a Waldshutu (14.–16. století)."
+        "Podle rodového podání (německá Wikipedie, bez uvedeného pramene) pochází rod od měšťanů Gillerů z Laufenburgu a Waldshutu v jihozápadním Německu (14.–16. století)."
       ],
       "vztahy": [
         {
@@ -1284,7 +1284,7 @@
       "vazba": "Přehled slezských předků a příbuzných naší linie. Každý z nich má i vlastní profil – viz Příbuzní níže.",
       "fakta": [
         "Heinrich Christof Giller, císařský podplukovník, usedlý v 17. století ve vsi Deschna; jeho první manželka byla rozená von Tschammer.",
-        "Jeho syn Johann Christof Giller, císařský rytmistr pluku Gallas, se oženil se Susanne Bartsch von Sternegg. Je to poslední společný předek obou slezských větví.",
+        "Jeho syn Johann Christof Giller, císařský rytmistr pluku Gallas, se oženil se Susanne roz. Bartsch (rodopis 1884 ji uvádí jako „Bartsch von Sternegg“ – tento přídomek ale Bartschové dostali až roku 1695). Je to poslední společný předek obou slezských větví.",
         "Synové Johanna Christofa – Christoph Heinrich a Friedrich Wilhelm – dostali 20. 8. 1700 český šlechtický stav (list vydán ve Vídeňském Novém Městě). Od nich vedou dvě větve rodu.",
         "1. větev – Friedrich Wilhelm I. (1651–1728), správce a hejtman v Karlovci u Dvorců u Bruntálu, později císařský rada a vrchní účetní knížectví Lehnického, Břežského a Volovského. Ve Dvorcích se mu v letech 1688–1699 narodilo nejméně osm dětí, mezi nimi Friedrich Wilhelm II. (1688–1751, podplukovník, otec Kristiána z Koryčan). Do jeho rodiny patří i Karel Josef svobodný pán z Gillernů (asi 1692–1762), pán Koryčan. Friedrich Wilhelm I. byl roku 1719 kmotrem našeho Maximiliána.",
         "2. větev – Christoph Heinrich (1646–1717), biskupský hejtman, zastánce protireformace ve Volovském knížectví a od 1706 zemský starší Stínavského kraje. Jeho synové měli statky v Dolním Slezsku: Carl Heinrich, Johann Christoph a Franz Joseph.",
@@ -1457,7 +1457,7 @@
       "stav": "lit",
       "vazba": "bratr našeho předka Christopha Heinricha a zakladatel 1. větve rodu; prastrýc a kmotr našeho Maximiliána",
       "fakta": [
-        "Syn Johanna Christofa Gillera, císařského rytmistra, a Susanne Bartsch von Sternegg; rok narození (asi 1651) je nejistý.",
+        "Syn Johanna Christofa Gillera, císařského rytmistra, a Susanne roz. Bartsch (rodopis 1884: „von Sternegg“); rok narození (asi 1651) je nejistý.",
         "Roku 1700 dostal spolu s bratrem Christophem Heinrichem český šlechtický stav.",
         "Byl správcem (Amtmann) a od roku 1694 hejtmanem na Karlovci (Carlsberg) u Dvorců u Bruntálu. Karlovec byl tehdy samostatným dílem šternberského panství: do 13. 5. 1693 patřil Silviu Friedrichovi, vévodovi Württembersko-Olešnickému, pak hraběti Strattmannovi a od roku 1699 Lichtenštejnům. Rodopis ho uvádí i jako bývalého císařského hejtmana.",
         "V letech 1687–1691 ho jako „Amtmann in Karlsberg“ zmiňuje kniha hornického bratrstva: prohlížel doly a vykupoval pro vrchnost železnou rudu (K. Berger, Geschichte der Stadt Bärn, 1901, s. 172–173).",
@@ -5025,7 +5025,7 @@
                 "stav": "lit",
                 "roky": "17. století",
                 "pozn": "císařský rytmistr pluku Gallas – společný děd obou větví",
-                "manzel": "× Susanne Bartsch von Sternegg",
+                "manzel": "× Susanne roz. Bartsch (rodopis 1884: „von Sternegg“)",
                 "deti": [
                   {
                     "jmeno": "Friedrich Wilhelm I. Giller",
@@ -5227,7 +5227,7 @@
                         "jmeno": "Carl Heinrich von Giller",
                         "roky": "1686–1752",
                         "stav": "doc",
-                        "pozn": "pán na Hammeru a Nieder-Krehlau; 14 dětí pokřtěných v Krehlau 1711–1734",
+                        "pozn": "pán na Hammeru a Nieder-Krehlau; nejméně 15 dětí pokřtěných v Krehlau 1711–1734",
                         "deti": [
                           {
                             "jmeno": "Johann Christoph (Friedrich)",

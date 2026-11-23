@@ -40,12 +40,12 @@
     },
     {
       "rok": "1703",
-      "text": "František Mikuláš Giller, major pevnosti Cheb, rytířský stav (7. 2.); rod se už píše „von Gillern“.",
-      "zdroj": "Vyšín 1978"
+      "text": "František Mikuláš (Franz Niklas) Giller, major pevnosti Cheb, dostává říšský rytířský stav (7. 2.).",
+      "zdroj": "Rakouský státní archiv, AVA Adel RAA 143.32"
     },
     {
       "rok": "1707",
-      "text": "Uherský stav svobodných pánů a magnátů (František Mikuláš, důstojník prince Evžena).",
+      "text": "Podle německé Wikipedie uherský stav svobodných pánů a magnátů pro Františka Mikuláše (nedoloženo).",
       "zdroj": "Wikipedie"
     },
     {
@@ -2245,7 +2245,8 @@
       "vazba": "Syn Friedricha Wilhelma I. Gillera, správce a od roku 1694 hejtmana na Karlovci u Dvorců, a Anny Marie – bratranec Carla Heinricha, otce našeho předka Maximiliána (* 1719).",
       "fakta": [
         "Pokřtěn 19. 1. 1699 na Karlovci (fara Dvorce u Bruntálu) jako nejmladší známé dítě Friedricha Wilhelma Gillera, hejtmana na Karlovci, a Anny Marie.",
-        "Nejspíš je to Johann Peter von Giller, kterého slezský genealog Sinapius uvádí roku 1723 jako praporčíka (Fähnrich) pěšího pluku barona Geyera v Sedmihradsku; v témže pluku byl hejtmanem jeho starší bratr Friedrich Wilhelm II."
+        "Nejspíš je to Johann Peter von Giller, kterého slezský genealog Sinapius uvádí roku 1723 jako praporčíka (Fähnrich) pěšího pluku barona Geyera v Sedmihradsku; v témže pluku byl hejtmanem jeho starší bratr Friedrich Wilhelm II.",
+        "24. 4. 1720 přijel do Vídně ze Sedmihradska „Herr Giller, Fändrich vom Geyerischen Regiment“ a ubytoval se v Matschakerhofu (Wienerisches Diarium 27. 4. 1720) – nejspíš on."
       ],
       "vztahy": [
         {
@@ -2261,6 +2262,10 @@
         {
           "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
           "odkaz": "https://archive.org/details/11852987bsb/page/n644/mode/1up"
+        },
+        {
+          "nazev": "Wienerisches Diarium 27. 4. 1720, s. 6 (ANNO)",
+          "odkaz": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=17200427&seite=6&zoom=33"
         }
       ]
     },
@@ -4707,15 +4712,15 @@
     },
     "frantisek_mikulas": {
       "jmeno": "František Mikuláš (Franz Niklas) svobodný pán z Gillernů",
-      "roky": "1673–1727",
+      "roky": "doložen 1703–1713",
       "stav": "lit",
       "vazba": "císařský důstojník; jak je spřízněn s ostatními Gillery, nevíme",
       "fakta": [
-        "Narodil se roku 1673 (místo neznámé). Sloužil jako císařský důstojník – podle Wikipedie bojoval u Zenty (1697) a u Ambergu (1703).",
-        "Jako „Franz Niklas Giller“, major pevnosti Cheb, dostal 7. 2. 1703 říšský rytířský stav (Rakouský státní archiv, Reichsadelsakten 143.32); roku 1707 se stal uherským svobodným pánem a magnátem.",
-        "Roku 1704 se oženil s Eleonorou von Cronberg (* před 1670, žila ještě 1728), nemanželskou, později legitimovanou dcerou hraběte Krafta Adolfa Otty von Cronberg († 1692); Eleonora byla v letech 1686–1688 kmotrou v Červeném Poříčí u Klatov, které Cronbergům patřilo.",
-        "Od roku 1715 spravoval statky po Cronbergech v Taunusu (Schwalbach, Soden, Sulzbach, Niederhöchstadt, Niederursel); v hesenských archivech jsou spisy „Barona von Giller“ z let 1712–1713 (nárok vůči stavebnímu úřadu v Kronbergu, správa kronberských lén).",
-        "Eleonora nebyla připuštěna k dědictví po otci; podle Omptedy žila roku 1728 se sestrou Franziskou „v hluboké chudobě“ ve Frankfurtu. František Mikuláš zemřel roku 1727.",
+        "7. 2. 1703 dostal jako „Franz Niklas Giller, Platzmajor der Grenzfestung Eger“ – major pevnosti Cheb – říšský rytířský stav (Rakouský státní archiv, Reichsadelsakten 143.32).",
+        "Jeho manželkou byla Eleonora von Cronberg (* před 1670, žila ještě 1728), nemanželská, později legitimovaná dcera hraběte Krafta Adolfa Otty von Cronberg († 1692); v letech 1686–1688 byla kmotrou v Červeném Poříčí u Klatov, které Cronbergům patřilo. Kronberská genealogie (Gensicke 1987) uvádí jen „∞ NN von Gillern“, Ompteda (1899) „einen Herrn von Gillern“.",
+        "V letech 1712–1713 se v hesenských archivech objevuje „Baron von Giller“ s nárokem vůči stavebnímu úřadu v Kronbergu a v dopisech o správě kronberských lén; mezi věřiteli obce Niederursel je jmenován „Franz Niklas Baron von Giller“.",
+        "Eleonora nebyla připuštěna k dědictví po otci; roku 1728 žila se sestrou Franziskou „v hluboké chudobě“ ve Frankfurtu (Ompteda).",
+        "Německá Wikipedie k němu uvádí další údaje – narození 1673, účast v bitvách u Zenty a u Ambergu (1703), uherský stav svobodných pánů a magnátů 1707, sňatek 1704, statky v Taunusu od 1715 a úmrtí 1727 – a jako zdroj cituje Gensickeho; ten ale tyto údaje neobsahuje. Jsou proto nejisté.",
         "Jeho děti neznáme; podle rodokmenu J. Ksíra měl dceru Marii Karolínu provdanou za Ferdinanda Augustina von Langenthal (nedoloženo).",
         "Dřívější domněnka, že byl otcem našeho Maximiliána, padla: Maximilián byl synem Carla Heinricha von Giller (křest 1719 v Krehlau)."
       ],
@@ -4740,7 +4745,8 @@
           "nazev": "F. v. Ompteda, Die von Kronberg und ihr Herrensitz (1899), s. 594, 603"
         },
         {
-          "nazev": "H. Gensicke, Die von Kronberg, Nassauische Annalen 98 (1987), s. 311"
+          "nazev": "H. Gensicke, Die von Kronberg, Nassauische Annalen 98 (1987), s. 311",
+          "odkaz": "https://www.rambow.de/download/von-Kronberg.pdf"
         },
         {
           "nazev": "SOA Plzeň (Porta fontium), Cheb – sv. Mikuláš 005, 006, 056; Vřeskovice 02, 03"
@@ -6136,9 +6142,9 @@
           {
             "jmeno": "František Mikuláš (Franz Niklas) svobodný pán z Gillernů",
             "stav": "lit",
-            "roky": "1673–1727",
-            "pozn": "důstojník, major pevnosti Cheb, rytířský stav 1703, uherský baron 1707; od 1715 statky v Taunusu. Jak je spřízněn s ostatními Gillery, nevíme (dřívější domněnka, že byl otcem Maximiliána, padla – Maximilián byl syn Carla Heinricha).",
-            "manzel": "× 1704 Eleonore von Cronberg",
+            "roky": "doložen 1703–1713",
+            "pozn": "major pevnosti Cheb, říšský rytířský stav 1703; 1712–1713 „Baron von Giller“ v Kronbergu (Taunus). Jak je spřízněn s ostatními Gillery, nevíme.",
+            "manzel": "× Eleonore von Cronberg",
             "profil": "frantisek_mikulas"
           },
           {

@@ -333,9 +333,9 @@ Jan: tři témata jsou jedna otázka – odkud rod pochází a jak spolu souvis�
 
 | # | Krok | Kdo | Stav |
 |---|---|---|---|
-| L4 | **Hungaricana – Királyi könyvek (Libri regii) 1707**: zápis baronátu Giller (Ferenc Miklós / Franciscus Nicolaus): popis erbu, výčet zásluh, rodiště, otec; MNL OL armáles (R 64) – obraz erbu | lokální Claude (`zadani_lokalni_frantisek_mikulas.md`, úkol 1; Hungaricana cloudu vrací 403) | zadáno |
+| L4 | **Hungaricana – Királyi könyvek (Libri regii) 1707**: zápis baronátu Giller (Ferenc Miklós / Franciscus Nicolaus): popis erbu, výčet zásluh, rodiště, otec; MNL OL armáles (R 64) – obraz erbu | lokální Claude (`zadani_lokalni_frantisek_mikulas.md`, úkol 1; Hungaricana cloudu vrací 403) | log 686: v Libri regii, Illésy ani MNL armales 1703–1708 není; Wikipedie-údaje (1673, Zenta, 1707, † 1727) bez opory – Gensicke 1987 má jen „∞ NN von Gillern“ |
 | L5 | Cheb sv. Mikuláš 1698–1704 (Porta fontium, N a O): Franz Niklas jako kmotr / svědek / ženich (1. manželství?), plné tituly | já (portafontium.py) | |
-| L6 | ANNO – Wienerisches Diarium 1703–1727 „Giller/Gillern“: povýšení, služba, úmrtí 1727 (místo) | lokální Claude (tamtéž, úkol 2) | zadáno |
+| L6 | ANNO – Wienerisches Diarium 1703–1727 „Giller/Gillern“: povýšení, služba, úmrtí 1727 (místo) | lokální Claude (tamtéž, úkol 2) | log 686: o F. M. nic; 1720 „Herr Giller, Fändrich vom Geyerischen Regiment“ (= Johann Peter) |
 | L7 | ÖStA: reprodukce spisu RAA 143.32 (žádost 1703 – zásluhy, předci) – placená objednávka, jen když Jan výslovně chce | Jan | volitelné |
 
 ### K8 – podplukovník Heinrich Christof Giller (otec Johanna Christofa) – Jan 23. 11. 2026
@@ -353,3 +353,4 @@ Dosud ho nikdo cíleně nehledal. Víme (Gotha 1884): císařský podplukovník 
 | K8f | „říšský stav 1654“ – Frank, Standeserhebungen (Google Books snippet po obnovení kvóty), GHdA Adelslexikon IV s. 118 | já | |
 | L8 | **Index FamilySearch k DGS 7769311 / 8018561 (Krehlau 1736–1780, i pohřby)**: otevřít záznamy „Gill“ (pohřeb 1738) a „Gillin“ (1739); hledat pohřby Carla Heinricha (1752), Cathariny Nerlich, Franze Josepha, Ignatia, Alexandra, Franze Antona i pod tvary Giler, Gieler, Güller, Gyller, Killer, Hiller; křty 1736–1750 s otcem Giller* | lokální Claude (`zadani_lokalni_krehlau_index_alexander.md`, úkol 1) | zadáno |
 | L9 | **Alexander von Giller** („junge Herr vom Hammer“, kmotr 1727): křest asi 1708–1714 (Krehlau 1711–1714 projít znovu souvisle, Preichau, Nisa), další stopy (pluky, Sinapius 1728) | lokální Claude (`zadani_lokalni_krehlau_index_alexander.md`, úkol 2) + já | zadáno |
+| L10 | František Mikuláš – další online cesty: Ompteda 1899 s. 569–603 (celé – co přesně o „Herrn von Gillern“), Ronner, Die von Kronberg und ihre Frauen (1992; snippet), Arcinsys Hessen – obsah spisů 1712–1713 a F 24 C 424 (popisy, jména dětí?), Matricula Limburg/Mainz (Frankfurt Dom pohřby 1725–1730, sňatek 1704 v okolí Kronbergu – robots ?pg zakázány → lokální Claude), Cheb 1698–1704 (Porta fontium, kmotr/svědek), Genealogischer Archivarius 1744 s. 243, 538 (ANNO) | já + lokální Claude | |

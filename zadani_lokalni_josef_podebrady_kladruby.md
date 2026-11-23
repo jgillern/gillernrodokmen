@@ -19,18 +19,18 @@ Chceme najít **každý zápis, kde se objevuje Josef** (nebo jiný mužský Gil
 - U každého nálezu: kniha, snímek, strana, odkaz, **doslovný přepis celého zápisu** (všichni kmotři a svědci s tituly a povoláním) a český překlad. Nejisté (?), nečitelné „…“. Nic nedomýšlej.
 - Ke každé knize zapiš, které snímky a roky jsi prošel a jak byly čitelné.
 
-## Úkol 1 – Poděbrady, křty 1771–1784 souvisle (nejdůležitější)
-- **Poděbrady 13, N 1771–1784**: https://ebadatelna.soapraha.cz/d/11843 – projdi **všechny snímky** (město i vesnice).
-- **Poděbrady 15, N 1784**: https://ebadatelna.soapraha.cz/d/11845 – celý rok 1784 (Josef byl v Poděbradech nejpozději v září 1784).
-- Hledej **Gillery jako kmotry, svědky nebo zástupce kmotrů** – hlavně **Josefa**; zapiš i každou sestru (Anna, Eleonora, Johanna, Filipína, Alžběta) a otce Maximiliána, ať víme, jak často se rodina objevuje.
-- **Zbude-li čas:** **Poděbrady 11, N 1754–1771**, https://ebadatelna.soapraha.cz/d/11841 – léta **1766–1771** (rodina v Poděbradech od 1766).
+## POZOR – oprava zadání (24. 11. 2026)
+Poděbradské křty 1765–1784 (Poděbrady 11 a 13), Nymburk 1744–1756 a Sadská 1753–1756 už dříve prošli jiní pomocníci – **nečti je znovu**. Josef v nich není (bratr František je kmotrem 1773, Ludvík 1770, sestry opakovaně).
 
-## Úkol 2 – dřívější místa rodiny (kratší kontrola)
-U každé knihy projdi jen uvedená léta a hledej **Josefa** (nebo jiného mužského Gillera) jako kmotra či svědka:
-- **Kladruby nad Labem**, ARON SOA Zámrsk, sign. **1776** (N/O/Z): https://aron.vychodoceskearchivy.cz/ (hledej matriku Kladruby nad Labem, sign. 1776) – **1757–1761** (křty Gillerů jsou na snímcích asi 19–23; projdi asi snímky 17–26) a také sňatky a pohřby těchže let, jsou-li v knize.
-- **Čelákovice**, kniha VI-8 (eBadatelna 4722): https://ebadatelna.soapraha.cz/d/4722 – **9/1761 – 1766** (asi snímky 175–200; s. 362 = sn. 190, s. 373–374 = sn. 196).
-- **Sadská 05** (Hradištko na Kersku): https://ebadatelna.soapraha.cz/d/11453 – **1754–1756** (asi snímky 110–145; červen 1754 = sn. 118, leden 1756 = sn. 142).
-- **Nymburk 07**, N (kniha E – vesnice, Bor Bobnický): https://ebadatelna.soapraha.cz/d/10406 – **1750–1753** (asi snímky 45–70; 1750 = sn. 47, 1751 = sn. 55, 1753 = sn. 67).
+## Úkol 1 – Kladruby nad Labem 1757–1761 (nejdůležitější)
+- ARON SOA Zámrsk, matrika **Kladruby nad Labem, sign. 1776** (N/O/Z): https://aron.vychodoceskearchivy.cz/ (hledej matriku Kladruby nad Labem, sign. 1776). Křty Gillerů jsou na snímcích asi 19–23.
+- Projdi **všechny křty, sňatky a pohřby 1757–1761** (asi snímky 17–26 a příslušné oddíly O a Z, jsou-li v knize) a hledej **Josefa** (nebo jiného mužského Gillera) jako kmotra, svědka nebo zástupce; zapiš i sestry a rodiče.
+
+## Úkol 2 – Čelákovice 9/1761 – 1766
+- Čelákovice, kniha VI-8 (eBadatelna 4722): https://ebadatelna.soapraha.cz/d/4722 – **9/1761 – 1766** (asi snímky 175–200; s. 362 = sn. 190, s. 373–374 = sn. 196). Hledej totéž jako v úkolu 1.
+
+## Úkol 3 – Poděbrady, křty 1784
+- **Poděbrady 15, N 1784**: https://ebadatelna.soapraha.cz/d/11845 – celý rok 1784 (Josef byl v Poděbradech nejpozději v září 1784; křest Maximiliána Clannera 8. 11. 1784 už známe). Hledej Josefa jako kmotra nebo svědka a jak je popsán.
 
 ## Shrnutí na konec
 - Objevuje se Josef (nebo jiný syn Maximiliána) někde v letech 1750–1784? Kdy, kde, v jaké roli a jak je popsán (povolání, vojsko, věk)?

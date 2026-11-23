@@ -1,7 +1,7 @@
 # Úkol: rodina kapitána Friedricha z Gillernů 1765–1790 a Koryčany 1742–1785 (Acta Publica) – stopy po Josefovi a Maximiliánovi (samostatné zadání)
 
 ## O co jde
-Pomáháš Janovi s rodokmenem rodu **Gillernů** (psáno Giller, Gillern, Güller, Gyller; šlechtici „von / de Giller(n)“, „Freiherr / Baron“). Výzkum vede jiný asistent v cloudu, který tvé výsledky zpracuje. Pracuješ v Janově prohlížeči: FamilySearch (Jan je přihlášený), Matricula Online (data.matricula-online.eu) a Acta Publica Moravského zemského archivu (actapublica.eu). Když web chce CAPTCHA nebo přihlášení, požádej Jana, nic neobcházej. **Nic nekupuj, neobjednávej ani neodesílej.** Mezi stránkami 5–10 vteřin.
+Pomáháš Janovi s rodokmenem rodu **Gillernů** (psáno Giller, Gillern, Güller, Gyller; šlechtici „von / de Giller(n)“, „Freiherr / Baron“). Výzkum vede jiný asistent v cloudu, který tvé výsledky zpracuje. Pracuješ v Janově prohlížeči: FamilySearch (Jan je přihlášený), Matricula Online (data.matricula-online.eu), Acta Publica Moravského zemského archivu (actapublica.eu) a ANNO – Rakouská národní knihovna (anno.onb.ac.at). Když web chce CAPTCHA nebo přihlášení, požádej Jana, nic neobcházej. **Nic nekupuj, neobjednávej ani neodesílej.** Mezi stránkami 5–10 vteřin.
 
 **Koho hledáme:**
 - **Josef (Josef Emanuel) z Gillernů**, * asi 1738–1748, syn **Maximiliána z Gillernů** (císařský myslivec a nadlesní v Čechách 1750–1789); poprvé ho známe až 1784 v Poděbradech (myslivec). Kde byl předtím, nevíme – možná u vojska nebo ve službě u příbuzných.
@@ -30,7 +30,14 @@ Pomáháš Janovi s rodokmenem rodu **Gillernů** (psáno Giller, Gillern, Güll
    - **1742–1750**: hledej **Maximiliána (i jako „Joseph“) a Johannu** – sňatek, křty dětí (hlavně **chlapce Josepha**), kmotrovství. (Dřívější pomocník tu nic nenašel, ale nevíme, zda prošel všechny části knih.)
 3. **Pokud je web zablokovaný:** v katalogu FamilySearch zjisti, zda nejsou koryčanské matriky 1742–1785 nafilmované i tam (místo „Koryčany“ / „Koritschan“, okres Kroměříž), a zapiš filmy a přístupnost.
 
+## Část C – Gazette de Vienne 1760 (ANNO, krátké)
+Předchozí pomocník našel v ANNO zásah, který kvůli kontrole Cloudflare neotevřel: **Gazette de Vienne, 9. 1. 1760, s. 9** – v tabulce důstojníků se objevuje jméno **„Giller“**.
+1. Otevři tu stránku (ANNO-Suche, dotaz `Giller`, období 1760: https://anno.onb.ac.at/anno-suche/simple?query=Giller&selectedFilters=date:[1760%20TO%201760]).
+2. Zjisti, **o jakou tabulku jde** (povýšení, padlí a ranění, zajatí, seznam důstojníků pluku…), **u kterého pluku** (číslo nebo jméno majitele, např. Pallavicini) a **jakou hodnost a křestní jméno** Giller má. Přepiš řádek se jménem doslova i s nadpisem tabulky a sloupce, ulož výřez a přelož do češtiny.
+3. Když ještě narazíš na další zásah s Gillerem v Gazette de Vienne 1755–1790, zapiš ho do tabulky (datum, strana, výňatek), otevři jen ty, které vypadají na vojsko nebo myslivost.
+
 ## Shrnutí na konec
 - Objevuje se někde Josef (nebo Maximilián před 1750)? Kdy, kde, v jaké roli a jak je popsán.
 - Friedrichovy děti a jejich kmotři; co se stalo s Friedrichem po 1771.
+- Kdo je „Giller“ v Gazette de Vienne 1760 (pluk, hodnost, jméno).
 - Jestli Acta Publica fungovala; co nešlo otevřít nebo přečíst.

@@ -3052,5 +3052,41 @@
   ],
   "status": "ok",
   "note": "Pohřeb kancléře Antona von Nerlich"
+ },
+ "n_1727_krehlau_alexander_giller_kmotr": {
+  "boxes": [
+   [
+    0.38,
+    0.38,
+    0.92,
+    0.7
+   ]
+  ],
+  "status": "ok",
+  "note": "kmotři: mladý pán z Hammeru Alexander von Giller, Maria Carolina … von Gillerin"
+ },
+ "n_1728_giller_joannes_nepomucenus": {
+  "boxes": [
+   [
+    0.0,
+    0.6,
+    0.86,
+    0.86
+   ]
+  ],
+  "status": "ok",
+  "note": "křest 31. 8. 1728 – Herrn Carolo Henrico in Hammer, Joannes Nepomucenus, matka Catharina roz. N…"
+ },
+ "n_1729_krehlau_carl_wilhelm_vitus_kmotr": {
+  "boxes": [
+   [
+    0.05,
+    0.32,
+    1.0,
+    0.5
+   ]
+  ],
+  "status": "ok",
+  "note": "kmotr: der Junge Herr Carolus Wilhelmus Vitus de Giller"
  }
 }

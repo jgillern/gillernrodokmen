@@ -322,8 +322,8 @@ Jan: tři témata jsou jedna otázka – odkud rod pochází a jak spolu souvis�
 
 | # | Krok | Kdo | Stav |
 |---|---|---|---|
-| L1 | Krehlau DGS 8244728: snímky 459 (10/1725), 457–458 a 463–467 (1725–1729, rozpité) stáhnout v plném rozlišení (Jan potvrdí každé stažení) → já úprava kontrastu a čtení: pohlaví a jméno dítěte z 10/1725, děti Carla Heinricha 1726–1729, jakýkoli otec Giller (Ignatius) | lokální Claude + já | |
-| L2 | Krehlau sňatky 1715–1736 a pohřby 1725–1760: sňatek Ignatia Antonia Gillera, pohřeb Franze Antona / Franze Josepha | lokální Claude | po L1 |
+| L1 | Krehlau DGS 8244728: snímky 459 (10/1725), 457–458 a 463–467 (1725–1729, rozpité) stáhnout v plném rozlišení (Jan potvrdí každé stažení) → já úprava kontrastu a čtení: pohlaví a jméno dítěte z 10/1725, děti Carla Heinricha 1726–1729, jakýkoli otec Giller (Ignatius) | lokální Claude (`zadani_lokalni_franz_anton_krehlau.md`, úkol 1) + já | zadáno |
+| L2 | Krehlau sňatky 1715–1736 a pohřby 1725–1760: sňatek Ignatia Antonia Gillera, pohřeb Franze Antona / Franze Josepha | lokální Claude (tamtéž, úkoly 2–3) | zadáno |
 | L3 | (Pokud L1 nerozhodne) Krehlau pohřby a sňatky 1746–1759 jsou v objednávce AAWr jen částečně – Franz Anton po odchodu z armády 1746? | AAWr | volitelné |
 
 **František Mikuláš (Franz Niklas) Giller** (* 1673; 1703 major pevnosti Cheb, říšský rytířský stav 7. 2. 1703 – RAA 143.32, bez „von“, bez digitalizátu; 1707 uherský svobodný pán a magnát; × 1704 Eleonore v. Cronberg; od 1715 Taunus; † 1727).
@@ -333,7 +333,7 @@ Jan: tři témata jsou jedna otázka – odkud rod pochází a jak spolu souvis�
 
 | # | Krok | Kdo | Stav |
 |---|---|---|---|
-| L4 | **Hungaricana – Királyi könyvek (Libri regii) 1707**: zápis baronátu Giller (Ferenc Miklós / Franciscus Nicolaus): popis erbu, výčet zásluh, rodiště, otec; MNL OL armáles (R 64) – obraz erbu | lokální Claude (Hungaricana cloudu vrací 403) | |
+| L4 | **Hungaricana – Királyi könyvek (Libri regii) 1707**: zápis baronátu Giller (Ferenc Miklós / Franciscus Nicolaus): popis erbu, výčet zásluh, rodiště, otec; MNL OL armáles (R 64) – obraz erbu | lokální Claude (`zadani_lokalni_frantisek_mikulas.md`, úkol 1; Hungaricana cloudu vrací 403) | zadáno |
 | L5 | Cheb sv. Mikuláš 1698–1704 (Porta fontium, N a O): Franz Niklas jako kmotr / svědek / ženich (1. manželství?), plné tituly | já (portafontium.py) | |
-| L6 | ANNO – Wienerisches Diarium 1703–1727 „Giller/Gillern“: povýšení, služba, úmrtí 1727 (místo) | lokální Claude | |
+| L6 | ANNO – Wienerisches Diarium 1703–1727 „Giller/Gillern“: povýšení, služba, úmrtí 1727 (místo) | lokální Claude (tamtéž, úkol 2) | zadáno |
 | L7 | ÖStA: reprodukce spisu RAA 143.32 (žádost 1703 – zásluhy, předci) – placená objednávka, jen když Jan výslovně chce | Jan | volitelné |

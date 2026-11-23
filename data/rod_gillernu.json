@@ -4635,7 +4635,8 @@
         "Zajímavá shoda: i pozdější Gillerové ve Dvorcích byli spjati s Lichtenštejny – poštmistr Franz Leopold Giller byl úředníkem lichtenštejnského panství Karlovec a Karel Josef lichtenštejnským sekretářem ve Vídni. Zda jde o rodinnou návaznost, nevíme.",
         "Roku 1642 se přestěhoval do Krnova, kde po tchyni zdědil svobodný dům s dvorem; otcovský dům v Opavě prodal roku 1644. Zemřel 1655/1656.",
         "Měl dvě manželky jménem Zuzana – jedna byla podle Zukala dcerou Hanse von Götz a Zuzany Dreßler von Scharfenstein. Synové: Benedikt Josef, lékárník v Krnově, a Ignác (Pilnáček uvádí také syna Jana).",
-        "V krnovských křtech 1640–1674 jako otec nevystupuje – jeho děti se narodily dřív nebo jinde. Jedinou možnou stopou je kmotra „Susanna Mathias …“ z roku 1643 (čtení nejisté)."
+        "V opavské křestní matrice je 12. 6. 1636 zapsán křest Ignáce, syna „D. Matthias …ieller“ a Zuzany (kmotři Daniel Meltzer a Alžběta Anna Kohlisová (?)); první písmeno příjmení má tvar G téhož písaře, jisté to ale není, a „D.“ může znamenat pána (Dominus) i doktora. Roku 1638 je v Opavě dvakrát kmotrem „Matthias G(?)ieller“, jednou spolu s kmotrou z hraběcího rodu Oppersdorffů.",
+        "Při sňatku syna Ignáce v Krnově v listopadu 1662 je zapsán jako zesnulý: „weylandt H. Matthias …iller von Lilienfelt“."
       ],
       "vztahy": [
         {
@@ -4665,7 +4666,12 @@
           "nazev": "J. Pilnáček, Rody starého Slezska 2 (1972), s. 15–16"
         },
         {
-          "nazev": "ZA Opava, Krnov – matrika N 1640–1674 (FamilySearch, film 5398576)"
+          "nazev": "ZA Opava, Opava – matrika N 1627–1664, Op I 1 (FamilySearch, film 5393163), snímek 107 – křest Ignáce 12. 6. 1636",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-89MW-FKZY"
+        },
+        {
+          "nazev": "ZA Opava, Krnov – matrika O 1658–1737 a Z 1669–1737 („vol. 808“, FamilySearch), snímek 12 – sňatek Ignáce 11/1662",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-89MH-Y9KL-R"
         },
         {
           "nazev": "de.wikipedia.org – Gillern",
@@ -4675,24 +4681,43 @@
     },
     "benedikt_lilienfeld": {
       "jmeno": "Benedikt Josef Giller z Lilienfeldu",
-      "roky": "lékárník v Krnově, doložen 1646–1660. léta",
+      "roky": "lékárník v Krnově, doložen 1646 – † 1671 (pohřben 13. 1. 1671 v Krnově)",
       "stav": "doc",
       "vazba": "syn lékaře Matyáše Gillera z Lilienfeldu; zda souvisí se slezskými Gillerny, nevíme",
       "fakta": [
-        "Podle Zukala byl synem lékaře Matyáše Gillera z Lilienfeldu a lékárníkem v Krnově.",
+        "Podle Zukala byl synem lékaře Matyáše Gillera z Lilienfeldu a lékárníkem v Krnově; jeho bratrem byl Ignác Giller z Lilienfeldu.",
         "V krnovské matrice je zapsán jako „Benedictus Ignatius Giller“, manželka Zuzana; roku 1652 výslovně „ein Apotecker“. Písaři psali jeho příjmení různě (i Diller), ale ve dvou zápisech z roku 1648 je zřetelné G – stejné jako v okolních slovech „Gotfried“ a „Georg“.",
-        "Děti pokřtěné v Krnově: Anna Zuzana (asi 7. 1. 1646), Gotfried Benedikt (26. 3. 1648), Anna Rosina (4. 8. 1650), Jan Kryštof (18. 4. 1652) a další Anna Rosina (60. léta ?).",
-        "Predikát „von Lilienfeld“ v matrice nepoužívá. Pilnáček uvádí jako syna Matouše Gillera (erb 1568) Beneše (Benedikta) a mezi Matoušovými vnuky lékárníka Gotharda; jak se tyto údaje kryjí s krnovským lékárníkem Benediktem a jeho synem Gotfriedem (* 1648), není jasné."
+        "Děti pokřtěné v Krnově: Anna Zuzana (asi 7. 1. 1646), Gotfried Benedikt (26. 3. 1648), Anna Rosina (4. 8. 1650), Jan Kryštof (18. 4. 1652) a druhá Anna Rosina (listopad 1666).",
+        "Pohřben byl 13. 1. 1671 v Krnově jako „H. Benedict …iller von Lillienfeldt“ – „mit gantzer Schul“, tedy slavnostně za doprovodu celé školy. Při křtech dětí stojí bez přídomku, v pohřebním zápisu s ním.",
+        "Vdova Zuzana se v listopadu 1671 v Krnově znovu provdala za lékárníka Jakuba Eberhardta (?), syna měšťana z Württemberska; ten byl pohřben 9. 12. 1678. Dcera Anna Zuzana, „pozůstalá dcera pana Benedikta …illera, bývalého měšťana a lékárníka“, se v dubnu 1682 v Krnově vdala za Adama Brechtela (?), měšťana a kloboučníka v Hlubčicích (?).",
+        "Pilnáček uvádí jako syna Matouše Gillera (erb 1568) Beneše (Benedikta) a mezi Matoušovými vnuky lékárníka Gotharda; jak se tyto údaje kryjí s krnovským lékárníkem Benediktem a jeho synem Gotfriedem (* 1648), není jasné."
       ],
       "vztahy": [
         {
           "vztah": "rodič (podle literatury)",
           "profil": "matyas_lilienfeld"
+        },
+        {
+          "vztah": "bratr",
+          "profil": "ignac_lilienfeld"
         }
       ],
       "zdroje": [
         {
-          "nazev": "ZA Opava, Krnov – matrika N 1640–1674 (FamilySearch, film 5398576)"
+          "nazev": "ZA Opava, Krnov – matrika N 1640–1674 („vol. 807“, FamilySearch, film 5398576), snímek 115 – křest 26. 3. 1648",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MH-Y9KK-6"
+        },
+        {
+          "nazev": "ZA Opava, Krnov – matrika O 1658–1737 a Z 1669–1737 („vol. 808“, FamilySearch), snímek 303 – pohřeb 13. 1. 1671",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-89MH-Y9K2-Y"
+        },
+        {
+          "nazev": "tamtéž, snímek 37 – sňatek vdovy Zuzany 11/1671",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-89MH-Y9KK-S"
+        },
+        {
+          "nazev": "tamtéž, snímek 77 – sňatek dcery Anny Zuzany 4/1682",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MH-Y9KR-4"
         },
         {
           "nazev": "J. Zukal, Troppauer Ärztewesen (1910/1911), s. 109"
@@ -4701,20 +4726,40 @@
     },
     "ignac_lilienfeld": {
       "jmeno": "Ignác Giller z Lilienfeldu",
-      "roky": "17. století",
-      "stav": "lit",
-      "vazba": "podle Zukala syn lékaře Matyáše Gillera z Lilienfeldu; vztah k ostatním Gillerům neznámý",
+      "roky": "* 12. 6. 1636 Opava (?) – doložen do 1674 v Krnově",
+      "stav": "doc",
+      "vazba": "syn lékaře Matyáše Gillera z Lilienfeldu (doloženo zápisem sňatku 1662), bratr krnovského lékárníka Benedikta; vztah k ostatním Gillerům neznámý",
       "fakta": [
-        "Zukal uvádí Ignáce jako syna Matyáše Gillera z Lilienfeldu; Pilnáček zmiňuje Ignáce z roku 1658 na Krnovsku.",
-        "V krnovských křtech 1640–1674 jako otec není. Benedikt, Matyášův syn, je v matrice zapsán jako „Benedictus Ignatius“ – Ignác tak může být jen jeho druhé jméno, ne další bratr."
+        "Nejspíš je to Ignác, syn „D. Matthias …ieller“ a Zuzany, pokřtěný 12. 6. 1636 v Opavě; první písmeno příjmení tam má tvar G téhož písaře, jisté to ale není.",
+        "V listopadu 1662 se v Krnově oženil: „H. Ignatius …iller von Lilienfelt ein Junggesell, weylandt H. Matthias …iller von Lilienfelt nachgelassener Sohn“ – mládenec, pozůstalý syn zesnulého pana Matyáše z Lilienfeldu. Nevěstou byla panna Mar[iana ?], dcera pana Jiřího Wei… (?), nějakého správce (část zápisu je nečitelná). Svědky byli Friedrich Dornwald a Friedrich Schmidt (?).",
+        "Děti pokřtěné v Krnově: Jan Kryštof (září 1663) a Anna Rosina (březen 1666; kmotrem byl kapitán-poručík Jan Ball (?) z Wallburgu (?)).",
+        "V letech 1660–1674 šel v Krnově asi dvanáctkrát za kmotra, manželka Mariana naposledy v červnu 1674.",
+        "Písaři jeho příjmení psali většinou s D („Diller“); díky přídomku „von Lilienfelt“ v zápisu sňatku je ale totožnost jasná.",
+        "Pilnáček uvádí, že „Ignác G.“ měl 10. 7. 1658 snad na Krnovsku dvůr."
       ],
       "vztahy": [
         {
-          "vztah": "otec (podle Zukala)",
+          "vztah": "otec",
           "profil": "matyas_lilienfeld"
+        },
+        {
+          "vztah": "bratr",
+          "profil": "benedikt_lilienfeld"
         }
       ],
       "zdroje": [
+        {
+          "nazev": "ZA Opava, Krnov – matrika O 1658–1737 („vol. 808“, FamilySearch), snímek 12 – sňatek 11/1662",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-89MH-Y9KL-R"
+        },
+        {
+          "nazev": "ZA Opava, Krnov – matrika N 1640–1674 („vol. 807“, FamilySearch, film 5398576), snímky 249 (9/1663) a 263 (3/1666)",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-89MH-Y9KD-X"
+        },
+        {
+          "nazev": "ZA Opava, Opava – matrika N 1627–1664, Op I 1 (FamilySearch, film 5393163), snímek 107 – křest 12. 6. 1636",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-89MW-FKZY"
+        },
         {
           "nazev": "J. Zukal, Troppauer Ärztewesen (1910/1911), s. 109"
         },
@@ -6129,7 +6174,7 @@
       },
       {
         "nadpis": "Gillerové z Lilienfeldu – Opava, Krnov, Olomouc",
-        "text": "Opavská patricijská a lékařská rodina s erbem a přídomkem „von Lilienfeld“ (1568). Erb je téměř shodný s erbem Gillernů a napojení na náš rod ale zatím doložené není – zjistit ho je jeden z úkolů výzkumu. Vazby uvnitř rodiny jsou z literatury (Tesař, Zukal), ne z matrik. Měšťanský rod Gillerů ze Dvorců se k nim ve 19. století hlásil: Ignác Leopold Giller (* 1771 Dvorce), správce v Doloplazích, je v soudním spisu 1822–1826 zapsán jako „Giller v. Lilienfeld“. Josef Pilnáček (Rody starého Slezska) soudí, že Gillernové byli s opavskými Gillery z Lilienfeldu „omylem ztotožňováni“ – nobilitováni byli samostatně (1700, 1726) a erb mají jiný.",
+        "text": "Opavská patricijská a lékařská rodina s erbem a přídomkem „von Lilienfeld“ (1568). Erb je téměř shodný s erbem Gillernů a napojení na náš rod ale zatím doložené není – zjistit ho je jeden z úkolů výzkumu. Vazby uvnitř rodiny jsou zčásti z literatury (Tesař, Zukal); že Ignác byl synem Matyáše, potvrzuje krnovský zápis sňatku z roku 1662. Měšťanský rod Gillerů ze Dvorců se k nim ve 19. století hlásil: Ignác Leopold Giller (* 1771 Dvorce), správce v Doloplazích, je v soudním spisu 1822–1826 zapsán jako „Giller v. Lilienfeld“. Josef Pilnáček (Rody starého Slezska) soudí, že Gillernové byli s opavskými Gillery z Lilienfeldu „omylem ztotožňováni“ – nobilitováni byli samostatně (1700, 1726) a erb mají jiný.",
         "uzly": [
           {
             "jmeno": "Matouš Giller",
@@ -6151,21 +6196,22 @@
                 "stav": "lit",
                 "vazba": "nejiste",
                 "roky": "† 1655/1656 Krnov",
-                "pozn": "lékař v Olomouci a Opavě, roku 1652 sestavil kostelní urbář Opavy; od 1642 v Krnově; manželky Zuzana a Zuzana (Götzová?); vztah k Matoušovi neznámý",
+                "pozn": "lékař v Olomouci a Opavě, roku 1652 sestavil kostelní urbář Opavy; od 1642 v Krnově; manželky Zuzana a Zuzana (Götzová?); v listopadu 1662 už zesnulý; vztah k Matoušovi neznámý",
                 "deti": [
                   {
                     "jmeno": "Benedikt Josef Giller z Lilienfeldu",
                     "stav": "doc",
                     "vazba": "lit",
-                    "pozn": "lékárník v Krnově; v krnovské matrice „Benedictus Ignatius Giller“ (písaři též Diller), × Zuzana; děti pokřtěné v Krnově: Anna Zuzana (asi 7. 1. 1646), Gotfried Benedikt (26. 3. 1648), Anna Rosina (4. 8. 1650), Jan Kryštof (18. 4. 1652) a Anna Rosina (60. léta ?)",
-                    "profil": "benedikt_lilienfeld"
+                    "pozn": "lékárník v Krnově; v matrice „Benedictus Ignatius Giller“ (písaři též Diller), při pohřbu 13. 1. 1671 „von Lillienfeldt“; × Zuzana; děti pokřtěné v Krnově: Anna Zuzana (asi 7. 1. 1646), Gotfried Benedikt (26. 3. 1648), Anna Rosina (4. 8. 1650), Jan Kryštof (18. 4. 1652) a Anna Rosina (11/1666)",
+                    "profil": "benedikt_lilienfeld",
+                    "roky": "doložen 1646 – † 1671"
                   },
                   {
-                    "jmeno": "Ignác Giller",
-                    "stav": "lit",
-                    "vazba": "nejiste",
-                    "roky": "17. století",
-                    "pozn": "uvádí Zukal; v krnovských matrikách 1640–1674 jako otec není – snad jde o druhé jméno Benedikta („Benedictus Ignatius“)",
+                    "jmeno": "Ignác Giller z Lilienfeldu",
+                    "stav": "doc",
+                    "vazba": "doc",
+                    "roky": "* 1636 Opava (?) – doložen do 1674",
+                    "pozn": "× 11/1662 Krnov Mariana; ve sňatku „pozůstalý syn zesnulého pana Matyáše …illera von Lilienfelt“; děti Jan Kryštof (1663) a Anna Rosina (1666)",
                     "profil": "ignac_lilienfeld"
                   }
                 ],

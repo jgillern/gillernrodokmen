@@ -13,12 +13,12 @@ Platí jen tato tabulka. Všechno pod čarou „ARCHIV“ je historie kroků (ho
 | 2 | 1 | **Rejstřík celé slezské sbírky s předložkou** a podle křestních jmen (sňatek Max./Joseph × Johanna 1736–1752, křest Josepha 1743–1750, všichni Gillerové 1700–1800); zamčené filmy s rejstříkem? | FS sbírka 4110912 | L (`zadani_lokalni_fs_rejstrik_slezsko.md`, část A) | zadání připraveno |
 | 3 | 1 | **Sonda rejstříku Krehlau** – křty 7–9/1736, pohřby 8–10/1736 (známé dítě † 23. 9. 1736), sňatky 1742–1744 se stranami, křty 1745–1746 po měsících | FS 7769311 | L (tamtéž, část B) | zadání připraveno |
 | 4 | 1 | **AAWr po odpovědi:** etapa 1 beze změny + strany s křtem 30. 11. 1743, pohřbem 18. 12. 1743 a pohřbem 1. 9. 1736 + otázka na otce u křtu 1743; etapu 2 jen cíleně | e-mail | J | čeká se na odpověď |
-| 5 | 2 | **Krnov 1640–1674:** chybějící kmotři dětí lékárníka Benedikta (1648, 1650, 2. Anna Rosina); rodina soukeníka Laurentia (Christian * V/1643), zkouška písaře D/G | FS film 5398576 | L (`zadani_lokalni_krnov_dvorce_spojka.md`, část A) | zadání připraveno |
-| 6 | 2 | **Dvorce:** úmrtí Franze Leopolda (po 1720), Susanna † 1724, Christian † 1711 celé, sňatky dcer 1688–1689 | ZA Opava Dv I 1, Dv I 1 O 2 | L (tamtéž, část B) | zadání připraveno |
+| 5 | 2 | **Dvorce + Krnov + Opava (spojka):** (A) Dvorce – povolání a původ Christiana st. (pohřeb 1711, sňatky dcer 1688/89), knihy před 1688, Franz Leopold † 1720–24 (věk), Susanna † 1724; (B) Krnov – křty sn. 92–95 a 161–226 (1647, 1652–1659), kmotři 1648 a 1650, pohřby 1686–1700 (Ignác, Mariana), zbude-li čas křty 1675–1690; (C) Opava – rejstřík sňatků Op I 11 pod D, H, S, T, Z, L 1627–1650 (Matyáš, Hans/Johann Christoph) | FS (kopie ZA Opava), digi.archives.cz | L (`zadani_lokalni_krnov_dvorce_spojka.md`, přepracováno po kole 10) | zadání připraveno |
+| 6 | 2 | **Hypotézy ke spojce (log 691):** (H-C) dvorecký Christian * asi 1643 = Christian, syn krnovského soukeníka Laurentia ?illera (V/1643)? → test: povolání a původ v Dvorcích (krok 5A); (H-L) rytmistr Johann Christoph = starší syn Matyáše z Lilienfeldu (* asi 1615–1625, před začátkem opavské knihy IX/1627)? Opora jen nepřímá: Pilnáček „zanechal syna Jana“, Benedikt (1652) i Ignác (1663) dali synům jméno Johann Christoph; proti stojí Gotha 1884 (otec Heinrich Christof) → test: kmotři a sňatky (krok 5B, 5C), text Zukala o rodině (cloud), list 1700 („Gilloi“, krok 9) | – | C | |
 | 7 | P | **Matka Catharina roz. Nerlich:** pohřeb 1. 9. 1736 a křest dítěte 8/1736 na otevřeném filmu; křest v Nise 1692–1694 | FS 8244728, 8244729; Nisa koha:350765 | L (`zadani_lokalni_matka_nerlich.md`) | zadání připraveno |
 | 8 | 2 | Článek ZVGMS 12 (1908) o Dvorcích celý (Giller, pošta, Karlovec, úředníci) | ČDK | C | |
 | 9 | 2 | **„Gilloi“** – list z 20. 8. 1700 pod zkomoleným jménem (Kneschke 3, s. 524; Hellbach I, s. 429; Megerle 1824; katalog ÖStA, VadeMeCum NA) | archive.org, katalogy | C | |
-| 10 | 2 | Běžící: Krnov sňatky a pohřby od 1658, křty 1675–1690; Opava 1627–1643; Deštné, Vítkov 1643–1652, pozemková kniha Deštného | FS, ZA Opava | L | běží |
+| 10 | 2 | Běžící: Deštné, Vítkov 1643–1652, pozemková kniha Deštného. **Hotovo (log 691):** Opava křty IX/1627–1653, Krnov křty 1640–1674 (bez sn. 92–95, 161–226), sňatky X/1658–X/1685, pohřby IX/1669–XII/1685 | FS, ZA Opava | L | běží (Deštné) |
 | 11 | 2 | Pošta Deštné a Dvorce, poštmistři 17. stol. (d’Elvert, dějiny pošt) | Google Books, archive.org, ČDK | C | |
 | 12 | 1, 2 | Ignatius Antonius (Hammer 1738): funkce v zápisu, rodina; výsledky kroku 2 | vlastní výřez; FS | C, L | |
 | 13 | 2 | František Mikuláš: sňatek v Červeném Poříčí / Švihově 1688–1712; uherský zákon 1715 (indigenát) | Porta fontium; sbírka uherských zákonů | L, C | |
@@ -30,7 +30,7 @@ Platí jen tato tabulka. Všechno pod čarou „ARCHIV“ je historie kroků (ho
 
 **Přestat:** plošně číst film Krehlau 1935; plánovat plošnou etapu 2 v AAWr; hledat v rejstřících bez předložky a psát to jako negativní; F. Mikuláše přes Uhry, ANNO a Wikipedii (jen krok 13); přidávat na web údaje z Wikipedie bez označení; další pražské farnosti, zbytky komorních panství, Krnov 1740–1749 (J6), Terezie; nadpisy „vyčerpáno“.
 
-**Poznámka k Fableově testu 5.3 (kmotři dětí lékárníka Benedikta):** kmotry křtů 7. 1. 1646 a 18. 4. 1652 už máme celé (pracovni/predci/Opava_predci_kolo1.md, nálezy 7 a 8) – rytmistr Giller ani Bartsch mezi nimi nejsou; doplnit zbývá 26. 3. 1648, 4. 8. 1650 a druhou Annu Rosinu (krok 5).
+**Poznámka k Fableově testu 5.3 (kmotři dětí lékárníka Benedikta):** kmotry křtů 7. 1. 1646, 18. 4. 1652 a 11/1666 už máme – rytmistr Giller ani Bartsch mezi nimi nejsou; zbývá 26. 3. 1648 a 4. 8. 1650 (krok 5B).
 
 ---
 

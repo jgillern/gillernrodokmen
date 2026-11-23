@@ -213,7 +213,7 @@ Priorita 1 HOTOVA: Ignác × Rosálie v O 1764–1772 není; Anna † 1772 jen �
 ### Ignác – Otmuchov (21. 11. 2026, log 586)
 Nové indicie pro **Mösen u Otmuchova** (Fable kandidát 2): Carl Joseph z Gillernů (2. větev, syn Josepha Antona) × 26. 4. 1785 **Groß Karlowitz** Antonia Nerlich, dcera rodiny pánů na **Reisewitz** (1¼ míle od Otmuchova); Groß Karlowitz i Mösen patří k okruhu města Otmuchov (Zimmermann 3). Gillernové tedy 1785 prokazatelně v okolí Otmuchova – rok po zápisu „in Silesia Incola M…“. Mösen: farnost Rathmannsdorf (Ratnowice), biskupská ves. Další kroky: [J] katalog FamilySearch – kat. matriky Ottmachau, Rathmannsdorf, Groß Karlowitz 1765–1810 (lze prohlížet snímky?); snímek sňatku 1785 (svědci!); [J] FamilySearch hledání Gillern s místem „Kreis Neisse“; [A] Knie 1845 / Triest 1865 jen místopis. Polské archivy (szukajwarchiwach) mají ochranu proti botům – případně ChatGPT [B].
 
-### Ignác – po zprávě E (21. 11. 2026, log 597) – ONLINE VYČERPÁNO
+### Ignác – po zprávě E (21. 11. 2026, log 597) – pozastaveno; nově Ignatius Antonius Giller na Hammeru 1738 (log 672) a rejstříky FamilySearch s předložkou (log 687)
 Slezské tisky (adresáře 1779–1790, Provinzialblätter 1788–1830), polské státní archivy (duplikáty, posádka Nisa 1798–1830) – Ignác nikde. Otevřené zůstává jen: (1) křty Otmuchova do 1775 na FamilySearch (prohlížení z domu – úkol F / Claude v prohlížeči, Jan rozhodne), (2) offline: akta šoltézství Mösen 1743–1818 a pozemkové knihy (AP Opole, bez skenů) – jen evidovat. Linii Ignáce pozastavit, dokud se neobjeví nová online stopa.
 
 ### Ignác – po 2. revizi Fable (21. 11. 2026, `revize_ignac2_fable.md`, log 593)

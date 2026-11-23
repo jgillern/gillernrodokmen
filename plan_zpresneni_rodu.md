@@ -1,4 +1,40 @@
-# Plán zpřesnění rodu Gillernů (21. 11. 2026)
+# Plán zpřesnění rodu Gillernů
+
+## ★ AKTUÁLNÍ PLÁN (od 23. 11. 2026, po 7. revizi Fable – `revize_plan_fable.md`)
+Platí jen tato tabulka. Všechno pod čarou „ARCHIV“ je historie kroků (hotové, zastaralé, překryté) – jen k dohledání.
+
+**Dva cíle se stejnou prioritou:** (1) Maximilián 1736–1749, Johanna, Josef; (2) původ rodu (Heinrich Christof, Johann Christof, Lilienfeld, Dvorce, pruští baroni, nezařazení).
+**Kdo:** L = lokální Claude v Janově prohlížeči · C = Claude v cloudu · J = Jan.
+**Pravidla:** jen online cesty; nic nevyhlašovat za „online neřešitelné“; téma zavřít, až dva nezávislé průchody nic nenajdou a kontrolní vzorek (známá událost) projde; v rejstřících FamilySearch hledat s předložkou (`*Giller*`, `von G*`, `V G*`).
+
+| # | Cíl | Krok | Kde | Kdo | Stav |
+|---|---|---|---|---|---|
+| 1 | 1 | **„Joanna von Lepin“ 1743** – zápis křtu 30. 11. 1743 (otec, kmotři); doplnit: křest 30. 1. (?) 1746 „Augustus Constantinus Carolus Borromaeus“ v rejstříku; nevěsty Joann* s příjmením *Lep*/*Leip*/*Löb*/*Lipp* 1740–1744 | FS DGS 8244729 sn. 228 / 32; rejstřík 7769311 | L (`zadani_lokalni_krehlau_lepin_1743.md`) | běží |
+| 2 | 1 | **Rejstřík celé slezské sbírky s předložkou** a podle křestních jmen (sňatek Max./Joseph × Johanna 1736–1752, křest Josepha 1743–1750, všichni Gillerové 1700–1800); zamčené filmy s rejstříkem? | FS sbírka 4110912 | L (`zadani_lokalni_fs_rejstrik_slezsko.md`, část A) | zadání připraveno |
+| 3 | 1 | **Sonda rejstříku Krehlau** – křty 7–9/1736, pohřby 8–10/1736 (známé dítě † 23. 9. 1736), sňatky 1742–1744 se stranami, křty 1745–1746 po měsících | FS 7769311 | L (tamtéž, část B) | zadání připraveno |
+| 4 | 1 | **AAWr po odpovědi:** etapa 1 beze změny + strany s křtem 30. 11. 1743, pohřbem 18. 12. 1743 a pohřbem 1. 9. 1736 + otázka na otce u křtu 1743; etapu 2 jen cíleně | e-mail | J | čeká se na odpověď |
+| 5 | 2 | **Krnov 1640–1674:** chybějící kmotři dětí lékárníka Benedikta (1648, 1650, 2. Anna Rosina); rodina soukeníka Laurentia (Christian * V/1643), zkouška písaře D/G | FS film 5398576 | L (`zadani_lokalni_krnov_dvorce_spojka.md`, část A) | zadání připraveno |
+| 6 | 2 | **Dvorce:** úmrtí Franze Leopolda (po 1720), Susanna † 1724, Christian † 1711 celé, sňatky dcer 1688–1689 | ZA Opava Dv I 1, Dv I 1 O 2 | L (tamtéž, část B) | zadání připraveno |
+| 7 | P | **Matka Catharina roz. Nerlich:** pohřeb 1. 9. 1736 a křest dítěte 8/1736 na otevřeném filmu; křest v Nise 1692–1694 | FS 8244728, 8244729; Nisa koha:350765 | L (`zadani_lokalni_matka_nerlich.md`) | zadání připraveno |
+| 8 | 2 | Článek ZVGMS 12 (1908) o Dvorcích celý (Giller, pošta, Karlovec, úředníci) | ČDK | C | |
+| 9 | 2 | **„Gilloi“** – list z 20. 8. 1700 pod zkomoleným jménem (Kneschke 3, s. 524; Hellbach I, s. 429; Megerle 1824; katalog ÖStA, VadeMeCum NA) | archive.org, katalogy | C | |
+| 10 | 2 | Běžící: Krnov sňatky a pohřby od 1658, křty 1675–1690; Opava 1627–1643; Deštné, Vítkov 1643–1652, pozemková kniha Deštného | FS, ZA Opava | L | běží |
+| 11 | 2 | Pošta Deštné a Dvorce, poštmistři 17. stol. (d’Elvert, dějiny pošt) | Google Books, archive.org, ČDK | C | |
+| 12 | 1, 2 | Ignatius Antonius (Hammer 1738): funkce v zápisu, rodina; výsledky kroku 2 | vlastní výřez; FS | C, L | |
+| 13 | 2 | František Mikuláš: sňatek v Červeném Poříčí / Švihově 1688–1712; uherský zákon 1715 (indigenát) | Porta fontium; sbírka uherských zákonů | L, C | |
+| 14 | 2 | Franz Anton: Krehlau 1727 (sn. 463–466) jen s otázkou „syn Carla Heinricha 5–9/1727“ | FS 8244728 | L | nízká priorita |
+| 15 | 1 | Franz († 1817) a Ludvík: kmotři v brandýských křtech 1784–1800 | eBadatelna | L | |
+| 16 | 2 | Olomouc 1620–1642 (Matyáš), Wrede III/2 obraz strany (pluk Wrbna), Tschammer | FS, archive.org | L, C | po krocích 5, 8, 9 |
+| 17 | 1 | Mužstvo pluku č. 15 v lednu 1745 | FS DGS 7607065 | L | jen zbude-li čas |
+| 18 | – | Pruští baroni (kolo 11 B), vídeňská větev, Cheb plošně | – | – | odloženo (jména vypadnou z kroku 2) |
+
+**Přestat:** plošně číst film Krehlau 1935; plánovat plošnou etapu 2 v AAWr; hledat v rejstřících bez předložky a psát to jako negativní; F. Mikuláše přes Uhry, ANNO a Wikipedii (jen krok 13); přidávat na web údaje z Wikipedie bez označení; další pražské farnosti, zbytky komorních panství, Krnov 1740–1749 (J6), Terezie; nadpisy „vyčerpáno“.
+
+**Poznámka k Fableově testu 5.3 (kmotři dětí lékárníka Benedikta):** kmotry křtů 7. 1. 1646 a 18. 4. 1652 už máme celé (pracovni/predci/Opava_predci_kolo1.md, nálezy 7 a 8) – rytmistr Giller ani Bartsch mezi nimi nejsou; doplnit zbývá 26. 3. 1648, 4. 8. 1650 a druhou Annu Rosinu (krok 5).
+
+---
+
+# ARCHIV – starší vrstvy plánu (21.–23. 11. 2026)
 
 Prošel jsem všechny nejisté vazby v rodokmenu rodu (hlavní strom, Gillerové ve Dvorcích, nezařazení) i Gillerny z pramenů, které zatím nikam nepatří. Úplný seznam je v části 3, tady nahoře je plán.
 

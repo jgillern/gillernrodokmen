@@ -44,6 +44,7 @@ Kolo 2 (log 613): Maximilian v pohřbech Krehlau 1719–1737 NENÍ (nezemřel ja
 4. Nejistá čtení označím (?) – nic nedomýšlím.
 5. Ke každému novému zápisu: výřez (`tools/vyrez.py`), rámeček (`tools/ramecek.py`) a přepis s překladem.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
+7. **(Jan 23. 11. 2026, důrazně – opakovaně ho to obtěžovalo)** Nikdy neříkat ani nepsat, že něco „z domova / online neposuneme“, „online nic není“, „slepá ulička“ apod. Po neúspěšném hledání napsat jen, co se zjistilo a kde to není, a **hned uvést další online cesty**, které ještě zbývají (a ideálně je rovnou začít). Většinu takto „uzavřených“ otázek jsme nakonec online posunuli.
 
 ## Rozpracováno (aktualizovat průběžně)
 Stav k 16. 11. 2026. Matriky SOA Praha (eBadatelna) čte Jan v prohlížeči a posílá snímky (+ číslo snímku / URL);

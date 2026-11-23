@@ -45,6 +45,7 @@ Kolo 2 (log 613): Maximilian v pohřbech Krehlau 1719–1737 NENÍ (nezemřel ja
 5. Ke každému novému zápisu: výřez (`tools/vyrez.py`), rámeček (`tools/ramecek.py`) a přepis s překladem.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 7. **(Jan 23. 11. 2026, důrazně – opakovaně ho to obtěžovalo)** Nikdy neříkat ani nepsat, že něco „z domova / online neposuneme“, „online nic není“, „slepá ulička“ apod. Po neúspěšném hledání napsat jen, co se zjistilo a kde to není, a **hned uvést další online cesty**, které ještě zbývají (a ideálně je rovnou začít). Většinu takto „uzavřených“ otázek jsme nakonec online posunuli.
+8. **(Jan, opakovaně – naposledy 23. 11. 2026)** Texty na webu (profily, osoby, boční příbuzní, poznámky u osob, `note`, `f`, `t`, fakta v `rod_*.json`) = **jen fakta o člověku a jeho rodině**. Nikdy tam nepatří deník výzkumu: kde se hledalo, co se nenašlo, co „na FamilySearch / v archivu / v matrice není“, co je zamčené, nedigitalizované nebo nedochované, kvalita mikrofilmu (rozpité, vybledlé, nečitelné), čísla snímků, „ověřit“, „zatím nemáme zápis“, signatury nedigitalizovaných spisů. To všechno patří jen do `research_log.md`, `archivni_dotazy.md` a plánu. Povolené je krátké „další osud neznáme“ a uvedení zdroje faktu. Před každým zápisem textu na web to zkontrolovat.
 
 ## Rozpracováno (aktualizovat průběžně)
 Stav k 16. 11. 2026. Matriky SOA Praha (eBadatelna) čte Jan v prohlížeči a posílá snímky (+ číslo snímku / URL);

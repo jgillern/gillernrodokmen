@@ -284,6 +284,34 @@ def main():
                         f"zeptej se uživatele, jestli to tam smí být (reference/soukromi.md); když ano, "
                         f"přidej úryvek textu s tím slovem do web.json „citlive_schvaleno“")
 
+    # deník do textů na webu nepatří (kde se hledalo, co se nenašlo, zamčené/nedigitalizované, kvalita mikrofilmu)
+    denik = re.compile(r"FamilySearch|mikrofilm|nenalez|nenaš|zatím nemáme|nedigitaliz|zamčen|rozpit|vybledl|"
+                       r"nedochoval|neobjevuje|v matri(?:ce|kách)[^.;]{0,50}(?:není|nejsou)|ověřit\b", re.I)
+    web_texty = list(texty)
+    for f in sorted(os.listdir(DATA)):
+        if re.fullmatch(r"rod_[a-z0-9_]+\.json", f):
+            d = json.load(open(os.path.join(DATA, f), encoding="utf-8-sig"))
+            for pid, pr in (d.get("profily") or {}).items():
+                web_texty.append((f"{f} profil {pid}", " ".join(pr.get("fakta") or []) + " " + (pr.get("pozn") or "")
+                                  + " " + (pr.get("vazba") or "")))
+            for o in d.get("osoby") or []:
+                web_texty.append((f"{f} osoby {o.get('jmeno', '')[:30]}", o.get("text") or ""))
+            def uzly(n):
+                yield n
+                for c in n.get("deti") or []:
+                    yield from uzly(c)
+            for c in (d.get("rodokmen") or {}).get("casti") or []:
+                for u in c.get("uzly") or []:
+                    for n in uzly(u):
+                        web_texty.append((f"{f} strom {n.get('jmeno', '')[:30]}", (n.get("pozn") or "") + " " + (n.get("roky") or "")))
+    for kde, text in web_texty:
+        if kde == "ISSUES" or kde.endswith((".md",)):
+            continue
+        m = denik.search(text)
+        if m:
+            warn.append(f"DENÍK NA WEBU ({kde}): „…{text[max(0, m.start() - 40):m.end() + 40].strip()}…“ – "
+                        f"na web jen fakta o člověku; kde se hledalo / co se nenašlo patří do research_log.md")
+
     if not os.path.exists(os.path.join(DATA, "pribeh.md")):
         hlavni = min(LINES) if LINES else 8   # bez LINES rod po meči (otec otce otce)
         jmeno = (LINES[hlavni][0] if LINES else

@@ -94,3 +94,6 @@ Adresa profilu osoby (slug) se skládá ze jména a roku narození v poli `y`. K
 
 ## Komunikace: nezavírat témata slovy „online to neposuneme“ (23. 11. 2026)
 Uživatel opakovaně (asi 20×) slyšel, že něco „z domova neposuneme“, a ve většině případů se to pak online posunulo – je to pro něj velmi únavné. Do skillu: po neúspěšném hledání nikdy nedeklarovat konec online cesty; uvést, co se zjistilo, a vyjmenovat (a začít) další online cesty – jiné databáze, literatura, indexy, jiné varianty jmen, příbuzní, sousední farnosti.
+
+## Web: žádný deník v profilech (23. 11. 2026, Jan opakovaně)
+Do textů na webu (profily, poznámky u osob, fakta) asistent opakovaně psal deníkové věty („v matrice není“, „na FamilySearch zamčeno“, „spisy nejsou digitalizované“, „křty jsou na mikrofilmu rozpité“, „pohřeb nenalezen“). Uživatel to nechce. Do skillu: pravidlo + automatická kontrola v tools/kontrola.py (hledat v textech pro web slova typu FamilySearch, mikrofilm, snímek, nenalez*, nedigitaliz*, zamčen*, rozpit*, nečiteln*, „není v matrice“, ověřit) a hlásit je jako upozornění.

@@ -5,7 +5,7 @@
 
 ---
 
-**Předmět:** Žádost o digitální kopie – šlechtické listy Giller/Gillern 1700 a 1732, Česká dvorská komora
+**Předmět:** Rod Gillernů – žádost o kopie šlechtických listů a spisů (1700, 1732) a dotaz na zmínky o Maximiliánovi z Gillernů (1750–1761)
 
 Dobrý den,
 

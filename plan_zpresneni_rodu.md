@@ -38,6 +38,7 @@ Platí jen tato tabulka. Všechno pod čarou „ARCHIV“ je historie kroků (ho
 | 27 | 1 | **Maximilián – pluk ubytovaný v Polabí 1748–1750:** v matrikách Nymburk a Poděbrady 1748–1750 vypsat vojáky („miles ex regimine …“) → zjistit pluk(y) → jejich kmenové listy 1748–1749 (propuštění při redukci) | eBadatelna, FS | L | návrh |
 | 28 | 1 | **Maximilián – pluk č. 15 v letech 1741–1744** (Friedrich vstoupil 1742, Franz Anton 1744 „znovu“): kmenové listy DGS 7607065 z let 1741–1744 (dosud čten jen 1745, 1753, 1756) | FS | L | návrh |
 | 29 | 1 | Literatura a katalog: rakouské pluky ve Slezsku 1740–1742 (posádky Hlohov, Břeh, Nisa; Malujowice, Chotusice – Österreichischer Erbfolge-Krieg sv. 1–2); pruský jízdní polní myslivecký sbor – seznamy členů; katalog FS – rakouské vojenské matriky začínající před 1750 | archive.org, FS | C, L | návrh |
+| 30 | 1 | **Koryčany 1751–1785 (Acta Publica MZA, www.mza.cz/actapublica – Janovi v Chromu funguje):** Josef 1760–1785 (sňatky, křty 1776–1785, úmrtí souvisle), 1751–1759, druhé čtení křtů 1742–1750 | MZA | L (`zadani_lokalni_korycany.md`) | zadání připraveno |
 
 **Přestat:** plošně číst film Krehlau 1935; plánovat plošnou etapu 2 v AAWr; hledat v rejstřících bez předložky a psát to jako negativní; F. Mikuláše přes Uhry, ANNO a Wikipedii (jen krok 13); přidávat na web údaje z Wikipedie bez označení; další pražské farnosti, zbytky komorních panství, Krnov 1740–1749 (J6), Terezie; nadpisy „vyčerpáno“.
 

@@ -1103,6 +1103,7 @@
       "fakta": [
         "* 16. 5. 1723 Lodi v Lombardii, syn Friedricha Wilhelma II. von Giller (* 4. 4. 1688 Dvorce na Moravě, † 1751 Lucemburk, císařský podplukovník) a Anny Marie – tak uvádí rodopis rodu (Gotha 1884)",
         "c. k. podplukovník pluku O'Kelly (?); ze služby odešel 16. 5. 1763",
+        "4. 11. 1767 byl s manželkou Karolínou kmotrem dcery kapitána Friedricha barona z Gillernů (bratra našeho Maximiliána) v matrice pluku Pallavicini ve Vídni – obě větve rodu se tedy znaly a stýkaly.",
         "rytířský stav „von Gillern“ 27. 3. 1763 (Gotha) / 1764 (Rakouský státní archiv), český inkolát 29. 3. 1764",
         "rakouský stav svobodných pánů 21. 6. 1766",
         "náhradní dědic Koryčan po bratranci Karlu Josefovi († 1762); závětí z 31. 10. 1791 odkázal Koryčany dceři Marii Josefě, provdané za Konstantina svobodného pána Münch von Bellinghausen (1793)",
@@ -1159,6 +1160,7 @@
         "n_1766_gillern_maria_theresia",
         "z_1766_gillern_theresia",
         "n_1767_gillern_maria_josepha",
+        "n_1767_wien_ir15_gillern_maria_carolina",
         "n_1769_gillern_maria_antonia",
         "n_1773_gillern_carolus",
         "z_1783_gillern_karl_josef"
@@ -1841,7 +1843,9 @@
         "1761 byl v zastoupení kmotrem Maximiliánova syna Jana Křtitele v Kladrubech nad Labem.",
         "17. 2. 1765 se v Pardubicích oženil s Annou, dcerou pardubického měšťana Josefa Newky (Nevky?).",
         "1766 byl osobně kmotrem Maximiliánova syna Jana Bedřicha Karla Viléma Víta na Čelákovském Hrádku.",
-        "1767–1770 je doložen ve Vídni, roku 1771 jako major a velitel místa (Platz-Major) ve Velkém Varadíně v Uhrách."
+        "1767–1770 je doložen ve Vídni, roku 1771 jako major a velitel místa (Platz-Major) ve Velkém Varadíně v Uhrách.",
+        "Jediné známé dítě: dcera Maria Carolina Anna Christina Catharina Josepha, pokřtěná 4. 11. 1767 v matrice pluku Pallavicini ve Vídni (matka „Anna Maria nata de Neffka“), pohřbená 2. 4. 1768 asi pětiměsíční. Kmotry byli Kristián baron z Gillernů, podplukovník (vzdálený bratranec z dvorecké větve – jejich dědové byli bratři Christoph Heinrich a Friedrich Wilhelm I.), a jeho manželka Karolína roz. Locella – Friedrich byl s koryčanskou větví v úzkém styku. Friedrich tehdy velel setnině pluku ve Vídni (3. prapor pluku stál ve Vídni 1767–1770).",
+        "Co se s ním stalo po roce 1771, zatím nevíme: ve Velkém Varadíně ani jinde v Uhrách ho rejstřík FamilySearch neuvádí (2026)."
       ],
       "vztahy": [
         {
@@ -1874,6 +1878,8 @@
         "n_1724_giller_johann_friedrich",
         "n_1761_gillern_jan_baptista",
         "o_1765_gyller_bedrich",
+        "n_1767_wien_ir15_gillern_maria_carolina",
+        "z_1768_wien_ir15_gillern_maria_carolina",
         "n_1766_gillern_jan_bedrich",
         "j_1762_ir15_gillern_friedrich",
         "j_1756_ir15_gillern_friedrich"

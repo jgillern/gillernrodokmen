@@ -3244,5 +3244,29 @@
   ],
   "status": "ok",
   "note": "Levans: Perill. Dnus Maximilianus de Güllern officialis Silvarum"
+ },
+ "n_1767_wien_ir15_gillern_maria_carolina": {
+  "boxes": [
+   [
+    0.0,
+    0.06,
+    1.0,
+    0.97
+   ]
+  ],
+  "status": "ok",
+  "note": "celý zápis křtu 4. 11. 1767"
+ },
+ "z_1768_wien_ir15_gillern_maria_carolina": {
+  "boxes": [
+   [
+    0.0,
+    0.22,
+    1.0,
+    0.8
+   ]
+  ],
+  "status": "ok",
+  "note": "pohřeb 2. 4. 1768"
  }
 }

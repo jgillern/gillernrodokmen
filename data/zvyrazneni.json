@@ -3286,5 +3286,17 @@
   ],
   "status": "ok",
   "note": "nadpis setniny; řádek hejtmana"
+ },
+ "z_1771_korycany_gillern_antonia": {
+  "boxes": [
+   [
+    0.0,
+    0.12,
+    1.0,
+    0.5
+   ]
+  ],
+  "status": "ok",
+  "note": "4. 10. 1771 Antonia Junior Herula … B. de Gillern"
  }
 }

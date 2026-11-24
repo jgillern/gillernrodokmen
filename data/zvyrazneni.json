@@ -3268,5 +3268,23 @@
   ],
   "status": "ok",
   "note": "pohřeb 2. 4. 1768"
+ },
+ "j_1770_ir15_gillern_friedrich": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    0.3
+   ],
+   [
+    0.4,
+    0.55,
+    1.0,
+    0.97
+   ]
+  ],
+  "status": "ok",
+  "note": "nadpis setniny; řádek hejtmana"
  }
 }

@@ -3136,5 +3136,113 @@
   ],
   "status": "ok",
   "note": "kmotr Herr Friedrich / Ignatius (?) Giller … gnädigen Herrn Carl Giller Herrn auf Hammer"
+ },
+ "n_1772_podebrady_zelinka_josephus_hiller": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ],
+   [
+    0.52,
+    0.18,
+    0.66,
+    0.75
+   ]
+  ],
+  "status": "ok",
+  "note": "celý řádek křtu; kmotr Perillustris D. Josephus Hiller"
+ },
+ "n_1772_podebrady_brixi_joanna_francisci": {
+  "boxes": [
+   [
+    0.12,
+    0.06,
+    0.53,
+    0.56
+   ]
+  ],
+  "status": "ok",
+  "note": "svědci: D. Franciscus Ett Syndicus et Virgo Joanna filia Perill. D. Francisci de Hiller"
+ },
+ "n_1773_podebrady_kulich_franciscus_hiller": {
+  "boxes": [
+   [
+    0.02,
+    0.3,
+    1.0,
+    1.0
+   ],
+   [
+    0.5,
+    0.36,
+    0.63,
+    0.7
+   ]
+  ],
+  "status": "ok",
+  "note": "řádek 26. 2. 1773; kmotr Franciscus de Hiller"
+ },
+ "o_1759_kladruby_kopecky_anna_svedkyne": {
+  "boxes": [
+   [
+    0.0,
+    0.37,
+    1.0,
+    0.48
+   ],
+   [
+    0.55,
+    0.82,
+    1.0,
+    0.89
+   ],
+   [
+    0.0,
+    0.88,
+    0.75,
+    0.99
+   ]
+  ],
+  "status": "ok",
+  "note": "Testes … Virgo Anna filia Perill. Dni Maximiliani de Güllern"
+ },
+ "n_1757_kladruby_pontner_maximilian_svedek": {
+  "boxes": [
+   [
+    0.18,
+    0.36,
+    0.88,
+    0.46
+   ],
+   [
+    0.0,
+    0.83,
+    0.62,
+    0.89
+   ]
+  ],
+  "status": "ok",
+  "note": "Testes … Perillustris Dnus Maximillianus de Güllern officialis Caesareus Venatorum"
+ },
+ "n_1758_kladruby_rotteisel_maximilian_kmotr": {
+  "boxes": [
+   [
+    0.05,
+    0.24,
+    1.0,
+    0.36
+   ],
+   [
+    0.05,
+    0.73,
+    1.0,
+    0.84
+   ]
+  ],
+  "status": "ok",
+  "note": "Levans: Perill. Dnus Maximilianus de Güllern officialis Silvarum"
  }
 }

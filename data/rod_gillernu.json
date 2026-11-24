@@ -917,6 +917,7 @@
       "vazba": "dcera Maximiliána z Gillernů – sestra Josefa (nejspíš nevlastní), tedy teta našeho Františka",
       "fakta": [
         "* a pokřtěna 23. 4. 1757 v Kladrubech nad Labem jako Marie Eleonora, dcera „urozeného pana Maximiliána de Güllern, kladrubského lesního“, a jeho manželky Johanny",
+        "v Poděbradech v letech 1773–1779 nejméně devětkrát kmotrou nebo svědkyní („Virgo Eleonora filia Perill. D. de Hiller“, „filia D. Josephi / Maximiliani Killer Supremi Venatoris“), poprvé v 15 letech",
         "dcera Maximiliána z Gillernů, nadlesního v Poděbradech – výslovně v křtu dcery 1781: „Eleonora filia Perill. D. Maximiliani L. Baronis de Giller“",
         "2. manželka Jana Baptisty Ferdinanda Clannera z Engelshofenu (asi 1728 – † 27. 12. 1806 Poděbrady, 78 let), forstmistra (lesního představeného) komorního panství Poděbrady; jeho 1. manželka Marie Anna zemřela 3. 11. 1776",
         "děti: Marie Anna Apolonie (* 11. 10. nebo 11. 11. 1781), Maximilián Jan Křtitel Ignác (* 8. 11. 1784) a další",
@@ -2999,10 +3000,12 @@
       "vazba": "dcera Maximiliána z Gillernů a Johanny – sestra našeho Josefa",
       "fakta": [
         "Sestra Josefa. Pokřtěna 23. 1. 1750 v Nymburce, z Boru Bobnického (prostřední jméno snad Kateřina – „Alexie“ ani „Alžběta“ to není); otec Maximilián Josef Emanuel von Gyller, myslivec, matka Anna Johanna. Nejstarší známý doklad o Maximiliánovi. V letech 1764–1766 byla v Čelákovicích třikrát kmotrou nebo svědkyní jako „slečna Anna, dcera urozeného pana Maximiliána z Gillernů“. Další osud neznámý.",
-        "Její křest je nejstarší známý doklad o Maximiliánovi v Čechách."
+        "Její křest je nejstarší známý doklad o Maximiliánovi v Čechách.",
+        "Už 17. 5. 1759 byla v Kladrubech nad Labem svědkyní sňatku tkadlce Václava Kopeckého jako „panna Anna, dcera urozeného pana Maximiliána z Güllernů“. Pokud je to tato Anna (* 1750), bylo jí teprve 9 let – na svědkyni sňatku neobvykle málo. Nelze vyloučit, že šlo o starší dceru narozenou ještě před příchodem do Čech (doklad chybí)."
       ],
       "zaznamy": [
         "n_1750_giller_anna_alexia",
+        "o_1759_kladruby_kopecky_anna_svedkyne",
         "n_1764_celakovice_anna_kmotra"
       ],
       "vztahy": [
@@ -3018,10 +3021,11 @@
       "stav": "doc",
       "vazba": "dcera Maximiliána z Gillernů a Johanny – sestra našeho Josefa",
       "fakta": [
-        "Sestra Josefa. * 25. 9. 1751 Bor Bobnický (fara Nymburk). Nejspíš „Johanna de Gillern“, kmotra v Poděbradech 1775–1778; 1782 ještě svobodná a třikrát kmotra / svědkyně v Poděbradech (28. 1., 1. 8. – „Johanna filia D. Maximiliani de Güllern“, 22. 9. – „filia Illust. D. Maximiliani de Gillern Venatorum Praefect.“). Po matčině smrti žila s otcem ve Staré Boleslavi: 1785–1786 tam byla několikrát kmotrou („dcera Pana Maxim. z Gill.“) a 17. 2. 1789 je jako slečna z Gillernů zapsána spolu s otcem mezi přítomnými na svatbě."
+        "Sestra Josefa. * 25. 9. 1751 Bor Bobnický (fara Nymburk). Nejspíš „Johanna de Gillern / de Hiller / Küller“, v Poděbradech v letech 1772–1779 jedenáctkrát kmotra nebo svědkyně (jednou, 2. 11. 1772, zapsána jako dcera „Francisci de Hiller“ – nejspíš omyl písaře); 1782 ještě svobodná a třikrát kmotra / svědkyně v Poděbradech (28. 1., 1. 8. – „Johanna filia D. Maximiliani de Güllern“, 22. 9. – „filia Illust. D. Maximiliani de Gillern Venatorum Praefect.“). Po matčině smrti žila s otcem ve Staré Boleslavi: 1785–1786 tam byla několikrát kmotrou („dcera Pana Maxim. z Gill.“) a 17. 2. 1789 je jako slečna z Gillernů zapsána spolu s otcem mezi přítomnými na svatbě."
       ],
       "zaznamy": [
         "n_1751_giller_maria_johanna",
+        "n_1772_podebrady_brixi_joanna_francisci",
         "o_1789_stboleslav_gillernove_pritomni",
         "n_1785_stboleslav_johanna_kmotra",
         "n_1782_podebrady_johanna_kmotra"
@@ -3058,10 +3062,12 @@
       "vazba": "syn Maximiliána z Gillernů a Johanny – bratr našeho Josefa",
       "fakta": [
         "Bratr Josefa. Pokřtěn v lednu 1753 v Nymburce, z Boru Bobnického (otec zapsán jako „Josef de Giller, myslivec“, matka Johanna). Nejspíš „Ludovicus de Gyller“, kmotr v Poděbradech 1770, a možná i „František de Gyller“ (1773).",
+        "26. 2. 1773 byl „Franciscus de Hiller“ – bez titulu a bez stavu – kmotrem syna nádeníka Jiřího Kulicha ve vsi Pátek (fara Poděbrady); v Pátku bylo místo polního myslivce poděbradského panství, takže tu mladý František nejspíš sloužil jako myslivecký pomocník.",
         "Možná je totožný s „Franzem von Gillern“, penzionovaným adjunktem u myslivosti, který zemřel 24. 1. 1817 v Malejovicích ve věku 70 let – věk by pak byl zapsán o několik let nižší. Doklad chybí."
       ],
       "zaznamy": [
-        "n_1753_giller_frantisek_ludvik"
+        "n_1753_giller_frantisek_ludvik",
+        "n_1773_podebrady_kulich_franciscus_hiller"
       ],
       "vztahy": [
         {

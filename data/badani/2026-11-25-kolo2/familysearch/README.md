@@ -1,6 +1,6 @@
 # FamilySearch po přihlášení. Hochkirch a Gramschütz
 
-**Maria Anna z Rettkau byla nalezena v křtech Hochkirchu 29. 3. 1739.** Její matkou byla Maria Antonia, velmi pravděpodobně rozená von Rüffer. Otce matrika označuje jako mladšího barona von Güller. [Celý zápis a druhý pramen k matce](rettkau-1739.md)
+**V Hochkirchu jsme nalezli křty dvou sester z Rettkau.** V srpnu 1737 Maria Josepha Elisabetha Carolina Antonia, dne 29. 3. 1739 Maria Anna, pozdější třebnická abatyše. [Křest starší dcery a shodní kmotři](rettkau-maria-josepha.md). Její matkou byla Maria Antonia, velmi pravděpodobně rozená von Rüffer. Otce matrika označuje jako mladšího barona von Güller. [Celý zápis a druhý pramen k matce](rettkau-1739.md)
 
 **Josefův křest se v čitelných zápisech Gramschützu z obou věkových oken nepodařilo doložit.** Na sedmi stranách s cílovými zápisy a třech sousedních byla potvrzena příslušnost konkrétních rodin z Priedemostu k této knize. Zápisy dělí místy několikaměsíční mezery. [Průchod knihou D289, obě období a výřez](gramschuetz-d289.md)
 
@@ -23,6 +23,8 @@ Z této mikrofišové položky jsme neviděli žádnou stránku křtů. V altern
 
 1. [Katalog 541668](https://www.familysearch.org/en/search/catalog/541668) vede sedm mikrofilmů pořízených roku 1989 ve Vratislavi. U křtů 1733–1795 uvádí film **1676840**, DGS **8016284**. V této katalogové položce byla kamera neaktivní.
 2. Ve vyhledávači **Historical Images**, přes místo **Hochkirch, Glogau** (identifikátor místa 12501801), se samostatně objevily skupiny **8246287–8246295**. U skupiny **8246290** se otevřel obrazový prohlížeč s 423 snímky a s Hochkirchem i Kreidelwitzem v popisu křestních oddílů. Jednotlivá místa, období a vyznání je nutné určovat podle skutečných nadpisů a zápisů na konkrétním listu. [Otevřená skupina 8246290](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G32C-M?view=explore&groupId=TH-909-75352-98992-36&lang=en)
+
+Pro starší okno 13. 6. 1737 až 12. 6. 1738 jsme prošli obě strany knihy včetně přesahů. Jediný nalezený křest Gillerů v tomto okně patřil dívce Marii Josefě. [Tabulka místních rodin a snímky Hochkirchu 1737–1738](hochkirch-1737-38.md).
 
 V obou skupinách se zachoval i rok **1746**, který výčet let v popisu vynechává. Je nadepsán přímo v obrazu. Pro věkové okno 3. 2. 1746 až 2. 2. 1747 byly přečteny navazující levé a pravé strany 338–364. Rodiče či křest Josefa z rodiny Giller se nepodařilo doložit. Pět stran je hůře čitelných. [Hochkirch 1746–1747, hraniční data a obrazy](hochkirch-1746-47.md)
 

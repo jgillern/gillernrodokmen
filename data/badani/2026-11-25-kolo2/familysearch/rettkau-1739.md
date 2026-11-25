@@ -25,7 +25,7 @@ Hochkirch, okres Glogau, dnešní Grodowiec. Křty D 1420, mikrofilm 1203108, DG
 
 ## Jak bylo určeno rodné příjmení matky
 
-Dvě nezávislá čtení plného obrazu se shodla na křestních jménech Maria Antonia a na krajních písmenech rodného příjmení „Rü…erin“. Jeden čtenář vyhodnotil prostřední skupinu jako „ff“, druhý jako „st“. Přes část písmene zasahuje tah z předcházejícího řádku. V diplomatickém přepisu proto zachováváme nejistotu, v rodinném výkladu dáváme přednost Rüffer.
+Dvě nezávislá čtení plného obrazu se shodla na křestních jménech Maria Antonia a na krajních písmenech rodného příjmení „Rü…erin“. Jeden čtenář vyhodnotil prostřední skupinu jako „ff“, druhý jako „st“. Přes část písmene zasahuje tah z předcházejícího řádku. Mezitím byl v Rettkau nalezen [křest její starší sestry ze srpna 1737](rettkau-maria-josepha.md). Rodné příjmení matky je tam čitelnější a podporuje podobu Rüffer. Na obou listech se ve stejném pořadí opakují také tři kmotři.
 
 ![Detail matčina jména v zápisu o křtu](vyrezy/hochkirch-1739-matka.jpg)
 

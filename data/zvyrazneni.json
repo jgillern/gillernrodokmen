@@ -3550,5 +3550,17 @@
   ],
   "status": "ok",
   "note": "Celý spodní zápis z Rettkau od data a slov o křtu přes rodiče a jména dítěte až po poslední kmotru."
+ },
+ "n_1737_hochkirch_maria_josepha_giller": {
+  "boxes": [
+   [
+    0.014,
+    0.02,
+    0.915,
+    0.972
+   ]
+  ],
+  "status": "ok",
+  "note": "Zápis z Rettkau uprostřed listu, od data křtu po poslední řádek o kmotrech. Část písmene z předchozího a následujícího zápisu zasahuje do okraje."
  }
 }

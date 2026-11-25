@@ -4,6 +4,10 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 
+## 25. 11. 2026 · pokračování výzkumu Josefa a Maximiliána
+
+[Brandýská služba v šematismu pro rok 1789, nástupce Johann Fischer pro rok 1790 a dva výřezy](badani/2026-11-25-josef-maximilian/provedeno/brandys.md). Starší přehled zmiňující Baudiše k roku 1793 vynechal Fischera. Na Janovu vedlejší otázku vzniklo [srovnání dvou dvoreckých domácností](badani/2026-11-25-dvorce/README.md) s opravou profilů a zobrazení stromu.
+
 ## 25. 11. 2026 · aktuálně pouze Josef a Maximilián
 
 Před další prací otevřít [časovou osu a rozhodnutí o dalším postupu](badani/2026-11-25-josef-maximilian/README.md). Křestní matriky Poděbrad pokrývající obě Josefova věková okna už byly prověřeny. Nově je určena kniha 27 (úředníci II. třídy 1773–1788) a spisová skupina 1789 I, č. 260, kart. 37 ve fondu NA, VHS, NAD 638. Nařízení z roku 1788 vyžadovalo u dosud nezapsaných hospodářských úředníků výslovně rodiště. U Josefa, řadového fořta, je pokrytí nejisté. [Služební prameny včetně originálních stran inventáře](badani/2026-11-25-josef-maximilian/sluzebni-prameny.md) · [Audit Poděbrad](badani/2026-11-25-josef-maximilian/podebrady-audit.md). Přímé předky před Preichau a vazbu na Lilienfeld zatím odložit.

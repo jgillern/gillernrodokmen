@@ -1,6 +1,6 @@
 # Kde byl Maximilián před rokem 1750 a kde se narodil Josef?
 
-[Badatelský deník, položky 753–758](denik.md). Stav k 25. 11. 2026. Máme dvě odlišné otázky. U otce hledáme první českou výplatu a místo, odkud nastoupil. U syna hledáme jeho vlastní údaj o rodišti, případně totožnost matky. Ani společná cesta obou do Čech, ani Josefovo narození ve Slezsku nejsou doloženy.
+[Badatelský deník od položky 753](denik.md). [Brandýský šematismus a oprava nástupnictví](provedeno/brandys.md). Stav k 25. 11. 2026. Máme dvě odlišné otázky. U otce hledáme první českou výplatu a místo, odkud nastoupil. U syna hledáme jeho vlastní údaj o rodišti, případně totožnost matky. Ani společná cesta obou do Čech, ani Josefovo narození ve Slezsku nejsou doloženy.
 
 ## Co vymezuje časovou a zeměpisnou mezeru
 

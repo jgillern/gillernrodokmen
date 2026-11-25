@@ -302,7 +302,7 @@
         "s": 1,
         "r": 2,
         "jmeno": "Friedrich Wilhelm II.",
-        "roky": "1688–1751",
+        "roky": "1688 – pravděpodobně do 5. 5. 1750",
         "pozn": "* Karlovec, podplukovník",
         "stav": "doc",
         "profil": "fw2"
@@ -553,10 +553,10 @@
       "stav": "doc"
     },
     {
-      "jmeno": "Josef de Giller (z Gillernů)",
-      "roky": "asi 1738 – 1799",
-      "text": "Myslivec v Poděbradech, pak fořt v Býchorech č. 11 u Kolína; syn „nejvyššího myslivce“ Maximiliána de Giller; × 12. 6. 1786 Anna Kochová; děti mj. František Josef (* 5. 6. 1785 – náš František z Gillernů) a Anna Rozálie (* 1. 10. 1787). † 2. 2. 1799 Býchory. Doložený otec našeho Františka (zápisy 1832–1840: „syn † Josefa, revírníka z Býchor, a Anny roz. Kochové z Poděbrad“).",
-      "zdroj": "matriky Poděbrady 18, fol. 4 a 26; Poděbrady 33, fol. 4; Ovčáry 14, fol. 10; Kostelec n. Vlt. 1832–1840",
+      "jmeno": "Josef Emanuel de Giller (z Gillernů)",
+      "roky": "asi 1738 nebo 1746/47 – 1799",
+      "text": "Syn poděbradského nadlesního Maximiliána. Dne 12. 6. 1786 se v Poděbradech oženil s Annou Kochovou. V říjnu 1787 byl myslivcem v Poděbradech č. 7 a v říjnu 1789 je doložen jako fořt v Býchorech č. 11. Dne 7. 11. 1789 zde jako kmotr uveden plným jménem Josef Emanuel. V č. 11 dříve bydlela rodina myslivce Františka Höfera, jeho možného předchůdce. Anna pravděpodobně kmotrovala v Býchorech už 21. 3. 1788. Jejich syn František Josef se narodil 5. 6. 1785. Josef zemřel 2. 2. 1799 v Býchorech.",
+      "zdroj": "Poděbrady 18 a 33, Ovčáry 03 a 14, Kostelec nad Vltavou (1832–1840)",
       "stav": "doc",
       "osoba": "josef-z-gillernu-de-giller-1746"
     },
@@ -703,7 +703,7 @@
       "jmeno": "Rosarie (Rozálie) z Gillernů, provdaná Opeltová",
       "roky": "19. století",
       "stav": "lit",
-      "text": "Manželka řezníka Františka Opelta, matka syna Opelta; jako vdova se 1876 znovu vdala za Jana Jambora st., mistra truhlářského – zmínka v poděbradském týdeníku. Gillernová na Poděbradsku v 19. století – možná potomek Josefových sourozenců nebo synů (Josef Emanuel * 1789, Lambert * 1792).",
+      "text": "Manželka řezníka Františka Opelta, matka syna Opelta; jako vdova se 1876 znovu vdala za Jana Jambora st., mistra truhlářského – zmínka v poděbradském týdeníku. Příbuzenství s býchorskou rodinou neznáme.",
       "zdroj": "Nezávislost (Poděbrady) 26. 10. 1912, s. 5"
     },
     {
@@ -1101,7 +1101,7 @@
       "stav": "lit",
       "vazba": "moravská (koryčanská) větev; vnuk Friedricha Wilhelma I. – bratranec našeho Maximiliána z druhého kolena (u Torgavy 1760 stál proti Maximiliánovu bratru Ernstu Heinrichovi); podle Gothy 1884 předek pruských baronů – to je ale nejisté (jediný jeho známý syn zemřel jako dítě)",
       "fakta": [
-        "* 16. 5. 1723 Lodi v Lombardii, syn Friedricha Wilhelma II. von Giller (* 4. 4. 1688 Dvorce na Moravě, † 1751 Lucemburk, císařský podplukovník) a Anny Marie – tak uvádí rodopis rodu (Gotha 1884)",
+        "Podle Gothajského kalendáře (1884) se narodil 16. 5. 1723 v Lodi jako syn Friedricha Wilhelma II. a Anny Marie. Dne 18. 7. 1752 žádal nadporučík Christian Giller od pluku Sincère o pozůstalost po svém otci, podplukovníkovi Gillerovi od Platzova pluku.",
         "c. k. podplukovník pluku O'Kelly (?); ze služby odešel 16. 5. 1763",
         "4. 11. 1767 byl s manželkou Karolínou kmotrem dcery kapitána Friedricha barona z Gillernů (bratra našeho Maximiliána) v matrice pluku Pallavicini ve Vídni – obě větve rodu se tedy znaly a stýkaly.",
         "rytířský stav „von Gillern“ 27. 3. 1763 (Gotha) / 1764 (Rakouský státní archiv), český inkolát 29. 3. 1764",
@@ -1109,12 +1109,12 @@
         "náhradní dědic Koryčan po bratranci Karlu Josefovi († 1762); závětí z 31. 10. 1791 odkázal Koryčany dceři Marii Josefě, provdané za Konstantina svobodného pána Münch von Bellinghausen (1793)",
         "Roku 1780 založil na koryčanském panství sklářskou huť (u silnice z Kyjova do Uherského Hradiště); fungovala až do roku 1907. Za Gillernů byl ve 2. polovině 18. století přistavěn pozdně barokní východní křídlo koryčanského zámku.",
         "Od roku 1766 žil s rodinou ve Vídni: 31. 5. 1766 tam dal u sv. Štěpána pokřtít dceru Marii Terezii Karolínu (pohřbena už 15. 7. 1766), 9. 7. 1767 dceru Marii Josefu Aloisii Walburgu, 24. 8. 1769 dceru Marii Antonii Josefu a 29. 4. 1773 syna Karla Boromejského – rodina tehdy bydlela ve městě v domě č. 904.",
-        "Rodina bydlela ve Vídni i o deset let později: 21. 11. 1783 tam v Jakoberově ulici č. 904 zemřel Kristiánův syn, ve vídeňských novinách zapsaný jako „Karl Jos.“, 11 let – nejspíš Karel Boromejský (* 1773). Jiný Kristiánův syn ve vídeňských matrikách 1755–1776 není.",
-        "Ve vídeňském seznamu ztrát po bitvě u Torgavy (1760) je u pluku Sincère zapsán jako zajatý nebo nezvěstný „granátnický hejtman Giller“ – nejspíš Kristián.",
+        "Rodina bydlela ve Vídni i o deset let později: 21. 11. 1783 tam v Jakoberově ulici č. 904 zemřel Kristiánův syn, ve vídeňských novinách zapsaný jako „Karl Jos.“, 11 let – nejspíš Karel Boromejský (* 1773).",
+        "V bitvě u Torgavy 3. 11. 1760 padl do zajetí. Dějiny pluku Sincère ho jmenují jako kapitána Christiana von Gillern.",
         "Zemřel 25. 7. 1793 v Koryčanech (zámek č. 65) na mrtvici, ve věku 70 let, pohřben v rodinné kryptě.",
         "Manželka Karolina svobodná paní z Locella (z rodiny sestry vdovy po Karlu Josefovi) zemřela 31. 1. 1805 v Koryčanech ve věku 73 let; dcera Marie Josefa, pokřtěná 9. 7. 1767 u sv. Štěpána ve Vídni (Hyrtl uvádí chybně 1768), zdědila Koryčany.",
         "U Torgavy (1760) bojoval na rakouské straně proti rotě svého pruského bratrance Ernsta Heinricha – Maximiliánova bratra.",
-        "Gotha (1884) ho uvádí jako pradědečka Oswalda svobodného pána z Gillernů (* 1828 Goldberg). Kristián ale měl jen dcery a syna Karla Boromejského, který zemřel jako dítě, Koryčany odkázal dceři a Oswald byl evangelík – spojení je proto nejisté a pruští baroni mohou pocházet z jiné slezské linie."
+        "Gotha (1884) ho uvádí jako pradědečka Oswalda svobodného pána z Gillernů (* 1828 Goldberg). Propojení je nejisté. Jediný známý Kristiánův syn zemřel jako dítě a Koryčany zdědila dcera Marie Josefa."
       ],
       "vztahy": [
         {
@@ -1153,6 +1153,14 @@
         },
         {
           "nazev": "Hrady a zámky na Moravě (1987), s. 100; Malovaný kraj 2018/4, s. 8; Hosák, Historický místopis, s. 398"
+        },
+        {
+          "nazev": "Dvorská válečná rada, 873 (1752R), fol. 1241r, č. 259",
+          "odkaz": "https://library.hungaricana.hu/en/view/KA_HKR_873_1752R/?pg=388"
+        },
+        {
+          "nazev": "H. Neuwirth, dějiny pluku (1894), s. 150",
+          "odkaz": "https://ndk.cz/uuid/uuid:e03128e0-0ed1-11e5-ae7e-001018b5eb5c"
         }
       ],
       "zaznamy": [
@@ -1176,7 +1184,7 @@
         "10. 4. 1568 dostal ve Vídni český erbovní list s přídomkem „von Lilienfeld“.",
         "Gillerové „von Lilienfeld“ byli patricijskou rodinou v Opavě. Patřil k nim i Lucas Giller de Lilienfeld, rodák z Opavy: studoval ve Vratislavi, roku 1604 se stal v Basileji doktorem medicíny, byl lékařem v Greiffenbergu (Gryfów Śląski) a pak mnoho let osobním lékařem Karla staršího ze Žerotína v Rosicích.",
         "Roku 1652 sestavil kostelní urbář města Opavy „Matthias Gieller von Lilienfeldt“ – rod v Opavě tedy žil i v polovině 17. století, kdy se narodili Christoph Heinrich (1646) a Friedrich Wilhelm (asi 1651). Přímou vazbu na ně matriky zatím neukázaly.",
-        "Podle Zeitschrift des Vereines für die Geschichte Mährens und Schlesiens (1914) se Lukas Giller z Lilienfeldu, doktor filozofie a medicíny a spolužák Stephana Henela ve Vratislavi, narodil roku 1578 v Opavě a tamtéž roku 1618 zemřel. Matyáš Giller z Lilienfeldu byl v 1. polovině 17. století městským lékařem v Olomouci; Žerotínské rukopisy uvádějí jeho spis o chování za moru a zprávu o čarodějnických procesech.",
+        "Podle Zeitschrift des Vereines für die Geschichte Mährens und Schlesiens (1914) se Lukas Giller z Lilienfeldu, doktor filozofie a medicíny a spolužák Stephana Henela ve Vratislavi, narodil roku 1578 v Opavě a podle pozdějšího přípisu v památníku Matthäuse Schmolla zemřel roku 1632 v Řezně. Matyáš Giller z Lilienfeldu byl v 1. polovině 17. století městským lékařem v Olomouci; Žerotínské rukopisy uvádějí jeho spis o chování za moru a zprávu o čarodějnických procesech.",
         "Matyáš Giller z Lilienfeldu se roku 1642 přestěhoval do Krnova, kde po tchyni zdědil svobodný dům s dvorem; otcovský dům v Opavě prodal 1644. Zemřel 1655/1656. Měl dvě manželky jménem Zuzana (jedna byla podle Zukala dcerou Hanse von Götz a Zuzany Dreßler von Scharfenstein) a syny Benedikta Josefa, krnovského lékárníka, a Ignáce.",
         "Erb Gillerů z Lilienfeldu – v modrém poli hvězda, v dalších polích šikmé břevno se třemi liliemi – je v podstatě týž jako erb pozdějších svobodných pánů z Gillernů. Roku 1721 dostal Karel Josef „potvrzení šlechtictví“ (Adelsbestätigung); ve spisu je opis českého šlechtického listu z 20. 8. 1700 pro bratry Christopha Heinricha a Friedricha Wilhelma – potvrzení se tedy opíralo o list z roku 1700, ne o starší šlechtictví.",
         "Slezští Gillernové (od podplukovníka Heinricha Christofa v 17. století) tedy nejspíš z opavských Gillerů pocházejí; přímý genealogický doklad zatím chybí.",
@@ -1287,10 +1295,11 @@
       "stav": "lit",
       "vazba": "Přehled slezských předků a příbuzných naší linie. Každý z nich má i vlastní profil – viz Příbuzní níže.",
       "fakta": [
-        "Heinrich Christof Giller, císařský podplukovník, usedlý v 17. století ve vsi Deschna; jeho první manželka byla rozená von Tschammer.",
-        "Jeho syn Johann Christof Giller, císařský rytmistr pluku Gallas, se oženil se Susanne roz. Bartsch (rodopis 1884 ji uvádí jako „Bartsch von Sternegg“ – tento přídomek ale Bartschové dostali až roku 1695). Je to poslední společný předek obou slezských větví.",
+        "Heinrich Christof Giller podle Gothajského kalendáře (1884) sloužil jako císařský podplukovník Vrbnova pluku a sídlil ve vsi Deschna. Jeho první manželka byla rozená von Tschammer.",
+        "Jeho syn Johann Christof Giller, podle Gothajského kalendáře císařský rytmistr Gallasova pluku, se oženil se Susanne roz. Bartsch (rodopis 1884 ji uvádí jako „Bartsch von Sternegg“ – tento přídomek ale Bartschové dostali až roku 1695). Je to poslední společný předek obou slezských větví.",
+        "Dvorská válečná rada 8. 5. 1647 vyzvala muže jménem Giller, aby i po kolínském příměří zůstal věrný a udržel svůj post. Jeho totožnost zůstává nejistá.",
         "Synové Johanna Christofa – Christoph Heinrich a Friedrich Wilhelm – dostali 20. 8. 1700 český šlechtický stav (list vydán ve Vídeňském Novém Městě). Od nich vedou dvě větve rodu.",
-        "1. větev – Friedrich Wilhelm I. (asi 1651–1728), správce a hejtman v Karlovci u Dvorců u Bruntálu, později císařský rada a vrchní účetní knížectví Lehnického, Břežského a Volovského. Ve Dvorcích se mu v letech 1688–1699 narodilo nejméně osm dětí, mezi nimi Friedrich Wilhelm II. (1688–1751, podplukovník, otec Kristiána z Koryčan). Do jeho rodiny patří i Karel Josef svobodný pán z Gillernů (asi 1692–1762), pán Koryčan. Friedrich Wilhelm I. byl roku 1719 kmotrem našeho Maximiliána.",
+        "1. větev – Friedrich Wilhelm I. (asi 1651–1728), správce a hejtman v Karlovci u Dvorců u Bruntálu, později císařský rada a vrchní účetní knížectví Lehnického, Břežského a Volovského. Ve Dvorcích se mu v letech 1688–1699 narodilo nejméně osm dětí, mezi nimi Friedrich Wilhelm II. (1688 – pravděpodobně 1750, podplukovník, otec Friedricha a Kristiána). Do jeho rodiny patří i Karel Josef svobodný pán z Gillernů (asi 1692–1762), pán Koryčan. Friedrich Wilhelm I. byl roku 1719 kmotrem našeho Maximiliána.",
         "2. větev – Christoph Heinrich (1646–1717), biskupský hejtman, zastánce protireformace ve Volovském knížectví a od 1706 zemský starší Stínavského kraje. Jeho synové měli statky v Dolním Slezsku: Carl Heinrich, Johann Christoph a Franz Joseph.",
         "Carl Heinrich (1686–1752), pán na Hammeru a Nieder-Krehlau, dvorský soudce a zemský starší Stínavska, × Catharina Barbara Eleonora roz. Nerlich. V letech 1711–1736 se jim v Krehlau narodilo nejméně šestnáct dětí, mezi nimi Maximilián Josef Emanuel (1719) – náš předek –, Johann Friedrich Rudolph (1724, nejspíš pozdější rakouský kapitán Jan Bedřich) a Ernst Heinrich (1730–1792), pruský generálmajor.",
         "Johann Christoph, hejtman (správce) biskupského panství Preichau a pán na Schwebedowě u Milicze, roku 1732 svobodný pán spolu s bratrancem Karlem Josefem; × Maria Martha. Jeho syn Joseph Anton (* 1710) držel Priedemost u Hlohova; vnuk Carl Joseph svobodný pán z Gillernů († 1824) se roku 1785 oženil s Antonií von Nerlich a sídlil na Polnisch-Gandau u Vratislavi.",
@@ -1398,6 +1407,10 @@
         },
         {
           "nazev": "de.wikipedia – Gillern; Ernst Heinrich von Gillern"
+        },
+        {
+          "nazev": "Dvorská válečná rada, 297 (1647R), fol. 170v, č. 90",
+          "odkaz": "https://library.hungaricana.hu/en/view/KA_HKR_297_1647R/?pg=129"
         }
       ],
       "prima": true,
@@ -1529,19 +1542,18 @@
     },
     "fw2": {
       "jmeno": "Friedrich Wilhelm II. Giller",
-      "roky": "1688–1751",
-      "stav": "lit",
+      "roky": "1688 – † pravděpodobně do 5. 5. 1750",
+      "stav": "doc",
       "vazba": "1. větev rodu; bratranec Carla Heinricha, otce našeho Maximiliána",
       "fakta": [
-        "Pokřtěn 6. 4. 1688 ve Dvorcích u Bruntálu jako syn Friedricha Wilhelma Gillera, správce na Karlovci, a Anny Marie.",
+        "Pokřtěn 6. 4. 1688 ve Dvorcích u Bruntálu jako syn Friedricha Wilhelma Gillera, správce na Karlovci, a Anny Marie. Gothajský kalendář (1884) uvádí narození 4. 4. 1688 ve Dvorcích.",
         "Roku 1723 hejtman pěšího pluku barona Geyera v Sedmihradsku; v témže pluku sloužil jako praporčík jeho bratr Johann Peter.",
-        "Sloužil v císařské armádě, dosáhl hodnosti podplukovníka.",
-        "Manželka Anna Marie; syn Kristián Matyáš Antonín se narodil roku 1723 v Lodi v Lombardii – rodina tedy žila tam, kde byl pluk. POZOR: kmenové listy ho v letech 1742–1749 vedou jako svobodného – údaj rodopisu z roku 1884 o manželce a synovi Kristiánovi je tím zpochybněn (Kristián mohl být syn jiného Gillera z pluku, nebo nemanželský).",
-        "Kmenové listy pluku hraběte Platze (č. 43) ho uvádějí v letech 1742–1750: červen 1742 major ve štábu pluku (Sibiu), od 4. 2. 1744 podplukovník a velitel setniny (Sibiu 7/1744, Vídeň 11/1744, polní tábor 6/1746, zimní kvartýry v Lucembursku 12/1746, Breda 4/1748, Lucemburk 4/1749 a 3/1750) – vždy „von Carlsburg in Mähren“, věk 52½ (1742) až 62 (1750), tj. * asi 1688, katolík, slouží od asi 1706. Ve všech listech 1742–1749 je zapsán jako SVOBODNÝ („ledig“); jen v březnu 1750 je u stavu opravené slovo, snad „verheyrathet“. 13. 3. 1750 „krank und unvermögend“, od 7. 4. 1750 je podplukovníkem jiný – nejspíš tehdy zemřel nebo odešel (rodopis 1884 uvádí † 1751 v Lucemburku).",
-        "V únoru 1750 byl v Lucemburku kmotrem syna Friedricha (Wilhelma) von Giller, bývalého poručíka téhož pluku, který se tam 9. 11. 1749 oženil s Helenou Delomme (děti 1750, 1754, 1755). Tento mladší Friedrich se podle kmenových listů narodil asi 1718–1721 v „Leschkirchen (?) in Sie(?)bürgen“ – snad Leschkirch (Nocrich) v Sedmihradsku; slouží od asi 1738; 27. 4. 1744 praporčík v setnině hraběte Serényho („Com: auf Werbung“), 1746–10/1748 praporčík v setnině Halloy, od 1. 8. 1748 podporučík v setnině Lasser, koncem dubna 1749 odešel „zu Pandurn“ (k pandurům) – proto 1750 „bývalý poručík“ – vzhledem k tomu, že podplukovník byl svobodný, je spíš jeho synovcem nebo jiným příbuzným než synem.",
-        "Jeho pluk byl nejspíš pozdější pěší pluk č. 43: roku 1718 ho dostal baron Ferdinand Leopold von Geyer, od roku 1737 hrabě Johann Anton Platz. Pluk stál 1727 a 1736 v Lombardii (odtud Kristiánovo narození v Lodi), 1739 v Sibiu a v letech 1748–1756 v mírové posádce v Lucemburku – tam Friedrich Wilhelm roku 1751 zemřel. Jmenovitě v pluku po roce 1723 zatím doložen není.",
-        "Zemřel roku 1751 v Lucemburku.",
-        "Od jeho syna Kristiána, pozdějšího pána Koryčan, odvozuje rodopis z roku 1884 pruské barony z Gillernů 19. století."
+        "Kmenové listy Platzova pěšího pluku (pozdější č. 43) ho uvádějí jako majora v Sibiu v červnu 1742 a od 4. 2. 1744 jako podplukovníka a velitele setniny. Pocházel z Karlovce na Moravě, byl katolík a sloužil přibližně od roku 1706. V srpnu 1749 byl s plukem v Lucemburku, odkud dostal dovolenou do Budína a lázní.",
+        "Dne 13. 3. 1750 byl veden jako nemocný, od 7. 4. místo zastával jiný podplukovník. V dubnu se jednalo o jeho penzionování pro nezpůsobilost k polní službě.",
+        "Zemřel velmi pravděpodobně nejpozději 5. 5. 1750. Toho dne řešila Dvorská válečná rada s plukovníkem Guldenhoffem ochranu vdovy a dětí podplukovníka Gillera. Stejnému plukovníkovi v červenci 1752 postoupila žádost o pozůstalost po podplukovníkovi Gillerovi od Platze. Přesný den a místo úmrtí zůstávají neznámé. Gothajský kalendář (1884, s. 276) uvádí rok 1751 a Lucemburk.",
+        "V červnu 1752 požádal o vyřízení otcovy pozůstalosti Friedrich, bývalý nadporučík Platzova pluku. Dne 18. 7. 1752 žádal o tutéž pozůstalost nadporučík Christian Giller od pluku Sincère. Protokol z 28. 8. 1752 jmenuje podplukovníka Friedricha Wilhelma von Giller. Friedrich byl velmi pravděpodobně starší syn a dědic.",
+        "Gothajský kalendář uvádí manželku Annu Marii a syna Kristiána Matyáše Antonína narozeného roku 1723 v Lodi. Kmenové listy z let 1742–1749 podplukovníka označují jako svobodného. Zápis jeho stavu z března 1750 je opravený a čte se nejistě. V květnu 1750 se v pozůstalostním jednání mluví o vdově.",
+        "V únoru 1750 v Lucemburku kmotroval synovi mladšího Friedricha (Wilhelma) von Giller, bývalého důstojníka Platzova pluku, a Heleny Delomme. Tento důstojník je velmi pravděpodobně Friedrich, který roku 1752 jednal o otcově pozůstalosti."
       ],
       "vztahy": [
         {
@@ -1575,6 +1587,34 @@
         },
         {
           "nazev": "A. von Wrede, Geschichte der k. und k. Wehrmacht II (Wien 1898), s. 241–243"
+        },
+        {
+          "nazev": "Dvorská válečná rada, 839 (1749E), fol. 1138v",
+          "odkaz": "https://library.hungaricana.hu/en/view/KA_HKR_839_1749E/?pg=457"
+        },
+        {
+          "nazev": "Dvorská válečná rada, 848 (1750E), fol. 509r",
+          "odkaz": "https://library.hungaricana.hu/en/view/KA_HKR_848_1750E/?pg=457"
+        },
+        {
+          "nazev": "Dvorská válečná rada, 853 (1750R), fol. 796v, č. 45",
+          "odkaz": "https://library.hungaricana.hu/en/view/KA_HKR_853_1750R/?pg=18"
+        },
+        {
+          "nazev": "Dvorská válečná rada, 868 (1752E), fol. 686r, č. 414",
+          "odkaz": "https://library.hungaricana.hu/en/view/KA_HKR_868_1752E/?pg=626"
+        },
+        {
+          "nazev": "Dvorská válečná rada, 876 (1752J), fol. 481r",
+          "odkaz": "https://library.hungaricana.hu/en/view/KA_HKR_876_1752J/?pg=7"
+        },
+        {
+          "nazev": "Dvorská válečná rada, 873 (1752R), fol. 1241r, č. 259",
+          "odkaz": "https://library.hungaricana.hu/en/view/KA_HKR_873_1752R/?pg=388"
+        },
+        {
+          "nazev": "Dvorská válečná rada, 876 (1752J), fol. 717v, č. 502",
+          "odkaz": "https://library.hungaricana.hu/en/view/KA_HKR_876_1752J/?pg=201"
         }
       ],
       "zaznamy": [
@@ -1590,6 +1630,7 @@
       "vazba": "bratr Carla Heinricha – strýc našeho Maximiliána",
       "fakta": [
         "Pokřtěn 3. (?) 7. 1683 v Preichau jako syn Christopha Gillera, hejtmana v Preichau, a jeho první manželky Cathariny Juliany, která o tři dny později zemřela; Carl Heinrich a Franz Joseph byli jeho nevlastní bratři (matka Anna Victoria Hertzel). Jako hejtman v Preichau byl svědkem na sňatcích 1713, 1714 (bratr Franz Joseph), 1717, 1719 a 1723 („Ritter … auf G…“).",
+        "Nejspíš byl totožný s Janem de Giller, slezským rytířem z Preichau, který se v prosinci 1698 zapsal do třídy poetiky na olomoucké univerzitě.",
         "Syn Christopha Heinricha von Giller; bratři Carl Heinrich (náš předek) a Franz Joseph.",
         "Hejtman (správce) biskupského panství Preichau (dnes Przychowa u Stínavy) – v matrice roku 1710 „Administrator Capitaneatus Preichaviensis“, později „Hauptmann allhier in Preichau“; pán na Schwebedowě ve svobodném stavovském panství Milicz (v matrikách Preichau čteno „Schwibendorf / Schreibendorf“), na Rettkau a od roku 1730 na Priedemostu u Hlohova. Úřad v Preichau zastával asi do roku 1742.",
         "Manželka Maria Martha. Děti pokřtěné v Preichau: Joseph Anton Leopold (6. 9. 1710), Maria Anna Ludovica (?) (12. 4. 1718) a Maria Barbara Francisca (3. 10. 1721); dalšími dcerami byly Maria Carolina a Maria Ludovica, které v letech 1722–1725 v Preichau kmotrovaly.",
@@ -1647,6 +1688,10 @@
         {
           "nazev": "Schlesische Provinzialblätter, sv. 15 (1792)",
           "odkaz": "https://archive.org/details/bub_gb_bZABAAAAYAAJ"
+        },
+        {
+          "nazev": "Matrika olomoucké univerzity, edice s. 256, č. 7680",
+          "odkaz": "https://matricula.upol.cz/wp-content/uploads/2023/11/Matricula-olomoucke-univerzity%E2%80%93Edice.pdf#page=256"
         }
       ],
       "zaznamy": [
@@ -1837,16 +1882,16 @@
       "stav": "prob",
       "vazba": "nejspíš mladší bratr našeho Maximiliána; kapitán rakouské armády a kmotr Maximiliánových dětí",
       "fakta": [
-        "Kmenové listy pěšího pluku Pallavicini (č. 15) 1762–1764: „Friedrich Baron v. Gillern, aus Schlesien von Hammern gebürtig“, 34½–36 let, katolík, svobodný, slouží od asi 1746. Hammer byl statek Carla Heinricha von Giller – kapitán Friedrich je tedy jeho syn a bratr našeho Maximiliána (pokřtěn v Krehlau 1724 jako Johann Friedrich Rudolph; věk v listech je o tři roky nižší). Jako Maximiliánův bratr byl kmotrem jeho dětí 1761 a 1766 – nezávislé potvrzení, že Maximilián pochází z Hammeru a Krehlau.",
+        "V přehlídkách Pallaviciniho pěšího pluku (pozdější č. 15) je Friedrich baron z Gillernů zapsán jako katolík, rodák z Hammeru ve Slezsku, kde sídlil Carl Heinrich von Giller.",
         "V přehlídce 30. 12. 1767 (Vídeň) je už „verheyrathet mit 1 Kind“ (ženatý, 1 dítě), 40 let, vlastnoruční podpis „Gillern“ – souhlasí se sňatkem v Pardubicích 1765.",
         "Nejspíš totožný s Johannem Friedrichem Rudolphem, pokřtěným 29. 12. 1724 v Krehlau jako syn Carla Heinricha von Giller a Cathariny roz. Nerlichové – tedy s Maximiliánovým o pět let mladším bratrem. Pro to mluví jméno, věk, šlechtický titul i to, že kmotroval Maximiliánovým dětem, které dostaly jména Bedřich Rudolf a Jan Bedřich.",
-        "Nejpozději od roku 1753 hejtman (kapitán) pěšího pluku č. 15 hraběte Pallaviciniho; v seznamu důstojníků „Gillern Friedrich, Baron“. V přehlídkách 1753 a 20. 5. 1756 (Milánsko): „Fridrich Baron Gillern, gebürtig von Hammer aus Schlesien“, 1756 31 let, katolík, svobodný, slouží 13 let. V lednu 1745 u pluku ještě nebyl.",
+        "V červenci 1751 požádal svobodný pán Friedrich von Gillern, granátnický nadporučík Pallaviciniho pluku, o dvouměsíční dovolenou do Vratislavi. Dovolenou dostal. Velmi pravděpodobně je totožný s hejtmanem téhož pluku doloženým od roku 1753. Při přehlídce 20. 5. 1756 byl ve věku 31 let a uvedl 13 let služby. Předchozí útvar neznáme.",
         "1761 byl v zastoupení kmotrem Maximiliánova syna Jana Křtitele v Kladrubech nad Labem.",
         "17. 2. 1765 se v Pardubicích oženil s Annou, dcerou pardubického měšťana Josefa Newky (Nevky?).",
         "1766 byl osobně kmotrem Maximiliánova syna Jana Bedřicha Karla Viléma Víta na Čelákovském Hrádku.",
         "1767–1770 je doložen ve Vídni; 7. 5. 1770 při přehlídce v Budíně „Friedrich Baron v. Gillern gebürtig von Hammern in Schlesien, 42½ Jahr alt, verheyr., dient 28½ Jahr“ (ve službě tedy od asi podzimu 1741); roku 1771 jako major a velitel místa (Platz-Major) ve Velkém Varadíně v Uhrách.",
         "Jediné známé dítě: dcera Maria Carolina Anna Christina Catharina Josepha, pokřtěná 4. 11. 1767 v matrice pluku Pallavicini ve Vídni (matka „Anna Maria nata de Neffka“), pohřbená 2. 4. 1768 asi pětiměsíční. Kmotry byli Kristián baron z Gillernů, podplukovník (vzdálený bratranec z dvorecké větve – jejich dědové byli bratři Christoph Heinrich a Friedrich Wilhelm I.), a jeho manželka Karolína roz. Locella – Friedrich byl s koryčanskou větví v úzkém styku. Friedrich tehdy velel setnině pluku ve Vídni (3. prapor pluku stál ve Vídni 1767–1770).",
-        "Co se s ním stalo po roce 1771, zatím nevíme: ve Velkém Varadíně ani jinde v Uhrách ho rejstřík FamilySearch neuvádí (2026)."
+        "Jeho další osud po roce 1771 neznáme."
       ],
       "vztahy": [
         {
@@ -1873,6 +1918,10 @@
         },
         {
           "nazev": "matriky Kladruby nad Labem 1761, Pardubice 1765, Čelákovice 1766"
+        },
+        {
+          "nazev": "Dvorská válečná rada, 859 (1751E), fol. 1114v–1115r, č. 258 a 261",
+          "odkaz": "https://library.hungaricana.hu/en/view/KA_HKR_859_1751E/?pg=384"
         }
       ],
       "zaznamy": [
@@ -1898,9 +1947,9 @@
         "Děti: Maria Elisabeth (× 7. 9. 1705 Martinus Maximilianus Sefftig (?), hejtman šternberského panství), Hans Carl (* 6. 2. 1690), Anna Rosina (* 1694, × 18. 1. 1712 Johann Anton Knapp, hejtman v Opavě), Joanna Theresia (* 1697), Maria Johanna (* 8. 7. 1706, zemřela hned druhý den) a Frantz Philipp (* 2. 5. 1709).",
         "Do roku 1700 je v matrikách bez titulu; roku 1705 je měšťanem a poštmistrem, roku 1709 poštmistrem a roku 1712 „poštmistrem Jeho římského císařského Veličenstva a zdejším purkmistrem“.",
         "Často šel za kmotra ve Dvorcích; roku 1699 kmotroval i na Karlovci, na téže straně matriky hned po křtu dítěte Friedricha Wilhelma Gillera. Na svatbě jeho dcery roku 1705 svědčil Christian Giller ze Dvorců.",
-        "Podle obecních účtů Dvorců byl purkmistrem „celou generaci“, v letech 1693–1720 (před ním od 1687 Georg Hintsching); roku 1713 je uváděn jako „císařský“ poštmistr. Sinapius (1728) uvádí Franze Leopolda jako syna Friedricha Wilhelma I. a roku 1723 zemského písaře knížectví Minstrberského a Frankenštejnska. Zda jde o tutéž osobu, není jisté – věkem byl Franz Leopold spíš vrstevníkem Friedricha Wilhelma I. (bratrem nebo bratrancem) než jeho synem.",
+        "Historik Johann Berger uvádí podle obecních účtů jeho purkmistrování v letech 1693–1720. Roku 1713 ho označuje i za císařského poštmistra.",
         "Jeho syn Hans Carl byl nejspíš pozdější vídeňský dvorní rada a baron Karel Josef (Johann Karl Joseph) z Gillernů, pán Koryčan.",
-        "V pramenech jsou nejspíš tři muži jména Franz Leopold Giller: poštmistr ve Dvorcích (* nejpozději 1665), zemský písař v Minstrberku 1723 (podle Sinapia syn Friedricha Wilhelma I.) a dvorecký měšťan Franciscus (1683–1771). Podle Wikipedie žil poštmistr v letech 1656–1723 – pak by mohl být totožný se zemským písařem a vdova Susanna by se po jeho smrti vrátila do Dvorců (zemřela tam 1724).",
+        "Ve stejné době žil Franz Leopold von Giller, zemský písař minstrberského knížectví a frankensteinského obvodu. Sinapius ho uvádí jako syna Friedricha Wilhelma I. Souběh úřadů a odlišná jména manželek ukazují spíše na dva muže.",
         "Ve Dvorcích mu 9. 7. 1706 zemřela dcerka Maria Johanna, krátce po křtu (Dv I 1, str. 5)."
       ],
       "vztahy": [
@@ -1911,6 +1960,10 @@
         {
           "vztah": "příbuzný (bratr nebo bratranec?)",
           "profil": "fw1"
+        },
+        {
+          "vztah": "pravděpodobný jmenovec",
+          "profil": "franz_leopold_pisar"
         }
       ],
       "zdroje": [
@@ -2911,20 +2964,27 @@
     },
     "josef_emanuel_1789": {
       "jmeno": "Josef Emanuel z Gillernů",
-      "roky": "* 17. 10. 1789 Býchory",
+      "roky": "* 17. 10. 1789 Býchory – † patrně 9. 5. 1790 Býchory",
       "stav": "doc",
       "vazba": "syn Josefa z Gillernů a Anny roz. Kochové – mladší bratr našeho Františka",
       "fakta": [
-        "Mladší bratr Františka. * 17. 10. 1789 Býchory č. 11 (fara Ovčáry); otec pan Josef z Gillernů, fořt, matka Anna Kochová. Další osud neznámý.",
-        "Jména dostal po otci a po dědovi Maximiliánovi Josefovi Emanuelovi."
+        "Mladší bratr Františka. * 17. 10. 1789 Býchory č. 11 (fara Ovčáry); otec pan Josef z Gillernů, fořt, matka Anna Kochová. Pravděpodobně zemřel 9. 5. 1790 v témže domě. Zemřelý je uveden jako syn býchorského fořta Josefa z Gillernů ve věku osmi měsíců.",
+        "Jména Josef a Emanuel užívali také jeho otec a děd Maximilián."
       ],
       "zaznamy": [
-        "n_1789_gillern_josef_emanuel"
+        "n_1789_gillern_josef_emanuel",
+        "z_1790_bychory_gillern_josef"
       ],
       "vztahy": [
         {
           "vztah": "rodič",
           "osoba": "josef-z-gillernu-de-giller-1746"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Matrika Ovčáry 14, Býchory, s. 5, úmrtí 9. 5. 1790",
+          "odkaz": "https://ebadatelna.soapraha.cz/d/10801/5"
         }
       ]
     },
@@ -4605,13 +4665,14 @@
     },
     "lukas_lilienfeld": {
       "jmeno": "Lukáš (Lucas) Giller z Lilienfeldu",
-      "roky": "* 1578 Opava – † 1618 Opava",
+      "roky": "* kolem 1580 Opava – † patrně 1632 Řezno",
       "stav": "lit",
       "vazba": "opavský lékař z rodu Gillerů z Lilienfeldu; vztah k Matoušovi a k pozdějším Gillernům neznámý",
       "fakta": [
-        "Narodil se roku 1578 v Opavě. Studoval ve Vratislavi, kde byl spolužákem Stephana Henela.",
+        "Narodil se v Opavě. Literatura uvádí rok 1578, z věku 45 let v řezenském památníku roku 1625 vychází přibližně 1580. Studoval ve Vratislavi, kde byl spolužákem Stephana Henela.",
         "Roku 1604 se stal v Basileji doktorem filozofie a medicíny. Byl lékařem v Greiffenbergu (Gryfów Śląski) a pak mnoho let osobním lékařem Karla staršího ze Žerotína v Rosicích.",
-        "Podle Zeitschrift des Vereines für die Geschichte Mährens und Schlesiens (1914) zemřel roku 1618 v Opavě. Německá Wikipedie uvádí jinak: byl kalvínským kazatelem a zemřel až roku 1632 jako exulant v Řezně (Regensburg) – rozpor zatím nevyřešen.",
+        "V Basileji promoval 24. 7. 1604. Teolog Amand Polan z Polansdorfu ho v gratulační básni označil za svého příbuzného. V dopise Casparu Bauhinovi z Opavy dne 27. 3. 1605 Lukáš uvedl, že nedávno navštívil Vratislav se svým bratrem, a vzpomněl na rok v Helmstedtu.",
+        "Dne 18. 10. 1625 podle juliánského kalendáře (28. 10. gregoriánsky) je doložen jako lékař v Řezně ve věku 45 let. Pozdější přípis v památníku Matthäuse Schmolla klade jeho smrt do Řezna roku 1632. Časopis z roku 1914 uváděl rok 1618 v Opavě, který řezenský zápis vylučuje.",
         "Pilnáček (Rody starého Slezska) ho řadí mezi potomky Matouše Gillera, který roku 1568 dostal přídomek „von Lilienfeld“; přesné příbuzenství (syn, vnuk?) neuvádí."
       ],
       "vztahy": [
@@ -4634,6 +4695,22 @@
         {
           "nazev": "de.wikipedia.org – Gillern",
           "odkaz": "https://de.wikipedia.org/wiki/Gillern"
+        },
+        {
+          "nazev": "Basilejská matrika lékařské fakulty, AN II 21, fol. 19v, č. 416",
+          "odkaz": "https://www.e-codices.unifr.ch/en/ubb/AN-II-0021/19v"
+        },
+        {
+          "nazev": "Laurea Apollinea (1604), věnování Amanda Polana, sign. A2r",
+          "odkaz": "https://diglib.hab.de/drucke/wa-5880-51s/00003.jpg"
+        },
+        {
+          "nazev": "Lukášův dopis Casparu Bauhinovi, Basilej G2 I 5, fol. 12r",
+          "odkaz": "https://www.e-manuscripta.ch/bau/content/pageview/115054"
+        },
+        {
+          "nazev": "Památník Matthäuse Schmolla, edice H. Schmidt-Bäumlera (1988), s. 28",
+          "odkaz": "https://www.blf-online.de/sites/default/files/blf_quellen_dateien/bblf_jahrgang_51_1988.pdf#page=16"
         }
       ]
     },
@@ -4644,11 +4721,12 @@
       "vazba": "lékař v Olomouci, Opavě a Krnově; otec krnovského lékárníka Benedikta – vztah k Matoušovi a k pozdějším Gillernům neznámý",
       "fakta": [
         "V 1. polovině 17. století byl městským lékařem v Olomouci; v Žerotínských rukopisech se uvádí jeho spis o chování za moru (1633) a zpráva o čarodějnických procesech.",
-        "Podle německé Wikipedie se narodil roku 1591, doktorát z filozofie a medicíny získal v Padově a dopisoval si s mystikem Jakobem Böhmem. Do roku 1629 byl knížecím rychtářem (Fürstenrichter) v Opavě a v letech 1627 a 1629 jednal za město osobně s Valdštejnem. Rodina byla roku 1629 postižena císařskou klatbou proti protestantským vzbouřencům na Opavsku a přišla o predikát i majetek. Po přestupu ke katolické víře sloužil od roku 1636 Karlu Eusebiovi z Lichtenštejna, pozdějšímu vrchnímu hejtmanovi Slezska.",
+        "Podle německé Wikipedie se narodil roku 1591, lékařský a filozofický doktorát získal v Padově a dopisoval si s Jakobem Böhmem.",
+        "Podle Josefa Zukala působil v letech 1629–1630 jako knížecí sudí v Opavě. Roku 1632 u něj na Horním náměstí bydlel kníže Karel Eusebius z Lichtenštejna. Podle Gottlieba Biermanna byl Matyáš členem komise pro navrácení majetku krnovským minoritům.",
         "Roku 1652 sestavil „Matthias Gieller von Lilienfeldt“ kostelní urbář města Opavy.",
-        "Zajímavá shoda: i pozdější Gillerové ve Dvorcích byli spjati s Lichtenštejny – poštmistr Franz Leopold Giller byl úředníkem lichtenštejnského panství Karlovec a Karel Josef lichtenštejnským sekretářem ve Vídni. Zda jde o rodinnou návaznost, nevíme.",
+        "Dne 7. 4. 1628 doporučil Jiří z Oppersdorfu purkmistrovi Velkého Hlohova lékaře Gullera z Opavy. Mohlo jít o Matyáše nebo Lukáše. Totožnost lékaře i jeho případný nástup zůstávají nejisté.",
         "Roku 1642 se přestěhoval do Krnova, kde po tchyni zdědil svobodný dům s dvorem; otcovský dům v Opavě prodal roku 1644. Zemřel 1655/1656.",
-        "Měl dvě manželky jménem Zuzana – jedna byla podle Zukala dcerou Hanse von Götz a Zuzany Dreßler von Scharfenstein. Synové: Benedikt Josef, lékárník v Krnově, a Ignác (Pilnáček uvádí také syna Jana).",
+        "Zukal uvádí manželku Zuzanu z Götzu, dceru Hanse z Götzu a Zuzany rozené Dresslerové. Tesař uvádí Zuzanu z Görtzu a Zuzanu Dresslerovou jako dvě Matyášovy manželky. Mezi syny patřili krnovský lékárník Benedikt Josef a Ignác. Pilnáček zmiňuje také Jana.",
         "V opavské křestní matrice je 12. 6. 1636 zapsán křest Ignáce, syna „D. Matthias …ieller“ a Zuzany (kmotři Daniel Meltzer a Alžběta Anna Kohlisová (?)); první písmeno příjmení má tvar G téhož písaře, jisté to ale není, a „D.“ může znamenat pána (Dominus) i doktora. Roku 1638 je v Opavě dvakrát kmotrem „Matthias G(?)ieller“, jednou spolu s kmotrou z hraběcího rodu Oppersdorffů.",
         "Při sňatku syna Ignáce v Krnově v listopadu 1662 je zapsán jako zesnulý: „weylandt H. Matthias …iller von Lilienfelt“."
       ],
@@ -4690,6 +4768,18 @@
         {
           "nazev": "de.wikipedia.org – Gillern",
           "odkaz": "https://de.wikipedia.org/wiki/Gillern"
+        },
+        {
+          "nazev": "J. Zukal, Troppauer Ärztewesen (1910/1911), s. 108–109",
+          "odkaz": "https://obc.opole.pl/Content/7764/PDF/D8272-34.pdf#page=19"
+        },
+        {
+          "nazev": "Acta publica VII, s. 189–190, dopis ze 7. 4. 1628",
+          "odkaz": "https://sbc.org.pl/Content/8998/PDF/8998.pdf#page=203"
+        },
+        {
+          "nazev": "G. Biermann, Geschichte der Herzogthümer Troppau und Jägerndorf (1874), s. 563",
+          "odkaz": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11181592_00577/full/1300,/0/default.jpg"
         }
       ]
     },
@@ -4700,6 +4790,7 @@
       "vazba": "syn lékaře Matyáše Gillera z Lilienfeldu; zda souvisí se slezskými Gillerny, nevíme",
       "fakta": [
         "Podle Zukala byl synem lékaře Matyáše Gillera z Lilienfeldu a lékárníkem v Krnově; jeho bratrem byl Ignác Giller z Lilienfeldu.",
+        "Snad je totožný s Benediktem Gillerem z Opavy, zapsaným 26. 2. 1634 v olomoucké univerzitní matrice ve třídě gramatiky.",
         "V krnovské matrice je zapsán jako „Benedictus Ignatius Giller“, manželka Zuzana; roku 1652 výslovně „ein Apotecker“. Písaři psali jeho příjmení různě (i Diller), ale ve dvou zápisech z roku 1648 je zřetelné G – stejné jako v okolních slovech „Gotfried“ a „Georg“.",
         "Děti pokřtěné v Krnově: Anna Zuzana (asi 7. 1. 1646), Gotfried Benedikt (26. 3. 1648), Anna Rosina (4. 8. 1650), Jan Kryštof (18. 4. 1652) a druhá Anna Rosina (listopad 1666).",
         "Pohřben byl 13. 1. 1671 v Krnově jako „H. Benedict …iller von Lillienfeldt“ – „mit gantzer Schul“, tedy slavnostně za doprovodu celé školy. Při křtech dětí stojí bez přídomku, v pohřebním zápisu s ním.",
@@ -4735,6 +4826,10 @@
         },
         {
           "nazev": "J. Zukal, Troppauer Ärztewesen (1910/1911), s. 109"
+        },
+        {
+          "nazev": "Nejstarší matrika olomoucké univerzity, edice s. 156, č. 3763",
+          "odkaz": "https://matricula.upol.cz/wp-content/uploads/2023/11/Nejstarsi-matrika-olomoucke-univerzity.pdf#page=156"
         }
       ]
     },
@@ -5063,6 +5158,37 @@
           "nazev": "Matrika Krehlau, křty 1736–1773, FamilySearch film 8244729, snímek 15"
         }
       ]
+    },
+    "franz_leopold_pisar": {
+      "jmeno": "Franz Leopold von Giller",
+      "roky": "zemský písař 1710–1723",
+      "stav": "lit",
+      "vazba": "Podle Sinapia syn Friedricha Wilhelma I.",
+      "fakta": [
+        "Dne 29. 4. 1710 nastoupil jako zemský písař minstrberského knížectví a 13. 7. 1710 převzal zemskou kancelář ve Frankensteinu (dnes Ząbkowice Śląskie). Sinapius jej v této funkci uvádí k roku 1723.",
+        "Jeho pravděpodobnou manželkou byla Hedvika z Gillern, rozená Brinkmannová. Podle její poslední vůle byla roku 1717 u kostela sv. Anny ve Frankensteinu vztyčena socha sv. Jana Nepomuckého. Historik Kopietz ji uvádí jako dceru knížecího úředního sekretáře von Brinkmanna.",
+        "Zemský písař byl pravděpodobně jiný muž než stejnojmenný poštmistr a purkmistr ve Dvorcích, jehož manželka se jmenovala Susanna."
+      ],
+      "vztahy": [
+        {
+          "vztah": "otec podle Sinapia",
+          "profil": "fw1"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "A. Sabisch, Der Regierungsantritt Franz Karls von Auersperg (1933), s. 112",
+          "odkaz": "https://sbc.org.pl/Content/20556/PDF/ii4026-1933-00-0001.pdf#page=124"
+        },
+        {
+          "nazev": "J. A. Kopietz, Kirchengeschichte des Fürstentums Münsterberg (1885), s. 169",
+          "odkaz": "https://dbc.wroc.pl/Content/4260/0178_0001.djvu"
+        },
+        {
+          "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
+          "odkaz": "https://books.google.com/books?id=ru1PAAAAcAAJ&pg=PA641"
+        }
+      ]
     }
   },
   "rodokmen": {
@@ -5104,7 +5230,7 @@
                       {
                         "jmeno": "Friedrich Wilhelm II.",
                         "stav": "doc",
-                        "roky": "křest 6. 4. 1688 Karlovec – † 1751 Lucemburk",
+                        "roky": "křest 6. 4. 1688 – † pravděpodobně do 5. 5. 1750",
                         "pozn": "císařský podplukovník; totožnost s křtěncem 1688 velmi pravděpodobná",
                         "manzel": "× Anna Marie",
                         "deti": [
@@ -5577,7 +5703,7 @@
                                   {
                                     "jmeno": "Josef Emanuel",
                                     "stav": "doc",
-                                    "roky": "* 1789 Býchory",
+                                    "roky": "* 1789 Býchory – † patrně 1790 tamtéž",
                                     "vazba": "doc",
                                     "profil": "josef_emanuel_1789"
                                   },
@@ -6208,7 +6334,7 @@
                 "jmeno": "Lukas Giller z Lilienfeldu",
                 "stav": "lit",
                 "vazba": "nejiste",
-                "roky": "* 1578 Opava – † 1618 Opava",
+                "roky": "* kolem 1580 Opava – † patrně 1632 Řezno",
                 "pozn": "doktor filozofie a medicíny (Basilej 1604), lékař Karla st. ze Žerotína; vztah k Matoušovi neznámý",
                 "profil": "lukas_lilienfeld"
               },

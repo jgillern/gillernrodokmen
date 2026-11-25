@@ -4,7 +4,7 @@
 
 Platí [plán tří priorit](../../../plan_badani_2026-11-25.md). Souhrn níže je aktuální k 25. listopadu. V [deníku, č. 718–730](../../research_log.md) jsou také skutečné rozsahy čtení a negativní výsledky. Třináct historických záznamů včetně býchorské matriky zemřelých je zaneseno v evidenci pramenů a přepisů.
 
-Pro správce rodokmenu obsahuje [oprava historických profilů](opravy_historickych_profilu.patch) pouze změněné řádky v souborech `data/osoby.py` a `data/rod_gillernu.json`. Zahrnuje profily Friedricha Wilhelma II., Christiana, Friedricha z Hammeru, Josefa, jeho manželky a syna, Lukáše z Lilienfeldu a rozlišení Franzů Leopoldů. Starší data v těchto dvou společných souborech zatím zůstávají v původním znění. Patch odpovídá jejich verzi v revizi `7c02f35`. Jeho aplikovatelnost byla ověřena příkazem `git apply --check --unidiff-zero data/badani/2026-11-25/opravy_historickych_profilu.patch`.
+Opravy byly 25. listopadu zapracovány přímo do [evidence osob](../../osoby.py) a [rodových profilů](../../rod_gillernu.json). Týkají se mimo jiné Friedricha Wilhelma II., Christiana, Friedricha z Hammeru, býchorské rodiny Josefovy, Lukáše z Lilienfeldu a rozlišení Franzů Leopoldů. [Původní soupis změn](opravy_historickych_profilu.patch) zachycuje rozdíl proti verzi před opravou.
 
 25. listopadu 2026
 

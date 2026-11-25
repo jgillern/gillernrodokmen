@@ -1238,7 +1238,7 @@
         "Jeho syn Arthur (* 4. 4. 1855 Altwasser u Hlohova, † 4. 5. 1916 Berlín) byl pruský generálporučík; Arthurův syn Arnulf (1884–1944) byl spolumajitelem zbrojovky Polte v Magdeburku.",
         "1744 pruské uznání stavu svobodných pánů listem Fridricha II., potvrzeno 1855.",
         "Ernst Heinrich z Gillernů (1730–1792), mladší bratr našeho Maximiliána: velitel granátnického praporu v Nise, generálmajor a šéf pěšího pluku v Královci, rytíř Pour le Mérite.",
-        "Dominika von Gillern (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici – z katolické linie z Rettkau (Johann Christoph a jeho potomci); jména rodičů neznáme.",
+        "Dominika von Gillern, světským jménem Maria Anna (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici. Křest 29. 3. 1739 v matrice Hochkirchu označuje jejího otce jako mladšího barona von Güller a matku jako Marii Antonii, velmi pravděpodobně rozenou von Rüffer.",
         "Carl Joseph svobodný pán z Gillernů († 1824 Ober-Glogau), syn Maximiliánova bratrance, × 1785 Antonia von Nerlich; pán na Polnisch-Gandau. Baron z Gillernů na Kulmikau u Stínavy pohřbil roku 1793 nejmladší dceru Johannu Augustinu Barbaru Carolinu (3 roky).",
         "Hugo z Gillernů alias Hugo Krüger (* 11. 1. 1829 Vratislav, † 19. 11. 1871 Berlín), tenorista berlínské dvorní opery, syn vysokého pruského důstojníka – podle Wikipedie Dominika svobodného pána z Gillernů a Henriette roz. Krüger.",
         "Georg svobodný pán z Gillernů z Vratislavi, hejtman 1. roty pomořanského mysliveckého praporu č. 2, padl 2. 12. 1870 u Champigny.",
@@ -1280,9 +1280,18 @@
         },
         {
           "nazev": "L. von Zedlitz-Neukirch, Neues preussisches Adels-Lexicon II (1836), s. 234"
+        },
+        {
+          "nazev": "Klášterní katalog v Trzebnici, č. 112, životní data abatyše Dominiky",
+          "odkaz": "https://sbc.org.pl/Content/56157/PDF/56157.pdf#page=246"
+        },
+        {
+          "nazev": "Siebmacher, slezská šlechta, heslo Ruffer (Rüffer), s. 148. Maria Antonia provdaná von Gillern.",
+          "odkaz": "https://sbc.org.pl/Content/4112/PDF/4112.pdf#page=150"
         }
       ],
       "zaznamy": [
+        "n_1739_hochkirch_maria_anna_giller",
         "z_1810_gillern_dominika",
         "o_1827_gillern_hinke",
         "n_1828_gillern_oswald",
@@ -6434,7 +6443,7 @@
           {
             "jmeno": "Pruští Gillernové 18.–20. století",
             "stav": "lit",
-            "pozn": "Dominika (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici – rodiče neznámí; Karl-Joseph (1743–1793), major – nedoloženo; tenorista Hugo von Gillern alias Hugo Krüger (* 11. 1. 1829 Vratislav, † 1871 Berlín), syn pruského důstojníka Dominika von Gillern a Henriette roz. Krüger; kapitán Georg svobodný pán z Gillernů z Vratislavi, padl 2. 12. 1870 u Champigny; baron z Gillernů na Kulmikau (dcera † 1793). Do které větve patří, zatím nevíme",
+            "pozn": "Dominika (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici – dcera mladšího barona von Güller a Marie Antonie, patrně rozené von Rüffer; Karl-Joseph (1743–1793), major – nedoloženo; tenorista Hugo von Gillern alias Hugo Krüger (* 11. 1. 1829 Vratislav, † 1871 Berlín), syn pruského důstojníka Dominika von Gillern a Henriette roz. Krüger; kapitán Georg svobodný pán z Gillernů z Vratislavi, padl 2. 12. 1870 u Champigny; baron z Gillernů na Kulmikau (dcera † 1793). Do které větve patří, zatím nevíme",
             "profil": "prusove"
           },
           {

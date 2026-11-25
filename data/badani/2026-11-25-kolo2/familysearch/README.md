@@ -1,5 +1,7 @@
 # FamilySearch po přihlášení. Hochkirch a Gramschütz
 
+**Maria Anna z Rettkau byla nalezena v křtech Hochkirchu 29. 3. 1739.** Její matkou byla Maria Antonia, velmi pravděpodobně rozená von Rüffer. Otce matrika označuje jako mladšího barona von Güller. [Celý zápis a druhý pramen k matce](rettkau-1739.md)
+
 **Josefův křest se v čitelných zápisech Gramschützu z obou věkových oken nepodařilo doložit.** Na sedmi stranách s cílovými zápisy a třech sousedních byla potvrzena příslušnost konkrétních rodin z Priedemostu k této knize. Zápisy dělí místy několikaměsíční mezery. [Průchod knihou D289, obě období a výřez](gramschuetz-d289.md)
 
 ## Hochkirch / Grodowiec, katolická farnost pro stopu v Rettkau
@@ -15,7 +17,7 @@ Dne 25. 11. 2026 zobrazil [katalog 13158](https://www.familysearch.org/en/search
 | 6307009 | Křty 1747–1749 | Přesah kolem začátku roku 1747 |
 | 6307027 a 6307028 | Sňatky 1733–1742 a 1742–1757 | Případný sňatek rodičů, pokud jejich jména potvrdí křest |
 
-Z této mikrofišové položky jsme neviděli žádnou stránku křtů. Narození Marie Anny z Rettkau 29. 3. 1739 známe z klášterního životopisu. Datum křtu, jména rodičů a kmotrů se stále hledají. [Předchozí zpráva včetně vizitace](../hochkirch/README.md)
+Z této mikrofišové položky jsme neviděli žádnou stránku křtů. V alternativní kopii byla následně nalezena Maria Anna z Rettkau, křtěná 29. 3. 1739. [Přepis, rodiče a výřezy](rettkau-1739.md). [Předchozí zpráva včetně vizitace](../hochkirch/README.md)
 
 ### Další dvě kopie v téže službě
 

@@ -15,7 +15,12 @@ Dne 25. 11. 2026 zobrazil [katalog 13158](https://www.familysearch.org/en/search
 | 6307009 | Křty 1747–1749 | Přesah kolem začátku roku 1747 |
 | 6307027 a 6307028 | Sňatky 1733–1742 a 1742–1757 | Případný sňatek rodičů, pokud jejich jména potvrdí křest |
 
-Z Hochkirchu jsme neviděli žádnou stránku křtů. Narození Marie Anny z Rettkau 29. 3. 1739 známe z klášterního životopisu. Datum křtu, jména rodičů a kmotrů se stále hledají. [Předchozí zpráva včetně vizitace](../hochkirch/README.md)
+Z této mikrofišové položky jsme neviděli žádnou stránku křtů. Narození Marie Anny z Rettkau 29. 3. 1739 známe z klášterního životopisu. Datum křtu, jména rodičů a kmotrů se stále hledají. [Předchozí zpráva včetně vizitace](../hochkirch/README.md)
+
+### Další dvě kopie v téže službě
+
+1. [Katalog 541668](https://www.familysearch.org/en/search/catalog/541668) vede sedm mikrofilmů pořízených roku 1989 ve Vratislavi. U křtů 1733–1795 uvádí film **1676840**, DGS **8016284**. V této katalogové položce byla kamera neaktivní.
+2. Ve vyhledávači **Historical Images**, přes místo **Hochkirch, Glogau** (identifikátor místa 12501801), se samostatně objevily skupiny **8246287–8246295**. U skupiny **8246290** se otevřel obrazový prohlížeč s 423 snímky a s Hochkirchem i Kreidelwitzem v popisu křestních oddílů. Jednotlivá místa, období a vyznání je nutné určovat podle skutečných nadpisů a zápisů na konkrétním listu. [Otevřená skupina 8246290](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G32C-M?view=explore&groupId=TH-909-75352-98992-36&lang=en)
 
 ## Gramschütz / Grębocice, stopa Priedemost / Przedmoście
 
@@ -24,3 +29,5 @@ V [katalogu 325630](https://www.familysearch.org/en/search/catalog/325630) se po
 U dalších exemplářů katalog uvádí rozdílné podmínky. Film **890949**, DGS **8028534** (období 1726–1741), odkazuje do centra FamilySearch. Film **1538820**, DGS **8119404**, odkazuje také na partnerskou knihovnu. Další online skupinou pro srovnání je film **1202296**, DGS **102649646**, který v katalogu zahrnuje evangelické křty. Každý výsledek je třeba spojit s konkrétní řadou, rokem a vsí uvedenou písařem. [Dřívější zpráva o obou vyznáních a příslušnosti vsí](../gramschuetz/README.md)
 
 [Další prameny k Hochkirchu, rozsahu Priedemostu a rozlišení rodin](chronika-a-rodina.md)
+
+[Proč pro Hammer patří na první místo matrika Krehlau](hammer-a-krehlau.md).

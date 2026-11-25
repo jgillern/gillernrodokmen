@@ -12,7 +12,7 @@
 | 3 | [Ezechiel, Barbora, Kunschovi a podpis Karla Josefa](konvent/README.md) | Berlínský tisk z roku 1681 výslovně jmenuje Ezechiela Gillera z Lilienfeldu jako děda Johanna Kunsche z matčiny strany a Barboru jako Johannovu matku. Podpis Karla Josefa z roku 1725 zní podle edice „Carl Joseph von Gillern“. Jeho příbuznost s Ezechielem zůstává otevřená. |
 | 3 | [Vídeňský sňatek Karla Josefa roku 1722](viden1722/README.md) | Knížecí dvorní rada Karel Josef má v zápisu s Marií Josefou z Felneru uvedeno, že se narodil v „Hoff in Mähren“, velmi pravděpodobně ve Dvorcích. Rok narození ani jména jeho rodičů zápis neposkytuje. |
 
-**Aktualizace po přihlášení na FamilySearch.** U Hochkirchu známe přesná čísla mikrofiší. U Gramschützu se otevřel originální rukopis na filmu 1202294, DGS 102649639. [Kontrola dostupnosti a čtení matrik](familysearch/README.md)
+**Aktualizace po přihlášení na FamilySearch.** U Hochkirchu známe přesná čísla mikrofiší. V Gramschützu byl na filmu 1202294, DGS 102649639, přečten sled křtů pro obě Josefova období. Priedemost je v obou doložen. V čitelných řádcích se Josef z hledané rodiny neobjevil. [Kontrola dostupnosti a čtení matrik](familysearch/README.md)
 
 ## Kde pokračovat online
 

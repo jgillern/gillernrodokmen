@@ -1,5 +1,7 @@
 # Hochkirch, Rettkau a Groß Schmograu · druhé kolo
 
+**Pozdější ověření po přihlášení.** [Mikrofiše v Hochkirchu a obrazy v Gramschützu](../familysearch/README.md).
+
 **Nové zjištění.** Retkau je přímo uvedeno mezi vesnicemi náležejícími ke katolickému kostelu v Hochkirch v tištěné edici vizitace z roku 1679. Přesný obvod pro hledané roky zůstává k ověření v knize. FamilySearch v prohlížeči zobrazil běžné přihlášení pro oba cílové katalogy. Pro náhradní křty v Groß Schmograu byla určena další filmová jednotka v Lipsku. Přečteno **0 matričních snímků**. Rodiče a kmotři Marie Anny a Josefův křest zůstávají neověřené.
 
 ## Hochkirch / Grodowiec a Rettkau / Retków

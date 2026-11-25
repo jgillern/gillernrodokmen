@@ -1,5 +1,7 @@
 # Gramschütz a Priedemost · druhé kolo, 25. listopadu 2026
 
+**Pozdější ověření po přihlášení.** [Mikrofiše v Hochkirchu a obrazy v Gramschützu](../familysearch/README.md).
+
 Křty z let 1737–1738 a 1746–1747 zůstávají neprohlédnuté. Snímky nevydal polský portál ani FamilySearch. Nově jsem ověřil v obrazu inventáře z roku 1902, že v Gramschützu evidoval samostatné katolické křty od roku 1654 a evangelické od roku 1741. Přibyla konkrétní archivní signatura žádosti Priedemostu o příslušnost ke Gramschützu z roku 1767. Pro českou větev přibyly dvě nadřízené instituce, jejichž písemnosti mohou doplnit místní fondy.
 
 ## Křty a kontrola míst

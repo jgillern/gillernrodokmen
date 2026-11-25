@@ -2,7 +2,7 @@
 
 **Aktivní úkol po revizi 25. listopadu je Josefovo rodiště a Maximiliánův příchod z okruhu Hammeru do Čech.** Další dvě původní priority jsou na Janův pokyn odloženy. Dosavadní nálezy, odkazy a podmínky pro jejich obnovení zůstávají níže.
 
-**Výsledek pokračování.** [Personální změny v Poděbradech roku 1747 a jejich důsledky pro Josefa](data/badani/2026-11-25-josef-maximilian/provedeno/README.md). V první řadě hledáme revír polního myslivce Stumpfa, penzionovaného 27. 5. 1747, a první následnou výplatu. Sňatek Eleonory v kladrubské ani v opočenské knize roku 1780 nalezen nebyl. [Přečtené matriky](data/badani/2026-11-25-josef-maximilian/provedeno/opocno-a-kladruby.md).
+**Výsledek pokračování.** [Personální změny v Poděbradech roku 1747 a jejich důsledky pro Josefa](data/badani/2026-11-25-josef-maximilian/provedeno/README.md). V první řadě hledáme revír polního myslivce Stumpfa, penzionovaného 27. 5. 1747, a první následnou výplatu. Na slezské straně byl pomocí dobového adresáře identifikován [Maximiliánův švagr ve Volově](data/badani/2026-11-25-josef-maximilian/provedeno/sestra-a-volov.md). Sňatek Eleonory v kladrubské ani v opočenské knize roku 1780 nalezen nebyl. [Přečtené matriky](data/badani/2026-11-25-josef-maximilian/provedeno/opocno-a-kladruby.md).
 
 
 ### 1. Josef a Maximilián
@@ -11,7 +11,7 @@
 
 1. Prověřit úřední imatrikulaci obou mužů. Pro otce nejdříve starší knihu druhé třídy (NA, VHS, číslo na štítku 27), pro rok 1789 spisy skupiny I (č. 260, kart. 37). Rubrika mohla obsahovat přihlášky s rodištěm. Povinnost a zařazení do třídy je třeba u každého muže ověřit zvlášť.
 2. Hledat otcovu první výplatu v Boru před 23. 1. 1750 a synovo předchozí působiště při převzetí služby v Býchorech v letech 1787–1789. Původní úkol, nyní prověřený v obou knihách, byl dohledat Eleonořinu svatbu 16. 2.–21. 12. 1780 v Kladrubech a Opočně. Cílem jsou údaje o rodině nevěsty a svědcích.
-3. Podle konkrétní obce a času dohledat křest nebo sňatek. Obě Josefova věková okna již byla v Poděbradech prověřeny, stejně jako [Hochkirch a Gramschütz](data/badani/2026-11-25-kolo2/familysearch/README.md). Číslo 1045 je číslo archivní pomůcky celého poděbradského vikariátu. K dochování května a června 1786 dosud chybí údaj o konkrétním svazku. Farní oddavkové přílohy výslovně popsané v proboštském fondu začínají v roce 1838.
+3. Podle konkrétní obce a času dohledat křest nebo sňatek. Obě Josefova věková okna již byla v Poděbradech prověřena, stejně jako [Hochkirch a Gramschütz](data/badani/2026-11-25-kolo2/familysearch/README.md). Číslo 1045 je číslo archivní pomůcky celého poděbradského vikariátu. K dochování května a června 1786 dosud chybí údaj o konkrétním svazku. Farní oddavkové přílohy výslovně popsané v proboštském fondu začínají v roce 1838.
 
 [Nové zápisy do deníku, č. 753–758](data/badani/2026-11-25-josef-maximilian/denik.md). Předchozí výzkum je v [souhrnu prvního kola](data/badani/2026-11-25/README.md) a [souhrnu druhého kola](data/badani/2026-11-25-kolo2/README.md).
 

@@ -2653,14 +2653,14 @@
     },
     "maria_josepha_1717": {
       "jmeno": "Maria Josepha Elisabetha von Giller",
-      "roky": "křest 22. 4. 1717 Krehlau – × asi 1747 Krehlau",
+      "roky": "křest 22. 4. 1717 Krehlau – × 24. 11. 1747 Krehlau (datum podle rejstříku)",
       "stav": "doc",
       "vazba": "Dcera Carla Heinricha von Giller, pána na Hammeru a Dolním Krehlau, a Cathariny Barbary Eleonory roz. Nerlichové – starší sestra našeho předka Maximiliána (* 1719).",
       "fakta": [
         "Pokřtěna 22. 4. 1717 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako dcera urozeného pana Carla Heinricha von Giller na Hammeru a paní Cathariny Barbary Eleonory.",
         "Kmotry byli Franz Valentin Klinge, purkmistr ve Winzigu, paní Carolina von Gillerová, „hejtmanová z Preichau“, a teta Eleonora Hedwig von Gillerová, paní na Horním Krehlau.",
         "20. 5. 1726 byla v Krehlau kmotrou jako „slečna Maria Josepha von Gillerin z Hammeru“. V červenci 1736 byla kmotrou znovu – tehdy za ni u křtu stála v zastoupení jiná urozená dáma a zápis ji nazývá dcerou pana Carla Heinricha von Giller, dědičného pána na Hammeru a Dolním Krehlau.",
-        "24. 11. 1747 se v Krehlau vdala za Philippa Augustina Noa (?), nejspíš radního z Wohlau (dnes Wołów); oddával vysoce důstojný pan Joannes Nepomucenus Vincentius (?) von … a svědky byli dva kněží. Bratr Maximilián mezi svědky není."
+        "24. 11. 1747 se v Krehlau vdala za Philippa Augusta Nohu von Schwarzenfeld, radního ve Volově (Wohlau, dnes Wołów). Matrika má zkrácenou či hůře čitelnou podobu příjmení Noa. Úplné jméno a funkci potvrzuje Schlesische Instantien-Notiz pro rok 1753, s. 306. Oddávající je čten jako Joannes Nepomucenus Vincentius (?) von …. Ve svědecké části jsou patrná dvě označení Pater. Celá jména svědků ani osobní účast Maximiliána z obrazu bezpečně nevyčteme."
       ],
       "zaznamy": [
         "n_1736_krehlau_giller_kmotra",
@@ -2691,6 +2691,10 @@
         },
         {
           "nazev": "Jmenný rejstřík FamilySearch k matrice Krehlau 1736–1780 (film 7769311): sňatek 24. 11. 1747"
+        },
+        {
+          "nazev": "Schlesische Instantien-Notiz 1753, s. 306, městská rada volovská. Philipp August Noha von Schwarzenfeld",
+          "odkaz": "https://www.digitale-sammlungen.de/en/view/bsb10015100?page=306"
         }
       ]
     },
@@ -5497,7 +5501,7 @@
                           },
                           {
                             "jmeno": "Maria Josepha Elisabetha",
-                            "roky": "křest 22. 4. 1717; × 24. 11. 1747 Krehlau Philipp Augustin Noa (?)",
+                            "roky": "křest 22. 4. 1717; × 24. 11. 1747 Krehlau Philipp August Noha von Schwarzenfeld, radní ve Volově",
                             "stav": "doc",
                             "vazba": "doc",
                             "profil": "maria_josepha_1717"

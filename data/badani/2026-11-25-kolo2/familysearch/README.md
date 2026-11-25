@@ -4,6 +4,8 @@
 
 **Josefův křest se v čitelných zápisech Gramschützu z obou věkových oken nepodařilo doložit.** Na sedmi stranách s cílovými zápisy a třech sousedních byla potvrzena příslušnost konkrétních rodin z Priedemostu k této knize. Zápisy dělí místy několikaměsíční mezery. [Průchod knihou D289, obě období a výřez](gramschuetz-d289.md)
 
+**Roku 1750 zapsal farář na Rettkau další pár se jmény obou rodičů, Franze Josepha von Giller a Františku rozenou hraběnku Ostischau.** Dne **21. 3. 1751** se stejným rodičům podařilo dohledat i syna [Carla Josepha](rettkau-1751.md), jehož jméno, věk a rodové sídlo souhlasí se žákem rytířské akademie v roce 1770. Mezi kmotry obou dětí byl také dospělý Carl Joseph von Giller, roku 1750 výslovně ve Vídni. [Matrika a oprava dosavadního připsání Františky Josephu Antonovi](rettkau-1750.md)
+
 ## Hochkirch / Grodowiec, katolická farnost pro stopu v Rettkau
 
 Dne 25. 11. 2026 zobrazil [katalog 13158](https://www.familysearch.org/en/search/catalog/13158) při rozšíření přehledu všech 51 mikrofiší. U cílových řádků je vyplněno umístění „FamilySearch Library, International B1 Floor Fiche“. Sloupec digitální skupiny (DGS) zůstal prázdný. U křestních fiší 6307004 a 6307007 bylo ovládání snímku neaktivní a katalog oznámil, že tento film nyní nedokáže zobrazit. Přihlášený účet tedy v této konkrétní položce k obrazům nevedl. Přístup v badatelském centru jsme nezkoušeli.

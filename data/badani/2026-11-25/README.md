@@ -2,7 +2,7 @@
 
 ## Předání do pracovního rodokmenu
 
-Platí [plán tří priorit](../../../plan_badani_2026-11-25.md). Souhrn níže je aktuální k 25. listopadu. V [deníku, č. 718–730](../../research_log.md) jsou také skutečné rozsahy čtení a negativní výsledky. Třináct historických záznamů včetně býchorské matriky zemřelých je zaneseno v evidenci pramenů a přepisů.
+Platí [plán tří priorit](../../../plan_badani_2026-11-25.md). Souhrn zachycuje první kolo. V navazujícím [průzkumu v přihlášeném FamilySearch](../2026-11-25-kolo2/familysearch/README.md) byly obě katolické matriky otevřeny, obě Josefova období v nich přečtena a čtyři křty Gillerů z Rettkau doloženy na obrazech. V [deníku, č. 718–730](../../research_log.md) jsou také skutečné rozsahy čtení a negativní výsledky. Třináct historických záznamů včetně býchorské matriky zemřelých je zaneseno v evidenci pramenů a přepisů.
 
 Opravy byly 25. listopadu zapracovány přímo do [evidence osob](../../osoby.py) a [rodových profilů](../../rod_gillernu.json). Týkají se mimo jiné Friedricha Wilhelma II., Christiana, Friedricha z Hammeru, býchorské rodiny Josefovy, Lukáše z Lilienfeldu a rozlišení Franzů Leopoldů. [Původní soupis změn](opravy_historickych_profilu.patch) zachycuje rozdíl proti verzi před opravou.
 

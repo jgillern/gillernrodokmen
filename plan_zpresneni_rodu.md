@@ -241,7 +241,7 @@ Prošel jsem všechny nejisté vazby v rodokmenu rodu (hlavní strom, Gillerové
 - Podle rodopisu z roku 1884 pocházel Johann Christof z prvního manželství Heinricha Christofa s rozenou von Tschammer. Doplněna jako předkyně (osoba 4097), u Heinricha Christofa doplněn pluk Wrbna.
 - U Christopha Heinricha doplněn úřad vrchního výběrčího daní ve Vratislavi (rodopis z roku 1884).
 - Domněnka, že Maximiliánovým otcem byl František Mikuláš, je na webu označena jako vyvrácená.
-- Joseph Anton: manželka Maria Franziska roz. hraběnka Osteschau, zemřel před rokem 1765; zdroj ke statku Priedemost opraven.
+- **Opraveno podle křtu z 20. 3. 1750.** Původní přiřazení Marie Franzisky rozené Osteschau Josephu Antonovi vycházelo z pořadí držitelů Priedemostu. V matrice je výslovně manželkou **Franze Josepha von Giller**, pána na Rettkau. Datum smrti Josepha Antona tak zůstává otevřené. [Křest a původ opravy](data/badani/2026-11-25-kolo2/familysearch/rettkau-1750.md)
 - Johann Christoph: statky Rettkau a Priedemost (1730), úřad v Preichau asi do roku 1742.
 - Rok narození Friedricha Wilhelma I. (1651) je na webu označen jako nejistý.
 

@@ -3562,5 +3562,29 @@
   ],
   "status": "ok",
   "note": "Zápis z Rettkau uprostřed listu, od data křtu po poslední řádek o kmotrech. Část písmene z předchozího a následujícího zápisu zasahuje do okraje."
+ },
+ "n_1750_rettkau_maria_barbara_giller": {
+  "boxes": [
+   [
+    0.013,
+    0.02,
+    0.99,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "Rettkau, spodní zápis na s. 586 vlevo. Datum, dcera, oba rodiče a kmotři včetně údaje o Vídni."
+ },
+ "n_1751_rettkau_carl_joseph_giller": {
+  "boxes": [
+   [
+    0.015,
+    0.012,
+    0.987,
+    0.956
+   ]
+  ],
+  "status": "ok",
+  "note": "Předposlední zápis listu, od data 21. tohoto měsíce po posledního kmotra jménem Carl Joseph baron von Giller."
  }
 }

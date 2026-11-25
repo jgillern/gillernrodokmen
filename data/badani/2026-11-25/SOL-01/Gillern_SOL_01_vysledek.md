@@ -51,6 +51,8 @@ Položka 112 v dolní části tištěné s. 228, v prvním řádku datum narozen
 
 ## SOL-01-N03 · Carl Joseph z Rettkau a syn Josepha Antona
 
+**Doplňující matrika zjištěná později 25. 11. 2026.** Syn jménem Carl Joseph je nyní doložen přímo křtem 21. 3. 1751 v Rettkau, kde jsou rodiči **Franz Joseph** a **Francisca von Ostischau**. Je velmi pravděpodobným žákem z roku 1770. Naproti tomu v lenní tabulce je u malého Carla jako otec uveden **Joseph Anton**. Dřívější závěr o velmi pravděpodobné totožnosti žáka a syna z tabulky byl na základě tohoto rozdílu přehodnocen. [Křest a srovnání jednotlivých dokladů](../../2026-11-25-kolo2/familysearch/rettkau-1751.md)
+
 **1770, Liegnitz (Lehnice), Carl Joseph, žák.** Georg Wendt, *Geschichte der Königlichen Ritter-Akademie zu Liegnitz*, I, 1708–1840, Liegnitz 1893, Bayerische Staatsbibliothek, sign. 4 H.lit.p. 252 gb-1887/97, s. 69, snímek bsb11494262_00069, položka 662 dole, přečten obraz tištěné edice. [Přímý obraz BSB](https://api.digitale-sammlungen.de/iiif/image/v2/bsb11494262_00069/full/1500,/0/default.jpg).
 
 > 662 | Carl Joseph v. Giller. Rettkau, Kr. Glogau | „ | 19 „ | 1770 | 70 | F.

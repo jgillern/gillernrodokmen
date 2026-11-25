@@ -1104,5 +1104,26 @@
   "svazek": "J. V. Prášek, Brandejs nad Labem, díl II (1910)",
   "popis": "Místopisné dílo. Držba domu na s. 84, převodní tabulka na s. 93, úřední příbytek fořtmistrů na s. 252 a 254.",
   "url": "https://ndk.cz/uuid/uuid:bbd21750-a112-11e6-bfc2-001018b5eb5c"
+ },
+ "schmettau_kunsch_1681": {
+  "archiv": "Staatsbibliothek zu Berlin – Preußischer Kulturbesitz",
+  "portal": "Digitalisierte Sammlungen der SBB",
+  "svazek": "Heinrich Schmettau, Treuer Lehrer und Prediger / irrdisches Loß / und himmlisches Erbtheil (1681)",
+  "popis": "Pohřební tisk Johanna Kunsche z Breitenwaldu. Sign. 28 in: Ee 519, VD17 1:024682F, PPN685844013. Personalia, s. 60–62 (PHYS_0060 až PHYS_0062).",
+  "url": "https://resolver.staatsbibliothek-berlin.de/SBB0000774900000000"
+ },
+ "hal_h_2638_1725_gillern": {
+  "archiv": "Hausarchiv Liechtenstein, Vídeň",
+  "portal": "e-archiv.li",
+  "svazek": "AT-HAL, H 2638, nefoliovaný dopis z Vídně z 23. 6. 1725",
+  "popis": "Diplomatická edice Lichtenštejnského zemského archivu, ed. Katharina Arnegger, D50674. Katalog eviduje originál. Zveřejněný PDF soubor obsahuje ediční přepis; s. 2 obsahuje dataci a podpis.",
+  "url": "https://www.e-archiv.li/D50674"
+ },
+ "wien_st_stephan_02_043": {
+  "archiv": "Diözesanarchiv Wien – Dom- und Metropolitanpfarre St. Stephan",
+  "portal": "Matricula Online",
+  "svazek": "Wien, St. Stephan, 02-043, oddací matrika",
+  "popis": "S. 651, obraz 03-Trauung_0650 (pg=662): dubnový oddíl ohlášek 1722; údaje o oddání jsou v okraji jednotlivých zápisů.",
+  "url": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/02-043/"
  }
 }

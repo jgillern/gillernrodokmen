@@ -3028,5 +3028,38 @@
   "shrnuti": "V převodní tabulce u Jakuba Fanty přiřazuje Prášek starému č. 120 nové č. 14 zámeckého okresu. Dům označuje také jako Houserovský a později Borkovský.",
   "strana": "díl II, s. 93; doplňkově díl I, s. 69",
   "odkaz": "https://ndk.cz/uuid/uuid:bd1852f0-a112-11e6-bfc2-001018b5eb5c"
+ },
+ {
+  "klic": "j_1681_schmettau_kunsch_giller",
+  "svazek": "schmettau_kunsch_1681",
+  "druh": "J",
+  "datum": "1681",
+  "nazev": "Osobálie Johanna Kunsche: Barbora Gillerová, Ezechiel Giller z Lilienfeldu a Barbořina sestra",
+  "shrnuti": "Pohřební tisk uvádí jako Johannovu matku Barboru Gillerovou z Lilienfeldu a jako jeho děda z matčiny strany Ezechiela Gillera z Lilienfeldu, opavského patricije. Roku 1628 Barbora poslala syna do Brzegu ke kancléři Andreasovi Langiovi von Langenaw, manželovi své vlastní sestry, jejíž křestní jméno zde tisk neuvádí. Johann u něj zůstal do roku 1635.",
+  "strana": "s. 60–62, Personalia (PHYS_0060 až PHYS_0062)",
+  "odkaz": "https://resolver.staatsbibliothek-berlin.de/SBB0000774900000060",
+  "pozn": "Čteno z obrazu dobového tisku. Pokračování: s. 61 https://resolver.staatsbibliothek-berlin.de/SBB0000774900000061 a s. 62 https://resolver.staatsbibliothek-berlin.de/SBB0000774900000062. Výřez skládá pět úseků v pořadí tisku."
+ },
+ {
+  "klic": "j_1725_hal_gillern_podpis",
+  "svazek": "hal_h_2638_1725_gillern",
+  "druh": "J",
+  "datum": "23. 6. 1725",
+  "nazev": "Carl Joseph von Gillern v podpisu dopisu knížeti z Lichtenštejna",
+  "shrnuti": "Dopis z Vídně pojednává o knížecím právu při obsazování dvorské kaplanské služby ve Vaduzu. Diplomatická edice uvádí v podpisu „Carl Joseph von Gillern“ s označením „manu propria“.",
+  "strana": "nefoliováno; edice s. 2, závěr dopisu",
+  "odkaz": "https://e-archiv.li/files/hal_h_2638_1725_06_23_kaplanei_vaduz.pdf#page=2",
+  "pozn": "Čteno v diplomatické edici. Výřez ukazuje vysázený přepis podpisu. Obraz autografu nebyl ověřen."
+ },
+ {
+  "klic": "o_1722_wien_giller_fellner",
+  "svazek": "wien_st_stephan_02_043",
+  "druh": "O",
+  "datum": "1722 (ohlášky v dubnu)",
+  "nazev": "Karel Josef von Giller a Marie Josefa von Fellner, Vídeň, sv. Štěpán",
+  "shrnuti": "V dubnovém oddílu ohlášek je zapsán Karel Josef von Giller (v zápisu snad Gillar), knížecí dvorní rada (?), narozený v Hofu na Moravě, a Marie Josefa von Fellner, manželská dcera Jiřího von Fellner a jeho manželky Marie Evy (?). Až okraj potvrzuje oddání slovy „copulatus est“ a číslem 2. Místo narození Hof velmi pravděpodobně označuje dnešní Dvorce.",
+  "strana": "s. 651, dole, obraz 03-Trauung_0650 (pg=662)",
+  "odkaz": "https://data.matricula-online.eu/de/oesterreich/wien/01-st-stephan/02-043/?pg=662",
+  "pozn": "Měsíc u dne 2 v okraji se nepodařilo bezpečně přečíst. Karel Müller uvádí 2. 6. 1722, Koryčanský zpravodaj, jaro 2026, s. 20: https://www.korycany.cz/modules/file_storage/download.php?file=ce48b060%7C2545&inline=1#page=20. Čitelný text neuvádí rodiče ženicha ani jeho věk či datum křtu."
  }
 ]

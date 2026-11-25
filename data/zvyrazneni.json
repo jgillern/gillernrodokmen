@@ -3478,5 +3478,65 @@
   ],
   "status": "ok",
   "note": "Přečíslování brandýského domu č. 120 na č. 14 zámeckého okresu podle Práška"
+ },
+ "j_1681_schmettau_kunsch_giller": {
+  "boxes": [
+   [
+    0.0086,
+    0.0324,
+    0.9914,
+    0.1902
+   ],
+   [
+    0.0086,
+    0.2217,
+    0.9889,
+    0.4207
+   ],
+   [
+    0.0086,
+    0.4522,
+    0.9889,
+    0.5618
+   ],
+   [
+    0.0086,
+    0.5933,
+    0.9889,
+    0.7555
+   ],
+   [
+    0.0086,
+    0.787,
+    0.9769,
+    0.9921
+   ]
+  ],
+  "status": "ok",
+  "note": "Schmettau 1681, s. 60–62. Pět úseky pohřebního tisku v pořadí stran."
+ },
+ "j_1725_hal_gillern_podpis": {
+  "boxes": [
+   [
+    0.02,
+    0.676,
+    0.555,
+    0.815
+   ]
+  ],
+  "status": "ok",
+  "note": "S. 2 diplomatické edice. Sazba podpisu s manu propria."
+ },
+ "o_1722_wien_giller_fellner": {
+  "boxes": [
+   [
+    0.006,
+    0.005,
+    0.974,
+    0.598
+   ]
+  ],
+  "status": "ok",
+  "note": "Text ohlášky s rodištěm ženicha a samostatná marginálie o oddání vpravo nahoře."
  }
 }

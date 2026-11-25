@@ -72,20 +72,20 @@ Položka 26 na pravé straně pod záhlavím *Augustus*.
 
 **Přepis a překlad.**
 
-- F. 9r „Ansehung (?) 3. Monath in L. O. der / Gallassischen Reütter.“ Okraj „Eidem / Gallass. Reütter.“ Zápis se týká tří měsíců pro gallasovské jezdce v zemi nad Enží. Jména nejsou uvedena.
+- **Opravené čtení f. 9r.** „Gallassischen Wittib“ označuje Gallasovu vdovu. V prvním průchodu bylo poslední slovo chybně přečteno jako „Reütter“. Čtení vdovy potvrzuje také jmenný rejstřík pod Ga. [Porovnání obou výřezů a přepis ve druhém kole](../../2026-11-25-kolo2/vojsko1647/README.md)
 - F. 173r, položka 115 „Intimatur daß dem jungen / Ferdinand Ignatio dessel- / bige Regt conferirt worden, / soll ih[n] dessen conservation / bestens sein lassen.“ Okraj „Gallasischen / Obrist Leütt. zu / fueß / p Gallas“. Oznámení gallasovskému pěšímu podplukovníkovi, že pluk byl udělen mladému Ferdinandu Ignácovi a podplukovník má co nejlépe pečovat o jeho udržení. Podplukovník v tomto zápise zůstává bezejmenný.
 - F. 173r, položka 116 „Intimatur daß selbiges Regt / dem Antonio Panzatio (?) Gr. / Gallas conferirt worden, soll / ihn dessen conservation lassen / angelegen sein.“ Okraj „Gallasischen / Dragoner Ob- / risten Leütt. / p Gallas.“ Oznámení gallasovskému dragounskému podplukovníkovi, že pluk byl udělen hraběti Antoniu Panzatiovi (?) Gallasovi, a výzva k jeho udržení. Podplukovník opět zůstává bezejmenný.
 - F. 173v, položka 119 „Notificatur daß den Galla- / sischen 2. Söhn die Regter / gegeben worden, sollen ihnen / interim deren conservation / angelegen sein lassen.“ Okraj „Gallasischen / Obrist Leütt. zu / fueß et / Dragoner Obrist / Leütt. / p Gallas“. Společné oznámení oběma podplukovníkům o předání pluků dvěma Gallasovým synům.
 
-**Totožnost a rozsah.** Jde o několik útvarů označovaných podle Gallase, proto je nutné rozlišovat Gallase coby vrchního velitele, plukovníka-majitele a jeho vojska v poli. Rytmistrova hodnost dává prioritu jezdectvu, zůstává však v pozdním prameni. Konkrétní dokument z f. 9 vede k jezdcům, zatímco f. 173 a 173v vedou ke dvěma jiným útvarům. V žádném z těchto výtahů není rytmistr pojmenován. Matyáš Gallas zemřel 25. dubna 1647, takže květnová oznámení zapadají do přechodu pluků po jeho smrti. Běžná dochovaná řada vojenských mustrlist a stavových tabulek začíná kolem roku 1740. Starší plukovní soupis je třeba hledat mezi jednotlivými polními a válečnými písemnostmi. [Matyáš Gallas](https://www.deutsche-biographie.de/sfz19825.html) · [Katalog řady mustrlist](https://archivinformationsystem.at/archivplansuche.aspx?ID=294948) · [Válečná kancelář Matyáše Gallase](https://dspace.cuni.cz/bitstream/handle/20.500.11956/191516/120479518.pdf?sequence=1)
+**Totožnost a rozsah.** Jde o několik útvarů označovaných podle Gallase, proto je nutné rozlišovat Gallase coby vrchního velitele, plukovníka-majitele a jeho vojska v poli. Rytmistrova hodnost dává prioritu jezdectvu, zůstává však v pozdním prameni. Folio 9r patří Gallasově vdově. Na gallasovské sesednuté jezdce odkazuje [f. 243r č. 217](https://library.hungaricana.hu/en/view/KA_HKR_297_1647R/?pg=203). Folia 173r–v se týkají pěchoty a dragounů. V žádném z těchto výtahů není rytmistr pojmenován. Matyáš Gallas zemřel 25. dubna 1647, takže květnová oznámení zapadají do přechodu pluků po jeho smrti. Běžná dochovaná řada vojenských mustrlist a stavových tabulek začíná kolem roku 1740. Starší plukovní soupis je třeba hledat mezi jednotlivými polními a válečnými písemnostmi. [Matyáš Gallas](https://www.deutsche-biographie.de/sfz19825.html) · [Katalog řady mustrlist](https://archivinformationsystem.at/archivplansuche.aspx?ID=294948) · [Válečná kancelář Matyáše Gallase](https://dspace.cuni.cz/bitstream/handle/20.500.11956/191516/120479518.pdf?sequence=1)
 
 ![Gallasovská hesla v rejstříku 1647 Registratur](vyrezy/SOL-06-N04-01.jpg)
 
 Pod souhrnným heslem pro Gallase jsou samostatné odkazy 9 a 173 s křížkem.
 
-![Gallasovi jezdci na f. 9r](vyrezy/SOL-06-N04-02.jpg)
+![Zápis o Gallasově vdově na f. 9r](vyrezy/SOL-06-N04-02.jpg)
 
-Předmětný záznam je za značkou dne 6, v pravé rubrice je označení jezdců.
+Předmětný záznam je za značkou dne 6. Čtení „Wittib“ v hlavním textu potvrzuje heslo v rejstříku.
 
 ![Oznámení podplukovníkům pěšího a dragounského pluku](vyrezy/SOL-06-N04-03.jpg)
 

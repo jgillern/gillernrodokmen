@@ -16,7 +16,7 @@
 
 ## Kdo se roku 1747 přiženil do rodiny na Hammeru
 
-Druhý jmenný doklad dává konkrétní směr na slezské straně. **Marie Josefa Alžběta**, Maximiliánova sestra, si v listopadu 1747 vzala **Philippa Augusta Nohu von Schwarzenfeld, radního ve Volově (Wołów)**. Křestní jména, označení radního i město jsou v oddavkách v Krehlau. Slezský adresář jmenuje pod volovskou městskou radou plné příjmení i predikát. Pozdější úřad ženicha dokládá spojení blízké rodiny s Volovem. O bydlišti Maximiliána nebo Josefa při této svatbě nevíme. Pro křty dětí manželů ve městě má katolická kniha mezeru právě v letech po svatbě. [Oddací zápis, srovnání s adresářem a dochování matrik](sestra-a-volov.md) · [Výřez s celým jménem](vyrezy/volov-1753-noha.jpg)
+Druhý jmenný doklad dává konkrétní směr na slezské straně. **Marie Josefa Alžběta**, Maximiliánova sestra, si v listopadu 1747 vzala **Philippa Augusta Nohu von Schwarzenfeld, radního ve Volově (Wołów)**. Křestní jména, označení radního i město jsou v oddavkách v Krehlau. Slezský adresář jmenuje pod volovskou městskou radou plné příjmení i predikát. Pozdější úřad ženicha dokládá spojení blízké rodiny s Volovem. O bydlišti Maximiliána nebo Josefa při této svatbě nevíme. Pro křty dětí manželů ve městě má katolická kniha mezeru právě v letech po svatbě. V čitelných křtech rodné farnosti Krehlau pro 1748 až leden 1750 se jejich dítě nepodařilo rozpoznat. Pro konec roku 1747 zbývá mezera v ověření. Ani [38 městských pohřbů ve Volově](volov-pohrby.md) nepřineslo zápis o jejich domácnosti. [Oddací zápis, srovnání s adresářem a dochování matrik](sestra-a-volov.md) · [Výřez s celým jménem](vyrezy/volov-1753-noha.jpg)
 
 ## Josef a pořadí dalších ověření
 

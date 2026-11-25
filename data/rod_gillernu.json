@@ -1774,7 +1774,8 @@
       "vazba": "manžel Antonie von Nerlich. Rejstřík jejich sňatku jmenuje otce ženicha Josepha Antona z Gillernů.",
       "fakta": [
         "Rejstřík sňatku z roku 1785 jmenuje jako otce ženicha Josepha Antona a ženichovi připisuje 40 let, tedy narození kolem roku 1745. Věk 73 let uváděný při úmrtí ukazuje na narození kolem roku 1751.",
-        "26. 4. 1785 se v Groß Karlowitz u Nisy oženil s Antonií von Nerlich (1759–1830), dcerou Franze Christopha von Nerlich, biskupského vládního rady a pána na Reisewitz u Otmuchova. Z rodu Nerlichů pocházela i Maximiliánova matka.",
+        "V rukopisném abecedním rejstříku oddavek Groß Karlowitz stojí u ženicha „Gorkau 1745“ a u Antonie von Nerlich 1761 a 26. 4. 1785. Úloha místa na těchto stranách není označena. Oba letopočty odpovídají věkům snoubenců ve sňatkovém indexu a mohly z nich být vypočteny.",
+        "26. 4. 1785 se v Groß Karlowitz u Nisy oženil s Antonií von Nerlich († 1830, v dosavadním profilu nar. 1759, podle věku u sňatku asi 1761), dcerou Franze Christopha von Nerlich, biskupského vládního rady a pána na Reisewitz u Otmuchova. Z rodu Nerlichů pocházela i Maximiliánova matka.",
         "Držel statky Peiskern (1788), Polnisch-Gandau u Vratislavi (1790) a Jäschgüttel; děti se jim narodily v letech 1788–1793.",
         "Zemřel 14. 4. 1824 v Ober-Glogau (Głogówek) ve věku 73 let; manželka Antonie tamtéž 18. 10. 1830.",
         "Jmenovec pokřtěný 21. 3. 1751 v Rettkau byl synem Franze Josepha a Franzisky rozené von Osteschau. Při sňatku v dubnu 1785 by mu bylo 34 let, při úmrtí v dubnu 1824 pak 73 let. Shoda s manželem Antonie von Nerlich zůstává otevřená."
@@ -1791,7 +1792,16 @@
       ],
       "zdroje": [
         {
-          "nazev": "FamilySearch, index sňatku Groß Karlowitz (Kreis Grottkau), 26. 4. 1785, s. 189–190. Jméno ženichova otce a věk podle rejstříku."
+          "nazev": "FamilySearch, index sňatku Groß Karlowitz (Kreis Grottkau), 26. 4. 1785, s. 189–190. Jméno ženichova otce a věk podle rejstříku.",
+          "odkaz": "https://www.familysearch.org/ark:/61903/1:1:6FY8-CB9Y?lang=en"
+        },
+        {
+          "nazev": "Groß Karlowitz, rukopisný rejstřík ženichů, DGS 4124433, sn. 38, s. 31, ř. 14. U Carla Josepha údaj „Gorkau 1745“.",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-99GT-JSZR-W"
+        },
+        {
+          "nazev": "Groß Karlowitz, protější s. 32, DGS 4124433, sn. 39. Antonia von Nerlich a datum 26. 4. 1785.",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-99GT-JSZR-6"
         },
         {
           "nazev": "Schlesische Provinzialblätter 1785–1830 (oznámení sňatku a úmrtí)"

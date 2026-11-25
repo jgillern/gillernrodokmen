@@ -29,7 +29,7 @@ Dvě nezávislá čtení plného obrazu se shodla na křestních jménech Maria 
 
 ![Detail matčina jména v zápisu o křtu](vyrezy/hochkirch-1739-matka.jpg)
 
-C. Blažek, *Der abgestorbene Adel der Preussischen Provinz Schlesien*, III, Norimberk 1894, pod heslem **Ruffer (Rüffer)**, tištěná s. 148, jmenuje **Marii Antonii** jako provdanou svobodnou paní **von Gillern** a jako místo a den úmrtí se uvádí **Alt-Wohlau, 25. 4. 1745**. Shodují se dvě křestní jména, titul, jméno manželské rodiny i období. Jde o dodatečnou oporu k příjmení z křtu. Datum úmrtí zatím náleží tomuto tištěnému prameni. V témže hesle uvedený Johann Gottfried Rüffer se z dostupného textu nedá zapsat jako matčin otec. [Siebmacher, s. 148, obraz PDF 150](https://sbc.org.pl/Content/4112/PDF/4112.pdf#page=150)
+C. Blažek, *Der abgestorbene Adel der Preussischen Provinz Schlesien*, III, Norimberk 1894, pod heslem **Ruffer (Rüffer)**, tištěná s. 148, jmenuje **Marii Antonii** jako provdanou svobodnou paní **von Gillern** a jako místo a den úmrtí se uvádí **Alt-Wohlau, 25. 4. 1745**. Shodují se dvě křestní jména, titul, jméno manželské rodiny i období. Jde o dodatečnou oporu k příjmení z křtu. Datum úmrtí zatím náleží tomuto tištěnému prameni. V dochované katolické pohřební knize Wohlau následují po konci března přímo květnové zápisy, i když se rok 1745 dochoval. V témže hesle uvedený Johann Gottfried Rüffer se z dostupného textu nedá zapsat jako matčin otec. [Siebmacher, s. 148, obraz PDF 150](https://sbc.org.pl/Content/4112/PDF/4112.pdf#page=150)
 
 ![Heslo Ruffer (Rüffer) s Marií Antonií, provdanou baronkou von Gillern](vyrezy/siebmacher-ruffer-s148.png)
 

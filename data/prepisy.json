@@ -600,8 +600,8 @@
   "cs": "Zápis je česky. 2. listopadu 1839 zemřela v Mitrově č. 3 ve věku 66 let paní Anna, manželka pana Jana Solnaře, šenkýře – podle domu, jména a povolání manžela je to matka Anny z Gillernů (rozená Růžková z Vlašimi), narozená kolem roku 1773."
  },
  "n_1785_giller_frantisek": {
-  "orig": "[Fol. 4, Kammeral-Herrschaft Podiebrad, Geburtsbuch Stadt Podiebrad] A. 1785 Junio – Quinta natus & baptis. – N. 56 – Franciscus Josephus – kath. 1, Knab 1, unehelich 1 – [Vater, dodatkem:] de Güller Joseph venator – Mutter: Anna filia post † Jacobum Koch – Pathen: Franz Dworsky (?); Katerzina Kaufmanowa (?) – Stand: Bürger …; … Bürgerin – Baptisavit R. P. … Worliczek (?) Capellanus – Proles legittimata per subsequens Matrimonium. Vide Matr. Cop. III (?) & IV (?) fol. 4 – Litterae Baptismales exhibitae die 28 Apri[lis] 1816",
-  "cs": "Zápis je latinsky. 5. června 1785 se v Poděbradech č. 56 narodil a byl pokřtěn František Josef, syn Anny, dcery zesnulého Jakuba Kocha. Nejdřív byl zapsán jako nemanželský; později farář připsal otce – myslivce Josefa „de Güller“ – a poznámku, že dítě bylo uznáno za manželské následným sňatkem rodičů (ten byl 12. června 1786). Další přípis říká, že 28. dubna 1816 byl vydán křestní list – nejspíš kvůli nástupu do služby. Datum, jméno, myslivecké prostředí a příbuzenství se svědkem Clannerem ukazují, že jde o našeho Františka z Gillernů, ženicha z Mitrova (1821); jen věk při svatbě (33 místo 35 let) nesedí přesně."
+  "orig": "[Fol. 4, Kammeral-Herrschaft Podiebrad, Geburtsbuch Stadt Podiebrad] A. 1785 Junio – Quinta natus & baptis. – N. 56 – Franciscus Josephus – kath. 1, Knab 1, unehelich 1 – [Vater, dodatkem:] de Güller Joseph venator – Mutter: Anna filia post † Jacobum Koch – Pathen: Franz Dworsky (?); Katerzina Kaufmanowa (?) – Stand: Bürgers Sohn; […] Bürgerin – Baptisavit R. P. … Worliczek (?) Capellanus – Proles legittimata per subsequens Matrimonium. Vide Matr. Cop. III (?) & IV (?) fol. 4 – Litterae Baptismales exhibitae die 28 Apri[lis] 1816",
+  "cs": "Dne 5. června 1785 se v Poděbradech č. 56 narodil a byl pokřtěn František Josef, syn Anny, dcery zesnulého Jakuba Kocha. Byl zapsán jako nemanželský. Později farář připsal otce, myslivce Josefa de Güller, a uvedl, že dítě bylo legitimováno následným sňatkem rodičů 12. června 1786. Další přípis zaznamenává předložení křestního listu 28. dubna 1816. Pozdější zápisy rodiny v Kostelci nad Vltavou potvrzují rodiče Františka z Gillernů."
  },
  "o_1786_giller_kochova": {
   "orig": "[Fol. 4, Kammeral-Herrschaft Podiebrad, Trauungsbuch N. I] A. 1786 Junij – duodecima – Haus N. 2 – Bräutigam: D. Josephus de Giller filius D. Maximiliani de Giller supremi Venatoris – kath. 1 – 48 – unverehelicht 1 – Braut: Anna filia post † Jacobum Koch – kath. 1 – 26 (?) – unverehelicht 1 – Beystand: Joseff: Dn: Petzina (?); Dwor…ky (?) – Copulavit … Josephus Mathias (?) Capell. (část řádku škrtnuta)",
@@ -645,7 +645,7 @@
  },
  "n_1789_gillern_josef_emanuel": {
   "orig": "Octobri / Řigna 17. – 11 – Jozef Emanuell z Gillernu – kat., chlapec, manž. – Otec: Pan Jozef z Gillernu, forſt – Matka: Panj Anna Kochowa – Kmotři: Jan Dworžak, chalupnjk; Anna Žiakowa, děwka – Baptiſawit Pater Roſacin (?) – Obſtetrix Anna Zeman",
-  "cs": "Zápis je česky. 17. 10. 1789 se v Býchorech č. 11 u Kolína narodil(a) Josef Emanuel, dítě „pana Josefa z Gillernů“, fořta (myslivce) kolínského komorního panství, a Anny Kochové – mladší sourozenec našeho Františka (* 1785 Poděbrady). Kmotři: Jan Dvořák, chalupník, a Anna Žáková, děvečka."
+  "cs": "Zápis je česky. 17. 10. 1789 se v Býchorech č. 11 u Kolína narodil Josef Emanuel, syn „pana Josefa z Gillernů“, fořta (myslivce) kolínského komorního panství, a Anny Kochové – mladší sourozenec našeho Františka (* 1785 Poděbrady). Kmotři: Jan Dvořák, chalupník, a Anna Žáková, děvečka."
  },
  "n_1791_gillern_marie_anna": {
   "orig": "Aprili / Dubna 27. – 11 – Mary Anna z Gillernu – kat., dívka, manž. – Otec: Pan Jozef z Gillernu, Myſliwecz – Matka: Panj Anna Kochowa – Kmotři: Panj Mary Anna Jakober (?) …; Welebny Pan Petr Lambert Kilian (?), Localiſta – Baptiſawit Pater Roſacin (?)",
@@ -1090,5 +1090,57 @@
  "z_1771_korycany_gillern_antonia": {
   "orig": "[October] 4. | Idem Parochus | — | Antonia Junior Herula Illustriss. Dni B. de Gillern Dni in Koritzan | Cathol. | In Oppid. | Koriž. | 65 | 2 | 1 | 11",
   "cs": "Zápis je latinsky v tabulce. 4. října 1771 pohřbil farář Antonii mladší, „slečinku“ urozeného pana barona z Gillernů, pána v Koryčanech; katolička, pohřbena ve městě, Koryčany č. 65, věk 2 roky, 1 měsíc, 11 dní. Je to Kristiánova dcera Marie Antonie (* 1769 Vídeň)."
+ },
+ "z_1784_bychory_hofer_antonin": {
+  "orig": "Novembr. 5. | 11. | Antonin Syn Pana Františka Höfra Mysliwce. | [katolík, mužského pohlaví] | 4. | Na Psotnik (?). Sepelivit P. Wenceslaus Capucinus.",
+  "cs": "Dne 5. listopadu 1784 zemřel v Býchorech č. 11 čtyřletý katolík Antonín, syn myslivce Františka Höfera. Příčina je patrně psotník. Pohřbil ho páter Václav, kapucín."
+ },
+ "n_1786_bychory_lichy_hofer_kmotr": {
+  "orig": "[Decembr.] 16. | 22. | Jan Nepomucz[k]ý (?) Lichý. | [katolík, chlapec, manželský] | Mattieg Lichý, Chalupnik. | Katržina Rutinowa (?). | Pan Františſek Höfer, Forſt. Anna Warkowa (?) z Wołař, Chalupnicze. | Baptisavit Pater Rosacin […].",
+  "cs": "Dne 16. prosince 1786 je v Býchorech č. 22 zapsán Jan Nepomucký Lichý, manželský syn chalupníka Matěje Lichého a Kateřiny Rutinové (?). Kmotry byli fořt František Höfer a chalupnice Anna Warková (?) z Volárny. Křtil páter Rosacin. Č. 22 je adresa rodiny dítěte."
+ },
+ "n_1787_bychory_katerina_hoferova_kmotra": {
+  "orig": "Septembri 10. | 24. | Katržina Rogiřjkowa (?). | [katolička, děvče, manželská] | Jan Rogiřjik (?), Sedlak. | Lidmilla Pschantreczkawa (?). | Panj Anna Höfrowa, Mysliwcowa. Waczlaw Woknior (?), Chalupnik. | Baptisavit Pater Rosacin […].",
+  "cs": "Dne 10. září 1787 je v Býchorech č. 24 zapsána Kateřina, manželská dcera sedláka Jana a Ludmily. Kmotry byli Anna Höferová, žena myslivce, a chalupník Václav Woknior (?). Křtil páter Rosacin. Souběžný zápis v Ovčárech 02, s. 73 (snímek 40), uvádí i chalupnici Annu Browusovou (?)."
+ },
+ "n_1788_bychory_dvorakova_gullerova_kmotra": {
+  "orig": "Martii 21. | 23. | Barbora Dworžakowa. | [katolička, děvče, manželská] | Jan Dworžak, Sedlak Licžfarž (?) | Anna Wodwalowa. | Panj Anna Güllerowa, Mysliwcowa. Mattieg Lichý, Chalupnik. | Baptisavit R. P. Fructuosus Capucinus.",
+  "cs": "Dne 21. března 1788 je v Býchorech č. 23 zapsána Barbora, manželská dcera Jana Dvořáka a Anny Wodwalové. Kmotry byli Anna Güllerová, žena myslivce, a chalupník Matěj Lichý. Křtil kapucín páter Fruktuosus. Souběžný zápis v Ovčárech 02, s. 77 (snímek 42), uvádí navíc selku Annu Žákovou a otce označuje za chalupníka a patrně býchorského rychtáře. Kmotřino příjmení, stav a pozdější vzájemné kmotrovství obou rodin podporují ztotožnění s Annou Kochovou. Č. 23 je adresa Dvořákových."
+ },
+ "n_1789_bychory_dvorak_gillern_kmotr": {
+  "orig": "Novembri Listopadu 7. | 23. | Maximilian Jozef Dworžak. | [katolík, chlapec, manželský] | Jan Dworžak, Chalupnik. | Anna Wodwalowa. | Jozef Emanuel de Gillern, forſt. Katržina Licha, Wegminkaržka. | Baptisavit Pater Rosacin […].",
+  "cs": "Dne 7. listopadu 1789 je v Býchorech č. 23 zapsán Maxmilián Josef Dvořák, manželský syn chalupníka Jana Dvořáka a Anny Wodwalové. Kmotrem byl fořt Josef Emanuel z Gillernů a kmotrou výměnkářka Kateřina Lichá. Křtil páter Rosacin. Jan Dvořák byl o tři týdny dříve kmotrem syna fořta Josefa a Anny Kochové, zapsaného v předchozím řádku. Listopad je v místní knize označen rokem 1790. Poznámka na přelomu října a listopadu v souběžných Ovčárech 02, s. 84–85 (https://ebadatelna.soapraha.cz/d/10789/46), vysvětluje zapisování na budoucí rok 1790. Kalendářně jde o listopad 1789."
+ },
+ "z_1790_bychory_gillern_josef": {
+  "orig": "[Maji] 9. | 11. | Jozef Syn Pana Jozefa z Gillernu forſta. | [katolík, mužského pohlaví] | 8 Měsýce. | Na Neſtowicý (?). Sepelivit Pater Rosacin mp.",
+  "cs": "Dne 9. května 1790 v Býchorech č. 11 zemřel Josef, katolický syn fořta Josefa z Gillernů. Jako příčina jsou zřejmě uvedeny neštovice. Pohřbil ho páter Rosacin. Shoduje se jméno otce, povolání i dům. Věk je zapsán jako osm měsíců, od narození Josefa Emanuela uplynulo šest měsíců a 22 dní."
+ },
+ "z_1781_brandys_fanta_jakub": {
+  "orig": "8. | P. Mirtinz (?) [N. 2.] | […] D. Decanus [N. 1.] | Prenobilis D. Jacobus Fanta Jubilatus offic[iarius] Oeconomicus. | Cathol. | ad Kristum (?) | Brund. | [opraveno na] 120 | 76.",
+  "cs": "K 8. srpnu 1781 je v úmrtní matrice v Brandýse č. 120 zaznamenán urozený pan Jakub Fanta, penzionovaný hospodářský úředník, katolík, 76 let. Den úmrtí a den pohřbu nemají samostatné rubriky."
+ },
+ "z_1783_brandys_anna_dcera_jana": {
+  "orig": "4 | P. Martinez (?) | † | Anna filia D. Joannis Fra-/winger (?) civis | Cathol. | ad S. Laurentium | Brund. | 120 | [měsíce] 7.",
+  "cs": "K 4. srpnu 1783 je v úmrtní matrice zaznamenána sedmiměsíční katolička Anna z Brandýsa č. 120, dcera měšťana Jana Frawingera (?). Byla pohřbena u sv. Vavřince. Otcovo příjmení je rozděleno mezi řádky a čtení je předběžné."
+ },
+ "n_1797_brandys_platova_anna": {
+  "orig": "19 Maj[i] | 120. | Ann. | [katolička, děvče, nemanželská] | [rubrika otce bez jména] | Maryj Plato-/wa. Služebna. | Ana Přibylowska (?), Tochter des […] [Bürgers (?)]; George Elbas (?) […] | Baptisavit […].",
+  "cs": "Dne 19. května 1797 je v Brandýse č. 120 zapsána katolická nemanželská dcera Anna. Matkou byla služebná Marie Platová (?). Kmotry byli patrně Anna Přibylovská (?) a Jiří Elbas (?)."
+ },
+ "z_1797_brandys_platova_anna": {
+  "orig": "2 August. | 120. | Anna Dcera Maryj Platowi (?) Swob. Osobi. […] | [katolička, ženského pohlaví] | woch. 10. | Psotnik (?).",
+  "cs": "Dne 2. srpna 1797 zemřela v Brandýse č. 120 deset týdnů stará Anna, dcera svobodné Marie Platové (?), patrně na psotník. Rok vyplývá z posloupnosti záznamů před výslovným přechodem do roku 1798 na snímku 45."
+ },
+ "z_1798_brandys_barbora_120_pul": {
+  "orig": "28. April. | 120 ½. | Barbara Hann… (?) Witwe. […] | [katolička, ženského pohlaví] | 79 (?) | Abzehrung.",
+  "cs": "Dne 28. dubna 1798 zemřela vdova Barbora, katolička z Brandýsa č. 120 ½. Věk se čte nejspíš 79 let. U příčiny je uvedeno Abzehrung (chřadnutí, souchotiny v širším dobovém významu)."
+ },
+ "j_1787_brandys_gillern_drzba": {
+  "orig": "Z Gilleru Maximilián držel r. 1787 až 1798 dům v Brandejse č. 14 z. o.",
+  "cs": "Prášek uvádí držbu domu u Maximiliána z Gilleru v letech 1787–1798. V témže dílu píše, že dům v letech 1755–1777 sloužil jako úřední příbytek fořtmistrů a že nadlesní včetně Maximiliána později bydleli v myslivně ve Staré Boleslavi. Pozdější roky v údaji o držbě přesahují Maximiliánovo úmrtí z roku 1789."
+ },
+ "j_1828_brandys_dum_120_14": {
+  "orig": "[Díl II, s. 93:] 120 Jakub Fanta ( […] 14). […] r. 1828 provedeno třetí, nynější číslování domů. [Díl I, s. 69:] nyní č. 14 zám. okresu, zvaný s počátku XVII st. Houserovský, později Borkovský.",
+  "cs": "Podle Práškovy převodní tabulky je staré č. 120 totožné s pozdějším č. 14 zámeckého okresu. Prášek klade vznik tohoto samostatného číslování do roku 1828 a v prvním dílu uvádí historická jména domu Houserovský a Borkovský."
  }
 }

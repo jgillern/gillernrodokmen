@@ -3298,5 +3298,185 @@
   ],
   "status": "ok",
   "note": "4. 10. 1771 Antonia Junior Herula … B. de Gillern"
+ },
+ "z_1784_bychory_hofer_antonin": {
+  "boxes": [
+   [
+    0.024,
+    0.766,
+    0.907,
+    0.921
+   ]
+  ],
+  "status": "ok",
+  "note": "Úmrtí Antonína, syna myslivce Františka Höfera, Býchory č. 11"
+ },
+ "n_1786_bychory_lichy_hofer_kmotr": {
+  "boxes": [
+   [
+    0.015,
+    0.719,
+    0.946,
+    0.917
+   ]
+  ],
+  "status": "ok",
+  "note": "Fořt František Höfer kmotrem Jana Nepomuckého Lichého, Býchory"
+ },
+ "n_1787_bychory_katerina_hoferova_kmotra": {
+  "boxes": [
+   [
+    0.027,
+    0.102,
+    0.987,
+    0.36
+   ],
+   [
+    0.018,
+    0.683,
+    0.982,
+    0.967
+   ]
+  ],
+  "status": "ok",
+  "note": "Anna Höferová, myslivcová, kmotrou v Býchorech"
+ },
+ "n_1788_bychory_dvorakova_gullerova_kmotra": {
+  "boxes": [
+   [
+    0.026,
+    0.583,
+    0.951,
+    0.718
+   ],
+   [
+    0.03,
+    0.829,
+    0.94,
+    0.982
+   ]
+  ],
+  "status": "ok",
+  "note": "Anna Güllerová, myslivcová, kmotrou Barbory Dvořákové, Býchory"
+ },
+ "n_1789_bychory_dvorak_gillern_kmotr": {
+  "boxes": [
+   [
+    0.011,
+    0.509,
+    0.981,
+    0.638
+   ],
+   [
+    0.025,
+    0.882,
+    0.906,
+    0.973
+   ]
+  ],
+  "status": "ok",
+  "note": "Fořt Josef Emanuel z Gillernů kmotrem Maxmiliána Josefa Dvořáka, Býchory"
+ },
+ "z_1790_bychory_gillern_josef": {
+  "boxes": [
+   [
+    0.015,
+    0.614,
+    0.914,
+    0.786
+   ]
+  ],
+  "status": "ok",
+  "note": "Úmrtí Josefa, syna fořta Josefa z Gillernů, Býchory č. 11"
+ },
+ "z_1781_brandys_fanta_jakub": {
+  "boxes": [
+   [
+    0.032,
+    0.508,
+    0.966,
+    0.889
+   ]
+  ],
+  "status": "ok",
+  "note": "Úmrtí Jakuba Fanty, Brandýs nad Labem č. 120"
+ },
+ "z_1783_brandys_anna_dcera_jana": {
+  "boxes": [
+   [
+    0.012,
+    0.669,
+    0.949,
+    0.907
+   ]
+  ],
+  "status": "ok",
+  "note": "Úmrtí Anny, dcery brandýského měšťana Jana, č. 120"
+ },
+ "n_1797_brandys_platova_anna": {
+  "boxes": [
+   [
+    0.009,
+    0.645,
+    0.974,
+    0.921
+   ]
+  ],
+  "status": "ok",
+  "note": "Narození Anny, dcery služebné Marie Platové (?), Brandýs nad Labem č. 120"
+ },
+ "z_1797_brandys_platova_anna": {
+  "boxes": [
+   [
+    0.007,
+    0.291,
+    0.971,
+    0.43
+   ]
+  ],
+  "status": "ok",
+  "note": "Úmrtí Anny, dcery Marie Platové (?), Brandýs nad Labem č. 120"
+ },
+ "z_1798_brandys_barbora_120_pul": {
+  "boxes": [
+   [
+    0.006,
+    0.146,
+    0.931,
+    0.732
+   ]
+  ],
+  "status": "ok",
+  "note": "Úmrtí vdovy Barbory, Brandýs nad Labem č. 120 ½"
+ },
+ "j_1787_brandys_gillern_drzba": {
+  "boxes": [
+   [
+    0.023,
+    0.045,
+    0.553,
+    0.096
+   ]
+  ],
+  "status": "ok",
+  "note": "Maximilián z Gillernů a dům č. 14 zámeckého okresu v Brandýse podle Práška"
+ },
+ "j_1828_brandys_dum_120_14": {
+  "boxes": [
+   [
+    0.011,
+    0.129,
+    0.568,
+    0.177
+   ],
+   [
+    0.034,
+    0.645,
+    0.877,
+    0.713
+   ]
+  ],
+  "status": "ok",
+  "note": "Přečíslování brandýského domu č. 120 na č. 14 zámeckého okresu podle Práška"
  }
 }

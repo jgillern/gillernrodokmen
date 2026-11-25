@@ -1538,7 +1538,7 @@
   "druh": "N",
   "datum": "5. 6. 1785",
   "nazev": "Narození Františka Josefa Gillera, Poděbrady",
-  "shrnuti": "5. 6. 1785 narozen i pokřtěn, Poděbrady č. 56: Franciscus Josephus, katolík, chlapec, původně zapsán jako nemanželský; matka Anna, dcera † Jakuba Kocha; dodatkem otec „de Güller Joseph, venator“ (myslivec) a „Proles legittimata per subsequens Matrimonium, vide Matr. Cop. … fol. 4“ (legitimován sňatkem rodičů 12. 6. 1786). Kmotři Franz Dvorský (?), měšťan, a Kateřina Kaufmanová (?), měšťanka. Přípis: „Litterae baptismales exhibitae die 28 Apr. 1816“ – křestní list vydán 28. 4. 1816. V rejstříku pod K („Koch Franciscus“, fol. 4). Nejspíš náš František z Gillernů (ženich 1821).",
+  "shrnuti": "5. 6. 1785 narozen i pokřtěn, Poděbrady č. 56: Franciscus Josephus, katolík, chlapec, původně zapsán jako nemanželský; matka Anna, dcera † Jakuba Kocha; dodatkem otec „de Güller Joseph, venator“ (myslivec) a „Proles legittimata per subsequens Matrimonium, vide Matr. Cop. … fol. 4“ (legitimován sňatkem rodičů 12. 6. 1786). Kmotři Franz Dvorský (?), syn měšťana, a Kateřina Kaufmanová (?), měšťanka. Přípis: „Litterae baptismales exhibitae die 28 Apr. 1816“ – křestní list předložen 28. 4. 1816. V rejstříku pod K („Koch Franciscus“, fol. 4). František z Gillernů, pozdější revírník v Kostelci nad Vltavou.",
   "strana": "fol. 4, 1. zápis",
   "odkaz": "https://ebadatelna.soapraha.cz/d/11848/8"
  },
@@ -2898,5 +2898,135 @@
   "shrnuti": "4. 10. 1771 pohřbil koryčanský farář na hřbitově ve městě „Antonia Junior Herula Illustriss. Dni B. de Gillern Dni in Koritzan“ – Antonii mladší, slečinku (dcerku) urozeného pana barona z Gillernů, pána v Koryčanech, katolička, Koryčany č. 65 (panský dům), věk 2 roky, 1 měsíc a 11 dní. Věk přesně odpovídá Marii Antonii Josefě, dceři Kristiána barona z Gillernů, pokřtěné 24. 8. 1769 ve Vídni u sv. Štěpána.",
   "strana": "snímek 20, pravá strana (sign. 7845)",
   "odkaz": "https://www.mza.cz/actapublica/matrika/detail/8865?image=216000010-000253-003374-000000-00-007845-000000-00-B04899-00190.jp2"
+ },
+ {
+  "klic": "z_1784_bychory_hofer_antonin",
+  "svazek": "ovcary_14",
+  "druh": "Z",
+  "datum": "5. 11. 1784",
+  "nazev": "Úmrtí Antonína, syna myslivce Františka Höfera, Býchory č. 11",
+  "shrnuti": "V Býchorech č. 11 zemřel čtyřletý Antonín, syn myslivce Františka Höfera. V témže domě je od října 1789 doložena rodina fořta Josefa z Gillernů.",
+  "strana": "s. 1, první listopadový zápis",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10801/3"
+ },
+ {
+  "klic": "n_1786_bychory_lichy_hofer_kmotr",
+  "svazek": "ovcary_03",
+  "druh": "N",
+  "datum": "16. 12. 1786",
+  "nazev": "Fořt František Höfer kmotrem Jana Nepomuckého Lichého, Býchory",
+  "shrnuti": "V Býchorech je při křtu syna chalupníka Matěje Lichého z č. 22 kmotrem fořt František Höfer.",
+  "strana": "s. 3, poslední zápis roku 1786",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10790/4"
+ },
+ {
+  "klic": "n_1787_bychory_katerina_hoferova_kmotra",
+  "svazek": "ovcary_03",
+  "druh": "N",
+  "datum": "10. 9. 1787",
+  "nazev": "Anna Höferová, myslivcová, kmotrou v Býchorech",
+  "shrnuti": "Při křtu Kateřiny z Býchor č. 24 je kmotrou paní Anna Höferová, myslivcová.",
+  "strana": "s. 4, zápis k 10. září",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10790/5"
+ },
+ {
+  "klic": "n_1788_bychory_dvorakova_gullerova_kmotra",
+  "svazek": "ovcary_03",
+  "druh": "N",
+  "datum": "21. 3. 1788",
+  "nazev": "Anna Güllerová, myslivcová, kmotrou Barbory Dvořákové, Býchory",
+  "shrnuti": "Při křtu Barbory, dcery Jana Dvořáka a Anny z Býchor č. 23, je kmotrou paní Anna Güllerová, myslivcová, velmi pravděpodobně Anna Kochová, manželka fořta Josefa z Gillernů.",
+  "strana": "s. 4, předposlední zápis",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10790/5"
+ },
+ {
+  "klic": "n_1789_bychory_dvorak_gillern_kmotr",
+  "svazek": "ovcary_03",
+  "druh": "N",
+  "datum": "7. 11. 1789",
+  "nazev": "Fořt Josef Emanuel z Gillernů kmotrem Maxmiliána Josefa Dvořáka, Býchory",
+  "shrnuti": "V Býchorech č. 23 je při křtu Maxmiliána Josefa, syna chalupníka Jana Dvořáka a Anny, kmotrem „Jozef Emanuel de Gillern“, fořt.",
+  "strana": "s. 6, zápis k 7. listopadu",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10790/6"
+ },
+ {
+  "klic": "z_1790_bychory_gillern_josef",
+  "svazek": "ovcary_14",
+  "druh": "Z",
+  "datum": "9. 5. 1790",
+  "nazev": "Úmrtí Josefa, syna fořta Josefa z Gillernů, Býchory č. 11",
+  "shrnuti": "V Býchorech č. 11 zemřel Josef, syn fořta Josefa z Gillernů. Zápis udává osm měsíců věku a patrně neštovice. Velmi pravděpodobně jde o Josefa Emanuela narozeného 17. 10. 1789.",
+  "strana": "s. 5, druhý květnový zápis",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10801/5"
+ },
+ {
+  "klic": "z_1781_brandys_fanta_jakub",
+  "svazek": "brandys_04",
+  "druh": "Z",
+  "datum": "8. 8. 1781",
+  "nazev": "Úmrtí Jakuba Fanty, Brandýs nad Labem č. 120",
+  "shrnuti": "V brandýském úmrtním zápisu je k 8. srpnu 1781 v č. 120 uveden Jakub Fanta, penzionovaný hospodářský úředník, 76 let.",
+  "strana": "s. 24, druhý srpnový zápis",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/4153/68"
+ },
+ {
+  "klic": "z_1783_brandys_anna_dcera_jana",
+  "svazek": "brandys_04",
+  "druh": "Z",
+  "datum": "4. 8. 1783",
+  "nazev": "Úmrtí Anny, dcery brandýského měšťana Jana, č. 120",
+  "shrnuti": "V Brandýse č. 120 je k 4. srpnu 1783 zapsána zemřelá sedmiměsíční Anna, dcera měšťana Jana Frawingera (?).",
+  "strana": "s. 39, první srpnový zápis",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/4153/75"
+ },
+ {
+  "klic": "n_1797_brandys_platova_anna",
+  "svazek": "brandys_05",
+  "druh": "N",
+  "datum": "19. 5. 1797",
+  "nazev": "Narození Anny, dcery služebné Marie Platové (?), Brandýs nad Labem č. 120",
+  "shrnuti": "V Brandýse č. 120 se 19. května 1797 narodila Anna, nemanželská dcera služebné Marie Platové (?).",
+  "strana": "s. 152, poslední zápis",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/4154/81"
+ },
+ {
+  "klic": "z_1797_brandys_platova_anna",
+  "svazek": "brandys_24",
+  "druh": "Z",
+  "datum": "2. 8. 1797",
+  "nazev": "Úmrtí Anny, dcery Marie Platové (?), Brandýs nad Labem č. 120",
+  "shrnuti": "V Brandýse č. 120 zemřela 2. srpna 1797 deset týdnů stará Anna, dcera svobodné Marie Platové (?). Velmi pravděpodobně jde o Annu narozenou v témže domě 19. května 1797.",
+  "strana": "s. 80, druhý zápis",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/4175/43"
+ },
+ {
+  "klic": "z_1798_brandys_barbora_120_pul",
+  "svazek": "brandys_24",
+  "druh": "Z",
+  "datum": "28. 4. 1798",
+  "nazev": "Úmrtí vdovy Barbory, Brandýs nad Labem č. 120 ½",
+  "shrnuti": "V Brandýse je při úmrtí vdovy Barbory Hann… (?) výslovně zapsáno č. 120 ½.",
+  "strana": "s. 86, druhý zápis",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/4175/46"
+ },
+ {
+  "klic": "j_1787_brandys_gillern_drzba",
+  "svazek": "prasek_brandejs_ii",
+  "druh": "J",
+  "datum": "1787",
+  "nazev": "Maximilián z Gillernů a dům č. 14 zámeckého okresu v Brandýse podle Práška",
+  "shrnuti": "Prášek uvádí Maximiliána z Gilleru jako držitele domu č. 14 v letech 1787–1798. Matrika dokládá Maximiliánovu smrt už 7. 6. 1789 v č. 1 ve Staré Boleslavi.",
+  "strana": "s. 84; doplňkově s. 252 a 254",
+  "odkaz": "https://ndk.cz/uuid/uuid:bbd21750-a112-11e6-bfc2-001018b5eb5c"
+ },
+ {
+  "klic": "j_1828_brandys_dum_120_14",
+  "svazek": "prasek_brandejs_ii",
+  "druh": "J",
+  "datum": "1828",
+  "nazev": "Přečíslování brandýského domu č. 120 na č. 14 zámeckého okresu podle Práška",
+  "shrnuti": "V převodní tabulce u Jakuba Fanty přiřazuje Prášek starému č. 120 nové č. 14 zámeckého okresu. Dům označuje také jako Houserovský a později Borkovský.",
+  "strana": "díl II, s. 93; doplňkově díl I, s. 69",
+  "odkaz": "https://ndk.cz/uuid/uuid:bd1852f0-a112-11e6-bfc2-001018b5eb5c"
  }
 ]

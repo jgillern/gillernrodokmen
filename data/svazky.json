@@ -736,7 +736,7 @@
   "archiv": "SOA Praha – Sbírka matrik",
   "portal": "eBadatelna SOA Praha",
   "svazek": "Ovčáry 03, N 1784–1832",
-  "popis": "Kniha narozených fary Ovčáry (okr. Kolín), oddíl Býchory (Wes Beychor); 1789–1798 = snímky 6–10.",
+  "popis": "Kniha narozených fary Ovčáry (okr. Kolín), oddíl Býchory (Wes Beychor). Roky 1786–1788 jsou na snímcích 4–5, roky 1789–1798 na snímcích 6–10.",
   "url": "https://ebadatelna.soapraha.cz/d/10790"
  },
  "podebrady_43": {
@@ -785,7 +785,7 @@
   "archiv": "SOA Praha – Sbírka matrik",
   "portal": "eBadatelna SOA Praha",
   "svazek": "Ovčáry 14, Z 1784–1851 (Býchory)",
-  "popis": "Kniha zemřelých fary Ovčáry, oddíl Wes Beychor (Býchory); 2/1799 = fol. 10 (snímek 8).",
+  "popis": "Kniha zemřelých fary Ovčáry, oddíl Býchory (Wes Beychor). Listopad 1784 na s. 1 (snímek 3), květen 1790 na s. 5 (snímek 5) a únor 1799 na fol. 10 (snímek 8).",
   "url": "https://ebadatelna.soapraha.cz/d/10801"
  },
  "podebrady_07": {
@@ -1031,8 +1031,8 @@
  "brandys_04": {
   "archiv": "SOA Praha – Sbírka matrik",
   "portal": "eBadatelna SOA Praha",
-  "svazek": "Brandýs nad Labem 04, O 1748–1784 (město)",
-  "popis": "Kniha oddaných fary Brandýs nad Labem, latinsky; 1783 = s. 18 (snímek 54). Rejstřík oddaných Brandýs 57 (13934).",
+  "svazek": "Brandýs nad Labem 04, oddaní a zemřelí (město)",
+  "popis": "Matrika fary Brandýs nad Labem, latinsky. Oddaní 1783 jsou na s. 18 (snímek 54). Zemřelí 1781 na s. 24 (snímek 68) a 1783 na s. 39 (snímek 75).",
   "url": "https://ebadatelna.soapraha.cz/d/4153"
  },
  "stara_boleslav_03": {
@@ -1083,5 +1083,26 @@
   "svazek": "Neisse (Nysa), kat. farnost sv. Jakuba – Tote 1731–1742",
   "popis": "Kniha zemřelých fary sv. Jakuba v Nise, film 1202576 (DGS 8245332), 511 snímků; pravé strany od sn. 3 (1731), levé strany zvlášť. Katalog koha:350765.",
   "url": "https://www.familysearch.org/search/film/008245332?cat=350765"
+ },
+ "brandys_05": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna SOA Praha",
+  "svazek": "Brandýs nad Labem 05, narození (město)",
+  "popis": "Kniha narozených fary Brandýs nad Labem. Květen 1797 je na s. 152 (snímek 81).",
+  "url": "https://ebadatelna.soapraha.cz/d/4154"
+ },
+ "brandys_24": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna SOA Praha",
+  "svazek": "Brandýs nad Labem 24, zemřelí (město)",
+  "popis": "Kniha zemřelých fary Brandýs nad Labem. Srpen 1797 na s. 80 (snímek 43) a duben 1798 na s. 86 (snímek 46).",
+  "url": "https://ebadatelna.soapraha.cz/d/4175"
+ },
+ "prasek_brandejs_ii": {
+  "archiv": "Národní knihovna ČR",
+  "portal": "Národní digitální knihovna",
+  "svazek": "J. V. Prášek, Brandejs nad Labem, díl II (1910)",
+  "popis": "Místopisné dílo. Držba domu na s. 84, převodní tabulka na s. 93, úřední příbytek fořtmistrů na s. 252 a 254.",
+  "url": "https://ndk.cz/uuid/uuid:bbd21750-a112-11e6-bfc2-001018b5eb5c"
  }
 }

@@ -4,7 +4,7 @@
 
 ## Křestní zápis
 
-Hochkirch, okres Glogau, dnešní Grodowiec. Křty D 1420, mikrofilm 1203108, DGS 8246290. Snímek 77, pravá strana 145, třetí zápis úplně dole. V úvodu stojí Rettkau a 29. březen, rok potvrzuje záhlaví 1739 na s. 133 (snímek 71). Dne 23. a 24. března v předchozích zápisech křtí tentýž kněz. Díky tomu lze bezpečně rozlišit duchovního jménem Anton od otce dítěte. [Celá strana](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G329-T?view=explore&groupId=TH-909-75352-98992-36&lang=en)
+Hochkirch, okres Glogau, dnešní Grodowiec. Křty D 1420, mikrofilm 1203108, DGS 8246290. Snímek 77, pravá strana 145, třetí zápis úplně dole. V úvodu stojí Rettkau a 29. březen, rok potvrzuje záhlaví 1739 na [s. 133, snímek 71](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G329-9?view=explore&groupId=TH-909-75352-98992-36&lang=en). Dne 23. a 24. března v předchozích zápisech křtí tentýž kněz. Díky tomu lze bezpečně rozlišit duchovního jménem Anton od otce dítěte. [Celá strana](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G329-T?view=explore&groupId=TH-909-75352-98992-36&lang=en)
 
 ![Zápis o křtu z Rettkau, Hochkirch, 29. března 1739](vyrezy/hochkirch-1739-maria-anna.jpg)
 
@@ -38,3 +38,5 @@ C. Blažek, *Der abgestorbene Adel der Preussischen Provinz Schlesien*, III, Nor
 Matrika potvrzuje Rettkau přímo v této farnosti a rodinu barona už v březnu 1739. Otce farář pojmenoval jen titulem a příjmením s přívlastkem „mladší“. Křest mu sám nepřiřazuje osobní jméno Josef Anton ani Maximilián. Baronka Marie Franziska rozená Osteschau, později spojovaná s Priedemostem, má jiná křestní i rodná jména než zde zapsaná manželka.
 
 Datum 29. 3. je v matrice **dnem křtu**, stejné datum narození uvádí klášterní tradice. Pokud se úmrtní údaj Marie Antonie v roce 1745 potvrdí a náš Josef se narodil podle svého úmrtního věku 1746–1747, nemohla být jeho matkou. U staršího věkového okna 1737–1738 tato časová námitka odpadá. Mezi Marií Annou a Josefem z Býchor zatím nemáme doklad sourozenectví. Jméno matky našeho Josefa v jeho oddacím zápisu chybí. [Josefův sňatek, Poděbrady 1786](https://ebadatelna.soapraha.cz/d/11863/7) · [Josefovo úmrtí, 1799](https://ebadatelna.soapraha.cz/d/10801/8)
+
+[Hledání pohřbu Marie Antonie, rozsah fondu a novin](alt-wohlau-1745.md).

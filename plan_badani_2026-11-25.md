@@ -1,5 +1,7 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
+[Průběh dvou navazujících kol z 26. listopadu a nově vybrané prameny](data/badani/2026-11-26-dve-kola/README.md)
+
 **Aktivní úkol po revizi 25. listopadu je Josefovo rodiště a Maximiliánův příchod z okruhu Hammeru do Čech.** Další dvě původní priority jsou na Janův pokyn odloženy. Dosavadní nálezy, odkazy a podmínky pro jejich obnovení zůstávají níže.
 
 **Výsledek pokračování.** [Personální změny v Poděbradech roku 1747 a jejich důsledky pro Josefa](data/badani/2026-11-25-josef-maximilian/provedeno/README.md). V první řadě hledáme revír polního myslivce Stumpfa, penzionovaného 27. 5. 1747, a první následnou výplatu. Na slezské straně byl pomocí dobového adresáře identifikován [Maximiliánův švagr ve Volově](data/badani/2026-11-25-josef-maximilian/provedeno/sestra-a-volov.md). Sňatek Eleonory v kladrubské ani v opočenské knize roku 1780 nalezen nebyl. [Přečtené matriky](data/badani/2026-11-25-josef-maximilian/provedeno/opocno-a-kladruby.md).

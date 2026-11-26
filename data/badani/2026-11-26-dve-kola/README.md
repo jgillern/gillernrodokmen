@@ -17,3 +17,5 @@ Hledáme Josefovo rodiště a jeho křest. Z otcovské strany hledáme první jm
 ## Přechod do druhého kola
 
 Za přímý výsledek považujeme osobní pramen s uvedením rodiště, křest s odpovídajícími rodiči nebo datovaný spolehlivě identifikovaný doklad o osobě před rokem 1750. Pokud v prvním kole nezískáme rozřešení, vybere druhé kolo konkrétní nově určené osoby, místa a listy. Jeho plán bude zapsán před další četbou. Obě věková okna Josefa a odlišnost křtu, narození, pobytu a pouhého kmotrovství se posuzují samostatně.
+
+[Plán druhého kola, zvolený po prvních nálezech](kolo-2-plan.md)

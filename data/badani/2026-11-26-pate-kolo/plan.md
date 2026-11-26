@@ -24,6 +24,8 @@ Josefův sňatek jmenuje otce Maximiliána. Neuvádí však matku, rodiště ani
 
 ## Práce v tomto kole
 
+**Oprava podle právě přečtených celých stran.** Druhý Bäuerův křest v následujícím původním plánu byl v evidenci veden pod rokem 1738. Správně je 28. června 1739. [Důkaz a důsledky pro rodinu](hammer.md)
+
 1. V Krehlau porovnat stejné rodiče a formulaci o kmotrech v letech 1736 a 1738. V Herrnstadtu doplnit mezidobí mezi přečtenými roky a pátrat zvlášť po oddavkách. U Pelhřimov a Matějovic ověřit skutečný oddíl obce, hranice let a čitelnost. U každého negativního průchodu zaznamenat přesně přečtené strany.
 2. Z české strany najít evidenci, která uměla zachytit Josefa jménem za otcova života. Ověřit, kdy na Poděbradsku vznikaly jmenné soupisy rodin i příchozích osob a které konkrétní soupisy, biřmovací záznamy či knihy lze dnes číst. Rozlišit existenci dobové povinnosti, dochování a obraz skutečného řádku.
 3. Pro jeho dospělost prověřit originál předpisů o úředních přihláškách a porovnat postavení fořta a nadlesního. Rozlišit doklad, který žádal rodiště, a seznam, který mohl obsahovat jen číslo dřívější přihlášky. Souběžně najít ve správě Kolína vlastní Josefův nástup nebo jeho nástupce v Býchorech č. 11.

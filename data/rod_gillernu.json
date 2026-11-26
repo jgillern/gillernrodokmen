@@ -5152,7 +5152,7 @@
       "vazba": "příbuzný Maximiliána z Gillernů ze Slezska – jak blízký, nevíme",
       "fakta": [
         "8. 11. 1784 byl v Poděbradech kmotrem (v zastoupení) Maximiliánova vnuka Maximiliána Clannera z Engelshofenu: „Perillustris Dominus Ignatius de Güllern in Silesia Incola M…“ – obyvatel Slezska; poslední slovo se nedá jistě přečíst (snad Misnie). Za kmotra se bral blízký příbuzný – Ignác tedy rodinu v Poděbradech znal.",
-        "Možná s ním souvisí „Tit. Herr Ignatius Antonius Giller“, úředník vrchnosti na Hammeru (kmotr v Krehlau 1738) – mezi oběma zmínkami je ale 46 let a spojuje je jen křestní jméno.",
+        "Na Hammeru kmotroval roku 1739 Ignatius Antonius Giller, výslovně syn pána von Giller na Hammeru. Zda jde o stejného člověka, by musel doložit další pramen. Mezi oběma zprávami uplynulo 45 let.",
         "Článek „Rod Kroužkův“ v Polabských novinách (1928) píše, že si Rosálie Kroužková z Poděbrad (* 1745) vzala „panského lesníka Ignáta z Gillernů, který pocházel z Míšně ve Slezsku“, a jejich dcera Anna zemřela roku 1772. Matriky to nepotvrzují: Anna † 1772 je zapsána jen jako dcera Rosálie Kroužkové a Rosálie byla manželkou vojáka Josefa Gillara – autor článku zřejmě obě osoby zaměnil a údaj „z Míšně“ převzal z křtu 1784.",
         "Ignác Leopold Giller (* 1771 Dvorce), správce v Doloplazích, který se psal „von Lilienfeld“, jím být nemohl – roku 1784 mu bylo 13 let."
       ],
@@ -5246,26 +5246,34 @@
     },
     "ignatius_antonius_1738": {
       "jmeno": "Ignatius Antonius Giller (Hammer)",
-      "roky": "doložen 1738",
+      "roky": "doložen 28. 6. 1739",
       "stav": "doc",
-      "vazba": "úředník (?) vrchnosti na Hammeru – statku Carla Heinricha von Giller; jak je s rodinou spřízněn, nevíme",
+      "vazba": "syn pána von Giller na Hammeru. Jeho otci odpovídá Carl Heinrich von Giller.",
       "fakta": [
-        "Asi 28. 2. 1738 byl v Krehlau prvním kmotrem syna Gottfrieda Bäuera, osobního myslivce vrchnosti na Hammeru, jako „Tit. Herr Ignatius Antonius Giller“ – podle všeho úředník (šafář?) milostivé vrchnosti na Hammeru, ne člen panské rodiny (funkce čtena nejistě).",
-        "Mezi dětmi Carla Heinricha von Giller ani jeho bratrů není. Jméno Ignatius se vyskytuje u krnovských a dvoreckých Gillerů (lékárník „Benedictus Ignatius“, Ignác Leopold ze Dvorců).",
-        "Možná souvisí s „Ignácem z Gillernů ve Slezsku“, kmotrem Maximiliánova vnuka v Poděbradech roku 1784."
+        "Při křtu Frantze Josepha Bäuera v Krehlau 28. 6. 1739 je prvním kmotrem jako „Ignatius Antonius Giller des Gnädigen Herrn Von Giller auff Hamer geliebter Herr Sohn“. Matrika jeho matku nejmenuje.",
+        "Při křtu Marie Rosiny Bäuerové, sestry téhož dítěte, roku 1736 vystupuje Friedrich Igna[…] Giller, výslovně syn Carla Gillera. Podoby jmen se liší. Zda obě označují jediného muže, zůstává otevřené.",
+        "V roce 1784 kmotroval v zastoupení Ignác z Gillernů, obyvatel Slezska. Mezi zápisy uplynulo 45 let a chybí společný doklad o totožnosti."
       ],
       "zaznamy": [
-        "n_1738_krehlau_ignatius_antonius_giller_kmotr"
+        "n_1738_krehlau_ignatius_antonius_giller_kmotr",
+        "n_1736_krehlau_friedrich_ignatius_giller_kmotr"
       ],
       "vztahy": [
         {
-          "vztah": "možná příbuzný",
+          "vztah": "pravděpodobný otec podle držby Hammeru a paralelního křtu",
+          "osoba": "karl-heinrich-von-giller-carl-heinrich-1686"
+        },
+        {
+          "vztah": "totožnost nepotvrzena",
           "profil": "ignac_slezsko"
         }
       ],
       "zdroje": [
         {
-          "nazev": "Matrika Krehlau, křty 1736–1773, FamilySearch film 8244729, snímek 15"
+          "nazev": "Krehlau, křty D 527a, s. 7 a 9, FamilySearch DGS 8244729, sn. 13, 211 a 15"
+        },
+        {
+          "nazev": "Krehlau, křty D 526, s. 136–137, FamilySearch DGS 8244728, sn. 494–495"
         }
       ]
     },
@@ -6023,6 +6031,15 @@
                             "vazba": "doc",
                             "roky": "křest 10. 8. 1736 – † 9/1736",
                             "pozn": "nejmladší dítě; matka pohřbena 10. 9. 1736, dítě 23. 9. 1736 (6 týdnů)"
+                          },
+                          {
+                            "jmeno": "Ignatius Antonius Giller (Hammer)",
+                            "stav": "doc",
+                            "vazba": "prob",
+                            "roky": "kmotr v Krehlau 1739",
+                            "pozn": "U křtu 28. 6. 1739 výslovně syn pána na Hammeru. Ztotožnění otce s Carlem Heinrichem podporuje křest v téže myslivcově rodině 18. 7. 1736. Matka ani vlastní křest nejsou doložené. Může jít o již evidovaného syna užívajícího jiná jména.",
+                            "profil": "ignatius_antonius_1738",
+                            "popis": "syn pána na Hammeru"
                           }
                         ],
                         "nase": true,
@@ -6580,14 +6597,6 @@
             "vazba": "nejiste",
             "popis": "příbuzný?",
             "profil": "ignac_slezsko"
-          },
-          {
-            "jmeno": "Ignatius Antonius Giller (Hammer)",
-            "stav": "doc",
-            "vazba": "nejiste",
-            "roky": "kmotr 1738 Krehlau",
-            "pozn": "úředník vrchnosti na Hammeru (?); vztah k ostatním Gillerům neznámý",
-            "profil": "ignatius_antonius_1738"
           }
         ],
         "mimo": true

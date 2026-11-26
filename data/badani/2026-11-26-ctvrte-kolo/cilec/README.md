@@ -6,10 +6,10 @@ SOA v Praze, Sbírka matrik, římskokatolická farnost Nymburk, **Nymburk 07**,
 
 Přepis s rozvedením zkratek v hranatých závorkách a s nejistými místy označenými otazníkem:
 
-> Z Czilecz. Ditě. Waczlaw. O. Martin Korzinek Jagr.\\
-> M. Barbora, Podd[ani] Benatssti. K. P. Waczlaw Blazeg\\
-> we Zdonine Obr. Jagr. S. Jan Wulman [?] z Wostrowa\\
-> Forzst. Bzeta Czernikowa.\\
+> Z Czilecz. Ditě. Waczlaw. O. Martin Korzinek Jagr.\
+> M. Barbora, Podd[ani] Benatssti. K. P. Waczlaw Blazeg\
+> we Zdonine Obr. Jagr. S. Jan Wulman [?] z Wostrowa\
+> Forzst. Bzeta Czernikowa.\
 > Bapt[izavit] P. Thomas Kulka [?] Decan[us].
 
 V Čilci se narodil Václav, syn myslivce Martina Kořínka a Barbory, poddaných benáteckého panství. Kmotrem byl pan Václav Blažek, vrchní myslivec ve Zdoníně. Svědky byli Jan Wulman [?], fořt z Ostrova, a Běta Černíková. Křtil děkan Tomáš, jehož příjmení se jeví jako Kulka. Zkratka `P.` před Václavem odpovídá oslovení pan, také v pozdějších záznamech. `K.` a `S.` odlišují kmotra a svědky. Označení benáteckých poddaných stojí za jmény rodičů. Zaměstnavatelé, hranice revírů ani přesné určení Ostrova zapsány nejsou.

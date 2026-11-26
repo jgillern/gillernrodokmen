@@ -3646,5 +3646,29 @@
   ],
   "status": "ok",
   "note": "Křest Alžběty v Bobnicích. Johana z Boru je uvedena jako kmotra."
+ },
+ "j_1789_podebrady_clanner_pojezdny": {
+  "boxes": [
+   [
+    0.005,
+    0.404,
+    0.917,
+    0.487
+   ]
+  ],
+  "status": "ok",
+  "note": "Tištěný řádek Waldbereiter v poděbradské skupině, Johann Klanner v. Engelshofen."
+ },
+ "j_1798_podebrady_clanner_pojezdny": {
+  "boxes": [
+   [
+    0.065,
+    0.414,
+    0.958,
+    0.496
+   ]
+  ],
+  "status": "ok",
+  "note": "Tištěný řádek Waldbereiter v poděbradské skupině, Johann Klaer von Engelshofen."
  }
 }

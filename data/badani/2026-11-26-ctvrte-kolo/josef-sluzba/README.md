@@ -1,6 +1,6 @@
 # Josef Emanuel z Gillernu · služba v Kolíně a v Býchorech
 
-**Výsledek.** Nově ověřený plný digitální ročník Schönfeldova šematismu **1798** jmenuje čtyři pracovníky hospodářského úřadu komorního panství Kolín. U poděbradského lesního personálu uvádí Jana z Engelshofenu jako pojezdného lesníka a Friedricha Bößera jako nadlesního. Josefa Emanuela z Gillernu se nepodařilo dohledat v jmenných seznamech tohoto ročníku ani v online dostupném osobním služebním nebo imatrikulačním záznamu. Zápisy z Býchor, v nichž je roku 1797 i 1798 doložen jako fořt, jsou v projektu přečteny už ve druhém kole. Jeho rodiště zůstává otevřené. [Šematismus 1798](https://www.digitale-sammlungen.de/en/view/bsb10011128) · [Dřívější čtení matrik](../../repo/data/badani/2026-11-26-dve-kola/kolo-2/spisy/README.md)
+**Výsledek.** Nově ověřený plný digitální ročník Schönfeldova šematismu **1798** jmenuje čtyři pracovníky hospodářského úřadu komorního panství Kolín. U poděbradského lesního personálu uvádí Jana z Engelshofenu jako pojezdného lesníka a Friedricha Bößera jako nadlesního. Josefa Emanuela z Gillernu se nepodařilo dohledat v jmenných seznamech tohoto ročníku ani v online dostupném osobním služebním nebo imatrikulačním záznamu. Zápisy z Býchor, v nichž je roku 1797 i 1798 doložen jako fořt, jsou v projektu přečteny už ve druhém kole. Jeho rodiště zůstává otevřené. [Šematismus 1798](https://www.digitale-sammlungen.de/en/view/bsb10011128) · [Dřívější čtení matrik](../../2026-11-26-dve-kola/kolo-2/spisy/README.md)
 
 ## Přečtené obrazy ročníku 1798
 

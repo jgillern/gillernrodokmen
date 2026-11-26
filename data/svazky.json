@@ -1147,5 +1147,19 @@
   "svazek": "Wohlau (Volov, dnes Wołów), katolické pohřby, D 1320-2",
   "popis": "Film 1203037, DGS 8241013, položka 2. Po starších zápisech nastupuje na sn. 244 nový běh v lednu 1745. Poslední pohřeb v této kopii je na sn. 260 dne 1. 3. 1756.",
   "url": "https://www.familysearch.org/en/search/catalog/koha:12360"
+ },
+ "tisk_schematismus_boehmen_1789": {
+  "archiv": "Bayerische Staatsbibliothek, München",
+  "portal": "MDZ / Digitale Sammlungen",
+  "svazek": "Schematismus für das Königreich Böheim, ročník 1789",
+  "popis": "Pražský tištěný šematismus Českého království. Poděbradské hospodářské úředníky uvádí v oddílu komorních panství.",
+  "url": "https://www.digitale-sammlungen.de/en/view/bsb10011126"
+ },
+ "tisk_schematismus_boehmen_1798": {
+  "archiv": "Bayerische Staatsbibliothek, München",
+  "portal": "MDZ / Digitale Sammlungen",
+  "svazek": "Kaiserlich-Königlicher Schematismus für das Königreich Böheim, ročník 1798",
+  "popis": "Pražský tištěný šematismus Českého království. Poděbradské hospodářské úředníky uvádí v oddílu komorních panství.",
+  "url": "https://www.digitale-sammlungen.de/en/view/bsb10011128"
  }
 }

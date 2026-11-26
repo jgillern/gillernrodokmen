@@ -1,0 +1,22 @@
+# Dešná u Jemnice · nejstarší katolická matrika
+
+**Výsledek.** Knihu **Dešná 1** jsem otevřel v běžném prohlížeči přímo v SOA Třeboň i prostřednictvím FamilySearch. Na začátku knihy po zápisech s nadpisem **1629** přímo následuje oddíl **1651**. Rok **1646** v tomto úseku chybí. V čitelných zápisech roku **1651** jsem nenašel křest Friedricha Wilhelma ani rodičovský pár Johann Christof Giller a Susanna Bartsch.
+
+## Přístup a čísla snímků
+
+| Zdroj | Ověřené údaje |
+|---|---|
+| SOA Třeboň, Sbírka matrik, katolická farnost Dešná, **Dešná 1**, digitální ID 3110 | Datace knihy 1624–1729, 387 snímků v rozhraní. Knihu jsem viděl přímo v běžném prohlížeči, kde se obrazy načetly bez ručního testu. Předchozí překážka v rešerši nastala při mimořádném přístupu k zobrazení přes HTTP, ne v této relaci. [Snímek 8](https://digi.ceskearchivy.cz/3110/8) · [Snímek 11](https://digi.ceskearchivy.cz/3110/11) |
+| FamilySearch, sbírka **1472854**, *Czech Republic, Southern Bohemia, Třeboň Archive Church Books, 1650–1900*, Catholic → **Dešná: Döschen** → **Baptisms(1624), 1729** | **Film/DGS 004398293**, 229 snímků v oddíle křtů. Číslo bylo vidět v nabídce Film number. V přihlášené relaci se zobrazily vlastní obrazy. Jde o stejný rukopis jako v Třeboni, jak dokládá shodná poloha rukopisných zápisů a vložený lístek. [Sbírka](https://www.familysearch.org/en/search/collection/1472854) · [Farní rozcestník](https://www.familysearch.org/en/search/image/index?owc=MCMN-2P8%3A45164801%2C47955301%3Fcc%3D1472854&cc=MCMF-JNL:45164801?cc=1472854) |
+| Celostátní sbírka 1804263, *Czech Republic, Church Books, 1552–1981* | Uvádí Třeboň mezi držiteli předloh. Konkrétní kopii jsem ověřil prostřednictvím podrobnější třeboňské sbírky a jejího farního rozcestníku. Samostatný katalogový záznam nad rámec potvrzeného filmu jsem nezjistil. [Celostátní sbírka](https://www.familysearch.org/cs/search/collection/1804263) |
+
+## Čtení rukopisu
+
+| Obrazy | Obsah a výsledek |
+|---|---|
+| [SOA sn. 8](https://digi.ceskearchivy.cz/3110/8) · [FS sn. 9](https://www.familysearch.org/ark:/61903/3:1:S3HT-DTX1-H1?wc=MCMN-2PD%3A45164801%2C47955301%2C47957501%26cc%3D1472854&cc=1472854&lang=en&i=8&groupId=1472854) | Levá strana začíná „Anno 1629“ a v její spodní části je „Anno 1651“. V okraji stojí „vi[de] pag. 22“ (viz strana 22). Vedle ročního nadpisu je pokyn číst přilehlý lístek, přibližně „NB hie adjacens schedula legatur“. Volný lístek na pravé straně odkazuje mimo jiné na léta 1638 a 1666 při popisu jedné osoby a jejího věku. Nenalezl jsem na něm souvislou řadu křtů ani hledaná jména. |
+| [SOA sn. 9](https://digi.ceskearchivy.cz/3110/9) a [sn. 10](https://digi.ceskearchivy.cz/3110/10) · [FS sn. 10](https://www.familysearch.org/ark:/61903/3:1:S3HT-DTX1-FY?wc=MCMN-2PD%3A45164801%2C47955301%2C47957501%26cc%3D1472854&cc=1472854&lang=en&i=9&groupId=1472854) a [FS sn. 11](https://www.familysearch.org/ark:/61903/3:1:S3HT-DTX1-GX?wc=MCMN-2PD%3A45164801%2C47955301%2C47957501%26cc%3D1472854&cc=1472854&lang=en&i=10&groupId=1472854) | Různé záběry stejného rozevření s lístkem; pravá strana obsahuje pokračování křtů roku 1651. V jednom květnovém zápisu je matka „Susana“, pokřtěná je však „Christina“ a příjmení otce nemá zřetelnou podobu Giller. Zápis jsem ponechal mimo rodokmen. |
+| [SOA sn. 11](https://digi.ceskearchivy.cz/3110/11) · [FS sn. 12](https://www.familysearch.org/ark:/61903/3:1:S3HT-DTXB-NL?wc=MCMN-2PD%3A45164801%2C47955301%2C47957501%26cc%3D1472854&cc=1472854&lang=en&i=11&groupId=1472854) | Druhá část 1651 je nahoře na levé straně. Pod ní je nadepsán rok 1652; vpravo je dole přechod k roku 1653. Ani v čitelných zápisech závěru roku 1651 se hledané dítě ani rodičovský pár neobjevili. |
+| [SOA sn. 13](https://digi.ceskearchivy.cz/3110/13) · [FS sn. 14](https://www.familysearch.org/ark:/61903/3:1:S3HT-DTXB-CX?wc=MCMN-2PD%3A45164801%2C47955301%2C47957501%26cc%3D1472854&cc=1472854&lang=en&i=13&groupId=1472854) | Odkazovaná knižní strana 22 obsahuje zápisy po předchozím ročníku 1653 a pak nadpis „Anno 1655“. Křestní řadu roku 1646 jsem na ní nedohledal. |
+
+Rok 1651 jsem četl v běžném zobrazení i po zvětšení ve filmu. Část inkoustu je slabá, list prosvítá a některá jména nelze přečíst bezpečně. Rok 1651 je nadto pro Friedricha Wilhelma jen přibližný. Nález proto oslabuje možnost, že se hledaný křest nachází právě v tomto ročníku, a místo usazení Heinricha Christofa neurčuje. Záznam o věku nebo narození kteréhokoli z obou předků se zde nepodařilo doložit. Sňatky a pohřby v této kontrole nebyly souvisle čteny.

@@ -4,6 +4,12 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 
+## 26. 11. 2026 večer · Josef a Maximilián, poté předkové Heinricha Christofa
+
+[Výsledek osmého kola a následující kroky](badani/2026-11-26-osme-kolo/README.md) · [Deník od č. 878](badani/2026-11-26-osme-kolo/denik.md). Při hledání Josefova křtu a první svatby jeho otce mají přednost nezávislé knihy pro Semín (Přelouč 1802) a Selmice (Týnec nad Labem 02 a 03). V kladrubské knize 1776 dokládá titul a Hrubého text vznik nové matriky po požáru 10. 7. 1757. Zahrnuje křest Maximiliánovy dcery z 23. 4. téhož roku, ale starší zápisy nejsou souvislé. Pro obě Josefova věková okna již bylo nově provedeno čtení vratislavského Božího Těla a Zdechovic. Gauhe 1747 potvrzuje, že pardubický lesmistr Anton Otto z Ottenfeldu a brandýský myslivec Ignác byli bratři. Anton jako možný strýc Baltazara Clannera dává konkrétní jména pro kontrolu služebního přesunu. [Tisk a doklady o Ludmile Dorotě](badani/2026-11-26-osme-kolo/baltazar/ottenfeld.md)
+
+Druhou prioritou je přímá linie před Heinrichem Christofem. Jeho rodiče ani datum narození jeho a syna Johanna Christofa doložené nemáme. Při práci s čtyřmi letopočty Johannových synů rozlišovat tradici od data společného povýšení v roce 1700. Zukalova edice dává přesně datovanou závěť z 28. 4. 1635 v domácnosti Tschammerů na Oldřišově, jejíž možný vztah k rodině stále čeká na důkaz. Samostatný rozbor propojení s linií Lilienfeld zůstává odložený.
+
 ## 26. 11. 2026 · Josef a Maximilián, třetí kolo
 
 [Závěry třetího kola a další postup](badani/2026-11-26-treti-kolo/README.md). V červenci 1752 je u křtu v Chlebích „P. Jozef Giller Forzst z Wostrowa“, pravděpodobně Maximilián Josef Emanuel. Stejný Ostrov uvádí březnový zápis u druhého fořta. V září a prosinci je Johana výslovně ženou tohoto jména u fořta z Boru. Pět nových křtů s jejich účastí je ve společném katalogu a profilech. V Budiměřicích žili dva Františkové Kurkové, což opravuje původní výklad obou lednových křtů 1753. [Přepisy z Nymburka](badani/2026-11-26-treti-kolo/soucek/README.md) · [Dvě domácnosti Kurkových](badani/2026-11-26-treti-kolo/kurka/README.md)

@@ -1,5 +1,7 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
+[Šesté kolo. Plán k Josefovu rodišti, převzetí české služby a slezské rodině](data/badani/2026-11-26-seste-kolo/plan.md) · [Jmenování slezských komisařů v roce 1748](data/badani/2026-11-26-seste-kolo/hammer/README.md)
+
 [Páté kolo. Doklady z Hammeru, dvě možnosti Josefova narození a postup přes českou služební domácnost](data/badani/2026-11-26-pate-kolo/README.md) · [Plán ověření](data/badani/2026-11-26-pate-kolo/plan.md) · [Nový deník od č. 827](data/badani/2026-11-26-pate-kolo/denik.md)
 
 [Čtvrté kolo. Maximiliánova sestřenice, lesmistr v Herrnstadtu a dvě nově prověřené farnosti pro Josefův křest](data/badani/2026-11-26-ctvrte-kolo/README.md) · [Badatelský deník č. 792–826](data/badani/2026-11-26-ctvrte-kolo/denik.md)

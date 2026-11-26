@@ -18,7 +18,7 @@ Josefův sňatek z 12. června 1786 jmenuje ženichova otce a udává svobodný 
 
 ## 2. Heinrich Christof a jeho syn Johann Christof
 
-**Vztah otce a syna dosud stojí na pozdním rodopisu.** Gotha otiskla rod Gillernů poprvé v ročníku 1884. Redakční předmluva datovaná 1. 11. 1883 vyžadovala průkaz stavu svobodných pánů. Původ konkrétní zprávy o dvou důstojnících článek neprozrazuje. Nejkratší cesta k ověření předků je nadále společný šlechtický list obou Johannových synů z **20. 8. 1700**, český sálbuch **CV, fol. 333v**, a příslušná žádost. Druhým směrem je redakční obálka v Gothě **SPA ARCH Gen 1602** z doby před uzavřením vydání v listopadu 1883. Jmenovaného otce Heinricha ani přesný rok narození jeho či Johanna jsme zatím nezískali. [Předmluva a původ údajů](vedeni/gotha.md) · [List a opis z roku 1700](../2026-11-26-osme-kolo/vedeni/listiny.md)
+**Vztah otce a syna dosud stojí na pozdním rodopisu.** Gotha otiskla rod Gillernů poprvé v ročníku 1884. Redakční předmluva datovaná 1. 11. 1883 vyžadovala průkaz stavu svobodných pánů. Původ konkrétní zprávy o dvou důstojnících článek neprozrazuje. Nejkratší cesta k ověření předků je nadále společný šlechtický list obou Johannových synů z **20. 8. 1700**, český sálbuch **CV, fol. 333v**, a příslušná žádost. Druhým směrem je [redakční korespondence v Gothě **SPA ARCH Gen 1602**](../2026-11-26-desate-kolo/vojsko/README.md) z doby před uzavřením vydání v listopadu 1883. Jmenovaného otce Heinricha ani přesný rok narození jeho či Johanna jsme zatím nezískali. [Předmluva a původ údajů](vedeni/gotha.md) · [List a opis z roku 1700](../2026-11-26-osme-kolo/vedeni/listiny.md)
 
 | Cesta | Co lze ověřit |
 |---|---|

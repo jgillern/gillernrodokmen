@@ -1,5 +1,7 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
+[Jedenácté kolo. Přímý rychnovský křest z roku 1747, kladrubští svědci a hlubčická matrika roku 1650. Deník od č. 929](data/badani/2026-11-26-jedenacte-kolo/README.md)
+
 [Desáté kolo. Kladruby, Rychnov, Baltazarovo dědictví a děd Karla Josefa](data/badani/2026-11-26-desate-kolo/README.md) · [Výchozí plán](data/badani/2026-11-26-desate-kolo/plan.md) · [Deník č. 913–928](data/badani/2026-11-26-desate-kolo/denik.md)
 
 [Deváté kolo. Kde hledat Josefovo narození, první sňatek Maximiliána a nejstarší dvě generace](data/badani/2026-11-26-devate-kolo/README.md) · [Výchozí scénáře](data/badani/2026-11-26-devate-kolo/plan.md) · [Deník č. 897–912](data/badani/2026-11-26-devate-kolo/denik.md)

@@ -2,6 +2,8 @@
 
 Průzkum z 25. 11. 2026, priorita 3/1. Výchozí zjištění v deníku č. 691, v souhrnu z 25. 11. a v SOL-09-N05/N07. Čísla stran níže jsou tištěná, kde není uvedeno jinak.
 
+**Doplnění podle krnovské žádosti z 31. ledna 1643.** Matyáš Giller označil Zuzanu Götzovou za svou tehdy žijící tchyni. Druhým zetěm byl Kašpar Benedikt Porphyrius. Matyášovy údaje o společném bydlení mění výklad o dědictví po zemřelé tchyni již roku 1642. [Edice, překlad a obraz obou stran](../../2026-11-26-dvanacte-kolo/krnov.md)
+
 ## Opava · dům U Zlatého prstenu a pozdější držitel
 
 **Matyášův dům je historické orientační č. 5, staré čp. 215, U Zlatého prstenu na opavském Horním náměstí.** Irena Korbelářová výslovně uvádí dům U Zlatého prstenu jako majetek lékaře Matyáše Gielera z Lilienfeldu roku 1632, kdy tu pobýval kníže Karel Eusebius. V pozn. 10 odkazuje na Zukalův zvláštní otisk o Horním náměstí z roku 1898, s. 8–9. Čísla domu propojuje ediční poznámka 211 u pamětí Jana Čeledy, která uvádí čp. 215 a Horní náměstí 5. Tamtéž stojí i kontrolní dvojice čp. 213 / or. č. 7 a čp. 212 / or. č. 8. Stará radnice mezi těmito domy a čp. 215 byla čp. 214. Tento dům je třeba hledat i podle pozdějšího domovního jména nebo adresy; sama dobová smlouva může objekt určit prostřednictvím sousedů. [Korbelářová, Ceremoniální rozloučení s Annou Marií z Lichtenštejna roku 1625, in 800 let města Opavy, s. 27, pozn. 10](https://uhv.fpf.slu.cz/wp-content/uploads/2024/11/800_let_opavy_online.pdf#page=27) · [Čeledovy paměti, s. 114, pozn. 209 a 211](https://www.academia.edu/113478772/) · [Žáček, Opava roku 1817, in 800 let města Opavy, s. 113, pozn. 57](https://uhv.fpf.slu.cz/wp-content/uploads/2024/11/800_let_opavy_online.pdf#page=113)

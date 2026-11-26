@@ -22,6 +22,16 @@ V této rodině se v odstupu 51 let opakuje také čp. **37**. Při křtu Barbor
 | Kde hledat sňatek Josefa s Emilií? | Pro katolický obřad ve vsi přísluší samostatná oddací matrika Robousy 1901–1949. U České Skalice lze pokračovat od sn. 80 knihy 21-8666. | U Robous je veřejně doložena existence knihy. Snímky městské České Skalice začínají pro rozhodné období na přelomu 1908/1909. Jmenné civilní rejstříky mají vlastní územní i časové pokrytí. [Farnost a druhopisy](farnost-robousy-1901.md) · [Knihy a snímky](opisy-a-filmy-jicin-nachod.md) · [Civilní sňatky](civilni-snatky-pred-1919.md) |
 | Který doklad může spojit Emilii Marii z domu č. 33 s rodinou Beranových? | Josefův úplný křest, Velká Jesenice č. 82, 13. 6. 1910. Do pravonínského spisu ke sňatku syna byly roku 1936 založeny tři listiny, v zápisu je přímo citován křestní list z 17. 9. 1936 č. j. 170. | Originál křtu ani jeho pozdější opis se zatím nepodařilo otevřít. Veřejně čitelný oddací zápis poskytuje datum, číslo domu a identifikaci listin. [Pravonín, snubní listiny](snubni-listiny-a-civilni-rejstriky.md) · [Velká Jesenice](velka-jesenice.md) |
 
+## Další ověřené prameny
+
+[Pokračování badatelského deníku a oprava ke starší položce 39](denik-pokracovani.md).
+
+V samotném **Pravoníně se 21. dubna 1912 narodila Ludmila Beranová**. Rejstřík odkazuje na knihu XXVI, s. 73, a jména rodičů vynechává. Údaj o bydlišti Josefovy rodiny před stavbou cihelny zůstává otevřený. [Výřez a sousední zápisy](ludmila-1912-pravonin.md).
+
+Pro **Velkou Jesenici za rok 1910** jsou doložené neúplné operáty soudního okresu Česká Skalice. Dochování archu samotné obce či čp. 82 je třeba určit jmenovitým rozpisem. V adresáři roku 1902 jsou v Jesenici nově ověřeni obuvník Jan Svoboda a porodní bába Kateřina Klosová. [Sčítání a dva listy adresáře](jesenice-scitani-1910.md).
+
+Vídeňský spolek věřitelů ohlásil na podzim 1927 soudní vyrovnání Josefa Berana z Pravonína. Pražské přihlášky pod jménem Emilie Kozáková (* 1882) patří Emilii rozené Přerostové, provdané za Aloise Kozáka. Válečné karty ročníku 1891 zatím nelze připsat cihláři. [Zpráva o vyrovnání](vyrovnani-zahajeni-1927.md) · [Pražské a plzeňské přihlášky](pobytove-prihlasky-kozakovi.md) · [Válečné seznamy a ICRC](valecne-karty-josef-beran.md).
+
 ## Pramenná zpráva
 
 - [První kolo, podrobný přehled s odkazy, prověřenými prameny a vyloučenými shodami](prvni-kolo.md).

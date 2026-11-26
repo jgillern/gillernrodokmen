@@ -3071,7 +3071,7 @@
   "shrnuti": "Křestní matrika Hochkirchu uvádí k 29. březnu 1739 dceru jménem Maria Anna Clara Martha Johanna Josepha Antonia Mechtildis Friedericka z Rettkau. Byla dcerou mladšího barona von Güller a jeho manželky Marie Antonie, velmi pravděpodobně rozené von Rüffer. Anton je křtící kněz. Křestní jméno otce zápis neuvádí.",
   "strana": "D 1420, s. 145 vpravo, spodní zápis. DGS 8246290, sn. 77.",
   "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G329-T?view=explore&groupId=TH-909-75352-98992-36&lang=en",
-  "pozn": "Matrika udává datum křtu. Narození 29. 3. 1739 v Rettkau uvádí klášterní katalog u abatyše Dominiky (světským jménem Maria Anna), č. 112: https://sbc.org.pl/Content/56157/PDF/56157.pdf#page=246. Matčino rodné příjmení lze číst Rü[ff?]erin, alternativně Rüsterin (?). Siebmacher v hesle Ruffer (Rüffer), tištěná s. 148, uvádí Marii Antonii tohoto rodu provdanou baronku von Gillern, zemřelou 25. 4. 1745 v Alt-Wohlau. Jde o nepřímou oporu pro čtení a datování matčina úmrtí z literatury: https://sbc.org.pl/Content/4112/PDF/4112.pdf#page=150."
+  "pozn": "Matrika udává datum křtu. Narození 29. 3. 1739 v Rettkau uvádí klášterní katalog u abatyše Dominiky (světským jménem Maria Anna), č. 112: https://sbc.org.pl/Content/56157/PDF/56157.pdf#page=246. Matčino rodné příjmení lze číst Rü[ff?]erin, alternativně Rüsterin (?). Siebmacher v hesle Ruffer (Rüffer), tištěná s. 148, uvádí Marii Antonii tohoto rodu provdanou baronku von Gillern, zemřelou 25. 4. 1745 v Alt-Wohlau. Jde o nepřímou oporu pro čtení a datování matčina úmrtí z literatury: https://sbc.org.pl/Content/4112/PDF/4112.pdf#page=150. Křest sestry 21. 4. 1740 potvrzuje jména Joseph a Maria Antonia von Rüffer. Později přečtený pohřeb 27. 2. 1745 je s dubnovým datem smrti u Siebmachera v rozporu."
  },
  {
   "klic": "n_1737_hochkirch_maria_josepha_giller",
@@ -3235,5 +3235,38 @@
   "strana": "tištěná s. 116, skupina Podiebrad, sn. 506",
   "odkaz": "https://www.digitale-sammlungen.de/en/view/bsb10011128?page=506",
   "shrnuti": "Mezi úředníky poděbradského panství je po rybním mistrovi uveden pojezdný lesník Jan z Engelshofenu. Tisk uvádí příjmení Klaer. Ke ztotožnění s Janem Křtitelem Clannerem vede ročník 1789 se stejným křestním jménem, predikátem, působištěm i funkcí a poděbradské rodinné matriky. Na tištěné s. 126 je poděbradským nadlesním Friedrich Bößer."
+ },
+ {
+  "klic": "n_1739_rettkau_slecna_gullerova_kmotra",
+  "svazek": "hochkirch_d1420_8246291",
+  "druh": "N",
+  "datum": "29. 3. 1739",
+  "nazev": "Slečna von Güller kmotrou Hanse Caspara, syna ovčáka v Rettkau",
+  "shrnuti": "Ve stejný den jako Marie Anna von Güller byla v Hochkirchu u křtu syna místního ovčáka zapsána jako kmotra slečna von Güller. Její křestní jméno v tomto zápisu chybí.",
+  "strana": "D 1420, s. 146 vlevo nahoře. DGS 8246291, sn. 76.",
+  "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G3TB-6",
+  "pozn": "Dítětem je Hanß Caspar. Žádný pramen zde neurčuje vztah kmotry k Marii Anně ani její totožnost s Fridericou či Hedwig z roku 1740."
+ },
+ {
+  "klic": "n_1740_rettkau_maria_gustava_guller",
+  "svazek": "hochkirch_d1420_8246291",
+  "druh": "N",
+  "datum": "21. 4. 1740",
+  "nazev": "Křest Marie Gustavy, dcery mladšího barona Josepha von Güller a Marie Antonie von Rüffer",
+  "shrnuti": "Dcera z Rettkau byla pokřtěna jmény Maria Gustava Josepha Antonia Hedewigis Florentina Juliana Clara Johanna. Označení otce jako mladšího barona, místo i matka se shodují s křty Marie Josefy roku 1737 a Marie Anny roku 1739. Otcovo křestní jméno Joseph je zde čitelné.",
+  "strana": "D 1420, s. 184 vlevo nahoře. DGS 8246291, sn. 95.",
+  "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G3RR-P",
+  "pozn": "Další otcovo křestní jméno v zápisu chybí. Rozlišení od Josepha Antona z lenní tabulky roku 1752 a od Franze Josepha, manžela Franzisky von Osteschau v letech 1750–1751, vyžaduje další doklad. Písař uvádí den křtu."
+ },
+ {
+  "klic": "n_1740_rettkau_hedwig_hammer_kmotra",
+  "svazek": "hochkirch_d1420_8246290",
+  "druh": "N",
+  "datum": "2. 11. 1740",
+  "nazev": "Friderica z Rettkau a Hedwig z Hammeru kmotrami dcery krejčího v Rettkau",
+  "shrnuti": "U křtu Anny Marie Josefy Františky uvádí matrika společně slečnu Fridericu baronku von Güllern z Rettkau a slečnu Hedwig von Güller z Hammeru. Na řádku chybí jména rodičů kmoter. Nejlépe odpovídá Maria Catharina Hedwigis Brigitta pokřtěná kolem 8. 10. 1731 v rodině Carla Heinricha na Hammeru. Další kandidátkou je Maria Hedwig pokřtěná 24. 10. 1725 v rodině Franze Josepha z Horního Krehlau.",
+  "strana": "D 1420, s. 207 vpravo uprostřed. DGS 8246290, sn. 108.",
+  "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G32Y-Y",
+  "pozn": "Baronský titul zapsal písař u Fridericy. Obě ženy označil za slečny. Dohromady tvoří dobový doklad osobního okruhu mezi místy Rettkau a Hammer. Ztotožnění obce s Młoty opíráme o starší krehlauské zápisy. Zápis nepodává místo pobytu Maximiliána ani jeho syna Josefa."
  }
 ]

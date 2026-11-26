@@ -3670,5 +3670,41 @@
   ],
   "status": "ok",
   "note": "Tištěný řádek Waldbereiter v poděbradské skupině, Johann Klaer von Engelshofen."
+ },
+ "n_1739_rettkau_slecna_gullerova_kmotra": {
+  "boxes": [
+   [
+    0.015,
+    0.012,
+    0.974,
+    0.934
+   ]
+  ],
+  "status": "ok",
+  "note": "Celý první zápis včetně data, rodičů a nejmenované kmotry."
+ },
+ "n_1740_rettkau_maria_gustava_guller": {
+  "boxes": [
+   [
+    0.015,
+    0.015,
+    0.95,
+    0.972
+   ]
+  ],
+  "status": "ok",
+  "note": "Celý křest Marie Gustavy. Jména rodičů leží v horní a prostřední části."
+ },
+ "n_1740_rettkau_hedwig_hammer_kmotra": {
+  "boxes": [
+   [
+    0.018,
+    0.015,
+    0.95,
+    0.945
+   ]
+  ],
+  "status": "ok",
+  "note": "Celý prostřední zápis. Friderica na Rettkau a Hedwig na Hammeru jsou uvedeny za jménem dítěte."
  }
 }

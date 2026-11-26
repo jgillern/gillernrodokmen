@@ -1240,8 +1240,10 @@
         "Jeho syn Arthur (* 4. 4. 1855 Altwasser u Hlohova, † 4. 5. 1916 Berlín) byl pruský generálporučík; Arthurův syn Arnulf (1884–1944) byl spolumajitelem zbrojovky Polte v Magdeburku.",
         "1744 pruské uznání stavu svobodných pánů listem Fridricha II., potvrzeno 1855.",
         "Ernst Heinrich z Gillernů (1730–1792), mladší bratr našeho Maximiliána: velitel granátnického praporu v Nise, generálmajor a šéf pěšího pluku v Královci, rytíř Pour le Mérite.",
-        "Dominika von Gillern, světským jménem Maria Anna (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici. Křest 29. 3. 1739 v matrice Hochkirchu označuje jejího otce jako mladšího barona von Güller a matku jako Marii Antonii, velmi pravděpodobně rozenou von Rüffer.",
+        "Dominika von Gillern, světským jménem Maria Anna (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici. Křest 29. 3. 1739 v matrice Hochkirchu označuje jejího otce jako mladšího barona von Güller a matku jako Marii Antonii, rozenou von Rüffer. Rodné příjmení matky a křestní jméno otce Joseph potvrzuje křest jejich další dcery Marie Gustavy z 21. 4. 1740.",
         "Maria Josepha Elisabetha Carolina Antonia z Rettkau, pokřtěná v srpnu 1737, byla velmi pravděpodobně starší sestrou abatyše Dominiky. U obou dívek je jako otec uveden mladší baron von Giller, jako matka Maria Antonia rozená von Rüffer a při obou křtech se v témže pořadí objevují tři kmotři z Hochkirchu.",
+        "Dne 21. 4. 1740 nechali mladší baron Joseph von Güller a jeho manželka Maria Antonia von Rüffer v Hochkirchu pokřtít dceru Marii Gustavu. Se sestrami pokřtěnými v Rettkau v letech 1737 a 1739 ji spojují matka, příjmení, sídlo i označení otce za mladšího barona. Druhé křestní jméno otce z těchto tří zápisů neznáme.",
+        "Dne 2. 11. 1740 uvádí křest dcery krejčího z Rettkau dvě kmotry, Fridericu baronku von Güllern na Rettkau a Hedwig von Güller na Hammeru. Známe dvě dívky toho jména, z nichž k Hammeru má přímou rodinnou vazbu Maximiliánova mladší sestra pokřtěná roku 1731. Rodiče kmotry zápis nejmenuje.",
         "Matrika uvádí 27. únor jako den pohřbu, jmenuje Starý Volov a karmelitány. Podle jména, rodného příjmení, titulu a místa jde velmi pravděpodobně o Marii Antonii z rodiny doložené v Rettkau. Datum úmrtí 25. 4. 1745 v Siebmacherovi z roku 1894 je s tímto pohřbem neslučitelné. Přesný den smrti chybí.",
         "V Rettkau nechali Franz Joseph baron von Giller, pán na Rettkau, a jeho manželka Franziska rozená hraběnka von Osteschau dne 20. 3. 1750 pokřtít dceru Marii Barboru Josefu Jáchymu. Kmotrem byl Carl Joseph baron von Giller, který tehdy pobýval ve Vídni.",
         "Franz Joseph von Giller a Franziska rozená von Osteschau nechali v Rettkau 21. 3. 1751 pokřtít syna jmény Carolus Josephus Maria Nicolaus Franciscus Ignatius Joachimus. Velmi pravděpodobně jde o devatenáctiletého katolíka Carla Josepha z Rettkau, zapsaného roku 1770 na rytířskou akademii v Lehnici.",
@@ -1307,6 +1309,9 @@
       "zaznamy": [
         "n_1737_hochkirch_maria_josepha_giller",
         "n_1739_hochkirch_maria_anna_giller",
+        "n_1739_rettkau_slecna_gullerova_kmotra",
+        "n_1740_rettkau_maria_gustava_guller",
+        "n_1740_rettkau_hedwig_hammer_kmotra",
         "n_1750_rettkau_maria_barbara_giller",
         "n_1751_rettkau_carl_joseph_giller",
         "z_1810_gillern_dominika",
@@ -1737,7 +1742,8 @@
         "Pokřtěn 6. 9. 1710 v Preichau jako Josephus Antonius Leopoldus, syn Johanna Christopha von Giller, správce panství Preichau, a Marie Marthy.",
         "Slezská lenní tabulka z roku 1752 uvádí na statcích Rettkau a Priedemost Josepha Antona von Giller, narozeného podle této tabulky roku 1720, s dvouletým synem Carlem. Místní přehled držby Priedemostu jmenuje Josepha Antona také roku 1757. Jeho ztotožnění s dítětem narozeným roku 1710 zůstává otevřené.",
         "V Priedemostu je roku 1765 uváděna vdova Maria Franziska von Gillern, rozená hraběnka von Osteschau. V rettkauské domácnosti roku 1750 je jako manžel Franzisky rozené von Osteschau výslovně jmenován Franz Joseph von Giller. Posloupnost držitelů Priedemostu neurčuje manžela vdovy ani datum úmrtí Josepha Antona.",
-        "V rejstříku sňatku Carla Josepha s Antonií von Nerlich roku 1785 je jako ženichův otec zapsán Joseph Anton. Zda je ženich dvouletým Carlem z lenního soupisu, zůstává otevřené. U dítěte pokřtěného 21. 3. 1751 v Rettkau je otec výslovně Franz Joseph. V roce 1752 by tomuto dítěti byl nejvýše jeden rok."
+        "V rejstříku sňatku Carla Josepha s Antonií von Nerlich roku 1785 je jako ženichův otec zapsán Joseph Anton. Zda je ženich dvouletým Carlem z lenního soupisu, zůstává otevřené. U dítěte pokřtěného 21. 3. 1751 v Rettkau je otec výslovně Franz Joseph. V roce 1752 by tomuto dítěti byl nejvýše jeden rok.",
+        "Otec v rettkauském křtu 21. 4. 1740 je mladší baron Joseph von Güller, manžel Marie Antonie von Rüffer. Zápis neuvádí jeho další jméno ani rodiče. Totožnost s Josephem Antonem zůstává otevřená."
       ],
       "vztahy": [
         {
@@ -6509,7 +6515,7 @@
           {
             "jmeno": "Pruští Gillernové 18.–20. století",
             "stav": "lit",
-            "pozn": "Dominika (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici – dcera mladšího barona von Güller a Marie Antonie, patrně rozené von Rüffer; Karl-Joseph (1743–1793), major – nedoloženo; tenorista Hugo von Gillern alias Hugo Krüger (* 11. 1. 1829 Vratislav, † 1871 Berlín), syn pruského důstojníka Dominika von Gillern a Henriette roz. Krüger; kapitán Georg svobodný pán z Gillernů z Vratislavi, padl 2. 12. 1870 u Champigny; baron z Gillernů na Kulmikau (dcera † 1793). Do které větve patří, zatím nevíme",
+            "pozn": "Dominika (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici – dcera mladšího barona Josepha von Güller a Marie Antonie von Rüffer, jak dokládá také křest sestry Marie Gustavy roku 1740; Karl-Joseph (1743–1793), major – nedoloženo; tenorista Hugo von Gillern alias Hugo Krüger (* 11. 1. 1829 Vratislav, † 1871 Berlín), syn pruského důstojníka Dominika von Gillern a Henriette roz. Krüger; kapitán Georg svobodný pán z Gillernů z Vratislavi, padl 2. 12. 1870 u Champigny; baron z Gillernů na Kulmikau (dcera † 1793). Do které větve patří, zatím nevíme",
             "profil": "prusove"
           },
           {

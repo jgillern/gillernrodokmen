@@ -1,0 +1,18 @@
+# Čp. 82 ve Velké Jesenici: Svobodovi a Ruferovi
+
+Dřívější odečty dvou křtů potvrzují, že **Jan Svoboda**, chalupník a obuvník, a **Františka rozená Ruferová** měli v čp. 82 dcery Marii Františku (* 9. 3. 1899) a Boženu (* 2. 7. 1906). Oba zápisy uvádějí sňatek rodičů **18. 5. 1892**. Františčin otec **Josef Rufer** je uváděn jako chalupník z čp. 82 a u obou porodů se uvádí bába **Kateřina Klosová z čp. 113**. Porodní bába je samostatná rubrika. Vdova Františka je roku 1921 v čp. 82 majitelkou. Dochované pracovní poznámky čtou její datum narození jako 20. 9. 1869 u křtů dcer a 2. 9. 1869 v archu 1921. [Křest Marie Františky, 170-7314, s. 100, sn. 108 dole](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9JQ-4VY1) · [Křest Boženy, s. 136, sn. 148, druhý zápis](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9JQ-4VTK) · [Sčítání 1921, sn. 277](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9LR-MCSC).
+
+| Údaj | Stav ověření |
+|---|---|
+| Prarodiče Marie a Boženy po otci | Chybějí jména obou, rodné příjmení babičky a jejich místo či čp. |
+| Prarodiče po matce | Josef Rufer, chalupník z čp. 82, je doložen dřívějším odečtem. U manželky chybí jméno, rodné příjmení, původ a čp. |
+| Kmotrovství a případní zástupci kmotrů | Chybí jména, role a adresy kmotrů u obou dcer. |
+| Sňatek 18. 5. 1892 | Datum je citováno v obou křtech. Vlastní sňatek, rodiče a svědci nejsou ověřeni. Kandidátní svazek Velká Jesenice O 1871–1906 má sign. 170-7315. Křestní kniha 170-4127 pokrývá obě uváděná data Františčina narození. [Matriční katalog](https://www.rodovod.cz/matriky/soa-zamrsk/velka-jesenice). |
+
+V místním pracovním adresáři nebyly nalezeny uložené reprodukce těchto dvou křtů. Dřívější reporty obsahují souhrnný odečet výše, bez přepisu úplných rodičovských rubrik a kmotrů. Pro přesný výpis zůstává potřeba znovu prohlédnout u obou křtů sloupce rodičů a kmotrů včetně pokračování na protilehlé straně a samostatně otevřít sňatek z 18. 5. 1892. Z doložených údajů nelze potvrdit ani vyloučit osobní nebo příbuzenskou vazbu na Beranovy a Kozákovy.
+
+Pro nezávislou kontrolu nebylo ve webově indexovaných veřejných výsledcích možné ztotožnit jmenovce s Janem Svobodou z čp. 82 pomocí jeho řemesla nebo příbuzných. Přepis místního památníku z roku 1921 Jana Svobodu ani osobu příjmením Rufer mezi vyjmenovanými neuvádí. Tato absence nedokládá dobu ani příčinu Janova úmrtí. Soupisy válečných ztrát, seznamy hrobů a neověřené shody podle příjmení tedy nepřinesly další členy rodiny. [Přepis místního pomníku](https://www.vets.cz/vpm/8458-pomnik-obetem-1-svetove-valky/) · [VHÚ, rozsah seznamů válečných ztrát](https://www.vhu.cz/knihovna/seznamy-padlych-zemrelych-nezvestnych-ranenych-ci-zajatych-v-1-svetove-valce/).
+
+Vedle dříve uvedené knihy cizinců existuje v katalogové cache fondu Archiv obce Velká Jesenice **inv. č. 39, 1850–1907**, kniha vydaných pracovních a čeledínských knížek a domovských listů. Časově může zachytit předválečnou domácnost nebo zaměstnání u známé osoby. Konkrétní jméno ani veřejný snímek knihy nebyly v této kontrole ověřeny. [Katalogový identifikátor jednotky](https://aron.vychodoceskearchivy.cz/apu/0faa5aad-8a82-4b1c-bbfa-cf0e92c8c931).
+
+Cílený dotaz v ANNO pro roky 1890–1922 s variantami Jan/Johann Svoboda/Swoboda a Josef Rufer/Ruffer a s českými i německými tvary místního jména vrátil osm publikací. Kontrola úryvků všech osmi ukázala jmenovce nebo místa mimo hledanou obec. Například ve vydání *Čechu* z 14. 2. 1915 jsou na stejné stránce Velká Jesenice a Jan Svoboda. Podle úryvků se Velká Jesenice vztahuje k Václavu Hoffmannovi a u Jana Svobody stojí Čečelice. To je výsledek kontroly OCR kontextu. [ANNO, Čech, snímek 12](https://anno.onb.ac.at/cgi-content/anno?aid=cdb&datum=19150214&seite=12).

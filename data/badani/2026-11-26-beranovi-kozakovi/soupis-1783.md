@@ -26,3 +26,9 @@ Přímý vyhledávací index liberecké knihovny určuje ročník, dvojčíslo a
 Samostatná veřejná edice nebo citace jmen pro Libuň a Kněžnice se ve zkoušených veřejných rejstřících neobjevila. V časopisu *Z Českého ráje a Podkrkonoší* č. 22 se našla až citace jiného dílu tohoto soupisu, roč. 12, s. 117, o osadě Mydlov, takže jeho osoby se k této rešerši nevztahují. [Muzeum Českého ráje, přetisk svazku 22](https://www.muzeum-turnov.cz/wp-content/uploads/2026/11/ZCRP-c.-22_2009.pdf).
 
 Přímý katalogový dotaz Moravské zemské knihovny na přesný název včetně varianty bez diakritiky nenašel žádný stejnojmenný titul.
+
+## Dostupnost stránek ve veřejném prohlížeči
+
+Dne 26. 11. 2026 po 19:25 CET se v běžném prohlížeči otevřelo dvojčíslo se seznamem stran. Po volbě konkrétní tištěné strany **1** zůstalo v prohlížeči sdělení „K tomuto dokumentu nyní nemáte přístup“ a jako jediná licence **Studovna**. Prohlížeč výslovně odkazuje na uživatelský počítač v budově knihovny. Vzdálený obraz ani OCR obsahu článku nebyly přečteny. Katalogové označení veřejného objektu tak pro toto dvojčíslo nedokládá veřejnou dostupnost jeho obrazu. [Přímo ověřená tištěná s. 1](https://kramerius.kvkli.cz/view/uuid:d225a68d-5db0-411d-9a5c-7b87ddd9c679?page=uuid:e2f0db99-ac1c-11ec-b993-001b63bd97ba).
+
+K výskytu hledaných osob nebo domácností tedy nelze uvést pozitivní ani negativní výsledek. Libuň čp. 32 a Kněžnice čp. 69 pocházejí z matričního dokladu 1843. Jejich použití jako čísel v soupisu 1783 by vyžadovalo ověření záhlaví a způsobu číslování podle samotného článku.

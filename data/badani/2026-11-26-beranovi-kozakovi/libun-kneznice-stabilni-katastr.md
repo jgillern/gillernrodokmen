@@ -1,0 +1,20 @@
+# Stabilní katastr 1842: Libuň čp. 32 a Kněžnice čp. 69
+
+Z roku 1843 je přímo z křtu Františka Kozáka doložen Václav Kozák, sedlák z Libuně čp. 32, a jeho manželka Anna rozená Brunclíková z Kněžnic čp. 69. Zápis neurčuje jméno držitele kněžnické usedlosti roku 1842. U Želejova čp. 1 označuje Františkova otce za podruha. Jde o Želejov v dnešní obci Hrubá Skála. [Výchozí čtení a archivní lokátor](zelejov-libun-bozkov.md)
+
+## Přesné katastry a rok
+
+| Historické sídlo | Identifikátor v současném katalogu ČÚZK | Doložený dobový mapový podklad |
+|---|---|---|
+| Libuň, okres Jičín | k. ú. **683523** | Stabilní katastr **1842**, měřítko **1 : 2 880**, podklad ÚAZK. |
+| Kněžnice, okres Jičín | k. ú. **667081** | Stabilní katastr **1842**, měřítko **1 : 2 880**, podklad ÚAZK. |
+
+Rok a existence mapového podkladu pro oba katastry jsou nezávisle doloženy v práci Ivy Pavlíčkové *Dlouhodobé změny využití ploch v CHKO Český ráj* (UK, 2006), s. 116. Obrázek 21 je pouze výřez mapového podkladu a neuvádí ani jednu z hledaných usedlostí. Blízký Libunec je v práci výslovně veden jako vlastní katastr. Veřejně publikovaná indikační skica mlýna v Libunci z roku 1842 proto nepokrývá ves Libuň čp. 32. [ČÚZK – Libuň](https://cuzk.gov.cz/Dokument.aspx?AKCE=META%3ASESTAVA%3AMDR002_XSLT%3AWEBCUZK_ID%3A683523) · [ČÚZK – Kněžnice](https://cuzk.gov.cz/Dokument.aspx?AKCE=META%3ASESTAVA%3AMDR002_XSLT%3AWEBCUZK_ID%3A667081) · [Pavlíčková, s. 50 a 116](https://dspace.cuni.cz/bitstream/handle/20.500.11956/95462/120292495.pdf?isAllowed=y&sequence=1) · [Libunec – publikované výřezy](https://www.vodnimlyny.cz/ru/mlyny/estates/detail/1306-mlyn-v-libunci)
+
+## Jaký pramen může doložit držitele
+
+- **Indikační skica, fond NA Stabilní katastr – indikační skici (SK-IS).** Národní archiv odkazuje pro veřejné obrazy českých skic do Archivu ČÚZK, v němž má skica vlastní volbu vedle císařských otisků. Skici bývají doplněny o jména držitelů a domovní čísla. Černá čísla označují stavební parcely a červená parcelní čísla pozemků. Barva stavby ani černé parcelní číslo samy jméno nebo číslo popisné neurčují. Webová aplikace se načetla, ale v použitém prohlížeči neotevřela mapu kvůli požadavku WebGL2. Přímá služba katalogových kladů předává data pouze s aplikačním tokenem. Nezávisle přístupný jmenný sken pro jeden z obou domů se nepodařilo najít, signaturu jednotlivých skic a označení listů proto neuvádím. [Národní archiv](https://www.nacr.cz/verejnost/badatelna/digitalni-badatelna/indikacni-skici) · [Archiv ČÚZK](https://ags.cuzk.cz/archiv/) · [ČÚZK, sborník o stabilním katastru](https://cuzk.gov.cz/Urady/Zememericky-urad/Dalsi-informace/UAZK/Konfrence-1817-2017/Sbornik_1817-2017.aspx)
+- **Písemný elaborát, NA, NAD 57, Stabilní katastr 1826–1878 (duplikát).** Doloženy jsou archivní pomůcky **477/01, hlavní svazek**, a **477/02, svazek II – rejstřík obcí, osad a místních částí**. Druhý svazek má určit odkaz na položku a karton pro konkrétní katastr. V hlavním svazku je pak potřeba identifikovat protokol stavebních parcel a případný abecední rejstřík držitelů. Ve veřejném soupisu jsou tato čísla evidencí pomůcek, nikoli čísla kartonů. Historický odkaz do badatelny fondu 76 se neotevřel a nebylo možné prověřit konkrétní položky Libuň a Kněžnice ani najít veřejný jmenný obraz. [Oficiální soupis badatelny Dejvice, s. 16](https://www.nacr.cz/wp-content/uploads/2019/01/pomucky_dejvice.pdf#page=16)
+- **Císařský povinný otisk.** Je samostatným mapovým dokladem tvaru zástavby a parcelních čísel. Pozemková a domovní čísla se musí ověřovat samostatně. Publikovaný výzkum s mapou z roku 1842 nedává jména držitelů ani vazbu historických čísel popisných na parcely. [ČÚZK, popis archivních map](https://www.cuzk.gov.cz/Urady/Zememericky-urad/Dalsi-informace/UAZK/Prohlizeni-archivalii%2C-archivni-mapy.aspx)
+
+**Výsledek.** Držitelé obou usedlostí z katastru kolem roku 1842 zatím nejsou nezávisle potvrzeni. Ve veřejných historických a bibliografických zdrojích se nepodařilo ověřit druhý zápis se shodou jména, čísla domu a doby. Mapový podklad z roku 1842 pro oba hledané katastry doložen je.

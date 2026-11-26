@@ -31,8 +31,7 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 
 ## Archivy – knihy, které nejsou naskenované
 
-- **SOkA Benešov, Archiv obce Pravonín:** domovská matrika / seznam příslušníků obce – kdy a odkud Beranovi získali domovské právo
-  (nájem pozemku v roce 1920 je doložen, stěhování v letech 1910–1912 zůstává hypotézou); případně sčítání lidu 1921 (uvádí místo narození a domovskou obec každého obyvatele).
+- **SOkA Benešov, Archiv obce Pravonín, NAD 138, AP 146.** Archivní popis výslovně uvádí matriku příslušníků obce, domovské listy a zápisy ze schůzí. V seznamu mohou být Josefové Beranovi, přijetí k domovskému právu nebo podklad k nájmu obecního pastviště v roce 1920. Jednotlivý domovský list a předchozí domovská obec rodiny jsou zatím neurčené. Školní fond NAD 730 obsahuje třídní katalogy, fond NAD 2150 hlavní matriky žáků. [Fondy, pomůcky a rozsah evidence](badani/2026-11-26-beranovi-kozakovi/domovske-listy-a-skolni-matriky.md).
 
 - **SOkA Písek, Archiv obce Louka:** domovská matrika / seznam příslušníků obce – kdy a odkud Gillernové získali domovské právo
   (Augustin byl do Louky příslušný 1939, nejspíš po otci Janovi).

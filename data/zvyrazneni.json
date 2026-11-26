@@ -3910,5 +3910,17 @@
   ],
   "status": "ok",
   "note": "Celé oznámení od spisové značky po soud, datum a tiskovou značku."
+ },
+ "o_1896_kozak_vichova": {
+  "boxes": [
+   [
+    0.008,
+    0.012,
+    0.99,
+    0.95
+   ]
+  ],
+  "status": "ok",
+  "note": "Čitelný levý okraj se jmény obou snoubenců. Samostatný pravý okraj se svědky je v badatelské zprávě."
  }
 }

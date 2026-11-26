@@ -9,3 +9,5 @@
 | 125 | Hned nahoře začíná „1971“. Úmrtí 1970 ze snímku 124 dále nepokračují. |
 
 Rodinný přepis parte uvádí úmrtí 8. 2. 1970 a ohlášený pohřeb 11. 2. z Bukové č. 8, přes kostel k rodinnému hrobu v Pravoníně. Parte tak dokládá výchozí místo pohřbu a zamýšlené místo uložení. Místo úmrtí z tohoto znění určit nelze. Josef Beran mladší z téže adresy Buková č. 8 je naopak zapsán v ročním výčtu za rok 1975. Jde tedy o konkrétní případ, kdy absence v kronice nevylučuje vazbu na Bukovou č. 8 ani pravonínský pohřeb. Z jednoho srovnání nelze určit celkovou úplnost kroniky ani pravidla, podle nichž kronikář úmrtí vybíral. [Pracovní poznámky k parte](hrbitov-pravonin.md) · [Přepis sousedních ročníků a Josefa Berana](kronika-zemreli-1957-1986.md)
+
+Křest udává narození Ludmily 18. 10. 1893. K 8. 2. 1970 jí bylo 76 dokončených let, rodinný přepis smutečního oznámení uvádí 77 let. [Křest v rodinném katalogu](../../../vyrezy/n_1893_svatkova_ludmila.jpg) · [Evidence parte](../../udaje_od_rodiny.md).

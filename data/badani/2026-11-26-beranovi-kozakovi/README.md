@@ -12,6 +12,8 @@ Tatáž kronika k roku 1920 uvádí, že zastupitelstvo Josefu Beranovi pronajal
 
 Emilie Marie (* 8. 7. 1882, Robousy čp. 33) má shodné jméno, obec a otce Františka. Ztotožnění s matkou Josefa Berana zůstává otevřené. U rodiny této Emilie je doložen sňatek jejích rodičů Františka Kozáka a Barbory Kaplové 15. ledna 1867 a sňatek jejího bratra **Antonína Kozáka** s Františkou Víchovou 7. února 1896. Roku 1896 žil Antonín v čp. 33, otec je uveden v čp. 30. Nevěstin ani ženichův údaj sám nevysvětluje číslo 75 z roku 1936. [Emiliin křest, Robousy čp. 33](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-TDDX) · [Sňatek Antonína, Jičín 70-3365, fol. 4, zápis 2, sn. 6](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-THHV)
 
+V této rodině se v odstupu 51 let opakuje také čp. **37**. Při křtu Barbory 1845 figuruje Marie Frýbová, manželka Františka Frýby z Robous č. 37. Při sňatku jejího syna Antonína 1896 vystupuje jako druhý svědek Frýba ze stejného čísla. Svědkovo křestní jméno ani příbuznost s Marií z těchto dvou záznamů určit nelze. [Dva výřezy sňatku a výřez křtu](antonin-svedci-a-kmotra.md).
+
 ## Kudy hledat doklad spojující obě rodiny
 
 | Otázka | Nejpřímější dosud známý pramen | Co je skutečně dostupné |

@@ -3586,5 +3586,65 @@
   ],
   "status": "ok",
   "note": "Předposlední zápis listu, od data 21. tohoto měsíce po posledního kmotra jménem Carl Joseph baron von Giller."
+ },
+ "n_1752_chleby_josef_giller_ostrov": {
+  "boxes": [
+   [
+    0.082,
+    0.1,
+    0.94,
+    0.89
+   ]
+  ],
+  "status": "ok",
+  "note": "Křest Anny v Chlebích. Josef Giller z Ostrova v poslední řádce svědků."
+ },
+ "n_1752_bobnice_johana_gillerova": {
+  "boxes": [
+   [
+    0.083,
+    0.012,
+    0.925,
+    0.987
+   ]
+  ],
+  "status": "ok",
+  "note": "Křest Václava v Bobnicích. Johana a označení jejího manžela v dolní části."
+ },
+ "n_1752_chleby_johana_gillerova": {
+  "boxes": [
+   [
+    0.105,
+    0.04,
+    0.906,
+    0.895
+   ]
+  ],
+  "status": "ok",
+  "note": "Křest Jana v Chlebích. Johana, manžel Josef de Giller a Bor v řádcích svědků."
+ },
+ "n_1753_chleby_josef_de_giller_svedek": {
+  "boxes": [
+   [
+    0.045,
+    0.1,
+    0.955,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "Křest Marie Magdalény v Chlebích. Josef de Giller v poslední řádce svědků."
+ },
+ "n_1753_bobnice_johana_gillerova_kmotra": {
+  "boxes": [
+   [
+    0.045,
+    0.025,
+    0.95,
+    0.965
+   ]
+  ],
+  "status": "ok",
+  "note": "Křest Alžběty v Bobnicích. Johana z Boru je uvedena jako kmotra."
  }
 }

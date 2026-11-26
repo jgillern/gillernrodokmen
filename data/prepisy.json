@@ -1185,7 +1185,7 @@
  },
  "n_1753_budimerice_kurka_johana_svedkyne": {
   "orig": "[Podstatná část] 8 | 9. Z Budimerzicz. Ditě Matej. O. Frantissek Kurka. M. Anna […] Johana Gillerowa z Boru.",
-  "cs": "Matěj, syn Františka Kurky a Anny z Budiměřic, se narodil 8. a byl pokřtěn 9. ledna. Johana Gillerová z Boru svědčí u křtu. Dne 30. ledna je na protější straně rychtář František Kurka kmotrem jejího syna Františka Ludvíka Alexandra."
+  "cs": "Matěj, syn Františka Kurky a Anny z Budiměřic, se narodil 8. a byl pokřtěn 9. ledna. Johana Gillerová z Boru svědčí u křtu. Dne 30. ledna je na protější straně rychtář František Kurka kmotrem jejího syna Františka Ludvíka Alexandra. Otec Matěje je uveden bez úřadu. Podle oddavek z roku 1749 a soupisu z roku 1745 v Budiměřicích žili dva Františkové Kurkové. Matějovým otcem byl pravděpodobně manžel Anny Giršákové."
  },
  "n_1749_kochova_ludmila_anna": {
   "orig": "[Výběr] Ludmilla Anna […] Jacobus Koch inquil[inus], M. Johanna, subd[iti].",
@@ -1194,5 +1194,25 @@
  "n_1757_kochova_anna_katerina": {
   "orig": "[Výběr] Anna Catharina […] Jacobus Koch Inquilinus […] Dorothea […].",
   "cs": "Anna Kateřina byla dcerou podruha Jakuba Kocha a jeho ženy Doroty. Kmotrou byla Kateřina, manželka Ferdinanda Kaufmana. Na základě jména, města, otce, povolání a věku je toto dítě nejpravděpodobnější totožností zemřelé Anny z dubna 1758."
+ },
+ "n_1752_chleby_josef_giller_ostrov": {
+  "orig": "[Podstatná část zápisu] 14 | 16. Ze Wsy Chleb. Ditě Anna. O. Jan Kr[e?]czyk Saused z Chleb, M. Anna Podd[ani] Podebradi. K. Lydmilla Urbankowa. S. Dorotha W[a?]ssowa, P. Jozef Giller Forzst z Wostrowa.",
+  "cs": "Anna, dcera Jana a Anny z Chleb, se narodila 14. července a byla pokřtěna 16. července. Kmotrou byla Ludmila Urbánková. Mezi svědky je pan Josef Giller, fořt z Ostrova. Shoda jména, povolání a okruhu svědků ukazuje na Maximiliána Josefa Emanuela. Který Ostrov měl písař na mysli, zůstává otevřené."
+ },
+ "n_1752_bobnice_johana_gillerova": {
+  "orig": "[Podstatná část zápisu] 14 | 15. Z Bobnicz. Ditě Waczlaw. O. Jan Lyzal [?] Sedlak M. Anna, Podd[ani] Podebradi. K. Matey Wrana Chalupnik, S. Jan […] Kowarz, Johana Manželka P. Jozefa Gillera Forsta z Boru Bobnicky[ho].",
+  "cs": "Václav, syn Jana a Anny z Bobnic, se narodil 14. září a byl pokřtěn 15. září. Kmotrem je chalupník Matěj Vrána. Mezi svědky je Johana, manželka pana Josefa Gillera, fořta z Boru Bobnického."
+ },
+ "n_1752_chleby_johana_gillerova": {
+  "orig": "[Podstatná část zápisu] 12 | 13. Z Chleb. Ditě Jan. O. Waczlaw S[s?]andera M. Lydmilla Podani Podebradi. K. Matey Wogner Sedlak z Bobnicz. S. Jakub Urbanek z Chleb, Johanna Gillerowa Manželka P. Jozefa de Giller Forzsti z Boru Bobnickyho.",
+  "cs": "Jan, syn Václava a Ludmily, se narodil 12. prosince a byl pokřtěn 13. prosince. Kmotrem byl Matěj Vogner, sedlák z Bobnic. Svědčili Jakub Urbánek z Chleb a Johana Gillerová, manželka pana Josefa de Giller, fořta z Boru Bobnického."
+ },
+ "n_1753_chleby_josef_de_giller_svedek": {
+  "orig": "[Podstatná část zápisu] 3 | 5. Ze Chleb. Ditě Marie Magdalena, O. Jan Hodek Chalupnik, M. Anna Podani Podebrad. K. Anna Kr[…]kowa, S. Lydmilla Urbanowa, Matěg Wogner, P. Jozef de Giller.",
+  "cs": "Marie Magdaléna, dcera chalupníka Jana Hodka a Anny, se narodila 3. srpna a byla pokřtěna 5. srpna. Svědky byli Ludmila Urbanová, Matěj Vogner a pan Josef de Giller. Povolání ani bydliště Josefa tento zápis neuvádí."
+ },
+ "n_1753_bobnice_johana_gillerova_kmotra": {
+  "orig": "[Podstatná část zápisu] 6 | 7. Z Bobnicz. Ditě Alžbeta, O. Matěg Wrana Chalupnik M. Anna Podani Podebrad. K. Johanna Gillerowa z Boru. S. Katerzina Wognerowa, Daniel Hollan Sedlak z Bobnicz.",
+  "cs": "Alžběta, dcera chalupníka Matěje Vrány a Anny, se narodila 6. srpna a byla pokřtěna 7. srpna. Kmotrou byla Johana Gillerová z Boru. Svědčili Kateřina Vognerová a Daniel Hollan z Bobnic. Matěj Vrána má stejné jméno, obec a postavení jako kmotr ze září 1752, kdy svědčila Johana."
  }
 }

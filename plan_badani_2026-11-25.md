@@ -1,5 +1,7 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
+[Výsledek třetího kola, ověření slezských originálů a čtyři další kroky](data/badani/2026-11-26-treti-kolo/README.md)
+
 [Průběh dvou navazujících kol z 26. listopadu a nově vybrané prameny](data/badani/2026-11-26-dve-kola/README.md)
 
 **Aktivní úkol po revizi 25. listopadu je Josefovo rodiště a Maximiliánův příchod z okruhu Hammeru do Čech.** Další dvě původní priority jsou na Janův pokyn odloženy. Dosavadní nálezy, odkazy a podmínky pro jejich obnovení zůstávají níže.

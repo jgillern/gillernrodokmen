@@ -3144,7 +3144,7 @@
   "svazek": "nymburk_07",
   "strana": "s. 122, 3. zápis vlevo, sn. 67",
   "odkaz": "https://ebadatelna.soapraha.cz/d/10406/67",
-  "shrnuti": "Matěj, syn Františka Kurky a Anny z Budiměřic, se narodil 8. a byl pokřtěn 9. ledna. Johana Gillerová z Boru svědčí u křtu. Dne 30. ledna je na protější straně rychtář František Kurka kmotrem jejího syna Františka Ludvíka Alexandra."
+  "shrnuti": "Matěj, syn Františka Kurky a Anny z Budiměřic, se narodil 8. a byl pokřtěn 9. ledna. Johana Gillerová z Boru svědčí u křtu. Dne 30. ledna je na protější straně rychtář František Kurka kmotrem jejího syna Františka Ludvíka Alexandra. Otec Matěje je uveden bez úřadu. Podle oddavek z roku 1749 a soupisu z roku 1745 v Budiměřicích žili dva Františkové Kurkové. Matějovým otcem byl pravděpodobně manžel Anny Giršákové."
  },
  {
   "klic": "n_1749_kochova_ludmila_anna",
@@ -3165,5 +3165,55 @@
   "strana": "fol. 31v, sn. 35",
   "odkaz": "https://ebadatelna.soapraha.cz/d/11841/35",
   "shrnuti": "Anna Kateřina byla dcerou podruha Jakuba Kocha a jeho ženy Doroty. Kmotrou byla Kateřina, manželka Ferdinanda Kaufmana. Na základě jména, města, otce, povolání a věku je toto dítě nejpravděpodobnější totožností zemřelé Anny z dubna 1758."
+ },
+ {
+  "klic": "n_1752_chleby_josef_giller_ostrov",
+  "druh": "N",
+  "datum": "14.–16. 7. 1752",
+  "nazev": "Chleby, křest Anny. Svědkem je Josef Giller, fořt z Ostrova",
+  "svazek": "nymburk_07",
+  "strana": "s. 111 vpravo, sn. 61",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10406/61",
+  "shrnuti": "Anna, dcera Jana a Anny z Chleb, se narodila 14. července a byla pokřtěna 16. července. Kmotrou byla Ludmila Urbánková. Mezi svědky je pan Josef Giller, fořt z Ostrova. Shoda jména, povolání a okruhu svědků ukazuje na Maximiliána Josefa Emanuela. Který Ostrov měl písař na mysli, zůstává otevřené."
+ },
+ {
+  "klic": "n_1752_bobnice_johana_gillerova",
+  "druh": "N",
+  "datum": "14.–15. 9. 1752",
+  "nazev": "Bobnice, křest Václava. Svědčí Johana, manželka fořta Josefa Gillera",
+  "svazek": "nymburk_07",
+  "strana": "s. 114 vlevo, sn. 63",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10406/63",
+  "shrnuti": "Václav, syn Jana a Anny z Bobnic, se narodil 14. září a byl pokřtěn 15. září. Kmotrem je chalupník Matěj Vrána. Mezi svědky je Johana, manželka pana Josefa Gillera, fořta z Boru Bobnického."
+ },
+ {
+  "klic": "n_1752_chleby_johana_gillerova",
+  "druh": "N",
+  "datum": "12.–13. 12. 1752",
+  "nazev": "Chleby, křest Jana. Svědčí Johana Gillerová z Boru Bobnického",
+  "svazek": "nymburk_07",
+  "strana": "s. 120 vlevo, sn. 66",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10406/66",
+  "shrnuti": "Jan, syn Václava a Ludmily, se narodil 12. prosince a byl pokřtěn 13. prosince. Kmotrem byl Matěj Vogner, sedlák z Bobnic. Svědčili Jakub Urbánek z Chleb a Johana Gillerová, manželka pana Josefa de Giller, fořta z Boru Bobnického."
+ },
+ {
+  "klic": "n_1753_chleby_josef_de_giller_svedek",
+  "druh": "N",
+  "datum": "3.–5. 8. 1753",
+  "nazev": "Chleby, křest Marie Magdalény, dcery Jana Hodka. Svědkem je Josef de Giller",
+  "svazek": "nymburk_07",
+  "strana": "s. 133 vpravo, první srpnový zápis, sn. 72",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10406/72",
+  "shrnuti": "Marie Magdaléna, dcera chalupníka Jana Hodka a Anny, se narodila 3. srpna a byla pokřtěna 5. srpna. Svědky byli Ludmila Urbanová, Matěj Vogner a pan Josef de Giller. Povolání ani bydliště Josefa tento zápis neuvádí."
+ },
+ {
+  "klic": "n_1753_bobnice_johana_gillerova_kmotra",
+  "druh": "N",
+  "datum": "6.–7. 8. 1753",
+  "nazev": "Bobnice, křest Alžběty, dcery Matěje Vrány. Kmotrou je Johana Gillerová z Boru",
+  "svazek": "nymburk_07",
+  "strana": "s. 133 vpravo, druhý srpnový zápis, sn. 72",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10406/72",
+  "shrnuti": "Alžběta, dcera chalupníka Matěje Vrány a Anny, se narodila 6. srpna a byla pokřtěna 7. srpna. Kmotrou byla Johana Gillerová z Boru. Svědčili Kateřina Vognerová a Daniel Hollan z Bobnic. Matěj Vrána má stejné jméno, obec a postavení jako kmotr ze září 1752, kdy svědčila Johana."
  }
 ]

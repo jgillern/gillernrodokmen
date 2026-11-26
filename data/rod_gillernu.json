@@ -1296,6 +1296,10 @@
         {
           "nazev": "G. Wendt, Geschichte der Königlichen Ritter-Akademie zu Liegnitz I, žák č. 662",
           "odkaz": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11494262_00069/full/1500,/0/default.jpg"
+        },
+        {
+          "nazev": "Pohřeb Antonie von Giller, rozené von Rüffer, u volovských karmelitánů, 27. 2. 1745. Volov D 1320-2, sn. 244 vlevo, druhý zápis, Doppelseite 00243.",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPD-49B5-6"
         }
       ],
       "zaznamy": [
@@ -1306,8 +1310,7 @@
         "z_1810_gillern_dominika",
         "o_1827_gillern_hinke",
         "n_1828_gillern_oswald",
-        "z_1897_gillern_oswald",
-        "z_1745_wohlau_antonia_ruffer"
+        "z_1897_gillern_oswald"
       ]
     },
     "rodopis": {
@@ -2667,9 +2670,7 @@
       ],
       "zaznamy": [
         "n_1736_krehlau_giller_kmotra",
-        "o_1747_krehlau_giller_maria_josepha",
-        "z_1746_wohlau_rosalia_schwarzenfeld",
-        "z_1751_wohlau_caspar_schwarzenfeld"
+        "o_1747_krehlau_giller_maria_josepha"
       ],
       "vztahy": [
         {
@@ -2700,6 +2701,14 @@
         {
           "nazev": "Schlesische Instantien-Notiz 1753, s. 306, městská rada volovská. Philipp August Noha von Schwarzenfeld",
           "odkaz": "https://www.digitale-sammlungen.de/en/view/bsb10015100?page=306"
+        },
+        {
+          "nazev": "Pohřeb Rosalie, manželky volovského radního von Schwartzenfeld, 22. 1. 1746. Volov D 1320-2, sn. 246 vlevo, druhý lednový zápis.",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPD-49BG-2"
+        },
+        {
+          "nazev": "Pohřeb šestiletého Caspara, syna volovského radního Augusta von Schwarzenfeld, 15. 9. 1751. Volov D 1320-2, sn. 255 vlevo, za 11. zářím, Doppelseite 00254.",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPD-49BL-S"
         }
       ]
     },

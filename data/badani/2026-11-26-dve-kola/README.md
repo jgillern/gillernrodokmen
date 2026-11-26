@@ -51,3 +51,5 @@ U Josefa oba výpočty představují **odlišné životní situace**. V lednu 17
 3. **Využít online vzájemné svědectví rodin.** Místo dalšího celoplošného čtení Poděbrad lze v již lokalizovaných matrikách sledovat svatbu samotného rychtáře Františka Kurky s Annou v Budiměřicích a jeho rodinu zpět od roku 1744. Stejný postup u Václava Součka a Justiny může ukázat předchozí působiště nebo původ manželky. Případný svědek Giller nebo shodný slezský predikát by otevřel nové místo k prověření. Dosavadní známé vazby samy o sobě nevypovídají o Johannině rodném příjmení. [Výřezy s údaji rodin a přehled už přečteného](kolo-2/bor/README.md)
 
 [Druhé kolo má vlastní plán sepsaný po prvních zjištěních](kolo-2-plan.md) · [Navazující očíslovaný badatelský deník](../2026-11-25-josef-maximilian/denik.md)
+
+Šest nových a šest opravených matričních položek je uloženo také samostatně, se stejnými klíči a poli jako společný katalog. U oprav je tu celé nové znění historického záznamu. Společný soubor `data/zaznamy.json` při tomto předání stále zachycuje starší stav. [Strojově čitelné matriční prameny z obou kol](matricni-zaznamy.json)

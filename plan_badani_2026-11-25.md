@@ -1,5 +1,7 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
+[Osmé kolo. Josef, Maximilián a Baltazar před rokem 1747. Obnovený výzkum Heinricha Christofa a Johanna Christofa](data/badani/2026-11-26-osme-kolo/plan.md)
+
 [Sedmé kolo. Josefovo rodiště a první sňatek Maximiliána s Johannou](data/badani/2026-11-26-sedme-kolo/README.md) · [Plán](data/badani/2026-11-26-sedme-kolo/plan.md) · [Deník od č. 860](data/badani/2026-11-26-sedme-kolo/denik.md)
 
 [Šesté kolo. Josefova sestra v Pardubicích, kmotři z Býchor a civilní služba za slezských válek](data/badani/2026-11-26-seste-kolo/README.md) · [Výchozí plán](data/badani/2026-11-26-seste-kolo/plan.md) · [Badatelský deník č. 840–859](data/badani/2026-11-26-seste-kolo/denik.md)
@@ -12,7 +14,7 @@
 
 [Průběh dvou navazujících kol z 26. listopadu a nově vybrané prameny](data/badani/2026-11-26-dve-kola/README.md)
 
-**Aktivní úkol po revizi 25. listopadu je Josefovo rodiště a Maximiliánův příchod z okruhu Hammeru do Čech.** Další dvě původní priority jsou na Janův pokyn odloženy. Dosavadní nálezy, odkazy a podmínky pro jejich obnovení zůstávají níže.
+**Od večera 26. listopadu drží první místo Josefovo rodiště a Maximiliánova svatba a cesta do Čech. Druhou prioritou jsou předci Heinricha Christofa a datace narození jeho i jeho syna Johanna Christofa.** Samostatné hledání vazby na Lilienfeld zůstává odloženo.
 
 **Výsledek pokračování.** [Personální změny v Poděbradech roku 1747 a jejich důsledky pro Josefa](data/badani/2026-11-25-josef-maximilian/provedeno/README.md). V první řadě hledáme revír polního myslivce Stumpfa, penzionovaného 27. 5. 1747, a první následnou výplatu. Na slezské straně byl pomocí dobového adresáře identifikován [Maximiliánův švagr ve Volově](data/badani/2026-11-25-josef-maximilian/provedeno/sestra-a-volov.md). Sňatek Eleonory v kladrubské ani v opočenské knize roku 1780 nalezen nebyl. [Přečtené matriky](data/badani/2026-11-25-josef-maximilian/provedeno/opocno-a-kladruby.md).
 
@@ -27,7 +29,7 @@
 
 [Nové zápisy do deníku, č. 753–758](data/badani/2026-11-25-josef-maximilian/denik.md). Předchozí výzkum je v [souhrnu prvního kola](data/badani/2026-11-25/README.md) a [souhrnu druhého kola](data/badani/2026-11-25-kolo2/README.md).
 
-### Odloženo · 2. Prodloužit přímou linii před generaci z Preichau
+### 2. Prodloužit přímou linii před generaci z Preichau
 
 **Výchozí bod je doložené otcovství, nikoli nejstarší výskyt jména.** V Preichau je 29. 10. 1705 Carl Heinrich výslovně synem Christopha Heinricha. Rodopis z roku 1884 řadí výše rytmistra Johanna Christofa a jeho otce, podplukovníka Heinricha Christofa. Každé z těchto dvou rodičovství potřebuje vlastní doklad. [Zápis v Preichau](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RFYL) · [Gotha, s. 276](https://sbc.org.pl/Content/859298/i635235-1884-00-0001.pdf#page=302)
 

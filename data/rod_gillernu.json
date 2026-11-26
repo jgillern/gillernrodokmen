@@ -1322,7 +1322,9 @@
         "o_1827_gillern_hinke",
         "n_1828_gillern_oswald",
         "z_1897_gillern_oswald",
-        "z_1745_wohlau_antonia_ruffer"
+        "z_1745_wohlau_antonia_ruffer",
+        "n_1718_preichau_maria_anna_friderica",
+        "n_1744_schabenau_unruh_johann_anton"
       ]
     },
     "rodopis": {
@@ -1661,7 +1663,7 @@
     },
     "johann_christoph": {
       "jmeno": "Johann Christoph svobodný pán z Gillernů",
-      "roky": "doložen 1705–1742",
+      "roky": "doložen 1705–1744",
       "stav": "doc",
       "vazba": "bratr Carla Heinricha – strýc našeho Maximiliána",
       "fakta": [
@@ -1669,8 +1671,8 @@
         "Nejspíš byl totožný s Janem de Giller, slezským rytířem z Preichau, který se v prosinci 1698 zapsal do třídy poetiky na olomoucké univerzitě.",
         "Syn Christopha Heinricha von Giller; bratři Carl Heinrich (náš předek) a Franz Joseph.",
         "Hejtman (správce) biskupského panství Preichau (dnes Przychowa u Stínavy) – v matrice roku 1710 „Administrator Capitaneatus Preichaviensis“, později „Hauptmann allhier in Preichau“; pán na Schwebedowě ve svobodném stavovském panství Milicz (v matrikách Preichau čteno „Schwibendorf / Schreibendorf“), na Rettkau a od roku 1730 na Priedemostu u Hlohova. Úřad v Preichau zastával asi do roku 1742.",
-        "Manželka Maria Martha. Děti pokřtěné v Preichau: Joseph Anton Leopold (6. 9. 1710), Maria Anna Ludovica (?) (12. 4. 1718) a Maria Barbara Francisca (3. 10. 1721); dalšími dcerami byly Maria Carolina a Maria Ludovica, které v letech 1722–1725 v Preichau kmotrovaly.",
-        "Dne 22. 5. 1742 je v oddavkách jeho dcera výslovně pojmenovaná Maria Anna Friderica a otec uveden jako dědičný pán na Rettkau. Jedním ze svědků jejího sňatku s Johannem Carlem von Unruh byl Franz Joseph von Giller, pán na Krohlau. Nevěstina matka není jmenována. Totožnost s některou ze dříve známých dcer pokřtěných v Preichau zatím není potvrzena.",
+        "Manželka Maria Martha. Děti pokřtěné v Preichau: Joseph Anton Leopold (6. 9. 1710), Maria Anna Friederica (narozena 12., pokřtěna 13. 4. 1718) a Maria Barbara Francisca (křest pravděpodobně 8. 9. 1721); dalšími dcerami byly Maria Carolina a Maria Ludovica, které v letech 1722–1725 v Preichau kmotrovaly.",
+        "Dne 22. 5. 1742 je při sňatku své dcery Marie Anny Fridericy s Johannem Carlem von Unruh uveden jako dědičný pán na Rettkau. Dne 7. 5. 1744 je jako první kmotr stejně označen při křtu jejich syna ve farní knize Schabenau.",
         "Roku 1714 byl v Krehlau kmotrem synovce Carla Wilhelma Vita.",
         "4. 6. 1732 získal spolu s bratrancem Karlem Josefem český stav svobodných pánů.",
         "Rettkau zůstalo „rodovým sídlem“ – ještě roku 1792 se jeho vnučka, kanovnice Maria Josepha svobodná paní von Giller, psala „z dědova rodového sídla Rettkau“.",
@@ -1736,7 +1738,10 @@
         "n_1683_giller_johann_christoph",
         "o_1714_giller_klinge",
         "o_1723_preichau_svedci_giller",
-        "o_1742_rettkau_friderica_giller_unruh"
+        "o_1742_rettkau_friderica_giller_unruh",
+        "n_1718_preichau_maria_anna_friderica",
+        "n_1721_preichau_maria_barbara_francisca",
+        "n_1744_schabenau_unruh_johann_anton"
       ]
     },
     "joseph_anton": {
@@ -1767,7 +1772,8 @@
       ],
       "zdroje": [
         {
-          "nazev": "Křty Preichau 1696–1750 (katolická matrika, FamilySearch, film 8218293)"
+          "nazev": "Preichau, katolická D 970, DGS 8218293, sn. 353, s. 86, č. 10, křest 6. 9. 1710",
+          "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RNMJ?i=352&lang=en"
         },
         {
           "nazev": "de.wikipedia – Przedmoście (Głogów), majitelé vsi podle místní kroniky",
@@ -3555,14 +3561,16 @@
       ]
     },
     "maria_anna_1718": {
-      "jmeno": "Maria Anna Ludovica (?) von Giller",
-      "roky": "* 12. 4. 1718 Preichau",
+      "jmeno": "Maria Anna Friederica von Giller, provdaná von Unruh",
+      "roky": "* 12. 4. 1718 Preichau, † 1753 podle rodové kroniky",
       "stav": "doc",
       "vazba": "Dcera Johanna Christopha von Giller (pozdějšího svobodného pána z Gillernů), hejtmana panství Preichau, a Marie Marthy – sestřenice našeho předka Maximiliána (* 1719); Johann Christoph byl nevlastní bratr Maximiliánova otce Carla Heinricha.",
       "fakta": [
         "Narodila se 12. 4. 1718 v Preichau (dnes Przychowa u Stínavy, Dolní Slezsko) a druhý den byla pokřtěna jako dcera urozeného rytíře a pana Johanna Christopha von Giller, hejtmana v Preichau, a paní Marie Marthy. Jméno dítěte je zapsáno jen na okraji.",
-        "Kmotry byli prastrýc Friedrich Wilhelm von Giller, rada Jeho císařského Veličenstva a úředník knížectví Lehnického (?); rytíř Heinrich (?) Leonhard (?) … na Pilgramsdorfu a Matz…dorfu (?), císařský hejtman a lesmistr; a teta Catharina Barbara roz. Nerlichová (?), manželka Carla Heinricha von Giller, pána na Hammeru – matka našeho Maximiliána.",
-        "Snad je to ta „urozená slečna Maria Ludovica, dcera pana Johanna Christopha von Giller, pána na … a Schreibendorfu, zdejšího hejtmana“, která byla 2. 1. 1725 v Preichau kmotrou; mohla to ale být i jiná, starší dcera."
+        "Kmotry byli Friedrich Wilhelm von Giller, císařský rada a komorní účetní, Heinrich Honorius Bartsch von Sternegg, přísedící zemského práva v Krnově a hejtman a lesmistr u komorního úřadu Herrnstadt, a Catharina Barbara rozená Nerlichová, manželka Carla Heinricha na Hammeru a matka Maximiliána.",
+        "Třetí křestní jméno na okraji je Friederica. Dřívější zkusmé čtení Ludovica vedlo k možné záměně s jinou dcerou Johanna Christopha, uváděnou v Preichau jako kmotra roku 1725.",
+        "Dne 22. 5. 1742 byla jako Maria Anna Friderica, dcera Johanna Christopha svobodného pána von Giller z Rettkau, oddána za Johanna Carla svobodného pána von Unruh. Jméno, titul i rodinné sídlo dobře odpovídají Friderice z Rettkau, která byla roku 1740 kmotrou spolu s Hedwig z Hammeru.",
+        "Dne 7. 5. 1744 dala společně s manželem pokřtít syna Johanna Antona Andreu Carla Friedericha Josepha. Její otec z Rettkau je jmenován mezi kmotry. Rodová kronika z roku 1906 udává její úmrtí v roce 1753 a zápis synova mateřského dědictví na Wendstadt 28. 9. 1753, s poručníky Josefem baronem von Gillern a Antonem Kreckwitzem."
       ],
       "vztahy": [
         {
@@ -3578,19 +3586,29 @@
         {
           "nazev": "Matrika Preichau (kat. fara, dnes Przychowa u Stínavy), křty 1678–1744, FamilySearch film 8218293, snímek 435",
           "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RN1V"
+        },
+        {
+          "nazev": "Conrad Max von Unruh, Die Unrugher, 1906, oddíl X, sl. 284, úmrtí, mateřské dědictví a poručníci",
+          "odkaz": "https://digital.ulb.hhu.de/download/pdf/8528054.pdf#page=59"
         }
       ],
-      "krest": "13. 4. 1718 Preichau"
+      "krest": "13. 4. 1718 Preichau",
+      "zaznamy": [
+        "n_1718_preichau_maria_anna_friderica",
+        "n_1740_rettkau_hedwig_hammer_kmotra",
+        "o_1742_rettkau_friderica_giller_unruh",
+        "n_1744_schabenau_unruh_johann_anton"
+      ]
     },
     "maria_barbara_1721": {
       "jmeno": "Maria Barbara Francisca von Giller",
-      "roky": "křest 3. 10. (?) 1721 Preichau",
+      "roky": "křest pravděpodobně 8. 9. 1721 Preichau",
       "stav": "doc",
       "vazba": "Dcera Johanna Christopha von Giller (pozdějšího svobodného pána z Gillernů), hejtmana panství Preichau, a Marie Marthy – sestřenice našeho předka Maximiliána (* 1719); Johann Christoph byl nevlastní bratr Maximiliánova otce Carla Heinricha.",
       "fakta": [
-        "Pokřtěna asi 3. 10. 1721 v Preichau (dnes Przychowa u Stínavy, Dolní Slezsko) jako dcera urozeného rytíře a pana Johanna Christopha von Giller, hejtmana v Preichau, a Marie Marthy.",
+        "Pokřtěna pravděpodobně 8. 9. 1721 v Preichau (dnes Przychowa u Stínavy, Dolní Slezsko) jako dcera urozeného rytíře a pana Johanna Christopha von Giller, hejtmana v Preichau, a Marie Marthy.",
         "Kmotry byli prastrýc Friedrich Wilhelm von Giller, rada Jeho císařského Veličenstva a úředník knížectví Volovského (?); teta Catharina Barbara roz. Nerlichová, manželka Carla Heinricha von Giller na Hammeru (matka našeho Maximiliána); a manželka strýce Franze Josepha von Giller.",
-        "Její další osud neznáme."
+        "Může přicházet v úvahu při porovnání s Marií Franciscou, nevěstou vratislavského úředníka Ernsta Franze von Mentzelberg roku 1736. Nevěstini rodiče v oddavkách uvedeni nejsou. Křtěnce by při svatbě bylo čtrnáct let a devět měsíců, jméno Barbara v oddavkách chybí a pozdější literatura připojuje Anna. Totožnost zůstává otevřená."
       ],
       "vztahy": [
         {
@@ -3607,6 +3625,9 @@
           "nazev": "Matrika Preichau (kat. fara, dnes Przychowa u Stínavy), křty 1678–1744, FamilySearch film 8218293, snímek 410",
           "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RNTM"
         }
+      ],
+      "zaznamy": [
+        "n_1721_preichau_maria_barbara_francisca"
       ]
     },
     "christoph_franz_1716": {
@@ -6014,7 +6035,7 @@
                         "jmeno": "Johann Christoph svobodný pán z Gillernů",
                         "stav": "doc",
                         "pozn": "hejtman (správce) panství Preichau, pán na Schwebedowě a Rettkau; svobodný pán 1732; nevlastní bratr Carla Heinricha (matka Catharina Juliana)",
-                        "roky": "křest 3. 7. 1683 Preichau; doložen do 1725",
+                        "roky": "křest 3. 7. (?) 1683 Preichau, doložen ještě 7. 5. 1744",
                         "vazba": "doc",
                         "manzel": "× Maria Martha",
                         "deti": [
@@ -6045,15 +6066,25 @@
                             "profil": "maria_carolina_1722_2"
                           },
                           {
-                            "jmeno": "Maria Anna Ludovica (?)",
-                            "roky": "* 12. 4. 1718 Preichau",
+                            "jmeno": "Maria Anna Friederica",
+                            "roky": "* 12. 4. 1718 Preichau, † 1753 podle kroniky",
                             "stav": "doc",
                             "vazba": "doc",
-                            "profil": "maria_anna_1718"
+                            "profil": "maria_anna_1718",
+                            "manzel": "× 22. 5. 1742 Johann Carl svobodný pán von Unruh",
+                            "deti": [
+                              {
+                                "jmeno": "Johann Anton Andrea Carl Friederich Joseph von Unruh",
+                                "roky": "křest 7. 5. 1744, farnost Schabenau",
+                                "stav": "doc",
+                                "vazba": "doc",
+                                "pozn": "Zápis pod Wendstadt. Prvním kmotrem byl děd Johann Christoph von Güller z Rettkau."
+                              }
+                            ]
                           },
                           {
                             "jmeno": "Maria Barbara Francisca",
-                            "roky": "* 3. 10. 1721 Preichau",
+                            "roky": "křest pravděpodobně 8. 9. 1721 Preichau",
                             "stav": "doc",
                             "vazba": "doc",
                             "profil": "maria_barbara_1721"
@@ -6064,8 +6095,8 @@
                       {
                         "jmeno": "Franz Joseph von Giller",
                         "stav": "doc",
-                        "pozn": "pán na Ober-Krehlau, podle Sinapia (1723) i hejtman v Preichau; po roce 1725 rodina z Krehlau odešla (kam, nevíme)",
-                        "roky": "doložen 1710–1725",
+                        "pozn": "Pán na Horním Krehlau. Na svatbě v Hochkirchu roku 1742 ještě jako pán na Krohlau, při kmotrovství v Krehlau roku 1747 už jako bývalý držitel.",
+                        "roky": "doložen 1710–1747",
                         "vazba": "doc",
                         "manzel": "× 1714 Krehlau Leonora Hedwig Klinge",
                         "deti": [

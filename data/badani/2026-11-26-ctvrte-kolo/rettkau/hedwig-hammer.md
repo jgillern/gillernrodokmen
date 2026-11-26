@@ -2,6 +2,8 @@
 
 **Křest 2. listopadu 1740 v Rettkau jmenuje dvě různé kmotry.** Místní Friderica je výslovně baronka, Hedwig je označena jako slečna na Hammeru. Z krehlauských křtů nejlépe odpovídá Hedwig s vazbou na Hammer **Maria Catharina Hedwigis Brigitta**, dcera Carla Heinricha. **Maria Hedwig**, dcera Franze Josepha z Horního Krehlau, zůstává kandidátkou podle křestního jména. Pro její pobyt na Hammeru zde chybí přímý pramen. Zápis z Rettkau u obou žen vynechává rodiče. [Originál s. 207](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G32Y-Y) · [Výřez](vyrezy/hochkirch-1740-11-02-guller-kmotra.jpg)
 
+U **Fridericy** se podařilo určit velmi silnou konkrétní kandidátku. Maria Anna Friederica, dcera Johanna Christopha a jeho ženy Marie Marthy, se narodila roku 1718 a její otec držel Rettkau při sňatku roku 1742 i při křtu svého vnuka 1744. U **Hedwig** stále chybí doklad, který by rozhodl mezi oběma krehlauskými dívkami. [Křest 1718](preichau-dcery.md) · [Rodina 1742](oddavky-1737-1745.md) · [Křest vnuka](schabenau.md)
+
 ## Vlastní čtení
 
 Hochkirch D 1420, s. 207 vpravo, DGS 8246290 sn. 108. V zápisu o dceři krejčího Gottfrieda a Rosiny Altwasserové stojí v rozhodné části:

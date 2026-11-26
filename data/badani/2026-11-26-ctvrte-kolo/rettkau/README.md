@@ -2,6 +2,8 @@
 
 Hledané mezidobí je **13. 6. 1738 až 2. 2. 1746**. V knize **D 1420** jsou pravé a levé strany rozděleny mezi **DGS 8246290** a **DGS 8246291**. Nový křest z **21. dubna 1740** uvádí dceru mladšího barona **Josepha von Güller** a jeho manželky **Marie Antonie von Rüffer**. **29. března 1739**, v den křtu známé dcery mladšího barona, je doložena také slečna von Güller jako kmotra syna místního ovčáka. Její křestní jméno chybí. Dne **2. listopadu 1740** jsou kmotrami v Rettkau současně **Friederica baronka von Güller z Rettkau** a **Hedwig von Güller z Hammeru**. Písař uvádí u dvou nositelek příjmení přímo obě sídla. Rodiče ani vzájemný příbuzenský vztah kmoter neuvádí.
 
+Další čtení propojilo místní Fridericu se sňatkem Marie Anny Fridericy a ukázalo na její křest v Preichau roku 1718. [Jméno, oba rodiče a kmotři](preichau-dcery.md) · [Kdo mohla být Hedwig](hedwig-hammer.md)
+
 ## Rettkau, 29. března 1739. Slečna von Güller kmotrou
 
 Hochkirch (Grodowiec), D 1420, **s. 146**, levá strana, **DGS 8246291, sn. 76**, první zápis. V předchozím zápisu, na pravé s. 145, je téhož dne křest Marie Anny von Güller. Rok zakládá rukopisný nadpis *Anno 1739* na s. 133. [Snímek 146](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G3TB-6?view=explore&groupId=TH-909-75352-104207-45&lang=en) · [Předchozí strana 145](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G329-T?view=explore&groupId=TH-909-75352-98992-36&lang=en) · [Nadpis roku 1739](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPL-G329-9?view=explore&groupId=TH-909-75352-98992-36&lang=en) · [Výřez](vyrezy/hochkirch-1739-03-29-gullerin-kmotra.jpg)

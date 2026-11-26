@@ -1,6 +1,6 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
-[Čtvrté kolo. Tři původní slezské zápisy, Hedwig z Hammeru roku 1740 a lesníci na české straně](data/badani/2026-11-26-ctvrte-kolo/README.md) · [Aktuální badatelský deník od č. 792](data/badani/2026-11-26-ctvrte-kolo/denik.md)
+[Čtvrté kolo. Maximiliánova sestřenice, lesmistr v Herrnstadtu a dvě nově prověřené farnosti pro Josefův křest](data/badani/2026-11-26-ctvrte-kolo/README.md) · [Aktuální badatelský deník od č. 792](data/badani/2026-11-26-ctvrte-kolo/denik.md)
 
 [Výsledek třetího kola, ověření slezských originálů a čtyři další kroky](data/badani/2026-11-26-treti-kolo/README.md)
 

@@ -1,0 +1,18 @@
+# Jan Svatek z Bukové a křty jeho jmenovců v Bzové
+
+**Jan Svatek** se živil jako krejčí v Bukové čp. 5. Podle křtu dcery **Lidmily, 18. 10. 1893**, byl manželským synem **Františka Svátka, rolníka ze Bzové**, a **Barbory rozené Svátkové ze Bzové**. V zápisu jsou u rodičů dvě podoby téhož příjmení. Pozdější výpisy uvádějí Bzovou čp. 1. Jan byl ještě **11. 10. 1936** svědkem při svatbě své vnučky Ludmily Slunečkové s Josefem Beranem. Věk svědka uveden není. [Původní křest dcery, Pravonín 21, s. 263](../../../zdroje/n_1893_svatkova_ludmila.jpg) · [Výřez otcovy rubriky](doklady/bukova-1893-jan-svatek-rodice.jpg) · [Oddavky vnučky, Pravonín 26, sn. 141](https://ebadatelna.soapraha.cz/d/15260/141)
+
+Ve starším oddílu Šebířova 14, písm. S, jsou na **snímku 103** dva křty dětí jménem **Jan Svatek z Bzové**. Rozlišit je umožnily přímo navazující křestní zápisy. [Index Šebířov 14, sn. 103](https://digi.ceskearchivy.cz/7782/103)
+
+| Rok | Původní zápis | Rozlišení |
+|---|---|---|
+| **1841** | Šebířov 8, fol. **26**, sn. **29**, Bzová **čp. 11**. [Originál](https://digi.ceskearchivy.cz/7776/29) · [Výřez](doklady/bzova-1841-jan-svatek.jpg) | U matky je **Kateřina**, u otce pravděpodobně **Václav**. Hledaný Jan má ve křtu dcery jako matku Barboru. |
+| **1844** | Šebířov 8, fol. **29**, sn. **32**, Bzová. [Originál](https://digi.ceskearchivy.cz/7776/32) · [Výřez](doklady/bzova-1844-jan-svatek.jpg) | Otec je **Jan Svatek**, matka **Barbora**. Křestní jméno otce se liší od Františka ve křtu Lidmily. Číslo domu zůstává nejisté. |
+
+Šebířov 14, starší písmeno S, byl prohlédnut na **sn. 101–104**. Ve sloupci narozených pro roky **1840–1848** vyšly pro Jana Svatka z Bzové uvedené dvě položky. Z prvopisů narozených byly otevřeny oba odkazované zápisy. Souvislé nové čtení všech křtů za devět let dosud chybí. [Začátek rejstříkové kontroly](https://digi.ceskearchivy.cz/7782/101) · [Konec kontroly](https://digi.ceskearchivy.cz/7782/104)
+
+U dalších výsledků je potřeba vždy rozlišit sloupce narození, sňatek a úmrtí. Na stejné straně rejstříku u **Jana z Bzové z roku 1846** stojí značka v rubrice zemřelých, fol. 16. Starší výzkum již vyloučil nemanželského Jana z **čp. 6** narozeného roku **1859**, kterého jako otec uznal František Michal. [Index, sn. 103](https://digi.ceskearchivy.cz/7782/103) · [Původní zápis z roku 1859, sn. 117](https://digi.ceskearchivy.cz/7777/117) · [Deník, položky 135–136](../../research_log.md)
+
+V pravonínské obecní kronice mají roky **1945–1955** jmenné výčty zemřelých (PDF sn. 97–109). V nich nebyli nalezeni Jan Svatek ani jeho manželka Marie rozená Bezkočková. U dřívějších let 1936–1944 chybí pravidelné jmenné rubriky. Buková tehdy náležela obci Tisek, takže z pravonínského výčtu nelze určit, zda tam Jan zemřel. [Kronika, začátek jmenných výčtů, sn. 97](https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=97) · [Oddíl za rok 1950, sn. 103](https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=103)
+
+Další přímou cestou je v oddavcích Šebířova hledat **pár František Svatek a Barbora Svátková** a v křtech jeho další děti. Ověřit je též třeba úmrtní zápis Františka Svátka zřejmě z Bzové čp. 1, uváděný v předběžném odečtu rejstříku kolem roku **1866**, a Janův vlastní sňatek s Marií Bezkočkovou. Teprve jejich bydliště, povolání či přímé označení syna mohou obě rodiny propojit. [Matrika oddaných Šebířov 10](https://digi.ceskearchivy.cz/7778) · [Index úmrtí, sn. 89](https://digi.ceskearchivy.cz/7782/89) · [Šebířov 12, zemřelí](https://digi.ceskearchivy.cz/7780)

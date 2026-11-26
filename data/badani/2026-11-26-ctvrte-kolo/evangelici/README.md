@@ -1,0 +1,44 @@
+# Josef Emanuel Giller – evangelické farnosti v okolí Hammeru a Krehlau
+
+Katalogové a historické ověření k 26. 11. 2026 pro možné narození **13. 6. 1737 – 12. 6. 1738** nebo **3. 2. 1746 – 2. 2. 1747**. Přímý křestní zápis pro Josefa ani přímý doklad evangelického vyznání rodiny z těchto zdrojů nevzešel. Novým výsledkem je konkrétní historické přifaření a jeho spojení s mezerami v matrikách.
+
+## Hammer vedl ke Kunzendorfu
+
+Eduard Anders, *Historische Statistik der Evangelischen Kirche in Schlesien*, Vratislav 1867, s. 354, vypočítává obvod **Kunzendorf, Kreis Steinau** (dnešní Małowice). Patřily k němu Kunzendorf, Pronzendorf, Ibsdorf, Friedrichshain a **„Hammer (63 ev.)“**. Jde o stav popisovaný v 19. století. V historické části téže kapitoly Anders uvádí Pulta jako prvního známého evangelického faráře roku 1563, vypálení starého kostela s vesnicí roku 1761 a odloučení Wischütz, které se do té doby drželo Kunzendorfu. Anders na s. 35 řadí Kunzendorf k evangelickým kostelům existujícím před altenštatskou konvencí 1707. Vypálení je doložená událost. Z textu nelze určit osud jednotlivých matrik. [Vydání z roku 1867, s. 354](https://sbc.org.pl/Content/17908/PDF/17908.pdf#page=376) · [Výřez](vyrezy/anders-1867-s354-kunzendorf.jpg) · [Meyersův místopis](https://www.meyersgaz.org/place/11086018).
+
+Soupis z roku 1902 zaznamenal pro tento **Kunzendorf, Kr. Steinau** evangelické křty, sňatky a pohřby od 1766. Novější evidence vede knihy jako nezvěstné. Hammer je u Kunzendorfu také v tabulce AGoFF sestavené s údaji o obyvatelstvu z roku 1885, jako ves (135 obyvatel) a samostatný statek (53 obyvatel). Knieho příslušnost k Wischütz z roku 1830 proto vystihuje jiný časový řez. Pro žádné z obou Josefových oken nemáme dochovanou kunzendorfskou knihu ani současný doklad přiřazující právě v těch letech jednotlivě Hammer. [Soupis matrik z roku 1902, heslo Kunzendorf](https://protzan.de/wp-content/uploads/2021/10/1902_Kirchenbuecher_Schlesiens_beider_Confessionen.pdf) · [Současná evidence](https://www.christoph-www.de/kbsilesia3.html) · [Tabulka okresu Wohlau](https://agoff.de/?p=30202).
+
+Zimmermann už roku 1787 v hesle Kunzendorf popisuje evangelický kostel s farou a úplné vypálení vsi ruským vojskem za sedmileté války. Jeho vlastní přehled Hammeru v okrese Steinau (s. 314) se omezuje na majetek a krajskou příslušnost části vsi. [Zimmermann, sv. 7, s. 316](https://archive.org/details/10014530bsb/page/n322/mode/1up) · [Výřez](vyrezy/zimmermann-1787-s316-kunzendorf.jpg).
+
+## Krehlau před obnovením Wischütz
+
+Na s. 411 v hesle Wischütz píše Anders **„Nach Wegnahme der K. 1654 hielten sich die Ev. nach Gimmel, Winzig, Kunzendorf.“** Roku 1766 byla podle téhož odstavce zřízena nová církevní stanice. Na s. 412 je v popisu obnoveného wischützského obvodu výslovně **„Ob.= u. Nied.=Krehlau“**. S. 354 nezávisle z pohledu Kunzendorfu potvrzuje vazbu Wischütz už od 1653. Tyto údaje poskytují tři jmenovité opěrné kostely pro evangelíky z wischützského okolí v obou zkoumaných obdobích. Zůstává nejasné, který kostel využívali jednotliví obyvatelé Hammeru nebo obou částí Krehlau. [Anders, s. 411–412](https://sbc.org.pl/Content/17908/PDF/17908.pdf#page=433) · [Výřez Wischütz](vyrezy/anders-1867-s411-wischuetz.jpg) · [Výřez Krehlau](vyrezy/anders-1867-s412-krehlau.jpg).
+
+| Farnost | Zjištěný stav matrik pro obě okna |
+| --- | --- |
+| Gimmel / Jemielno, Kreis Wohlau | Soupis 1902 uvádí křty, sňatky a pohřby 1662–1900, tedy původně obě okna. Novější evidence uvádí knihy jako nezvěstné. Gimmel / Jemielna ve vedlejším Kreis Oels byla jiná obec. |
+| Winzig / Wińsko, Kreis Wohlau | Místní evangelické matriky se vedou jako nezvěstné. Přihlášený katalog FamilySearch pro historické místo ukázal dva tituly. Katolická kniha 1766–1900 (koha:403045) a evangelická vojenská 1802–1886 (koha:235716) jsou obě mladší. |
+| Kunzendorf / Małowice, Kreis Steinau | Katalogově doložený počátek matrik roku 1766, v novější evidenci knihy nezvěstné. |
+| Wischütz / Wyszęcice, Kreis Wohlau | Obnovení roku 1766, mladší evangelické matriky dnes vedené jako nezvěstné. |
+
+[Soupis z roku 1902](https://protzan.de/wp-content/uploads/2021/10/1902_Kirchenbuecher_Schlesiens_beider_Confessionen.pdf) · [Současná evidence Gimmel a Kunzendorf](https://www.christoph-www.de/kbsilesia3.html) · [Současná evidence Winzig a Wischütz](https://www.christoph-www.de/kbsilesia4.html) · [FamilySearch Winzig](https://www.familysearch.org/en/search/catalog/results?q.place=Winzig%2C%20Wohlau%2C%20Silesia%2C%20Prussia%2C%20Germany&q.placeId=13650554&subjectsOpen=133492089-2).
+
+Další skutečná vazba v širším okruhu se týká obyvatel **Groß Schmograu / Smogorzów Wielki**, které Anders na s. 407 řadí k evangelické farnosti **Beschine / Baszyn**. Její evangelický kostel byl podle Anderse znovu vydán roku 1707. Křty tam byly roku 1902 doloženy od 1734, dnes jsou vedeny jako nezvěstné. Žádný zde prověřený zdroj nespojuje Hammer nebo Krehlau s konkrétní *Grenzkirche* či *Friedenskirche*. Před rokem 1742 mají přímější oporu Gimmel, Winzig a Kunzendorf. [Anders, s. 407](https://sbc.org.pl/Content/17908/PDF/17908.pdf#page=429) · [Soupis 1902](https://protzan.de/wp-content/uploads/2021/10/1902_Kirchenbuecher_Schlesiens_beider_Confessionen.pdf) · [Současná evidence Beschine](https://www.christoph-www.de/kbsilesia3.html).
+
+## Co přesně pokrývá Piskorsine
+
+Anders, s. 410, uvádí **Piskorsine / Piskorzyna / Kirchlinden** původně jako filiálku Winzig. Po uzavření winzigského kostela roku 1703 se tam podle textu přesunuli duchovní a samostatná farnost vznikla kolem roku 1745. Soupis obvodu v 19. století uvádí Piskorsine, Norigawe, Mersine, Akreschfronze, Klein a Groß Tschuder a Marienruh, Camin, Zweckfronze, Pluskau, Ostrawe, Wehlefronze, Lendschütz, Kutscheborwitz, Peterwitz, Hengwitz, Peiskern, část Rayschen a Tscheltsch. Hammer ani Krehlau mezi uvedenými místy nejsou. Pro hypotézu o křtu obyvatele Hammeru v této knize chybí přímá vazba. Starší přímý vztah mezi Piskorsine a Winzig nechává otevřenou možnost jednotlivých záznamů z okolí, pokud se najde konkrétní doklad rodiny nebo místa. [Anders, s. 410](https://sbc.org.pl/Content/17908/PDF/17908.pdf#page=432) · [Výřez](vyrezy/anders-1867-s410-piskorsine.jpg).
+
+- **EZA 980/3869** je skutečně dochovaná kniha křtů **1746–1770**, digitalizovaná na Archionu. Detail vyžaduje vlastní přístup k digitalizátu. Z veřejného katalogu nelze zjistit první den roku 1746, souvislost zápisů ani obsah. Pro mladší okno jde o možný pramen s neověřeným přesným rozsahem. Roky 1737–38 rozsah této jednotky nepokrývá. [Inventář EZA](https://www.ezab.de/familienforschung-1/liste-unserer-kirchenbuecher/detailseite-kirchenbuch/piskorsine-kreis-wohlau-schlesien/) · [Detail knihy Archion](https://www.archion.de/de/alle-archive/berlin-/-brandenburg/evangelisches-zentralarchiv-in-berlin/kreis-wohlau-provinz-schlesien/piskorsine/9667).
+- Starší Piskorsine mělo podle soupisu z roku 1902 křty 1590–1635 a 1653–1900 s mezerou 1636–1652. Příslušné křty 1737–38 tedy byly tehdy soupisově pokryty, jejich dnešní uložení se nepodařilo zjistit. Aktuální přehled jmenuje jen dochovanou knihu EZA. [Soupis 1902, heslo Piskorsine](https://protzan.de/wp-content/uploads/2021/10/1902_Kirchenbuecher_Schlesiens_beider_Confessionen.pdf) · [Současná evidence Piskorsine](https://www.christoph-www.de/kbsilesia4.html).
+- Přihlášený FamilySearch pro historické **Piskorsine, Wohlau, Silesia, Prussia, Germany** vrátil **0 titulů**. Další veřejnou kopii knihy ani jmenný index se nepodařilo doložit. Katalogový výsledek je omezen na konkrétní historické místo a sám o sobě nevylučuje nezařazené záznamy. [FamilySearch Piskorsine](https://www.familysearch.org/en/search/catalog/results?q.place=Piskorsine%2C%20Wohlau%2C%20Silesia%2C%20Prussia%2C%20Germany&q.placeId=12664577).
+
+## Indexy a rozsah kontroly
+
+| Zdroj | Výsledek |
+| --- | --- |
+| [Geneteka, hotové indexy](https://geneteka.genealodzy.pl/rejestry.php?lang=pol) | V seznamu Dolního Slezska žádný cílový evangelický fond. Výsledky na Kunzendorf jsou jiné obce, například Mokrzeszów a Kamionki. |
+| [Geneteka, plán indexace](https://geneteka.genealodzy.pl/plany.php?sort=woj) | Wyszęcice–Wischütz uvádí plán pro narození 1680–1718 a 1720–1758, sňatky/úmrtí 1677–1758, z vratislavského arcidiecézního archivu. Tyto roky odpovídají katolické filiálce Krehlau. Plán neposkytuje hotový index. Další dolnoslezský Kunzendorf v plánu, Pastewnik, je jiná obec. |
+| [BaSIA, seznam jednotek podle míst](https://basia.famula.pl/pl/skany) | V načteném úplném seznamu míst nebyla Piskorzyna, Małowice, Jemielno, Wińsko, Wyszęcice ani Baszyn po kontrole polských a německých názvů. |
+
+**Skutečně otevřeno a přečteno 0 evangelických křestních snímků v obou cílových oknech.** Výřezy zachycují historický místopis. Genealogický závěr stojí na konkretizaci kostelních vazeb a na stavu dochování. Chybějící křestní snímky nedovolují evangelickou možnost potvrdit ani vyloučit.

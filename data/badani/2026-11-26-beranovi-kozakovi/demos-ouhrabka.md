@@ -1,0 +1,15 @@
+# DEMoS a Ouhrabkovi
+
+## Plzeňský záznam
+
+V dostupném vyhledávacím výpisu jde o rodný a křestní záznam **Jindřicha**, Plzeň, Tovární čp. 31. Lokátor je **SOA v Plzni, fond 1014, Plzeň 114, křty 1902–1903, sken DEMoS 10, strana C, pozice 1**. V textovém výpisu jsou pole narození a křtu dítěte prázdná. Datum **2. 12. 1873** je uvedeno u otce, dělníka **Václava Ouhrabky**, v Plzni, původem z Nových Mitrovic. Jeho rodiči byli Václav Ouhrabka, havíř, a Kateřina roz. Michálková z Mitrovic čp. 29. Sňatek rodičů Jindřicha je v indexu datován **9. 11. 1899**, místo chybí. Rubrika matčiných rodičů uvádí Jakuba Duchka, rolníka z obce přepsané „Partotic“ čp. 15 (ověřit čtení), a Marii roz. Vališovou z Radachové čp. 17. Vlastní jméno matky dostupný výpis nezobrazuje. Barbora Kabátová je v pozici porodní báby. [DEMoS, Plzeň 114](https://perun.fit.vutbr.cz/demos/matriky/narozeni/33011/)
+
+Jde o jiného Václava Ouhrabku než chalupníka z Bozkova čp. 59, který byl v roce 1843 označen za matčina otce při křtu Františka Kozáka. Plzeňský Václav se podle přepisu narodil o třicet let později. Přímý vztah mezi těmito větvemi žádný prověřený pramen nedokládá.
+
+K ověření dne křtu a jména matky lze v nezávislé digitalizaci Porta fontium otevřít originál Plzeň 114 pro Obvod Plzeň I-vnitřní město a ztotožnit řádek Jindřich–Václav Ouhrabka–Tovární 31. Číslo skenu 10 pochází z DEMoS a pořadí v Porta fontium se může lišit. K ověření totožnosti otce lze v katalogu farnosti Nové Mitrovice vybrat knihu pro samotné Nové Mitrovice a křest z 2. 12. 1873. Přímý DEMoS vrátil 502 a Porta fontium při pokusu o kontrolu originálu 503 se stopkou do 21:02 CET dne 26. 11. 2026. Zjištění pocházejí z vyhledávacího výpisu. [Porta fontium, Plzeň 114 v soupisu](https://www.portafontium.eu/puvodce-matriky/6859?order=title&page=1&sort=desc) · [Matriky Nových Mitrovic](https://www.rodovod.cz/matriky/soa-plzen/nove-mitrovice)
+
+## Vlastní hledané farnosti
+
+- Hrubá Skála má v DEMoS katalogové položky 4908 (N 1802–1860, křest Františka Kozáka) a 5752 (O 1802–1884, možný sňatek rodičů), obě s počtem skenů 0. [DEMoS, Hrubá Skála](https://perun.fit.vutbr.cz/demos/matriky/obec/577146/mun)
+- Katalog okresu Jičín uvádí Robousy i Popovice u Jičína. Relevantní kniha 70-7800 je katalogizovaná, její záložka narozených výslovně hlásí nula záznamů. Katalogický typ „OI“ není důkazem správnosti popisu nebo vyčerpání dotazu v příslušném typu události. [DEMoS, Jičín](https://perun.fit.vutbr.cz/demos/matriky/okres/3604/) · [70-7800](https://perun.fit.vutbr.cz/demos/matriky/narozeni/52252/)
+- DEMoS eviduje Pravonín pro okres Benešov. Cílené veřejné dotazy Kozák, Kapl, Angl a Beran v kombinaci s Robousy, Popovicemi, Želejovem, Pravonínem, Velkou Jesenicí a Českou Skalicí nepřinesly ověřený osobní záznam. Přímé jmenné hledání v aplikaci nebylo doloženo kvůli 502. Jde o stav veřejného indexování. [DEMoS, Benešov](https://perun.fit.vutbr.cz/demos/matriky/okres/3201/) · [Charakter komunitního přepisu](https://perun.fit.vutbr.cz/demos/napoveda/o-projektu/)

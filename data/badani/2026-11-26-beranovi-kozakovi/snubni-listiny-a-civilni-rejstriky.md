@@ -26,7 +26,7 @@ Oficiální veřejný přehled digitalizace SOA Praha ve výsledcích pro Pravon
 
 ## Samostatné civilní rejstříky a originály
 
-Jde o oficiální katalogová data **již místně uložená** v souborech `rob_matriky.json` a `skalice_mat_all.json`. V tomto kole se skeny na odstaveném portálu neotevíraly. Jmenná kontrola dosud schází, s výjimkou již dříve prohlédnuté 7796 pro roky 1919–1921.
+Území a roky byly ověřeny v archivním katalogu. Jednotlivé rejstříkové strany v této fázi prohlédnuty nebyly. Jmenná kontrola dosud schází, s výjimkou již dříve prohlédnuté 7796 pro roky 1919–1921.
 
 | Území | Signatura a časový rozsah | Stav |
 |---|---|---|

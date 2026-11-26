@@ -120,7 +120,7 @@ Na vesnici platil pevný žebříček: nahoře **sedlák** s celým gruntem, pod
 
 **Co se dělo:** Po únoru 1948 převzal moc komunistický režim. Podniky i živnosti byly znárodněny, sedláci byli v 50. letech nuceni vstupovat do družstev a „buržoazní“ nebo šlechtický původ mohl zavřít cestu ke studiu i kariéře.
 
-**Kde byli naši:** Beranova cihelna v Pravoníně byla nejspíš znárodněna jako ostatní soukromé podniky – doklad o tom zatím nemáme. Děda Augustin se roku 1954 oženil s [Boženou Richtrovou](/osoba/bozena-richtrova-1929/), pracoval jako technický úředník a konstruktér a v dokladech z 50. let už je zapsán jen jako „Gillern“. Děda Vladimír odešel ze Šumavy do Prahy, Gillernovi se usadili v Hrnčířích na okraji Prahy. Děda Augustin zemřel v dubnu 1989 – sedm měsíců před sametovou revolucí.
+**Kde byli naši:** Pravonínská kronika zaznamenala úmrtí Josefa Berana staršího 26. října 1950. V roce 1971 už v Pijavkách píše o bývalé cihelně. Kdy rodina ukončila výrobu a komu pozemek připadl, zůstává otevřené. Děda Augustin se roku 1954 oženil s [Boženou Richtrovou](/osoba/bozena-richtrova-1929/), pracoval jako technický úředník a konstruktér a v dokladech z 50. let už je zapsán jen jako „Gillern“. Děda Vladimír odešel ze Šumavy do Prahy, Gillernovi se usadili v Hrnčířích na okraji Prahy. Děda Augustin zemřel v dubnu 1989 – sedm měsíců před sametovou revolucí.
 
 **Jak to mohli prožívat:** Pro rodiny podnikatelů a sedláků byla 50. léta dobou ztrát. Pro děti domkářů a železničářů naopak otevřela cestu ke studiu a do měst. A u Gillernů se šlechtický původ, na který byli kdysi pyšní, raději nepřipomínal.
 

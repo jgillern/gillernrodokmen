@@ -1,5 +1,7 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
+[Sedmé kolo. Josefovo rodiště a první sňatek Maximiliána s Johannou](data/badani/2026-11-26-sedme-kolo/plan.md)
+
 [Šesté kolo. Josefova sestra v Pardubicích, kmotři z Býchor a civilní služba za slezských válek](data/badani/2026-11-26-seste-kolo/README.md) · [Výchozí plán](data/badani/2026-11-26-seste-kolo/plan.md) · [Badatelský deník č. 840–859](data/badani/2026-11-26-seste-kolo/denik.md)
 
 [Páté kolo. Doklady z Hammeru, dvě možnosti Josefova narození a postup přes českou služební domácnost](data/badani/2026-11-26-pate-kolo/README.md) · [Plán ověření](data/badani/2026-11-26-pate-kolo/plan.md) · [Nový deník od č. 827](data/badani/2026-11-26-pate-kolo/denik.md)

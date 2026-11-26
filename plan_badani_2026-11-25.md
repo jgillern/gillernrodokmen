@@ -1,5 +1,7 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
+[Páté kolo. Scénáře Josefova dětství a Maximiliánovy služby před Borem, s prameny pro jejich rozlišení](data/badani/2026-11-26-pate-kolo/plan.md)
+
 [Čtvrté kolo. Maximiliánova sestřenice, lesmistr v Herrnstadtu a dvě nově prověřené farnosti pro Josefův křest](data/badani/2026-11-26-ctvrte-kolo/README.md) · [Aktuální badatelský deník od č. 792](data/badani/2026-11-26-ctvrte-kolo/denik.md)
 
 [Výsledek třetího kola, ověření slezských originálů a čtyři další kroky](data/badani/2026-11-26-treti-kolo/README.md)

@@ -2,6 +2,13 @@
 
 Záznamy B26-82 a následující navazují na [předchozí badatelský deník, B26-47 až B26-81](denik-pokracovani.md).
 
+## Co nyní hledat v online pramenech
+
+- **Kozákovi.** Pro Františka zemřelého 13. listopadu 1909 je nejpřímějším záznamem jičínská městská kniha zemřelých **70-7799** s rejstříkem **70-6253**. Totožnost s otcem Emilie Marie by podpořilo rodiště Želejov, datum narození 10. 6. 1843 nebo manželka Barbora rozená Kaplová. Vedle toho čekají na přečtení zbývající domy v samotné Cidlině, inv. 2177. [Městský index a matrika](jicin-umrti-a-nemocnice.md) · [Přečtené domy a veřejná galerie](pekloves-cidlina-1900.md).
+- **Beranovi.** Ve veřejně katalogované oddací knize města České Skalice **21-8666** navazuje na naposledy ověřený snímek 79 další od **snímku 80**. Toto čtení může ověřit případnou svatbu ve městě od ledna 1909 do narození syna v červnu 1910. Datum 7. 1. 1909 je poslední skutečně přečtená svatba na předchozí straně. Dlouhodobě má zásadní význam i jmenný sčítací arch 1930 pro Pravonín čp. 72, k němuž zatím známe archivní zařazení. [Oddací matrika a přesné místo návratu](opisy-a-filmy-jicin-nachod.md) · [Sčítání 1930](scitani-1930-pravonin.md).
+
+## Badatelský deník
+
 | Číslo | Datum rešerše | Pramen | Výsledek | Podklady |
 | --- | --- | --- | --- | --- |
 | B26-82 | 26. 11. 2026 | ČÚZK, Robousy, B2_a_14C_6489-1A_01_02 | Stavební parcela 96 s půdorysem domu je přímo čitelná na mapě ke konci roku 1936. Doložka je z 2. 2. 1937. Rok přidělení čp. 75 chybí. | [Mapový list a přepis datovací doložky](robousy-96-a-pijavky.md) |
@@ -14,3 +21,5 @@ Záznamy B26-82 a následující navazují na [předchozí badatelský deník, B
 | B26-89 | 26. 11. 2026 | Archiv obce Kněžnice NAD 1413, Muzejní noviny 28, kniha Libuň 3423 | Pro ročník 1874 je spádovou školou Libuň. Místní paměti ani obecní katalog jména rodičů mladšího Františka nedoložily. | [Podrobnosti a prameny](kneznice-kozak-1874.md) |
 | B26-90 | 26. 11. 2026 | SOkA Jičín NAD 360 a 1772, časopis Regionálního muzea 4/2016 a 1/2020 | Po přesunu nemocnice do chorobince určitelná infekční větev na Novém Městě čp. 136. U cestáře zůstává přesná budova i oddělení otevřené. | [Podrobnosti a prameny](jicin-mista-nemocnice.md) |
 | B26-91 | 26. 11. 2026 | Jičín 70-6253, Jičínské noviny, Národní listy, listopad 1909 | Starý odkaz na ZIP náleží stejnému archivu. U dvou dalších zemřelých ze stejné rubriky se nepodařilo dohledat matriční folio prostřednictvím jiného veřejného zdroje. | [Podrobnosti a prameny](jicin-kontrola-indexu.md) |
+| B26-92 | 26. 11. 2026 | Sčítací operáty MZA, obecní dotazy Volavka a Tisek | Stejně jako u Pravonína nevrátil veřejný katalog žádnou sadu. Výsledek ponechává otevřené jiné uložení. | [Přesné dotazy a archivní pokrytí 1921](scitani-1921-pravonin.md) |
+| B26-93 | 26. 11. 2026 | SOkA Semily, Cidlina 1900 a Pekloves 1910, opakovaná obrazová kontrola | V Cidlině rozeznány na částech dvou archů domácnosti Knapa a Pavelky. Další snímek Cidliny ani list čp. 2 v Peklovsi roku 1910 se kvůli chybě prohlížeče nepodařilo přečíst. | [Odkazy na jednotky a přesné pokrytí](pekloves-cidlina-1900.md) |

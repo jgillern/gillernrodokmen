@@ -52,4 +52,4 @@ U Josefa oba výpočty představují **odlišné životní situace**. V lednu 17
 
 [Druhé kolo má vlastní plán sepsaný po prvních zjištěních](kolo-2-plan.md) · [Navazující očíslovaný badatelský deník](../2026-11-25-josef-maximilian/denik.md)
 
-Šest nových a šest opravených matričních položek je uloženo také samostatně, se stejnými klíči a poli jako společný katalog. U oprav je tu celé nové znění historického záznamu. Společný soubor `data/zaznamy.json` při tomto předání stále zachycuje starší stav. [Strojově čitelné matriční prameny z obou kol](matricni-zaznamy.json)
+Šest nových a šest opravených matričních položek je uloženo také samostatně, se stejnými klíči a poli jako společný katalog. U oprav je tu celé nové znění historického záznamu. Všech dvanáct položek je také přímo ve [společném katalogu](../../zaznamy.json) a nově přidané prameny jsou připojené k příslušným rodinným profilům. [Strojově čitelné matriční prameny z obou kol](matricni-zaznamy.json)

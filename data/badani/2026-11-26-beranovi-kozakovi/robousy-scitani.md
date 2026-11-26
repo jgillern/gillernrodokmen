@@ -27,7 +27,7 @@ Předběžné místní čtení rubriky nevěsty: pravděpodobně „ve Psinici�
 
 ### Robousy čp. 30 k 31. 12. 1900, ověřeno z lokálně uloženého originálu
 
-SOkA Jičín, Okresní úřad Jičín I, inv. č. **1378**, [Robousy čp. 1–68, sn. 116](https://aron.vychodoceskearchivy.cz/apu/d80ddde0-d518-42b8-b4c2-de47858ff001/dao/d80ddde0-d518-42b8-b4c2-de47858ff001/file/dd5a4b37-2ffe-4d4c-b6c7-b913dc9944a3). Soubor `d80ddde0_116.jpg`. [Sběrací arch sn. 2](https://aron.vychodoceskearchivy.cz/apu/d80ddde0-d518-42b8-b4c2-de47858ff001/dao/d80ddde0-d518-42b8-b4c2-de47858ff001/file/a9d903cf-b8b8-4f56-82f6-d612bfb4705e) eviduje pro čp. 30 jeden popisný arch, dvě obývané strany a sedm přítomných. Vlastní sn. 116 nese všech sedm osob a shodný součet, nikdo zde není uveden jako nepřítomný. Strana 2 zůstává bez obrazové kontroly.
+SOkA Jičín, Okresní úřad Jičín I, inv. č. **1378**, [Robousy čp. 1–68, sn. 116](https://aron.vychodoceskearchivy.cz/apu/d80ddde0-d518-42b8-b4c2-de47858ff001/dao/d80ddde0-d518-42b8-b4c2-de47858ff001/file/dd5a4b37-2ffe-4d4c-b6c7-b913dc9944a3). Soubor `d80ddde0_116.jpg`. [Sběrací arch sn. 2](https://aron.vychodoceskearchivy.cz/apu/d80ddde0-d518-42b8-b4c2-de47858ff001/dao/d80ddde0-d518-42b8-b4c2-de47858ff001/file/a9d903cf-b8b8-4f56-82f6-d612bfb4705e) eviduje pro čp. 30 jeden popisný arch, dvě bytové strany (domácnosti) a sedm přítomných. Vlastní sn. 116 nese všech sedm osob a shodný součet, nikdo zde není uveden jako nepřítomný. Rub archu zůstává bez obrazové kontroly. Číslo 2 v součtu označuje domácnosti. [Přesné čtení záhlaví a obou domácností](robousy-30-domacnosti.md).
 
 | Osoba | Postavení | Rodiště |
 |---|---|---|

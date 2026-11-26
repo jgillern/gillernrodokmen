@@ -81,3 +81,11 @@ U obyvatel jesenického **čp. 82** se nepodařilo doložit příbuznost s Beran
 Pro usedlosti v Libuni a Kněžnicích byly dohledány [mapy stabilního katastru 1842 a pomůcky písemného operátu](libun-kneznice-stabilni-katastr.md). Pro rodinu Kaplových pomůže při odlišení jmen Jan Angl a Jan Kapl [farní soupis duší Robous 1847, inv. č. 20](kapl-angl-invalidni-evidence.md). V obou případech chybí jmenný odečet z konkrétního listu.
 
 U Jana Angla je samostatně dohledán [jmenný rejstřík Generálního velitelství Praha 1816–1847, AP 57](vojenske-rejstriky-angl.md). Na Hruboskalsku se podařilo odlišit [uveřejněné soupisy ročníků od jmenných údajů na originálních listech](hruboskalske-soupisy.md).
+
+## Přímé kontroly dalších stop
+
+V Robousích čp. 30, kde žil otec ženicha v roce 1896, byly roku 1900 dvě bytové strany. Na jediném líci je všech sedm přítomných z domácností Lochmanových a Kopeckých. Nejstarší ověřené přímé spojení jména František Kozák s čp. 75 pochází až z oddacího zápisu v roce 1936. V Robousích se po dobu stavby nové školy vyučovalo v hostinci čp. 33. V archivu jsou určeny také výkazy pro léta, kdy do školy mohli chodit Emilie Marie a Antonín. [Čp. 30, jména a součet](robousy-30-domacnosti.md) · [Škola v Robousích](skola-robousy.md).
+
+Stružinecká tištěná matrika uvádí odlišné rodiny v Cidlině čp. 14 a 17. Proti jičínskému nemocničnímu indexu stojí přímo zpráva o pohřbu cestáře a nově celý okolní novinový sloupec. [Mákova matrika](struzinec-cidlina-kozakovi.md) · [Fučíkův domopis](fucik-domopis.md) · [Význam slov „z Cidliny“](cidlina-zneni-umrti.md) · [Jičínské úmrtní a nemocniční knihy](jicin-umrti-a-nemocnice.md).
+
+Pro Pravonín byl samostatně zkontrolován rok 1921. Veřejný katalog MZA po zadání Pravonína nenabídl žádný arch. Dobový adresář k roku 1936 spojuje cihelnu s příjmením Beran. Čtení podporují ve stejném výňatku jména pravonínských hostinských. [Sčítání 1921 a doložené pokrytí](scitani-1921-pravonin.md) · [Cihelna v adresářích](cihelna-adresare.md) · [Další obyvatelé čp. 72](pravonin-72-hrubesovi.md) · [Jeseničtí výrobci stavebního zboží a rok 1910](jesenice-podniky-a-tisk.md).

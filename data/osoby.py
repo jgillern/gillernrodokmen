@@ -378,7 +378,8 @@ HYPOTEZY = [
         ("Čeněk Gillern", "nadlesní v Kostelci nad Orlicí, manželka Josefína Bohdanecká; synové JUDr. Bedřich (* 14. 4. 1894 Lis (?), okr. Blatná, † 8. 6. 1970) a JUDr. Karel (pohřben v Čimelicích) – starší bratr našeho Augustina z Gillernů"),
         ("Josef von Güller v Rettkau", "s Marií Antonií von Rüffer doložen jako otec tří dcer pokřtěných v letech 1737, 1739 a 1740. Při posledním křtu je jeho jméno zapsáno jako Joseph."),
         ("Friderica z Rettkau a Hedwig z Hammeru", "dne 2. 11. 1740 byly kmotrami dcery krejčího. Hedwig může být Maximiliánova sestra z Hammeru, pokřtěná roku 1731. Matrika rodiče kmotry neuvádí."),
-    ], zaznamy=["n_1737_hochkirch_maria_josepha_giller", "n_1739_hochkirch_maria_anna_giller", "n_1739_rettkau_slecna_gullerova_kmotra", "n_1740_rettkau_maria_gustava_guller", "n_1740_rettkau_hedwig_hammer_kmotra"]),
+        ("Sňatky žen z Rettkau", "1736 Maria Francisca von Gillern a vratislavský sekretář Ernst Franz von Mentzelberg. Roku 1742 Maria Anna Friderica, dcera Johanna Christopha z Rettkau, a Johann Carl von Unruh. Mezi svědky druhé svatby Franz Joseph von Giller na Krohlau."),
+    ], zaznamy=["o_1736_rettkau_maria_francisca_guller", "o_1742_rettkau_friderica_giller_unruh", "n_1737_hochkirch_maria_josepha_giller", "n_1739_hochkirch_maria_anna_giller", "n_1739_rettkau_slecna_gullerova_kmotra", "n_1740_rettkau_maria_gustava_guller", "n_1740_rettkau_hedwig_hammer_kmotra"]),
 ]
 
 # Předek v rodokmenu vícekrát (příbuzní rodiče): {alias: hlavní číslo}, např. {350: 140}

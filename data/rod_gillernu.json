@@ -1240,10 +1240,12 @@
         "Jeho syn Arthur (* 4. 4. 1855 Altwasser u Hlohova, † 4. 5. 1916 Berlín) byl pruský generálporučík; Arthurův syn Arnulf (1884–1944) byl spolumajitelem zbrojovky Polte v Magdeburku.",
         "1744 pruské uznání stavu svobodných pánů listem Fridricha II., potvrzeno 1855.",
         "Ernst Heinrich z Gillernů (1730–1792), mladší bratr našeho Maximiliána: velitel granátnického praporu v Nise, generálmajor a šéf pěšího pluku v Královci, rytíř Pour le Mérite.",
+        "25. 6. 1736 se v Hochkirchu za vratislavského sekretáře Ernsta Franze von Mentzelberg provdala Maria Francisca baronka von Gillern z domu Rettkau. Přímé příbuzenství s mladším baronem Josephem nebo s Marií Annou Fridericou zůstává otevřené.",
         "Dominika von Gillern, světským jménem Maria Anna (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici. Křest 29. 3. 1739 v matrice Hochkirchu označuje jejího otce jako mladšího barona von Güller a matku jako Marii Antonii, rozenou von Rüffer. Rodné příjmení matky a křestní jméno otce Joseph potvrzuje křest jejich další dcery Marie Gustavy z 21. 4. 1740.",
         "Maria Josepha Elisabetha Carolina Antonia z Rettkau, pokřtěná v srpnu 1737, byla velmi pravděpodobně starší sestrou abatyše Dominiky. U obou dívek je jako otec uveden mladší baron von Giller, jako matka Maria Antonia rozená von Rüffer a při obou křtech se v témže pořadí objevují tři kmotři z Hochkirchu.",
         "Dne 21. 4. 1740 nechali mladší baron Joseph von Güller a jeho manželka Maria Antonia von Rüffer v Hochkirchu pokřtít dceru Marii Gustavu. Se sestrami pokřtěnými v Rettkau v letech 1737 a 1739 ji spojují matka, příjmení, sídlo i označení otce za mladšího barona. Druhé křestní jméno otce z těchto tří zápisů neznáme.",
         "Dne 2. 11. 1740 uvádí křest dcery krejčího z Rettkau dvě kmotry, Fridericu baronku von Güllern na Rettkau a Hedwig von Güller na Hammeru. Známe dvě dívky toho jména, z nichž k Hammeru má přímou rodinnou vazbu Maximiliánova mladší sestra pokřtěná roku 1731. Rodiče kmotry zápis nejmenuje.",
+        "22. 5. 1742 je Maria Anna Friderica výslovně dcerou Johanna Christopha von Giller, dědičného pána na Rettkau. Jejímu sňatku s Johannem Carlem von Unruh svědčil Franz Joseph von Giller, pán na Krohlau. Nevěsta velmi dobře odpovídá zdejší kmotře Friderice na Rettkau z listopadu 1740.",
         "Matrika uvádí 27. únor jako den pohřbu, jmenuje Starý Volov a karmelitány. Podle jména, rodného příjmení, titulu a místa jde velmi pravděpodobně o Marii Antonii z rodiny doložené v Rettkau. Datum úmrtí 25. 4. 1745 v Siebmacherovi z roku 1894 je s tímto pohřbem neslučitelné. Přesný den smrti chybí.",
         "V Rettkau nechali Franz Joseph baron von Giller, pán na Rettkau, a jeho manželka Franziska rozená hraběnka von Osteschau dne 20. 3. 1750 pokřtít dceru Marii Barboru Josefu Jáchymu. Kmotrem byl Carl Joseph baron von Giller, který tehdy pobýval ve Vídni.",
         "Franz Joseph von Giller a Franziska rozená von Osteschau nechali v Rettkau 21. 3. 1751 pokřtít syna jmény Carolus Josephus Maria Nicolaus Franciscus Ignatius Joachimus. Velmi pravděpodobně jde o devatenáctiletého katolíka Carla Josepha z Rettkau, zapsaného roku 1770 na rytířskou akademii v Lehnici.",
@@ -1307,11 +1309,13 @@
         }
       ],
       "zaznamy": [
+        "o_1736_rettkau_maria_francisca_guller",
         "n_1737_hochkirch_maria_josepha_giller",
         "n_1739_hochkirch_maria_anna_giller",
         "n_1739_rettkau_slecna_gullerova_kmotra",
         "n_1740_rettkau_maria_gustava_guller",
         "n_1740_rettkau_hedwig_hammer_kmotra",
+        "o_1742_rettkau_friderica_giller_unruh",
         "n_1750_rettkau_maria_barbara_giller",
         "n_1751_rettkau_carl_joseph_giller",
         "z_1810_gillern_dominika",
@@ -1666,6 +1670,7 @@
         "Syn Christopha Heinricha von Giller; bratři Carl Heinrich (náš předek) a Franz Joseph.",
         "Hejtman (správce) biskupského panství Preichau (dnes Przychowa u Stínavy) – v matrice roku 1710 „Administrator Capitaneatus Preichaviensis“, později „Hauptmann allhier in Preichau“; pán na Schwebedowě ve svobodném stavovském panství Milicz (v matrikách Preichau čteno „Schwibendorf / Schreibendorf“), na Rettkau a od roku 1730 na Priedemostu u Hlohova. Úřad v Preichau zastával asi do roku 1742.",
         "Manželka Maria Martha. Děti pokřtěné v Preichau: Joseph Anton Leopold (6. 9. 1710), Maria Anna Ludovica (?) (12. 4. 1718) a Maria Barbara Francisca (3. 10. 1721); dalšími dcerami byly Maria Carolina a Maria Ludovica, které v letech 1722–1725 v Preichau kmotrovaly.",
+        "Dne 22. 5. 1742 je v oddavkách jeho dcera výslovně pojmenovaná Maria Anna Friderica a otec uveden jako dědičný pán na Rettkau. Jedním ze svědků jejího sňatku s Johannem Carlem von Unruh byl Franz Joseph von Giller, pán na Krohlau. Nevěstina matka není jmenována. Totožnost s některou ze dříve známých dcer pokřtěných v Preichau zatím není potvrzena.",
         "Roku 1714 byl v Krehlau kmotrem synovce Carla Wilhelma Vita.",
         "4. 6. 1732 získal spolu s bratrancem Karlem Josefem český stav svobodných pánů.",
         "Rettkau zůstalo „rodovým sídlem“ – ještě roku 1792 se jeho vnučka, kanovnice Maria Josepha svobodná paní von Giller, psala „z dědova rodového sídla Rettkau“.",
@@ -1730,7 +1735,8 @@
         "n_1705_preichau_giller_kmotr",
         "n_1683_giller_johann_christoph",
         "o_1714_giller_klinge",
-        "o_1723_preichau_svedci_giller"
+        "o_1723_preichau_svedci_giller",
+        "o_1742_rettkau_friderica_giller_unruh"
       ]
     },
     "joseph_anton": {
@@ -1843,7 +1849,8 @@
         "Čtyři z těchto dětí zemřely malé: Christoph Franz Gregor (pohřben 20. 4. 1718, 2 roky), Johann Heinrich Ferdinand (12. 12. 1718, 24 týdnů), Maria Elisabeth Apolonia (27. 10. 1719, 5 týdnů) a Anna Josepha Francisca (28. 5. 1724, 3 roky).",
         "Roku 1710 byl kmotrem v Preichau.",
         "Po roce 1725 se mu v Krehlau další děti nekřtily a v letech 1738–1757 se tam žádná z dcer nevdávala. Horní Krehlau statek pustil: roku 1745 tam sídlila rodina von Mostroschin a nejpozději v prosinci 1749 Johann Wenzel von Ertel. Sám Franz Joseph ale v Krehlau zůstal nebo se tam vracel – 16. 9. 1747 tam byl kmotrem jako „der Wohlgebohrne Herr Franz Joseph v. Giller, gewesener Erbherr auf Ober Krehlau“ (bývalý dědičný pán Horního Krehlau).",
-        "Ze známých dětí přežily dětství nejspíš dcery Maria Anna Johanna Victoria (1717; roku 1723 kmotrou) a Maria Barbara Susanna (1722), syn Friedrich Joseph Wilhelm (1724) a Maria Hedwig (1725). Friedrich Joseph Wilhelm byl jediným synem, který mohl rod této větve dál nést."
+        "Ze známých dětí přežily dětství nejspíš dcery Maria Anna Johanna Victoria (1717; roku 1723 kmotrou) a Maria Barbara Susanna (1722), syn Friedrich Joseph Wilhelm (1724) a Maria Hedwig (1725). Friedrich Joseph Wilhelm byl jediným synem, který mohl rod této větve dál nést.",
+        "Dne 22. 5. 1742 byl při sňatku dcery Johanna Christopha z Rettkau svědkem Franz Joseph von Giller s označením pán na Krohlau. Shoda jména a sídla s držitelem Horního Krehlau je velmi silná. V roce 1747 už byl v křtu výslovně bývalým držitelem."
       ],
       "vztahy": [
         {
@@ -1881,6 +1888,7 @@
       ],
       "zaznamy": [
         "o_1714_giller_klinge",
+        "o_1742_rettkau_friderica_giller_unruh",
         "n_1747_krehlau_franz_joseph_kmotr"
       ]
     },

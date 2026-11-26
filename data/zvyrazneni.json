@@ -3706,5 +3706,41 @@
   ],
   "status": "ok",
   "note": "Celý prostřední zápis. Friderica na Rettkau a Hedwig na Hammeru jsou uvedeny za jménem dítěte."
+ },
+ "o_1736_rettkau_maria_francisca_guller": {
+  "boxes": [
+   [
+    0.017,
+    0.017,
+    0.987,
+    0.89
+   ],
+   [
+    0.017,
+    0.895,
+    0.452,
+    0.983
+   ]
+  ],
+  "status": "ok",
+  "note": "Dvě po sobě jdoucí strany matriky. Nahoře sňatek, svědci a dispens, dole končí titulatura oddávajícího."
+ },
+ "o_1742_rettkau_friderica_giller_unruh": {
+  "boxes": [
+   [
+    0.017,
+    0.055,
+    0.987,
+    0.468
+   ],
+   [
+    0.017,
+    0.474,
+    0.987,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": "Dole na první straně datum a ženich, nahoře na další straně oba statky, nevěsta, otec a svědci."
  }
 }

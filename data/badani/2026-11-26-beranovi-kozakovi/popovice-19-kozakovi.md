@@ -26,3 +26,5 @@
 Katalogová data jsou ověřena. V použitém místním materiálu a ve veřejných zdrojích mimo pozastavené portály jsem neměl k prohlédnutí obraz popovického rejstříku ani knihy narozených. Přesný snímek a folio křtu či sňatku proto zatím chybí.
 
 **Dvě nezávislá čtení posledního řádku.** Obě podporují povolání kováře a „panstwj Kopidlna“. Samotné sídlo vychází jednou jako Libáň, podruhé jako Labouň. Palackého místopis podle stavu roku 1843 spojuje s Kopidlnem Libáň. Pro hledání oddavek a dřívějších křtů má proto Libáň přednost, farní knihy pro Labouň zůstávají druhou možností. [Rukopis, dobové čtyři výřezy a knihy obou farností](liban-a-laboun.md).
+
+Pro rodiče Kateřiny je vedle rejstříku 131-6 a knihy narozených 131-1 evidována také kniha oddaných 131-4 (1784–1853). Ve zkoumaných veřejných jmenných indexech se nepodařilo doložit odpovídající křest ani oddavky. [Indexy a kontrolované varianty jmen](popovice-jmenne-indexy.md).

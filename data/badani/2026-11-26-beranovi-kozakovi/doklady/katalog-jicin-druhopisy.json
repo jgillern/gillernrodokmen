@@ -1,0 +1,968 @@
+[
+ {
+  "id": "09499c65-1e35-4302-a90e-216ec21b1194",
+  "name": "Státní okresní archiv Jičín: Sbírka druhopisů matrik okresu Jičín (I. svazek). Inventář, strojopisná pomůcka, 2011",
+  "description": null,
+  "result": null,
+  "permalink": null,
+  "order": 1,
+  "published": false,
+  "depth": 1,
+  "pos": 1,
+  "childCnt": 0,
+  "indexed": true,
+  "parent": null,
+  "parts": [
+   {
+    "id": "4fb3b45b-d9d6-43f8-a3f4-ac9b6f4d8bec",
+    "value": null,
+    "type": "PT~FINDINGAID~INFO",
+    "childParts": [],
+    "items": [
+     {
+      "id": "cfd98e00-6f16-4004-8cf4-bd9dba220a1a",
+      "value": "413",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~ID"
+     },
+     {
+      "id": "a00f4099-0877-4794-b6d1-8c8b44901a32",
+      "value": "Inventář",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~TYPE"
+     },
+     {
+      "id": "95cdd81e-ea95-4c4c-885b-e13d6a03ae7a",
+      "value": "strojopisná pomůcka",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~FORM~TYPE"
+     },
+     {
+      "id": "f8dc9b29-1e8f-4249-afcd-e7378bda59db",
+      "value": "efddef54-f453-4127-8d51-d4e03c8b87c8",
+      "visible": true,
+      "href": null,
+      "type": "ORIG~PLACES~REF"
+     },
+     {
+      "id": "e8a38e40-9095-40b8-b572-5fce6806bc94",
+      "value": "{\"from\":\"1799\",\"valueFromEstimated\":false,\"to\":\"1949\",\"valueToEstimated\":false,\"format\":\"Y-Y\"}",
+      "visible": true,
+      "href": null,
+      "type": "UNIT~DATE"
+     },
+     {
+      "id": "5cd6ed13-48b9-4595-a1e8-41674c5c36a1",
+      "value": "2011",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~YEAR~OF~ORIGIN"
+     },
+     {
+      "id": "9431f3b7-e8c7-4a45-8e17-246331501231",
+      "value": "8f686a19-3121-4ce9-9902-c5788b4329c8",
+      "visible": true,
+      "href": null,
+      "type": "FUND~REF"
+     },
+     {
+      "id": "e3421a2d-9359-4a32-b49b-79c82055ebb3",
+      "value": "aa5a090e-1fed-4d01-9c43-2dde0756c659",
+      "visible": true,
+      "href": null,
+      "type": "FUND~INST~REF"
+     },
+     {
+      "id": "5edcbe15-ffd5-4780-af75-a91fac7e0fb2",
+      "value": "Achivní správa Ministerstva vnitra České republiky: 30440",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~COPY"
+     },
+     {
+      "id": "9c917b68-5322-4937-9ca1-24d25dbf36c0",
+      "value": "Státní oblastní archiv v Hradci Králové: 10165",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~COPY"
+     }
+    ]
+   },
+   {
+    "id": "afbad71c-cffc-4013-bf61-20d9deb4041d",
+    "value": "Sbírka druhopisů matrik okresu Jičín (I. svazek)",
+    "type": "PT~TITLE",
+    "childParts": [],
+    "items": [
+     {
+      "id": "d4a93a33-74ab-49b9-a870-0342f3ad5e28",
+      "value": "Sbírka druhopisů matrik okresu Jičín (I. svazek)",
+      "visible": true,
+      "href": null,
+      "type": "TITLE"
+     }
+    ]
+   }
+  ],
+  "attachments": [],
+  "digitalObjects": [],
+  "type": "FINDING_AID"
+ },
+ {
+  "id": "12ff02b9-2d84-4d0a-a425-2169806bb3f8",
+  "name": "Státní okresní archiv Jičín: Sbírka druhopisů matrik okresu Jičín (III. svazek). Inventář, strojopisná pomůcka, 2011",
+  "description": null,
+  "result": null,
+  "permalink": null,
+  "order": 1,
+  "published": false,
+  "depth": 1,
+  "pos": 1,
+  "childCnt": 0,
+  "indexed": true,
+  "parent": null,
+  "parts": [
+   {
+    "id": "8042044b-9da0-4379-b359-50770680d7ff",
+    "value": null,
+    "type": "PT~FINDINGAID~INFO",
+    "childParts": [],
+    "items": [
+     {
+      "id": "6909caee-de1e-4e00-a6c7-4973abb955a1",
+      "value": "415",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~ID"
+     },
+     {
+      "id": "4e45cf48-aba3-422d-8421-8eba70cdcd50",
+      "value": "Inventář",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~TYPE"
+     },
+     {
+      "id": "dd0778fd-36e6-4cce-8271-9fe231e2e5d5",
+      "value": "strojopisná pomůcka",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~FORM~TYPE"
+     },
+     {
+      "id": "f8faf143-1088-4b94-bc30-6d1a6e76fd8c",
+      "value": "efddef54-f453-4127-8d51-d4e03c8b87c8",
+      "visible": true,
+      "href": null,
+      "type": "ORIG~PLACES~REF"
+     },
+     {
+      "id": "8125e161-9927-4682-a4f2-ca00c2bffe2a",
+      "value": "{\"from\":\"1799\",\"valueFromEstimated\":false,\"to\":\"1949\",\"valueToEstimated\":false,\"format\":\"Y-Y\"}",
+      "visible": true,
+      "href": null,
+      "type": "UNIT~DATE"
+     },
+     {
+      "id": "1a4db67d-6a59-4f06-bae2-2e0669e0a580",
+      "value": "2011",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~YEAR~OF~ORIGIN"
+     },
+     {
+      "id": "cb09100e-dac8-47f2-a261-7f17ac6f0619",
+      "value": "8f686a19-3121-4ce9-9902-c5788b4329c8",
+      "visible": true,
+      "href": null,
+      "type": "FUND~REF"
+     },
+     {
+      "id": "3ec089d5-715c-45c6-a85c-e0da9ef8b294",
+      "value": "aa5a090e-1fed-4d01-9c43-2dde0756c659",
+      "visible": true,
+      "href": null,
+      "type": "FUND~INST~REF"
+     },
+     {
+      "id": "749998ed-0c37-4159-b731-88bde9776148",
+      "value": "Achivní správa Ministerstva vnitra České republiky: 30442",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~COPY"
+     },
+     {
+      "id": "79ae2664-f66c-4260-a874-408e4b877073",
+      "value": "Státní oblastní archiv v Hradci Králové: 10167",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~COPY"
+     }
+    ]
+   },
+   {
+    "id": "06e08a6e-fbc4-4d15-a885-a02b72fde08b",
+    "value": "Sbírka druhopisů matrik okresu Jičín (III. svazek)",
+    "type": "PT~TITLE",
+    "childParts": [],
+    "items": [
+     {
+      "id": "fdc45259-b03d-4ea6-8e19-0017e285f31a",
+      "value": "Sbírka druhopisů matrik okresu Jičín (III. svazek)",
+      "visible": true,
+      "href": null,
+      "type": "TITLE"
+     }
+    ]
+   }
+  ],
+  "attachments": [],
+  "digitalObjects": [],
+  "type": "FINDING_AID"
+ },
+ {
+  "id": "8f686a19-3121-4ce9-9902-c5788b4329c8",
+  "name": "Státní okresní archiv Jičín: Sbírka druhopisů matrik okresu Jičín 1784 — 1949 (1950)",
+  "description": null,
+  "result": null,
+  "permalink": null,
+  "order": 1,
+  "published": false,
+  "depth": 1,
+  "pos": 1,
+  "childCnt": 0,
+  "indexed": true,
+  "parent": null,
+  "parts": [
+   {
+    "id": "1d39bd0e-0a18-4567-aad3-b215a24686ce",
+    "value": null,
+    "type": "PT~FUND~INFO",
+    "childParts": [],
+    "items": [
+     {
+      "id": "76082cf2-f04a-4185-9553-4ce1930d9498",
+      "value": "aa5a090e-1fed-4d01-9c43-2dde0756c659",
+      "visible": true,
+      "href": null,
+      "type": "INST~REF"
+     },
+     {
+      "id": "04c78411-7cfc-4759-8804-adac860baaa8",
+      "value": "2220",
+      "visible": true,
+      "href": null,
+      "type": "CISLO~NAD"
+     },
+     {
+      "id": "189a6aa7-609b-4a8e-9ca6-e7fce8eb7586",
+      "value": "{\n  \"from\" : \"1784\",\n  \"valueFromEstimated\" : false,\n  \"to\" : \"1949\",\n  \"valueToEstimated\" : false,\n  \"format\" : \"Y-Y\"\n}",
+      "visible": true,
+      "href": null,
+      "type": "UNIT~DATE"
+     },
+     {
+      "id": "7c59132f-6ce9-46cb-aa77-dcef40e1f490",
+      "value": "2018-12-05",
+      "visible": true,
+      "href": null,
+      "type": "FUND~UPTODATE"
+     },
+     {
+      "id": "7160d6e4-5f23-4f6a-b6aa-8f58cc0f789d",
+      "value": "DIRECT_CARE",
+      "visible": false,
+      "href": null,
+      "type": "FUND~EVIDENCE~STATUS"
+     },
+     {
+      "id": "75b892bb-628b-4102-8a67-9e537078bdc5",
+      "value": "Archivní soubory v přímé péči instituce, uložené v instituci",
+      "visible": true,
+      "href": null,
+      "type": "FUND~EVIDENCE~STATUS~TEXT"
+     },
+     {
+      "id": "70718596-a963-40ce-af47-a8db5b1574ef",
+      "value": "Částečně přístupný",
+      "visible": true,
+      "href": null,
+      "type": "ACCESSIBILITY"
+     },
+     {
+      "id": "2e632046-5f4c-4ab5-a46f-9fe29eb9dad9",
+      "value": "Římskokatolická církev - Farní úřad Jičín, Libuň, Markvartice, Mladějov, Osenice, Sobotka, Újezd pod Troskami\r\nČeskobratrská církev evangelická - Farní sbor Hořice, Jičín\r\nČeskoslovenská církev - Farní sbor Jičín, Nová Paka, Vysoké Veselí\r\nCivilní (okresní) úřady - Okresní úřad Hořice, Jičín, Nová Paka",
+      "visible": true,
+      "href": null,
+      "type": "FUND~ORIG~NOTE"
+     },
+     {
+      "id": "827e770b-ee05-4dc6-bc8e-ef2635ea35a8",
+      "value": "druhopisy matrik 1799 - 1949 (1950)",
+      "visible": true,
+      "href": null,
+      "type": "FUND~TOPIC"
+     },
+     {
+      "id": "193aa2cd-47ef-4bd0-98a2-5440d5cc1405",
+      "value": "ffe4df60-addd-4884-b1ba-ae2fc66148c4",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~REF"
+     },
+     {
+      "id": "bc0fe6c2-343f-465a-9a23-1cbb5f8d79b0",
+      "value": "09499c65-1e35-4302-a90e-216ec21b1194",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~REF"
+     },
+     {
+      "id": "da198bfe-ec2f-4eaf-aaea-669563f3c41c",
+      "value": "12ff02b9-2d84-4d0a-a425-2169806bb3f8",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~REF"
+     },
+     {
+      "id": "e10f7cd5-1096-4fc2-beeb-b5c56077a37c",
+      "value": "3bfd57d6-ddb5-47fe-997c-7808c9fcc097",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "769225ea-ca03-4f8b-83b8-60ee2da5b111",
+      "value": "7fcc83dd-81ab-435d-a484-0323f816e6cf",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "e6d7fcd3-207f-4ca1-be17-82045d6d654b",
+      "value": "a75a93f4-37a4-4614-b003-5b04d2abceaf",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "6b48fc10-a949-40dc-878b-4b97a04b5b65",
+      "value": "4453943c-2b53-41d8-8d54-f9d41b094e8d",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "c2b41732-89be-44a6-bb5e-c729a4050a35",
+      "value": "852c3d3b-fc40-46bd-8907-301275c84744",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "67d1f366-c375-4d51-aca2-c8dd178cbfb8",
+      "value": "e1acee57-b60f-4834-a96a-694d6563dce1",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "1a3ca782-f8ac-48b6-929e-d5ec41f1938b",
+      "value": "d82431d2-43f3-49af-9469-2d187da60625",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "aacff37a-be68-461c-949c-083412a4865f",
+      "value": "5fc4acdc-a102-464f-9099-57fd0db9d405",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "fd06caa9-a0a8-47f1-9544-cdb1b274cd90",
+      "value": "158c7357-a22a-4385-8188-ec82b075a734",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "fce2f6ea-37f9-4e1e-95da-d799e2f4fbac",
+      "value": "06db10c2-79b9-4c95-b1b7-bd41d1005fac",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "7f085f4d-5ec3-40a6-850f-addca0275d22",
+      "value": "a4fcc37b-da19-4689-a79a-d4b6dd574214",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "e1aa83f4-5a74-402b-8e2f-4198a14f0f33",
+      "value": "3e015d7e-eefb-46ff-9a99-5b7f6313992e",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "763015fa-3fc4-4119-81e9-909c9cc56ec7",
+      "value": "05e6fbd9-9425-4b33-9d80-53601adee0d4",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "fa0ddcfa-164d-4210-8513-dffa5d808811",
+      "value": "d740363b-dfd4-4457-a5ba-0c71fdb2675c",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "ed96f901-6538-4201-a862-f908d0fdc610",
+      "value": "5c2a0e57-fbbe-4da4-92f1-8840f84ece8e",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "df253924-33ce-40bc-a2b7-00b289dd1db9",
+      "value": "ccd9a4d5-a672-4cc6-a2b3-a3d3e93bcfbd",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "f26f0a08-c235-4cc3-9f8f-fa30bb5bb558",
+      "value": "e49e5d48-583a-4a25-a66d-9b666c52ae1b",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "f3479fd6-f29c-48cf-bfef-da62ccf7b5df",
+      "value": "1a0bc054-45f9-4720-9b72-f0801b2a6c95",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "f1aded5d-0544-43a8-b038-fafcd7392303",
+      "value": "d5beddcb-1cdb-41f1-974f-ef24491ee401",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "26e4f105-1dbd-47d7-b3ac-97db3145802d",
+      "value": "834e2dff-5310-4b58-800b-f82c30af2b19",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "ee11d879-7acb-4df6-84eb-ba8ec471bfa5",
+      "value": "9e35c872-7692-4951-ba55-dbd01a66bcbb",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "100d7817-300c-4056-8b8a-68d4010a7b3e",
+      "value": "21407005-1ccf-4376-ae81-06c9f2eddd45",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "573b1e92-fa66-44dc-9db1-b0c5ceb07c6c",
+      "value": "0319e827-67ae-4d16-b5b5-8b502e4adcff",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "0c803b91-3953-49a9-95dc-aa507f99f084",
+      "value": "970190af-cdbd-4ff5-9d58-98fe1cbb270a",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "239c5aab-e35e-44b9-8fe5-a79af0b7019b",
+      "value": "dd110769-30a6-4188-bd1e-79335d2ed695",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "6f2482e4-a835-4109-89f1-e626b0e8a843",
+      "value": "543d4834-126a-4200-928c-ff1502b37d08",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "5f7f5037-c70c-4db0-bbe7-9f8ee8870c74",
+      "value": "fd95eb84-66a4-46ab-8a3a-29317ff36413",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "5d1c1133-0c1e-4f43-bf7a-d78a01872c78",
+      "value": "da167a2e-4cce-4fb1-bdf1-65d0d9925b9c",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "d6175414-6b89-4038-a6b3-7ef761220a46",
+      "value": "245cd359-424d-4099-b3f7-986a77af32e7",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "12932495-c480-4d87-b03b-bdc6639fec5a",
+      "value": "6e8c8161-35f8-4d8d-9062-c51e4d915f03",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "2a2f9e33-c103-4b7b-82e1-fa58d914460b",
+      "value": "cd38a64e-7b2a-4555-9757-f9d887f631c4",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "555300f9-6f07-4674-9b64-62af8a40f68e",
+      "value": "4397a3b4-57d1-40b6-a0bf-2d13859c82ef",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "0c9c90b1-ec19-4613-b9f8-56ed48699a74",
+      "value": "fc32f091-11dc-4dc9-95f4-0083b11cc54b",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "0cffd4b2-5c8b-4eac-a247-fa243c114610",
+      "value": "90ec6ac2-16d5-488c-9b71-8faafd4d4f64",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "d3fdf492-da1e-4384-884f-67b0482c5f45",
+      "value": "0ee3a745-ee6b-4f1b-abb2-1e8e823c7d03",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "77b0a52e-50fb-4ff1-a26d-b8c68832d573",
+      "value": "němčina",
+      "visible": false,
+      "href": null,
+      "type": "LANGUAGE"
+     },
+     {
+      "id": "0a775ff9-b582-477e-b7b7-85d31462aa35",
+      "value": "latina",
+      "visible": false,
+      "href": null,
+      "type": "LANGUAGE"
+     },
+     {
+      "id": "9fee7293-8833-455a-bb21-f39df28ded65",
+      "value": "čeština",
+      "visible": false,
+      "href": null,
+      "type": "LANGUAGE"
+     },
+     {
+      "id": "6fb78e54-d70f-412b-b850-422d7db5229a",
+      "value": "čeština, latina, němčina",
+      "visible": true,
+      "href": null,
+      "type": "LANGUAGE~TEXT"
+     },
+     {
+      "id": "921938db-7563-4f9c-b773-0e6878bbcc89",
+      "value": "{\"type\":\"table\",\"data\":{\"columns\":[{\"name\":\"Název\"},{\"name\":\"Nezpracováno\"},{\"name\":\"Zpracováno\"},{\"name\":\"Inventarizováno\"},{\"name\":\"Poškozeno\"},{\"name\":\"Časový rozsah\"}],\"rows\":[[\"Kartony\",\"14\",\"0\",\"0\",\"10\",\"1799 — 1945\"],[\"Úřední knihy a rukopisy\",\"8\",\"10247\",\"10247\",\"20\",\"1784 — 1949 (1950)\"],[\"* úřední knihy\",\"8\",\"10247\",\"10247\",\"20\",\"1784 — 1949 (1950)\"],[\"Balíky\",\"5\",\"0\",\"0\",\"0\",\"1824 — 1926\"],[\"* balíky\",\"5\",\"0\",\"0\",\"0\",\"1824 — 1926\"]]}}",
+      "visible": true,
+      "href": null,
+      "type": "EVIDENCE~UNIT"
+     },
+     {
+      "id": "1003ebe1-ceee-4a74-ba4c-46d49be75658",
+      "value": "ca646e85-b65f-484c-928e-8557bac03a19",
+      "visible": true,
+      "href": null,
+      "type": "ORIG~PLACES~REF"
+     },
+     {
+      "id": "572185c1-9a69-4b2e-9b82-c5d6e4b83a0d",
+      "value": "d85f5a43-f03f-496f-a98c-7c2a30df9f0e",
+      "visible": true,
+      "href": null,
+      "type": "ORIG~PLACES~REF"
+     },
+     {
+      "id": "b4e0df40-24a4-44a2-9bd0-300f5ddaaef6",
+      "value": "be5fa53c-b28e-4b8d-9c32-05426d52682e",
+      "visible": true,
+      "href": null,
+      "type": "ORIG~PLACES~REF"
+     },
+     {
+      "id": "1b1a277b-c363-4c0d-9d76-59346c999a2a",
+      "value": "c119b318-b105-4411-93b1-83edd4d755fb",
+      "visible": true,
+      "href": null,
+      "type": "ORIG~PLACES~REF"
+     },
+     {
+      "id": "bcbb5b98-d3b4-48f7-aa92-fa84806d44ab",
+      "value": "Mezerovitý, Poškozený, Poškození:Prach, Plíseň, Křehké, Roztržené",
+      "visible": true,
+      "href": null,
+      "type": "FUND~PRESERVATION"
+     },
+     {
+      "id": "ac703c60-7897-4a53-a624-e376dae97fac",
+      "value": "Nezpracováno: 2,01 bm, Zpracováno: 40,59 bm (z toho Inventarizováno: 40,59 bm)",
+      "visible": true,
+      "href": null,
+      "type": "FUND~LENGTH"
+     },
+     {
+      "id": "1fc81553-7cd8-4c95-bcc0-b9c2aa751cc4",
+      "value": "Sbírky matrik",
+      "visible": false,
+      "href": null,
+      "type": "FUND~THEMATIC~GROUP"
+     },
+     {
+      "id": "c4181b04-9fed-47be-b7bf-7538c7298ea2",
+      "value": "Sbírky matrik",
+      "visible": true,
+      "href": null,
+      "type": "FUND~THEMATIC~GROUP~TEXT"
+     }
+    ]
+   },
+   {
+    "id": "6724d6a0-7905-445a-92fc-728b4337c301",
+    "value": "Sbírka druhopisů matrik okresu Jičín",
+    "type": "PT~TITLE",
+    "childParts": [],
+    "items": [
+     {
+      "id": "3f53f8dd-83cd-4fd7-af53-72e3f4d30b7b",
+      "value": "Sbírka druhopisů matrik okresu Jičín",
+      "visible": true,
+      "href": null,
+      "type": "TITLE"
+     }
+    ]
+   }
+  ],
+  "attachments": [],
+  "digitalObjects": [],
+  "type": "FUND"
+ },
+ {
+  "id": "e870439c-0ea2-4939-b8a4-1ad2fc589fca",
+  "name": "Státní okresní archiv Jičín: Archiv obce Robousy 1774 — 1945 (1951)",
+  "description": null,
+  "result": null,
+  "permalink": null,
+  "order": 1,
+  "published": false,
+  "depth": 1,
+  "pos": 1,
+  "childCnt": 0,
+  "indexed": true,
+  "parent": null,
+  "parts": [
+   {
+    "id": "47e5202c-c3d1-4352-84d3-c103580a147d",
+    "value": null,
+    "type": "PT~FUND~INFO",
+    "childParts": [],
+    "items": [
+     {
+      "id": "72337602-4716-4adb-838a-19eaeceae5ce",
+      "value": "aa5a090e-1fed-4d01-9c43-2dde0756c659",
+      "visible": true,
+      "href": null,
+      "type": "INST~REF"
+     },
+     {
+      "id": "c266efe8-ce4d-4533-886e-59467f815578",
+      "value": "1465",
+      "visible": true,
+      "href": null,
+      "type": "CISLO~NAD"
+     },
+     {
+      "id": "3ba987f5-06b5-4362-8b91-68dd910cd91d",
+      "value": "AO Robousy",
+      "visible": true,
+      "href": null,
+      "type": "FUND~MARK"
+     },
+     {
+      "id": "427b13ab-a863-43de-bca9-11af769f2c00",
+      "value": "{\n  \"from\" : \"1774\",\n  \"valueFromEstimated\" : false,\n  \"to\" : \"1945\",\n  \"valueToEstimated\" : false,\n  \"format\" : \"Y-Y\"\n}",
+      "visible": true,
+      "href": null,
+      "type": "UNIT~DATE"
+     },
+     {
+      "id": "3c340684-c3b3-4f13-8376-5ecfed73886f",
+      "value": "2013-04-08",
+      "visible": true,
+      "href": null,
+      "type": "FUND~UPTODATE"
+     },
+     {
+      "id": "601bc801-6f62-4038-9413-392fbf8315c9",
+      "value": "DIRECT_CARE",
+      "visible": false,
+      "href": null,
+      "type": "FUND~EVIDENCE~STATUS"
+     },
+     {
+      "id": "fb7b0ca3-42da-44da-a487-481eef24783e",
+      "value": "Archivní soubory v přímé péči instituce, uložené v instituci",
+      "visible": true,
+      "href": null,
+      "type": "FUND~EVIDENCE~STATUS~TEXT"
+     },
+     {
+      "id": "0ce1143d-9fee-45e7-be76-dc04f7cee747",
+      "value": "Nepřístupný",
+      "visible": true,
+      "href": null,
+      "type": "ACCESSIBILITY"
+     },
+     {
+      "id": "db7f8b25-6211-48ae-9446-601b8127be7b",
+      "value": "urbář 1774, účetní doklady, příděly, korespondence",
+      "visible": true,
+      "href": null,
+      "type": "FUND~TOPIC"
+     },
+     {
+      "id": "94363395-f8aa-48c1-ab96-01c655d43ab2",
+      "value": "63b56ce7-c628-4c9f-be45-f2dd5b017915",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "dc1f3234-0b1c-4530-aaf8-776099531a2c",
+      "value": "6a682cfa-31b4-440d-92d9-1f720c3f9e3b",
+      "visible": true,
+      "href": null,
+      "type": "ORIGINATOR~REF"
+     },
+     {
+      "id": "33507e95-c906-439b-859f-878cf36adc1e",
+      "value": "čeština",
+      "visible": false,
+      "href": null,
+      "type": "LANGUAGE"
+     },
+     {
+      "id": "c213da2d-1e99-42d2-8079-566e17f51188",
+      "value": "čeština",
+      "visible": true,
+      "href": null,
+      "type": "LANGUAGE~TEXT"
+     },
+     {
+      "id": "ca86d6e1-d7f0-4953-b46f-7d082cb6fe33",
+      "value": "{\"type\":\"table\",\"data\":{\"columns\":[{\"name\":\"Název\"},{\"name\":\"Nezpracováno\"},{\"name\":\"Zpracováno\"},{\"name\":\"Inventarizováno\"},{\"name\":\"Poškozeno\"},{\"name\":\"Časový rozsah\"}],\"rows\":[[\"Balíky\",\"1\",\"0\",\"0\",\"0\",\"1939 — 1944\"],[\"* balíky\",\"1\",\"0\",\"0\",\"0\",\"1939 — 1944\"],[\"Registraturní pomůcky\",\"1\",\"0\",\"0\",\"1\",\"1928 — 1940\"],[\"* podací protokoly/deníky\",\"1\",\"0\",\"0\",\"1\",\"1928 — 1940\"],[\"Úřední knihy a rukopisy\",\"8\",\"0\",\"0\",\"4\",\"1774 — 1945 (1951)\"],[\"* úřední knihy\",\"8\",\"0\",\"0\",\"4\",\"1774 — 1945 (1951)\"]]}}",
+      "visible": true,
+      "href": null,
+      "type": "EVIDENCE~UNIT"
+     },
+     {
+      "id": "b106f260-7343-4d4b-b834-de163c723b23",
+      "value": "8300be29-6f66-46fc-8340-8f0cc7eaa461",
+      "visible": true,
+      "href": null,
+      "type": "ORIG~PLACES~REF"
+     },
+     {
+      "id": "dd2e10cb-8645-4b22-89d9-c339b65884e0",
+      "value": "Mezerovitý, Poškozený, Poškození:Roztržené, Plíseň, kn. č. 1, 4, 5, 6",
+      "visible": true,
+      "href": null,
+      "type": "FUND~PRESERVATION"
+     },
+     {
+      "id": "6d145708-e3f7-43e5-81dc-f10b9807aef1",
+      "value": "Samospráva po roce 1850 - městská a obecní (zde i archivy měst a obcí z období před rokem 1850)",
+      "visible": false,
+      "href": null,
+      "type": "FUND~THEMATIC~GROUP"
+     },
+     {
+      "id": "3b8356be-82a0-49a6-9601-a1f90071ed21",
+      "value": "Samospráva po roce 1850 - městská a obecní (zde i archivy měst a obcí z období před rokem 1850)",
+      "visible": true,
+      "href": null,
+      "type": "FUND~THEMATIC~GROUP~TEXT"
+     }
+    ]
+   },
+   {
+    "id": "e15d7bd1-1ff1-44a9-92c3-47d8756dd087",
+    "value": "Archiv obce Robousy",
+    "type": "PT~TITLE",
+    "childParts": [],
+    "items": [
+     {
+      "id": "1edeff4e-8081-43aa-9776-a0055e7729d2",
+      "value": "Archiv obce Robousy",
+      "visible": true,
+      "href": null,
+      "type": "TITLE"
+     }
+    ]
+   }
+  ],
+  "attachments": [],
+  "digitalObjects": [],
+  "type": "FUND"
+ },
+ {
+  "id": "ffe4df60-addd-4884-b1ba-ae2fc66148c4",
+  "name": "Státní okresní archiv Jičín: Sbírka druhopisů matrik okresu Jičín (II. svazek). Inventář, strojopisná pomůcka, 2011",
+  "description": null,
+  "result": null,
+  "permalink": null,
+  "order": 1,
+  "published": false,
+  "depth": 1,
+  "pos": 1,
+  "childCnt": 0,
+  "indexed": true,
+  "parent": null,
+  "parts": [
+   {
+    "id": "d35389d9-f033-4ef1-9882-253bce55187e",
+    "value": null,
+    "type": "PT~FINDINGAID~INFO",
+    "childParts": [],
+    "items": [
+     {
+      "id": "4fa23c73-1ceb-4cf1-bcbb-737923531c47",
+      "value": "414",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~ID"
+     },
+     {
+      "id": "bc7a55c8-0c23-4581-a0a9-4da48bc4792e",
+      "value": "Inventář",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~TYPE"
+     },
+     {
+      "id": "863fc455-8aa3-471f-a709-80e528acc6cb",
+      "value": "strojopisná pomůcka",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~FORM~TYPE"
+     },
+     {
+      "id": "d74ae9f9-0f53-4fc1-9778-13cef8096fc0",
+      "value": "efddef54-f453-4127-8d51-d4e03c8b87c8",
+      "visible": true,
+      "href": null,
+      "type": "ORIG~PLACES~REF"
+     },
+     {
+      "id": "ad29f36e-9547-4cb8-ba36-75cb8f7e593c",
+      "value": "{\"from\":\"1799\",\"valueFromEstimated\":false,\"to\":\"1949\",\"valueToEstimated\":false,\"format\":\"Y-Y\"}",
+      "visible": true,
+      "href": null,
+      "type": "UNIT~DATE"
+     },
+     {
+      "id": "6eac6777-5868-4968-bd6d-bbc5e80cd795",
+      "value": "2011",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~YEAR~OF~ORIGIN"
+     },
+     {
+      "id": "06209662-8e80-4b85-abff-d10208d964e1",
+      "value": "8f686a19-3121-4ce9-9902-c5788b4329c8",
+      "visible": true,
+      "href": null,
+      "type": "FUND~REF"
+     },
+     {
+      "id": "372ca453-ee4a-43fb-a8e2-b4479c24ff48",
+      "value": "aa5a090e-1fed-4d01-9c43-2dde0756c659",
+      "visible": true,
+      "href": null,
+      "type": "FUND~INST~REF"
+     },
+     {
+      "id": "b92a005c-c680-4919-9eb4-cebd50a403cc",
+      "value": "Achivní správa Ministerstva vnitra České republiky: 30441",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~COPY"
+     },
+     {
+      "id": "ec046621-1f89-40f3-ad37-d2810c878112",
+      "value": "Státní oblastní archiv v Hradci Králové: 10166",
+      "visible": true,
+      "href": null,
+      "type": "FINDINGAID~COPY"
+     }
+    ]
+   },
+   {
+    "id": "0df39a84-2de7-4379-811c-bd7adc3bb822",
+    "value": "Sbírka druhopisů matrik okresu Jičín (II. svazek)",
+    "type": "PT~TITLE",
+    "childParts": [],
+    "items": [
+     {
+      "id": "400c81ed-9f41-4339-b628-a9a361973417",
+      "value": "Sbírka druhopisů matrik okresu Jičín (II. svazek)",
+      "visible": true,
+      "href": null,
+      "type": "TITLE"
+     }
+    ]
+   }
+  ],
+  "attachments": [],
+  "digitalObjects": [],
+  "type": "FINDING_AID"
+ }
+]

@@ -12,6 +12,14 @@ Tatáž kronika k roku 1920 uvádí, že zastupitelstvo Josefu Beranovi pronajal
 
 Emilie Marie (* 8. 7. 1882, Robousy čp. 33) má shodné jméno, obec a otce Františka. Ztotožnění s matkou Josefa Berana zůstává otevřené. U rodiny této Emilie je doložen sňatek jejích rodičů Františka Kozáka a Barbory Kaplové 15. ledna 1867 a sňatek jejího bratra **Antonína Kozáka** s Františkou Víchovou 7. února 1896. Roku 1896 žil Antonín v čp. 33, otec je uveden v čp. 30. Nevěstin ani ženichův údaj sám nevysvětluje číslo 75 z roku 1936. [Emiliin křest, Robousy čp. 33](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-TDDX) · [Sňatek Antonína, Jičín 70-3365, fol. 4, zápis 2, sn. 6](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-THHV)
 
+## Kudy hledat doklad spojující obě rodiny
+
+| Otázka | Nejpřímější dosud známý pramen | Co je skutečně dostupné |
+| --- | --- | --- |
+| Kdo byli rodiče Josefa staršího a odkud přišel? | Pozůstalost po 26. 10. 1950, Okresní soud Vlašim **NAD 1241**. Nezávisle na ní pravonínské domovské listy, **NAD 138, AP 146**. | Veřejné katalogy popisují fondy. V žádném nebyl nalezen jmenný spis Josefa Berana. [Pozůstalostní agenda](vlasim-pozustalost-katalog.md) · [Obecní archiv](domovske-listy-a-skolni-matriky.md) |
+| Kde hledat sňatek Josefa s Emilií? | Pro katolický obřad ve vsi přísluší samostatná oddací matrika Robousy 1901–1949. U České Skalice lze pokračovat od sn. 80 knihy 21-8666. | U Robous je veřejně doložena existence knihy. Snímky městské České Skalice začínají pro rozhodné období na přelomu 1908/1909. Jmenné civilní rejstříky mají vlastní územní i časové pokrytí. [Farnost a druhopisy](farnost-robousy-1901.md) · [Knihy a snímky](opisy-a-filmy-jicin-nachod.md) · [Civilní sňatky](civilni-snatky-pred-1919.md) |
+| Který doklad může spojit Emilii Marii z domu č. 33 s rodinou Beranových? | Josefův úplný křest, Velká Jesenice č. 82, 13. 6. 1910. Do pravonínského spisu ke sňatku syna byly roku 1936 založeny tři listiny, v zápisu je přímo citován křestní list z 17. 9. 1936 č. j. 170. | Originál křtu ani jeho pozdější opis se zatím nepodařilo otevřít. Veřejně čitelný oddací zápis poskytuje datum, číslo domu a identifikaci listin. [Pravonín, snubní listiny](snubni-listiny-a-civilni-rejstriky.md) · [Velká Jesenice](velka-jesenice.md) |
+
 ## Pramenná zpráva
 
 - [První kolo, podrobný přehled s odkazy, prověřenými prameny a vyloučenými shodami](prvni-kolo.md).
@@ -38,7 +46,7 @@ V [semilském rejstříku 5214](semilsky-rejstrik-5214.md) se zachovaly výpisky
 
 K přímé rodině doplňují další cestu [dobové zápisy obchodního soudu](soudni-obchodni-rejstrik.md). K Václavu Kozákovi ze Želejova je důležitá formulace svatby jeho syna v roce 1867. Za zemřelého byl označen Václav. U matky Františky vlastní bydliště uvedeno není, Bozkov č. 59 se vztahuje k jejímu otci. [Přepis, prameny a úmrtní kniha Hrubá Skála 5753](vaclav-ze-zelejova.md)
 
-**Další stopa k Emilii a Josefovi** je v SOkA Jičín. Soupis okresních matričních opisů, v pozdějších pramenech nazývaných též druhopisy, má číslo **NAD 2220**. Archiv roku 2011 vykázal dokončení inventáře. Pro sňatek v Robousích po červenci 1901 se zatím podařilo doložit fond, nikoli jednotlivý svazek nebo snímek. Na Náchodsku obdobně existuje sbírka **NAD 1433, inventář AP 734 a dodatek AP 748**. [Prameny a přesný rozsah obou evidencí](opisy-a-filmy-jicin-nachod.md) · [Velká Jesenice a Náchod](velka-jesenice.md)
+**Další stopa k Emilii a Josefovi** je v SOkA Jičín. Soupis okresních matričních opisů, v pozdějších pramenech nazývaných též druhopisy, má číslo **NAD 2220**. Tři svazky inventáře z roku 2011 mají čísla **AP 413, 414 a 415**. Mezi původci je výslovně fara Jičín. Samostatná farnost Robousy byla obnovena v roce 1901 a ve zveřejněném výčtu uvedena není. Dochování jejího opisu po červenci 1901 zůstává otevřené. Na Náchodsku obdobně existuje sbírka **NAD 1433, inventář AP 734 a dodatek AP 748**. [Prameny a přesný rozsah obou evidencí](opisy-a-filmy-jicin-nachod.md) · [Velká Jesenice a Náchod](velka-jesenice.md)
 
 Josef Beran v Zápech u Brandýsa byl podle Úředního listu také majitelem cihelny. Jeho manželky, syn a působení v pivovaru umožňují rodinu odlišit i nezávisle na povolání. Zápský Josef zemřel **8. 7. 1943**, pravonínský **26. 10. 1950**. [Dobové zprávy a parte](cihlar-ze-zap.md) · [Zápis o živnosti z roku 1931](doklady/zapy-cihelna-1931.jpg)
 
@@ -47,3 +55,5 @@ Josef Beran v Zápech u Brandýsa byl podle Úředního listu také majitelem ci
 U obyvatel jesenického **čp. 82** se nepodařilo doložit příbuznost s Beranovými. Dříve přečtené křty obou dcer Svobodových odkazují na přesný den sňatku rodičů **18. 5. 1892**. V obecním archivu je identifikovaná evidence vydaných pracovních a čeledínských knížek a domovských listů, inv. č. 39, 1850–1907. [Křty, chybějící příbuzenské údaje a evidence](jesenice-82-rodice-a-kmotri.md)
 
 Pro usedlosti v Libuni a Kněžnicích byly dohledány [mapy stabilního katastru 1842 a pomůcky písemného operátu](libun-kneznice-stabilni-katastr.md). Pro rodinu Kaplových pomůže při odlišení jmen Jan Angl a Jan Kapl [farní soupis duší Robous 1847, inv. č. 20](kapl-angl-invalidni-evidence.md). V obou případech chybí jmenný odečet z konkrétního listu.
+
+U Jana Angla je samostatně dohledán [jmenný rejstřík Generálního velitelství Praha 1816–1847, AP 57](vojenske-rejstriky-angl.md). Na Hruboskalsku se podařilo odlišit [uveřejněné soupisy ročníků od jmenných údajů na originálních listech](hruboskalske-soupisy.md).

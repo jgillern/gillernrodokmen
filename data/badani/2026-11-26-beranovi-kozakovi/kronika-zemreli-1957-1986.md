@@ -2,6 +2,8 @@
 
 V jmenných rubrikách **zemřeli** za roky **1957–1986** jsem nenašel Emilii, Emílii, Mílu ani Ludmilu s příjmením Beranová. Uvedené roky mají jmenné soupisy, ale kronika nevysvětluje jejich úplnost ani to, jak v každém roce započítávala osady. Například roku 1960 byly pod jménem Pravonín sloučeny Pravonín, Písek a Buková a v roce 1975 kronika jmenuje Bukovou mezi osadami. Odlišné příjmení při případném dalším sňatku nelze z pouhé kroniky ověřit. [Obecní rozcestník](https://www.pravonin.cz/kronika/ms-5511/p1=5511) · [Místní sloučení, sn. 113](https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=113)
 
+**Úplnost jde ověřit na člence téže domácnosti.** Rodina ohlásila v Pravoníně pohřeb Ludmily Slunečkové, rozené Svatkové, zemřelé 8. 2. 1970, z domu smutku v Bukové č. 8. Všech šest položek v úplném seznamu zemřelých za rok 1970 bylo přečteno. Ludmilino jméno ani datum tam nejsou. Kronika přitom ze stejné adresy uvádí roku 1975 jejího zetě Josefa Berana. Absence Emilie v kronice proto nemůže rozhodnout o tom, zda měla vazbu k Pravonínu nebo u něj byla pohřbena. [Prameny a úplná rubrika ročníku 1970](kronika-kontrola-1970.md).
+
 ## Kontrola po snímcích
 
 Počítány jsou snímky PDF od 1. V pásmu 110–174 byly zkontrolovány roční závěrečné výčty a pasáže k pohřbům, bydlišti a soupisům obyvatel. Ostatní stránky mezi uvedenými soupisy tvoří převážně roční vyprávění. V letech 1987 a 1988 byly mimo toto kolo už samostatně prohlédnuty soupisy na sn. 202 a 223 bez hledaných jmen. Po roce 1988 nebylo zde souvisle kontrolováno. [Originál kroniky, sn. 110](https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=110)

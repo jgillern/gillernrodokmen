@@ -4,6 +4,14 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 
+## 26. 11. 2026 · výsledky desátého kola
+
+[Souhrn a pořadí dalších kontrol](badani/2026-11-26-desate-kolo/README.md) · [Deník č. 913–928](badani/2026-11-26-desate-kolo/denik.md).
+
+**Josef a Maximilián.** Kladrubský svědek Maximilián de Güllern je v úplném zápisu **27. 10. 1757**, den po narození dítěte. Otec Jakub Kristián **Gönttner**, dosud pracovně Pontner, měl podle publikovaného rodopisu roku 1747 s manželkou Annou dceru Josefu Markétu v Rychnově nad Kněžnou. Konkrétní kniha 142-7 a rejstřík 142-30 mají přednost před opakováním poděbradského průchodu. Příslušný rychnovský řádek a kmotři zůstávají nepřečteni. NA, Nejvyšší dvorský štolba, inv. 121 z let 1753–1754, přímo jmenuje **Marii Maximilianu Buckovskou**, vdovu po správci Tadeáši. Shoda místa, jména i stavu spojuje tuto ženu s kladrubskou kmotrou z r. 1757. Baltazarův dědický zápis nyní lze najít pod **DZV 482 C 5**. Josefův křest a svatba Maximiliána s Johannou zůstávají otevřené.
+
+**Nejstarší generace.** Opavský regest hovoří o službě **děda Karla Josefa** ve švédské válce a v bavorských válkách, Schimonův tisk o předcích a uherských nepokojích. Jméno děda a strana rodiny dosud nejsou zjištěny. Plný rytířský akt z roku 1726 je určen v českém sálbuchu 154, fol. 221v, a liší se od baronátu 1732 v sálbuchu 163, fol. 26r. Rodiče ani přesné roky narození Heinricha Christofa a Johanna Christofa zatím doloženy nejsou.
+
 ## 26. 11. 2026 · výsledky devátého kola
 
 [Souhrn a pořadí dalšího čtení](badani/2026-11-26-devate-kolo/README.md) · [Deník č. 897–912](badani/2026-11-26-devate-kolo/denik.md).

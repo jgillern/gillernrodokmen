@@ -1,6 +1,6 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
-[Desáté kolo. Plán pátrání po Josefovi, Maximiliánově sňatku a nejstarších předcích](data/badani/2026-11-26-desate-kolo/plan.md)
+[Desáté kolo. Kladruby, Rychnov, Baltazarovo dědictví a děd Karla Josefa](data/badani/2026-11-26-desate-kolo/README.md) · [Výchozí plán](data/badani/2026-11-26-desate-kolo/plan.md) · [Deník č. 913–928](data/badani/2026-11-26-desate-kolo/denik.md)
 
 [Deváté kolo. Kde hledat Josefovo narození, první sňatek Maximiliána a nejstarší dvě generace](data/badani/2026-11-26-devate-kolo/README.md) · [Výchozí scénáře](data/badani/2026-11-26-devate-kolo/plan.md) · [Deník č. 897–912](data/badani/2026-11-26-devate-kolo/denik.md)
 

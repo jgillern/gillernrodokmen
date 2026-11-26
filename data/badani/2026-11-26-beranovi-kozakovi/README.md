@@ -2,6 +2,14 @@
 
 Veřejné prameny prověřené 26. listopadu 2026. Výchozí zápis je sňatek Josefa Berana a Ludmily Slunečkové z 11. října 1936. Ženich se narodil 13. června 1910 ve Velké Jesenici čp. 82. Matrika jmenuje jeho rodiče Josefa Berana a Emilii rozenou Kozákovou a jejího otce Františka Kozáka z Robous čp. 75. Josef starší je podepsán jako svědek, mistr cihlářský z Pravonína čp. 72. [Pravonín 26, oddíl Buková, s. 200, sn. 141](https://ebadatelna.soapraha.cz/d/15260/141)
 
+## Co nyní může rozhodnout
+
+**Kozákovi.** Dne 13. listopadu 1909 jičínská farnost zaznamenala úmrtí Františka Kozáka, vdovce a bývalého okresního cestáře z Cidliny. Pohřben byl v Železnici. Zpráva uvádí 65 let. Františku Kozákovi narozenému v Želejově a později žijícímu v Robousích bylo v ten den 66 let. Manželku a rodiště lze hledat v přesně určené jičínské knize zemřelých **70-7799** a v obecní evidenci Cidliny. Ztotožnění cestáře s otcem Emilie Marie zůstává otevřené. [Zpráva z roku 1909 a měřítka ke srovnání](frantisek-kozak-cestar.md) · [Hřbitov v Železnici](zeleznice-pohreb-1909.md) · [Bylo už v roce 1909 v Robousích čp. 75?](robousy-75-pred-1909.md).
+
+**Beranovi.** Sčítání **1. března 1950** připadlo před říjnové úmrtí Josefa staršího. Arch zaznamenával celé datum narození, u přistěhovalých předchozí obec a u vdaných žen datum posledního sňatku. Pravonínská kronika dává pro hledání dvě adresy, Pravonín čp. 72 a Bukovou čp. 8, tehdy v obci Tisek. Veřejně dostupný je popis tiskopisu a katalog fondu **NAD 984**. Konkrétní arch rodiny se nepodařilo najít. [Sčítání a dostupnost](scitaci-arch-1950.md) · [Úmrtní matriky po 1. lednu 1950](umrti-1950-statni-matriky.md).
+
+**Samotná svatba rodičů.** Oddací zápis jejich syna roku 1936 výslovně říká „manželský syn katol. rodičů“. Sňatek před jeho narozením v červnu 1910 má proto při hledání přednost. Datum sňatku rodičů v zápisu chybí. Ve 26 dohledaných novinových rubrikách 1909–1910 se hledaný pár neobjevil. [Oddací zápis](snatek-1936-postaveni-syna.md) · [Jednotlivá čísla novin a způsob čtení](jicinske-noviny-souvisle-rubriky.md) · [Další novinové doklady pro Robousy](noviny-snatky-robousy.md).
+
 ## Josef Beran starší
 
 V obecní kronice pod rokem 1950 v seznamu zemřelých stojí **„26. 10. Josef Beran st. č. 72 (Buková č. 8)“**. Číslo 72 souhlasí s jeho podpisem u sňatku syna. Kronikář při synově úmrtí 22. srpna 1975 zopakoval obě adresy. Synův úmrtní list přitom výslovně udává jako místo smrti Vlašim. U otce proto známe datum úmrtí, ale jeho místo narození ani smrti z této poznámky určit nelze. [Kronika, rukopis s. 99, PDF sn. 103](https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=103) · [Srovnání k roku 1975, s. 128, PDF sn. 132](https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=132)
@@ -13,6 +21,10 @@ Tatáž kronika k roku 1920 uvádí, že zastupitelstvo Josefu Beranovi pronajal
 Emilie Marie (* 8. 7. 1882, Robousy čp. 33) má shodné jméno, obec a otce Františka. Ztotožnění s matkou Josefa Berana zůstává otevřené. U rodiny této Emilie je doložen sňatek jejích rodičů Františka Kozáka a Barbory Kaplové 15. ledna 1867 a sňatek jejího bratra **Antonína Kozáka** s Františkou Víchovou 7. února 1896. Roku 1896 žil Antonín v čp. 33, otec je uveden v čp. 30. Nevěstin ani ženichův údaj sám nevysvětluje číslo 75 z roku 1936. [Emiliin křest, Robousy čp. 33](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-TDDX) · [Sňatek Antonína, Jičín 70-3365, fol. 4, zápis 2, sn. 6](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-THHV)
 
 V této rodině se v odstupu 51 let opakuje také čp. **37**. Při křtu Barbory 1845 figuruje Marie Frýbová, manželka Františka Frýby z Robous č. 37. Při sňatku jejího syna Antonína 1896 vystupuje jako druhý svědek Frýba ze stejného čísla. Svědkovo křestní jméno ani příbuznost s Marií z těchto dvou záznamů určit nelze. [Dva výřezy sňatku a výřez křtu](antonin-svedci-a-kmotra.md).
+
+Sčítací arch z roku 1900 v **čp. 33**, kde se Emilie Marie narodila, uvádí Josefa Havla jako nájemce hostince a v dalším bytě rodinu sedlářského mistra Františka Kotláře. Kozákovi mezi devíti přítomnými na archu nejsou. Povolání podruha v dřívějších matrikách neurčuje zaměstnavatele. [Sčítací arch a srovnání adres](robousy-33-hostinec.md).
+
+U předků této Emilie je novou stopou **Matěj Černý, kovář**. Rukopis dovoluje Libáň i Labouň. Další slovo se lépe čte jako **panství Kopidlno**. Dobový místopis pod ně řadí Libáň, takže prozatím má přednost libáňská farnost. [Rozbor, výřezy a matriční signatury](liban-a-laboun.md) · [Matčina rodina z Popovic čp. 19](popovice-19-kozakovi.md) · [Farnost pro alternativní Labouň](laboun-cerny.md). Pro rod ze Želejova jsou zvlášť zapsány zprávy o [Bozkově čp. 58 a 59](bozkov-58-59-domacnosti.md) a [kněžnických Brunclíkových](libun-brunclik.md).
 
 ## Kudy hledat doklad spojující obě rodiny
 

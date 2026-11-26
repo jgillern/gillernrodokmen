@@ -24,3 +24,5 @@ Přípis o vydání křestního listu sedm dní před svatbou, odpovídající v
 - Dva cílené OCR dotazy v digitální knihovně MZK 1800–1885 neukázaly nezávislé dobové oznámení. Přesné varianty Jan/Johann Angl/Engl, Eva/Ewa Angl, Augustin Angl v kombinaci s místem/profesí měly 0 shod. Širší dotaz Kapl/Kappl/Kappel/Angl/Engl × Kozák/Kozáková × jičínské názvy měl 21 výsledků, převážně zkratky „kapl.“ pro kaplana či „angl.“ pro anglický.
 
 K rozlišení příjmení existuje také **soupis duší z roku 1847, inv. 20**, nejbližší katalogově ověřený soupis ke křtu Barbory. Známé jsou další pro roky 1850, 1857 a 1864. V zápisu čteme u jejího pradědečka Augustina pravděpodobně „obecnjho slauhy“. Přesný typ služby Jana Angla zůstává otevřený. [Čtení a evidence invalidů a domácností](kapl-angl-invalidni-evidence.md)
+
+U mateřské rodiny nově vychází Matěj Černý jako **kovář** a název panství jako **Kopidlno**. Farnost je třeba zvolit podle sporného čtení Libáně či Labouně. [Písmo, dobový místopis a ověřitelné matriční knihy](liban-a-laboun.md).

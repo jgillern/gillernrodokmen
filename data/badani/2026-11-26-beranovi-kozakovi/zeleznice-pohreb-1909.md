@@ -1,0 +1,26 @@
+# František Kozák z Cidliny, pohřbený 1909 v Železnici
+
+## Dobová zpráva
+
+Na obrazu rubriky „Zemřelí ve farní osadě Jičínské“, ve vydání z 9. 12. 1909, potvrzuji formulaci: „13. listopadu Frt. Kozák, vdovec, okr. cestář v. v. z Cidliny (Lomnice) 65 r. (nemoc.), pohřben v Železnici“. Formulace ohlašuje pohřbení v minulém čase a neuvádí datum pohřbu, hrob, rodiště ani jméno zesnulé manželky. U Františka Kozáka narozeného 10. 6. 1843 v Želejově by v tento den byl věk 66 let. Tato odchylka v novinách sama totožnost neřeší. Předchozí řádek z 8. listopadu uvádí Marii Kozákovou, vdovu po dělníkovi v Jičíně, ve věku 68 let, bez uvedené vazby na cestáře. [Původní strana](https://kramerius.svkhk.cz/view/uuid:2623d95d-8baf-11e6-b821-00155d010f03) · [Místní výřez](doklady/jn-1909-12-09-kozak-vyrez.jpg).
+
+## Hřbitov a hroby Kozáků
+
+Městský zpravodaj výslovně uvádí založení dnešního hřbitova roku **1908**. Rozšíření roku 1931 přidalo pás směrem na sever. Odpovídajícím výchozím místem pro původní pohřeb z roku 1909 je proto nejstarší část dnešního hřbitova v Hřbitovní ulici, s možným pozdějším přemístěním hrobu stále otevřeným. Zpravodaj 4/2022 nezávisle identifikuje letopočet otevření na centrálním kříži a fotograficky dokládá nově doplněnou desku. [Železnický zpravodaj 2/2014, s. 3](https://eldok.svkhk.cz/out/Zeleznicky_zpravodaj/Zeleznicky_zpravodaj_2014/Zeleznicky_zpravodaj_2014_02.pdf#page=3) · [Zpravodaj 4/2022, s. 8](https://www.zeleznice.net/modules/file_storage/download.php?file=e730098f%7C47&inline=1) · [Dnešní hřbitov na mapě](https://mapy.com/en/?id=2088152&source=base).
+
+V [necro](https://necro.book.cz/) měla konkrétní kolekce „Hřbitov Železnice“ 728 položek. Jmenný dotaz „Kozák“ v ní vrátil 10 záznamů, šest pojmenovaných a čtyři vedené jen pod příjmením či rodinou. V těsnějším filtru roku 1909 databáze zobrazila jediného jiného člověka, Františka Horáčka, narozeného 5. 12. 1851 a zemřelého 25. 12. 1909. Samostatný stejně pojmenovaný filtr „Železnice“ vrátil pro Kozáka nulu. Výsledky svědčí o dílčím pokrytí fotografiemi. [Jmenný výstup](https://necro.book.cz/api/hroby/search?graveyard=H%C5%99bitov+%C5%BDeleznice&q=Koz%C3%A1k&limit=100) · [Výstup pro rok 1909](https://necro.book.cz/api/hroby/search?graveyard=H%C5%99bitov+%C5%BDeleznice&year_from=1909&year_to=1909&limit=100).
+
+| Kandidát nebo kontrola | Co bylo ověřeno |
+|---|---|
+| Rodina Kozákova, BillionGraves 45979035 | **Přečten skutečný snímek z roku 2021.** Na čelní desce je pouze „RODINA KOZÁKOVA“. Pro jednotlivé osoby ani dobu se nelze o tuto fotografii opřít. [Fotografie poskytovatele](https://billiongraves.com/api/1.4/selectimage?tkn=rec45979035&p1=0&p2=0). |
+| Kozákovi 45962310, Kozák 162895013, Kozáková 46922154 | Tři další položky bez křestních jmen nebo letopočtů. Při pokusu o následující fotografii poskytovatel vrátil HTTP 403 a přístup jsem ukončil. Fotografie těchto tří nápisů zůstaly neověřené. |
+| Julie Kozáková *14. 2. 1874, †11. 1. 1934 (60796766); Boženka Kozáková *22. 8. 1910, †8. 10. 1933 (60796780) | Jmenné položky z téhož hřbitova. Jejich data sama neumožňují spojení s cestářem ani určit jeho dříve zemřelou ženu. |
+| František Horáček, †25. 12. 1909 (73685958) | Kontrolní jmenná položka téhož hřbitova a roku v indexu. |
+
+Katalogově je doložen fond **Archiv města Železnice**. Výroční zpráva SOA za rok 2023 uvádí práci na fondu, žádnou konkrétní pohřební knihu pro rok 1909 však neidentifikuje. Ve veřejných podkladech jsem nenalezl jmennou městskou pohřební knihu, číslo hrobu, pasport označující pohřbeného ani potvrzenou původní fotografii jeho náhrobku. Online „Kronika obce Cidlina“ na obec-cidlina.cz je výslovně pro Cidlinu s poštou Lesonice na Třebíčsku. Na Jičínsku jde o Cidlinu v obci Železnice. Retrospektiva jičínské Cidliny z roku 2017 uvádí hlavně obecní historii a v příslušném článku není jmenný doklad o hledaném pohřbu. [Výroční zpráva SOA](https://mv.gov.cz/soubor/vyrocni-zprava-statniho-oblastniho-archivu-v-hradci-kralove-za-rok-2023.aspx) · [ČÚZK, Cidlina 617709](https://cuzk.gov.cz/Dokument.aspx?AKCE=META%3ASESTAVA%3AMDR002_XSLT%3AWEBCUZK_ID%3A617709) · [Železnický zpravodaj 2/2017](https://eldok.svkhk.cz/out/Zeleznicky_zpravodaj/Zeleznicky_zpravodaj_2017/Zeleznicky_zpravodaj_2017_02.pdf).
+
+## Místní rodopisná stopa bez prokázaného spojení
+
+Dana Bláhová, *Domovské právo v poměrech Lomnice nad Popelkou do r. 1914* (2011), s. 23, dokládá žádost Cidliny o přijetí **Jana Kozáka** do domovského svazku Lomnice. Žil ve Staré Lomnici, takže město žádosti nevyhovělo. Autorka odkazuje na SOkA Semily, Archiv města Lomnice nad Popelkou, inv. č. 119, karton 9. U Jana není v otištěné pasáži uveden věk, datum žádosti ani rodinný vztah k cestáři. Jde o konkrétní místní jmenný pramen, který lze oddělit od pohřební evidence. [Práce, s. 23 a pozn. 76](https://portal.upce.cz/StagPortletsJSR168/PagesDispatcherServlet?pp_destElement=%23ssSouboryStudentuDivId_2246&pp_locale=en&pp_nameSpace=G13543&pp_page=souboryStudentuDownloadPage&pp_portlet=souboryStudentuPagesPortlet&pp_reqType=render&soubidno=5385).
+
+Při nezávislé snaze ověřit původní školní heslo o jiném Josefu Kozákovi z Cidliny v Památníku Lepařova gymnasia vrátil kramerius.svkhk.cz HTTP 403. Dotazy na tento archiv byly ukončeny. Nebyl tedy získán další obrazový doklad o vztazích rodiny z Cidliny.

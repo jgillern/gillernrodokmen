@@ -912,16 +912,17 @@
     },
     "eleonora": {
       "jmeno": "Marie Eleonora z Gillernů",
-      "roky": "* 1757",
+      "roky": "1757–1820",
       "stav": "doc",
-      "vazba": "dcera Maximiliána z Gillernů – sestra Josefa (nejspíš nevlastní), tedy teta našeho Františka",
+      "vazba": "dcera Maximiliána z Gillernů, sestra Josefa a teta našeho Františka. Zda měli Josef a Eleonora stejnou matku, zůstává otevřené.",
       "fakta": [
         "* a pokřtěna 23. 4. 1757 v Kladrubech nad Labem jako Marie Eleonora, dcera „urozeného pana Maximiliána de Güllern, kladrubského lesního“, a jeho manželky Johanny",
         "v Poděbradech v letech 1773–1779 nejméně devětkrát kmotrou nebo svědkyní („Virgo Eleonora filia Perill. D. de Hiller“, „filia D. Josephi / Maximiliani Killer Supremi Venatoris“), poprvé v 15 letech",
         "dcera Maximiliána z Gillernů, nadlesního v Poděbradech – výslovně v křtu dcery 1781: „Eleonora filia Perill. D. Maximiliani L. Baronis de Giller“",
         "Druhá manželka Jana Baptisty Ferdinanda Clannera z Engelshofenu († 27. 12. 1806 v Poděbradech, zapsaný věk 78 let). V křtu dcery roku 1781 je Jan Křtitel označen zkratkou Silvar. præfec., v křtu syna roku 1784 jako lesník komorního panství. Šematismy pro roky 1789 a 1798 ho v Poděbradech vedou jako Waldbereiter, pojezdného lesníka. Jeho první manželka Marie Anna zemřela 3. 11. 1776.",
         "děti: Marie Anna Apolonie (* 11. 10. nebo 11. 11. 1781), Maximilián Jan Křtitel Ignác (* 8. 11. 1784) a další",
-        "V letech 1773–1782 byla v Poděbradech často kmotrou – nejdřív jako „panna Eleonora, dcera nejvyššího myslivce“, od 1781 jako „Eleonora de Klanner“."
+        "V letech 1773–1782 byla v Poděbradech často kmotrou – nejdřív jako „panna Eleonora, dcera nejvyššího myslivce“, od 1781 jako „Eleonora de Klanner“.",
+        "Zemřela 10. 9. 1820 na zámku č. 1 v Pardubicích, pohřbena byla 12. 9. Matrika jmenuje zesnulého manžela Jana Klannera, polesného z poděbradského panství. Zapsaných 63 let odpovídá kladrubskému křtu."
       ],
       "zaznamy": [
         "n_1757_gillern_maria_eleonora",
@@ -929,7 +930,8 @@
         "n_1784_clanner_maximilian",
         "j_1789_podebrady_clanner_pojezdny",
         "j_1798_podebrady_clanner_pojezdny",
-        "z_1806_clanner_jan"
+        "z_1806_clanner_jan",
+        "z_1820_pardubice_eleonora_clannerova"
       ],
       "vztahy": [
         {
@@ -5903,7 +5905,7 @@
                               {
                                 "jmeno": "Marie Eleonora",
                                 "stav": "doc",
-                                "roky": "* 1757 Kladruby",
+                                "roky": "1757 Kladruby nad Labem – 1820 Pardubice",
                                 "vazba": "doc",
                                 "profil": "eleonora",
                                 "manzel": "× Jan Baptista Clanner z Engelshofenu (1730–1806)",

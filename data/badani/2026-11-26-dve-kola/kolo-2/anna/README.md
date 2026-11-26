@@ -1,0 +1,19 @@
+# Kolik let mohlo být Anně z Gillernů, když svědčila v Kladrubech?
+
+Dne 17. 5. 1759 svědčila na svatbě kladrubského tkalce Václava Kopeckého panna Anna, výslovně dcera Maximiliána z Gillernů. Od křtu dcery Anny v Boru Bobnickém 23. 1. 1750 uplynulo 9 let, 3 měsíce a 24 dní. Pokud jde o jinou, starší dceru, získali bychom další stopu k domácnosti před jejím prvním českým zápisem. Zkusili jsme proto změřit věk aspoň jedné další svědkyně ve stejné knize a v tomtéž roce. [Oddavky s Annou z Gillernů, sign. 1776, sn. 64 vlevo, druhý zápis](https://aron.vychodoceskearchivy.cz/apu/8db56854-9c22-46b4-9474-7896b483f08b/dao/8db56854-9c22-46b4-9474-7896b483f08b/file/6eac39c0-e8b0-4e36-acd6-751950ac86d4) · [Křest z Boru, Nymburk 07](https://ebadatelna.soapraha.cz/d/10406/47)
+
+## Jedna svědkyně se dá bezpečně sledovat od narození k vlastní svatbě
+
+| Datum | Kladrubský pramen | Co se v něm čte |
+|---|---|---|
+| **9. 8. 1737** | Sign. 1776, sn. 9 vlevo, fol. 5v, rejstřík W na sn. 59 odkazuje k fol. 5 | „Anna filia legitima Josephi Wandrausch […] et uxoris ejus Catharinæ […] Nata eodem die.“ Anna, manželská dcera Josefa Wandrausche a Kateřiny, se narodila a byla pokřtěna ve stejný den. [Originál](https://aron.vychodoceskearchivy.cz/apu/8db56854-9c22-46b4-9474-7896b483f08b/dao/8db56854-9c22-46b4-9474-7896b483f08b/file/eb1e9051-10e7-4f7d-b12c-34c7fbae9a34) · [Výřez](vyrezy/wandrausch-1737.jpg) |
+| **21. 8. 1759** | Sn. 64 vlevo, fol. 73v, čtvrtý zápis | Při svatbě Matěje s Dorotou stojí „Testes […] Anna filia Josephi Wondrausch“. Svědkyně Anna je určena otcem Josefem. Bylo jí **22 let a 12 dní**, pokud jde o dceru z předchozího řádku. [Originál](https://aron.vychodoceskearchivy.cz/apu/8db56854-9c22-46b4-9474-7896b483f08b/dao/8db56854-9c22-46b4-9474-7896b483f08b/file/6eac39c0-e8b0-4e36-acd6-751950ac86d4) · [Výřez](vyrezy/wandrausch-svedkyne-1759.jpg) |
+| **28. 10. 1759** | Sn. 64 vpravo, fol. 74r, první zápis. Latinské „8bris“ označuje říjen | Za Vojtěcha Salatsche (?) se vdává „Anna filia legitima Josephi Wondrausch Incolæ Cladrubiensis“. Shoda jména, otce, Kladrub a odstupu dvou měsíců podporuje totožnost srpnové svědkyně. [Výřez](vyrezy/wandrausch-svatba-1759.jpg) |
+
+U dalších oddavek na sn. 63–64 je opakovaně svědkyní Marie Anna či Anna Marie, dcera Daniela Karla. Rejstříkové heslo *Karel Anna*, fol. 7, se ukázalo jako slabší shoda. Originál **22. 11. 1739** má **Annu Leonoru** a stejného dne i dceru Barboru, obě s rodiči Danielem Karlem a Annou Marií. Přesný věk svědkyně Marie Anny odtud odvodit nelze. [Rodný rejstřík, sn. 55](https://aron.vychodoceskearchivy.cz/apu/8db56854-9c22-46b4-9474-7896b483f08b/dao/8db56854-9c22-46b4-9474-7896b483f08b/file/5917dcfb-819a-421e-ba2b-2a65aaaea7c4) · [Křty, sn. 10](https://aron.vychodoceskearchivy.cz/apu/8db56854-9c22-46b4-9474-7896b483f08b/dao/8db56854-9c22-46b4-9474-7896b483f08b/file/32d9f36a-ba1c-4c1e-b2b0-8e50f54e24b1) · [Výřez](vyrezy/karel-dvojcata-1739.jpg)
+
+## Co to vypovídá o Maximiliánově dceři
+
+Kladrubský kněz identifikoval jménem otce i dospělou svatební svědkyni. Jeho označení Anny za pannu a dceru tedy neurčuje její věk. Jiný rodinný doklad míří opačným směrem. Podle dřívějšího čtení krehlavské matriky byla **Maximiliánova sestra Marie Josefa** uvedena mezi kmotry 20. 5. 1726, pouhých 9 let a 28 dní po vlastním křtu. Dochovaný přepis neřeší možnost zastoupení. Jde také o křestní kmotrovství na jiném místě a o generaci dříve. [Prameny a meze ověření](../volov/kmotra-1726.md)
+
+Dne 23. 11. 1764 je v Čelákovicích při křtu znovu uvedena slečna Anna, dcera pana z Gillernů. Anně pokřtěné v lednu 1750 by bylo 14 let a 10 měsíců. Ani při tomto křtu farář neuvedl věk nebo druhé křestní jméno. Důkaz o další dceři narozené před rokem 1750 tak zůstává otevřený. Do rodokmenu druhou Annu nepřidáváme. [Čelákovická matrika](https://ebadatelna.soapraha.cz/d/4722/190)

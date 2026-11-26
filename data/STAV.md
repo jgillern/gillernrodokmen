@@ -4,6 +4,14 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 
+## 26. 11. 2026 · výsledky devátého kola
+
+[Souhrn a pořadí dalšího čtení](badani/2026-11-26-devate-kolo/README.md) · [Deník č. 897–912](badani/2026-11-26-devate-kolo/denik.md).
+
+**Josef a Maximilián.** Vydání slezské úřední ročenky na rok 1747 zachycuje sestrina manžela Philippa Augusta Nohu jako volovského radního se správou peněz pro vojenské ubytování a dozorčí funkcí nad stavbami a mlýny. V katolické matrice Schabenau dva odkazové křty určují druhou knihu ve Schlichtingsheimu pro obě Josefova věková okna. Z českých knih mají přednost dosud nepročtené části Přelouče 1802 a Týnce 02/03. U Eleonořina možného vnuka Antonína Clannera máme vedle žádosti 1835 dobové potvrzení, že do března 1837 užíval Strakovo nadační místo. Přílohy ke zkoumání šlechtického původu mohou pomoci s rodinou. [Křty a druhá farnost](badani/2026-11-26-devate-kolo/matriky/schlichtingsheim.md) · [Vyhláška a matrika uchazeče](badani/2026-11-26-devate-kolo/vedeni/antonin.md)
+
+**Heinrich Christof a Johann Christof.** Dohledán jmenný seznam Gallasových důstojníků určených k zaopatření z roku 1645 (Meiningen, sign. 166, fol. 22–23). Obsah přílohy zůstává nečtený. Doložena existence katolické hlubčické matriky 1648–1679 a archivní regest ke starostovi Bartschovi ještě před udělením predikátu. Příbuzenství se Susannou, rodiče Heinricha ani vlastní rok narození obou Gillerů doložené nejsou. Pro rodovou návaznost má přednost plné znění žádosti či listu z roku 1700. [Hlubčice a jednotlivé řady](badani/2026-11-26-devate-kolo/tschammer/hlubcice.md) · [Původ nejstaršího rodopisu](badani/2026-11-26-devate-kolo/vedeni/gotha.md)
+
 ## 26. 11. 2026 večer · Josef a Maximilián, poté předkové Heinricha Christofa
 
 [Výsledek osmého kola a následující kroky](badani/2026-11-26-osme-kolo/README.md) · [Deník od č. 878](badani/2026-11-26-osme-kolo/denik.md). Při hledání Josefova křtu a první svatby jeho otce mají přednost nezávislé knihy pro Semín (Přelouč 1802) a Selmice (Týnec nad Labem 02 a 03). V kladrubské knize 1776 dokládá titul a Hrubého text vznik nové matriky po požáru 10. 7. 1757. Zahrnuje křest Maximiliánovy dcery z 23. 4. téhož roku, ale starší zápisy nejsou souvislé. Pro obě Josefova věková okna již bylo nově provedeno čtení vratislavského Božího Těla a Zdechovic. Gauhe 1747 potvrzuje, že pardubický lesmistr Anton Otto z Ottenfeldu a brandýský myslivec Ignác byli bratři. Anton jako možný strýc Baltazara Clannera dává konkrétní jména pro kontrolu služebního přesunu. [Tisk a doklady o Ludmile Dorotě](badani/2026-11-26-osme-kolo/baltazar/ottenfeld.md)

@@ -1,6 +1,6 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
-[Deváté kolo. Kde hledat Josefovo narození, první sňatek Maximiliána a nejstarší dvě generace](data/badani/2026-11-26-devate-kolo/plan.md)
+[Deváté kolo. Kde hledat Josefovo narození, první sňatek Maximiliána a nejstarší dvě generace](data/badani/2026-11-26-devate-kolo/README.md) · [Výchozí scénáře](data/badani/2026-11-26-devate-kolo/plan.md) · [Deník č. 897–912](data/badani/2026-11-26-devate-kolo/denik.md)
 
 [Osmé kolo. Josef, Maximilián a Baltazar, poté předkové Heinricha Christofa](data/badani/2026-11-26-osme-kolo/README.md) · [Výchozí plán](data/badani/2026-11-26-osme-kolo/plan.md) · [Deník od č. 878](data/badani/2026-11-26-osme-kolo/denik.md)
 

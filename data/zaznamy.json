@@ -1658,7 +1658,7 @@
   "druh": "N",
   "datum": "27. 4. 1791",
   "nazev": "Narození: Marie Anna z Gillernů, Býchory (fara Ovčáry)",
-  "shrnuti": "27. 4. 1791, Býchory č. 11 (fara Ovčáry, panství Kolín): Marie Anna z Gillernů, katolík, manželské dítě; otec pan Josef z Gillernů, fořt / myslivec, matka Anna Kochová; kmotři paní Marie Anna Jakoberová (?) a velebný pan Petr Lambert Kilian (?), lokalista. Sourozenec Františka z Gillernů (* 1785).",
+  "shrnuti": "27. 4. 1791, Býchory č. 11 (fara Ovčáry). Marie Anna, manželská dcera myslivce Josefa z Gillernů a Anny Kochové, sestra Františka (* 1785). Kmotry byli Marie Anna Jakob[…] označená jako strážmistrová a páter Lambert Pelikán, lokalista v Ohařích.",
   "strana": "s. 7, poslední zápis",
   "odkaz": "https://ebadatelna.soapraha.cz/d/10790/6"
  },
@@ -1666,11 +1666,12 @@
   "klic": "n_1792_gillern_lambert",
   "svazek": "ovcary_03",
   "druh": "N",
-  "datum": "27. 12. 1792 (?)",
+  "datum": "27. 12. 1792",
   "nazev": "Narození: Lambert Josef z Gillernů, Býchory (fara Ovčáry)",
-  "shrnuti": "27. 12. 1792 (?), Býchory č. 11 (fara Ovčáry, panství Kolín): Lambert Josef z Gillernů, katolík, manželské dítě; otec pan Josef z Gillernů, fořt / myslivec, matka Anna Kochová; kmotři velebný pan Lambert Kilian, kaplan, pan Ignác Schnabel (?), správce, a Anna Žáková, děvečka. Sourozenec Františka z Gillernů (* 1785).",
+  "shrnuti": "27. 12. 1792, Býchory č. 11 (fara Ovčáry). Lambert Josef, manželský syn fořta Josefa z Gillernů a Anny Kochové, bratr Františka (* 1785). Kmotry byli Lambert Pelikán, kaplan ohařský, Ignác Schnabel, správce konárovský, a Anna Žáková, děvečka.",
   "strana": "s. 9, 6. zápis",
-  "odkaz": "https://ebadatelna.soapraha.cz/d/10790/7"
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10790/7",
+  "pozn": "Kalendářní rok plyne ze sledu srpen 1792, 1., 19. a 27. prosince, pak 10. ledna. Evidenční nadpis 1793 písař vložil již před prosincem. Na předchozí straně se nadpis rovněž mění na podzim. Krevní příbuznost s kmotrem stejného křestního jména není doložena."
  },
  {
   "klic": "n_1795_gillerova_barbora",
@@ -1678,7 +1679,7 @@
   "druh": "N",
   "datum": "5. 3. 1795",
   "nazev": "Narození: Barbora z Gillernů, Býchory (fara Ovčáry)",
-  "shrnuti": "5. 3. 1795, Býchory č. 11 (fara Ovčáry, panství Kolín): Barbora z Gillernů, katolík, manželské dítě; otec pan Josef z Gillernů, fořt / myslivec, matka Anna Kochová; kmotři Barbora Zelová (?) a velebný pan Petr Lambert Kilian (?), lokalista. Sourozenec Františka z Gillernů (* 1785).",
+  "shrnuti": "5. 3. 1795, Býchory č. 11 (fara Ovčáry). Barbora, manželská dcera myslivce Josefa z Gillernů a Anny Kochové, sestra Františka (* 1785). Kmotrou byla Barbora Englová (?), pravděpodobně nymburská apatykářka. Kmotrem byl páter Lambert Pelikán, ohařský lokalista.",
   "strana": "s. 11, poslední zápis",
   "odkaz": "https://ebadatelna.soapraha.cz/d/10790/8"
  },
@@ -1831,7 +1832,8 @@
   "nazev": "Úmrtí Jana Clannera z Engelshofenu, jubilovaného panského holcmistra, Poděbrady",
   "shrnuti": "27. 12. 1806 (rejstřík: 27. 11.) zemřel v Poděbradech Jan z Clanner z Engelshofenu, c. k. jubilovaný (?) panský holcmistr (?), katolík, 78 let (* asi 1728), nervová slabost (?); pohřben 29. 12.",
   "strana": "fol. 79, 5. zápis",
-  "odkaz": "https://ebadatelna.soapraha.cz/d/11873/42"
+  "odkaz": "https://ebadatelna.soapraha.cz/d/11873/42",
+  "pozn": "Srovnání s opočenským křtem Jana Ferdinanda, syna Karla Maximiliána, 4. 8. 1730 vychází také z Hanušova životopisu. Při tomto ztotožnění byl skutečný věk při úmrtí 76 let. Matriční údaj 78 je zachován v přepisu."
  },
  {
   "klic": "z_1799_gillern_josef",
@@ -3336,5 +3338,15 @@
   "snimek": "12 ze 137 (DGS 101291164)",
   "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BX-8QHQ-V",
   "pozn": "Úmrtní řádek neuvádí rodiče ani rodné jméno. Jméno manžela a jeho služba se shodují s poděbradskými křty dětí z let 1781 a 1784 a s manželovým úmrtím roku 1806. Věk odpovídá kladrubskému křtu."
+ },
+ {
+  "klic": "n_1730_opocno_clanner_jan",
+  "svazek": "opocno_120_1",
+  "druh": "N",
+  "datum": "4. 8. 1730",
+  "nazev": "Křest Jana Ferdinanda Clannera, Opočno",
+  "shrnuti": "Opočno, křest Jana Ferdinanda Jana Nepomuckého Dominika Jáchyma, syna opočenského regenta Karla Maximiliána Clannera a Ludmily rozené z Ottenfeldu. Pozdější rodopis jej ztotožňuje s poděbradským lesníkem Janem Baptistou, manželem Marie Eleonory z Gillernů. Označení Baptista má také poděbradský křest jejich dcery z roku 1781. Samostatný den narození opočenský zápis neudává.",
+  "strana": "s. 56, první srpnový zápis, FamilySearch sn. 34/331 (DGS 005652610)",
+  "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-L9S1-KQ64"
  }
 ]

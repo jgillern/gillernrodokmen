@@ -921,11 +921,13 @@
         "dcera Maximiliána z Gillernů, nadlesního v Poděbradech – výslovně v křtu dcery 1781: „Eleonora filia Perill. D. Maximiliani L. Baronis de Giller“",
         "Druhá manželka Jana Baptisty Ferdinanda Clannera z Engelshofenu († 27. 12. 1806 v Poděbradech, zapsaný věk 78 let). V křtu dcery roku 1781 je Jan Křtitel označen zkratkou Silvar. præfec., v křtu syna roku 1784 jako lesník komorního panství. Šematismy pro roky 1789 a 1798 ho v Poděbradech vedou jako Waldbereiter, pojezdného lesníka. Jeho první manželka Marie Anna zemřela 3. 11. 1776.",
         "děti: Marie Anna Apolonie (* 11. 10. nebo 11. 11. 1781), Maximilián Jan Křtitel Ignác (* 8. 11. 1784) a další",
+        "Její manžel se podle opočenského křtu a Hanušova životopisu narodil v rodině Karla Maximiliána Clannera, regenta panství Opočno, a Ludmily z Ottenfeldu. Opočenská kniha dokládá křest 4. 8. 1730.",
         "V letech 1773–1782 byla v Poděbradech často kmotrou – nejdřív jako „panna Eleonora, dcera nejvyššího myslivce“, od 1781 jako „Eleonora de Klanner“.",
         "Zemřela 10. 9. 1820 na zámku č. 1 v Pardubicích, pohřbena byla 12. 9. Matrika jmenuje zesnulého manžela Jana Klannera, polesného z poděbradského panství. Zapsaných 63 let odpovídá kladrubskému křtu."
       ],
       "zaznamy": [
         "n_1757_gillern_maria_eleonora",
+        "n_1730_opocno_clanner_jan",
         "n_1781_klanner_marie_anna",
         "n_1784_clanner_maximilian",
         "j_1789_podebrady_clanner_pojezdny",
@@ -3102,11 +3104,11 @@
     },
     "lambert_1792": {
       "jmeno": "Lambert Josef z Gillernů",
-      "roky": "* 27. 12. 1792 (?) Býchory",
+      "roky": "* 27. 12. 1792 Býchory",
       "stav": "doc",
       "vazba": "syn Josefa z Gillernů a Anny roz. Kochové – mladší bratr našeho Františka",
       "fakta": [
-        "Mladší bratr Františka. * 27. 12. 1792 (?) Býchory č. 11 – rok nejistý (v knize pod 1793)."
+        "Mladší bratr Františka. Narodil se 27. 12. 1792 v Býchorech č. 11. Prosinec je v matrice již pod nadpisem 1793. Rok narození určuje posloupnost zápisů na dvou sousedních stranách."
       ],
       "zaznamy": [
         "n_1792_gillern_lambert"
@@ -5837,7 +5839,7 @@
                                   {
                                     "jmeno": "Lambert Josef",
                                     "stav": "doc",
-                                    "roky": "* 1792 (?) Býchory",
+                                    "roky": "* 1792 Býchory",
                                     "vazba": "doc",
                                     "profil": "lambert_1792"
                                   },

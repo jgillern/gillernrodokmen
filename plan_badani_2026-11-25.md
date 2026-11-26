@@ -40,3 +40,5 @@
 ### Průběžné předání
 
 Po každé dočtené knize nebo vyhodnoceném spisu zapsat do deníku skutečná folia, mezery, čtení a závěr. Rozlišovat přímý obraz, dobový opis, pozdější literaturu a pouhý katalog. V datovém profilu změnit pouze věcně dotčený údaj. Při změně jistoty uvést původ starší verze. Samotné archivní žádosti zůstávají doplňkem. Podle Janovy trvalé volby všechny doplňkové agenty pro tento rodokmen spouštět výhradně v modelu Sol. Astra slouží ke koordinaci a vyhodnocení důkazů.
+
+**Po druhém kole 26. listopadu.** Oba plány jsou splněné. [Co se nově podařilo přečíst, které věkové možnosti zůstávají a podle čeho pokračovat](data/badani/2026-11-26-dve-kola/README.md#co-te%C4%8F-m%C3%A1-nejvy%C5%A1%C5%A1%C3%AD-cenu).

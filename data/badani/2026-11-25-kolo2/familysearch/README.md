@@ -41,3 +41,5 @@ U dalších exemplářů katalog uvádí rozdílné podmínky. Film **890949**, 
 [Další prameny k Hochkirchu, rozsahu Priedemostu a rozlišení rodin](chronika-a-rodina.md)
 
 [Proč pro Hammer patří na první místo matrika Krehlau](hammer-a-krehlau.md).
+
+[Volovský pohřeb Antonie rozené Rüffer, 27. února 1745. Oprava údaje ze Siebmachera](alt-wohlau-1745.md)

@@ -1,12 +1,16 @@
-# Údaj o úmrtí Marie Antonie v Alt-Wohlau, 25. dubna 1745
+# Pohřeb Antonie von Giller, rozené Rüffer, 27. února 1745
 
-**Původ data.** *Der abgestorbene Adel der preußischen Provinz Schlesien*, část 3, 1894, s. 148, heslo „Ruffer (Rüffer)“, podává Marii Antonii jako provdanou svobodnou paní von Gillern, zemřelou 25. 4. 1745 v Alt-Wohlau. Text manžela nejmenuje a neuvádí pohřebiště. V přihlášeném FamilySearch se podařilo otevřít přímo příslušný ročník katolické knihy. Dubnový zápis v něm chybí. [Siebmacher, s. 148](https://sbc.org.pl/Content/4112/PDF/4112.pdf#page=150).
+**Oprava z 26. 11. 2026.** Na levé straně snímku 244 se našel výslovný pohřeb Antonie von Giller, rozené von Rüffer, u volovských karmelitánů dne **27. 2. 1745**. Matrika uvádí i Starý Volov. Identifikaci ženy silně podporují obě příjmení, titul a místo. Její přesný den smrti zůstává otevřený. Dubnové datum z heraldické příručky neobstojí proti únorovému pohřbu. [Matriční obraz](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPD-49B5-6) · [Přepis, výřez a srovnání obou pramenů](../../2026-11-26-dve-kola/kolo-2/volov/README.md)
+
+## Původ dubnového data a rozsah první kontroly
+
+**Heraldický pramen.** *Der abgestorbene Adel der preußischen Provinz Schlesien*, část 3, 1894, s. 148, heslo „Ruffer (Rüffer)“, podává Marii Antonii jako provdanou svobodnou paní von Gillern, zemřelou 25. 4. 1745 v Alt-Wohlau. Text manžela nejmenuje a neuvádí pohřebiště. V přihlášeném FamilySearch se podařilo otevřít přímo příslušný ročník katolické knihy. Dubnový zápis v něm chybí. [Siebmacher, s. 148](https://sbc.org.pl/Content/4112/PDF/4112.pdf#page=150).
 
 **Přesná jednotka s pohřby.** Státní archiv v Lipsku uvádí **21962, D 1320-2, Wohlau (kath.), Bestattungen**, období **1685–1722 a 1745–1756**. Toto datování potvrzuje pro rok 1745 samostatnou katolickou pohřební kopii. Z obecnější mezery uváděné roku 1902 nelze vyvodit, že se pohřební zápis nedochoval. Obraz byl následně otevřen také ve FamilySearch. [Detail archivní jednotky](https://www.archiv.sachsen.de/archiv/bestand.jsp?guid=6ca73be6-a64c-4b87-a748-b565a3e5a145)
 
 ## Obraz pohřební knihy
 
-**FamilySearch, DGS 8241013, položka 2, snímek 244 z 260, filmovací štítek D 1320, dvojstrana 243.** Na levé straně se otevírá rok 1745 zápisem z 12. ledna. Na pravé bez přerušení listu následují po zápisu z 30. března přímo 1. květen. Následují místní dětské pohřby 4., 6. a 10. května. Tato fotokopie tedy nezachycuje pohřeb baronky v očekávaných dnech. Datum z heraldické příručky zůstává údajem o úmrtí v Alt-Wohlau. Pohřebiště a křestní jméno manžela jsme neověřili. [Přímo dvojstrana 243](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPD-49B5-6?view=explore&groupId=M9FH-6NJ&lang=en)
+**FamilySearch, DGS 8241013, položka 2, snímek 244 z 260, filmovací štítek D 1320, dvojstrana 243.** Na levé straně se otevírá rok 1745 zápisem z 12. ledna. Na pravé bez přerušení listu následují po zápisu z 30. března přímo 1. květen. Následují místní dětské pohřby 4., 6. a 10. května. První průchod byl omezen na okolí dubnového data z heraldické příručky. Na levé straně téže dvojstrany je v únoru skutečně její pohřeb u karmelitánů, doložený v opravě výše. Křestní jméno manžela otevřené zůstává. [Přímo dvojstrana 243](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPD-49B5-6?view=explore&groupId=M9FH-6NJ&lang=en)
 
 ![Wohlau 1745. Po zápisu z 30. března následuje na stejné pravé straně květen.](vyrezy/wohlau-1745-brezen-kveten.jpg)
 

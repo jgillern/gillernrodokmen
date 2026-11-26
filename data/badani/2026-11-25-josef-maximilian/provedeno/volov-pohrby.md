@@ -14,3 +14,5 @@ Snímky uložené na FamilySearch jsou [248](https://www.familysearch.org/ark:/6
 **Dva ověřené dětské pohřby.** Pětidenní Maria Elisabeth pohřbená 18. 7. 1749 je výslovně dcera Frantze Müllnera, trubače u eskadrony majora von Schmelling. Dne 28. 12. 1749 je pohřbena Susanna, 4½letá dcera husara, jehož příjmení čtu pracovně Langenfeld. Mužův stav i věk dívky tento zápis odlišují od hledaného dítěte narozeného po svatbě v listopadu 1747. [Výřez Maria Elisabeth](vyrezy/volov-1749-cervenec.jpg) · [Výřez Susanna](vyrezy/volov-1749-prosinec.jpg)
 
 Dochovaný sled pokrývá celé vymezené období. Některé měsíce v něm nemají pohřební zápis. Negativní výsledek z této knihy ponechává bydliště Marie Josefy Alžběty po svatbě a případné děti otevřené. Zápisy uvádějí den pohřbu.
+
+[Pokračování do 1. 3. 1756 a šestiletý Caspar](../../2026-11-26-dve-kola/kolo-1/volov/README.md) · [Návrat k období před sňatkem a první manželka Rosalia](../../2026-11-26-dve-kola/kolo-2/volov/README.md)

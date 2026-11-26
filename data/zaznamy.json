@@ -2024,7 +2024,7 @@
   "svazek": "pravonin_26",
   "strana": "200",
   "odkaz": "https://ebadatelna.soapraha.cz/d/15260/141",
-  "pozn": "Oddíl Buková, zápis č. 4, snímek 141. Rejstřík (snímek 188) uvádí datum 10. 10. 1936."
+  "pozn": "Oddíl Buková, zápis č. 4, snímek 141. Rejstřík (snímek 188) uvádí datum 10. 10. 1936. Snubní listiny: farní archiv Pravonín, fasc. cop. 1936 č. 4 (protokol a dva kusy). Křestní list ženicha: Velká Jesenice, 17. 9. 1936, č. j. 170."
  },
  {
   "klic": "i_n_1916_sluneckova_ludmila",
@@ -3348,5 +3348,82 @@
   "shrnuti": "Opočno, křest Jana Ferdinanda Jana Nepomuckého Dominika Jáchyma, syna opočenského regenta Karla Maximiliána Clannera a Ludmily rozené z Ottenfeldu. Pozdější rodopis jej ztotožňuje s poděbradským lesníkem Janem Baptistou, manželem Marie Eleonory z Gillernů. Označení Baptista má také poděbradský křest jejich dcery z roku 1781. Samostatný den narození opočenský zápis neudává.",
   "strana": "s. 56, první srpnový zápis, FamilySearch sn. 34/331 (DGS 005652610)",
   "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-L9S1-KQ64"
+ },
+ {
+  "klic": "n_1843_kozak_frantisek",
+  "druh": "N",
+  "datum": "10. 6. 1843",
+  "nazev": "Narození a křest Františka Kozáka v Želejově",
+  "shrnuti": "František se narodil 10. června 1843 v Želejově čp. 1, pokřtěn byl 11. června. Otec Václav Kozák, matka Františka Auhrábková. Zápis uvádí též prarodiče a kmotry.",
+  "svazek": "hruba_skala_4908",
+  "strana": "opravená s. 389, tužkou 248, sn. 252, druhý zápis shora",
+  "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-89GT-SDD",
+  "pozn": "Doklad k rodině Emilie Marie Kozákové narozené v Robousích roku 1882. Její totožnost s matkou Josefa Berana zůstává otevřená."
+ },
+ {
+  "klic": "n_1845_kaplova_barbora",
+  "druh": "N",
+  "datum": "26. 11. 1845",
+  "nazev": "Narození a křest Barbory v Robousích",
+  "shrnuti": "Barbora se narodila 26. listopadu 1845 v Robousích čp. 36 a byla pokřtěna 27. listopadu. Zápis uvádí Kateřinu Kozákovou a Jana Angla. Křestní list byl vydán 8. ledna 1867. V oddacím zápisu z 15. ledna 1867 je otcovým jménem Jan Kapl.",
+  "svazek": "jicin_70_26",
+  "strana": "fol. 298–299, tužkou 121, sn. 123, poslední zápis",
+  "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9P5-Z34C-F",
+  "pozn": "Doklad k rodině Emilie Marie Kozákové narozené v Robousích roku 1882. Její totožnost s matkou Josefa Berana zůstává otevřená."
+ },
+ {
+  "klic": "o_1867_kozak_kaplova",
+  "druh": "O",
+  "datum": "15. 1. 1867",
+  "nazev": "Sňatek Františka Kozáka a Barbory Kaplové",
+  "shrnuti": "Oddáni 15. ledna 1867, v domovní kolonce Robousy čp. 40. Oba snoubence prohlásil za plnoleté c. k. delegovaný soud v Jičíně. U nevěsty je otcem zemřelý Jan Kapl z čp. 48.",
+  "svazek": "jicin_70_3364",
+  "strana": "s. 42, tužkou 234, sn. 238, poslední zápis",
+  "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-TJB7",
+  "pozn": "Doklad k rodině Emilie Marie Kozákové narozené v Robousích roku 1882. Její totožnost s matkou Josefa Berana zůstává otevřená."
+ },
+ {
+  "klic": "j_1920_beran_pijavky",
+  "druh": "J",
+  "datum": "1920",
+  "nazev": "Josef Beran staví obydlí a cihlářskou pec v Pijavkách",
+  "shrnuti": "Obecní zastupitelstvo pronajalo Josefu Beranovi část pastviště v Pijavkách. Vybudoval tam obytnou budovu a cihlářskou pec. Syn Josef byl v roce 1920 desetiletý.",
+  "svazek": "kronika_pravonin_do_1999",
+  "strana": "s. 66, sn. 68",
+  "odkaz": "https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=68",
+  "pozn": "Rok stojí na okraji. Datum 15. 1. patří k předchozí větě o volbě starosty."
+ },
+ {
+  "klic": "z_1950_beran_josef_st",
+  "druh": "Z",
+  "datum": "26. 10. 1950",
+  "nazev": "Úmrtí Josefa Berana staršího v pravonínské kronice",
+  "shrnuti": "Obecní kronika uvádí úmrtí 26. 10. 1950 a adresy Pravonín č. 72 a Buková č. 8. Místo úmrtí ani věk neuvádí.",
+  "svazek": "kronika_pravonin_do_1999",
+  "strana": "s. 99, sn. 103, zemřelí, poslední řádek",
+  "odkaz": "https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=103",
+  "pozn": "Kronika obce. V rubrice zemřelých je výslovně „st.“. Občanský úmrtní zápis nebyl přečten."
+ },
+ {
+  "klic": "z_1975_beran_josef_ml",
+  "druh": "Z",
+  "datum": "22. 8. 1975",
+  "nazev": "Úmrtí Josefa Berana mladšího v pravonínské kronice",
+  "shrnuti": "Kronika uvádí stejné datum úmrtí jako rodinný úmrtní list a stejnou dvojici adres jako u otce v roce 1950. Rodinný doklad uvádí místo úmrtí Vlašim.",
+  "svazek": "kronika_pravonin_do_1999",
+  "strana": "s. 128, sn. 132, sloupec zemřelých",
+  "odkaz": "https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=132",
+  "pozn": "Adresy u jména v obecní kronice samy neurčují místo úmrtí."
+ },
+ {
+  "klic": "j_1927_beran_vyrovnani",
+  "druh": "J",
+  "datum": "14. 12. 1927",
+  "nazev": "Soudní vyrovnání Josefa Berana, cihláře v Pravoníně",
+  "shrnuti": "Jednání s věřiteli se konalo 14. 12. 1927 u okresního soudu v Dolních Kralovicích. Krajský soud v Kutné Hoře potvrdil 6. 3. 1928 padesátiprocentní vyrovnání.",
+  "svazek": "uredni_list_1928_03_14",
+  "strana": "s. 1344, pravý sloupec, Kv 40/27–11",
+  "odkaz": "https://kramerius.nacr.cz/search/api/client/v7.0/items/uuid:ba13e193-f895-4355-aa52-98cb0ae96980/image",
+  "pozn": "Podle úředního oznámení. Dne 11. 4. 1928 soud zaznamenal ukončení řízení pod Kv 40/27–15."
  }
 ]

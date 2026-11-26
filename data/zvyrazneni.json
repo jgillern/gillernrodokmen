@@ -3814,5 +3814,101 @@
   ],
   "status": "ok",
   "note": "První srpnový zápis na s. 56, od názvu měsíce a data vlevo po rodiče a svědky dole."
+ },
+ "n_1843_kozak_frantisek": {
+  "boxes": [
+   [
+    0.005,
+    0.005,
+    0.997,
+    0.978
+   ]
+  ],
+  "status": "ok",
+  "note": "Celý zkoumaný zápis včetně dostupných poznámek."
+ },
+ "n_1845_kaplova_barbora": {
+  "boxes": [
+   [
+    0.006,
+    0.054,
+    0.996,
+    0.923
+   ]
+  ],
+  "status": "ok",
+  "note": "Celý zkoumaný zápis včetně dostupných poznámek."
+ },
+ "o_1867_kozak_kaplova": {
+  "boxes": [
+   [
+    0.004,
+    0.065,
+    0.995,
+    0.958
+   ]
+  ],
+  "status": "ok",
+  "note": "Celý zkoumaný zápis včetně dostupných poznámek."
+ },
+ "j_1920_beran_pijavky": {
+  "boxes": [
+   [
+    0.016,
+    0.1,
+    0.992,
+    0.8
+   ]
+  ],
+  "status": "ok",
+  "note": "Rok vlevo a věta o Josefu Beranovi v odstavci."
+ },
+ "z_1950_beran_josef_st": {
+  "boxes": [
+   [
+    0.05,
+    0.049,
+    0.74,
+    0.232
+   ],
+   [
+    0.485,
+    0.736,
+    0.985,
+    0.943
+   ]
+  ],
+  "status": "ok",
+  "note": "Nadpis s rokem a poslední řádek pravého sloupce. Levá část se jmény narozených je vypuštěna."
+ },
+ "z_1975_beran_josef_ml": {
+  "boxes": [
+   [
+    0.07,
+    0.098,
+    0.75,
+    0.254
+   ],
+   [
+    0.544,
+    0.762,
+    0.987,
+    0.926
+   ]
+  ],
+  "status": "ok",
+  "note": "Nadpis a řádek Josefa Berana vpravo. Levá část se jmény narozených je vypuštěna."
+ },
+ "j_1927_beran_vyrovnani": {
+  "boxes": [
+   [
+    0.014,
+    0.009,
+    0.989,
+    0.987
+   ]
+  ],
+  "status": "ok",
+  "note": "Celé oznámení od spisové značky po soud, datum a tiskovou značku."
  }
 }

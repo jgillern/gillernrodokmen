@@ -7,10 +7,10 @@ Co už se na internetu dohledat nedá a muselo by se zjistit v archivu, na matri
 Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle odpovědi by ji posunuly dál:
 
 1. Kde se narodili jeho dědeček Josef Beran st. a babička Emilie roz. Kozáková – rodiče tatínka Josefa (1910–1975)? Aspoň vesnice nebo kraj.
-2. Kdy dědeček a babička zemřeli? Leží ve stejném rodinném hrobě v Pravoníně jako tatínek? Šel by vyfotit náhrobek?
+2. Kdy a kde zemřela babička Emilie? Dědečkovo úmrtí 26. 10. 1950 zaznamenala kronika. Leží ve stejném rodinném hrobě v Pravoníně jako tatínek? Šel by vyfotit náhrobek?
 3. Nemá po tatínkovi nebo dědečkovi křestní, domovský nebo oddací list?
-4. Kde se narodil Emil Beran (v Pravoníně 1937–38) – byl to tatínkův bratr?
-5. Kde a kdy se brali rodiče Josef Beran a Ludmila Slunečková (asi 1936)?
+4. Kdo byli tatínkovi sourozenci a jsou některé jejich rodinné doklady zachované? V adresáři uváděný Emil Beran byl obchodník v Pražském Předměstí u Hradce Králové.
+5. Dochoval se ženichův křestní list vystavený ve Velké Jesenici 17. 9. 1936 č. j. 170 pro jeho sňatek v Pravoníně?
 
 ## Od rodiny – nejrychlejší cesta
 
@@ -18,27 +18,27 @@ Linie Beranů se v matrikách zastavila u jeho dědečka a babičky – tyhle od
 |---|---|
 | Gillernovi | Jan † 10. 6. 1940 Hrnčíře č. 35, pohřben v Písku (nalezeno). Julie roz. Hřídelová (* 1897) – kdy a kde zemřela? (v Kunraticích do 1944 ne) – náhrobek v Praze-Hrnčířích (správa hřbitova MČ Praha-Šeberov), parte, matriční úřad Praha 4 (po 1950); hrob v Písku (správa hřbitovů Písek – kdo tam leží: Jan, Augustin a Marie z G.?); úmrtní list táty Jiřího; doklady Jana Gillerna (domovský list, vysvědčení, pracovní knížka) |
 | babička Božena | kdy a kde zemřela její maminka Josefa Richtrová, roz. Piglová (mezi 1929 a 1937, asi Kolovraty) – parte, náhrobek, vzpomínky; kdo byla Barbora Hrušková, druhá žena pradědečka Josefa Richtra (svatba 1937 v Táboře) |
-| Beranovi | **doklady Josefa Berana (1910–1975)** u příbuzných (rodiny Milady, Ludmily, Růženy, Josefa, Zdeňka a Pavla): křestní list (církevní listy z 20.–40. let uvádějí i prarodiče s místem narození – jako u dědy Augustina), domovský list (obec, kam rodina „patřila“ = odkud přišla), oddací list; **fotka rodinného hrobu v Pravoníně** (Josef st. a Emilie zemřeli až po 1949 – v církevní matrice Pravonín do 1949 nejsou); kdo byl Emil Beran (v Pravoníně 1937–38) – asi bratr z parte 1975 |
+| Beranovi | **doklady Josefa Berana (1910–1975)** u příbuzných (rodiny Milady, Ludmily, Růženy, Josefa, Zdeňka a Pavla): křestní list (církevní listy z 20.–40. let uvádějí i prarodiče s místem narození – jako u dědy Augustina), domovský list (obec, kam rodina „patřila“ = odkud přišla), oddací list; **fotka případného společného hrobu v Pravoníně**. Josef st. zemřel 26. 10. 1950, datum úmrtí Emilie je otevřené |
 
 ## Matriční úřady (zápisy, které ještě nejsou v archivu)
 
 | osoba | co | kde | proč |
 |---|---|---|---|
-| Ludmila Beranová, * 21. 4. 1912 Pravonín | výpis z matriky narozených (XXVI, s. 73) | matriční úřad Vlašim | sestra pradědečka Josefa; uvede rodiče Josefa Berana st. a Emilii Kozákovou i s jejich původem – zápis je starší 100 let, vydají ho komukoli |
+| Ludmila Beranová, * 21. 4. 1912 Pravonín | výpis z matriky narozených (XXVI, s. 73) | matriční úřad Vlašim | rejstřík neuvádí rodiče. Celý zápis může potvrdit nebo vyvrátit příbuznost s Josefem |
 | Františka Šustrová, * 15. 9. 1892 Masákova Lhota č. 63 | kopie zápisu z matriky narozených (fara Zdíkovec, Mas. Lhota N 1868–1936, farní č. 17, s. 113) | matriční úřad Zdíkov | kniha je ještě na úřadě; jen potvrzení – rodiče už známe ze sňatků |
-| Josef Beran st. a Emilie Beranová, † po 1949 (asi Pravonín/Buková) | doslovný výpis / kopie zápisu z matriky zemřelých – uvádí datum a místo narození | matriční úřad Pravonín / Vlašim (podle roku úmrtí z náhrobku) | Jan je přímý potomek – má na výpis nárok |
-| Josef Beran, * 13. 6. 1910 Velká Jesenice (podle úmrtního listu a rodného čísla; rodný list dcery uvádí 3. 6.) | výpis z matriky narozených | matriční úřad pro Velkou Jesenici (Česká Skalice?) | totéž – rodiče a prarodiče |
+| Josef Beran st., † 26. 10. 1950 podle pravonínské kroniky | občanský úmrtní zápis může uvést datum i místo narození | místo úmrtí otce není určeno, vlašimský soudní obvod doložen pro obě adresy | datum a místo úmrtí manželky Emilie dosud neznáme |
+| Josef Beran, * 13. 6. 1910 Velká Jesenice (podle úmrtního listu a rodného čísla; rodný list dcery uvádí 3. 6.) | výpis z matriky narozených | MěÚ Česká Skalice (úřední soupis svazků, s. 267) | totéž – rodiče a prarodiče |
 
 ## Archivy – knihy, které nejsou naskenované
 
 - **SOkA Benešov, Archiv obce Pravonín:** domovská matrika / seznam příslušníků obce – kdy a odkud Beranovi získali domovské právo
-  (přišli 1910–1912); případně sčítání lidu 1921 (uvádí místo narození a domovskou obec každého obyvatele).
+  (nájem pozemku v roce 1920 je doložen, stěhování v letech 1910–1912 zůstává hypotézou); případně sčítání lidu 1921 (uvádí místo narození a domovskou obec každého obyvatele).
 
 - **SOkA Písek, Archiv obce Louka:** domovská matrika / seznam příslušníků obce – kdy a odkud Gillernové získali domovské právo
   (Augustin byl do Louky příslušný 1939, nejspíš po otci Janovi).
 
 - **SOkA Náchod, Archiv obce Velká Jesenice:** Kniha cizinců 1857–1924 (inv. č. 11) – zápis rodiny Josefa Berana a Emilie Kozákové,
-  kteří se přistěhovali asi 1906–1910; kniha uvádí datum a místo narození a domovskou obec. Případně Matrika domovského práva
+  pokud byli v obci evidováni. Roku 1910 se tu narodil syn v č. 82, datum příchodu ani domovská obec rodičů nejsou určeny. Případně Matrika domovského práva
   1900–1948 (inv. č. 4). Dotaz e-mailem, prosba o kopii zápisu.
 - **Sčítání lidu 1921 pro Pravonín** – zkusit v eBadatelně v sekci Archiválie; uvádí u každého data a místa narození.
 
@@ -150,3 +150,5 @@ Spisy, které by mohly obsahovat Maximiliánovu službu, původ nebo úmrtí (v�
 - Pro srovnání: RAA 143.33 (1721, 15 listů, opis listu 1700) a RAA 143.34 (Kristián 1764, 4 listy) – reprodukce nejsou.
 - Cesta: objednávka digitální kopie u ÖStA (e-mail / formulář; zpoplatněno) – jen s Janovým souhlasem.
 - **Ceník ÖStA (Entgelte, platný od 28. 8. 2026, oesta.gv.at → Benutzung → Entgelte):** sken od reprostředniska do A3 **6 € / sken** (do A1 12 €, nad A1 16 €; JPEG/TIFF do 400 dpi, odkaz ke stažení); kopie ČB A4 1 €. Písemné dotazy: první půlhodina zdarma, pak 45 € / započatá půlhodina. Pracovní skeny (max. 200 dpi) v malém počtu může oddělení k odpovědi na dotaz poslat i bez poplatku. Odhad RAA 143.35 (fol. 1–45): celý spis asi 45–90 skenů = **asi 270–540 €**; jen klíčové listy (žádost s předky, 5–10 skenů) **asi 30–60 €**, případně zdarma jako pracovní skeny.
+
+Přehled veřejně dostupných stop k rodinám Beranových a Kozákových, s odkazy na snímky a přesným rozsahem prohlídky, je v [samostatném deníku z 26. 11. 2026](badani/2026-11-26-beranovi-kozakovi/README.md).

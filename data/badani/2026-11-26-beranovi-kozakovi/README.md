@@ -16,3 +16,16 @@ Emilie Marie (* 8. 7. 1882, Robousy čp. 33) má shodné jméno, obec a otce Fra
 
 - [První kolo, podrobný přehled s odkazy, prověřenými prameny a vyloučenými shodami](prvni-kolo.md).
 - [Obrazová zpráva prvního kola v PDF](Beranovi_verejne_prameny_2026-11-26.pdf). PDF zachovává stav první rešerše. U Barbory roku 1845 platí po kontrole plného obrazu fol. **298–299**. Nález úmrtí otce roku 1950, kontrola původní pravonínské kroniky a Antonínův sňatek přibyly při pokračování výzkumu.
+
+## Pokračování a deník pramenů
+
+| Pramen | Co nově přináší | Podrobná evidence |
+| --- | --- | --- |
+| Pravonínská obecní kronika, 1920–1975 | Dům a pec v Pijavkách, datum úmrtí otce, rozdíl mezi dvojicí adres a místem smrti. Pro obě adresy je roku 1950 místně příslušný Okresní soud Vlašim. Konkrétní spis o pozůstalosti nebyl identifikován. | [Kronika, domopis, soud a regionální tisk](kronika-a-pozustalost.md) · [Majetek a letecké snímkování 1953](majetek-a-cihelna.md) · [Pět čísel pravonínského Zpravodaje](zpravodaj-a-domopis.md) |
+| Pravonín 26, s. 200, snubní listiny roku 1936 | Zápis rozlišuje **fasc. cop. 1936 č. 4** (protokol a dva doklady) a **č. j. 170** (ženichův křestní list vydaný 17. 9. 1936 ve Velké Jesenici). Pozdější dekret jmenuje jako příjemce dosud místně uloženého pravonínského farního archivu Zdislavice. Dochování konkrétního fasciklu zůstává otevřené. | [Výřez okrajové poznámky](doklady/pravonin-1936-snubni-listiny.jpg) · [Přílohy a civilní indexy Náchod 8698 a Jičín 8617](snubni-listiny-a-civilni-rejstriky.md) |
+| Velká Jesenice čp. 82 | Rodina Svobodových a Ruferových se v domě opakuje. Příbuznost s Beranovými dosud chybí. Originál narození 1910 je ve svazku u MěÚ Česká Skalice. Existuje také inventarizovaná okresní sbírka druhopisů. Pro rok 1910 zatím nebyla nalezena konkrétní digitální jednotka. | [Soupis, sčítání a jednotlivé matriky](velka-jesenice.md) |
+| Robousy čp. 30, 33, 36, 40, 48, 58 a 75 | Sňatky z let 1867 a 1896 odlišují bydliště jednotlivých členů rodiny. Č. 75 ze sňatku 1936 se vztahuje k Františku Kozákovi. | [Soupis adres a sčítání](robousy-scitani.md) · [Sňatek 1867, výřez](../../../zdroje/o_1867_kozak_kaplova.jpg) |
+| Křest Barbory 1845 a její sňatek 1867 | Křest uvádí otce **Jana Angla**, matku Kateřinu Kozákovou a obsahuje přípis o vydání křestního listu **8. 1. 1867**, sedm dní před svatbou. Sňatek uvádí zemřelého **Jana Kapla**. K nevěstě vede také soudní usnesení z 11. 1. 1867 č. 146. Příčina rozdílu příjmení je otevřená. | [Porovnání a soudní listiny](barbora-angl-kapl.md) · [Křest Barbory](../../../zdroje/n_1845_kaplova_barbora.jpg) |
+| Křest Františka 1843 a rodina v Bozkově | Želejov č. 1, Libuň č. 32, Kněžnice č. 69 a Bozkov č. 58/59 jsou doloženy v témže křtu. Přepis gruntovnice roku 1787 dokládá v č. 59 převod z Jana Ouhrábky na syna Václava. Spojení s Václavem z křtu roku 1843 zůstává neověřené. | [Křest Františka](../../../zdroje/n_1843_kozak_frantisek.jpg) · [Gruntovní kniha, folia a další matriky](zelejov-libun-bozkov.md) |
+
+Údaje o Antonínovi a jeho rodičích patří do rodiny Emilie Marie z č. 33. Předky z této rodiny lze připojit k přímé linii teprve po spojení Emilie Marie s Emilií Beranovou. V hlavním rodokmenu se proto počet předků po doplnění dokladů nezvýšil.

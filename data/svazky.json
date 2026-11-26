@@ -1191,5 +1191,40 @@
   "svazek": "Opočno, katolická matrika, sign. 120-1",
   "popis": "Opočenská katolická matrika. Křest ze 4. 8. 1730 na s. 56 v oddílu narozených, FamilySearch DGS 005652610, snímek 34. Oddavky Baltazara Clannera z roku 1747 jsou v oddacím oddílu na s. 86.",
   "url": "https://aron.vychodoceskearchivy.cz/apu/1215ac03-cbfc-4b1c-9f7f-0a0ebf8f4f45"
+ },
+ "kronika_pravonin_do_1999": {
+  "archiv": "Obec Pravonín",
+  "portal": "Kronika obce Pravonín",
+  "svazek": "Kronika obce, 1. část, nejstarší historie až do roku 1999",
+  "popis": "Obecní kronika. Rukopisné strany a pořadí snímků se liší. V roce 1950 i 1975 jsou obě adresy uvedené dohromady.",
+  "url": "https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=1"
+ },
+ "uredni_list_1928_03_14": {
+  "archiv": "Národní archiv",
+  "portal": "Kramerius Národního archivu",
+  "svazek": "Úřední list Republiky československé, 14. 3. 1928, č. 62",
+  "popis": "Oznámení krajského soudu o vyrovnání Josefa Berana z Pravonína.",
+  "url": "https://kramerius.nacr.cz/uuid/uuid:ba13e193-f895-4355-aa52-98cb0ae96980"
+ },
+ "hruba_skala_4908": {
+  "archiv": "Státní oblastní archiv v Hradci Králové, Sbírka matrik Východočeského kraje",
+  "portal": "FamilySearch",
+  "svazek": "Hrubá Skála 4908, oddíl Želejov, DGS 100777548",
+  "popis": "Matrika narozených, oddíl Želejov.",
+  "url": "https://www.rodovod.cz/matriky/soa-zamrsk/hruba-skala/3805"
+ },
+ "jicin_70_26": {
+  "archiv": "Státní oblastní archiv v Hradci Králové, Sbírka matrik Východočeského kraje",
+  "portal": "FamilySearch",
+  "svazek": "Jičín 70-26, oddíl Robousy",
+  "popis": "Narození, oddíl Robousy.",
+  "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9P5-Z34C-F"
+ },
+ "jicin_70_3364": {
+  "archiv": "Státní oblastní archiv v Hradci Králové, Sbírka matrik Východočeského kraje",
+  "portal": "FamilySearch",
+  "svazek": "Jičín 70-3364, oddíl Robousy",
+  "popis": "Matrika narozených, oddaných a zemřelých pro Dvorce, Náchodsko a Robousy.",
+  "url": "https://www.rodovod.cz/matriky/soa-zamrsk/jicin/4810"
  }
 }

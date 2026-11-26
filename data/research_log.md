@@ -3,6 +3,8 @@
 Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsledek vždy s rozsahem (které roky, které snímky).
 „snímek“ = pořadové číslo skenu na portálu archivu.
 
+[Beranovi a Kozákovi, 26. 11. 2026](badani/2026-11-26-beranovi-kozakovi/README.md) — obecní kronika, sčítání, matriky, vyrovnání Kv 40/27 a prohlédnuté prameny bez shody.
+
 | # | datum | zdroj | rozsah | hledáno | výsledek | citace |
 |---|---|---|---|---|---|---|
 | 1 | 16. 11. 2026 | de.wikipedia.org (API, curl přes brzdu) | heslo „Gillern“ | historie rodu Gillernů | nepřečteno – Wikipedie odpověděla 429, web zastaven brzdou do 8:56 UTC; zkusit znovu později | https://de.wikipedia.org/wiki/Gillern |

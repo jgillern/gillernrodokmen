@@ -1240,6 +1240,7 @@
         "Ernst Heinrich z Gillernů (1730–1792), mladší bratr našeho Maximiliána: velitel granátnického praporu v Nise, generálmajor a šéf pěšího pluku v Královci, rytíř Pour le Mérite.",
         "Dominika von Gillern, světským jménem Maria Anna (* 29. 3. 1739 Rettkau, † 17. 8. 1810 Trzebnica), poslední abatyše cisterciáckého kláštera v Trzebnici. Křest 29. 3. 1739 v matrice Hochkirchu označuje jejího otce jako mladšího barona von Güller a matku jako Marii Antonii, velmi pravděpodobně rozenou von Rüffer.",
         "Maria Josepha Elisabetha Carolina Antonia z Rettkau, pokřtěná v srpnu 1737, byla velmi pravděpodobně starší sestrou abatyše Dominiky. U obou dívek je jako otec uveden mladší baron von Giller, jako matka Maria Antonia rozená von Rüffer a při obou křtech se v témže pořadí objevují tři kmotři z Hochkirchu.",
+        "Matrika uvádí 27. únor jako den pohřbu, jmenuje Starý Volov a karmelitány. Podle jména, rodného příjmení, titulu a místa jde velmi pravděpodobně o Marii Antonii z rodiny doložené v Rettkau. Datum úmrtí 25. 4. 1745 v Siebmacherovi z roku 1894 je s tímto pohřbem neslučitelné. Přesný den smrti chybí.",
         "V Rettkau nechali Franz Joseph baron von Giller, pán na Rettkau, a jeho manželka Franziska rozená hraběnka von Osteschau dne 20. 3. 1750 pokřtít dceru Marii Barboru Josefu Jáchymu. Kmotrem byl Carl Joseph baron von Giller, který tehdy pobýval ve Vídni.",
         "Franz Joseph von Giller a Franziska rozená von Osteschau nechali v Rettkau 21. 3. 1751 pokřtít syna jmény Carolus Josephus Maria Nicolaus Franciscus Ignatius Joachimus. Velmi pravděpodobně jde o devatenáctiletého katolíka Carla Josepha z Rettkau, zapsaného roku 1770 na rytířskou akademii v Lehnici.",
         "Carl Joseph svobodný pán z Gillernů († 1824 Ober-Glogau), × 1785 Antonia von Nerlich; pán na Polnisch-Gandau. Baron z Gillernů na Kulmikau u Stínavy pohřbil roku 1793 nejmladší dceru Johannu Augustinu Barbaru Carolinu (3 roky).",
@@ -1305,7 +1306,8 @@
         "z_1810_gillern_dominika",
         "o_1827_gillern_hinke",
         "n_1828_gillern_oswald",
-        "z_1897_gillern_oswald"
+        "z_1897_gillern_oswald",
+        "z_1745_wohlau_antonia_ruffer"
       ]
     },
     "rodopis": {
@@ -2660,11 +2662,14 @@
         "Pokřtěna 22. 4. 1717 v Krehlau (dnes Krzelów u Volova v Dolním Slezsku) jako dcera urozeného pana Carla Heinricha von Giller na Hammeru a paní Cathariny Barbary Eleonory.",
         "Kmotry byli Franz Valentin Klinge, purkmistr ve Winzigu, paní Carolina von Gillerová, „hejtmanová z Preichau“, a teta Eleonora Hedwig von Gillerová, paní na Horním Krehlau.",
         "20. 5. 1726 byla v Krehlau kmotrou jako „slečna Maria Josepha von Gillerin z Hammeru“. V červenci 1736 byla kmotrou znovu – tehdy za ni u křtu stála v zastoupení jiná urozená dáma a zápis ji nazývá dcerou pana Carla Heinricha von Giller, dědičného pána na Hammeru a Dolním Krehlau.",
-        "24. 11. 1747 se v Krehlau vdala za Philippa Augusta Nohu von Schwarzenfeld, radního ve Volově (Wohlau, dnes Wołów). Matrika má zkrácenou či hůře čitelnou podobu příjmení Noa. Úplné jméno a funkci potvrzuje Schlesische Instantien-Notiz pro rok 1753, s. 306. Oddávající je čten jako Joannes Nepomucenus Vincentius (?) von …. Ve svědecké části jsou patrná dvě označení Pater. Celá jména svědků ani osobní účast Maximiliána z obrazu bezpečně nevyčteme."
+        "24. 11. 1747 se v Krehlau vdala za Philippa Augusta Nohu von Schwarzenfeld, radního ve Volově (Wohlau, dnes Wołów). Matrika má zkrácenou či hůře čitelnou podobu příjmení Noa. Úplné jméno a funkci potvrzuje Schlesische Instantien-Notiz pro rok 1753, s. 306. Oddávající je čten jako Joannes Nepomucenus Vincentius (?) von …. Ve svědecké části jsou patrná dvě označení Pater. Celá jména svědků ani osobní účast Maximiliána z obrazu bezpečně nevyčteme.",
+        "Ve Volově byla 22. 1. 1746 pohřbena Rosalia, šestatřicetiletá manželka tamějšího radního von Schwartzenfeld. Dne 15. 9. 1751 tam byl pohřben šestiletý Caspar, syn radního Augusta von Schwarzenfeld. Jméno, predikát a úřad podporují určení muže jako Philippa Augusta Nohy. Caspar se narodil před jeho sňatkem s Marií Josefou Alžbětou. Rosalia je jeho pravděpodobnou matkou, pohřeb ji nejmenuje."
       ],
       "zaznamy": [
         "n_1736_krehlau_giller_kmotra",
-        "o_1747_krehlau_giller_maria_josepha"
+        "o_1747_krehlau_giller_maria_josepha",
+        "z_1746_wohlau_rosalia_schwarzenfeld",
+        "z_1751_wohlau_caspar_schwarzenfeld"
       ],
       "vztahy": [
         {
@@ -3178,11 +3183,11 @@
     },
     "frantisek_ludvik_1753": {
       "jmeno": "František Ludvík Alexandr z Gillernů",
-      "roky": "pokřtěn v lednu 1753 Nymburk (Bor Bobnický)",
+      "roky": "* 29. 1. 1753 Bor Bobnický, křest 30. 1. 1753",
       "stav": "doc",
       "vazba": "syn Maximiliána z Gillernů a Johanny – bratr našeho Josefa",
       "fakta": [
-        "Bratr Josefa. Pokřtěn v lednu 1753 v Nymburce, z Boru Bobnického (otec zapsán jako „Josef de Giller, myslivec“, matka Johanna). Nejspíš „Ludovicus de Gyller“, kmotr v Poděbradech 1770, a možná i „František de Gyller“ (1773).",
+        "Bratr Josefa. Narodil se 29. 1. 1753 v Boru Bobnickém a byl pokřtěn 30. 1. 1753 v nymburské farnosti (otec zapsán jako „Josef de Giller, myslivec“, matka Johanna). Nejspíš „Ludovicus de Gyller“, kmotr v Poděbradech 1770, a možná i „František de Gyller“ (1773).",
         "26. 2. 1773 byl „Franciscus de Hiller“ – bez titulu a bez stavu – kmotrem syna nádeníka Jiřího Kulicha ve vsi Pátek (fara Poděbrady); v Pátku bylo místo polního myslivce poděbradského panství, takže tu mladý František nejspíš sloužil jako myslivecký pomocník.",
         "Možná je totožný s „Franzem von Gillern“, penzionovaným adjunktem u myslivosti, který zemřel 24. 1. 1817 v Malejovicích ve věku 70 let – věk by pak byl zapsán o několik let nižší. Doklad chybí."
       ],
@@ -5826,7 +5831,7 @@
                               {
                                 "jmeno": "František Ludvík Alexandr",
                                 "stav": "doc",
-                                "roky": "* 1753 Bor Bobnický",
+                                "roky": "* 29. 1. 1753 Bor Bobnický",
                                 "pozn": "snad „Ludovicus de Gyller“ (1770)",
                                 "vazba": "doc",
                                 "profil": "frantisek_ludvik_1753"

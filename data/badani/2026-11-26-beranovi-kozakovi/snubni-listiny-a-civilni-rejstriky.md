@@ -10,7 +10,7 @@ Vlastní oddací zápis **Pravonín 26, oddíl Buková, s. 200, sn. 141, zápis 
 |---|---|
 | Pravonínský snubní protokol | Sepsán **19. září 1936**. |
 | Křestní list ženicha | Vydal **Farní úřad Velká Jesenice 17. září 1936, č. j. 170**. Číslo je číslo vydání listu ve Velké Jesenici. |
-| Křestní list nevěsty | Vydal **Farní úřad Zhoř 19. září 1936, č. j. 195**. Palčice v zápisu identifikují správný Zhoř u Čechtic. |
+| Křestní list nevěsty | Vydal **Farní úřad Zhoř 19. září 1936, č. j. 195 (?)**. Palčice v zápisu identifikují správný Zhoř u Čechtic. |
 | Farní ohlášky | Zapsané jako v Pravoníně **20. a 27. září a 3. října 1936**. Jde o údaje ze svatební matriky. Samostatný obraz ohlášek zatím chybí. |
 | Uložení originálních podkladů | Poznámka uvádí **„Snubní listiny (protokol a dva kusy) uloženy ve farním archivu fasc. cop. pro rok 1936 č. 4.“** Identifikovatelná jednotka je tedy **Pravonín, fasc. cop. 1936 č. 4**, pravděpodobně protokol a oba v poznámce jednotlivě jmenované křestní listy. |
 

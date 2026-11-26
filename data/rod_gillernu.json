@@ -60,8 +60,8 @@
     },
     {
       "rok": "1724–1726",
-      "text": "Karel Josef z Gillernů (asi 1690–1762), lichtenštejnský a císařský dvorní rada – rytířský stav „Edler Herr von Gillern“ za služby předků ve švédských válkách a uherských nepokojích. Zdroje se liší v datu (4. 4. 1724 / 5. 3. 1726).",
-      "zdroj": "Vyšín 1978; Der Adel von Böhmen 1859; Rakouský státní archiv"
+      "text": "Karel Josef z Gillernů, lichtenštejnský a císařský dvorní rada. Vídeňský katalog vede rytířský stav k 4. 4. 1724. K udělení starého rytířského stavu 5. 3. 1726 následuje vyrozumění 17. 3. 1726 a podle opavského regestu oznámení z Vratislavi 1. 10. 1732.",
+      "zdroj": "ÖStA, HAA AR 287.48–49 a RAA 143.35; Schimon 1859, s. 45; Doerr 1900, s. 210; Modelhart 1917, s. 77, 89"
     },
     {
       "rok": "1727–1732",
@@ -1013,7 +1013,7 @@
         "Později lichtenštejnský a císařský dvorní rada, nakonec dvorní rada bankovní deputace ve Vídni.",
         "Vídeňské státní kalendáře ho uvádějí jako „Carl Joseph Freyherr von Gillern“: 1736–1746 rada dvorské komory, 1738–1741 rada univerzální bankality, 1746–1760 dvorský rada ministeriální bankovní deputace, od 1756 „skutečný dvorský rada“. Celou dobu bydlel v lichtenštejnském domě na Starém selském trhu (Bauernmarkt). Jiný Giller v těchto úřadech nebyl.",
         "Rakouský mírový vyjednavač za první slezské války: na podzim 1741 ho Marie Terezie jako „dvorského komorního a bankovního radu barona z Gillernů“ poslala do Opavy dojednat s Pruskem mír. Vybrala ho proto, že k němu prý pruský král dříve choval přízeň a že mohl kvůli „vrchnímu dohledu nad všemi lichtenštejnskými panstvími“ do Opavy odjet nenápadně. Jednal přes britského vyslance lorda Hyndforda; když Prusové vtáhli na Moravu, uchýlil se přes Melč do Olomouce a 29. 12. 1741 se vrátil do Vídně. Podílel se i na tereziánských reformách v Čechách.",
-        "Rytířský stav „Edler Herr von Gillern“ (1724/1726) za služby předků ve švédských válkách a uherských nepokojích; český stav svobodných pánů 1732 (podle Doerrova soupisu udělen v Praze 4. 6. 1732; Ledebur uvádí 24. 9.) spolu s bratrancem Johannem Christophem z Gillernů.",
+        "K jeho rytířskému stavu vede vídeňský archiv několik aktů z let 1724 a 1726. Schimon píše u 5. 3. 1726 o službách předků ve švédských válkách a při uherských nepokojích. Modelhart podle opavských intimací uvádí k témuž datu vojenskou službu jeho děda ve švédské válce a bavorských válkách. Dědovo jméno i strana rodiny v tomto výtahu chybějí. Dne 4. 6. 1732 následoval samostatný český stav svobodných pánů s Johannem Christophem podle Doerra (Ledebur uvádí 24. 9.).",
         "29. 12. 1742 koupil panství Koryčany na Moravě od Antona Emericha Horeckého z Horky za 164 000 zlatých. (zemské desky, d'Elvert 1874; podle knihy Hrad Cimburk 1940 17. 12. 1742)",
         "V Koryčanech v letech 1747–1750 kmotroval poddaným i úředníkům panství, roku 1750 spolu s manželkou Josefou; jeho sekretářem tam byl Adam Effenberger.",
         "Manželka Maria Josepha roz. von Fellner. Jediný syn jim zemřel mladý, a tak roku 1759 odkázal Koryčany manželce a jako dalšího dědice určil příbuzného („Vetter“) Kristiána Matyáše; závěť je z 9. 2. 1759, vyhlášena 22. 11. 1762; vdova ve své závěti (1765) jmenuje už jen své sourozence.",
@@ -1047,7 +1047,16 @@
           "nazev": "Dopis Karla Vyšína (1978) podle K. F. von Franka a L. Hosáka"
         },
         {
-          "nazev": "Der Adel von Böhmen, Mähren und Schlesien (1859), s. 45"
+          "nazev": "Der Adel von Böhmen, Mähren und Schlesien (1859), s. 45",
+          "odkaz": "https://archive.org/details/deradelvonbhmen00schigoog/page/n55/mode/1up"
+        },
+        {
+          "nazev": "Artur Modelhart, Die im Landesarchiv zu Troppau befindlichen Standeserhöhungen, 1917, s. 77 a 89",
+          "odkaz": "https://sbc.org.pl/Content/128006/PDF/128006.pdf#page=96"
+        },
+        {
+          "nazev": "ÖStA, AVA Adel HAA AR 287.48 a 287.49, rytířský stav 1724 a intimace 1726",
+          "odkaz": "https://www.archivinformationsystem.at/archivplansuche.aspx?ID=4474498"
         },
         {
           "nazev": "de.wikipedia.org – Karl Joseph von Gillern",

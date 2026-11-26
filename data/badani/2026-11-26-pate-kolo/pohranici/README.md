@@ -1,5 +1,7 @@
 # Pelhřimovy a Matějovice v okruhu Bartschů
 
+Další čtení doložilo Elisabethu Gellerovou při matějovickém křtu 16. července 1736 a ovdovění po myslivci Leopoldu Wolffovi už před 16. srpnem 1724. [Srovnání jmen a originální výřezy](../../2026-11-26-seste-kolo/pohranici/README.md)
+
 **Křest Josefa se zapsaným otcem Maximiliánem se v okně 13. 6. 1737 až 12. 6. 1738 neprokázal v Pelhřimovech ani v Bohušově.** Nejbližší jmennou stopou je Martin **Geller z Matějovic**, jmenovaný jako otec nevěsty Rosiny 17. 2. 1738. Jeho příbuznost s Maximiliánem zůstává otevřená. Ve stejném sňatkovém opise je ještě roku 1735 uveden zesnulý matějovický myslivec **Leopold Wolff**. V Pelhřimovech je v letech 1734 a 1737 doložen myslivec **Christian Schwarzer** a v letech 1737–1738 služebnictvo Blumencronů. Přesnou dataci změny vrchnosti ve slezském dílu znesnadňují dva rozdílné údaje v literatuře, 1730 a 1749. Tito lidé a správy dávají hledání konkrétní místní rámec. Žádný z přečtených zápisů přímo nespojuje Maximiliána s oběma místy.
 
 ## Obvody a držba

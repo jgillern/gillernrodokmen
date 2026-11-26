@@ -4,6 +4,8 @@
 
 **Culkové článek o zpřístupnění české řady má dohledaný digitální svazek.** Dagmar Culková, „K otázce zpřístupnění chronologické řady fondu České oddělení dvorské komory a tzv. české řady pamětních knih z vídeňského Archivu Dvorské komory“, v *25 let Státního ústředního archivu v Praze* (1980), s. 122–125. Záznam svazku v ČDK má PID **uuid:4d915120-d046-11ec-bc34-5ef3fc9bb22f**, přístup označený jako soukromý a licence DNNT online a na místě. Veřejný obraz článku jsem nezískal. Je to konkrétní místo k ověření, zda po rozluce vznikly v Praze kopie českých knih nebo pomůcka. [Digitální svazek](https://www.ceskadigitalniknihovna.cz/view/uuid:4d915120-d046-11ec-bc34-5ef3fc9bb22f) · [Bibliografie NA](https://old.nacr.cz/zpravy/dagmar_culkova.aspx) · [Tištěný exemplář SOkA Semily, A-I-50](https://katalog.soalitomerice.cz/Record/SOA.327612).
 
+Čtyři konkrétní strany jsem následně dohledal ve společném katalogu Národní knihovny a Moravské zemské knihovny. Na úrovni svazku systém uvádí licence DNNT online a na místě. Obsah článku se při veřejné kontrole nezobrazil. [S. 122](https://ndk.cz/uuid/uuid:e2f6476d-29f2-489f-b6b2-27bf0879b2ac) · [S. 123](https://ndk.cz/uuid/uuid:ca5023e7-9b47-4788-9ed8-2586d97cf2d8) · [S. 124](https://ndk.cz/uuid/uuid:a180ed22-44a8-4cc4-a535-ffe8e66f82ea) · [S. 125](https://ndk.cz/uuid/uuid:885d5c95-8c73-4626-86bd-39085903147b)
+
 ## Johann Hoffmann, Kateřina a dvě dcery
 
 | Doklad | Čtení a důsledek |

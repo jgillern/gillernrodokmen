@@ -1,5 +1,7 @@
 # Carl Heinrich von Giller na Hammeru v pruské soudní správě
 
+Berlínský inventář mezitím umožnil oba nástupce časově zařadit už do roku 1748. Důvod odchodu Carla Heinricha z komise zůstává otevřený. [Jmenovací spisy Bibry a Kreckwitze](../../2026-11-26-seste-kolo/hammer/README.md)
+
 **V letech 1747 a 1748 jmenuje pruský adresář Maximiliánova otce mezi dvěma soudními komisaři pro obvod Wohlau–Steinau (Wołów–Ścinawa).** V obou ročnících je uveden jako pán na Hammeru. Seznam schválený pro hlohovský obvod v roce 1743 uvádí stejné dva muže, stejné statky a stejné pořadí. Máme tak časový bod i uvnitř mezery mezi úmrtím Maximiliánovy matky roku 1736 a jeho prvním potvrzeným českým působištěm v roce 1750. Všechny tři zmínky se týkají otce Carla Heinricha. [Maximiliánův křest s rodiči, 1719](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T972-J)
 
 | Pramen | Co stojí na stránce | Jak údaj číst |

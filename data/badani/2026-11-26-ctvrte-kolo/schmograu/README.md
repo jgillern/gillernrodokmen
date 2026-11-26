@@ -1,12 +1,12 @@
 # Groß Schmograu. Pořadí listů a kontrola Josefových křestních oken
 
-Nejsilnější přírůstek se týká podzimu 1737. **Strana 495 s nemanželským Joannem Josephem, synem Hedwig Matlerin, patří s vysokou pravděpodobností do roku 1736.** Září na stejné straně ještě označuje Annu Klamtovou jako manželku žijícího místního rychtáře. Nicolaus Klamt byl pohřben 19. června 1737 a v srpnových křtech ji už označují jako jeho vdovu. Na straně 492 lze fyzicky ověřit, že zápis z 28. srpna a zápis z 5. prosince jsou na téže neporušené straně. V lednu až březnu 1738 potvrzují kontinuitu křestní řady další pohřební protějšky. **Přítomné zápisy mezi 22. lednem a 30. březnem 1738 jsou prověřené a tvoří rukopisně propojený úsek.** Obě celá okna zůstávají otevřená.
+Nejsilnější přírůstek se týká podzimu 1737. **Strana 495 s nemanželským Joannem Josephem, synem Hedwig Matlerin, patří s vysokou pravděpodobností do roku 1736.** Září na stejné straně označuje Annu Klamtovou jako manželku místního rychtáře. Po pohřbu Nicolause Klamta 19. června 1737 použil písař titul manželky ještě 30. června. V srpnovém křtu už stojí vdova. Pro přiřazení strany 495 k roku 1736 mají proto větší váhu návaznost 10. a 11. listopadu na další stranu a dva křty Marckertových dětí. [Nové čtení včetně obou pohřbů](../../2026-11-26-seste-kolo/schmograu/README.md) Na straně 492 lze fyzicky ověřit, že zápis z 28. srpna a zápis z 5. prosince jsou na téže neporušené straně. V lednu až březnu 1738 potvrzují kontinuitu křestní řady další pohřební protějšky. **Přítomné zápisy mezi 22. lednem a 30. březnem 1738 jsou prověřené a tvoří rukopisně propojený úsek.** Obě celá okna zůstávají otevřená.
 
 Pramenem je katolická smíšená kniha Groß Schmograu (Smogorzów Wielki, okres Wohlau), FamilySearch **DGS 7994093**, lipské **21962 D 1294-2**. Křestní kniha uvádí den obřadu. Narození vypočtená z věku při pohřbu jsou přibližná, pokud se nezávisle nepotvrdí. Čísla 492 apod. níže jsou filmové klapky. Rukopisné dolní číslování je uvedeno zvlášť. [Katalog filmu](https://www.familysearch.org/en/search/catalog/356843)
 
 ## Starší okno 13. června 1737 až 12. června 1738
 
-### Rodina Klamtových pomáhá vyřadit stranu 495
+### Klamtovi, Marckertovi a datace strany 495
 
 | Místo v prameni | Co je možné přečíst a vyvodit |
 | --- | --- |

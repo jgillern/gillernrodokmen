@@ -1,8 +1,10 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
+[Ověření dostupnosti kartonu 37 a Josefových svatebních ohlášek, deník č. 958–960](data/badani/2026-11-27-prime-doklady/README.md)
+
 [Výsledky z 27. listopadu. Býchorská myslivna, brandýské matriky a Clannerovi, nápis Gillerů z roku 1725 a prameny ke starší linii. Deník od č. 948](data/badani/2026-11-27-pokracovani/README.md)
 
-**[Aktuální plán z 27. listopadu 2026](data/badani/2026-11-27-plan/README.md)** vede od vlastní Josefovy přihlášky a nástupu do Býchor k jeho křtu, od služby v Boru k Maximiliánově svatbě a od listiny z roku 1700 k rodičům Heinricha Christofa. [Kontrola městských i venkovských oddavek v Nymburce do září 1752](data/badani/2026-11-27-plan/nymburk.md). Deník č. 944–947.
+**[Aktuální plán z 27. listopadu 2026](data/badani/2026-11-27-plan/README.md)** sleduje možnost osobního hlášení a doklad o nástupu do Býchor jako cesty k Josefovu křtu, od služby v Boru k Maximiliánově svatbě a od listiny z roku 1700 k rodičům Heinricha Christofa. [Kontrola městských i venkovských oddavek v Nymburce do září 1752](data/badani/2026-11-27-plan/nymburk.md). Deník č. 944–947.
 
 [Dvanácté kolo. Rychnovský Antonín Josef zemřel jako dítě, oddavky roku 1747, krnovská žádost Matyáše Gillera z roku 1643 a Hlubčice roku 1651. Deník č. 935–943](data/badani/2026-11-26-dvanacte-kolo/README.md)
 

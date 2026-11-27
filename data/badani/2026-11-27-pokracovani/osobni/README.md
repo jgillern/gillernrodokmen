@@ -2,6 +2,8 @@
 
 Josef byl při sňatku 12. června 1786 zapsán jako syn poděbradského nadlesního Maximiliána. Oddací a úmrtní věk ukazují na dvě různá období narození. Služební přihláška může rozhodnout, ve které farnosti se má hledat jeho křest. Povolání řadového myslivce ovšem nemá v dobovém sazebníku vlastní položku. Dochování Josefovy jmenovité přihlášky tak zůstává otevřené. [Oddavky](https://ebadatelna.soapraha.cz/d/11863/7) · [Býchorské úmrtí](https://ebadatelna.soapraha.cz/d/10801/8) · [Předpis a starší rozbor](../../2026-11-26-pate-kolo/prihlaska/README.md)
 
+**Následná kontrola.** Všechny dostupné snímky ve výsledku pro tento fond patří k pomůckám. Sedm aktů se nepodařilo otevřít. V původní žádosti do Prahy karton 37 chybí. [Co bylo ověřeno a jak získat kopie](../../2026-11-27-prime-doklady/README.md)
+
 ## Národní archiv, Vlastenecko-hospodářská společnost Praha, NAD 638
 
 Na s. 27 inventáře stojí v záhlaví prostředního sloupce „Značka, příp. obsah (počet akt)“. Sedmička u roku 1789 udává počet aktů v celé skupině I. V předchozím plánu byl tento údaj nepřesně zapsán jako „I/7“. Totéž platí pro zápis „I/1“ u roku 1788. Zda jednotlivé akty obsahují výkaz, vlastní podání, průvodní dopis nebo jinou agendu, rozhodne jejich text. V tomto kole byl přečten obraz inventáře. [Původní inventář, s. 27](https://vademecum.nacr.cz/vademecum/permalink?xid=88ec3f678b982944bc265411e2f4bbe8&scan=8adf5d21-d694-4ccc-a1f2-2339caac62f7)

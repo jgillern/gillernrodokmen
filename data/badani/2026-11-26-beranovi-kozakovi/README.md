@@ -1,5 +1,7 @@
 # Beranovi a Kozákovi
 
+**Pokračování 27. listopadu 2026** přináší přímé matriční zápisy z Popovic a domácnost Františka a Barbory s Emilií ze sčítání v Robousích. [Nálezy a odkazy na snímky](../2026-11-27-beranovi-kozakovi/README.md)
+
 Veřejné prameny prověřené 26. listopadu 2026. Výchozí zápis je sňatek Josefa Berana a Ludmily Slunečkové z 11. října 1936. Ženich se narodil 13. června 1910 ve Velké Jesenici čp. 82. Matrika jmenuje jeho rodiče Josefa Berana a Emilii rozenou Kozákovou a jejího otce Františka Kozáka z Robous čp. 75. Josef starší je podepsán jako svědek, mistr cihlářský z Pravonína čp. 72. [Pravonín 26, oddíl Buková, s. 200, sn. 141](https://ebadatelna.soapraha.cz/d/15260/141)
 
 Aktuální rozbor zahrnuje domácnosti z Robous dosud nepřečtené při sčítání 1900, potomky Antonína Kozáka, pozemkové knihy pro Libuň a Kněžnice i nálezy u předků Ludmily Slunečkové v Jiřeticích. [Strategie a ověřené zápisy](strategie-beranovi-a-navazujici-linie.md) · [Pramenný deník od B26-82](denik-od-b26-82.md)
@@ -26,7 +28,7 @@ V této rodině se v odstupu 51 let opakuje také čp. **37**. Při křtu Barbor
 
 Sčítací arch z roku 1900 v **čp. 33**, kde se Emilie Marie narodila, uvádí nájemce hostince Josefa (příjmení při novém čtení spíše Hartl, v adresáři Hátle) a v dalším bytě rodinu sedlářského mistra Františka Kotláře. Kozákovi mezi devíti přítomnými na archu nejsou. Povolání podruha v dřívějších matrikách neurčuje zaměstnavatele. [Sčítací arch a srovnání adres](robousy-33-hostinec.md).
 
-U předků této Emilie je novou stopou **Matěj Černý, kovář**. Rukopis dovoluje Libáň i Labouň. Další slovo se lépe čte jako **panství Kopidlno**. Dobový místopis pod ně řadí Libáň, takže prozatím má přednost libáňská farnost. [Rozbor, výřezy a matriční signatury](liban-a-laboun.md) · [Matčina rodina z Popovic čp. 19](popovice-19-kozakovi.md) · [Farnost pro alternativní Labouň](laboun-cerny.md). Pro rod ze Želejova jsou zvlášť zapsány zprávy o [Bozkově čp. 58 a 59](bozkov-58-59-domacnosti.md) a [kněžnických Brunclíkových](libun-brunclik.md).
+U předků této Emilie se ve křestním zápisu z roku 1845 objevuje **Matěj Černý, kovář**. Vlastní sňatek jeho dcery roku 1805 a křty jejích dětí z let 1812 a 1815 určují obec jako **Labouň**. [Oddavky a křty v Popovicích](../2026-11-27-beranovi-kozakovi/popovice-kozak-cerny.md). [Rozbor, výřezy a matriční signatury](liban-a-laboun.md) · [Matčina rodina z Popovic čp. 19](popovice-19-kozakovi.md) · [Farnost pro alternativní Labouň](laboun-cerny.md). Pro rod ze Želejova jsou zvlášť zapsány zprávy o [Bozkově čp. 58 a 59](bozkov-58-59-domacnosti.md) a [kněžnických Brunclíkových](libun-brunclik.md).
 
 ## Kudy hledat doklad spojující obě rodiny
 

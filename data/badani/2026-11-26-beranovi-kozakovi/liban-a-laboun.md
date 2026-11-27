@@ -1,5 +1,7 @@
 # Matěj Černý v křtu Barbory z roku 1845: Libáň a Labouň
 
+**Oprava místního určení, 27. listopadu 2026.** Vlastní svatba Kateřiny Černé roku 1805 i křty jejích dětí v letech 1812 a 1815 jmenují Labouň. V roce 1812 se u Matěje Černého uvádí i kovářské řemeslo. [Tři zápisy z Popovic](../2026-11-27-beranovi-kozakovi/popovice-kozak-cerny.md)
+
 **Čtení „kováře v Libáni panství Kopidlna“ má silnou nezávislou zeměpisnou oporu.** Palackého popis podle stavu v roce 1843 řadí Libáň pod Kopidlno a Labouň pod Milíčeves. Jmenovitý doklad Matěje Černého z Libáně ani číslo jeho domu jsem v dnes přístupných pramenech nenašel.
 
 ## Písmo a nezávislé určení místa

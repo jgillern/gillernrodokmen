@@ -1,5 +1,7 @@
 # Jak pokračovat od Josefa Berana a Emilie Kozákové
 
+**Aktualizace z 27. listopadu 2026.** Popovice čp. 19 a Robousy čp. 37 už byly přečteny. [Výsledky a navazující otázky](../2026-11-27-beranovi-kozakovi/README.md)
+
 Revize veřejných pramenů, 26. listopadu 2026. Dva Josefové jsou bezpečně rozlišeni. Syn se narodil **13. června 1910 ve Velké Jesenici čp. 82**. Při jeho svatbě 11. října 1936 je otec zapsán a podepsán jako Josef Beran, cihlářský mistr z Pravonína čp. 72. Matka Emilie byla dcerou Františka Kozáka z Robous čp. 75. Rodiště otce ani matčino rodné datum zde farář neuvedl. [Pravonín 26, zápis 4, oddíl Buková, s. 200, sn. 141](https://ebadatelna.soapraha.cz/d/15260/141) · [Detail údaje o Robousích](doklady/pravonin-1936-udaj-robousy-75.jpg)
 
 ## Josef starší a Emilie. Tři veřejné cesty

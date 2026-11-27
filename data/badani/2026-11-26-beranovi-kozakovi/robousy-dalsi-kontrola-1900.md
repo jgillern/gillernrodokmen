@@ -1,5 +1,7 @@
 # Robousy v roce 1900. Které domy už byly jmenně přečteny
 
+**Doplnění z 27. listopadu 2026.** Dokončena jmenná kontrola čp. 37 i 58 a zkontrolováno sousední čp. 36. [Obě domácnosti v čp. 37, všechny tři v čp. 58 a výřezy](../2026-11-27-beranovi-kozakovi/robousy-1900.md)
+
 SOkA Jičín, Okresní úřad Jičín I, inv. 1378, čp. 1–68, stav k 31. 12. 1900. Rodinu lze poznat podle podruha Františka Kozáka (* 10. 6. 1843 Želejov), Barbory roz. Kaplové (* 26. 11. 1845 Robousy), jejich dcery Emilie Marie (* 8. 7. 1882 Robousy čp. 33) a jejího bratra Antonína, oddaného s Františkou Víchovou roku 1896. Oddací zápis z roku 1936 uvádí jako otce Emilie pravonínské **Františka Kozáka z Robous čp. 75**. Čp. 75 nebylo součástí sčítacího svazku z roku 1900. V roce 1921 patřilo Anně Polákové. [Sběrací arch z roku 1900](https://aron.vychodoceskearchivy.cz/apu/d80ddde0-d518-42b8-b4c2-de47858ff001/dao/d80ddde0-d518-42b8-b4c2-de47858ff001/file/a9d903cf-b8b8-4f56-82f6-d612bfb4705e) · [Čp. 75 v dalších letech](robousy-dum-75.md)
 
 Při kontrole **křtu Emilie Marie** jsou čitelní kmotři **Marie Kopecká**, vdova po Josefu Kopeckém, rolníku v Robousích č. 33, a **Jan Studnička**, obuvník v Robousích č. 34. Kmotrovství je důvod k přednostní kontrole jejich domů. Příbuzenský vztah z něj samotného neplyne. [Výřez celého zápisu včetně kmotrů](../../../vyrezy/n_1882_kozakova_emilie.jpg)

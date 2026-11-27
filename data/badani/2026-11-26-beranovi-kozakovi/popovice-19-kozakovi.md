@@ -1,5 +1,7 @@
 # Popovice u Jičína čp. 19 a rodina Kozákových
 
+**Oprava místního určení, 27. listopadu 2026.** Vlastní svatba Kateřiny Černé roku 1805 i křty jejích dětí v letech 1812 a 1815 jmenují Labouň. V roce 1812 se u Matěje Černého uvádí i kovářské řemeslo. [Tři zápisy z Popovic](../2026-11-27-beranovi-kozakovi/popovice-kozak-cerny.md)
+
 ## Co říkají původní zápisy
 
 - Křest Barbory 27. 11. 1845 (narozena 26. 11. v Robousích čp. 36) označuje její matku jako katoličku Kateřinu Kozákovou, manželskou dceru **Františka Kozáka, baráčníka z Popovic čp. 19, panství Milíčeves**, a jeho manželky **Kateřiny, dcery Matěje Černého**. Na posledním řádku mateřské rubriky čtu pravděpodobně „kowáře w Labauňi panstwj Kopidlno“. Řemeslo i poslední název jsou pracovní čtení. Historický seznam statku z roku 1848 řadí Labouň pod Tuř, případnou nesrovnalost ještě bude potřeba objasnit. Samotná filiace v zápisu je jasná. [Místní výřez mateřské rubriky](doklady/robousy-1845-popovice-laboun.jpg) · [Jičín 70-26, fol. 298–299, sn. 123, poslední zápis](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9P5-Z34C-F)

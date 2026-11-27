@@ -1,0 +1,28 @@
+# Josef Beran v Kuňovicích a cihláři Beranovi z Točníka
+
+Dne **3. července 1920** byl na svatbě Boženy Beranové v Pravoníně prvním svědkem **„Josef Beran, cihlář v Kuňovicích č. 20“**. Božena byla dcerou cihlářského mistra **Františka Berana**. Shoda jména, povolání a okolí Pravonína podporuje možnost, že svědek byl hledaný Josef Beran starší. Obecní kronika v témže roce zmiňuje pronájem pastviště Josefu Beranovi pro pec a obydlí v Pijavkách. Ve svatebním zápisu z roku 1920 se příbuznost svědka ani jméno jeho manželky neuvádí. [Originál oddavek](https://ebadatelna.soapraha.cz/d/15260/71) · [Odečet a výřez](svedci/README.md) · [Zápis v obecní kronice](https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=68)
+
+| Vztah k doložené Boženě | Údaj z matriky |
+| --- | --- |
+| **Božena Marie Beranová** | Narozena **24. 11. 1898 v Levíně čp. 7**, pokřtěna 4. 12. 1898. Okrajová poznámka přímo potvrzuje její svatbu v Pravoníně 3. 7. 1920 s Václavem Šlehofrem. |
+| **František Beran**, otec | Mistr cihlářský, narozený **24. 4. 1854 v Točníku čp. 30** podle vlastního křtu. Křest dcery a pozdější oddavky uvádějí rok 1857. |
+| **Marie Froňková**, matka | Narozena **28. 7. 1861**, dcera zedníka Františka Froňka **ze Zdic čp. 96**. Podle zdického prvopisu se vdala **27. 7. 1891 ve Zdicích** za Františka, tehdy vdovce. |
+| **Matěj Beran**, dědeček | Cihlář **v Točníku čp. 30**. |
+| **Anna Tumpachová**, babička | Z **Voseka čp. 37** (Osek u Hořovic). |
+
+SOA Praha, **Počaply 22, kn. X, s. 98, sn. 106, zápis 149**. [Originál křtu](https://ebadatelna.soapraha.cz/d/10167/106) · [Rodiče a prarodiče](pocaply/pocaply-22-sn106-parents.jpg) · [Datace a přípisy](pocaply/pocaply-22-sn106-left.jpg) · [Výřez řádku](../../../../../vyrezy/n_1898_beranova_bozena_marie.jpg)
+
+**Dvě čp. 20.** U obou snoubenců je v oddacím zápisu **Pravonín čp. 20**. V rubrice svědka stojí **Kuňovice čp. 20**, bez opravy. U Františka Berana je místo v jeho popisu opravované. Starší matriční zmínky o kuňovickém domě pomáhají sledovat jeho obyvatele. [Oddací zápis](https://ebadatelna.soapraha.cz/d/15260/71) · [Kontrola kuňovického čp. 20](kunovice/README.md)
+
+Františkův křest jmenuje jeho dědečka **Jakuba Berana z Oseka** a babičku **Kateřinu Holubovou**. Čtyři křty dokládají cihlářské rodiny v **Točníku čp. 30 a čp. 9**. U obou se objevují Jakub a Kateřina jako prarodiče. Rozdíly v Jakubově povolání a čísle domu zachovává podrobný přepis. [Křty v Točníku](tocnik/README.md)
+
+**První žena Františka otevírá starší časové okno.** Ve zdickém prvopisu z 27. 7. 1891 je František výslovně **vdovec**, bydlí ve **Zdicích čp. 164** a svědkem je **Kajetán Beran, cihlář z Družce čp. 26**. Poznámka přímo odkazuje na úmrtí první ženy a na snubní spis. **Anna rozená Hasmanová z Komárova** zemřela **1. 6. 1891 ve Zdicích čp. 164**, ve věku 31 let. Josef, který byl otcem už v červnu 1910, tedy může pocházet i z Františkova prvního manželství. Jeho totožnost musí doložit další zápis. [Zdické oddavky a lokátory příloh](zdice/README.md) · [Úmrtí Anny](prvni-manzelka/README.md) · [Narození Josefova syna doložené jeho oddavkami](https://ebadatelna.soapraha.cz/d/15260/141)
+
+Sčítání pro **Točník 1857 a 1869** eviduje přehled sčítacích operátů SOkA Beroun u fondu **Okresní úřad Hořovice**. Tamtéž je uvedena okresní řada **1880, 1890, 1900 a 1910** s mezerami. Rozpis pro čp. 30 ani snímky domácnosti zatím nemáme. Veřejná katalogová karta fondu **NAD 34** uvádí všeobecný inventář **I/4 z roku 1963** a tři katalogy prezidiálních písemností. U inventáře není připojen veřejný obraz položek. [Inventář I/4, karta](https://portal.nacr.cz/aron/apu/9fd54921-f5b2-45f0-a29d-79169d0230ec). [Historická demografie 26 (2002), přehled v oddílu SOkA Beroun](https://historickademografie.avcr.cz/archiv/HD_26_2002.pdf) · [Katalog fondu NAD 34](https://portal.nacr.cz/aron/apu/8cc9fa24-8f4b-42fa-bd4d-3fb5ba4d9dee)
+
+## Další veřejné prameny
+
+- **Dobové vojenské seznamy.** Cihláře Ferdinanda Kajetána Berana s domovskou obcí Točník lze spojit s rakousko-uherským vojenským záznamem. Příbuzní v něm uvedeni nejsou. Další Josef Beran, ročník 1891 ze Záluží, byl roku 1914 léčen v Berouně. Shoda s hledaným Josefem zatím není doložena. [Doklady a rozsah prověrky](vojna/README.md).
+- **Velká Jesenice a Jaroměř.** Dohledány oddací rejstříky a knihy s místními názvy souvisejícími s cihelnami. Veřejné obrazové zpřístupnění je u jednotlivých svazků třeba ověřovat samostatně. [Katalogové odkazy](jesenice/README.md).
+- **Těškovice u Onšova.** Příbuznost dělníka Josefa Berana z Těškovic čp. 9, zmíněného při sňatku jeho vnučky Marie 1939, s pravonínským cihlářem zůstává otevřená. Poznámka u oddavek uvádí povolení nezletilé nevěstě od **Okresního soudu v Dolních Kralovicích, odd. I, z 22. 12. 1937**. Pracovní čtení značky **P 64/20/35 (?)**, s pravděpodobným kmenem **P 64/1920**. Podle jednacího řádu rok v kmeni mohl označovat založení starší věci. Fond **NAD 1221** je evidován jako částečně přístupný a nezpracovaný. Ke konkrétnímu spisu karta nevede. [Oddací zápis a přílohy](../../marie-beranova-teskovice.md) · [Fond soudu](https://portal.nacr.cz/aron/apu/a68bf977-dc2e-45cc-8e17-d72a2047c67f) · [Jednací řád, § 41–42](https://app.beck-online.cz/bo/chapterview-document.seam?documentId=onrf6mjzgi4f6mrrgmwta).
+- **Těškovice v dobovém tisku.** Ocenění telčského zastupitele Františka Berana ukazuje dalšího nositele příjmení s podobně zapsaným rodištěm. Určení konkrétních Těškovic a jeho případná příbuznost zůstávají otevřené. [Ověřené doklady](teskovice-tisk/README.md).

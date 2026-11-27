@@ -2,6 +2,8 @@
 
 U cihláře **Josefa Berana staršího** hledáme údaj o narození, rodičích nebo domovské obci. Dne 13. června 1910 se jeho stejnojmenný syn narodil ve Velké Jesenici čp. 82. Roku 1936 byl Josef starší uveden jako cihlářský mistr z Pravonína čp. 72. Kronika zaznamenává jeho úmrtí 26. října 1950 a k tomuto dni připojuje také Bukovou čp. 8. [Sňatek syna a přesný údaj o narození](../../2026-11-26-beranovi-kozakovi/prvni-kolo.md) · [Úmrtí v obecní kronice](../../2026-11-26-beranovi-kozakovi/kronika-a-pozustalost.md)
 
+**Nový nález z 3. července 1920.** Svědkem na svatbě Boženy Beranové v Pravoníně byl **Josef Beran, cihlář v Kuňovicích čp. 20**. Boženin křest doložil jejího otce Františka a děda Matěje, cihláře v Točníku čp. 30. Františkův prvopis tam potvrzuje narození roku 1854. Jeho oddavky z roku 1891 prokázaly, že před narozením Boženy už jednou ovdověl. Totožnost svědka s hledaným Josefem starším a jeho možnou příbuznost s Boženou dál ověřujeme. [Oba prvopisy, přepisy a související nálezy](kunovice-tocnik/README.md)
+
 | Pramen prověřený 27. 11. 2026 | Výsledek |
 | --- | --- |
 | Pravonín 22, 25 a 26 | Mezi čitelnými řádky narozených 1852–1893 pod B se neobjevil Josef Beran. V oddacím rejstříku pod B je Josef mladší roku 1936. Úmrtní rejstřík do roku 1949 ve zkoumaných oddílech nepřidal doklad k jeho rodičům ani k možné sestře Ludmile. [Rozsah a snímky](matriky-pravonin.md) |

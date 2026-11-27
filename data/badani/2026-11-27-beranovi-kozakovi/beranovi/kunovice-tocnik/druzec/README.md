@@ -1,0 +1,13 @@
+# Kajetán Beran, cihlář v Družci čp. 26
+
+**Antonín Beran se narodil 26. srpna 1891 v Družci čp. 26**, pokřtěn byl 27. srpna. V posledním řádku na s. 69 je otec **Kajetán Beran, cihlář v Družci čp. 26, příslušný do Točníka u Žebráka**, syn **Matěje Berana, cihláře v Točníku**, a Anny rozené Tumpachové z Oseka. Antonínova matka **Anna** byla dcera **Petra Žílka, dělníka z Bavoryně u Zdic**, a **Veroniky rozené Kalinové z Chodouně**. Kmotr **Antonín Růžička** je uveden jako rolník v Družci. Pozdější poznámka u Antonínova jména zachycuje úmrtí v roce 1892. [Družec 32, s. 69, sn. 71, poslední řádek](https://ebadatelna.soapraha.cz/d/5313/71) · [Výřez](druzec-32-sn071-antonin-1891.jpg).
+
+Druhý datovaný záznam je křest Josefa, syna Rosalie Albrechtové, narozeného **7. dubna 1892 v Družci čp. 10**. **Josefa Beranová, dcera Kajetána Berana, cihláře v Družci**, je tu uvedena jako kmotra. Rok narození Josefy ani jméno její matky zápis neuvádí. [Družec 32, s. 73, sn. 75, první řádek](https://ebadatelna.soapraha.cz/d/5313/75) · [Výřez](druzec-32-sn075-josefa-kmotra-1892.jpg).
+
+V čp. 26 se na jaře 1891 objevuje také rodina **Antonína Černého, strojníka**. Jeho dcera Marie se narodila 27. března, pokřtěna byla 30. března. Vztah této domácnosti k Beranovým zápis neuvádí. [Sn. 70, s. 68, druhý zápis](https://ebadatelna.soapraha.cz/d/5313/70).
+
+Kajetánovo celé jméno, povolání a adresa v těchto dokladech shodně odpovídají svědkovi při sňatku jeho bratra Františka ve Zdicích z **27. 7. 1891**. Kajetánovi rodiče souhlasí i s křtem jeho syna Ferdinanda 1883 v Hořovicích. Matka je v obou křtech Anna, dcera Petra Žílka, ale její mateřská linie je zapsána rozdílně. V Hořovicích čteme Kateřinu rozenou Vykysal, v Družci Veroniku Kalinovou. Ke ztotožnění obou Ann je třeba jejich vlastní křest nebo Kajetánův sňatek. [Zdické oddavky](https://ebadatelna.soapraha.cz/d/9112/13) · [Hořovický křest a přepis](../tocnik/ferdinand-a-kajetan.md)
+
+## Rozsah kontroly
+
+Prohlédnuto osm originálních snímků Družce 32, **sn. 69–76, s. 67–74**, od **30. ledna 1891 do 21. srpna 1892**. V tomto úseku se mezi narozenými neobjevil Josef, syn Kajetána Berana. V narozeních před 30. lednem 1891 a po 21. srpnu 1892 tato kontrola nic neověřuje. [Sn. 69](https://ebadatelna.soapraha.cz/d/5313/69) · [70](https://ebadatelna.soapraha.cz/d/5313/70) · [71](https://ebadatelna.soapraha.cz/d/5313/71) · [72](https://ebadatelna.soapraha.cz/d/5313/72) · [73](https://ebadatelna.soapraha.cz/d/5313/73) · [74](https://ebadatelna.soapraha.cz/d/5313/74) · [75](https://ebadatelna.soapraha.cz/d/5313/75) · [76](https://ebadatelna.soapraha.cz/d/5313/76).

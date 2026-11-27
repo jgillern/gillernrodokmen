@@ -1,5 +1,7 @@
 # Ostrov u Záp v brandýské farnosti
 
+**Doplněno 27. listopadu 2026.** Snímky 64–67 knihy Brandýs nad Labem 03 zachycují srpen až listopad **1752**. Rok určuje souvislé pořadí zápisů až k lednu 1753. Níže je zachycen výsledek původního průchodu. [Roční předěl a nové výřezy](../../2026-11-27-pokracovani/bor/README.md) · [Oddací originál Keglerových](../../2026-11-27-pokracovani/brandys-oddavky/README.md)
+
 Pro léta kolem roku 1750 vede ke křtům z Ostrova u Záp děkanství v Brandýse nad Labem. Zápis Anny Kateřiny z Ostrova v knize Brandýs nad Labem 03 z předchozího kola doplňuje nově přečtený historický popis farní správy. Přesný rok čtyř snímků Brandýs 03 zůstává otevřený v rámci let 1747–1754. V tomto kole se nepodařilo přímo přečíst další matriční snímky ani rejstříky.
 
 ## Farní příslušnost a dvůr

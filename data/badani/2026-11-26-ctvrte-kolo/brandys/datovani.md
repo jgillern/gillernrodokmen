@@ -1,5 +1,7 @@
 # Datování brandýských křtů, snímky 64–67
 
+**Doplněno 27. listopadu 2026.** Snímky 64–67 knihy Brandýs nad Labem 03 zachycují srpen až listopad **1752**. Rok určuje souvislé pořadí zápisů až k lednu 1753. Níže je zachycen výsledek původního průchodu. [Roční předěl a nové výřezy](../../2026-11-27-pokracovani/bor/README.md) · [Oddací originál Keglerových](../../2026-11-27-pokracovani/brandys-oddavky/README.md)
+
 Čtené strany 120–127 zatím zůstávají v rozmezí let 1747–1754. Dvě vazby umožňují určovat rok z konkrétních dobových zápisů. Jedna vede k rodině brandýského radního a datovaným pamětem. Druhá spojuje křest se smrtí otce dítěte.
 
 ## Václav Kegler a Terezie

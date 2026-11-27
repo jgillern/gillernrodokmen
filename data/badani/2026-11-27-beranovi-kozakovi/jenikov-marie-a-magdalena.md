@@ -9,7 +9,7 @@ Na levé straně **snímku 33, s. 32**, je v oddílu Jeníkov u čp. 17 narozen�
 | Otec | *Jozef Sluniczko chalupn.* |
 | Matka | *Marie dcera / Franze Saubla / z Giřitic z Ne- / ystupowska / z Marie Ržim- / lowy z Neust- / powa.* |
 
-V roce 1830 je Marie výslovně matkou dítěte. V křtu Františka roku 1823 i při jeho svatbě roku 1848 je jeho matkou Magdalena. Tak je uvedena i matka Josefky roku 1826 a Vincence roku 1827. Zápisy sdílejí otce Josefa, dům Jeníkov čp. 17 a po matce rod Saublů z Jiřetic. V letech 1826, 1827 a 1830 je babička po matce uvedena jako Římlová (?) z Neustupova. V prvních dvou zápisech je její křestní jméno Magdalena, ve třetím Marie. V jeníkovské úmrtní matrice jsem mezi křty v letech 1823 a 1830 úmrtí Josefovy ženy nenašel. Případný další sňatek, příbuznost obou žen a jejich totožnost zůstávají otevřené.
+V roce 1830 je Marie výslovně matkou dítěte. V křtu Františka roku 1823 i při jeho svatbě roku 1848 je jeho matkou Magdalena. Tak je uvedena i matka Josefky roku 1826 a Vincence roku 1827. Zápisy sdílejí otce Josefa, dům Jeníkov čp. 17 a po matce rod Saublů z Jiřetic. V letech 1826, 1827 a 1830 je babička po matce uvedena jako Římlová (?) z Neustupova. V prvních dvou zápisech je její křestní jméno Magdalena, ve třetím Marie. V jeníkovské úmrtní matrice jsem mezi křty v letech 1823 a 1830 úmrtí Josefovy ženy nenašel. Nově nalezený křest ze dne 19. 3. 1795 v Jiřeticích č. 14 uvádí u dcery i u matky obě křestní jména. Pro přijetí této rodiny svědčí také sňatek z roku 1817. Přetrvávají rozdíly ve věku a později uváděných číslech domu. [Křest obou jmen a srovnání zápisů](navazani/jiretice/README.md).
 
 ## Starší zápisy téhož domu
 

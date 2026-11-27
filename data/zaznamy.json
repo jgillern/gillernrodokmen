@@ -3480,5 +3480,38 @@
   "strana": "s. 95 vpravo, druhý zápis, sn. 98",
   "odkaz": "https://ebadatelna.soapraha.cz/d/11843/98",
   "pozn": "Podoba příjmení matčina otce a měšťana mezi svědky je v přepisu ponechána nejistá. Domovní číslo patří křtěnci."
+ },
+ {
+  "klic": "n_1795_daublova_marie_magdalena",
+  "druh": "N",
+  "datum": "19. 3. 1795",
+  "nazev": "Marie Magdalena Daublová, Jiřetice čp. 14",
+  "shrnuti": "Marie Magdalena, dcera sedláka Františka Daubla a Marie Magdaleny, dcery Jakuba Římla z Neustupova a Anny. Dcera i matka mají v prvopise výslovně obě křestní jména.",
+  "svazek": "vrcholtovice_4",
+  "strana": "snímek 65, vlevo, druhý zápis",
+  "odkaz": "https://digi.ceskearchivy.cz/8595/65",
+  "pozn": "Datum v jediné rubrice. Při ztotožnění s nevěstou roku 1817 vychází věk 22 let, oddací matrika uvádí 20."
+ },
+ {
+  "klic": "n_1797_daublova_barbora",
+  "druh": "N",
+  "datum": "15. 11. 1797",
+  "nazev": "Barbora Daublová, Jiřetice čp. 14",
+  "shrnuti": "Barbora, dcera Františka Daubla, sedláka v Jiřeticích čp. 14, a Marie Římlové, dcery sedláka z Neustupova čp. 34. V dalším řádku 15. 4. 1798 je Jakub z jiné domácnosti, syn Františka Saubly a Alžběty Křížkové v Jiřeticích čp. 8.",
+  "svazek": "vrcholtovice_5",
+  "strana": "snímek 36, vpravo",
+  "odkaz": "https://digi.ceskearchivy.cz/8596/36",
+  "pozn": "Příjmení matky v originále Ržimlowa."
+ },
+ {
+  "klic": "o_1817_slunecko_daublova",
+  "druh": "O",
+  "datum": "22. 7. 1817",
+  "nazev": "Josef Slunečka a Marie Daublová z Jiřetic čp. 14",
+  "shrnuti": "Ženich Josef Slunečka, 28 let, nevěsta Marie, 20 let, dcera sedláka Františka Daubla z Jiřetic čp. 14. Ženichův místní údaj se čte jako Nové Dvory.",
+  "svazek": "vrcholtovice_10",
+  "strana": "s. 32, snímek 34, první zápis",
+  "odkaz": "https://digi.ceskearchivy.cz/8601/34",
+  "pozn": "Pravděpodobný sňatek rodičů Františka Slunečka z Jeníkova čp. 17. Jejich přesun z Nových Dvorů do Jeníkova dosud nebyl doložen."
  }
 ]

@@ -15,7 +15,7 @@ Výřezy používají starší projektové kopie o šířce 800 px. Úprava kont
 
 ## Kde v přímé linii stojí hejtman
 
-Oba výřezy byly porovnány přímo. **Christoph Heinrich je děd Maximiliána z otcovy strany.** Údaj „praděd“ v české poznámce k zápisu z roku 1705 byl posunut o generaci. Na stejnou otázku odpovídají dva různé zápisy.
+Oba výřezy byly porovnány přímo. **Christoph Heinrich je děd Maximiliána z otcovy strany.** Tato oprava se vztahuje na českou poznámku u klíče `n_1705_preichau_giller_kmotr` v [souhrnných přepisech](../../../prepisy.json), která uvádí „praděd“. Oprava je uložena zde s oběma obrazy. Na stejnou otázku odpovídají dva různé zápisy.
 
 | Datum a kniha | Co je na obraze | Vztah |
 | --- | --- | --- |

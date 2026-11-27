@@ -26,3 +26,7 @@ Osobní přihláška Josefa zůstává nedoložená. Veřejný inventář zachyc
 Gotha (1884) uvádí Heinricha Christofa s první manželkou rozenou Tschammerovou, jejich syna Johanna Christofa a jeho manželku Susannu Bartschovou. Rodopis nevysvětluje, z čeho tyto tři vztahy převzal. Výchozím jmenovitým dokladem zůstává zápis z Preichau, v němž se 29. října 1705 Carl Heinrich uvádí jako syn Christopha Heinricha. To je mladší generace. [Gotha a pramenné meze](../2026-11-26-devate-kolo/vedeni/gotha.md) · [Preichau, 1705](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSGD-RFYL)
 
 Zaměřit se na digitálně přístupné vývody, majetkové zápisy a svatební smlouvy, které **jmenují manžela nebo dítě** Tschammerové či Susanny Bartschové. Při shodě přejít z uvedeného sídla k matrice nebo k časově bližšímu jmenovitému zápisu. U Friedricha z Głuchołaz je v Raczekově rodopisu doložen úřad, spojení s hledanou ženou zatím chybí. [Raczek 1868, s. 80–81, výřezy a přesná formulace](../2026-11-27-online/tschammer/README.md) · [Starší slezské prameny a jejich dosah](../2026-11-27-pokracovani/listina/README.md)
+
+## Nové prameny k oběma otázkám
+
+V městské knize Nymburk 03 je **18. 3. 1738** pokřtěn František Josef, syn Roziny, s otcem N. N. Zda jde o pozdějšího Josefa Gillera, je otevřené. Pro nejstarší přímou linii byly nalezeny univerzitní zápisy o Janu a Kryštofu Gillerovi z blíže neurčených moravských Kunčic. Jednu konkrétní možnost poskytují Hořejší Kunčice u Deštného. [Porovnání důkazů a další postup](../2026-11-27-vecer/README.md)

@@ -13,3 +13,13 @@ Sn. 5/43 vlevo nejvýše, u okraje kunčické označení. Datum čtu pracovně j
 > … mit der Ehrn Tugentsamb Jungfrauen Mariana deß Edell Vesten Herrn Fridrich [G?]illers woll verordneten Herrn Ambtmanns bey […]g[e]lsburg Ehe leibliche Tochter.
 
 Česky „… s počestnou, ctnostnou pannou Marianou, vlastní manželskou dcerou urozeného pana Fridricha [G?]illera, ustanoveného správce v [místo nejisté].“ Otcovo křestní jméno, úřad a otcovství jsou čitelné. Příjmení nejspíš zní **Giller** s genitivním `-s`. Před definitivním ztotožněním je třeba potvrdit kapitálu a místní jméno. Sňatek nezmiňuje Christofa ani převod kunčické rychty.
+
+## 16. ledna 1689, Christoff Giller výslovně dědičným rychtářem
+
+Sn. 6/43 vlevo dole, bezprostředně pod záhlavím „Anno 1689“. V prvním svatebním zápisu toho roku je jako svědek uveden **Christoff [G/B]iller, dědičný rychtář v Kunčicích**. Při samostatném čtení tohoto zápisu může počáteční písmeno příjmení připomínat B. Doklad z roku 1681 má při stejném jménu a obci čitelné G. Vedle Christoffa stojí jako svědek **Hanß Hibner [čtení pracovně]**, domovník či podruh (*Haußgenoß*) rovněž z Kunčic. V této větě jim matrika nepřipisuje příbuzenský vztah k novomanželům. [Originál, snímek 6](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M7-B94X-D?wc=3NZK-D5S%3A979674501%2C979716201%2C980484001%2C980487301%26cc%3D1804263&cc=1804263&lang=en&i=5&groupId=1804263) · [Výřez](1689-01-16-oddavky-christoff-giller-erbrichter.jpg)
+
+> Zeign sein Christoff / [G/B]iller Erbrichter bey Kuntzdorff. Vnd Hanß Hibner Haußgenoß / auch bey Kuntzdorff.
+
+Česky „Svědky jsou Christoff [G/B]iller, dědičný rychtář v Kunčicích, a Hans Hibner, podruh rovněž v Kunčicích.“ Shoda jména, úřadu a vsi přímo navazuje na lánový rejstřík roku 1678 a dokládá Christoffovu držbu rychty v lednu 1689. Zdejší sňatek nepřináší doklad o pozdějším předání rychty.
+
+Tři nálezy výše vycházejí z detailní četby snímků 1, 5 a 6. Orientační prohlídka několika okolních dvoustran až po rok 1699 není úplným jmenným průchodem oddavkami. U některých snímků prohlížeč zobrazil neúplný obraz nebo hlášení „Unable to Display Image“.

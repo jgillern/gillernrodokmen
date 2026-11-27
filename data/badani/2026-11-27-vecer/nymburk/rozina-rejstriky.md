@@ -11,3 +11,5 @@ Při druhém čtení vyšla pasáž jako „przyssla do Nimburky, z panstwi Wlk[
 - **Všejany 03, křestní rejstřík, W, sn. 408 vpravo, s. 304.** V obou sloupcích jsem hledal Rozinu/Rosinu a možná čtení kmene Wrl-/Wlr- a Vrl-. V části W jsou například Jan Wlek, odkaz na s. 15, Anna Wólkowá (?) na s. 56 a Dorota Wólkowá (?) na s. 73. Přímá shoda chybí. Odkazy v oddílu sahají po s. 74. Předchází oddíl U na [sn. 407](https://ebadatelna.soapraha.cz/d/7880/407), pokračuje X na [sn. 409](https://ebadatelna.soapraha.cz/d/7880/409). Samostatný oddíl V mezi nimi není. [Sn. 408](https://ebadatelna.soapraha.cz/d/7880/408) · [výřez](vsejany-03-rejstrik-w.jpg).
 
 Rozinu jsem pomocí těchto vymezených rejstříkových kontrol později neztotožnil. Odkazy na křestní strany jsou uvedené proto, aby rozsah skutečně přečtené části šel odlišit od celé knihy 1701–1752.
+
+Poté jsme přečetli i původní městské oddavky z let 1738–1743. Jediná nevěsta výslovně psaná Rosina se vdávala jako vdova. Rodné jméno u ní chybí. [Osm nevěst, všechny příslušné snímky a výřez](oddavky-rozina-1738-1743.md)

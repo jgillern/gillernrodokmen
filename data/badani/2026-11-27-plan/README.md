@@ -29,4 +29,4 @@ Zaměřit se na digitálně přístupné vývody, majetkové zápisy a svatební
 
 ## Nové prameny k oběma otázkám
 
-V městské knize Nymburk 03 je **18. 3. 1738** pokřtěn František Josef, syn Roziny, s otcem N. N. Zda jde o pozdějšího Josefa Gillera, je otevřené. Pro nejstarší přímou linii byly nalezeny univerzitní zápisy o Janu a Kryštofu Gillerovi z blíže neurčených moravských Kunčic. Jednu konkrétní možnost poskytují Hořejší Kunčice u Deštného. [Porovnání důkazů a další postup](../2026-11-27-vecer/README.md)
+V městské knize Nymburk 03 je **18. 3. 1738** pokřtěn František Josef, syn Roziny, s otcem N. N. Zda jde o pozdějšího Josefa Gillera, je otevřené. Pro nejstarší přímou linii byly nalezeny univerzitní zápisy o Janu a Kryštofu Gillerovi z blíže neurčených moravských Kunčic. V roce 1678 je v Hořejších Kunčicích u Deštného doložen dědičný rychtář Christoph, s příjmením pravděpodobně Giller (alternativně Biller). Zápis už umožňuje sledovat převod konkrétního mlýna a rychty. [Rejstřík z roku 1678 a výřez](../2026-11-27-vecer/preichau/kuncice/README.md) [Porovnání důkazů a další postup](../2026-11-27-vecer/README.md)

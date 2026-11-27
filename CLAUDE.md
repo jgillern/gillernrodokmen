@@ -8,6 +8,12 @@ Tohle je projekt rodokmenu vedený skillem **rodokmen**. Na začátku každé ko
    **Výjimka (výslovně povolil Jan 19. 11. 2026, bez časového omezení, chce maximální autonomii):** když nástroj `rodokmen`/`slusne.py` web archivu blokuje, ale Claude ho technicky umí číst, smí k němu přistupovat i mimo nástroj – jako „Claude-User“, pomalu a po jednotlivých stránkách (aspoň 5–10 s mezi stránkami, nic souběžně, žádné stahování celých knih). Soubor pravidel webu (`robots.txt`) smí číst vždy.
 5. Co by šlo ve skillu zlepšit (chyby nástrojů, nové archivy, nápady), zapisuj do `poznamky_pro_skill.md` – viz skill, sekce „Poznámky pro správce skillu“.
 
+## Pokyn Jana pro výzkum Gillernů od 27. 11. 2026
+
+Pracuj výhradně s prameny dostupnými online. Výsledky a výřezy ukládej na aktivní větev GitHubu. Objednávka připadá v úvahu pouze v nouzové situaci na výslovný pokyn Jana. Dřívější dotaz na cenu je nezávazný. Podle něj ani podle připravených návrhů nikoho nekontaktuj. U rukopisu rozliš katalogový popis, rejstřík a skutečně přečtený snímek. Nejisté čtení označ přímo u slova.
+
+[Platný plán pro obě priority](data/badani/2026-11-27-plan/README.md) · [Výzkum svatebního svědka v Krehlau a další ověřené prameny](data/badani/2026-11-27-online/README.md)
+
 ## Badatelské předání z 25. 11. 2026
 
 Po přečtení stavu otevři [platný plán pro Josefa a Maximiliána a přehled odložených témat](plan_badani_2026-11-25.md) a [ověřené výsledky a opravy profilů](data/badani/2026-11-25/README.md). Toto pořadí nahrazuje pořadí z 23.–24. listopadu. Doplňkové agenty pro projekt spouštěj vždy výslovně v modelu Sol. Astra koordinuje práci a vyhodnocuje důkazy. Dokončená zjištění průběžně zapisuj do deníku a do příslušných historických podkladů.

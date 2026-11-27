@@ -2,7 +2,7 @@
 
 **Nový rodinný doklad.** Česká finanční prokuratura zachytila dvě Maximiliánova dědictví. Roku 1778 výslovně jmenovala jeho strýce Karla z Rache, advokáta v Hlohově, a roku 1783 jeho sestru Filipínu z Gillern ve Vratislavi. Dobová soudní vyhláška navíc jmenuje Karlova otce. [Oba archivní popisy, výřez vyhlášky a rozlišení Filipín](dedictvi/README.md)
 
-**27. listopadu 2026. Josefova osobní přihláška dosud není doložena.** Sedm aktů v kartonu 37 označuje souhrnná inventární položka. Jména osob ani obsah jednotlivých aktů v ní nejsou. V žádosti odeslané do Prahy 24. listopadu tento karton chyběl. Je připraven [společný dotaz na kopie kartonu 37 a obou dědických spisů](dedictvi/poptavka.md), případně [samostatná varianta pro karton 37](prihlaska/poptavka.md). [Rozsah dřívější žádosti](../../../objednavka_na_email.md)
+**Stav po kontrole k 27. listopadu 2026.** Veřejná inventární položka popisuje sedm aktů v kartonu 37 bez jmen. Existenci Josefovy osobní přihlášky ani její obsah nepodařilo doložit. Tato stopa je v online výzkumu odložená. Pražský cenový dotaz z 24. listopadu se tohoto kartonu netýkal. [Aktuální výzkum](../2026-11-27-online/README.md)
 
 ## 958 · Co Národní archiv zpřístupnil
 
@@ -17,7 +17,7 @@ Ve starším katalogu VadeMeCum jsem vyhledal „Vlastenecko-hospodářská spol
 
 V současné Digitální badatelně Národního archivu jsem omezil hledání na **NAD 638**. Výsledek měl 49 položek a žádnou digitální přílohu. Prohlédl jsem celý seznam. Jednotlivé spisové popisy v něm patří k Ovčácké jednotě (pomůcka 915, kartony 1–8). Inv. č. 37 v kartonu 8 je jiný záznam. Kombinace NAD 638 a inv. č. 260 vrátila nula položek. Staré pomůcky 000047/01 a /02 odpovídají číslům 27 a 28 v nové evidenci. Fond má uložení Chodovec a je označen jako částečně přístupný. [Karta fondu v aktuální badatelně](https://digitalnibadatelna.nacr.cz/proarchiv_vade/entityDetail/f83cdba51f804e409d469688f3d72708)
 
-**Z kartonu 37 jsem nepřečetl žádný ze sedmi aktů.** Jejich reprodukce v tomto katalogovém výsledku vystaveny nejsou. Zda má archiv kopie dostupné na vyžádání, zůstává otevřené. Dokud nebude přístup k vlastnímu spisu, není důvod znovu procházet tentýž inventář. [Písemné dotazy Národnímu archivu](https://www.nacr.cz/uredni-deska/podatelna/pisemne-dotazy-a-reserse)
+**Z kartonu 37 jsme nepřečetli žádný ze sedmi aktů.** Jejich obrazy oba veřejné katalogy nenabídly. Výsledek je omezený na obsah inventáře.
 
 Předpis vysvětluje, jak by případný nález pomohl. § 4 rozlišuje rodiště a bydliště. Podle § 2 záleželo i na dosavadní registraci. § 5 mezi funkcemi jmenuje lesmistra (*Forstmeister*), lesní a hospodářské pojezdné a lesní písaře. Býchorského revírního fořta výslovně nejmenuje. Z předpisu nelze vyvodit, že Josef roku 1789 osobně podal přihlášku. [Dobový předpis, §§ 2–6](https://www.rbmonline.cz/portal/book/1104?lpage=180)
 
@@ -41,4 +41,4 @@ Ve dvou původních jmenných rejstřících byly přečteny oddíly pro Giller/
 
 Roku 1778 byl český lesník dědicem hlohovského advokáta Karla z Rache. Z pozůstalosti své sestry Filipíny ve Vratislavi žádal roku 1783 převod další částky. Soudní vyhláška z listopadu 1777 dokládá Karlova otce Georga Antona. Vlastní žádosti a jejich přílohy zatím přečtené nejsou. Poděbradský matriční řádek z roku 1781 vedle toho výslovně označuje stejnojmennou českou kmotru za Maximiliánovu dceru. [Co říká každý pramen a které osoby lze rozlišit](dedictvi/README.md)
 
-Pro určení rodiny mají nyní přednost oba známé dědické spisy před dalším obecným hledáním úřední přihlášky. Pražské signatury vedou přímo ke dvěma žádostem tohoto lesníka. V jejich přílohách lze hledat závěť, osvědčení příbuzenství nebo plnou moc s rodinnými jmény. Josefovo rodiště, jeho matka a Maximiliánovo působiště před Borem zůstávají otevřené. [Nástup do služby v Býchorech](../2026-11-27-pokracovani/bychory/README.md) · [Rozsah již odeslané žádosti do Vratislavi](../../../objednavka_aawr_email.md)
+Veřejné popisy obou dědictví určují jména a vztahy. Pro spojení s dalšími generacemi hledáme samostatné jmenovité doklady. [Nové čtení zápisu z roku 1710](../2026-11-27-online/README.md)

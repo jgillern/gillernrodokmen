@@ -4,11 +4,15 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 
+## 27. 11. 2026 · Výzkum Gillernů výhradně online
+
+Cenový dotaz nepředstavuje objednávku. Další objednávka připadá v úvahu pouze v nouzové situaci na výslovný pokyn Jana. Josefova přihláška je odložená. V Krehlau jsme na snímku svatby Maximiliánových rodičů identifikovali dosud opomenuté působiště jednoho svědka ve Velkém Hlohově. [Doklady a výřezy](badani/2026-11-27-online/README.md) · [Platný plán pro Josefa, Maximiliána a nejstarší linii](badani/2026-11-27-plan/README.md)
+
 ## 27. 11. 2026 · Jmenovité dědické spisy českého lesmistra
 
 Pražská finanční prokuratura zachytila dvě Maximiliánovy žádosti. Roku 1778 dědil 2 400 zlatých po strýci Karlu z Rache v Hlohově, roku 1783 pak 1 000 rýnských tolarů po sestře Filipíně z Gillern ve Vratislavi. Dobová soudní vyhláška jmenuje Karlova otce Georga Antona. Vztah ze strany jednotlivých rodičů zatím nelze určit. V Poděbradech byla roku 1781 při křtu výslovně zapsána také jiná Filipína, Maximiliánova dcera. [Prameny, signatury a snímky](badani/2026-11-27-prime-doklady/dedictvi/README.md)
 
-Josefovo rodiště a jméno jeho matky zůstávají otevřené. Jeho osobní přihláška není doložená. Oba veřejné katalogy byly zkontrolovány. Karton 37 neobsahovala pražská žádost z 24. listopadu. [Ověřený rozsah, návrh dotazu a deník č. 958–962](badani/2026-11-27-prime-doklady/README.md)
+Josefovo rodiště a jméno jeho matky zůstávají otevřené. Jeho osobní přihláška není doložená. Oba veřejné katalogy byly zkontrolovány. Karton 37 neobsahovala pražská žádost z 24. listopadu. [Ověřený rozsah a deník č. 958–962](badani/2026-11-27-prime-doklady/README.md)
 
 ## 26. 11. 2026 · výsledky desátého kola
 

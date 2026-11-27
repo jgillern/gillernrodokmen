@@ -1,6 +1,8 @@
 # Doplnění žádosti z 24. listopadu 2026 pro Národní archiv
 
-**Připraveno k odeslání.** Dřívější žádost z 24. listopadu se týkala jiných archiválií. [Rozsah odeslané žádosti](../../../../objednavka_na_email.md)
+**Historický návrh, 27. listopadu 2026 odložen.** Výzkum probíhá výhradně online. Tento návrh nebyl odeslán.
+
+Dřívější žádost z 24. listopadu se týkala jiných archiválií. [Rozsah odeslané žádosti](../../../../objednavka_na_email.md)
 
 **Adresát** · posta@na.gov.cz  
 **Předmět** · Gillern – dostupnost reprodukcí, VHS, inv. č. 260, kart. 37

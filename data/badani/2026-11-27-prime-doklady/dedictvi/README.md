@@ -35,7 +35,7 @@ Dne 9. 2. 1781 byl Václav narozen a pokřtěn, kostelní předměstí čp. 92. 
 
 ## Kde hledat jmenné přílohy
 
-1. **Praha, oba výše uvedené spisy.** Ověřit zvlášť u každé žádosti, zda jsou přiloženy opis závěti, plná moc pro pozůstalostní řízení, doklad o příbuzenství nebo jmenovitý rozvrh dědictví. To jsou nejkratší známé cesty ke jménům dalších členů rodiny.
+1. **Praha.** Na obou popisných kartách chybí obrazy dědických spisů. Přítomnost závěti, plné moci či vývodu příbuzenství zůstává otevřená.
 2. **Hlohov.** V katolickém farním fondu sv. Mikuláše má Karel vlastní [fundační spis z let 1772–1778, sign. 89/92/0/1.3/121](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/6658845). Portál eviduje 54 snímků, obrazy se při kontrole nezobrazily. Spis o Georgu Antonovi má [sign. 89/92/0/1.3/125](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/6658849). Pozdější účetní inventář vede k roku 1837 dvě různé položky, „Räche“ a „Räche Güller“. Zakladatelé společné fundace zatím určeni nejsou. [Inventář farnosti, položky 674–677](https://www.szukajwarchiwach.gov.pl/de/seria?_Seria_cur=4&_Seria_delta=100&_Seria_id_serii=328332&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&p_p_id=Seria&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal)
 3. **Vratislav.** V hledání novinové zprávy o Filipíně nebyl v OCR čísel 151/1782, 57, 81 a 145/1783 ani v cíleném vyhledávání pravopisných variant nalezen použitelný výsledek. Tato kontrola pokrývá jen část tisku. Její pohřeb ani vratislavská závěť dosud doloženy nejsou.
 
@@ -43,4 +43,4 @@ K rejstříku pohřbů u sv. Mikuláše v Hlohově vede sign. **PGM-kat 12** (17
 
 Dosavadní přepis [křtu z Krehlau z 3. 10. 1723, DGS 8244728, sn. 451](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97J-8) u kmotry Marie Alžběty uvádí „von Rackitz (?)“, rozenou Nerlichovou. Snímek vyžádal přihlášení. V projektu se dochoval výřez z pohřbu dítěte, nikoliv z tohoto křtu. Příjmení zůstává k paleografickému ověření, bez přiřazení k Racheovým.
 
-[Společný, dosud neodeslaný dotaz na cenu kopií obou dědických spisů a kartonu 37](poptavka.md)
+[Svatební zápis z roku 1710 a nové čtení jména advokáta z Hlohova](../../2026-11-27-online/README.md)

@@ -31,8 +31,6 @@ V Krehlau, dnešním Krzelowě, se na podstavci sochy Jana Nepomuckého zachoval
 | 956 | Určuje dvorská válečná rada Gillera roku 1647? | Doplňující listy o Gallasově štábu z roku 1646 a červnový protokol 1647 nedávají křestní jméno, věk ani příbuzenství hledaných mužů. [Přesný rozsah čtení](starsi/README.md) |
 | 957 | Co zbývá ve slezských matrikách? | Pro Schabenau rozepsáno dvanáct stran mezi hlavními věkovými obdobími. Nové obrazy z Krehlau ani ze Schabenau se nepodařilo otevřít. Z dřívějších volovských reprodukcí znovu čteny pohřby Caspara, Rosalie a Antonie. [Strany, přepisy a výřezy](slezsko/README.md) |
 
-## Další pořadí pramenů
+## Návaznost
 
-1. **Josef.** Sedm aktů z pražského kartonu 37 čeká na zpřístupnění. [Kontrola dostupnosti a rozsah původní objednávky](../2026-11-27-prime-doklady/README.md). Jmenovitý doklad s rodištěm by dovolil zamířit přímo do příslušné křestní knihy. Pokud uvede číslo staršího zápisu, sledovat je do přiznání z prosince 1787 či ledna 1788. Souběžně hledat výplatu a nástupní doklad kolínského velkostatku. [Jednotky a data](osobni/README.md)
-2. **Maximilián.** U Baltazara vedou doklady k rodinné pozůstalosti, zejména k dubnovým a květnovým spisům české komory z roku 1740 a k deskám DZV 482, C 5 z roku 1746. Pro samotného Maximiliána má přednost jmenování či první výplata v Boru před 23. lednem 1750 a objednané oddavkové strany z Krehlau. [Původní komorní značky](bor/README.md) · [Poděbradská služba a objednané stránky](../2026-11-27-plan/README.md)
-3. **Nejstarší generace.** Při zpřístupnění pražské listiny z 20. srpna 1700 přečíst, jak bratři sami označují otce a děda, a porovnat s vídeňským opisem. Pro Bartschovy prověřit olešnická personální či dědická akta se jménem příbuzného. Teprve doložené místo má vést k matrice pro hledání roků narození. [Pražská a vídeňská signatura, olešnické fondy](listina/README.md)
+[Rozhodnutí pro výzkum online, konkrétní matriky a obě priority](../2026-11-27-plan/README.md). Dřívější cenové dotazy byly nezávazné.

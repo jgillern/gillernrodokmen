@@ -1,5 +1,7 @@
 # Společný doplňující dotaz pro Národní archiv
 
+**Historický návrh, 27. listopadu 2026 odložen.** Výzkum probíhá výhradně online. Tento návrh nebyl odeslán.
+
 **Předmět:** Doplnění rodopisného dotazu ke Gillernovým, NAD 877 a NAD 638
 
 Dobrý den,

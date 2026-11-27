@@ -1,0 +1,3 @@
+# Blaschke 1913. Kontrola jmenného rejstříku
+
+V rejstříku knihy Julia Blaschkeho *Geschichte der Stadt Glogau und des Glogauer Landes* (Glogau 1913) jsem v příslušných abecedních úsecích z obrazu nenašel hesla **Giller/Güller** (s. 562) ani **Rache/Rahe** (s. 570). Hledání v nekvalitní strojové vrstvě ani kontrola odkazu na podobné příjmení Krause nepřinesly jmenovitý doklad ke svědkovi roku 1710. Rejstřík zachycuje výběr jmen. [Digitalizace](https://sbc.org.pl/de/dlibra/publication/14130/edition/17564/geschichte-der-stadt-glogau-und-des-glogauer-landes-blaschke-julius) · [S. 562, písmeno G](blaschke-rejstrik-s562.jpg) · [S. 570, písmeno R](blaschke-rejstrik-s570.jpg)

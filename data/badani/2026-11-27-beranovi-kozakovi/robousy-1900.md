@@ -58,3 +58,5 @@ Oba domy, čp. 37 a 58, mají v archu Josefa Frýbu, narozeného v Robousích 20
 ## Sousední čp. 36, kontrolní snímek 133
 
 Na líci jsou započteni dva lidé, majitel domku Josef Lacina a jeho žena Františka. U jména Františka Mikul[e?], synovce, jsou vlastní údaje prázdné a součet ho nezahrnuje. Poznámka zní „Slouží u 74. pluku v Jičíně“. Mezi dvěma přítomnými ani ve třetím řádku na líci není hledaná domácnost. [Archivní snímek 133](https://aron.vychodoceskearchivy.cz/apu/d80ddde0-d518-42b8-b4c2-de47858ff001/dao/d80ddde0-d518-42b8-b4c2-de47858ff001/file/2ead61bb-31ab-48e1-913c-9a9b8641ad3e) · [Jména](doklady/sn133-cp36-names.jpg) · [Počet a poznámka](doklady/sn133-cp36-count.jpg)
+
+Dům čp. 37 je doložen i v roce 1921. Manželé Frýbovi tam byli stále vedeni, ve druhé domácnosti už bydleli Jiráskovi. Všech pět přítomných je přečteno jménem. [Sčítání o dvacet let později](robousy-1921-domy.md).

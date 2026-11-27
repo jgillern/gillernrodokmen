@@ -14,3 +14,5 @@ Prověřením čp. 37 v roce 1900 byla doložena domácnost Františka Kozáka, 
 | Starší seznam sčítacích operátů SOkA Jičín | Ve starší příručce k regionálním digitalizacím je uveden soubor `SO_OKU-Jičín_-SOKA.pdf`. Původní URL přesměrovává na nový informační web, kde dokument vrací HTTP 404. Hledání názvu souboru v oficiálním seznamu médií nevrátilo náhradu. [Citace původního odkazu v příručce](https://www.msk.cz/assets/urad/povinne_informace/priloha_10.pdf) |
 
 Výsledek se vztahuje k veřejnému digitálnímu katalogu. Fyzické dochování konkrétního archu v archivu z dostupného rozpisu nelze určit. [Přehled místní historie a osad](https://jicinsky.denik.cz/zpravy_region/robousy_historie20070910.html)
+
+V roce 1921 byla jmenovitě prověřena celá domácnost v čp. 37 a soupis všech tří bytových stran čp. 33. [Čp. 33 a 37 v roce 1921](robousy-1921-domy.md).

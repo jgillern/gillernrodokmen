@@ -1,0 +1,42 @@
+{
+  "vychozi_osoba": {
+    "jmeno": "Maximilián Josef Emanuel z Gillernů",
+    "urceni": "vrchní lesník panství Poděbrady a Kolín v roce 1778, vrchní lesmistr na panství Brandýs v roce 1783"
+  },
+  "pribuzni": [
+    {
+      "jmeno": "Karel z Rache",
+      "puvodni_jmeno": "Carl von Rache",
+      "vztah": "strýc Maximiliána podle popisu české žádosti z roku 1778",
+      "povolani": "advokát vrchního úřadu v Hlohově",
+      "umrti": "před vyhotovením výzvy 28. 11. 1777",
+      "otec": {
+        "jmeno": "Georg Anton von Rache",
+        "povolani": "bývalý úřední advokát v Hlohově a zemský syndik Hlohovského knížectví"
+      },
+      "otevrene": "Kterou rodovou cestou byli Karel a Maximilián spřízněni.",
+      "doklady": [
+        "j_1778_maximilian_dedictvi_rache",
+        "j_1777_hlohov_vyhlaska_rache"
+      ]
+    },
+    {
+      "jmeno": "Filipína z Gillern",
+      "vztah": "sestra Maximiliána podle popisu české žádosti z roku 1783",
+      "misto_podle_spisu": "Vratislav",
+      "umrti": "zemřela nejpozději v roce 1783, doba a místo úmrtí nejsou přesně známy",
+      "doklady": [
+        "j_1783_maximilian_dedictvi_filipina"
+      ]
+    },
+    {
+      "jmeno": "Filipína Güllern",
+      "vztah": "dcera Maximiliána podle poděbradské matriky v roce 1781",
+      "urceni": "panna, svědkyně Václavova křtu 9. 2. 1781; odpovídá kladrubské Marii Filipíně Jenovéfě Karolíně, pokřtěné 20. 1. 1759",
+      "doklady": [
+        "n_1781_podebrady_vaclav_filipina",
+        "n_1759_giller_maria_filipina"
+      ]
+    }
+  ]
+}

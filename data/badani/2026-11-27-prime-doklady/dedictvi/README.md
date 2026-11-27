@@ -2,6 +2,8 @@
 
 Česká finanční prokuratura v Praze zachytila dvě žádosti téhož vrchního lesníka o převod slezského dědictví do Čech. Úřední popisy uvádějí příbuzenský vztah, Maximiliánovo působiště i částku. Dále je uvedeno svědectví hlohovského soudu ze života jeho rodiny a dvě matriční odlišení jmenovkyň.
 
+[Rodinná karta se vztahy a jednotlivými doklady](pribuzni.json) · [Čtyři pramenné záznamy s přepisem nebo popisem](doklady.json)
+
 ## Co uvádějí pražské archivní popisy
 
 | Rok spisu | Příbuzný a dědictví | Jak archiv označuje žadatele | Národní archiv, Česká finanční prokuratura Praha, NAD 877, inv. č. 1199 |

@@ -1,6 +1,6 @@
 # Velký Hlohov, oddavky kolegiáty, pravé strany
 
-Katolická kolegiáta Nanebevzetí Panny Marie, Glogau/Głogów. Film DGS **007993885**, matriční kniha s obrazovým označením **D 218**. Na filmu jsou nejdříve pravé a poté levé strany. Na zobrazených pravých stranách 29–44 jsme u ženichů hledali varianty Giller, Gillern, Güller a Killer, a rovněž muže se jmény Maximilian, Joseph a Emanuel. U stran 29–41 bylo možné zvětšit originál, u stran 42–44 jsme měli menší reprodukci a navíc jmenný rejstřík. Na přečtených stranách jsme odpovídajícího ženicha nenašli. Výpověď se týká ženichů této farnosti. V níže uvedených datech nejsou vypsáni všichni snoubenci.
+Katolická kolegiáta Nanebevzetí Panny Marie, Glogau/Głogów. Film DGS **007993885**, matriční kniha s obrazovým označením **D 218**. Na filmu jsou nejdříve pravé a poté levé strany. Na zobrazených pravých stranách 29–45 jsme u ženichů hledali varianty Giller, Gillern, Güller a Killer, a rovněž muže se jmény Maximilian, Joseph a Emanuel. U stran 29–41 bylo možné zvětšit originál, u stran 42–45 jsme měli menší reprodukci a navíc jmenný rejstřík. Na přečtených stranách jsme odpovídajícího ženicha nenašli. Výpověď se týká ženichů této farnosti. V níže uvedených datech nejsou vypsáni všichni snoubenci.
 
 | Snímek FamilySearch | Původní strana | Co je na obraze |
 | --- | --- | --- |
@@ -20,8 +20,9 @@ Katolická kolegiáta Nanebevzetí Panny Marie, Glogau/Głogów. Film DGS **0079
 | [98](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6H-29BF-B) | 0042 rechts | 1742. Květen a červenec. Index přiřazuje tři oddavky: Johann Schade, Valentin Salasky a Matth[a]es Eymer. Na rukopisu jsou vidět tři začátky záznamů a dokončení předchozího nahoře. |
 | [99](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6H-29BN-J?i=98&cc=4110912&groupId=4110912&lang=en) | 0043 rechts | Červenec a listopad 1742. Podle indexu Anton Dominicum Schäffer, Frantz Wittig, Andreas Haager a Joseph Kaab. |
 | [100](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6H-29BN-S?i=99&cc=4110912&groupId=4110912&lang=en) | 0044 rechts | Listopad 1742 až únor 1743. Joann David Bredo, Johann Christian Adam, Anton Rolle a Ernest Christian Staniel podle indexu. Viditelný je i rukopisný předěl roku 1743. |
+| [101](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6H-29BN-W?i=100&cc=4110912&groupId=4110912&lang=en) | 0045 rechts | Říjen a listopad 1743. Podle rejstříku Johann Friedrich Jesche (6. října), Joseph Miegitz (19. října) a George Schirmer (11. listopadu). Kontrola obrazu, ženich Joseph má jinou nevěstu i příjmení. [Snímek](hranice-sn101.jpg) |
 | [102](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6H-29BN-C) | 0046 rechts | Kontrolní strana. Rukopis nese nadpis Anno 1744, pod ním leden. V deníku č. 650 dříve uvedený snímek 103 proto nemohl zachytit začátek roku 1743. |
 
 [Levé strany s odkazy, výřezy a kontrolou sporných jmen](leve.md) · [Strana 36, začátek oddavek roku 1738](prava-0036-1738.jpg)
 
-Pravá strana 45 (snímek 101) zatím nemá v tomto průchodu spolehlivou četbu. Před květnem 1736 zůstává otevřena část levých stran. Oddavky v letech 1737 a 1738 jsou pokryty z obou směrů.
+Po dočtení pravé strany 45 a levé strany 31 je období od počátku roku 1736 do konce roku 1743 pokryto na obou stranách. Pravá 46 již začíná lednem 1744.

@@ -1,9 +1,10 @@
 # Hlohov, katolická kolegiáta Panny Marie · levé strany oddavek
 
-Z obrazů filmu FamilySearch **DGS 007993885** jsem přečetl levé stránky **D218, 0032–0046 links**, snímky **216–230**. Pokrývají část roku 1736 a levé strany ročníků 1737–1743. Žádný z přečtených ženichů se nejmenuje Maximilián, Josef nebo Emanuel Giller v hledaných pravopisných variantách. Jeden sňatek má křestní jména Josef a Johanna, avšak příjmení a povolání ženicha ho bezpečně odlišují. Pravé strany tvoří na filmu samostatnou sekvenci. Rok 1735 a začátek roku 1736 před snímkem 216 zůstaly bez kontroly, protože prohlížeč při návratu na starší snímky přestal načítat film.
+Z obrazů filmu FamilySearch **DGS 007993885** jsem přečetl levé stránky **D218, 0031–0046 links**, snímky **215–230**. Pokrývají začátek roku 1736 až listopad 1743 na levých stranách. Žádný z přečtených ženichů se nejmenuje Maximilián, Josef nebo Emanuel Giller v hledaných pravopisných variantách. Jeden sňatek má křestní jména Josef a Johanna, avšak příjmení a povolání ženicha ho bezpečně odlišují. Pravé strany tvoří na filmu samostatnou sekvenci. Začátek roku 1736 byl doplněn na snímku 215. Rok 1735 nebyl cílovým ročníkem a byl prohlédnut pouze částečně.
 
 | FamilySearch Image | Štítek D218 | Datum nebo kotva viditelná v rukopise |
 |---|---|---|
+| [215](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6H-29BB-L?i=214&cc=4110912&groupId=4110912&lang=en) | 0031 links | Listopad 1735, dole výslovně nadpis Anno 1736, 12. ledna. Index u první lednové svatby čte ženicha Antoninum Fengler. Na pravé 31 pokračuje tentýž zápis před následujícím z 29. ledna. [Obraz](hranice-sn215.jpg) |
 | [216](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6H-29BB-K?i=215&groupId=4110912&lang=en&cc=4110912) | 0032 links | 1736, nahoře pokračování zápisu, zřetelně 6. a 27. května. |
 | [217](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6H-29BB-3?i=216&groupId=4110912&lang=en&cc=4110912) | 0033 links | 1736, červenec a 16. září. |
 | [218](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6H-29BB-7?i=217&groupId=4110912&lang=en&cc=4110912) | 0034 links | 1737, nahoře dokončení zápisu o dceři Antona Fillera, dál 5. května. |

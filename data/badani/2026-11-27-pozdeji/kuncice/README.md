@@ -1,6 +1,6 @@
 # Hořejší Kunčice po roce 1678
 
-V tereziánském katastru pro Karlovec je v Hořejších Kunčicích jako dědičný rychtář zapsán **Johan Friederich Heinrich**. Je u něj uveden mlýn se dvěma moučnými chody na stálé vodě. Jde o první přímo přečtené jméno držitele rychty po Christoffovi [G?]illerovi z roku 1678. Mezi oběma zápisy je 77 let. Bezprostřední nástupce, příbuzenský vztah i příjemce povolení z 12. července 1659 zůstávají neověřeni. Čtení Giller a Biller zůstávají otevřená.
+V tereziánském katastru pro Karlovec je v Hořejších Kunčicích jako dědičný rychtář zapsán **Johan Friederich Heinrich**. Je u něj uveden mlýn se dvěma moučnými chody na stálé vodě. Jméno stejného hospodáře uvádí už [kunčický soupis z 9. srpna 1749](fase/README.md), který k jeho usedlosti přiřazuje dřívějšího držitele „Christoph giller“. To podporuje čtení Giller v hůře čitelném zápisu z roku 1678. Bezprostřední právní předchůdce Heinricha, příbuzenský vztah i příjemce povolení z 12. července 1659 zůstávají neověřeni.
 
 ## Johan Friederich Heinrich v tereziánském katastru
 

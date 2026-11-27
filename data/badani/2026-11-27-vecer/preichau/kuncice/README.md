@@ -1,5 +1,7 @@
 # Hořejší Kunčice, dědičný rychtář Christoph v roce 1678
 
+**Doplnění podle dalšího pramene.** V kunčickém přiznání z 9. srpna 1749 je u hospodáře z předchozí vizitace zřetelně psáno „Christoph giller“. V tomtéž řádku stojí jako tehdejší držitel Johann Fridrich Heinrich. Druhý záznam tak rozhoduje mezi níže zvažovanými možnostmi ve prospěch čtení Giller. Datum a způsob změny držby z něj nevyplývají. [Snímek 88, přepis a datace](../../../2026-11-27-pozdeji/kuncice/fase/README.md)
+
 V originálu lánového rejstříku má **Kunzendorff** vlastní oddíl. Na pravé straně, hned pod nadpisem **Erb Richter**, je jediný držitel rychty. V obou čteních vyšlo jako nejpravděpodobnější příjmení **Giller**. **Biller** zůstává možnou variantou jeho první litery. Křestní jméno, úřad a zmínka o mlýně jsou zřetelné. [MZA v Brně, D 1, sign. 96, fol. 140r, sn. 142](https://www.mza.cz/aron/apu/e45f4460-c7b3-4e1f-b8fd-db3196873b44/dao/e45f4460-c7b3-4e1f-b8fd-db3196873b44/file/a5a67041-116b-4e89-805b-2a7485627599) · [Celá strana](f140r-kuncice.jpg) · [Výřez se jménem](f140r-rychtar-detail.jpg)
 
 > Kunzendorff.  

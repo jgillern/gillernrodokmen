@@ -13,4 +13,4 @@ Shoda čp. 32 a jmen Václav + Anna s křty z let 1794 a 1800 má samostatnou op
 
 Archivní lokátor mladší knihy je SOA v Litoměřicích, NAD 150, inv. 317, OS Lomnice nad Popelkou 60, „V. 317, 1812–1879“. [Katalogový odkaz](https://digi.soalitomerice.cz/digitalnibadatelna/permalink/F147A5D46BD511E4A0F87446A0B326F9).
 
-Předběžně byly otevřeny [sn. 3](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9L9-RWXY) a [sn. 4](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9L9-RWXX) knihy inv. 290, sign. OS Turnov 3629, „V. 0290, III, 1666–1835“. Na těchto snímcích nebylo spolehlivě přiřazeno čp. 32. Ztotožnění knihy inv. 290 se starou knihou citovanou na fol. 20r vyžaduje ověření v cílovém foliu.
+Předběžně byly otevřeny [sn. 3](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9L9-RWXY) a [sn. 4](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9L9-RWXX) knihy inv. 290, sign. OS Turnov 3629, „V. 0290, III, 1666–1835“. Při podrobnějším čtení se na sn. 3 u čp. 32 podařilo ověřit jméno Václava Kozáka a odkaz na fol. 78. [Čtení jmenného rejstříku a kontrola staršího folia](../libun-stare-folio-78/README.md).

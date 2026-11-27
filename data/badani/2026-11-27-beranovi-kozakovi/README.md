@@ -1,5 +1,7 @@
 # Beranovi a Kozákovi • 27. listopadu 2026
 
+**Odevzdání usedlosti Kozákových v Libuni.** List ze 17. října 1822 v Libuni čp. 32 jmenuje Václava Kozáka, jeho vdovu Annu a právního dědice Josefa Kozáka. Starší fol. 78 obsahuje smlouvu z 15. prosince 1758, v níž vdova Dorota předala živnost svému synu Matějovi. [Původní zápis a vazba k čp. 32](matriky-a-grunty/libun-stare-folio-78/README.md). V Kněžnicích jsou ze zápisů o držbě čp. 24 a 69 doložené dvě domácnosti Brunclíkových se jmény rodičů a dětí. [Libuň čp. 32](matriky-a-grunty/libun-grunt-32/README.md) · [Kněžnice čp. 24](matriky-a-grunty/kneznice-grunt/README.md) · [Kněžnice čp. 69](matriky-a-grunty/kneznice-69/README.md)
+
 **Nové matriční doklady.** Františka Anna Auhrábková se narodila 7. srpna 1805 v Bozkově čp. 59. Její křest jmenuje také prarodiče Václava Čmuchálka z čp. 58 a Kateřinu Dolenskou. Další prameny rozlišují dva stejnojmenné syny Kozákových v Libuni čp. 32 a dokládají domácnost, ve které se před Josefovým narozením ve Velké Jesenici čp. 82 narodily dvě dcery obuvníka Jana Svobody. [Prvopisy a výřezy](matriky-a-grunty/README.md)
 
 **Další ověřené prameny.** V Bozkově se podařilo přečíst původní převod od Jana Auhrábky synu Václavovi roku 1787 i zápis o Josefově chalupě z roku 1794. Indikační skica přidává ke stejným domům Josefa Čmuchálka a Jana Bělku. V Jeníkově byl roku 1838 přímo doložen Josef Slunečka z čp. 17. Dražební vyhláška z roku 1931 určuje vložku 26 rodinného domu v Bukové. [Výsledky všech linií, odkazy a výřezy](dalsi/README.md).

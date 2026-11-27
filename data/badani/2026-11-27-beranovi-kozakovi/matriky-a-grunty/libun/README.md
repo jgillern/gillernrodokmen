@@ -1,5 +1,7 @@
 # Libuň a Kněžnice. Pozemkové rejstříky a náhradní kontrola Labouně
 
+**Nová kontrola na FamilySearch.** V původním libuňském rejstříku je u čp. 32 Václav Kozák, v mladší knize jsou doloženi i jeho vdova Anna a právní dědic Josef. Níže je ponechán rozsah předchozí kontroly v oblastní badatelně. [Starší rejstřík](../libun-stare-folio-78/README.md) · [Odevzdávací list z roku 1822](../libun-grunt-32/README.md)
+
 **Rozpor Jan–Václav zůstává otevřený.** SOA v Litoměřicích má dva časově navazující svazky pro Libuň. Starší kniha sahá až do roku 1816 s přesahy a obsahuje rejstřík už na fol. 1. Je nejpřímější pozemkovou cestou k držiteli gruntu v době svatby roku 1793 a křtu roku 1800. Prohlížečka na vybraných obrazech opět zobrazila chybu serveru, proto nemám nový jmenný zápis.
 
 | Jsou ověřeny katalogové údaje | Přesný výsledek |

@@ -1,6 +1,6 @@
 # Beranovi a Kozákovi • 27. listopadu 2026
 
-**Nové matriční doklady:** rodiče Anny Čmuchálkové, dva Václavové Kozákovi narození v Libuni čp. 32 a František Svátek ve Bzové roku 1829. [Prvopisy a výřezy](matriky-a-grunty/README.md)
+**Nové matriční doklady.** Františka Anna Auhrábková se narodila 7. srpna 1805 v Bozkově čp. 59. Její křest jmenuje také prarodiče Václava Čmuchálka z čp. 58 a Kateřinu Dolenskou. Další prameny rozlišují dva stejnojmenné syny Kozákových v Libuni čp. 32 a dokládají domácnost, ve které se před Josefovým narozením ve Velké Jesenici čp. 82 narodily dvě dcery obuvníka Jana Svobody. [Prvopisy a výřezy](matriky-a-grunty/README.md)
 
 **Další ověřené prameny.** V Bozkově se podařilo přečíst původní převod od Jana Auhrábky synu Václavovi roku 1787 i zápis o Josefově chalupě z roku 1794. Indikační skica přidává ke stejným domům Josefa Čmuchálka a Jana Bělku. V Jeníkově byl roku 1838 přímo doložen Josef Slunečka z čp. 17. Dražební vyhláška z roku 1931 určuje vložku 26 rodinného domu v Bukové. [Výsledky všech linií, odkazy a výřezy](dalsi/README.md).
 

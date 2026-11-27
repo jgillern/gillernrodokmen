@@ -1,5 +1,7 @@
 # Františka Auhrábková, Václav Kozák a bozkovské domy čp. 58 a 59
 
+**Ověřeno v prvopisu.** Františka Anna se narodila 7. 8. 1805 v Bozkově čp. 59. Rejstříkové s. 31 odpovídá sousední strana, vlastní zápis je na s. 32 (sn. 35). [Křest včetně rodičů a prarodičů](../../matriky-a-grunty/bozkov-oddavky/README.md)
+
 **Rodiče Anny Čmuchálkové** jsou nyní doloženi v Bozkově při křtu jejího syna dne **21. 9. 1799**. Jsou jimi Václav Čmuchálek z čp. 58 a Kateřina Dolenská z Bozkova. [Prvopis a výřez](../../matriky-a-grunty/bozkov-nar/README.md)
 
 Křest Františka Kozáka v Želejově čp. 1 z 10.–11. června 1843 přímo uvádí rodiče **Václava Kozáka a Františku Auhrábkovou**. Václav je syn Václava Kozáka z Libuně čp. 32 a Anny Brunclíkové z Kněžnic čp. 69. Františka je dcera chalupníka Václava Auhrábky z Bozkova čp. 59 a Anny Čmuchálkové z Bozkova čp. 58. Křest Václava Kozáka z Libuně z roku 1800 uvádí stejné rodiče a dům. Jde o silnou shodu, kterou ještě může potvrdit vlastní oddací zápis. [Želejov, Hrubá Skála 4908, s. 389, sn. 252](https://www.familysearch.org/ark:/61903/3:1:3QS7-89GT-SDD) · [Archivní rozcestník farnosti Libuň](https://www.rodovod.cz/matriky/soa-zamrsk/libun)

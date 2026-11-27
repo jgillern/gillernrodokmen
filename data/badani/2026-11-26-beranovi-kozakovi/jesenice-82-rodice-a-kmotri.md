@@ -1,5 +1,7 @@
 # Čp. 82 ve Velké Jesenici: Svobodovi a Ruferovi
 
+**Doplnění po přečtení prvopisů.** U oddavek 1892 i křtů 1899 a 1906 jsou nyní ověřeni svědci a kmotry. Dvojí stránkování prvního křtu je na originálu 99 inkoustem a 100 tužkou. [Prvopisy, odečty a výřezy](../2026-11-27-beranovi-kozakovi/matriky-a-grunty/jesenice/README.md)
+
 Dřívější odečty dvou křtů potvrzují, že **Jan Svoboda**, chalupník a obuvník, a **Františka rozená Ruferová** měli v čp. 82 dcery Marii Františku (* 9. 3. 1899) a Boženu (* 2. 7. 1906). Oba zápisy uvádějí sňatek rodičů **18. 5. 1892**. Františčin otec **Josef Rufer** je uváděn jako chalupník z čp. 82 a u obou porodů se uvádí bába **Kateřina Klosová z čp. 113**. Porodní bába je samostatná rubrika. Vdova Františka je roku 1921 v čp. 82 majitelkou. Dochované pracovní poznámky čtou její datum narození jako 20. 9. 1869 u křtů dcer a 2. 9. 1869 v archu 1921. [Křest Marie Františky, 170-7314, s. 100, sn. 108 dole](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9JQ-4VY1) · [Křest Boženy, s. 136, sn. 148, druhý zápis](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9JQ-4VTK) · [Sčítání 1921, sn. 277](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9LR-MCSC).
 
 | Údaj | Stav ověření |

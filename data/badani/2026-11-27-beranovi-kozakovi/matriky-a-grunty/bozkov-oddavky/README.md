@@ -1,0 +1,11 @@
+# Františka Anna Auhrábková a hledané bozkovské oddavky
+
+**Dne 7. srpna 1805 se v Bozkově čp. 59 narodila a téhož dne byla pokřtěna Františka Anna.** Otec je Václav Auhrábka, sedlák. Matka Anna je výslovně označena jako dcera zemřelého Václava Čmuchálka, sedláka z čp. 58, a Kateřiny Dolenské. Shoda jmen obou rodičů a obou domovních čísel spojuje Františku Annu s Františkou, matkou Františka Kozáka narozeného roku 1843. Křest z roku 1805 navíc jmenuje oba Františčiny prarodiče po matce. [Křest 1805, obraz](https://matriky.online/zamrsk/000-04857/35/#z=1.370,x=0.4600,y=0.2300) · [Výřez](bozkov-4857-sn35-frantiska-anna-1805.jpg) · [František Kozák, křest 1843](https://www.familysearch.org/ark:/61903/3:1:3QS7-89GT-SDD)
+
+**Citace:** SOA v Hradci Králové, Sbírka matrik Východočeského kraje, římskokatolická farnost Bozkov, sign. **4857**, narození 1800–1809, **sn. 35 z 149, pag. 32**, oddíl „z Boskowa“, první řádek pod *Augustus*. Odkaz z rejstříku na str. 31 označuje předchozí obraz, který sahá do července. Konkrétní řádek je na hned následující straně.
+
+## Oddavky rodičů
+
+Oddací kniha **Bozkov 4862** pokrývá 1784–1818 a prohlížeč uvádí **105 obrazů**. Vlastní bozkovský oddíl začíná na **sn. 6**, s. 1, záhlavím „Začíná se Dne 1 Maye. Roku 1784“. Byly prohlédnuty **snímky 6–20, strany 1–15** včetně starších svateb před převodem gruntu roku 1787 a celého letopočtu 1799. V těchto obrazech jsem sňatek Václava Auhrábky a Anny Čmuchálkové neověřil. Kontrola zahrnula především ženichovu a nevěstinu rubriku a čísla 58/59. U několika hustě psaných řádků, zvláště na sn. 9–10, zůstává čtení části formulací jisté jen zčásti. [Začátek oddílu](https://matriky.online/zamrsk/000-04862/6/) · [Konec intervalu](https://matriky.online/zamrsk/000-04862/20/)
+
+Starší smíšená kniha **4855** pokrývá 1747–1784 a má **285 obrazů**. Snímky 155 a 200 jsou už v rubrice zemřelých. To vymezuje prostor pro starší oddavky před sn. 155, kontrola konkrétního sňatku zatím zůstává otevřená. Obraz sn. 150 se nepodařilo přečíst kvůli opakovanému pádu vykreslování i po otevření v novém panelu. [Titulní obraz 4855](https://matriky.online/zamrsk/000-04855/1/) · [Začátek pohřebních zápisů 1747–1748](https://matriky.online/zamrsk/000-04855/155/)

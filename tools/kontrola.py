@@ -115,6 +115,9 @@ def main():
     cited = ({r for p in P.values() for r in p.get("r", [])} | {r for s in SIDE for r in s.get("r", [])}
              | {r for h in ns.get("HYPOTEZY", []) if isinstance(h, dict) for r in h.get("zaznamy", [])})
     for z in zaz:
+        for person_id in z.get("osoby", []):
+            if person_id not in P:
+                err.append(f"zápis {z.get('klic')}: neznámé číslo osoby {person_id}")
         k = z.get("klic", "?")
         for f in ("klic", "druh", "datum", "nazev", "shrnuti"):
             if not z.get(f):

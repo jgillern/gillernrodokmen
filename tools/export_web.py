@@ -42,6 +42,11 @@ def load_people():
     exec(open(os.path.join(DATA, "osoby.py"), encoding="utf-8-sig").read(), ns)
     for name, default in (("P", {}), ("SIDE", []), ("LINES", {}), ("ISSUES", []), ("HYPOTEZY", []), ("SAME", {})):
         ns.setdefault(name, default)
+    for record in jload("zaznamy_historicke.json", []):
+        for person_id in record.get("osoby", []):
+            references = ns["P"][person_id].setdefault("r", [])
+            if record["klic"] not in references:
+                references.append(record["klic"])
     return ns
 
 

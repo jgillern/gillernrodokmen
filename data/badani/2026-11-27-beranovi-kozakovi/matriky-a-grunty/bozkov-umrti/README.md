@@ -1,0 +1,11 @@
+# Václav Čmuchálek z Bozkova čp. 58, úmrtí před 7. srpnem 1805
+
+**Úmrtní zápis se v této kontrole nepodařilo přečíst.** Matrika Bozkov 4857, sn. 35, s. 32, křest Františky Anny Auhrábkové 7. 8. 1805, v mateřské rubrice jmenuje její matku Annu, dceru † Václava Čmuchálka, sedláka z čp. 58, a Kateřiny Dolenské. Při křtu jejího bratra 21. 9. 1799 je Václav už jmenován se stejným domovním číslem a bez zřetelné značky úmrtí. To dává období 21. 9. 1799 až 7. 8. 1805 přednost při čtení. Mlčení zápisu z roku 1799 život Václava v tento den samostatně nedokládá. [Výřez mateřiny rubriky 1805](4857-sn35-materina-rubrika-1805.jpg) · [Celý řádek 1805](../bozkov-oddavky/bozkov-4857-sn35-frantiska-anna-1805.jpg) · [Křest z roku 1799](../bozkov-nar/bozkov4856-sn51-vaclav-1799.jpg)
+
+| Pramen | Doložený rozsah |
+| --- | --- |
+| Bozkov, inv. č. 410, sign. **4864**, matrika Z | 1784–1809, 62 folií, čeština, Bozkov, Jesenný, Roztoky u Semil, Příkrý a Bohuňovsko. Mikrofilmy 3251 a 1755. První cíl je oddíl vlastní vsi Bozkov od podzimu 1799 do 7. 8. 1805, následně dřívější zápisy až k začátku knihy. Přesné folio ani obraz Bozkova za cílové roky zatím neověřen. [Inventář, s. 66](https://www.familysearch.org/patron/v2/TH-904-51502-171-53/dist.pdf?ctx=ArtCtxPublic) · [Katalog](https://www.rodovod.cz/matriky/soa-zamrsk/bozkov/479) |
+| Bozkov, sign. **4855**, matrika NOZ | 1747–1784. Předchozí obrazová kontrola identifikovala sn. 155 v oddílu zemřelých let 1747–1748 a sn. 200 rovněž v rubrice zemřelých. Pro poslední roky před 1784 je nejprve potřeba určit konec chronologie pohřbů po sn. 200. [Dřívější obrazová kontrola](../bozkov-oddavky/README.md) · [Katalog](https://www.rodovod.cz/matriky/soa-zamrsk/bozkov/466) |
+| Bozkov, sign. **5695**, index Z | 1840–1896. Katalog farnosti samostatný úmrtní rejstřík pro hledané roky neuvádí. [Rozpis matrik](https://www.rodovod.cz/matriky/soa-zamrsk/bozkov) |
+
+Dne 27. 11. 2026 ve 21:43 SEČ platila stopka pro matriky.online a ARON do 22:14 a pro FamilySearch do 22:23. Nový požadavek na žádný z těchto serverů neproběhl. Cílové snímky se nepodařilo najít v místních podkladech. Výsledek je katalogový s kontrolou dříve uloženého křtu, bez negativního závěru o pohřebních zápisech.

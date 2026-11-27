@@ -53,5 +53,20 @@
   "strana": "A11A, zahrada 737 a sousední st. 74",
   "odkaz": "https://ags.cuzk.cz/archiv/openmap.html?typ=skicic&idrastru=TAB045018290&extent=800,-32950,1800,-31900&link=ext",
   "pozn": "V rejstříku zemřelých k roku 1866 je stejné jméno a číslo. Mapa sama nerozliší, zda později dům držel mladší František."
+ },
+ {
+  "klic": "n_1805_auhrabkova_frantiska_anna",
+  "druh": "N",
+  "datum": "7. 8. 1805",
+  "nazev": "Františka Anna Auhrábková, Bozkov čp. 59",
+  "shrnuti": "Téhož dne narozena i pokřtěna. Rodiči jsou Václav Auhrabka, sedlák, a Anna, dcera zemřelého Václava Čmuchálka, sedláka z čp. 58, a Kateřiny Dolenské.",
+  "svazek": "bozkov_n_4857",
+  "strana": "s. 32, sn. 35, první řádek pod Augustus",
+  "odkaz": "https://matriky.online/zamrsk/000-04857/35/",
+  "pozn": "V křtu jejího syna Františka Kozáka v Želejově čp. 1 roku 1843 souhlasí jména obou jejích rodičů i domy 59 a 58. Rejstřík odkazuje na sousední stranu 31. O šest let starší bratr Václav má totožně zapsané rodiče i prarodiče po matce.",
+  "osoby": [
+   58
+  ],
+  "snimek": "sn. 35, s. 32"
  }
 ]

@@ -1331,5 +1331,12 @@
   "svazek": "Běleč u Mladé Vožice (Bieltsch), TAB045018290",
   "popis": "Bzová, detail vsi na listech A11A a A12A.",
   "url": "https://ags.cuzk.cz/archiv/openmap.html?typ=skicic&idrastru=TAB045018290&extent=800,-32950,1800,-31900&link=ext"
+ },
+ "bozkov_n_4857": {
+  "archiv": "Státní oblastní archiv v Hradci Králové, Sbírka matrik Východočeského kraje",
+  "portal": "Matriky.online",
+  "svazek": "Bozkov 4857 (1800–1809)",
+  "popis": "Římskokatolická matrika, narození.",
+  "url": "https://matriky.online/zamrsk/000-04857/35/"
  }
 }

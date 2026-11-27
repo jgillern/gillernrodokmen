@@ -18,6 +18,21 @@ V [rejstříku narozených, Činěves 15, s. 30, sn. 19](https://ebadatelna.soap
 
 Ve svazku Činěves 15 jsme prošli záznamy pro roky 1736–1752 v oddílech [G, s. 13](https://ebadatelna.soapraha.cz/d/4875/51), [H, s. 15](https://ebadatelna.soapraha.cz/d/4875/52) a [K, s. 21](https://ebadatelna.soapraha.cz/d/4875/55). Nenašli jsme ženicha, jehož jméno a příjmení by odpovídalo Maximiliánovi (Josefu Emanuelovi) Gillerovi, včetně hledaných podob Güller, Hiller a Killer. Index se vztahuje i na Netřebice. Původ nevěsty z něj bez odpovídajícího ženicha neurčíme. Výřezy příslušných zápisů jsou pod [G](oddavky-g.jpg), [H](oddavky-h.jpg) a [K](oddavky-k.jpg).
 
-## Hranice kontroly původních křtů
+V originále jsme podle odkazu kontrolovali podobné příjmení v oddílu G. Poslední položka na str. 121 dne 13. února 1748 uvádí ženicha Jana Kryštofa Gol[f]eld[t] (příjmení nejisté), poděbradského purkrabího. Vzal si Kateřinu Holubovou. Kontrola celého oddacího rejstříku pod G, H a K a tohoto zápisu ponechává možnost, že rejstřík některý sňatek vynechal nebo zařadil jinam. [Originál, Činěves 02, sn. 768](https://ebadatelna.soapraha.cz/d/4862/768) · [Výřez oddavek](oddavky-1748.jpg).
 
-Na [sn. 267](https://ebadatelna.soapraha.cz/d/4862/267) končí leden 1746. [Následující strana](https://ebadatelna.soapraha.cz/d/4862/268) začíná únor dvojčaty Ludmilou a Dorotou z Vejrnic narozenými 4. února. Na [sn. 282](https://ebadatelna.soapraha.cz/d/4862/282) je na opačné hranici křest Františka z Vejrnic dne 2. února 1747, narozeného o den dříve. Ověření těchto mezí umožňuje kontrolovat úplný sled v mladším z obou období. Zatím neznáme Josefovo rodiště ani jeho matku. [Předchozí čtení rejstříku křtů](README.md).
+## Všichni Josefové v běžné řadě křtů
+
+Obě roční období jsme přečetli souvisle, včetně dětí zapisovaných bez příjmení. Zvláštní řada křtů nemanželských dětí je popsána výše. Každý odkaz vede přímo k příslušnému obrazu SOA Praha.
+
+| Období podle Josefova věku | Přečtené snímky Činěves 02 | Zápisy chlapců se jménem Josef |
+|---|---|---|
+| 13. 6. 1737 – 12. 6. 1738, věk 48 let při svatbě | [129](https://ebadatelna.soapraha.cz/d/4862/129) až [143](https://ebadatelna.soapraha.cz/d/4862/143), původní s. 116–130. Začátek mezi křty 11. a 17. června, konec mezi 9. a 15. červnem. | Dva. Ve [Vrbici 2. 8. 1737](https://ebadatelna.soapraha.cz/d/4862/131) a v [Koutech 16. 2. 1738](https://ebadatelna.soapraha.cz/d/4862/139). Koutský Josef je syn Josefa Nováka, podruha, a Ludmily. |
+| 3. 2. 1746 – 2. 2. 1747, věk 52 let při úmrtí | [268](https://ebadatelna.soapraha.cz/d/4862/268) až [282](https://ebadatelna.soapraha.cz/d/4862/282). [Předchozí snímek](https://ebadatelna.soapraha.cz/d/4862/267) končí lednem. | Tři. Z Vejrnic Josef narozený 5. a pokřtěný 6. 3., otec Jan Hruška (?), matka Dorota. Z Úmyslovic Josef narozený 8. a pokřtěný 9. 3., rodiče František Novák a Alžběta. Z Velenic Josef narozený 18. a pokřtěný 19. 3., otec Václav, matka Kateřina. [První dva křty](https://ebadatelna.soapraha.cz/d/4862/269) · [Třetí křest](https://ebadatelna.soapraha.cz/d/4862/270). |
+
+### Josef z vrbického dvora, 2. srpna 1737
+
+Křestní zápis na str. 118 uvádí „Ze Wrby[z]kýho Dworu 2 dito, Wkztien Jozef, Otez Joze[f?] Ssafarz Wrbyczky … Matka Lydmilla“. Význam v dnešní češtině je „Z vrbického dvora, druhého téhož měsíce, pokřtěn Josef, otec Joze[f?], vrbický šafář, matka Ludmila“. Konec možného otcova jména zasahuje inkoustová skvrna. Mezi tímto místem a povoláním nelze vyčíst příjmení. Matrika v tomto zápisu neuvádí spojení s Gillery, myslivnu ani Bor. [Originál, třetí zápis shora](https://ebadatelna.soapraha.cz/d/4862/131) · [Výřez](josef-vrbice-1737.jpg).
+
+Na str. 123 je 18. prosince 1737 při jiném křtu jmenován „Jan Fryza [?] Ssafarz ze Wrbyczkyho dwora“. Křestní jméno Jan i povolání jsou čitelné. Zápis neuvádí jeho ženu. Sám proto neřeší, kdo byl otcem v srpnu. Pro rozlišení by pomohl další zápis, který vrbického šafáře jmenuje současně s Ludmilou, nebo sňatek rodičů. Mezi sn. 125–143 a na sn. 145 jsme takový další zápis nezjistili. [Prosincový zápis, Činěves 02, sn. 136](https://ebadatelna.soapraha.cz/d/4862/136).
+
+U Gillerů byla v Boru v roce 1750 zapsána matka dítěte Anna Johanna. Souvislost mezi ní a Ludmilou z vrbického dvora žádný z těchto zápisů neuvádí. Silnější vodítko pro Josefův původ by poskytl sňatek jeho otce nebo přímé doložení Maximiliánovy služby před rokem 1750. [Křest dcery v Boru](https://ebadatelna.soapraha.cz/d/10406/47) · [Kontrola nymburských křtů a pohřbu Josefa Jakuba](../bor-1737/README.md).

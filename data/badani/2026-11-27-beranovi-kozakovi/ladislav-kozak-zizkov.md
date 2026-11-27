@@ -47,3 +47,5 @@ Jmenná kombinace Josef Kozák 1873 v městském soupisu AHMP vrátila nulu. V p
 V jičínské městské oddací matrice nebyl sňatek Ladislava Kozáka s Marií Bubákovou mezi 1. březnem a 30. červnem 1904. [Přesné hranice kontrolovaných snímků, čísla zápisů a další stopa k dceři](jicin-1904-ladislav-marie.md).
 
 Údaj o narození manželky v roce 1878 v Jičíně zůstává doložen pouze policejní kartou. [Jičínský rejstřík 1876–1881 a odlišení příjmení Bušák](marie-bubakova-1878.md) · [Přesné stránky k hledání oddavek v Nuslích](nusle-1904.md).
+
+**Zpřesnění z dobových tisků.** Adresář vydaný roku 1907 výslovně uvádí malíře Ladislava Kozáka v Nuslích, Svatoplukova čp. 202. U dětí narozených v letech 1904 a 1906 proto mají přednost nuselské křestní knihy. U Josefa Kozaka ze ztrátových seznamů byla v původním tisku ověřena domovská obec Libunec a zpráva o úmrtí ve dnech 16.–23. 9. 1916. Jmenovec zemřelý ve válce zatím nebyl ztotožněn s Ladislavovým bratrem z Robous. [Adresář a příslušné knihy](nusle-svatoplukova-202.md) · [Originál válečného seznamu, výřez a další kontroly](libunec-josef-kozak-vojenske-prameny.md).

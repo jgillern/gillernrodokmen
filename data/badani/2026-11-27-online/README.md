@@ -1,5 +1,7 @@
 # Svědek z Velkého Hlohova na svatbě Maximiliánových rodičů
 
+**Co to mění pro hlavní otázku.** Josefův křest, jeho matka ani Maximiliánův pobyt před Borem zde prokázány nejsou. Přímé pátrání po Josefovi zúžila kontrola rejstříku Činěves (č. 967 níže). Hlohovský advokát je svědkem na svatbě předchozí generace. Tento zápis nás neopravňuje vybírat hlohovské matriky jako Josefovo možné rodiště. [Skutečně přečtená místa v rejstříku](cineves/README.md) · [Další přímé ověření a jeho cíl](../2026-11-27-plan/README.md)
+
 ## 963 · Krehlau, 8. září 1710
 
 V zápisu o svatbě Carla Heinricha von Giller a Cathariny Barbary Eleonory Nerlichové stojí u posledního svědka **„ein Advocat zu großglogau“**, advokát ve Velkém Hlohově (dnes Głogów). Čtyři poslední řádky pravého sloupce obsahují jména svědků. V dosavadním českém přepisu chybělo město a příjmení bylo zapsáno jako „von Kalcke (?)“. Na uloženém obrazu nyní vychází **„H. von Rahe (?)“**. Možné je také „Rache (?)“. Nejistá je taktéž iniciála R/K. Ve svědecké formuli chybí křestní jméno, přesný úřad a příbuzenské označení. [Celý projektový snímek](../../../vyrezy/o_1710_giller_nerlich.jpg) · [Výřez oddacího zápisu](krehlau-1710-svedek.jpg) · [Matrika, DGS 8244728, sn. 278](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97H-F)
@@ -22,7 +24,7 @@ Dne 8. září 1710 byl oddán urozený rytíř a pán … Jindřich z Gilleru, 
 | Hlohovské městské písemnosti, sign. 89/1289/0/1.8/60 | Archivní popis uvádí spor syndika Georga Antona Rache s městskou radou. Spis sdružuje písemnosti z roku 1708 a z let 1715–1719 | Časově se pohyboval v tomto prostředí. Samostatný dopis nebo podpis z 8. 9. 1710 jsme nečetli. [Karta městského spisu](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/6800686) |
 | Přehled nobilitací a Doerrův soupis listin | Georg Anton Rache získal prostý šlechtický stav **31. 8. 1725**, rytířský stav **18. 2. 1729** | Matrika píše „von“ už v roce 1710, o patnáct let dřív. To oslabuje ztotožnění s Georgem Antonem na základě místa a povolání. [Přehled Ostravské univerzity, s. 31 souboru](https://katedry.osu.cz/khi/nhm/publikace/prehled-tabulka.pdf#page=31) · [Výřez obou řádků](rache-slechtictvi.jpg) · [Doerr, zápis k 31. 8. 1725, fol. 118v](https://www.historie.hranet.cz/heraldika/pdf/doerr1900.pdf) |
 
-V rejstříku Blaschkeho dějin města jsme příjmení advokáta v příslušných abecedních úsecích pod G a R nenašli. [Přečtené výřezy a rozsah](hlohov/blaschke.md)
+V rejstříku Blaschkeho dějin města jsme příjmení advokáta v příslušných abecedních úsecích pod G a R nenašli. [Přečtené výřezy a rozsah](hlohov/blaschke.md). V polské Genetece odpovídající roky obou hlohovských farností dosud nemají dokončený index. [Rozsah a odkazy](hlohov/geneteka.md)
 
 V původním [křtu Maximiliána v Krehlau roku 1719](../../../vyrezy/n_1719_giller_maximilian.jpg) figurují Friedrich Wilhelm von Giller, Carolina von Gillerin z Preichau a Franz Valentin Klinge, purkmistr z Winzigu. U daných kmotrů jsme příjmení Rache nečetli. U jiného křtu v Krehlau z 3. 10. 1723 stojí ve starším přepisu „Rackitz (?)“. Samotný snímek 451 jsme nyní otevřít nedokázali. Podobu příjmení z druhé ruky nelze použít k určení nevěstiny rodiny. [Odkaz na sn. 451](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPN-T97J-8)
 
@@ -33,5 +35,7 @@ V původním [křtu Maximiliána v Krehlau roku 1719](../../../vyrezy/n_1719_gil
 | 964 | [Byla Maximiliánova sestra Filipína zapsána v pohřebním rejstříku sv. Alžběty ve Vratislavi?](vratislav/README.md) | Oddíly G a K od 19. 11. 1777 do konce roku 1778, G 1779–1783 a K 1781–1783 bez odpovídajícího příjmení. Katolické farnosti a pohřeb pod jiným příjmením zůstávají otevřené. Příslušnost Filipíny k této evangelické farnosti není doložena. |
 | 965 | [Uvádí poznámka při sňatku Josefova syna Františka roku 1839 rodiště jeho otce?](josef/README.md) | V pravé rubrice je guberniální a konzistorní dispenz a zářijové povolení. Příčinu dispenze ani původ Josefovy rodiny z této rubriky vyčíst nelze. |
 | 966 | [Jmenuje Raczekův rodopis Tschammerů hledanou ženu Heinricha Christofa?](tschammer/README.md) | Na s. 80–81 uvádí tři Balthasarovy syny a samostatně rychtáře Friedricha z Głuchołaz. Jeho vztah k těm třem či ke Gillerům z textu nevyplývá. |
+
+**967 · Josef v činěveském křestním rejstříku.** Kvůli Pavlu Antošovi z Netřebic, svědkovi u tří křtů v Boru, jsme přečetli oddíly G, H a K v celých ročnících 1737, 1738, 1746 a 1747. Hledaný Josef v těchto oddílech není. Rejstřík u jednotlivých položek neuvádí obec. Vlastní řádky křestní matriky a oddavky před rokem 1750 tento výsledek nepokrývá. [Přesná čísla snímků a výřezy](cineves/README.md)
 
 [Plán pro Josefa, Maximiliána a nejstarší generace](../2026-11-27-plan/README.md)

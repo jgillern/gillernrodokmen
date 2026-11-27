@@ -2,6 +2,8 @@
 
 SOkA Jičín, fond Okresní úřad Jičín I, karton 415, inv. č. 1378, Robousy čp. 1–68. Názvy míst a sčítací data jsou opsána z archu. U žen je zařazeno příjmení uvedené v archu. [Archivní jednotka](https://aron.vychodoceskearchivy.cz/apu/d80ddde0-d518-42b8-b4c2-de47858ff001) · [Sběrací arch, sn. 2](https://aron.vychodoceskearchivy.cz/apu/d80ddde0-d518-42b8-b4c2-de47858ff001/dao/d80ddde0-d518-42b8-b4c2-de47858ff001/file/a9d903cf-b8b8-4f56-82f6-d612bfb4705e)
 
+V čp. 37 bydleli František Kozák a Barbora rozená Kaplová se syny Josefem a Ladislavem a dcerou Emilií. Totožnost rodičů lze doložit přes Josefův křest. U Emilie a jejích rodičů jsou rozdíly mezi daty narození v matrikách a ve sčítání. V čp. 58 byli Chaloupští, Studničkovi a Frýbovi, po jmenném odečtu všech devíti osob je výsledek pro Kozákovy i Václava Kapla negativní. [Křest Josefa Antonína a kontrolní záznamy](robousy-krtni-kontrola.md)
+
 ## Čp. 37, snímek 135
 
 Líc má devět osob ve dvou domácnostech, všechny trvale přítomné. Součet shodně udává devět. Žádný řádek na líci není označen jako přechodně přítomný či jako nepřítomný. Záhlaví má země Čechy, politický okres Jičín, místní obec i osada Robousy a domovní číslo 37. Formulář uvádí v osobních rubrikách politické okresy. [Archivní snímek 135](https://aron.vychodoceskearchivy.cz/apu/d80ddde0-d518-42b8-b4c2-de47858ff001/dao/d80ddde0-d518-42b8-b4c2-de47858ff001/file/a6febdea-998c-4dc4-876e-cf726271d72e) · [Záhlaví](doklady/robousy-cp37-zahlavi.jpg) · [Celý líc](doklady/robousy-cp37-prehled.jpg) · [Přítomnost a poznámky](doklady/robousy-cp37-kozakovi-pritomnost.jpg)
@@ -39,7 +41,7 @@ Bezprostředně následující sn. 136 zachycuje druhou stranu archu. V prohléd
 | Barbora Kozáková | 9. 3. 1849, Robousy, politický okres Jičín. Rodné příjmení v archu chybí. | 26. 11. 1845, Robousy čp. 36. Při sňatku 15. 1. 1867 se Františkem Kozákem figuruje jako Barbora Kaplová. [Křest, Jičín 70-26, fol. 298–299](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9P5-Z34C-F) |
 | Emilie Kozáková | 15. 9. 1881, Robousy, politický okres Jičín, dcera Františka a Barbory | 8. 7. 1882, Robousy čp. 33, Emilie Marie, dcera Františka Kozáka a Barbory rozené Kaplové. [Křest, Jičín 70-3361, s. 13](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-TDDX) |
 
-Shoda je ve jménech rodičů a dcery, u matky a dcery v obci a u otce v územní vazbě na Hrubou Skálu. Liší se tři úplná data narození a sčítací arch nedává rodné příjmení Barbory. Totožnost s rodinou známou z matričních zápisů zůstává otevřená. Jmenné zápisy narození obou synů by umožnily porovnat rodičovský pár. Doklad z roku 1900 také zatím nespojuje žádnou z obou Emilií s Josefem Beranem.
+Shoda je ve jménech rodičů a dcery, u matky a dcery v obci a u otce v územní vazbě na Hrubou Skálu. **Rozhodující shoda je u syna Josefa.** Josef Antonín Kozák se narodil i byl pokřtěn 10. 6. 1873 v Robousích čp. 30, tedy se zcela stejným dnem, měsícem a rokem narození, jaké uvádí sčítání u Josefa v čp. 37. Jeho křest jmenuje Františka Kozáka, podruha z čp. 30, syna Václava Kozáka ze Želejova čp. 1 a Františky rozené Ouhrábkové, a Barboru z rodiny Jana Kapla z čp. 48 a Kateřiny rozené Kozákové z Popovic. To identifikuje domácnost čp. 37 s manželi ze sňatku roku 1867 a rodiči Emilie Marie. Odlišná sčítací data narození Františka, Barbory a Emilie zůstávají zdokumentována. Záznam z let 1873 a 1900 sám nedokládá Emiliin pozdější sňatek ani mateřství Josefa Berana narozeného roku 1910. [Křestní zápis Josefa Antonína a přepis](robousy-krtni-kontrola.md)
 
 ## Čp. 58, snímky 196–198
 

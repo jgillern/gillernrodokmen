@@ -1252,7 +1252,7 @@
   "archiv": "SOA v Třeboni, Sbírka matrik Jihočeského kraje",
   "portal": "Digitální archiv SOA v Třeboni",
   "svazek": "Vrcholtovice 4",
-  "popis": "Křest v Jiřeticích roku 1795.",
+  "popis": "Křty a oddavky z Jiřetic, včetně domácností v čp. 14 v letech 1785–1795.",
   "url": "https://digi.ceskearchivy.cz/8595"
  },
  "vrcholtovice_5": {
@@ -1268,5 +1268,33 @@
   "svazek": "Vrcholtovice 10",
   "popis": "Oddací záznam z Jiřetic z roku 1817.",
   "url": "https://digi.ceskearchivy.cz/8601"
+ },
+ "uredni_list_1928_04_22": {
+  "archiv": "Národní archiv",
+  "portal": "Kramerius Národního archivu",
+  "svazek": "Úřední list Republiky československé, 22. 4. 1928, č. 96",
+  "popis": "Vyhláška oddělení III krajského soudu v Kutné Hoře.",
+  "url": "https://kramerius.nacr.cz/uuid/uuid:0cf07a8d-6cd3-43c5-b2ff-2d321f220f10"
+ },
+ "bozkov_indikacni_skica_1842": {
+  "archiv": "Národní archiv, Indikační skici stabilního katastru",
+  "portal": "Archiv ČÚZK",
+  "svazek": "Bozkov (Boskow), BOL048018420, 1842",
+  "popis": "Listy A03C, A04C a datovaný titulní list.",
+  "url": "https://ags.cuzk.cz/archiv/openmap.html?typ=skicic&idrastru=BOL048018420"
+ },
+ "jenikov_indikacni_skica_1838": {
+  "archiv": "Národní archiv, Indikační skici stabilního katastru",
+  "portal": "Archiv ČÚZK",
+  "svazek": "Jeníkov u Čechtic se Zhoří, CAS203018380, 1838",
+  "popis": "Indikační skica, vlastní Jeníkov, čp. 17 a parcelní popisky.",
+  "url": "https://ags.cuzk.cz/archiv/openmap.html?typ=skicic&idrastru=CAS203018380"
+ },
+ "vs_semily_jesenny_inv72_bozkov": {
+  "archiv": "SOA v Litoměřicích, pobočka Děčín",
+  "portal": "Digitální badatelna SOA v Litoměřicích",
+  "svazek": "Velkostatek Semily–Jesenný, NAD 2082, inv. 72, OS Semily 12",
+  "popis": "Gruntovní kniha Bozkov. Zápis z roku 1787 a chalupa čp. 130 roku 1794.",
+  "url": "https://digi.soalitomerice.cz/digitalnibadatelna/permalink?xid=D1CBFDF4217911E593DD0025B317E383&scan=abfdfc6b20254628bdd9889b848c6458"
  }
 }

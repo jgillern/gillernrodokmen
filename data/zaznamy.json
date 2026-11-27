@@ -3513,5 +3513,60 @@
   "strana": "s. 32, snímek 34, první zápis",
   "odkaz": "https://digi.ceskearchivy.cz/8601/34",
   "pozn": "Pravděpodobný sňatek rodičů Františka Slunečka z Jeníkova čp. 17. Jejich přesun z Nových Dvorů do Jeníkova dosud nebyl doložen."
+ },
+ {
+  "klic": "j_1928_beran_ukonceni",
+  "druh": "J",
+  "datum": "11. 4. 1928",
+  "nazev": "Ukončení vyrovnání cihláře Josefa Berana z Pravonína",
+  "shrnuti": "Krajský soud v Kutné Hoře oznámil ukončení řízení po potvrzení dohody Josefa Berana s věřiteli.",
+  "svazek": "uredni_list_1928_04_22",
+  "strana": "s. 2074, Kv 40/27–15, tiskové č. 10445/7",
+  "odkaz": "https://kramerius.nacr.cz/uuid/uuid:0cf07a8d-6cd3-43c5-b2ff-2d321f220f10",
+  "pozn": "Vyhláška dokládá procesní ukončení. Případné zaplacení splátek, rodiště a rodinu neuvádí."
+ },
+ {
+  "klic": "n_1790_daubl_matej",
+  "druh": "N",
+  "datum": "19. 1. 1790",
+  "nazev": "Matěj Daubl v Jiřeticích čp. 14",
+  "shrnuti": "Syn sedláka Františka Daubla a Marie Římlové. Mezi kmotry šafář Václav Křemen z Nových Dvorů (čtení srovnáno se křty 1786–1787) a Dorota Javorská z Javoru.",
+  "svazek": "vrcholtovice_4",
+  "strana": "snímek 47, vlevo, druhý zápis",
+  "odkaz": "https://digi.ceskearchivy.cz/8595/47",
+  "pozn": "Ve třech starších křtech téhož domu z let 1785–1787 je otec zapsán Daubek, matka Maria nata Schimkova. Zda měl František dvě manželky, zůstává otevřené."
+ },
+ {
+  "klic": "j_1842_bozkov_cmuchalek_bielka",
+  "druh": "J",
+  "datum": "1842 (datace skici)",
+  "nazev": "Bozkov, držitelé pozemků z čp. 58 a 59",
+  "shrnuti": "Jmenné poznámky na mapě spojují čp. 58 s Josefem Čmuchálkem a čp. 59 s Janem Bělkou (Bielka Johann). Obě čísla uvádí i křest Františka Kozáka z 1843 jako původ jeho babičky a děda z matčiny strany.",
+  "svazek": "bozkov_indikacni_skica_1842",
+  "strana": "A03C, zejména parcela 1065; A04C, domy a sousední pole",
+  "odkaz": "https://ags.cuzk.cz/archiv/openmap.html?typ=skicic&idrastru=BOL048018420",
+  "pozn": "Příbuzenský vztah mezi Josefem a Annou Čmuchálkovou ani převod od Václava Auhrábky k Bělkovi mapa nedokládá."
+ },
+ {
+  "klic": "j_1838_slunecka_jenikov_17",
+  "druh": "J",
+  "datum": "1838 (datace skici)",
+  "nazev": "Josef Slunečka z Jeníkova čp. 17 na indikační skice",
+  "shrnuti": "Na pozemku 169 zapsáno „Nr. 17. Sluniczka Jos.“. V Jeníkově odpovídá čp. 17 stavební parcela 35. Roku 1823 i 1830 jsou v tomtéž domě doloženi manželé Josef Slunečka a Magdalena či Marie.",
+  "svazek": "jenikov_indikacni_skica_1838",
+  "strana": "sekce A04D",
+  "odkaz": "https://ags.cuzk.cz/archiv/openmap.html?typ=skicic&idrastru=CAS203018380",
+  "pozn": "Další zápis „Sluneczka Joseph“ má roku 1830 v Neustupově číslo 7. Ztotožnění držitelů z obou obcí není prokázáno."
+ },
+ {
+  "klic": "j_1787_bozkov_jan_vaclav_auhrabka",
+  "druh": "J",
+  "datum": "15. 11. 1787",
+  "nazev": "Jan Auhrabka prodává půl gruntu synu Václavovi",
+  "shrnuti": "Přímé označení otce a syna v kupní smlouvě. Cena 177 zl., závdavek 10 zl. a 167 zl. zbývá. Jan si ponechává doživotní výminek. Sousední smlouva roku 1794 výslovně určuje čp. 59 u zesnulého Jana a čp. 130 u Josefovy nové chalupy.",
+  "svazek": "vs_semily_jesenny_inv72_bozkov",
+  "strana": "fol. 144r–v, sn. 154–155, sousední smlouva fol. 145r",
+  "odkaz": "https://digi.soalitomerice.cz/digitalnibadatelna/permalink?xid=D1CBFDF4217911E593DD0025B317E383&scan=abfdfc6b20254628bdd9889b848c6458",
+  "pozn": "Potvrzeno příbuzenství mezi prodávajícím a kupujícím. Ztotožnění kupujícího s manželem Anny Čmuchálkové, otcem Františky, zůstává otevřené."
  }
 ]

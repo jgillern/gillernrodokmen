@@ -4,6 +4,8 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 
+**Beranovi, Kozákovi a Slunečkovi, 27. listopadu.** [Nejnovější doložené vazby, přečtené originály a otevřené otázky](badani/2026-11-27-beranovi-kozakovi/dalsi/README.md).
+
 ## 27. 11. 2026 · Výzkum Gillernů výhradně online
 
 Cenový dotaz nepředstavuje objednávku. Další objednávka připadá v úvahu pouze v nouzové situaci na výslovný pokyn Jana. Josefova přihláška je odložená. V Krehlau jsme na snímku svatby Maximiliánových rodičů identifikovali dosud opomenuté působiště jednoho svědka ve Velkém Hlohově. [Doklady a výřezy](badani/2026-11-27-online/README.md) · [Platný plán pro Josefa, Maximiliána a nejstarší linii](badani/2026-11-27-plan/README.md)

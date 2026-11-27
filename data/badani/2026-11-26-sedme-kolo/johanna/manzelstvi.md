@@ -1,5 +1,7 @@
 # Kdy je Johanna výslovně označena jako manželka
 
+**Doplněno 27. listopadu 2026.** [Dočtená městská i venkovská matrika do 15. září 1752, včetně sn. 215](../../2026-11-27-plan/nymburk.md). V obou doplněných úsecích zůstává výsledek pro hledaný sňatek negativní.
+
 **Nejstarší dosud doložené výslovné označení je 15. září 1752 v Bobnicích.** Je to již známý doklad třetího kola, nyní znovu porovnaný s historickým obrazem. V Nymburku 07, s. 114 vlevo, sn. 63, se 14. září narodil Václav, syn sedláka Jana Lyzala (?) a Anny. Kmotrem je chalupník Matěj Vrána a mezi svědky u křtu z 15. září je „Johana Manželka P. Jozefa / Gillera Forsta z Boru[d?] Bobnicky[ho]“. Lomítko označuje zalomení řádku. U Josefa čteme příjmení, povolání a přesnou lokalitu. Zápis z 23. ledna 1750 téhož borovského myslivce označuje plně „Maximilian Jozef Emanuel von Gyller“. [Bobnice 1752, sn. 63](https://ebadatelna.soapraha.cz/d/10406/63) · [Výřez](vyrezy/1752-09-15-bobnice-johana-manzelka.jpg) · [Bor 1750, sn. 47](https://ebadatelna.soapraha.cz/d/10406/47)
 
 **Nezávislé výslovné potvrzení je 13. prosince 1752 v Chlebích.** Nymburk 07, s. 120 vlevo, sn. 66, křest Jana (*12. prosince), syna Václava Šandery a Ludmily. Za svědkem Jakubem Urbánkem je „Johanna Gillerowa Manželka P. Jozefa / de Giller forzsti z Boru[d?] Bobnicky[ho]“. V obou zápisech jde o svědkyni křtu dítěte jiné rodiny. [Chleby 1752, sn. 66](https://ebadatelna.soapraha.cz/d/10406/66) · [Výřez](vyrezy/1752-12-13-chleby-johana-manzelka.jpg)

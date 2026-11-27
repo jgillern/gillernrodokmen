@@ -23,3 +23,11 @@ Z filmu FamilySearch **008244786** jsou obrazově přečtené snímky **488–50
 | [504](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPF-L393-X?lang=en&i=503) | 240 | První zápis 18. června. Tato strana začíná za horní mezí 12. června. |
 
 [Výřez křtu Johan Josepha, snímek 489](489-johann-joseph.jpg). Uvedeni Christian Jacob a Dorothea.
+
+## Konec D213 v lednu 1746
+
+Na posledním levém rukopisném listu [368, D213 s. 367 links](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPF-LY3?i=367&lang=en) předchází oddílu „Anno 1746“ konec roku 1745. Pod předělem jsou záznamy ze 4., 5., 11. a 18. ledna. [Levý snímek 369](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPF-L1M?i=368&lang=en) je závěrečná karta filmu.
+
+[Pravý snímek 631, D213 s. 368 rechts](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPF-L3MK-Z?lang=en&i=630) začíná „18 Januarii“ a pokračuje lednovými zápisy přibližně do 25. ledna. Úplně spodní datum z dostupného zobrazení nebylo možné bezpečně odečíst. Strana neukazuje únorový předěl. [Pravý snímek 632](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSPF-L3MF-9?lang=en&i=631) je závěrečná karta filmu.
+
+Katalogový rok 1746 tedy odpovídá lednovému konci dochovaných obrazů. Na žádné straně filmované řady D213 není doloženo pokračování do druhého hledaného okna od 3. února 1746. Mladší výsledky pro D214 mají vlastní rozsah.

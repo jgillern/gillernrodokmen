@@ -10,6 +10,8 @@
 | Kolegiáta D 214 | 13. 6. 1737 až 12. 6. 1738 a 3. 2. 1746 až 2. 2. 1747. Pro obě období byla zkontrolována hlavní i oddělená řada nemanželských křtů včetně přechodů mezi stránkami. | **18. 11. 1737** pokřtěný Carolus Josephus Cajetanus byl synem zdejšího krejčího Caspara Schneidera a Anny Elisabeth. Křest Franciska Josefa, dříve uváděný pod lednem 1747, je ve skutečnosti z ledna **1744**. V mladším období je v nemanželské řadě jediný křest, **Johann Heinrich, 22. 2. 1746**. [Rozpis listů, přepisy a výřezy](hlohov/d214-krty.md) · [starší průzkum mladšího období](../2026-11-27-navazani/hlohov-krty/cteni.md). |
 | Městská farnost sv. Mikuláše, DGS 7993891 | Index k samostatnému mikrofilmu křtů 1736–1757. Bez omezení rokem jsme hledali podle příjmení, variant zápisu a podle otce Maximiliána. | Bez odpovídajícího zápisu. Index obsahuje dohledatelné skutečné křty z obou období, ale rozsah ani přesnost přepisu všech stran z toho neplyne. Osobní vazbu strýce Karla z Rache k této farnosti dokládá jeho fundace. [Dotazy, kontrolní záznamy a odkaz na originály](mesto/README.md). |
 
+Na konci obou filmů D 213 je leden 1746. Na poslední pravé straně zápisy sahají přibližně k 25. lednu, úplně spodní datum je nejisté. Hned další snímek označuje konec filmu. Žádný viditelný list D 213 proto nedokládá zásah této řady do druhého období od 3. února 1746. [Závěrečné listy obou filmů](hlohov-d213/README.md).
+
 Josefovo rodiště a jméno jeho matky zůstávají otevřené. V městské farnosti má při další obrazové kontrole smysl hledat také děti zapsané pouze pod matčiným jménem a číst okrajové přípisky. U kolegiáty je třeba každé tvrzení o prohledaném rozsahu vztáhnout ke konkrétní knize a datům v tabulce.
 
 ## Kunčická rychta a nejstarší generace

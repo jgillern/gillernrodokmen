@@ -1,6 +1,6 @@
 # Plán výzkumu Gillernů od 25. listopadu 2026
 
-[Ověření dostupnosti kartonu 37 a Josefových svatebních ohlášek, deník č. 958–960](data/badani/2026-11-27-prime-doklady/README.md)
+[Dvě Maximiliánova dědictví, jeho strýc Karel z Rache a sestra Filipína. Ověření Josefovy přihlášky a další doklady, deník č. 958–962](data/badani/2026-11-27-prime-doklady/README.md)
 
 [Výsledky z 27. listopadu. Býchorská myslivna, brandýské matriky a Clannerovi, nápis Gillerů z roku 1725 a prameny ke starší linii. Deník od č. 948](data/badani/2026-11-27-pokracovani/README.md)
 

@@ -1,5 +1,7 @@
 # František Kozák z Cidliny, pohřbený 1909 v Železnici
 
+**Ověřeno v úmrtní matrice 27. listopadu 2026.** Cestář František Kozák se narodil v Cidlině roku 1844, byl tam domovsky příslušný a zemřel 13. listopadu 1909 v jičínské nemocnici. Emiliin otec František se narodil 10. června 1843 v Želejově. Jde o dva odlišné muže. [Úmrtní zápis Jičín 70-7799, fol. 141, sn. 145, č. 208](../2026-11-27-beranovi-kozakovi/cestar-frantisek-jicina-cidlina.md).
+
 ## Dobová zpráva
 
 Na obrazu rubriky „Zemřelí ve farní osadě Jičínské“, ve vydání z 9. 12. 1909, potvrzuji formulaci: „13. listopadu Frt. Kozák, vdovec, okr. cestář v. v. z Cidliny (Lomnice) 65 r. (nemoc.), pohřben v Železnici“. Formulace ohlašuje pohřbení v minulém čase a neuvádí datum pohřbu, hrob, rodiště ani jméno zesnulé manželky. U Františka Kozáka narozeného 10. 6. 1843 v Želejově by v tento den byl věk 66 let. Tato odchylka v novinách sama totožnost neřeší. Předchozí řádek z 8. listopadu uvádí Marii Kozákovou, vdovu po dělníkovi v Jičíně, ve věku 68 let, bez uvedené vazby na cestáře. [Původní strana](https://kramerius.svkhk.cz/view/uuid:2623d95d-8baf-11e6-b821-00155d010f03) · [Místní výřez](doklady/jn-1909-12-09-kozak-vyrez.jpg).

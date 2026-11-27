@@ -1,5 +1,7 @@
 # Pekloves čp. 2 a Cidlina, domácnost ke konci roku 1900
 
+**Ověřeno v úmrtní matrice 27. listopadu 2026.** Cestář František Kozák se narodil v Cidlině roku 1844, byl tam domovsky příslušný a zemřel 13. listopadu 1909 v jičínské nemocnici. Emiliin otec František se narodil 10. června 1843 v Želejově. Jde o dva odlišné muže. [Úmrtní zápis Jičín 70-7799, fol. 141, sn. 145, č. 208](../2026-11-27-beranovi-kozakovi/cestar-frantisek-jicina-cidlina.md).
+
 ## Přečtený úřední arch Pekloves čp. 2, stav k 31. prosinci 1900
 
 **František Kozák v Peklovsi čp. 2 byl v roce 1900 ženatý hospodář narozený 5. března 1874 v Kněžnicích.** Jde o jiného nositele jména než o přibližně 65letého vdovce a bývalého cestáře, který zemřel v roce 1909, i než o Františka narozeného v roce 1843. Inzerát z 18. srpna 1907 je podepsán „Fr. Kozák, Pekloves č. 2 u Lomnice“ a může patřit zdejšímu hospodáři. Jméno a adresa v inzerátu neposkytují jistotu, že se domácnost do roku 1907 nezměnila. [Dřívější zpráva a inzerát](frantisek-kozak-cestar.md).

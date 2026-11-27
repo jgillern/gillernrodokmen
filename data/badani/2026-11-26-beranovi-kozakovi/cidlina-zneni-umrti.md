@@ -1,5 +1,7 @@
 # Cestář František Kozák: význam Cidliny v oznámení a nezávislé jmenné prameny
 
+**Ověřeno v úmrtní matrice 27. listopadu 2026.** Cestář František Kozák se narodil v Cidlině roku 1844, byl tam domovsky příslušný a zemřel 13. listopadu 1909 v jičínské nemocnici. Emiliin otec František se narodil 10. června 1843 v Želejově. Jde o dva odlišné muže. [Úmrtní zápis Jičín 70-7799, fol. 141, sn. 145, č. 208](../2026-11-27-beranovi-kozakovi/cestar-frantisek-jicina-cidlina.md).
+
 **Formulace „z Cidliny (Lomnice)“ určuje místo, s nímž noviny zemřelého spojovaly. Sama nepotvrzuje místo narození ani číslo domu.** Oznámení zůstává jediným nalezeným jmenným dokladem, který tohoto Františka Kozáka nazývá okresním cestářem ve výslužbě. Samostatný zveřejněný služební záznam, jmenný nemocniční výpis ani dobový tisk se jménem jeho manželky nebyl nalezen. [Stav ověření kandidáta a údaje z Robous](frantisek-kozak-cestar.md)
 
 ## Co přesně znamená údaj v rubrice

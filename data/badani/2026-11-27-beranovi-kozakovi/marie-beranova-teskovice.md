@@ -1,0 +1,26 @@
+# Marie Beranová z Těškovic, sňatek v Pravoníně 1939
+
+V pravonínském kostele byli oddáni **20. června 1939** Jaroslav [Hnulec?] a **Marie Beranová**, oba tehdy v **Pravoníně čp. 87**. Zápis přímo jmenuje matku a děda nevěsty. Její otec v této rubrice uveden není. [Pravonín 26, s. 107, sn. 108, zápis č. 7](https://ebadatelna.soapraha.cz/d/15260/108) · [Výřez zápisu](doklady/pravonin-26-sn108-marie-beranova-1939.jpg)
+
+| Položka | Přímý odečet |
+| --- | --- |
+| Nevěsta | **Marie Beranová**, dělnice v Pravoníně čp. 87, narozená **30. října 1920 v Těškovicích čp. 1**, soudní okres Dolní Kralovice, politický okres Ledeč. Těškovice jsou dnes částí obce Onšov v okrese Pelhřimov. |
+| Matka nevěsty a její otec | *„dcera Marie Beranové, dcery Josefa Berana, dělníka v Těškovicích č. 9.“* |
+| Ženich | **Jaroslav**, dělník v Pravoníně čp. 87, narozený 27. listopadu 1916 v Černičí čp. 22. Příjmení v rukopisu čtu předběžně jako *Hnulec*. |
+| Křestní list nevěsty | Vystavil **farní úřad v Onšově 19. prosince 1937 pod č. j. 637**. |
+| Svolení k sňatku | Nezletilé nevěstě dal svolení okresní soud v Dolních Kralovicích, oddělení I, dne **22. prosince 1937**. Začátek čísla je `P`, následuje zřejmě `64/20` se zlomkově připsanou `35`. |
+| Farní spis | Snubní listiny (protokol a tři kusy), **fasc. cop. pro rok 1939 č. 7**. |
+
+[Výřez s křestním listem a soudním svolením](doklady/pravonin-26-sn108-marie-beranova-poznamky.jpg) · [ČSÚ, historická příslušnost Těškovic](https://csu.gov.cz/docs/107508/10218bfa-fa30-486a-a4ab-4cd1eceacacd/13008415abc.pdf?version=1.0)
+
+## Vztah k Beranovým z Pravonína
+
+Záznam z roku 1936 dokládá **Josefa Berana, cihlářského mistra z Pravonína čp. 72**, jako otce ženicha Josefa a manžela Emilie rozené Kozákové. Záznam z roku 1939 dokládá **Josefa Berana, dělníka v Těškovicích čp. 9**, jako děda zdejší nevěsty z matčiny strany. K prověření jsou dvě možnosti. Mohlo jít o stejného muže, jehož dcera Marie se narodila v jiné etapě jeho života. Mohli to také být dva různí muži téhož jména. Pro rozhodnutí je potřeba porovnat manželku, věk, původ nebo návaznost adres. Marie narozená roku 1920 má jiné datum a místo narození než Ludmila Beranová z pravonínského rejstříku roku 1912. [Oddavky Josefa mladšího 1936](https://ebadatelna.soapraha.cz/d/15260/141)
+
+## Onšovské záznamy k ověření
+
+- Katalog má **Onšov 8A, narození 1884–1914**, označený jako digitalizovaný. Je cílem pro narození starší Marie Beranové. **Onšov 11A, oddaní 1882–1933**, pokrývá možný sňatek jejího otce Josefa. **Onšov 1, narození 1914–1950**, je v katalogu bez online přístupu do roku 2050. [Přehled farnosti Onšov](https://www.rodovod.cz/matriky/soa-trebon/onsov)
+- Ve veřejném prohlížeči FamilySearch jsou v onšovské větvi křestní knihy do roku 1884. Obraz oddací 11A se otevírá až po přihlášení. Místní katalogový odkaz Těškovic v digitálním archivu SOA Třeboň vrátil při otevření HTTP 403. [Kniha oddaných 11A u FamilySearch](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9MT-BJCC)
+- Historická studie o Telči uvádí v tabulce zastupitelstva roku 1938 **Františka Berana, obchodníka, narozeného 2. září 1897 v Těškovicích**. Jeho přesně datovaný křest by pomohl odlišit těškovické rodiny Beranových v knize 8A. Příbuzenský vztah k Marii zůstává otevřený. [Občanské elity, obecní samospráva a kultura města Telč](https://theses.cz/id/rx29s1/Obansk_elity_obecn_samosprava_a_kultura_msta_Tel.pdf)
+
+**Sčítací operáty.** V katalogu MZA pro všechny roky dal přesný dotaz **Těškovice** nula záznamů. Pod **Onšov** se zobrazily pouze dvě sady z roku 1921, PE0424 pro **Dehtáře, osada Onšovice**, a ZN0535 pro **Onšov v okrese Znojmo**. Těškovice byly podle ČSÚ v roce 1921 osadou Onšova v okrese Ledeč nad Sázavou. Roku 1900–1910 se uvádějí pod názvem **Těžkovice též Těškovice** v obci Vonšov. Pro rok 1930 je nutno hledat už pod obcí **Chlovy**. Mikrofilm konkrétní domácnosti nebyl identifikován. [Veřejný vyhledávač MZA](https://www.mza.cz/scitacioperaty/digisada/search) · [ČSÚ, Historický lexikon, heslo Těškovice](https://csu.gov.cz/docs/107508/10218bfa-fa30-486a-a4ab-4cd1eceacacd/13008415abc.pdf?version=1.0) · [Onšov před rokem 1923, obecní historie](https://obec.onsov.cz/historie/2_hist_20.stol.html).

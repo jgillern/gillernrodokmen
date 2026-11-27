@@ -43,3 +43,5 @@ Obrazy kontrolovaných přihlášek a uložené výstupy jmenných dotazů: `cih
 Plzeňské strany 14 až 19 pokrývají úplný abecední blok přesného jména Josef Beran od předchozí Johanny po následující Josefy. V tomto bloku není Josef ročníku 1910. Nejbližší Josef *1908 je na obrazu 8758 výslovně „syn mlékaře“, domovská obec Křimice, okr. Plzeň, roku 1914 Husova ulice. Povolání přesné u všech ostatních jmenovců jsem nesrovnával, protože u Josefa staršího nemáme pevný rok a přihlášky nelze hledat podle partnerky. [První strana bloku](https://archivprihlasky.plzen.eu/popsane?page=14&prijmeni=Beran) · [Poslední strana bloku](https://archivprihlasky.plzen.eu/popsane?page=19&prijmeni=Beran) · [Josef 1908, položka 8758, krabice 20](https://archivprihlasky.plzen.eu/popsane?id=8758&prijmeni=Beran&page=18).
 
 [Ověřovací výřez karty 298/609 se jménem Emilie rozené Přerostové](doklady/praha-298-609-emilie-prerostova.jpg).
+
+Obě Ladislavovy policejní přihlášky jsou nyní přečtené. Číslo 794 samostatně potvrzuje jeho rodiště v Robousích, uvádí rodné jméno a rodiště manželky i dceru Marii. [Snímky karet 793–794](../2026-11-27-beranovi-kozakovi/ladislav-kozak-zizkov.md).

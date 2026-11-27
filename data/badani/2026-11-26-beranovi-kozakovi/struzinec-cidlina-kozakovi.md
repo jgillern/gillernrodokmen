@@ -1,5 +1,7 @@
 # Kozákovi v Peklovsi a Cidlině v tištěné Matrice obce Stružince
 
+**Ověřeno v úmrtní matrice 27. listopadu 2026.** Cestář František Kozák se narodil v Cidlině roku 1844, byl tam domovsky příslušný a zemřel 13. listopadu 1909 v jičínské nemocnici. Emiliin otec František se narodil 10. června 1843 v Želejově. Jde o dva odlišné muže. [Úmrtní zápis Jičín 70-7799, fol. 141, sn. 145, č. 208](../2026-11-27-beranovi-kozakovi/cestar-frantisek-jicina-cidlina.md).
+
 **Nový jmenný výsledek je druhé manželství Jana Kozáka z Cidliny čp. 17 a starší doklad příjmení Kozák přímo v Peklovsi.** Kniha neprokázala ženino jméno, rodiště ani dům penzionovaného cestáře zemřelého roku 1909. Mladšího hospodáře v Peklovsi čp. 2 nyní určuje přímo [sčítací arch z roku 1900](pekloves-cidlina-1900.md). Totožnost cestáře s Františkem z Robous zůstává otevřená. [Dřívější doklady ke kandidátovi](frantisek-kozak-cestar.md)
 
 ## Přímé čtení

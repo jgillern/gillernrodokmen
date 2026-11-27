@@ -20,6 +20,16 @@ Ve svazku Činěves 15 jsme prošli záznamy pro roky 1736–1752 v oddílech [G
 
 V originále jsme podle odkazu kontrolovali podobné příjmení v oddílu G. Poslední položka na str. 121 dne 13. února 1748 uvádí ženicha Jana Kryštofa Gol[f]eld[t] (příjmení nejisté), poděbradského purkrabího. Vzal si Kateřinu Holubovou. Kontrola celého oddacího rejstříku pod G, H a K a tohoto zápisu ponechává možnost, že rejstřík některý sňatek vynechal nebo zařadil jinam. [Originál, Činěves 02, sn. 768](https://ebadatelna.soapraha.cz/d/4862/768) · [Výřez oddavek](oddavky-1748.jpg).
 
+### Všechny oddavky od ledna 1749 do 22. ledna 1750
+
+V původním svazku Činěves 02 jsme přečetli všechny snoubence v posledním celém roce před doloženým křtem dcery v Boru i od Nového roku do předvečera jejího křtu. Jde o **27 sňatků roku 1749 a čtyři sňatky v lednu 1750**, dohromady 31. Žádný zápis neuvádí hledaného ženicha Maximiliána (Josefa Emanuela) Gillera a nevěstu Johannu. Jediný ženich jménem Josef si 27. září 1749 vzal Rozalii. Starší roky 1736–1748 jsme v originále v celé šíři nečetli.
+
+| Zápisy v pořadí knihy | Počet | Datace a poloha |
+|---|---:|---|
+| Činěves 02, s. 127–129 | 5 + 4 + 4 | Předchozí [sn. 773](https://ebadatelna.soapraha.cz/d/4862/773) patří do roku 1748. [Na sn. 774](https://ebadatelna.soapraha.cz/d/4862/774) začíná rok 1749 a první sňatek je z 8. ledna. Pokračují [775](https://ebadatelna.soapraha.cz/d/4862/775) a [776](https://ebadatelna.soapraha.cz/d/4862/776). [Výřez ročního nadpisu](oddavky-1749-zacatek.jpg). |
+| Činěves 02, s. 130–132 | 4 + 4 + 6 | Celé [sn. 777](https://ebadatelna.soapraha.cz/d/4862/777), [778](https://ebadatelna.soapraha.cz/d/4862/778) a [779](https://ebadatelna.soapraha.cz/d/4862/779). Poslední sňatek ročníku připadá na 26. listopadu. |
+| Činěves 02, s. 133 | 4 | [Sn. 780](https://ebadatelna.soapraha.cz/d/4862/780) otevírá rok 1750. Čtyři oddavky mají datum 7., 8., 13. a 14. ledna. Následující sňatek z 25. ledna už leží za zvolenou hranicí. [Výřez ledna 1750](oddavky-1750-leden.jpg). |
+
 ## Všichni Josefové v běžné řadě křtů
 
 Obě roční období jsme přečetli souvisle, včetně dětí zapisovaných bez příjmení. Zvláštní řada křtů nemanželských dětí je popsána výše. Každý odkaz vede přímo k příslušnému obrazu SOA Praha.

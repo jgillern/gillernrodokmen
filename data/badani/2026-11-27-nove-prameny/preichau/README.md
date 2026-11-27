@@ -1,0 +1,5 @@
+# Preichau, pohřební mezera po sňatku v červnu 1678
+
+Na snímcích 264–265 (D969c, s. 39–40) jsme přečetli dochované, čitelné záznamy od závěru 1678 a přes položky 1–18 roku 1679 až k říjnu. V čitelném textu nebyl rozpoznán pohřeb Anny Reginy. Některé řádky jsou téměř bílé při zvětšení plných reprodukcí. Předchozí snímek 263 v této relaci nebylo možné otevřít po odpovědi HTTP 429. [DGS 8218293, sn. 264](https://www.familysearch.org/search/film/008218293?i=263) · [sn. 265](https://www.familysearch.org/search/film/008218293?i=264)
+
+Snímky 174–176 se při čtení ve větším rozlišení ukázaly jako krátký jmenný seznam, s odkazy na kmotry a kmotryně, bez čitelných chronologických křestních údajů. Ke skutečným křtům po svatbě z června 1678 je třeba dohledat dřívější list. Možná četba „Catharina Kampin“ a fragmenty o úřadu zůstávají bez data či identifikovaného rodového vztahu. [DGS 8218293, sn. 175](https://www.familysearch.org/search/film/008218293?i=174) · [Sňatek, jeho jmenná identifikace a další hejtmani](../../2026-11-27-doklady/preichau/README.md)

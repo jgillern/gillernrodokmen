@@ -4,6 +4,8 @@ Stav k 27. listopadu 2026. První prioritu mají Josef Emanuel, jeho otec Maximi
 
 [Dokončená četba D 213 a D 214, městská farnost sv. Mikuláše a nové prameny ke kunčické rychtě a hejtmanům v Preichau](../2026-11-27-doklady/README.md).
 
+**Gillernové u sv. Mikuláše.** [Carl Heinrich z Gilleru a Franz Ludwig z Rache v matrice sv. Mikuláše 16. 5. 1737, rozsah obou věkových oken a nové prameny ke Kunčicím](../2026-11-27-nove-prameny/README.md).
+
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](../2026-11-27-navazani/README.md).
 
 [Dva dědické spisy se jmény Maximiliánových příbuzných, kontrola kartonu 37 a původní zápis Josefovy svatby](../2026-11-27-prime-doklady/README.md)

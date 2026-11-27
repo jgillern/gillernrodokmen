@@ -8,6 +8,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 [Dokončená četba D 213 a D 214, městská farnost sv. Mikuláše a nové prameny ke kunčické rychtě a hejtmanům v Preichau](badani/2026-11-27-doklady/README.md).
 
+**Gillernové u sv. Mikuláše.** [Carl Heinrich z Gilleru a Franz Ludwig z Rache v matrice sv. Mikuláše 16. 5. 1737, rozsah obou věkových oken a nové prameny ke Kunčicím](badani/2026-11-27-nove-prameny/README.md).
+
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
 ## 27. 11. 2026 · Výzkum Gillernů výhradně online

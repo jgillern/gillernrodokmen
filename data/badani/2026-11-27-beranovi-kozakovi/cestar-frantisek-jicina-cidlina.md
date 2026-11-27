@@ -1,12 +1,19 @@
 # František Kozák, úmrtí 13. listopadu 1909
 
-**Jičínská matrika vylučuje ztotožnění cestáře s Františkem Kozákem narozeným 10. června 1843 v Želejově.** U zemřelého cestáře výslovně zapisuje Cidlinu jako rodiště, místo příslušnosti i místo služby ve výslužbě. V připsaném datu narození lze přečíst 19. den a rok 1844. Měsíc čtu předběžně jako únor. [Jičín 70-7799, fol. 141, sn. 145, č. 208](https://matriky.online/zamrsk/070-07799/145/#z=1.628,x=0.4624,y=0.2973) · [Výřez jmenného řádku](doklady/jicin-70-7799-1909-r208.jpg) · [Detail data](doklady/jicin-70-7799-1909-datum.jpg)
+**Jičínský úmrtní a cidlinský křestní zápis vylučují ztotožnění cestáře s Františkem Kozákem narozeným 10. června 1843 v Želejově.** U cestáře je Cidlina výslovně uvedena jako rodiště, místo příslušnosti i bydliště ve výslužbě. Jeho narození 19. února 1844 v Cidlině čp. 21 potvrzuje samostatný křestní zápis. [Jičín 70-7799, fol. 141, sn. 145, č. 208](https://matriky.online/zamrsk/070-07799/145/#z=1.628,x=0.4624,y=0.2973) · [Výřez jmenného řádku](doklady/jicin-70-7799-1909-r208.jpg) · [Detail data u úmrtí](doklady/jicin-70-7799-1909-datum.jpg)
 
 Na druhém řádku shora se v kolonce zemřelého píše „Kozák František narozen v Cidlině, polit. okres Semily, tamtéž příslušný, vdovec, okresní cestář ve výslužbě v Cidlině.“ Všeobecná nemocnice v Jičíně je uvedena jako místo úmrtí 13. listopadu 1909. Pohřeb 15. listopadu byl v Železnici. Zemřelý je zapsán jako katolík, muž a vdovec ve věku 65 let. Příčinou úmrtí je „Hernia“ (kýla) podle ohledacího listu ze dne 13. listopadu, č. 247. Jméno manželky ani rodičů matrika neuvádí. [Matriční dvojstrana se všemi sloupci](https://matriky.online/zamrsk/070-07799/145/#z=0.814,x=0.5000,y=0.3569)
 
 Jičínské noviny z 9. prosince 1909 na s. [4] uvádějí vdovce Františka Kozáka, údajně 65letého okresního cestáře ve výslužbě z Cidliny u Lomnice, zemřelého 13. listopadu a pohřbeného v Železnici. Kandidát z matričního zápisu Hrubá Skála se narodil 10. června 1843 v Želejově čp. 1 a při smrti tohoto data by mu bylo 66 let. Jeho manželka byla Barbora Kaplová a rodiče Václav Kozák a Františka rozená Auhrábková. [Zpráva z Jičínských novin](https://kramerius.svkhk.cz/view/uuid:2623d95d-8baf-11e6-b821-00155d010f03) · [Křest Františka ze Želejova](https://www.familysearch.org/ark:/61903/3:1:3QS7-89GT-SDD) · [Oddavky Františka a Barbory](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-TJB7)
 
-Pro kontrolu data narození je příslušná kniha Železnice N 1842–1871, sign. 187-3380, poř. č. 12950, s oddílem Cidlina. [Katalog](https://www.rodovod.cz/matriky/soa-zamrsk/zeleznice/12950) · [Archivní jednotka](https://aron.vychodoceskearchivy.cz/apu/0cd37983-cea9-45d2-949e-1015d980af7c)
+## Křestní zápis z Cidliny
+
+František Serafín Kozák (v zápisu *Franciscus Seraphicus*) se **narodil a byl pokřtěn 19. února 1844 v Cidlině čp. 21**. Jde o první řádek ročníku 1844 na fol. 431 knihy Železnice N 1842–1871, sign. 187-3380, poř. č. 12950, pův. sign. B.IV., sn. 374. Předchozí řádek patří roku 1843, následující je z 24. června 1844. [Archivní snímek](https://aron.vychodoceskearchivy.cz/apu/0cd37983-cea9-45d2-949e-1015d980af7c/dao/0cd37983-cea9-45d2-949e-1015d980af7c/file/2cdd40db-859c-49a4-a56c-1c1593bacb34) · [Ověřený pohled na zápis](https://matriky.online/zamrsk/187-03380/374/#z=1.632,x=0.3441,y=0.3109) · [Výřez narození a křtu](doklady/zeleznice-187-3380-374-kozak-datum.jpg)
+
+- Otec **Jan Kozák**, katolík a podruh, manželský syn chalupníka **Josefa Kozáka z Cidliny** a **Veroniky rozené Kozákové z Pekel č. 10**. Číslo Josefova domu je v zápisu přetažené a jeho čtení je nejisté. [Výřez rodičů](doklady/zeleznice-187-3380-374-kozak-rodice.jpg)
+- Matka **Marie rozená Picková**, katolička, manželská dcera **Václava Picka, učitele ze Sadské č. 1 na panství Poděbrady**, a **Anny rozené Moravcové z Cidliny č. 21**. Václava Picka jako učitele uvádí i město Sadská. [Výřez matky](doklady/zeleznice-187-3380-374-kozak-matka.jpg) · [Město Sadská](https://www.mesto-sadska.cz/volny-cas/soucasnost-a-historie/vyznamne-osobnosti/)
+
+Přípis v křestním řádku začíná „oddán s Ant.“. Příjmení nevěsty a datum zatím bezpečně nepřečteny. [Výřez přípisu](doklady/zeleznice-187-3380-374-kozak-pripis.jpg)
 
 ## Doplňkové prameny
 

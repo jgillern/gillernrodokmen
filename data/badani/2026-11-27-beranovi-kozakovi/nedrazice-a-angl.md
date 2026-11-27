@@ -1,5 +1,7 @@
 # Nedražice a Anglovi z Robous
 
+**Doplnění po nalezení svatby 1842.** V dalším zápisu se u Augustina čtou Nedražice. Navíc jmenuje jeho manželku Annu z Kladrub čp. 14. Původní nejistota níže se vztahuje k podobě místního jména v křtu roku 1845. [Obě svatby z roku 1842 a úplné rodičovské rubriky](robousy-svatba-angl-kozakova.md).
+
 **Nedražice vyhovují dobovým údajům o kraji a statku. Písmo je méně přesvědčivé a rodinná vazba zůstává otevřená.**
 
 ## Robousy, křest Barbory 26.–27. listopadu 1845

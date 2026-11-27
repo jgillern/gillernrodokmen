@@ -1,5 +1,7 @@
 # Sňatek Josefa Berana a Emilie Kozákové na Skalicku
 
+**Doplnění k samostatné jičínské stopě.** Sňatek Jana Angla a Kateřiny Kozákové byl následně nalezen v robouském oddílu Jičína, 14. 8. 1842. [Obě svatby z roku 1842 a úplné rodičovské rubriky](robousy-svatba-angl-kozakova.md).
+
 Kontrola 27. listopadu 2026. Hledaný ženich je Josef Beran, později cihlářský mistr v Pravoníně čp. 72. Nevěsta Emilie byla dcerou Františka Kozáka z Robous čp. 75. Jejich syn se narodil 13. června 1910 ve Velké Jesenici čp. 82. Tyto údaje uvádí [oddací zápis syna, Pravonín 26, s. 200, sn. 141](https://ebadatelna.soapraha.cz/d/15260/141).
 
 ## Česká Skalice 21-8666

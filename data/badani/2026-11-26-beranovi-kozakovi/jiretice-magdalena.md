@@ -38,3 +38,5 @@ Kniha narozených přímo ukazuje na dvě soudobé domácnosti v Jiřeticích. D
 Z mladších dokladů se podařilo zpřesnit také horní mez úmrtí Františka Slunečka z Jeníkova. Při svatbě jeho syna Aloise **15. 2. 1887** je přímo označen za zemřelého. [Pravonín 26, s. 218, sn. 159](https://ebadatelna.soapraha.cz/d/15260/159)
 
 Křest Františky v Jeníkově čp. 17 byl přečten z celého řádku. Matka je uvedena jako Marie, dcera Františka Saubla a Marie z Neustupova. Příjmení babičky zůstává pracovním čtením. [Jeníkov 1830, výřez a odlišení od Magdaleny](../2026-11-27-beranovi-kozakovi/jenikov-marie-a-magdalena.md).
+
+Při křtech Josefky (1826) a Vincence (1827) je v obou generacích uvedena Magdalena, u Františky v roce 1830 dvakrát Marie. V letech 1823–1830 nebylo v jeníkovském oddílu nalezeno úmrtí manželky ani nový Josefův sňatek. [Křty, oddavky a úmrtí](../2026-11-27-beranovi-kozakovi/jenikov-marie-a-magdalena.md).

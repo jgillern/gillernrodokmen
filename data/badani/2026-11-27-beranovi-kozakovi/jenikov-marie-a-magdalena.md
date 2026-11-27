@@ -9,12 +9,24 @@ Na levé straně **snímku 33, s. 32**, je v oddílu Jeníkov u čp. 17 narozen�
 | Otec | *Jozef Sluniczko chalupn.* |
 | Matka | *Marie dcera / Franze Saubla / z Giřitic z Ne- / ystupowska / z Marie Ržim- / lowy z Neust- / powa.* |
 
-V roce 1830 je Marie výslovně matkou dítěte. V křtu Františka roku 1823 i při jeho svatbě roku 1848 je jeho matkou Magdalena. Zápisy sdílejí otce Josefa, dům Jeníkov čp. 17 a po matce rod Saublů z Jiřetic. Pro posouzení, zda Josef ovdověl a znovu se oženil, je třeba najít jeho případný další sňatek a úmrtí manželky mezi lety 1823 a 1830. Příbuznost obou žen a jejich totožnost zůstávají otevřené.
+V roce 1830 je Marie výslovně matkou dítěte. V křtu Františka roku 1823 i při jeho svatbě roku 1848 je jeho matkou Magdalena. Tak je uvedena i matka Josefky roku 1826 a Vincence roku 1827. Zápisy sdílejí otce Josefa, dům Jeníkov čp. 17 a po matce rod Saublů z Jiřetic. V letech 1826, 1827 a 1830 je babička po matce uvedena jako Římlová (?) z Neustupova. V prvních dvou zápisech je její křestní jméno Magdalena, ve třetím Marie. V jeníkovské úmrtní matrice jsem mezi křty v letech 1823 a 1830 úmrtí Josefovy ženy nenašel. Případný další sňatek, příbuznost obou žen a jejich totožnost zůstávají otevřené.
 
 ## Starší zápisy téhož domu
 
 - **28. října 1823, Zhoř 02, Jeníkov čp. 17, levá strana dvoustrany s označením 27, druhý zápis.** Čtu *„Magdalena / dcera Franze / Saubla z Gi- / řitic Statku / Neustupow / z Matky Marye / [příjmení nejisté]“*. Po srovnání se zápisem z roku 1830 ponechávám příjmení otevřené. Křest Magdalény v Jiřeticích z roku 1789 má matku Alžbětu Křížkovou. [Křest v Jiřeticích roku 1789](https://digi.ceskearchivy.cz/8595/46)
+- **12. března 1826, Zhoř 02, Jeníkov čp. 17, s. 29, levá strana.** Dítě je zapsáno jako *Jozefka Slunečko*, otec *Jozef Slunečko, chalupník* a matka *„Magdalena dcera / Franze Saubla / z Giřetic Statku / z Matky Magdaleny / [Rž]imlowy z Neust[u]- / powa.“* Jméno Magdalena je tak v této rubrice dvakrát. Příjmení a obec babičky jsou v zápisech z roku 1826 a 1830 zřejmě shodné, křestní jméno se liší. [S. 29, sn. 30](https://ebadatelna.soapraha.cz/d/9157/30) · [Výřez řádku](doklady/zhor-02-sn030-josefka-sluneckova-1826.jpg)
+- **4. října 1827, Zhoř 02, Jeníkov čp. 17, s. 30, pravá strana.** Narodil se **Vincenc Sluneček**. Otcem je *„Jozef Slunečko / Chalup.“*, matkou *„Magdalena dcera / Franze Saubla / Sedláka z Giřetic / Panství Neustupow- / ského, z Matky Mag- / daleny Řimlowý / z Neustupowa.“* Zápis výslovně dokládá povolání matčina otce, její původ i celé jméno a bydliště babičky po matce. [S. 30, sn. 31](https://ebadatelna.soapraha.cz/d/9157/31) · [Výřez řádku](doklady/zhor-02-sn031-vincenc-slunecek-1827.jpg)
 - **24. ledna 1848, Zhoř 04, Jeníkov, dvoustrana 38–39, první zápis.** Sňatek Františka Slunečka jmenuje jeho matku Magdalenu Saublovou z Jiřetic (*Giržitz*) čp. 8, poddanou na panství Neustupov. Rodiště a dům souhlasí s křtem Magdalény v roce 1789. [Křest Františka 1823](../../../zdroje/n_1823_slunecek_frantisek.jpg) · [Sňatek Františka 1848](../../../zdroje/o_1848_slunecek_musilova.jpg).
+
+## Jeníkovská úmrtí 1823 až 1830 a Františčino úmrtí
+
+- V originálu **Zhoř 06, Jeníkov, s. 40–43, sn. 23–24** jsem prohlédl zapsaná úmrtí mezi **28. říjnem 1823 a 9. březnem 1830**. Úmrtí Magdaleny ani ženy označené jako manželka Josefa Slunečka z čp. 17 jsem tam nenašel. V čp. 17 zemřela **12. března 1829 Kateřina**, 40 let, uvedená jako dcera po zesnulém Slunečkovi. Jeho křestní jméno ponechávám otevřené. Prověřený rozsah zahrnuje jen oddíl Jeníkov. [S. 40–41, sn. 23](https://ebadatelna.soapraha.cz/d/9161/23) · [S. 42–43, sn. 24](https://ebadatelna.soapraha.cz/d/9161/24)
+- **22. března 1826** v Jeníkově čp. 17 zemřela *„Jozefka dcera Jozefa Slunečky chalupnjka“*, deset dní po zapsaném narození. Věkový údaj v úmrtním zápisu čtu pracovně jako 11 dní. [S. 41, sn. 23, druhý zápis odspodu](https://ebadatelna.soapraha.cz/d/9161/23)
+- **29. září 1831** v Jeníkově čp. 17 zemřela **Františka, dcera Josefa Slunečka, chalupníka**, ve věku **1½ roku**. Pohřeb je zapsán na **1. října 1831**. Shoda jména, věku, otce, jeho povolání a domu silně ukazuje na Františku narozenou 9. března 1830. Úmrtní zápis jmenuje otce. [S. 43, sn. 24, pravá strana](https://ebadatelna.soapraha.cz/d/9161/24) · [Výřez řádku](doklady/zhor-06-sn024-frantiska-sluneckova-1831.jpg)
+
+## Kontrola jeníkovských oddavek 1823 až 1830
+
+V originálu **Zhoř 04, s. 21–23, sn. 13–14** jsem ověřil ženichy a nevěsty od Františkova křtu **28. října 1823** přes Vincencovo narození **4. října 1827** až do Františčina křtu **9. března 1830**. V tomto období jsem zde nenašel sňatek Josefa Slunečka ani sňatek příslušné Marie nebo Magdaleny Saublové. Sňatek vedený v jiné obci nebo farnosti zůstává otevřený. [S. 20–21, sn. 13](https://ebadatelna.soapraha.cz/d/9159/13) · [S. 22–23, sn. 14](https://ebadatelna.soapraha.cz/d/9159/14)
 
 ## Kde jsem hledal samostatný druhopis nebo doprovodné písemnosti
 

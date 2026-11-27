@@ -1,5 +1,7 @@
 # Místo původu Augustina Angla v robouském zápisu z roku 1845
 
+**Oddavky rodičů Barbory nalezeny.** Dne 14. 8. 1842 je ženich zapsán jako Jan Angl, nemanželský syn Evy. Nevěstou byla Kateřina Kozáková, dcera Františka z Popovic čp. 19, podruhyně v Robousích čp. 48. V tomtéž čísle je později uveden otec Barbory pod příjmením Kapl. Děd Augustin Angl pocházel podle nového čtení z Nedražic a jeho žena Anna z Kladrub čp. 14. Vlastní rodiště Jana ani doklad, že užíval rovněž příjmení Kapl, tento zápis neobsahuje. [Oddavky obou sester, Jičín 70-32, s. 254–255, sn. 129](../2026-11-27-beranovi-kozakovi/robousy-svatba-angl-kozakova.md).
+
 **Místo zatím nelze určit.** Písař napsal stejný místní název dvakrát, po „z“ a po „statku“, a výslovně uvedl Plzeňský kraj. Nezávislé vizuální čtení je přibližně **„Milawi[z/c]ů“**, s pevnějším začátkem „Mil-“ a nejistými samohláskami i koncovkou. Zvlášť koncové klesající písmeno nelze ztotožnit s moderním pravopisem. Počáteční trojice se podobá začátku „Milíčevsi“ v mateřské rubrice, její následující část a konec jsou však jiné. [Detail zápisu](doklady/angl-misto.jpg) · [Celá rubrika otce](doklady/angl-otec.jpg) · [Mateřská rubrika](doklady/angl-matka.jpg).
 
 | Dobová lokalita | Co ukazuje místopis |

@@ -1,5 +1,9 @@
 # Barbora z Robous, Angl a Kapl
 
+**Oddavky rodičů Barbory nalezeny.** Dne 14. 8. 1842 je ženich zapsán jako Jan Angl, nemanželský syn Evy. Nevěstou byla Kateřina Kozáková, dcera Františka z Popovic čp. 19, podruhyně v Robousích čp. 48. V tomtéž čísle je později uveden otec Barbory pod příjmením Kapl. Děd Augustin Angl pocházel podle nového čtení z Nedražic a jeho žena Anna z Kladrub čp. 14. Vlastní rodiště Jana ani doklad, že užíval rovněž příjmení Kapl, tento zápis neobsahuje. [Oddavky obou sester, Jičín 70-32, s. 254–255, sn. 129](../2026-11-27-beranovi-kozakovi/robousy-svatba-angl-kozakova.md).
+
+Už v prosinci 1841 byl v jednom řádku v čp. 34 výslovně zapsán vztah mezi zesnulou „Katharina Kappl“ a jejím manželem „Johann Angl“. Příjmení Kappl tak je doložené už u první manželky. K možnosti druhého sňatku její jmenovkyně Kateřiny rozené Kozákové s jiným mužem přibyl silný doklad, že obě jména patřila téže domácnosti už před jejím příchodem. [Úmrtí a porovnání s oddavkami](../2026-11-27-beranovi-kozakovi/robousy-1841-katerina-kappl.md).
+
 ## Srovnání původních zápisů
 
 | Pramen | Co lze přečíst |
@@ -26,3 +30,5 @@ Přípis o vydání křestního listu sedm dní před svatbou, odpovídající v
 K rozlišení příjmení existuje také **soupis duší z roku 1847, inv. 20**, nejbližší katalogově ověřený soupis ke křtu Barbory. Známé jsou další pro roky 1850, 1857 a 1864. V zápisu čteme u jejího pradědečka Augustina pravděpodobně „obecnjho slauhy“. Přesný typ služby Jana Angla zůstává otevřený. [Čtení a evidence invalidů a domácností](kapl-angl-invalidni-evidence.md)
 
 U mateřské rodiny nově vychází Matěj Černý jako **kovář** a název panství jako **Kopidlno**. Farnost je třeba zvolit podle sporného čtení Libáně či Labouně. [Písmo, dobový místopis a ověřitelné matriční knihy](liban-a-laboun.md).
+
+Křest roku 1800 a první sňatek 7. ledna 1840 samostatně potvrzují, že první Janova manželka byla rodem Válková. Podoba Kappl v jejím úmrtním zápisu proto neodpovídá jejímu rodnému příjmení. [První žena ve třech pramenech](../2026-11-27-beranovi-kozakovi/radim-1800-katerina-valkova.md).

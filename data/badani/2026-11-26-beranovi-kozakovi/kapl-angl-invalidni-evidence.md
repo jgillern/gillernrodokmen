@@ -1,5 +1,7 @@
 # Angl a Kapl v robouských zápisech
 
+**Oddavky rodičů Barbory nalezeny.** Dne 14. 8. 1842 je ženich zapsán jako Jan Angl, nemanželský syn Evy. Nevěstou byla Kateřina Kozáková, dcera Františka z Popovic čp. 19, podruhyně v Robousích čp. 48. V tomtéž čísle je později uveden otec Barbory pod příjmením Kapl. Děd Augustin Angl pocházel podle nového čtení z Nedražic a jeho žena Anna z Kladrub čp. 14. Vlastní rodiště Jana ani doklad, že užíval rovněž příjmení Kapl, tento zápis neobsahuje. [Oddavky obou sester, Jičín 70-32, s. 254–255, sn. 129](../2026-11-27-beranovi-kozakovi/robousy-svatba-angl-kozakova.md).
+
 Křest Barbory, 26.–27. 11. 1845 v Robousích č. 36. [Jičín 70-26, folia 298–299, sn. 123, rubrika otce](doklady/angl-otec.jpg).
 
 ## Čtení rubriky otce

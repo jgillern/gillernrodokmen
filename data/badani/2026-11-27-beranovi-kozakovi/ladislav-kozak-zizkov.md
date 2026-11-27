@@ -45,3 +45,5 @@ V CompGen, *Verlustlisten Österreich-Ungarn 1. WK*, kombinace příjmení `Koz*
 Jmenná kombinace Josef Kozák 1873 v městském soupisu AHMP vrátila nulu. V pražských policejních přihláškách dal přesně vymezený ročník 1873 pro `Kozak Josef` jedinou položku, **Josefa Kozák (Kancký)**. Databázi VÚA a Digitální studovnu MO se nepodařilo otevřít v prohlížeči.
 
 V jičínské městské oddací matrice nebyl sňatek Ladislava Kozáka s Marií Bubákovou mezi 1. březnem a 30. červnem 1904. [Přesné hranice kontrolovaných snímků, čísla zápisů a další stopa k dceři](jicin-1904-ladislav-marie.md).
+
+Údaj o narození manželky v roce 1878 v Jičíně zůstává doložen pouze policejní kartou. [Jičínský rejstřík 1876–1881 a odlišení příjmení Bušák](marie-bubakova-1878.md) · [Přesné stránky k hledání oddavek v Nuslích](nusle-1904.md).

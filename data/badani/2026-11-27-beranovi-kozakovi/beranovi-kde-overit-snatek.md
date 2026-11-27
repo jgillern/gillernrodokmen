@@ -18,3 +18,5 @@
 Ve sčítání roku 1921 už v Robousích čp. 37 nebyl mezi pěti přítomnými nikdo z hledané rodiny. V čp. 33 byli jako bytové strany zapsáni Alois Chaloupský, František Stránský a armádní baterie. Pro další cestu mají přednost domovská evidence Hrubé Skály a hledání celé rodiny mimo dosud prohlédnutá čísla. [Přesný rozsah kontroly roku 1921](robousy-1921-domy.md).
 
 V úplné digitální větvi okresu Česká Skalice pro rok 1910 se nenašel samostatný jmenný operát Velké Jesenice čp. 82. Zato přímo v sousedním Velkém Třebešově jsou roku 1910 doloženy dva knížecí domy obývané rodinami zaměstnanců strojní cihelny. V čp. 58 pracoval v cihelně Jan Müller a v čp. 59 strojník Alexandr Vacek. Ani jedna domácnost neuvádí Beranovy. Další zaměstnanci mohli bydlet jinde. [Strom okresu, čtyři původní sčítací listy a přesný rozsah hledání](jesenice-1910-strom.md).
+
+V nuselské knize oddaných NUS O1 se hledání případných rodinných svědků podařilo zúžit na sn. 58–73. Příslušný oddíl zůstává otevřený. Bližší původ Ladislavovy manželky neurčil ani jičínský farní index narozených pod B pro roky 1876–1881. [Nusle](nusle-1904.md) · [Jičín](marie-bubakova-1878.md).

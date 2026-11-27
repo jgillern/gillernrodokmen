@@ -1,0 +1,16 @@
+# Libuň čp. 32 v gruntovní knize
+
+V mladší gruntovní knize pro Libuň se dochoval právní odevzdávací list na polovinu selské živnosti v Libuni čp. 32. List má závěrečné datum **17. října 1822** a místo Turnov. Jmenuje zemřelého držitele **Václava Kozáka**, který zemřel bez poslední vůle, a předává jeho polovinu **Josefu Kozákovi** jako právnímu dědici. V pozůstalostním rozpisu stojí **vdova Anna Kozáková**. Fol. 20r o stejné vdově v ustanovení o inventáři mluví jako o matce nastupujícího hospodáře.
+
+| Pramen | Původní označení a čtení | Soubor |
+|---|---|---|
+| [Inv. 317, sn. 99](https://www.familysearch.org/ark:/61903/3:1:3QS7-99LV-59J2) | Rejstřík K má „Kozak Joseph“, selskou usedlost, čp. 32, fol. 19. Jinde na stejném snímku je „Kozak Johann“ u chalupnické živnosti čp. 41. | [Detail rejstříku](inv317-sn99-K-detail.jpg) |
+| [Inv. 317, sn. 16, fol. 19r](https://www.familysearch.org/ark:/61903/3:1:3QS7-99LV-59KX) | „Nro Conscriptionis 32“, „Prawni Wdewzdawagjcy List“, „Josefowi Kozakowi, na gednu půli Sedlske žiw[n]osti“. Začátek jmenuje „Waclaw Kozak“ jako držitele poloviny, který zemřel bez pořízení poslední vůle. Konec strany nazývá Josefa právním dědicem. | [Záhlaví](inv317-f19r-zahlavi.jpg), [konec strany](inv317-f19r-spodek.jpg) |
+| [Inv. 317, sn. 17, fol. 19v](https://www.familysearch.org/ark:/61903/3:1:3QS7-99LV-59PX) | Rozpis podílů uvádí Josefa, Václava, Jana, Františku a další ženu s křestním jménem čteným neúplně. Pod nimi stojí „Pozůstalé Wdowě Anně Kozakowý“. | [Rozpis podílů](inv317-f19v-kmetum.jpg) |
+| [Inv. 317, sn. 17, fol. 20r](https://www.familysearch.org/ark:/61903/3:1:3QS7-99LV-59PX) | Je uvedena „panj Matka Wdowa Kozakowá“ při vydání inventáře. Oddíl „Pro Pamiet“ uvádí bývalého hospodáře Matěje Kozáka, starou gruntovní knihu libuňské rychty fol. 78 a odprodej části gruntu roku 1794. Křestní jméno příjemce se předběžně jeví jako Vincenc. V tomto místě je také čitelné „resp. bratru“, přesný vztah vyžaduje kontrolu celé formulace a starého zápisu. V závěru „w Turnowie dne 17. Ržigna 1822“. | [Matěj a odprodej](inv317-f20r-matej.jpg), [datum](inv317-f20r-zaver.jpg) |
+
+Shoda čp. 32 a jmen Václav + Anna s křty z let 1794 a 1800 má samostatnou oporu v pozemkovém prameni. Listina přímo spojuje Josefa s pozůstalostí Václava a pojmenovává matku nastupujícího hospodáře jako vdovu Kozákovou. Rodné příjmení Anny a výslovnou formulaci „syn Václava“ v prohlédnutých odstavcích nemáme. Matějovo označení jako bývalého hospodáře a odkaz na převod z roku 1794 vedou ke konkrétnímu staršímu zápisu, který může objasnit příbuzenství Matěje a Václava i rozpor Johann/Waczlaw v matrikách.
+
+Archivní lokátor mladší knihy je SOA v Litoměřicích, NAD 150, inv. 317, OS Lomnice nad Popelkou 60, „V. 317, 1812–1879“. [Katalogový odkaz](https://digi.soalitomerice.cz/digitalnibadatelna/permalink/F147A5D46BD511E4A0F87446A0B326F9).
+
+Předběžně byly otevřeny [sn. 3](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9L9-RWXY) a [sn. 4](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9L9-RWXX) knihy inv. 290, sign. OS Turnov 3629, „V. 0290, III, 1666–1835“. Na těchto snímcích nebylo spolehlivě přiřazeno čp. 32. Ztotožnění knihy inv. 290 se starou knihou citovanou na fol. 20r vyžaduje ověření v cílovém foliu.

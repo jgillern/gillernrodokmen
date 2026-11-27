@@ -1,0 +1,17 @@
+# Děti Ladislava Kozáka a Marie Bubákové v Praze
+
+Dne 27. listopadu 2026 byl nově prověřen samostatný jmenný výsledek pro syna Ladislava a znovu čtena původní přihláška dcery Marie. Křty obou dětí a jména kmotrů zatím zůstávají otevřené. Přihlášky žádnou Emilii neuvádějí.
+
+## Jmenné prameny
+
+| Pramen | Přímo doloženo | Rozsah |
+|---|---|---|
+| Národní archiv, Policejní ředitelství I, konskripce, karton 298, obraz 793 | Žižkov čp. **1005**, ohlášení **9. 12. 1908**, Ladislav Kozák, malíř pokojů, 1880, Robousice okr. Jičín, manželka Marie 1878 a v rubrice „děti“ **Ladislav 1906**. Pravá rubrika na řádku syna je prázdná. | Přímý jmenný dotaz na syna `Kozak Ladis 1904 1908` vrátil jediný výsledek Ladislav 1906. Otevřený obraz je právě 298/793. Karta nepřidává den či místo narození syna a její seznam dětí k jedinému ohlášení nevysvětluje nepřítomnost Marie. [Originál](https://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=298&folium=793) · [Výřez](praha-na-k298-sn793-ladislav-1906.jpg) |
+| Týž fond, karton 298, obraz 794 | Ladislav Kozák, malířský tovaryš, 1880 Robousi, manželka **Marie rozená Bubáková**, 1878, Jičín, dcera **Marie 1904**. Rubrika dceřina rodiště je prázdná. Spodní poznámka se čte pravděpodobně **„Angeblich nach Žižkov übersiedelt“** („prý se přestěhoval na Žižkov“). Koncová značka nebo datum zůstávají nejisté. | Škrtnuté ohlášení s velkou pravděpodobností zní Nusle kolem roku 1904. I kdyby datum šlo určit na den, jde o datum přihlášky domácnosti. Nuselská adresa čp. **202** je podpořena samostatným adresářovým zápisem v Svatoplukově ulici v adresáři 1907. [Originál](https://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=298&folium=794) · [Výřez přípisu](praha-na-k298-sn794-odchod.jpg) |
+
+Přihláška sama zná Žižkov v prosinci 1908, takže tamní hledání křtu už v roce 1906 je vedle Nuslí druhá možnost. Nenalezené datum přestěhování nedovoluje seřadit obě bydliště přesně podle narození syna. Adresář 1907 vyšel s předmluvou z 24. října 1906, jednotlivý řádek nepřipojuje datum zjištění. [Kraus, sv. II, s. 534](https://www.digitalniknihovna.cz/mlp/uuid/uuid:53df2000-00d2-11e2-84fe-0030487be43a) · [Předmluva](https://www.digitalniknihovna.cz/mlp/uuid/uuid:de3921f0-00ab-11e2-8a01-0030487be43a)
+
+## Dostupnost přímých křestních snímků
+
+- Nuselská farnost sv. Václava vede v letech 1904 a 1906 dvě po sobě jdoucí knihy NUS N1 a NUS N2. Katalog načetl pro N1 vazbu na sn. 100. Samotné obrazové snímky jsou na serveru, který má po opakovaném HTTP 503 pauzu do **28. 11. 03:20 SEČ**. Samostatný katalog vrátil rovněž 503 už při sondě N2 sn. 100, s pauzou do 27. 11. 23:22 SEČ. Křestní prvopisy ani příslušné ročníky tedy při této návštěvě čteny nebyly. [NUS N1, sn. 100](https://katalog.ahmp.cz/pragapublica/permalink?xid=2273B03DCB394CC28476FBED5C02D96C&scan=100) · [NUS N2, sn. 100](https://katalog.ahmp.cz/pragapublica/permalink?xid=B26B1EFFD55446859FD00E0829900D40&scan=100) · [Soupis AHMP](https://www.ahmp.cz/page/docs/mat_vo_nus.pdf)
+- Cílené hledání veřejného katalogu FamilySearch pro katolické Nusle neodhalilo kopii těchto dvou svazků ani jejich jmenný index. Obecný popis kolekce českých církevních matrik uvádí fondy jiných archivů. Nezávislý rozcestník Rodovod odkazuje v obou položkách přímo na AHMP. [FamilySearch, veřejný popis kolekce 1804263](https://www.familysearch.org/en/search/collection/1804263) · [Rodovod, Nusle sv. Václav](https://www.rodovod.cz/matriky/ahmp/nusle-kostel-sv-vaclava)

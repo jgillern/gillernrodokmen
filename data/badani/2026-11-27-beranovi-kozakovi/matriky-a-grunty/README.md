@@ -1,5 +1,7 @@
 # Beranovi a Kozákovi. Matriky, rodinné smlouvy a držba domů
 
+[Výzkumný deník včetně nově prověřených pramenů](dalsi-nalezy.md) obsahuje nové poválečné prameny k Josefu Beranovi, pražské pobytové přihlášky Kozákových a jmenné soupisy pro starší generace.
+
 ## Josef Beran a domácnost v jeho rodišti
 
 Ve Velké Jesenici čp. 82 se roku 1910 narodil Josef Beran mladší. Oddavky z 18. května 1892 určují dům ve dvou generacích před jeho narozením. Františka byla dcerou zdejšího chalupníka Josefa Rufera a vdovou po Janu Holém z téhož čísla. Jejím druhým manželem se stal obuvník Jan Svoboda. V čp. 82 se jim narodily Marie Františka roku 1899 a Božena roku 1906. Ani mezi svědky a kmotry těchto tří zápisů se neobjevili Beranovi či Kozákovi. Pro hledání Josefova otce zůstává důležitá jeho práce cihláře a obecní kniha pracovních knížek z let 1907–1920, inv. 14. [Tři prvopisy s výřezy](jesenice/README.md) · [Kniha pracovních knížek](../navazani/beran/README.md)

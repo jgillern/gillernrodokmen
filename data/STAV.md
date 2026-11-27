@@ -6,6 +6,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 **Beranovi, Kozákovi a Slunečkovi, 27. listopadu.** [Nejnovější doložené vazby, přečtené originály a otevřené otázky](badani/2026-11-27-beranovi-kozakovi/dalsi/README.md).
 
+[Dokončená četba D 213 a D 214, městská farnost sv. Mikuláše a nové prameny ke kunčické rychtě a hejtmanům v Preichau](badani/2026-11-27-doklady/README.md).
+
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
 ## 27. 11. 2026 · Výzkum Gillernů výhradně online

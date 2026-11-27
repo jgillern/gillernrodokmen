@@ -1,5 +1,9 @@
 # Josefův původ, Christophův sňatek z roku 1678 a kunčická rychta
 
+[Dokončená četba D 213 a D 214, městská farnost sv. Mikuláše a nové prameny ke kunčické rychtě a hejtmanům v Preichau](../2026-11-27-doklady/README.md).
+
+*Níže je zachycen stav při předchozí kontrole.*
+
 ## Josef Emanuel a Maximilián
 
 V oddací knize **D 218 katolické kolegiáty Panny Marie ve Velkém Hlohově** se při kontrole let **1736 až 23. ledna 1750** nenašel sňatek Maximiliána Gillera. Střed úseku od roku 1744 vychází ze starší četby v deníku č. 650. Nyní byly překontrolovány krajní listy a doplněna dříve vynechaná pravá s. 46. Mezi posledním sňatkem roku 1749 a prvním sňatkem roku 1750 není zápis, který by se vešel před křest Maximiliánovy dcery v Boru. Tím se uzavírá jedno přesně vymezené místo hledání jeho svatby. [Přechod do r. 1750 a oba snímky](hlohov-snatky/README.md) · [Oddavky 1736–1743](../2026-11-27-hlohov-kuncice/hlohov/prave.md)

@@ -2,6 +2,8 @@
 
 Stav k 27. listopadu 2026. První prioritu mají Josef Emanuel, jeho otec Maximilián a rodina před příchodem do Boru. Druhou prioritou je prodloužení přímé linie před Heinricha Christofa a určení roku narození jeho i jeho syna Johanna Christofa.
 
+[Dokončená četba D 213 a D 214, městská farnost sv. Mikuláše a nové prameny ke kunčické rychtě a hejtmanům v Preichau](../2026-11-27-doklady/README.md).
+
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](../2026-11-27-navazani/README.md).
 
 [Dva dědické spisy se jmény Maximiliánových příbuzných, kontrola kartonu 37 a původní zápis Josefovy svatby](../2026-11-27-prime-doklady/README.md)

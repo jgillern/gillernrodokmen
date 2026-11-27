@@ -3,6 +3,8 @@
 Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsledek vždy s rozsahem (které roky, které snímky).
 „snímek“ = pořadové číslo skenu na portálu archivu.
 
+[Dokončená četba D 213 a D 214, městská farnost sv. Mikuláše a nové prameny ke kunčické rychtě a hejtmanům v Preichau](badani/2026-11-27-doklady/README.md).
+
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
 **27. 11. 2026 · Gillernové, č. 958–962.** [Kart. 37 v obou katalozích, poděbradské ohlášky, slezské doklady a dva jmenné rejstříky dvorské komory](badani/2026-11-27-prime-doklady/README.md). [Dědictví po strýci Karlu z Rache a sestře Filipíně, vyhláška hlohovského soudu z roku 1777 a nová četba svědkyně křtu 9. 2. 1781](badani/2026-11-27-prime-doklady/dedictvi/README.md).

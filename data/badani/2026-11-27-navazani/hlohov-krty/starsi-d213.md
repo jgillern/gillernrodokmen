@@ -1,5 +1,9 @@
 # Hlohov, kolegiáta Panny Marie · křty D213, 1737–1738
 
+[Pravá řada byla mezitím dočtena, včetně posledního chybějícího listu](../../2026-11-27-doklady/hlohov-d213/README.md).
+
+*Níže je zachycen stav při předchozí kontrole.*
+
 V levé řadě DGS **008244787** jsou po doplnění snímků 233, 236–239 a 241 přečtené souvisle **snímky 226–241** (D213, 0225–0240 links), tedy od nástupu hledaného období **13. června 1737** přes **12. června 1738**. V levé řadě se Josef Giller ani křest dítěte Maximiliána a Johanny neobjevil. Jména a odkazy dříve přečtených levých stran 226–232, 234–235 a 240 uvádí [první obrazová kontrola](../../2026-11-27-hlohov-kuncice/hlohov/krty-1737-1738.md).
 
 | Doplněný snímek | Štítek na filmu | Viditelné kotvy a jména |

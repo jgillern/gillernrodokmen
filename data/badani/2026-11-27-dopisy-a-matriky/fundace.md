@@ -1,0 +1,17 @@
+# Velký Hlohov, sv. Mikuláš. Stav četby D 227 a fundace Rache–Güller
+
+## Křty 13. června 1737 až 12. června 1738
+
+Hledáme křest Josefa Emanuela, syna Maximiliána Josefa Emanuela Gillera. Jméno Josefovy matky zůstává otevřené. Předchozí kontrola katalogu určila řádek „Taufen 1736–1757 (r. & l. S.)“, mikrofilm 1202248, DGS 007993891. Z originálu je pro starší období doložena signatura D 227. [Katalog 8753](https://www.familysearch.org/en/search/catalog/8753) · [Předchozí katalogová kontrola](https://github.com/jgillern/gillernrodokmen/blob/5622ea05b125bd636e87bb2e7be9b14e9a1242e0/data/badani/2026-11-27-doklady/mesto/README.md)
+
+Při této kontrole zobrazil FamilySearch u snímku 31 prázdný prohlížeč a hlášení „Please try again in a moment or refresh the page“. Nová četba proto nepřibyla. V předchozím protokolu jsou zachyceny pravé snímky 31–32 a kontrolní body vlevo 282, 286 a 307. Navazující souvislá četba pravých stran může začít snímkem 33, vlevo snímky 283–285 a poté 287–306. Zbývá ověřit i pokračování červnové strany z roku 1738 u konce intervalu. [Snímek 31](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS64-K6NQ?lang=en&i=30&cc=4110912&groupId=4110912) · [Předchozí obrazová četba](https://github.com/jgillern/gillernrodokmen/blob/5622ea05b125bd636e87bb2e7be9b14e9a1242e0/data/badani/2026-11-27-nove-prameny/mikulas-1737/cteni.md)
+
+## Online fond stejné farnosti v Archiwum Państwowe w Zielonej Górze
+
+Ve fondu 89/92 jsou dochovány účty vedené pod společným jménem Rache–Güller i účty vedené pod samotným jménem Rache. Obě účetní označení dokládá už inventář pro rok 1837, jednotky 674 a 675. V jednotce 675 jsem prohlédl obálku a účetní snímky 2–4. Z těchto listů se nepodařilo určit zakladatele, datum založení ani příbuzenskou vazbu. [Inventář účtů](https://www.szukajwarchiwach.gov.pl/de/seria?_Seria_cur=4&_Seria_delta=100&_Seria_id_serii=328332&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&p_p_id=Seria&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal) · [Společný účet za 1837, jednotka 675](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/6659487)
+
+- **89/92/0/1.3/142, svazek IV.** Snímek 1 ověřuje archivní původ, snímek 2 tvoří původní obálka a snímky 3–4 obsahují korespondenci z roku 1881 k účetní agendě fundace. [Svazek IV](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/6658868)
+- **89/92/0/1.3/138, oltářní rejstřík 1830–1843.** Titulní list a jmenný obsah jsou dostupné na snímcích 3–5. Rejstřík je vodítko k účelu fundací a jejich účastníkům. Konkrétní zápis k Rache či Güllerovi v něm zatím není ověřen. [Oltářní rejstřík](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/6658863)
+- **89/92/0/3.3/404, farní účet 1737–1738.** Inventář eviduje 36 snímků účetní knihy ze stejného období a farnosti. V této kontrole ověřen v inventáři. [Inventář farních účtů](https://www.szukajwarchiwach.gov.pl/de/seria?_Seria_delta=60&_Seria_id_serii=334592&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&p_p_id=Seria&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal) · [Jednotka 404](https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/6659216)
+
+Archiv dále zpřístupňuje spory syndika Georga Antona Rache s městskou radou. U nejmladší z dohledaných jednotek (1725–1733) inventář uvádí finanční záležitosti, 257 snímků a digitalizaci celé jednotky. Rodinné údaje v ní dosud nebyly ověřeny. [89/1289/0/1.8/63](https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/6800689)

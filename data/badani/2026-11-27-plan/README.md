@@ -40,3 +40,5 @@ V městské knize Nymburk 03 je **18. 3. 1738** pokřtěn František Josef, syn 
 [Nymburk před lednem 1750 a kunčický soupis z 9. srpna 1749, který výslovně spojuje původní Gillerovu a pozdější Heinrichovu usedlost](../2026-11-27-pozdeji/README.md)
 
 [Kunčická dcera Anna Justina a její manžel na rychtě 1701–1704, pohřeb bývalého rychtáře a cílená kontrola hlohovských oddavek a křtů](../2026-11-27-hlohov-kuncice/README.md)
+
+[Nové stopy z biskupské korespondence ke Kunčicím, vložené křty v Hlohově a pohřeb Georga Antona z Rache](../2026-11-27-dopisy-a-matriky/README.md)

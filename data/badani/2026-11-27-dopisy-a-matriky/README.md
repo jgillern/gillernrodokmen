@@ -1,0 +1,15 @@
+# Josefův původ a Gill(er)ové u Kunčic v biskupské korespondenci
+
+## Josef Emanuel a Maximilián
+
+V katolické křestní knize sv. Mikuláše ve Velkém Hlohově **D 228** jsme pro Josefovo pozdější možné narození dočetli další vložku a levé strany. Přečtená vložka jmenuje děti Friedrichových. Levé zápisy rovněž neuvádějí hledaného Josefa ani Maximiliána. Jeden z přečtených křtů a celou vložku jmenný index nepokrývá. Obě obrazové řady předchozího svazku D 227 končí roku 1744. Konkrétní mez ke kontrole v D 228 tvoří **pět vložek u pravé strany 8**, které se nepodařilo zobrazit. Tyto výsledky zpřesňují, kam se při ověřování mladšího věkového údaje ještě vrátit. [Rozsah četby a jednotlivé snímky](mikulas-1746.md)
+
+**Vazba Racheových.** Dohledali jsme dobový pohřeb Georga Antona Ignatze von Rache z **3. září 1741**. Zápis identifikuje hlohovského syndika z křtu roku 1737, kdy Franz Ludwig von Rache zastoupil Maximiliánova otce. Karlova soudní vyhláška dokládá, že Georg Anton byl jeho otec. Pohřeb k tomu nepřidává další příbuzné. Proto má z této rodinné stopy přednost pramen, který by jmenoval **Karla a konkrétní Gillerovy příbuzné**. Ověřené účty společné nadace z 19. století potvrzují její název, jména zakladatelů však prohlédnuté listy nemají. [Pohřeb s výřezem a meze četby pro Karla](rache.md) · [Kontrola hlohovských fundačních knih](fundace.md) · [Dřívější křest se zástupcem Gillera](../2026-11-27-nove-prameny/mikulas-1737/cteni.md)
+
+## Heinrich Christof a Hořejší Kunčice
+
+**Johann Ernst Gieller byl 10. listopadu 1668 doložen v Karlovci na témže panství jako Hořejší Kunčice.** Poslal odtud dopis purkmistrovi Budišova nad Budišovkou. Edice ho vede jako rodáka z Kunčic. Dopis zasazuje dalšího nositele jména do konkrétního okolí a spolu s dřívějšími univerzitními zápisy Jana a Kryštofa dává Hořejším Kunčicím přednost před jinými stejnojmennými obcemi. Jména otců ani totožnost muže s Janem z univerzity edice nepotvrzuje. U **Christopha Giellera** označuje datum a místo odeslání jiného listu **24. srpna 1671 v Holasovicích**. K jeho odlišení od pozdějšího kunčického rychtáře máme přesně určenou farnost a pozemkovou knihu. [Odkazy přímo na stránky edice a vyhodnocení pramenů](korespondence.md) · [Pátrání po Johannu Ernstovi v Prešově](johann-ernst-1690.md)
+
+**Rychta v roce 1664.** Kontrola stejného urbárního výtahu z Rejchartic ukázala, že Novotný tam zapsal staršího rychtáře, jehož nezávislý přepis klade do roku 1664, ačkoli originál z roku 1678 už jmenuje jiného. To zvyšuje váhu staršího výpisu i pro Kunčice. K potvrzení, zda předloha z roku 1664 skutečně jmenovala Christofa a kdo dostal pozemky v roce 1659, stále chybí přímé porovnání s originálem nebo dobovým opisem. [Oba srovnávací prameny a signatury](rychta.md)
+
+FamilySearch byl po opakovaném odmítnutí přístupu dočasně vynechán. U všech zápisů je uvedeno, které obrazy se podařilo přečíst. V biskupské korespondenci byl k dispozici podrobný vydaný katalog s přepisem jmen a přípisků. Znění samotných dopisů bez zobrazeného originálu zůstává otevřené.

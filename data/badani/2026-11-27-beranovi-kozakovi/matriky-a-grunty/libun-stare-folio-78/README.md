@@ -18,3 +18,5 @@ Foliace skáče kvůli vloženým či nečíslovaným listům. Snímek 81 ukáza
 Odkaz z čp. 32 a rejstřík bezpečně spojují Václava Kozáka s tímto blokem. Přímou větu o jeho otci jsem v prověřených pasážích nevyčetl.
 
 Soupis poddaných roku 1783 přidává samostatnou rodinnou vazbu. V Libuni žije Matěj Kozák (47), s manželkou Terezií (44) a dětmi včetně Václava (10) a France (8). U této rodiny výtah neuvádí domovní číslo. Kombinace věku, vesnice, obou křestních jmen a hospodářů na témže foliu podporuje návaznost Dorotiny rodiny na Václava z čp. 32. Ve svatební matrice roku 1793 je však jako syn Matěje z čp. 32 uveden Jan. [Soupis z roku 1783](../../libun-kneznice-1783.md) · [Oddavky 1793](../../libun-kozak-brunclik-1793-1800.md) · [Pozůstalost Václava z téhož domu](../libun-grunt-32/README.md)
+
+Pro ověření narození mladšího Matěje je určena matrika Libuň, sign. 4962, křty z let 1680–1763. [Rozsah cílené kontroly let 1734–1738](krest-matej.md)

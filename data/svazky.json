@@ -1296,5 +1296,40 @@
   "svazek": "Velkostatek Semily–Jesenný, NAD 2082, inv. 72, OS Semily 12",
   "popis": "Gruntovní kniha Bozkov. Zápis z roku 1787 a chalupa čp. 130 roku 1794.",
   "url": "https://digi.soalitomerice.cz/digitalnibadatelna/permalink?xid=D1CBFDF4217911E593DD0025B317E383&scan=abfdfc6b20254628bdd9889b848c6458"
+ },
+ "bozkov_n_4856": {
+  "archiv": "Státní oblastní archiv v Hradci Králové, Sbírka matrik Východočeského kraje",
+  "portal": "Matriky.online",
+  "svazek": "Bozkov 4856 (1784–1801)",
+  "popis": "Římskokatolická matrika, narození.",
+  "url": "https://matriky.online/zamrsk/000-04856/51/"
+ },
+ "libun_n_4964": {
+  "archiv": "Státní oblastní archiv v Hradci Králové, Sbírka matrik Východočeského kraje",
+  "portal": "Matriky.online",
+  "svazek": "Libuň 4964 (1788–1801)",
+  "popis": "Římskokatolická matrika, narození.",
+  "url": "https://matriky.online/zamrsk/000-04964/13/"
+ },
+ "libun_z_4972": {
+  "archiv": "Státní oblastní archiv v Hradci Králové, Sbírka matrik Východočeského kraje",
+  "portal": "Matriky.online",
+  "svazek": "Libuň 4972 (1790–1846)",
+  "popis": "Římskokatolická matrika, zemřelí.",
+  "url": "https://matriky.online/zamrsk/000-04972/5/"
+ },
+ "vs_navarov_inv17": {
+  "archiv": "SOA v Litoměřicích, pracoviště Děčín",
+  "portal": "Digitální badatelna",
+  "svazek": "Velkostatek Navarov, inv. 17, OS Železný Brod 3383",
+  "popis": "Gruntovní kniha, 1607–1625.",
+  "url": "https://digi.soalitomerice.cz/digitalnibadatelna/permalink?xid=722F1593D39A11E4A6790025B317E383&scan=db9a12d0e7104f7e8af481f2ebbc82f1"
+ },
+ "belec_skica_1829": {
+  "archiv": "Národní archiv, Indikační skici stabilního katastru",
+  "portal": "Archiv ČÚZK",
+  "svazek": "Běleč u Mladé Vožice (Bieltsch), TAB045018290",
+  "popis": "Bzová, detail vsi na listech A11A a A12A.",
+  "url": "https://ags.cuzk.cz/archiv/openmap.html?typ=skicic&idrastru=TAB045018290&extent=800,-32950,1800,-31900&link=ext"
  }
 }

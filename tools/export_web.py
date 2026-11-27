@@ -48,7 +48,7 @@ def load_people():
 def record_rows():
     svazky = jload("svazky.json", {})
     rows = []
-    for z in jload("zaznamy.json", []):
+    for z in jload("zaznamy.json", []) + jload("zaznamy_historicke.json", []):
         sv = svazky.get(z.get("svazek", ""), {})
         key = z["klic"]
         rows.append(dict(
@@ -322,7 +322,7 @@ def main():
         for r in p["records"] + [r for e in p["side"] for r in e["records"]]:
             refs.setdefault(r, []).append(s)
     hl = jload("zvyrazneni.json", {})
-    prep = jload("prepisy.json", {})
+    prep = {**jload("prepisy.json", {}), **jload("prepisy_historicke.json", {})}
     records = []
     for key, r in recs.items():
         r = dict(r)

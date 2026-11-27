@@ -1,5 +1,7 @@
 # Beranovi a Kozákovi • 27. listopadu 2026
 
+**Nové matriční doklady:** rodiče Anny Čmuchálkové, dva Václavové Kozákovi narození v Libuni čp. 32 a František Svátek ve Bzové roku 1829. [Prvopisy a výřezy](matriky-a-grunty/README.md)
+
 **Další ověřené prameny.** V Bozkově se podařilo přečíst původní převod od Jana Auhrábky synu Václavovi roku 1787 i zápis o Josefově chalupě z roku 1794. Indikační skica přidává ke stejným domům Josefa Čmuchálka a Jana Bělku. V Jeníkově byl roku 1838 přímo doložen Josef Slunečka z čp. 17. Dražební vyhláška z roku 1931 určuje vložku 26 rodinného domu v Bukové. [Výsledky všech linií, odkazy a výřezy](dalsi/README.md).
 
 **Jiřetice na straně Slunečkových.** Dne **19. 3. 1795** byla v Jiřeticích čp. 14 zapsána **Marie Magdalena Daublová**, dcera sedláka Františka a Marie Magdaleny, dcery Jakuba Římla z Neustupova a Anny. Obě ženy měly dvě jména. To vysvětluje střídání Marie a Magdaleny v obou generacích u Slunečkových v Jeníkově čp. 17. Nevěsta Josefa Slunečky roku 1817 pocházela z čp. 14 a byla dcerou stejnojmenného otce. Věk je ve sňatku 20 místo 22 let a pozdější zápisy potomků uvádějí též čp. 8 a 12. V čp. 8 žila jiná rodina a tamní Magdalena měla za matku Alžbětu Křížkovou. [Křest 1795, svatba 1817 a porovnání rodin](navazani/jiretice/README.md).

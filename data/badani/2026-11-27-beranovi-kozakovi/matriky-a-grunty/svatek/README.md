@@ -1,0 +1,5 @@
+# Bzová u Bělče, sčítání 1869 a Svátkovi z čp. 1
+
+SOkA Tábor má v DigiArchivu samostatnou digitalizovanou jednotku **Bzová 1869, inv. č. 4450, fascikl 60**, v tehdejší sčítací obci **Běleč**, soudní okres **Mladá Vožice**. Karta Bělče jmenuje Bzovou jako samostatnou podřízenou položku. Na kartě Bzové jsou záložky Náhledy a Zobrazení. Před obrazem se zobrazilo nové potvrzení podmínek použití. Domovní arch čp. 1 ani jeho osoby zatím nebyly přečteny. [Bzová 1869](https://digi.ceskearchivy.cz/DA?id=631051) · [Nadřazená sčítací obec Běleč](https://digi.ceskearchivy.cz/Census-SDA-Tabor-1869-Judicial-District-Mlada-Vozice-B-Belec)
+
+**Šebířov 12**, D 1784–1887, SOA Třeboň, Sbírka matrik Jihočeského kraje, NAD 24, inv. č. 5511, je obrazově dostupný a původní snímek 28 se úspěšně zobrazil. Nese číslo 25 v jiném, šebířovském místním oddílu. Popis knihy výslovně zahrnuje Bzovou, ale nepřiřazuje místní oddíly k číslům snímků. Františkovo domnělé úmrtí roku 1866 z tohoto snímku ověřit nelze. [Šebířov 12, sn. 28](https://digi.ceskearchivy.cz/7780/28)

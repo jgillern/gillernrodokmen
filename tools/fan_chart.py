@@ -200,8 +200,12 @@ for k in slots:
 # statistics
 known = [k for k in VLASTNI if k > 1 and not P[k]["n"].startswith("otec neuveden")]
 doc = [k for k in known if P[k].get("st") == "doc"]
-zpath = os.path.join(ROOT, "data", "zaznamy.json")
-recs = json.load(open(zpath, encoding="utf-8-sig")) if os.path.exists(zpath) else []
+recs = []
+for source in ("zaznamy.json", "zaznamy_historicke.json"):
+    zpath = os.path.join(ROOT, "data", source)
+    if os.path.exists(zpath):
+        with open(zpath, encoding="utf-8-sig") as f:
+            recs.extend(json.load(f))
 maxg = max(gen(k) for k in P)
 
 title = (f'<text x="{W / 2}" y="250" text-anchor="middle" font-family="Georgia, \'Times New Roman\', serif" font-size="128" fill="#3B2E22">{html.escape(WEBCFG.get("nazev", "Rodokmen"))}</text>'

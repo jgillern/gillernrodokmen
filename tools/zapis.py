@@ -4,7 +4,7 @@
 
 Použití (z kořene projektu):
   zapis.py <soubor> <klíč> <vstup.json> [--sloucit | --prepsat]
-    soubor     zaznamy | svazky | prepisy | zvyrazneni | mista | dokumenty   (= data/<soubor>.json)
+    soubor     zaznamy | zaznamy_historicke | svazky | prepisy | prepisy_historicke | zvyrazneni | mista | dokumenty   (= data/<soubor>.json)
     klíč       zaznamy: „klic“ zápisu; dokumenty: „img“; ostatní: klíč ve slovníku (id svazku, klíč zápisu, obec)
     vstup.json soubor s jedním objektem JSON (napiš ho nástrojem Write do pracovni/), „-“ = ze vstupu
     --sloucit  jen změní / doplní uvedená pole, ostatní pole položky nechá
@@ -24,8 +24,8 @@ if hasattr(sys.stdin, "reconfigure"):   # vstup „-“ (roura, heredoc) je UTF-
     sys.stdin.reconfigure(encoding="utf-8-sig")
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SEZNAMY = {"zaznamy": "klic", "dokumenty": "img"}   # soubory se seznamem: pole, podle kterého se položka pozná
-SLOVNIKY = {"svazky", "prepisy", "zvyrazneni", "mista"}
+SEZNAMY = {"zaznamy": "klic", "zaznamy_historicke": "klic", "dokumenty": "img"}   # soubory se seznamem: pole, podle kterého se položka pozná
+SLOVNIKY = {"svazky", "prepisy", "prepisy_historicke", "zvyrazneni", "mista"}
 WS = re.compile(r"\s*")
 
 
@@ -81,7 +81,13 @@ def odkaz(osoba, klice):
     except Exception as e:
         sys.exit(f"data/osoby.py nejde načíst ({e}) – oprav ho nejdřív (git diff ukáže poslední změnu).")
     try:
-        zaznamy = {z.get("klic") for z in json.load(open(os.path.join(ROOT, "data", "zaznamy.json"), encoding="utf-8-sig"))}
+        zaznamy = set()
+        for source in ("zaznamy", "zaznamy_historicke"):
+            catalog_path = os.path.join(ROOT, "data", source + ".json")
+            if source == "zaznamy_historicke" and not os.path.exists(catalog_path):
+                continue
+            with open(catalog_path, encoding="utf-8-sig") as f:
+                zaznamy.update(z.get("klic") for z in json.load(f))
     except (OSError, ValueError) as e:
         sys.exit(f"data/zaznamy.json nejde přečíst ({e}).")
     chybi = [k for k in klice if k not in zaznamy]
@@ -182,6 +188,16 @@ def main():
     if len(args) != 3 or args[0] not in {*SEZNAMY, *SLOVNIKY}:
         sys.exit(__doc__)
     nazev, klic, vstup = args
+    base_name = nazev.removesuffix("_historicke")
+    if base_name in ("zaznamy", "prepisy"):
+        other = base_name if nazev != base_name else base_name + "_historicke"
+        other_path = os.path.join(ROOT, "data", other + ".json")
+        if os.path.exists(other_path):
+            with open(other_path, encoding="utf-8-sig") as f:
+                items = json.load(f)
+            keys = (item["klic"] for item in items) if nazev in SEZNAMY else items
+            if klic in keys:
+                nazev = other
     path = os.path.join(ROOT, "data", nazev + ".json")
     try:
         obj = json.load(sys.stdin if vstup == "-" else open(vstup, encoding="utf-8-sig"))

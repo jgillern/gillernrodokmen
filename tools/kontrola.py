@@ -39,8 +39,12 @@ def main():
     except Exception as e:  # noqa: BLE001
         sys.exit(f"CHYBA: data/osoby.py nejde načíst: {e}")
     P, SIDE, LINES, SAME = ns.get("P", {}), ns.get("SIDE", []), ns.get("LINES", {}), ns.get("SAME", {})
-    zaz = jload("zaznamy.json", [])
+    zaz = jload("zaznamy.json", []) + jload("zaznamy_historicke.json", [])
     svazky, prep, hl = jload("svazky.json", {}), jload("prepisy.json", {}), jload("zvyrazneni.json", {})
+    historical = jload("prepisy_historicke.json", {})
+    if prep.keys() & historical.keys():
+        err.append("Tentýž přepis je v hlavním i historickém katalogu.")
+    prep.update(historical)
     keys = [z.get("klic") for z in zaz]
     dup = {k for k in keys if keys.count(k) > 1}
     if dup:
@@ -97,7 +101,7 @@ def main():
                                        and all(isinstance(y, str) for y in x))):
             err.append(f"ISSUES[{i}]: má být text, nebo dvojice (\"Otázka\", \"Stav…\"), ne {type(x).__name__} "
                        f"{str(x)[:60]} – export webu by na tom spadl")
-    for k, t in jload("prepisy.json", {}).items():
+    for k, t in prep.items():
         if not isinstance(t, dict):
             err.append(f"prepisy.json „{k}“: má být {{\"orig\": …, \"cs\": …}}")
             continue

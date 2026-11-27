@@ -1,0 +1,7 @@
+# František Svátek v Bzové čp. 1 roku 1829
+
+Na indikační skice **Bělče u Mladé Vožice z roku 1829**, v samostatném detailu vsi Bzová, leží severně od návsi usedlost označená červeným **1** a černým **74**. V sousedící zelené zahradě s parcelním číslem **737** je nápis **„N. 1. Swatek Franz“**. Skica tak dokládá Františka Svátka a čp. 1 už roku 1829. Nápis „Bzowa“ na navazujícím listu A12A potvrzuje identitu osady. Katastrální celek je veden jako **Bieltsch**, signatura **TAB045018290**. [Archiv ČÚZK, Běleč 1829, detail čp. 1](https://ags.cuzk.cz/archiv/openmap.html?typ=skicic&idrastru=TAB045018290&extent=800,-32950,1800,-31900&link=ext) · [Čp. 1, st. 74 a zahrada 737](bzova-1829-cp1-st74.jpg) · [Jméno v zahradě](bzova-1829-franz-swatek.jpg) · [Název osady](bzova-1829-nazev.jpg)
+
+Týž list **A11A** umožňuje rozlišit další domácnosti. V polích **950 a 951** čtu „N. 4 Swatek Johann“ a „N. 2 Swatek Johann“. V Bzové je proto při hledání Svátkových rozhodující číslo domu. Údaj o příbuznosti těchto držitelů na mapě není. [Jmenné poznámky u polí](bzova-1829-johann-cp2-cp4.jpg)
+
+Křest z roku 1893 jmenuje otce krejčího Jana Svátka jako Františka ze Bzové čp. 1. Šebířovský rejstřík pod týmž jménem a číslem uvádí úmrtí roku 1866. Mapa přidává nejstarší dosud nalezený výskyt této kombinace. František zaznamenaný v roce 1829 mohl být stejný muž nebo starší stejnojmenný držitel. Jeho věk a vztah k Janovi musí rozhodnout matrika nebo sčítání. [Rejstřík a matriční doklad k Janovi](../../navazani/svatek/README.md)

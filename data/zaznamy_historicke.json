@@ -1,0 +1,57 @@
+[
+ {
+  "klic": "n_1799_auhrabka_vaclav",
+  "druh": "N",
+  "datum": "21. 9. 1799",
+  "nazev": "Václav Auhrabka, Bozkov čp. 59",
+  "shrnuti": "Otec Václav Auhrabka je poloviční sedlák, matka Anna je dcera Václava Čmuchálka, sedláka z Bozkova čp. 58, a Kateřiny Dolenské z Bozkova.",
+  "svazek": "bozkov_n_4856",
+  "strana": "s. 46, sn. 51, třetí zápis",
+  "odkaz": "https://matriky.online/zamrsk/000-04856/51/",
+  "pozn": "Stejný rodičovský pár a stejná dvě čísla jsou ve křtu Františka Kozáka v Želejově roku 1843 u jeho matky Františky Auhrábkové. Tím je doložen její bratr a další generace po matce."
+ },
+ {
+  "klic": "n_1794_kozak_vaclav_libun",
+  "druh": "N",
+  "datum": "22. 2. 1794",
+  "nazev": "První Václav Kozák v Libuni čp. 32",
+  "shrnuti": "Pokřtěn 23. února, rodiče Václav Kozák, sedlák z Libuně, a Anna Brunclíková z Kněžnic.",
+  "svazek": "libun_n_4964",
+  "strana": "s. 11, sn. 13, první zápis pod rokem 1794",
+  "odkaz": "https://matriky.online/zamrsk/000-04964/13/",
+  "pozn": "Dítě zemřelo v březnu. Týmž rodičům se v čp. 32 narodil další Václav dne 10. 4. 1800. Při svatbě s Annou roku 1793 je ženich zapsán jako Jan."
+ },
+ {
+  "klic": "z_1794_kozak_vaclav_libun",
+  "druh": "Z",
+  "datum": "3. 3. 1794",
+  "nazev": "Úmrtí prvního Václava Kozáka, Libuň čp. 32",
+  "shrnuti": "Pohřben 5. března ve věku 10 dnů. Matrika jej označuje za syna sedláka Václava Kozáka.",
+  "svazek": "libun_z_4972",
+  "strana": "s. 3, sn. 5, nahoře vpravo",
+  "odkaz": "https://matriky.online/zamrsk/000-04972/5/",
+  "pozn": "Úmrtí rozlišuje dva stejnojmenné syny, narozené v letech 1794 a 1800."
+ },
+ {
+  "klic": "j_1617_bozkov_cmuchalek",
+  "druh": "J",
+  "datum": "1617",
+  "nazev": "Dohoda dětí zemřelého Martina Čmuchálka z Bozkova",
+  "shrnuti": "Smlouva o vypořádání dědictví jmenuje Jana. Ve výplatách jsou Václav a Magdaléna označeni za bratra a sestru. Zmíněna je také Lidmila se svým manželem.",
+  "svazek": "vs_navarov_inv17",
+  "strana": "sn. 180, vpravo",
+  "odkaz": "https://digi.soalitomerice.cz/digitalnibadatelna/permalink?xid=722F1593D39A11E4A6790025B317E383&scan=db9a12d0e7104f7e8af481f2ebbc82f1",
+  "pozn": "Spojení s Annou Čmuchálkovou z čp. 58 z 18. století zatím chybí."
+ },
+ {
+  "klic": "j_1829_bzova_svatek_franz",
+  "druh": "J",
+  "datum": "1829",
+  "nazev": "František Svátek u čp. 1 v Bzové",
+  "shrnuti": "Na zahradě 737 u usedlosti čp. 1 na st. 74 je přímo poznámka o držiteli „N. 1 Swatek Franz“.",
+  "svazek": "belec_skica_1829",
+  "strana": "A11A, zahrada 737 a sousední st. 74",
+  "odkaz": "https://ags.cuzk.cz/archiv/openmap.html?typ=skicic&idrastru=TAB045018290&extent=800,-32950,1800,-31900&link=ext",
+  "pozn": "V rejstříku zemřelých k roku 1866 je stejné jméno a číslo. Mapa sama nerozliší, zda později dům držel mladší František."
+ }
+]

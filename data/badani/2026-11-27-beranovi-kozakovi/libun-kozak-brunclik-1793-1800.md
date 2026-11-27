@@ -1,5 +1,7 @@
 # Doložený sňatek Kozák × Brunclíková v Libuni čp. 32
 
+**Doplněno po nalezení dvou prvopisů:** křest syna Václava v témže domě **22. 2. 1794** a jeho úmrtí **3. 3. 1794** jmenují otce shodně Václav. [Zápisy a vztah k dítěti z roku 1800](matriky-a-grunty/libun/vaclav-1794.md)
+
 **Dne 10. února 1793 byli oddáni Jan Kozák z Libuně čp. 32 a Anna, dcera Václava Brunclíka z Kněžnic čp. 24.** Jde o přímý matrikový důkaz spojení obou rodin, včetně otců a domovních čísel. Sňatek jmenuje ženicha **Johann** (Jan). Křest Františka Kozáka z roku 1843 uvádí děda **Václava** Kozáka z Libuně čp. 32 a jeho ženu Annu Brunclíkovou z Kněžnic **čp. 69**. Totožnost dvojic tak vyžaduje další zápis.
 
 | Datum a lokátor | Přečtený zápis |

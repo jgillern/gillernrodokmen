@@ -3922,5 +3922,53 @@
   ],
   "status": "ok",
   "note": "Čitelný levý okraj se jmény obou snoubenců. Samostatný pravý okraj se svědky je v badatelské zprávě."
+ },
+ "n_1781_podebrady_vaclav_filipina": {
+  "boxes": [
+   [
+    0.575,
+    0.005,
+    0.724,
+    0.855
+   ]
+  ],
+  "status": "ok",
+  "note": "Svědkyně Filipína a výslovné označení otce v rubrice svědků."
+ },
+ "j_1777_hlohov_vyhlaska_rache": {
+  "boxes": [
+   [
+    0.009,
+    0.195,
+    0.99,
+    0.6
+   ]
+  ],
+  "status": "ok",
+  "note": "Jméno zesnulého, vymezení dědiců a otcovo jméno."
+ },
+ "j_1778_maximilian_dedictvi_rache": {
+  "boxes": [
+   [
+    0.344,
+    0.315,
+    0.997,
+    0.51
+   ]
+  ],
+  "status": "ok",
+  "note": "Archivní popis žádosti, vztah strýc a částka 2 400 zlatých."
+ },
+ "j_1783_maximilian_dedictvi_filipina": {
+  "boxes": [
+   [
+    0.344,
+    0.315,
+    0.997,
+    0.48
+   ]
+  ],
+  "status": "ok",
+  "note": "Archivní popis žádosti, vztah sestra a částka 1 000 rýnských tolarů."
  }
 }

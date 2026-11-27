@@ -1,0 +1,102 @@
+[
+  {
+    "zapis": {
+      "klic": "j_1778_maximilian_dedictvi_rache",
+      "druh": "J",
+      "datum": "1778",
+      "nazev": "Maximiliánovo dědictví po strýci Karlu z Rache",
+      "shrnuti": "Vrchní lesník poděbradského a kolínského panství Maximilián z Gillern žádá o převod 2 400 zlatých do Čech. Částku zdědil po strýci Karlu z Rache, advokátu vrchního úřadu ve Velkém Hlohově.",
+      "svazek": "na_ceska_financni_prokuratura_1199",
+      "strana": "Inv. č. 1199, sign. 6/232/1, karton 262",
+      "odkaz": "https://digitalnibadatelna.nacr.cz/proarchiv_vade/entityDetail/ad585e3b446e46b78f04979103231155",
+      "pozn": "Podle jmenovitého českého archivního popisu. Vlastní spis a jeho přílohy jsme nečetli. Rok označuje žádost. Strana rodiny a přesná příbuzenská cesta zůstávají otevřené."
+    },
+    "pramen": {
+      "archiv": "Národní archiv, Česká finanční prokuratura Praha, NAD 877",
+      "portal": "Digitální badatelna Národního archivu",
+      "svazek": "Inv. č. 1199, kartony 262 a 263",
+      "popis": "Dvě samostatně popsané žádosti o převod slezského dědictví do Čech z let 1778 a 1783. Četli jsme úřední archivní popisy. Obraz originálních spisů není na těchto kartách dostupný.",
+      "url": "https://digitalnibadatelna.nacr.cz/proarchiv_vade/entityDetail/ad585e3b446e46b78f04979103231155"
+    },
+    "prepis": {
+      "orig": "Archivní popis v češtině. Originální spis dosud nepřečten.",
+      "cs": "Vrchní lesník poděbradského a kolínského panství Maximilián z Gillern žádá o převod 2 400 zlatých do Čech. Částku zdědil po strýci Karlu z Rache, advokátu vrchního úřadu ve Velkém Hlohově."
+    },
+    "vyrez": "../../../../vyrezy/j_1778_maximilian_dedictvi_rache.jpg"
+  },
+  {
+    "zapis": {
+      "klic": "j_1783_maximilian_dedictvi_filipina",
+      "druh": "J",
+      "datum": "1783",
+      "nazev": "Maximiliánovo dědictví po sestře Filipíně z Gillern ve Vratislavi",
+      "shrnuti": "Maximilián z Gillern, c. k. vrchní lesmistr brandýského panství, chce do Čech převést 1 000 rýnských tolarů z pozůstalosti své sestry Filipíny z Gillern ve Vratislavi.",
+      "svazek": "na_ceska_financni_prokuratura_1199",
+      "strana": "Inv. č. 1199, sign. 6/284/1, karton 263",
+      "odkaz": "https://digitalnibadatelna.nacr.cz/proarchiv_vade/entityDetail/2ba72966cde24890850b1396f712580e",
+      "pozn": "Podle jmenovitého archivního popisu. Vlastní spis a jeho přílohy jsme nečetli. Přesné datum úmrtí, rodiče a věk sestry v popisu chybějí."
+    },
+    "pramen": {
+      "archiv": "Národní archiv, Česká finanční prokuratura Praha, NAD 877",
+      "portal": "Digitální badatelna Národního archivu",
+      "svazek": "Inv. č. 1199, kartony 262 a 263",
+      "popis": "Dvě samostatně popsané žádosti o převod slezského dědictví do Čech z let 1778 a 1783. Četli jsme úřední archivní popisy. Obraz originálních spisů není na těchto kartách dostupný.",
+      "url": "https://digitalnibadatelna.nacr.cz/proarchiv_vade/entityDetail/ad585e3b446e46b78f04979103231155"
+    },
+    "prepis": {
+      "orig": "Archivní popis v češtině. Originální spis dosud nepřečten.",
+      "cs": "Maximilián z Gillern, c. k. vrchní lesmistr brandýského panství, chce do Čech převést 1 000 rýnských tolarů z pozůstalosti své sestry Filipíny z Gillern ve Vratislavi."
+    },
+    "vyrez": "../../../../vyrezy/j_1783_maximilian_dedictvi_filipina.jpg"
+  },
+  {
+    "zapis": {
+      "klic": "j_1777_hlohov_vyhlaska_rache",
+      "druh": "J",
+      "datum": "28. 11. 1777",
+      "nazev": "Výzva dědicům hlohovského advokáta Karla von Rache",
+      "shrnuti": "Úřední vyhláška jmenuje zesnulého Karla von Rache a jeho otce Georga Antona, někdejšího hlohovského úředního advokáta a zemského syndika. Mezi dědice patřili sourozenci otce a jejich potomci. Soud nařídil jednání na 20. 2. 1778.",
+      "svazek": "tisk_schlesische_privilegirte_zeitung_1778_12",
+      "strana": "s. 110, šestý obraz, druhý odstavec",
+      "odkaz": "https://bibliotekacyfrowa.pl/Content/45652/PDF/directory.pdf#page=6",
+      "pozn": "Výzva datovaná v Hlohově 28. 11. 1777, zde přetisk z 28. 1. 1778. Maximiliánovo jméno v ní není."
+    },
+    "pramen": {
+      "archiv": "Biblioteka Uniwersytecka we Wrocławiu",
+      "portal": "Biblioteka Cyfrowa Uniwersytetu Wrocławskiego",
+      "svazek": "Schlesische privilegirte Zeitung, ročník 37, č. 12, 28. 1. 1778",
+      "popis": "Na s. 110 je úřední výzva dědicům hlohovského advokáta Karla von Rache, datovaná 28. 11. 1777.",
+      "url": "https://bibliotekacyfrowa.pl/Content/45652/PDF/directory.pdf#page=6"
+    },
+    "prepis": {
+      "orig": "V tiskové vyhlášce: „vollbürtige und halbbürtige Geschwister seines Vaters“ a „George Anton v. Rache“. Celá vyhláška je na přiloženém výřezu.",
+      "cs": "Na žádost vykonavatelů závěti zesnulého advokáta Karla von Rache hlohovský vrchní úřad svolává plnorodé i polorodé sourozence jeho otce Georga Antona, bývalého úředního advokáta a zemského syndika v Hlohově. Závěť mezi dědice ustanovila také jejich potomky všech pokolení, kteří žili při jejím vyhlášení. I další dosud neznámí dědici a věřitelé se mají 20. února 1778 dostavit k radovi von Windheimovi a doložit své nároky pod ztrátou práva je uplatnit. Dáno v Hlohově 28. listopadu 1777."
+    },
+    "vyrez": "../../../../vyrezy/j_1777_hlohov_vyhlaska_rache.jpg"
+  },
+  {
+    "zapis": {
+      "klic": "n_1781_podebrady_vaclav_filipina",
+      "druh": "N",
+      "datum": "9. 2. 1781",
+      "nazev": "Václavův křest v Poděbradech, svědkyně Filipína, dcera lesmistra",
+      "shrnuti": "Václav, syn svobodné Anny, narozený a pokřtěný na kostelním předměstí čp. 92. Jednou ze svědkyň byla panna Filipína, výslovně dcera nejvyššího myslivce Maximiliána Güllerna.",
+      "svazek": "podebrady_13",
+      "strana": "s. 95 vpravo, druhý zápis, sn. 98",
+      "odkaz": "https://ebadatelna.soapraha.cz/d/11843/98",
+      "pozn": "Podoba příjmení matčina otce a měšťana mezi svědky je v přepisu ponechána nejistá. Domovní číslo patří křtěnci."
+    },
+    "pramen": {
+      "archiv": "SOA Praha – Sbírka matrik",
+      "portal": "eBadatelna SOA Praha",
+      "svazek": "Poděbrady 13, N 1771–1784",
+      "popis": "Kniha pokřtěných fary Poděbrady, latinsky (Baptizati Anno … in Mense …); 9–10/1781 = snímek 107.",
+      "url": "https://ebadatelna.soapraha.cz/d/11843"
+    },
+    "prepis": {
+      "orig": "9. / 9. / P. Josephus Mathia[s]s (?) / Wencesl. / Anna filia post def. Joannem Lokwietz (?) Incolam Podiebrad. Libera. / Wencesl. Lisska Scrib[a] Cancellaria[e] … Podiebrad. / Franc. Strobel (?) Civis. Virgo Philippina filia D[omi]ni Maximiliani Güllern Supremi Venatorum. / Cathol. / In Suburbio Eccles. / 92.",
+      "cs": "Narozen i pokřtěn 9. února. Křtil P. Josef Mathias(s) (?). Dítě Václav. Matka svobodná Anna, dcera zemřelého Jana Lokwietze (?), poděbradského obyvatele. Kmotr Václav Liška, písař poděbradské kanceláře (bližší označení nečitelné). Svědkové měšťan František Strobel (?) a panna Filipína, dcera pana Maximiliána Güllerna, nejvyššího myslivce. Katolík, kostelní předměstí, dům 92."
+    },
+    "vyrez": "../../../../vyrezy/n_1781_podebrady_vaclav_filipina.jpg"
+  }
+]

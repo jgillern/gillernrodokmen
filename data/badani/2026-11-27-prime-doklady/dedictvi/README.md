@@ -29,7 +29,7 @@ Soudní vyhláška jmenuje Karla a jeho otce. Maximiliánovo jméno, jeho rodič
 
 ### Václavův křest v Poděbradech
 
-Dne 9. 2. 1781 byl Václav narozen a pokřtěn, kostelní předměstí čp. 92. Podstatná pasáž v pravé části řádku zní „Virgo Philippina filia D[omi]ni Maximiliani Güllern Supremi Venatorum“. Český význam je „panna Filipína, dcera pana Maximiliána Güllerna, nejvyššího myslivce“. Úvodní *Virgo* označuje její stav. Starší nejistá četba připouštěla osobní jméno Uršula. Celý řádek, přepis a překlad jsou v katalogu projektu pod klíčem `n_1781_podebrady_vaclav_filipina`. [Matrika, s. 95](https://ebadatelna.soapraha.cz/d/11843/98)
+Dne 9. 2. 1781 byl Václav narozen a pokřtěn, kostelní předměstí čp. 92. Podstatná pasáž v pravé části řádku zní „Virgo Philippina filia D[omi]ni Maximiliani Güllern Supremi Venatorum“. Český význam je „panna Filipína, dcera pana Maximiliána Güllerna, nejvyššího myslivce“. Úvodní *Virgo* označuje její stav. Starší nejistá četba připouštěla osobní jméno Uršula. [Celý přepis, překlad a prameny](doklady.json) jsou uloženy pod klíčem `n_1781_podebrady_vaclav_filipina`. [Matrika, s. 95](https://ebadatelna.soapraha.cz/d/11843/98)
 
 ## Kde hledat jmenné přílohy
 

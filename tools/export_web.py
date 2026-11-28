@@ -110,13 +110,15 @@ def years(y):
         if re.search(r"\bpo\b", tail or y):
             return "žil " + ys[-1]
         return "† " + ("před " if "před" in y else "") + ys[-1]
+    nejiste = lambda r: "?" if re.search(r + r"\s*\?", y) else ""   # „1646?“ – otazník u roku zachovat
     if y.startswith("*"):
-        return "* " + ys[0]
+        return "* " + ys[0] + nejiste(ys[0])
     if len(ys) == 1:
-        return approx + ys[0]
+        return approx + ys[0] + nejiste(ys[0])
     second = "?" if "před" in tail else ("po " if re.search(r"\bpo\b", tail) else "") + \
-        ("≈" if re.search(r"(asi|≈)", tail) else "") + ys[-1]
-    return f"{approx}{ys[0]}–{second}"
+        ("≈" if re.search(r"(asi|≈)", tail) else "") + ys[-1] + ("?" if re.search(ys[-1] + r"\s*\?", tail) else "")
+    first = ys[0] + ("?" if re.search(ys[0] + r"\s*\?", head) else "")
+    return f"{approx}{first}–{second}"
 
 
 def gen(k):

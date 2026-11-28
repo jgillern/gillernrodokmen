@@ -67,6 +67,9 @@ def main():
                 err.append(f"osoba {k} ({p.get('n')}) cituje neexistující zápis '{r}'")
         if st == "doc" and not p.get("r"):
             warn.append(f"osoba {k} ({p.get('n')}) je 'doc' (doloženo), ale necituje žádný zápis")
+        prijmeni = re.sub(r"\(.*?\)", "", p.get("n", "")).split()   # krest (plné jméno ve vějíři) má nést i příjmení
+        if p.get("krest") and len(prijmeni) > 1 and prijmeni[-1] not in p["krest"]:
+            warn.append(f"osoba {k} ({p.get('n')}): krest „{p['krest']}“ nemá příjmení – ve vějíři by se ukázalo jen křestní jméno")
     for s in SIDE:
         if s.get("k") not in P:
             err.append(f"boční příbuzný '{s.get('n')}' patří k neexistující osobě {s.get('k')}")

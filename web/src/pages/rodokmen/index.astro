@@ -1,11 +1,290 @@
 ---
+// Interaktivní rodokmen (vývod předků) shora dolů: Jan nahoře, pod ním rodiče, prarodiče … – otec vlevo, matka vpravo.
+// Rozložení se počítá při sestavení webu ze site.json: podstromy se skládají vedle sebe podle obrysů (po generacích),
+// takže krátká větev nezabírá místo pod sebou a hluboké větve se k ní můžou přisunout. Roste samo s každým předkem.
 import Base from '../../layouts/Base.astro';
-import PedigreeSheet from '../../components/PedigreeSheet.astro';
-import { root } from '../../lib/data.js';
+import { people, root, lines, href } from '../../lib/data.js';
+
+const W = 184, H = 100, GAP = 18, ROW = 164, PAD = 40;   // karta, mezera mezi kartami, výška generace, okraj plátna
+const SEP = W + GAP;
+const lineColor = Object.fromEntries(Object.values(lines).map((l) => [l.slug, l.color]));
+
+type N = { slug: string; dx: number; kids: N[]; x: number; g: number };
+// podstrom: uzel, posuny rodičů vůči němu a obrysy (nejlevější / nejpravější střed karty v každé hloubce).
+// Jan stojí mezi rodiči; na tátově straně (vlevo) stojí každý předek nad svou matkou, na mámině (vpravo) nad otcem –
+// karty se tak tisknou ke středu, horní generace jsou u sebe a strom se rozbíhá do stran.
+function lay(slug: string, seen: Set<string>, side: '' | 'L' | 'R'): { n: N; l: number[]; r: number[] } {
+  const p = people[slug];
+  const n: N = { slug, dx: 0, kids: [], x: 0, g: 0 };
+  const par = [p.father, p.mother].filter((s) => s && people[s] && !seen.has(s));
+  const subs = par.map((s) => lay(s, new Set([...seen, s]), side || (s === p.father ? 'L' : 'R')));
+  if (!subs.length) return { n, l: [0], r: [0] };
+  if (subs.length === 1) {
+    n.kids = [subs[0].n];
+    return { n, l: [0, ...subs[0].l], r: [0, ...subs[0].r] };
+  }
+  const [a, b] = subs;
+  let off = SEP;   // vzdálenost otce a matky: v žádné společné hloubce se karty nesmějí překrýt
+  for (let d = 0; d < Math.min(a.l.length, b.l.length); d++) off = Math.max(off, a.r[d] - b.l[d] + SEP);
+  [a.n.dx, b.n.dx] = side === 'L' ? [-off, 0] : side === 'R' ? [0, off] : [-off / 2, off / 2];
+  n.kids = [a.n, b.n];
+  const l = [0], r = [0];
+  for (let d = 0; d < Math.max(a.l.length, b.l.length); d++) {
+    l.push(Math.min((a.l[d] ?? Infinity) + a.n.dx, (b.l[d] ?? Infinity) + b.n.dx));
+    r.push(Math.max((a.r[d] ?? -Infinity) + a.n.dx, (b.r[d] ?? -Infinity) + b.n.dx));
+  }
+  return { n, l, r };
+}
+const { n: top } = lay(root.slug, new Set([root.slug]), '');
+const nodes: N[] = [];
+const place = (n: N, x: number, g: number) => { n.x = x; n.g = g; nodes.push(n); n.kids.forEach((k) => place(k, x + k.dx, g + 1)); };
+place(top, 0, 0);
+const minX = Math.min(...nodes.map((n) => n.x));
+nodes.forEach((n) => { n.x = n.x - minX + PAD + W / 2; });
+const maxG = Math.max(...nodes.map((n) => n.g));
+const CW = Math.max(...nodes.map((n) => n.x)) + W / 2 + PAD;
+const CH = (maxG + 1) * ROW - (ROW - H) + PAD * 2;
+const yOf = (g: number) => PAD + g * ROW;
+
+// spojnice: od karty dolů k liště, po ní k rodičům a dolů do jejich karet; barva podle jistoty rodiče
+const edgeCls = (st: string) => ({ doc: 'pk-e-doc', prob: 'pk-e-prob', fam: 'pk-e-fam', lit: 'pk-e-lit' })[st] ?? 'pk-e-lit';
+const paths = nodes.flatMap((n) => {
+  if (!n.kids.length) return [];
+  const y1 = yOf(n.g) + H, yb = y1 + (ROW - H) / 2, y2 = yOf(n.g + 1);
+  return n.kids.map((k) => ({ d: `M${n.x} ${y1}V${yb}H${k.x}V${y2}`, cls: edgeCls(people[k.slug].st) }));
+});
+
+const birth = (p) => {
+  // narození, jinak první údaj o povolání či bydlišti (ne poznámky o pramenech)
+  const fs = (p.facts ?? []).filter((t) => !/^(Rok narození|Uváděný|podle rodopisu|Dobový doklad)/i.test(t));
+  const f = fs.find((t) => /^(\*|kř\.|pokřt)/.test(t)) ?? fs[0] ?? '';
+  return f.length > 110 ? f.slice(0, 108) + '…' : f;
+};
+const genLabels = [...Array(maxG + 1).keys()].map((g) => (g === 0 ? root.name.split(' ')[0] : ['', 'rodiče', 'prarodiče', 'praprarodiče'][g] || `${g}. generace`));
+const legend = Object.values(lines).sort((a, b) => a.k - b.k);
+const names = [...new Set(nodes.map((n) => people[n.slug].name))].sort((a, b) => a.localeCompare(b, 'cs'));
 ---
 <Base title="Rodokmen" wide>
   <h1>Rodokmen</h1>
-  <p class="lead">Klasický vývod předků: {root.name} vlevo, napravo jeho rodiče, prarodiče, praprarodiče a prapraprarodiče – otec vždy nad matkou. Kde rod pokračuje dál do minulosti, vede od políčka šipka <strong>›</strong> na další list.</p>
-  <p class="small muted">Plný rámeček = doloženo matrikou, čárkovaný = podle rodinných dokladů nebo pravděpodobné. Barevný proužek označuje rod. Klepnutím na jméno otevřete stránku předka. <a href="/rodokmen/cely/">Celý strom najednou (s přibližováním) →</a></p>
-  <PedigreeSheet rootSlug={root.slug} />
+  <p class="lead">Všichni doložení předkové na jednom plátně: {root.name} nahoře, pod ním rodiče, prarodiče a další generace – otec vždy vlevo, matka vpravo. Plátno posunete tahem, přiblížíte kolečkem myši nebo dvěma prsty; klepnutím na jméno otevřete stránku předka, klepnutím na kartičku zvýrazníte cestu k {root.name.split(' ')[0]}ovi. Tátova strana se rozbíhá doleva, mámina doprava; na barevný štítek rodu klepněte a plátno na něj skočí.</p>
+  <div class="chips pk-legenda" aria-label="Vysvětlivky a rody">
+    <span class="chip st-doc">doloženo matrikou</span>
+    <span class="chip st-fam">údaj od rodiny</span>
+    <span class="chip st-prob">pravděpodobné</span>
+    <span class="chip st-lit">z rodopisné literatury</span>
+    {legend.map((l) => <button type="button" class="chip pk-rod" style={`--c:${l.color}`} data-rod={l.root} title={`Ukázat rod: ${l.name}`}>{l.name}</button>)}
+  </div>
+  <div class="pk-bar">
+    <form class="pk-hledat" autocomplete="off">
+      <input list="pk-jmena" placeholder="Najít předka…" aria-label="Najít předka" />
+      <datalist id="pk-jmena">{names.map((n) => <option value={n} />)}</datalist>
+      <button type="submit">Najít</button>
+    </form>
+    <span class="pk-btns">
+      <button type="button" data-z="1.4" aria-label="Přiblížit">+</button>
+      <button type="button" data-z="0.714" aria-label="Oddálit">−</button>
+      <button type="button" data-v="start">Začátek</button>
+      {root.father && <button type="button" data-v="otec">Tátova strana</button>}
+      {root.mother && <button type="button" data-v="matka">Mámina strana</button>}
+      <button type="button" data-v="vse">Celý strom</button>
+      <button type="button" data-v="fs">Na celou obrazovku</button>
+    </span>
+  </div>
+  <div class="pk-stage" data-father={root.father ?? ''} data-mother={root.mother ?? ''}>
+    <div class="pk-platno" style={`width:${CW}px;height:${CH}px`}>
+      <svg class="pk-spoje" width={CW} height={CH} viewBox={`0 0 ${CW} ${CH}`} aria-hidden="true">
+        {paths.map((e) => <path d={e.d} class={e.cls} />)}
+      </svg>
+      {nodes.map((n) => {
+        const p = people[n.slug];
+        return (
+          <div class={`pk pk-${p.st}${n.g === 0 ? ' pk-koren' : ''}`} style={`left:${n.x - W / 2}px;top:${yOf(n.g)}px;--c:${lineColor[p.lineSlug] ?? '#cfc6b8'}`}
+               data-slug={n.slug} data-child={p.child ?? ''} data-g={n.g} title={[p.name, p.years, p.status].filter(Boolean).join(' · ')}>
+            <a class="pk-jm" href={href.person(n.slug)}>{p.name}</a>
+            {p.years && <span class="pk-roky">{p.years}</span>}
+            <span class="pk-pozn">{birth(p)}</span>
+          </div>
+        );
+      })}
+    </div>
+    <div class="pk-gen" aria-hidden="true" data-row={ROW} data-pad={PAD} data-h={H}>
+      {genLabels.map((t) => <span>{t}</span>)}
+    </div>
+  </div>
+  <p class="small muted pk-dalsi">Jinak: <a href="/rodokmen/listy/">klasický vývod po listech</a> (vždy pět generací vedle sebe) · <a href="/vejir/">vějíř přes celou obrazovku</a> · <a href="/predci/">seznam předků</a></p>
+
+  <script>
+    const stage = document.querySelector<HTMLElement>('.pk-stage')!;
+    const platno = stage.querySelector<HTMLElement>('.pk-platno')!;
+    const genBox = stage.querySelector<HTMLElement>('.pk-gen')!;
+    const genEls = [...genBox.querySelectorAll<HTMLElement>('span')];
+    const ROW = Number(genBox.dataset.row), PAD = Number(genBox.dataset.pad), H = Number(genBox.dataset.h);
+    const karty = [...platno.querySelectorAll<HTMLElement>('.pk')];
+    const bySlug = new Map(karty.map((k) => [k.dataset.slug!, k]));
+    let v = { x: 0, y: 0, s: 1 };
+    const apply = (anim = false) => {
+      platno.style.transition = anim ? 'transform 0.35s ease' : 'none';
+      platno.style.transform = `translate(${v.x}px, ${v.y}px) scale(${v.s})`;
+      // popisky generací drží u levého okraje a jedou s plátnem nahoru a dolů
+      genBox.style.opacity = v.s < 0.3 ? '0' : '1';   // při velkém oddálení by se popisky slily
+      genEls.forEach((el, g) => {
+        el.style.transition = platno.style.transition.replace('transform', 'top');
+        el.style.top = `${v.y + (PAD + g * ROW + H / 2) * v.s}px`;
+      });
+    };
+    // obdélník skupiny karet v souřadnicích plátna
+    const box = (list: HTMLElement[]) => {
+      const xs = list.map((k) => k.offsetLeft), ys = list.map((k) => k.offsetTop);
+      return { x0: Math.min(...xs), y0: Math.min(...ys), x1: Math.max(...list.map((k) => k.offsetLeft + k.offsetWidth)), y1: Math.max(...list.map((k) => k.offsetTop + k.offsetHeight)) };
+    };
+    const ukaz = (b: { x0: number; y0: number; x1: number; y1: number }, anim = true, nahoru = false, max = 1) => {
+      const r = stage.getBoundingClientRect(), m = 24;
+      v.s = Math.min(max, (r.width - 2 * m) / (b.x1 - b.x0), (r.height - 2 * m) / (b.y1 - b.y0));
+      v.x = r.width / 2 - ((b.x0 + b.x1) / 2) * v.s;
+      v.y = nahoru ? m - b.y0 * v.s : r.height / 2 - ((b.y0 + b.y1) / 2) * v.s;
+      apply(anim);
+    };
+    // předkové osoby (podstrom nad ní) podle data-child
+    const predci = (slug: string) => karty.filter((k) => { for (let s: string | undefined = k.dataset.slug; s; s = bySlug.get(s)?.dataset.child) if (s === slug) return true; return false; });
+    const pohled = (co: string, anim = true) => {
+      if (co === 'start') {
+        // úvodní pohled: Jan nahoře uprostřed, čitelně; rodiče a prarodiče pod ním, větve se rozbíhají do stran
+        const r = stage.getBoundingClientRect();
+        const jan = karty.find((k) => k.dataset.g === '0')!;
+        v.s = r.width < 640 ? 0.62 : 0.85;
+        const L = Math.max(...genEls.map((el) => el.offsetWidth)) + 10;   // místo pro popisky generací vlevo
+        v.x = L + (r.width - L) / 2 - (jan.offsetLeft + jan.offsetWidth / 2) * v.s;
+        v.y = 18 - jan.offsetTop * v.s;
+        apply(anim);
+      } else if (co === 'otec' || co === 'matka') {
+        const s = stage.dataset[co === 'otec' ? 'father' : 'mother'];
+        if (s) ukaz(box(predci(s)), anim, true);
+      } else ukaz(box(karty), anim, true);
+    };
+    (document.fonts?.ready ?? Promise.resolve()).then(() => pohled('start', false));
+
+    const zoomAt = (f: number, cx?: number, cy?: number) => {
+      const r = stage.getBoundingClientRect();
+      const px = (cx ?? r.left + r.width / 2) - r.left, py = (cy ?? r.top + r.height / 2) - r.top;
+      const s = Math.min(2.5, Math.max(0.03, v.s * f)), k = s / v.s;
+      v = { x: px - (px - v.x) * k, y: py - (py - v.y) * k, s };
+      apply();
+    };
+    stage.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      let d = e.deltaY;
+      if (e.deltaMode === 1) d *= 33; else if (e.deltaMode === 2) d *= 300;
+      d = Math.max(-120, Math.min(120, d));
+      zoomAt(Math.exp(-d * (e.ctrlKey ? 0.012 : 0.0022)), e.clientX, e.clientY);
+    }, { passive: false });
+
+    const pts = new Map<number, { x: number; y: number }>();
+    let moved = 0, pinch = 0;
+    stage.addEventListener('pointerdown', (e) => { pts.set(e.pointerId, { x: e.clientX, y: e.clientY }); moved = 0; stage.classList.add('tahne'); });
+    stage.addEventListener('pointermove', (e) => {
+      const prev = pts.get(e.pointerId);
+      if (!prev) return;
+      pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      if (pts.size === 2) {
+        const [a, b] = [...pts.values()];
+        const d = Math.hypot(a.x - b.x, a.y - b.y);
+        if (pinch) zoomAt(d / pinch, (a.x + b.x) / 2, (a.y + b.y) / 2);
+        pinch = d; moved += 10;
+        return;
+      }
+      const dx = e.clientX - prev.x, dy = e.clientY - prev.y;
+      moved += Math.abs(dx) + Math.abs(dy);
+      if (moved > 4) { stage.setPointerCapture(e.pointerId); v.x += dx; v.y += dy; apply(); }
+    });
+    const up = (e: PointerEvent) => { pts.delete(e.pointerId); if (pts.size < 2) pinch = 0; if (!pts.size) stage.classList.remove('tahne'); };
+    stage.addEventListener('pointerup', up);
+    stage.addEventListener('pointercancel', up);
+    stage.addEventListener('click', (e) => {
+      if (moved > 4) { e.preventDefault(); e.stopPropagation(); return; }
+      if ((e.target as Element).closest('a')) return;
+      // klepnutí na kartičku: zvýraznit cestu od předka dolů k Janovi (druhé klepnutí zruší)
+      const k = (e.target as Element).closest<HTMLElement>('.pk');
+      const bylo = k?.classList.contains('pk-cesta');
+      karty.forEach((x) => x.classList.remove('pk-cesta'));
+      if (!k || bylo) return;
+      for (let s: string | undefined = k.dataset.slug; s; s = bySlug.get(s)?.dataset.child) bySlug.get(s)?.classList.add('pk-cesta');
+    }, true);
+
+    document.querySelectorAll<HTMLButtonElement>('.pk-btns button').forEach((b) =>
+      b.addEventListener('click', () => {
+        if (b.dataset.z) return zoomAt(Number(b.dataset.z));
+        if (b.dataset.v !== 'fs') return pohled(b.dataset.v!);
+        if (document.fullscreenElement) document.exitFullscreen();
+        else (stage.requestFullscreen?.() ?? Promise.resolve()).catch(() => {});
+      })
+    );
+    document.addEventListener('fullscreenchange', () => setTimeout(() => pohled('start', false), 50));
+    // štítek rodu: skok na zakladatele rodu v rodokmenu (praděd Jana) a zvýraznění cesty k Janovi
+    document.querySelectorAll<HTMLButtonElement>('.pk-rod').forEach((b) =>
+      b.addEventListener('click', () => {
+        const k = bySlug.get(b.dataset.rod!);
+        if (!k) return;
+        karty.forEach((x) => x.classList.remove('pk-cesta'));
+        for (let s: string | undefined = k.dataset.slug; s; s = bySlug.get(s)?.dataset.child) bySlug.get(s)?.classList.add('pk-cesta');
+        const r = stage.getBoundingClientRect();
+        v.s = r.width < 640 ? 0.62 : 0.85; v.x = r.width / 2 - (k.offsetLeft + k.offsetWidth / 2) * v.s; v.y = r.height / 4 - k.offsetTop * v.s;
+        apply(true);
+      })
+    );
+
+    // hledání: zvýraznit všechny shody a přiblížit první
+    const norm = (t: string) => t.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+    document.querySelector('.pk-hledat')!.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const q = norm((e.currentTarget as HTMLFormElement).querySelector('input')!.value.trim());
+      karty.forEach((x) => x.classList.remove('pk-hit'));
+      if (!q) return;
+      const hit = karty.filter((k) => norm(k.querySelector('.pk-jm')!.textContent || '').includes(q));
+      if (!hit.length) return;
+      hit.forEach((h) => h.classList.add('pk-hit'));
+      const h = hit[0], r = stage.getBoundingClientRect();
+      v.s = 0.95; v.x = r.width / 2 - (h.offsetLeft + h.offsetWidth / 2) * v.s; v.y = r.height / 3 - (h.offsetTop + h.offsetHeight / 2) * v.s;
+      apply(true);
+    });
+  </script>
+
+  <style>
+    .pk-legenda { margin: 0.4rem 0 0.2rem; }
+    .pk-rod { background: #fffdf8; border: 1px solid var(--line); font: inherit; cursor: pointer; }
+    .pk-rod:hover { background: var(--accent-soft); }
+    .pk-rod::before { content: ''; display: inline-block; width: 0.7rem; height: 0.7rem; border-radius: 3px; background: var(--c); margin-right: 0.35rem; vertical-align: -0.05rem; }
+    .pk-bar { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; align-items: center; justify-content: space-between; margin: 0.6rem 0; }
+    .pk-hledat { display: flex; gap: 0.3rem; }
+    .pk-hledat input { font: inherit; padding: 0.3rem 0.6rem; border: 1px solid var(--line); border-radius: 8px; min-width: 14rem; background: var(--paper); }
+    .pk-bar button { font: inherit; padding: 0.3rem 0.8rem; border: 1px solid var(--line); border-radius: 999px; background: var(--paper); cursor: pointer; color: #5a4632; }
+    .pk-bar button:hover { background: var(--accent-soft); }
+    .pk-btns { display: flex; gap: 0.35rem; flex-wrap: wrap; }
+    .pk-stage { position: relative; height: min(80vh, 960px); overflow: hidden; border: 1px solid var(--line); border-radius: 12px; touch-action: none; cursor: grab; user-select: none; background: var(--paper); }
+    .pk-stage:fullscreen { height: 100vh; border-radius: 0; }
+    .pk-stage.tahne { cursor: grabbing; }
+    .pk-platno { position: absolute; left: 0; top: 0; transform-origin: 0 0; will-change: transform; }
+    .pk-spoje { position: absolute; left: 0; top: 0; overflow: visible; }
+    .pk-spoje path { fill: none; stroke: #8a5a2b; stroke-width: 2; }
+    .pk-spoje .pk-e-doc { stroke: #3f7d4a; }
+    .pk-spoje .pk-e-prob { stroke: #b07a1e; stroke-dasharray: 7 5; }
+    .pk-spoje .pk-e-fam { stroke: #3e6488; }
+    .pk-spoje .pk-e-lit { stroke: #8a5a2b; stroke-dasharray: 2 5; stroke-linecap: round; }
+    .pk { position: absolute; width: 184px; height: 100px; box-sizing: border-box; display: flex; flex-direction: column; gap: 0.05rem; padding: 0.35rem 0.5rem 0.35rem 0.85rem; border: 1.6px solid #8a5a2b; border-radius: 8px; background: #fffdf8; font-size: 0.8rem; line-height: 1.25; overflow: hidden; cursor: pointer; }
+    .pk::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 6px; background: var(--c); }
+    .pk-doc { border-color: #3f7d4a; background: #eef6ee; }
+    .pk-fam { border-color: #3e6488; background: #eef3f8; }
+    .pk-prob { border-color: #b07a1e; border-style: dashed; background: #fbf1db; }
+    .pk-lit { border-color: #8a5a2b; border-style: dashed; background: #f7efe3; }
+    .pk-koren { box-shadow: 0 0 0 3px #3f7d4a40; border-width: 2.4px; }
+    .pk-jm { font: 600 0.88rem var(--serif); color: #2b2620; text-decoration: none; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .pk-jm:hover { text-decoration: underline; }
+    .pk-roky { color: #5a4632; font-size: 0.76rem; }
+    .pk-pozn { color: #6e6153; font-size: 0.72rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .pk.pk-cesta { outline: 3px solid #d08a1e; outline-offset: 1px; }
+    .pk.pk-hit { outline: 3px solid #2f6fb0; outline-offset: 2px; }
+    .pk-gen { position: absolute; left: 0; top: 0; bottom: 0; width: 0; pointer-events: none; transition: opacity 0.2s; }
+    .pk-gen span { position: absolute; left: 6px; transform: translateY(-50%); font: italic 12.5px var(--sans); color: #6e6153; background: #fffdf8d9; padding: 0.1rem 0.4rem; border-radius: 6px; white-space: nowrap; }
+    .pk-dalsi { margin-top: 0.8rem; }
+    @media (max-width: 640px) { .pk-gen span { font-size: 11px; padding: 0.05rem 0.3rem; background: #fffdf8b3; } }
+  </style>
 </Base>

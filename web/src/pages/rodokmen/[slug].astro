@@ -35,11 +35,11 @@ for (let i = 0; i < line.length - 1; i += 4) chain.push(line[i]);
 ---
 <Base title={`Rodokmen – ${p.name}`} wide>
   <p class="crumbs">
-    {chain.map((s, i) => <>{i > 0 && ' › '}<a href={i === 0 ? '/rodokmen/' : `/rodokmen/${s}/`}>{people[s].name}</a></>)}
+    {chain.map((s, i) => <>{i > 0 && ' › '}<a href={i === 0 ? '/rodokmen/listy/' : `/rodokmen/${s}/`}>{people[s].name}</a></>)}
     {' › '}{p.name}
   </p>
   <h1>Předci: {p.name} <span class="muted" style="font-size:0.6em">{p.years}</span></h1>
   <p class="lead">Pokračování rodokmenu – {g}. generace předků. <a href={href.person(slug)}>Stránka předka →</a></p>
   <PedigreeSheet rootSlug={slug} />
-  <p class="small muted" style="margin-top:1rem"><a href={chain.length > 1 ? `/rodokmen/${chain[chain.length - 1]}/` : '/rodokmen/'}>← předchozí list</a> · <a href="/rodokmen/cely/">celý strom najednou</a></p>
+  <p class="small muted" style="margin-top:1rem"><a href={chain.length > 1 ? `/rodokmen/${chain[chain.length - 1]}/` : '/rodokmen/listy/'}>← předchozí list</a> · <a href="/rodokmen/">celý rodokmen na jednom plátně</a></p>
 </Base>

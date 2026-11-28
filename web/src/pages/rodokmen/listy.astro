@@ -1,0 +1,11 @@
+---
+import Base from '../../layouts/Base.astro';
+import PedigreeSheet from '../../components/PedigreeSheet.astro';
+import { root } from '../../lib/data.js';
+---
+<Base title="Rodokmen po listech" wide>
+  <h1>Rodokmen po listech</h1>
+  <p class="lead">Klasický vývod předků: {root.name} vlevo, napravo jeho rodiče, prarodiče, praprarodiče a prapraprarodiče – otec vždy nad matkou. Kde rod pokračuje dál do minulosti, vede od políčka šipka <strong>›</strong> na další list.</p>
+  <p class="small muted">Plný rámeček = doloženo matrikou, čárkovaný = podle rodinných dokladů nebo pravděpodobné. Barevný proužek označuje rod. Klepnutím na jméno otevřete stránku předka. <a href="/rodokmen/">Celý rodokmen na jednom plátně →</a></p>
+  <PedigreeSheet rootSlug={root.slug} />
+</Base>

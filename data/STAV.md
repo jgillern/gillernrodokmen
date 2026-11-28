@@ -16,6 +16,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
+## 28. 11. 2026 · Oddavky Maximiliána a Anny Johanny a kunčický soupis 1653
+
+Hlavní cestou k původu Anny Johanny jsou vlastní oddavky. V Boru jsou 23. ledna 1750 zapsáni oba rodiče. Johanna je výslovně označena za manželku 15. září 1752 v Bobnicích. Doplněny mezery v Poděbradech 07 a přečteny Chotusice 14 do září 1752 bez hledaného páru. V Krehlau se načetl vybledlý sn. 382 bez bezpečné identifikace snoubenců. U nejstarší linie je otevřen kunčický oddíl pozdějšího opisu urbáře Branné z roku 1653, MZA G 371, inv. 30, sn. 34–35. Soupisy H 787 a H 754 pro šternberské panství prokazatelně uvádějí i členy domácností. Oddíl Hořejších Kunčic zatím nebyl ověřen. [Přesné prameny, rozsah a další online kroky](badani/2026-11-28-svatba-stare-mesto/README.md)
+
 ## 28. 11. 2026 · Stínavské pohřby a nejstarší zápisy Hořejších Kunčic
 
 Pohřby ve Stínavě na s. 157–167 od 2. 2. 1744 do 14. 12. 1758 byly přečteny bez bezpečného nálezu obou Johann Nerlichových. Vítkovské křty 1658–1661, sn. 124–144, nedaly bezpečný kunčický nadpis ani příjmení Giller. Zemský archiv v místopisném rejstříku uvádí první dochované zápisy Hořejších Kunčic roku 1681. Pro stejnojmennou obec u Starého Města byl ověřen oddíl lánového rejstříku Branné se 40 usedlými, ve čtených jménech bez Gillera. Dobový soupis z roku 1693 potvrzuje šternberský urbář roku 1664. Jeho kunčický list zatím není ověřený. [Přesné snímky, vyhodnocení a další online kroky](badani/2026-11-28-pohreby-vitkov/README.md)

@@ -16,6 +16,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
+## 28. 11. 2026 · Stínavské pohřby a nejstarší zápisy Hořejších Kunčic
+
+Pohřby ve Stínavě na s. 157–167 od 2. 2. 1744 do 14. 12. 1758 byly přečteny bez bezpečného nálezu obou Johann Nerlichových. Vítkovské křty 1658–1661, sn. 124–144, nedaly bezpečný kunčický nadpis ani příjmení Giller. Zemský archiv v místopisném rejstříku uvádí první dochované zápisy Hořejších Kunčic roku 1681. Pro stejnojmennou obec u Starého Města byl ověřen oddíl lánového rejstříku Branné se 40 usedlými, ve čtených jménech bez Gillera. Dobový soupis z roku 1693 potvrzuje šternberský urbář roku 1664. Jeho kunčický list zatím není ověřený. [Přesné snímky, vyhodnocení a další online kroky](badani/2026-11-28-pohreby-vitkov/README.md)
+
 ## 28. 11. 2026 · Stínava, vítkovské křty a kunčická rychta
 
 Stínavský křest z 5. ledna 1724 uvádí Johannu, dceru radního Johanna Georga Nerlicha. Svobodná Johanna z roku 1744 je dcerou Johanna Bernharda. Povolení z 27. ledna 1750 uvádí Karolinu Nerlichovou a plánované oddavky v Lisse u Vratislavi. Vítkovské křty 1654–1657 byly přečteny na sn. 100–124 bez bezpečné shody na Gillera. Srovnávací letopočet u kunčického rychtáře v Novotného výpisu z roku 1664 čteme po ověření úvodu nejspíš jako 1648. Jméno tak pravděpodobně patří už k předloze z roku 1664. Jmenovitý dobový doklad z roku 1678 je doložen. [Přepisy, výřezy, přesné rozsahy a další online kroky](badani/2026-11-28-stinava-vitkov/README.md)

@@ -1,0 +1,18 @@
+# Stínavské pohřby a matriky Hořejších Kunčic
+
+## Maximilián a Josef Emanuel
+
+Stínavská kniha **D1492** obsahuje dostupnou řadu pohřbů. U Johanny Susanny, dcery Johanna Bernharda, i Johanny pokřtěné roku 1724 jako dcera Johanna Georga jsme hledali zejména doklad pohřbu před 23. lednem 1750. K tomuto dni je Anna Johanna zapsána po boku Maximiliána při křtu jejich dcery v Boru. Na stranách 157–167 od 2. února 1744 do 14. prosince 1758 se žádná ze dvou hledaných žen bezpečně nerozpoznala. U Johanny z roku 1724 nadále připadá v úvahu také pohřeb v dětství, před začátkem tohoto úseku. Uvedený rozsah je potřeba vztahovat k dochovaným zápisům této farnosti. [Pohřby a snímky](stinava/README.md) · [Předchozí doklady o obou Johannách a rodinách Nerlichových](../2026-11-28-stinava-vitkov/stinava/README.md) · [Bor, 23. ledna 1750](https://ebadatelna.soapraha.cz/d/10406/47)
+
+## Nejstarší přímá linie
+
+**Kde začínají kunčické matriky.** Opavský místopisný rejstřík uvádí u Hořejších Kunčic rok **1681** jako první dochované zápisy obyvatel obce. Digitální katalog obec současně uvádí u dřívější vítkovské knihy Bu XVI 1. Ve vítkovských křtech byly navíc prohlédnuty celé ročníky **1658–1661**, snímky **124–144**, bez bezpečného místního označení Hořejších Kunčic či Deštného a bez bezpečné shody na Gillera. Tato kontrola navazuje na přečtené ročníky 1654–1657. Před širší četbou zbytku knihy má přednost zdroj, který přímo jmenuje obyvatele Hořejších Kunčic. [Vítkov a působnost okolních far](vitkov/README.md)
+
+**Urbář roku 1664.** Dobový kancelářský soupis z roku 1693 výslovně uvádí urbář z roku 1664. Tím dokládá existenci knihy vedle pozdějšího Novotného výpisu. Konkrétní kunčický list se online zatím nepodařilo otevřít ani v originálu, ani v opisu roku 1694. Čtení jména k roku 1664 proto nadále stojí na Novotného výpisu. [Dobový soupis, signatury knih a ověřený stav přístupu](rychta/README.md) · [Předchozí čtení jména](../2026-11-28-stinava-vitkov/rychta/README.md)
+
+**Stejnojmenné vesnice.** Pro období před univerzitním zápisem Jana a Kryštofa Gillerových se dají cíleně porovnat Kunčice u Starého Města pod Sněžníkem a Kunčice u Bělotína. U obou je doložen tvar *Kuntzendorf* a existují knihy pro dobu, kdy mohli být pokřtěni. V lánovém rejstříku Branné jsem ověřil oddíl pro Kunčice u Starého Města, fol. 26r–28r, snímky 28–30. Mezi čitelnými jmény držitelů ani uvedených předchůdců jsem Gillera nerozpoznal. To dává jmennému dokladu na rychtě v Hořejších Kunčicích větší váhu při volbě dalšího zdroje. Případný křest se jménem otce by mohl obec některého ze studentů určit přesněji. [Lánový rejstřík Branné](rychta/jine-kuncice.md). [Dobové názvy a konkrétní matriční knihy](rychta/stejnojmenne-obce.md)
+
+## Další online kroky
+
+- **Maximilián a Josef.** Pokračovat u stínavských křestních kmotrů od s. 252. Hledat jmenovitou vazbu Johanny na otce, manžela nebo výslovný svobodný stav po 23. lednu 1750. Pro obě domácnosti mají váhu také křty jejich dětí a starší pohřeb Johanna Bernharda, který je v srpnu 1741 doložen jako zesnulý. [Křty 1750 a hranice čtení](../2026-11-28-stinava-vitkov/stinava/stinava-kmotri.md) · [Doklady o rodině](../2026-11-26-sedme-kolo/oddavky/nerlich-rodice.md)
+- **Přímá linie.** Před dalším plošným průchodem vítkovské knihy mají přednost přístupné jmenné soupisy Hořejších Kunčic a cílené zkoušky shody v dalších stejnojmenných obcích, zejména ve staroměstské knize Bá X 1 pro generaci studentů. Přímou příbuznost s Heinrichem Christofem by mohl potvrdit zejména převod rychty nebo záznam oznamující vztah k předchozímu držiteli. [Knihy k obcím stejného jména](rychta/stejnojmenne-obce.md)

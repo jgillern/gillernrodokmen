@@ -12,6 +12,8 @@ Stav k 27. listopadu 2026. První prioritu mají Josef Emanuel, jeho otec Maximi
 
 [Výsledky navazujícího průzkumu z 27. listopadu, včetně býchorských a brandýských matrik](../2026-11-27-pokracovani/README.md)
 
+**28. listopadu.** [Závěť Karla z Rache, krehlavský křest a ověřování kunčické rychty](../2026-11-28-primarni-prameny/README.md).
+
 ## První priorita · Josefovo rodiště a matka
 
 Při svatbě s Annou Kochovou 12. června 1786 je Josef výslovně synem nadlesního Maximiliána. Zápis neuvádí ženichovu matku ani rodiště. Věk 48 let odpovídá narození od 13. června 1737 do 12. června 1738. V býchorském zápisu z 2. února 1799 je věk 52 let, tedy narození od 3. února 1746 do 2. února 1747. U křtu dcery v Boru 23. ledna 1750 jsou uvedeni Maximilián a Anna Johanna. Zda byla také Josefovou matkou, zatím nevíme. [Josefova svatba](https://ebadatelna.soapraha.cz/d/11863/7) · [Pohřeb v Býchorech č. 11](https://ebadatelna.soapraha.cz/d/10801/8) · [Bor u Bobnic](https://ebadatelna.soapraha.cz/d/10406/47)

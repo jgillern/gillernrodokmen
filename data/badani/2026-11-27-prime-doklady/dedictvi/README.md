@@ -1,5 +1,7 @@
 # Maximiliánův strýc Karel z Rache a sestra Filipína z Gillern
 
+**Doplnění z 28. listopadu.** [Dobový opis závěti z 4. října 1777](../../2026-11-28-primarni-prameny/rache/zavet.md) je přímo přečtený. Řadí Maximiliána mezi Karlovy příbuzné po matce, uvádí matky obou mužů a jmenuje svobodnou Filipínu ve Vratislavi. [Původní snímek křtu z Krehlau](../../2026-11-28-primarni-prameny/hlohov/krehlau-1723-sn451.md) dokládá kmotru Marii Alžbětu von Rach, rozenou Nerlichovou z Hlohova.
+
 Česká finanční prokuratura v Praze zachytila dvě žádosti téhož vrchního lesníka o převod slezského dědictví do Čech. Úřední popisy uvádějí příbuzenský vztah, Maximiliánovo působiště i částku. Dále je uvedeno svědectví hlohovského soudu ze života jeho rodiny a dvě matriční odlišení jmenovkyň.
 
 [Rodinná karta se vztahy a jednotlivými doklady](pribuzni.json) · [Čtyři pramenné záznamy s přepisem nebo popisem](doklady.json)

@@ -16,6 +16,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
+## 28. 11. 2026 · Kolínské oddavky a křty na kunčické rychtě
+
+V knize Kolín 30 je přímo prověřena dochovaná řada od 17. ledna 1747 do 12. září 1752, sn. 457–464 a 3–16, bez hledaného sňatku. V Křinci 04 byl bez shody přímo přečten rok 1749 a leden do 23. 1. 1750. V Hořejších Kunčicích křest 27. července 1687 jmenuje Jana Kryštofa jako syna rychtáře Christofa Gillera a Mariany. Křest Anny Justiny z prosince 1685 zůstává pravděpodobný. Rané kunčické oddavky jsou prověřeny od října 1681 do září 1684 bez sňatku rychtáře s Marianou. Čitelné položky brannských urbářů z let 1620 a 1653 pro Kunčice u Starého Města nedaly bezpečnou shodu s Gillerem. [Prameny, přepisy, výřezy a další online kroky](badani/2026-11-28-kolin-branna/README.md)
+
 ## 28. 11. 2026 · Oddavky Maximiliána a Anny Johanny a kunčický soupis 1653
 
 Hlavní cestou k původu Anny Johanny jsou vlastní oddavky. V Boru jsou 23. ledna 1750 zapsáni oba rodiče. Johanna je výslovně označena za manželku 15. září 1752 v Bobnicích. Doplněny mezery v Poděbradech 07 a přečteny Chotusice 14 do září 1752 bez hledaného páru. V Krehlau se načetl vybledlý sn. 382 bez bezpečné identifikace snoubenců. U nejstarší linie je otevřen kunčický oddíl pozdějšího opisu urbáře Branné z roku 1653, MZA G 371, inv. 30, sn. 34–35. Soupisy H 787 a H 754 pro šternberské panství prokazatelně uvádějí i členy domácností. Oddíl Hořejších Kunčic zatím nebyl ověřen. [Přesné prameny, rozsah a další online kroky](badani/2026-11-28-svatba-stare-mesto/README.md)

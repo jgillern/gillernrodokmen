@@ -1,5 +1,7 @@
 # Josef Beran v Kuňovicích a cihláři Beranovi z Točníka
 
+**Doplnění z 28. listopadu.** Prvopisy z Kuňovic a Levína prokázaly, že Josef byl synem Františka Berana z Točníka a Anny Hasmanové, a tedy Boženiným bratrem po otci. [Syntéza a prvopisy](../../../2026-11-28-beranovi-kunovice-pijavky/README.md)
+
 Dne **3. července 1920** byl na svatbě Boženy Beranové v Pravoníně prvním svědkem **„Josef Beran, cihlář v Kuňovicích č. 20“**. Božena byla dcerou cihlářského mistra **Františka Berana**. Shoda jména, povolání a okolí Pravonína podporuje možnost, že svědek byl hledaný Josef Beran starší. Obecní kronika v témže roce zmiňuje pronájem pastviště Josefu Beranovi pro pec a obydlí v Pijavkách. Ve svatebním zápisu z roku 1920 se příbuznost svědka ani jméno jeho manželky neuvádí. [Originál oddavek](https://ebadatelna.soapraha.cz/d/15260/71) · [Odečet a výřez](svedci/README.md) · [Zápis v obecní kronice](https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=68)
 
 | Vztah k doložené Boženě | Údaj z matriky |

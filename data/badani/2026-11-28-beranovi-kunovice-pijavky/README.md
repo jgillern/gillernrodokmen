@@ -1,6 +1,12 @@
-# Josef Beran mezi Kuňovicemi a Pijavkami
+# Josef Beran z Levína, cihlář v Kuňovicích a v Pijavkách
 
-## Přímé doklady
+Josef Beran starší se narodil **24. března 1883 v Levíně čp. 6 u Králova Dvora**. Jeho vlastní křest uvádí rodiče **Františka Berana, cihláře**, a **Annu Hasmanovou**. Pozdější přípis na témže řádku potvrzuje úmrtí **26. října 1950 v Bukové**. Křest syna Františka v Kuňovicích uvádí stejné narození otce a tytéž rodiče. [Počaply 17, s. 179, sn. 185](https://ebadatelna.soapraha.cz/d/10169/185) · [Přepis a výřez](matriky/josef-levin-krest.md)
+
+- **Kuňovice.** Josef a **Emilie Marie Kozáková**, dcera **Františka Kozáka a Barbory Kaplové z Robous**, byli roku 1913 v **Kuňovicích čp. 2**. Dne **27. 9. 1913** se jim tam narodil syn František, mladší bratr Josefa narozeného ve Velké Jesenici roku 1910. V okraji stojí datum oddavek rodičů **8. 10. 1907**. Místo sňatku zůstává otevřené. Josef je roku 1920 doložen v **Kuňovicích čp. 20** jako svědek při svatbě sestry Boženy. [Křest a přepis](matriky/kunovice-narozeni.md) · [Oddací prvopis Boženy](https://ebadatelna.soapraha.cz/d/15260/71) · [Hledání sňatku rodičů](matriky/oddavky-1907.md)
+- **Zdice a Točník.** Josefův otec **František Josef Beran**, narozený **24. 4. 1854 v Točníku čp. 30**, byl synem **Matěje Berana** a **Anny Tumpachové**. Jeho první žena **Anna Hasmanová** se narodila **31. 12. 1860 v Komárově čp. 54** a zemřela **1. 6. 1891 ve Zdicích čp. 164**. Druhou ženou byla **Marie Froňková**, matka Boženy Beranové. Josef byl Boženiným starším bratrem po otci. Křest Františka jmenuje ještě Matějovy rodiče **Jakuba Berana a Kateřinu Holubovou z Oseka**. Oddavky pravděpodobného bratra Václava roku 1845 dávají k Beranovým dnešní Osek u Rokycan na panství Mirošov. V linii Hasmanových je naopak Osek u Komárova, kde je v roce 1839 doložena Josefova babička Josefa Rozálie. [Františkův křest](https://ebadatelna.soapraha.cz/d/9739/143) · [Annin křest a předci](matriky/anna-hasmanova.md) · [Druhý sňatek ve Zdicích](https://ebadatelna.soapraha.cz/d/9112/13) · [Matějova linie a osecké matriky](matriky/matej-a-osek.md)
+- **Pijavky a Pravonín.** Cihlářská stavba je v obecní kronice roku 1920, **čp. 72** u Beranových uvádí matriční prvopis z roku 1936. Čp. 99, uvedené v roce 1965 jako stavení v Pijavkách, se v nově přečtených matričních obrazech pojí s Hajnými. [Pravonín 26, oddaní 1921–1923](matriky/pravonin-oddani.md) · [Pravonín 27, zemřelí 1920–1928](matriky/pravonin-zemreli.md) · [Úplný rozsah kuňovických oddavek](matriky/kunovice-oddani.md)
+
+## Výchozí doklady a jejich návaznost
 
 | Datum | Zápis |
 | --- | --- |
@@ -11,7 +17,7 @@
 | **1920** | Pravonínská kronika uvádí, že zastupitelstvo pronajalo Josefu Beranovi část obecního pastviště v Pijavkách a že tam postavil obytnou budovu s pecí. Položka je v ročníku 1920 bez přesného data nájmu. [Rukopis kroniky s. 66, digitální snímek 68](https://www.pravonin.cz/html/soubory/kronika/1.cast%20nejstarsi%20historie%20a%C5%BE%20do%20roku%201999.pdf#page=68) |
 | **11. 10. 1936** | Josef mladší je zapsán jako syn Josefa Berana, cihlářského mistra z Pravonína čp. 72, a **Emilie, dcery Františka Kozáka z Robous**. [Pravonín 26, s. 200, sn. 141](https://ebadatelna.soapraha.cz/d/15260/141) |
 
-**Kuňovice čp. 20 teď spojují rodinu Emilie z Robous s cihlářem Josefem Beranem.** Otec Emilie Marie je zde doložen v lednu 1919, Josef na stejné adrese v červenci 1920. Nezávislý zápis z roku 1936 uvádí u Josefa staršího jak stejné řemeslo, tak manželku Emilii, dceru Františka Kozáka z Robous. Souhrn podporuje ztotožnění Emilie Marie s pravonínskou Emilií i svědka z roku 1920 s Josefem starším. Přesný společný pobyt, datum přesunu do Pravonína a přímý oddací nebo křestní doklad vystihující obě osoby nadále chybí.
+**Kuňovice čp. 20 spojují rodinu z Robous s cihlářem Josefem Beranem.** Otec Emilie Marie je v domě doložen v lednu 1919 a Josef v červenci 1920. Společnou domácnost Josefa s Emilií dokládá už křest syna Františka z roku 1913 v čp. 2. Přesné datum přesunu do Pravonína zatím neznáme.
 
 Úmrtní matrika uvádí u Františka narození **10. 4. 1844** a věk **73 let, 4 měsíce, 2 dny**. Soudobý křest přímo uvádí **10. 6. 1843 v Želejově čp. 1**. Identifikace zemřelého vychází ze shody méně obvyklé kombinace rodiště při Hrubé Skále a přesného data sňatku. Pro datum narození má přednost vlastní křestní prvopis. [Celý úmrtní řádek](../../../vyrezy/z_1919_kozak_frantisek.jpg) · [Čtení rubrik a další obyvatelé domu](kunovice/README.md) · [Františkův křest](https://www.familysearch.org/ark:/61903/3:1:3QS7-89GT-SDD)
 

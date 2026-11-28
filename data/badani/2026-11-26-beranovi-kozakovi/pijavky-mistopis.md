@@ -1,6 +1,6 @@
 # Pravonín a Pijavky kolem sčítání 1. prosince 1930
 
-**Pro arch je prvním cílem osada Pravonín č. 45.1, politický okres Ledeč nad Sázavou, soudní okres Dolní Kralovice, dům čp. 72.** Pijavky jsou severně od Pravonína přímo pojmenované na prvorepublikovém vojenském mapovém listu, ale ve statistickém lexikonu sčítání nejsou samostatným celkem. Číslo 99 dokládá na téže lokalitě až zápis o zbourání v roce 1965. Z něj nelze předpokládat jeho existenci nebo konkrétní domácnost už v roce 1930.
+**Pro arch je prvním cílem osada Pravonín č. 45.1, politický okres Ledeč nad Sázavou, soudní okres Dolní Kralovice, dům čp. 72.** Pijavky jsou severně od Pravonína přímo pojmenované na prvorepublikovém vojenském mapovém listu, ale ve statistickém lexikonu sčítání nejsou samostatným celkem. Číslo 99 dokládá na téže lokalitě až zápis o zbourání v roce 1965. Nově přečtené matriční zápisy spojují čp. 99 s rodinou Hajných už v roce 1922. [Matrika zemřelých](../2026-11-28-beranovi-kunovice-pijavky/matriky/pravonin-zemreli.md)
 
 ## Úřední lexikon, rok sčítání 1930
 

@@ -1,5 +1,7 @@
 # Kuňovice čp. 20 a Josef Beran
 
+**Doplnění z 28. listopadu.** Nové souvislé čtení knihy 1904–1926 přineslo křest Františka Berana roku 1913 v Kuňovicích čp. 2. [Přesný rozsah a nové výřezy](../../../../2026-11-28-beranovi-kunovice-pijavky/matriky/kunovice-narozeni.md)
+
 Výchozí doklad je pravonínský sňatek Boženy Beranové dne 3. 7. 1920, kde svědčí **Josef Beran, cihlář z Kuňovic čp. 20**. Toto kolo dohledalo dvě starší jmenné zmínky o stejném domě v kuňovických křtech. Setrvání Josefa v domě při sčítání roku 1921 ani totožnost s pravonínským cihlářem zůstávají otevřené.
 
 ## Prvopis křestní knihy Borovnice 17
@@ -9,8 +11,8 @@ Na vazbě je „Matrika křestní … Chmelná–Kuňovice“, svazek VI. SOA Pr
 | Snímek | Přečtený výsledek |
 | --- | --- |
 | [120](https://ebadatelna.soapraha.cz/d/4127/120) | Kuňovice, závěr roku 1898 a počátek roku 1899. Rubrika domu uvádí 22, 14 a 10. |
-| [123](https://ebadatelna.soapraha.cz/d/4127/123), str. 42, třetí zápis | **František Hájek**, narozen 16. 6. 1900, křtěn 17. 6., Kuňovice čp. 11. V kolonce matky **Josefy**, narozené v Kuňovicích čp. 8 roku 1874, je její otec **Josef Šotka (?)**, doslova **nájemník v Kuňovicích č. d. 20**. Zápis dokládá jméno a postavení osoby u domu v popisu roku 1900. Zápis je o vnukovi narozeném jinde. |
-| [141](https://ebadatelna.soapraha.cz/d/4127/141), str. 60, poslední zápis | Rok 1908, dítě Růžena, otec Václav Švec (?), číslo domu novorozence 6. V popisu matky Anežky je čitelné „v Kuňovicích č. d. 20“ u jejího otce. Jeho příjmení a přesnou formulaci je potřeba ověřit při větším zvětšení. |
+| [123](https://ebadatelna.soapraha.cz/d/4127/123), str. 42, třetí zápis | **František Hájek**, narozen 16. 6. 1900, křtěn 17. 6., Kuňovice čp. 11. V kolonce matky **Josefy**, narozené v Kuňovicích čp. 8 roku 1874, je její otec **Josef Lhotka**, doslova **nájemník v Kuňovicích č. d. 20**. Čtení Lhotka potvrzují oddavky dcery roku 1897. Zápis dokládá jméno a postavení osoby u domu v popisu roku 1900. Zápis je o vnukovi narozeném jinde. |
+| [141](https://ebadatelna.soapraha.cz/d/4127/141), str. 60, poslední zápis | Rok 1908, dítě Růžena, otec Václav Švec (?), číslo domu novorozence 6. Podrobné znovučtení potvrdilo, že v popisu matky Anežky je čp. 20 na Zhoři. Kuňovické čp. 20 se v tomto řádku nevyskytuje. |
 | [155](https://ebadatelna.soapraha.cz/d/4127/155) až [157](https://ebadatelna.soapraha.cz/d/4127/157), str. 74–76 | Souvislá kuňovická řada pro rok 1920 a začátek roku 1921. V rubrice čísla domu u narození roku 1920 se čp. 20 nevyskytuje. Jde o zápisy narození, které nezachycují úplné osazenstvo domu. |
 | [158](https://ebadatelna.soapraha.cz/d/4127/158), str. 77 | Pokračování roku 1921. Obraz byl otevřen, bez vyčerpávajícího přepisu roku nebo všech zmínek o domě. |
 

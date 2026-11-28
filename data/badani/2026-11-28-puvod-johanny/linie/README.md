@@ -1,0 +1,23 @@
+# Hans a Andreas Gillerovi z Moravice
+
+ZA v Opavě, Římskokatolická fara Moravice, **J III 1, inv. 721, křty, oddavky a pohřby 1681–1724**. V prohlížeči archivu zůstalo otevřené ověření Radware. Čitelný digitální snímek jsem našel samostatným rozcestníkem FamilySearch, sbírka 1804263, **Catholic → Opava → Moravice → vol. 721**, film **005398489**, soubor 244 snímků. Na snímku 1 je titulní strana křtů s letopočtem 1683 a na snímku 2 je záhlaví „Tauffung Anno 1683“. V knize je samostatná řada pohřbů a oddavek. [Archivní permalink](https://digi.archives.cz/da/permalink?xid=be848c8c-f13c-102f-8255-0050568c0263) · [Snímek 1](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MH-Y98J-R?wc=3NZ1-N32%3A979674501%2C979681201%2C980694301%2C980694601%26cc%3D1804263&cc=1804263&lang=en)
+
+## 30. září 1702, moravický zápis sňatku Hanse a Marianny
+
+Snímek **178/244, vlevo, zápis č. 8**. Rok 1702 vyplývá z řazení strany, po levé straně následuje naproti „Treyungen Anno 1703“. Datum čtu pracovně „30. 7br“, tj. 30. září. Předcházejí červnové zápisy. Moravická kniha tak podává o den odlišné datum oproti kunčickému zápisu 1. října 1702. Jde o dva zápisy o stejné dvojici. Datový rozdíl sám nedokládá dva obřady. [Originál](https://www.familysearch.org/ark:/61903/3:1:3QS7-89MH-Y98L-H?wc=3NZ1-N32%3A979674501%2C979681201%2C980694301%2C980694601%26cc%3D1804263&cc=1804263&lang=en&i=177&groupId=1804263) · [Výřez](moravice-1702-09-30-hans-giller.jpg) · [Kunčický zápis](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9M7-B94M-G?wc=3NZK-D5S%3A979674501%2C979716201%2C980484001%2C980487301%26cc%3D1804263&cc=1804263&lang=en&i=12&groupId=1804263)
+
+> Denn 30. 7br ist copulirt worden der freyledige Knecht / Hanß gellerle deß Andreß gellerles gärttners und zu gleich / Kirch Vatters von Morawitz Eheleiblicher Sohn mit der Jung- / frauen Marianna deß in Gott ruhenden Heinrich [příjmení nejisté] / von Gersdorff hinterbliebene Eheleibliche Tochter. […]
+
+Oddán byl svobodný čeledín Hans, vlastní manželský syn Andrease z Moravice, s pannou Mariannou, pozůstalou manželskou dcerou zesnulého Heinricha z Kerhartic. Dvojí svědectví přímo potvrzuje vztah Hanse a otce Andrease i místo. Pravopis jména se v moravickém zápisu čte pracovně jako Gellerle. U Andrease je v ostřejším obraze čitelné „gärttners und zu gleich Kirch Vatters“, tedy zahradník ve smyslu menšího usedlíka a současně správce kostelního majetku. Příjmení nevěstina otce zatím ponechávám otevřené. Mezi zdejšími svědky čtu pracovně Andrease Schindlera z Moravice a svobodného Thomase Schindlera z Mikolajic. Příjmení obou svědků má ve výřezu stejný základ „Schindler“. Moravický zápis neudává příbuznost ke kunčickému rychtáři.
+
+## Březen 1702, Hans Giller svědkem
+
+Snímek **178/244, vlevo, zápis č. 5**. Datum čtu pracovně „24. Martii“. Poslední řádek „Hanß Giller Junggesell von Morawitz“ uvádí svobodného Hanse Gillera z Moravice jako svědka. Zápis neuvádí jeho otce. Jméno, místo, stav a odstup jen několika měsíců dobře odpovídají ženichovi ze zápisu výše. [Výřez](moravice-1702-03-hans-giller-svedek.jpg)
+
+## Andreas z Moravice v oddavkách 1681 a 1682
+
+Na snímku **157 vlevo, č. 5**, je 2. listopadu 1681 jako druhý svědek uveden přímo **„Andreß Gellerle von Morawitz“**. Ženichem je jiný muž. Roku 1681 odpovídá záhlaví „Copulation 1681“ na předcházející pravé straně. Tam je „Andreß Gellerle“ také mezi svědky v zápisu č. 3 z 6. července 1681. Na snímku 158 vlevo, z předcházejícího ročníku před záhlavím 1683, je ve svědecké části zápisu č. 4 z 12. července 1682 další „Andreß Gellerle“. Shoda jména, vsi a časové návaznosti podporuje ztotožnění s otcem Hanse. Tyto svědecké zápisy nedávají jeho manželku, rodiče ani přímý vztah ke kunčickému Christophovi. [Snímek 156](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MH-Y9D9-7?wc=3NZ1-N32%3A979674501%2C979681201%2C980694301%2C980694601%26cc%3D1804263&cc=1804263&lang=en&i=155&groupId=1804263) · [Snímek 157](https://www.familysearch.org/ark:/61903/3:1:3QS7-89MH-Y98P-9?wc=3NZ1-N32%3A979674501%2C979681201%2C980694301%2C980694601%26cc%3D1804263&cc=1804263&lang=en&i=156&groupId=1804263) · [Snímek 158](https://www.familysearch.org/ark:/61903/3:1:3QS7-89MH-Y98Y-H?wc=3NZ1-N32%3A979674501%2C979681201%2C980694301%2C980694601%26cc%3D1804263&cc=1804263&lang=en&i=157&groupId=1804263) · [Výřez 2. listopadu 1681](moravice-1681-11-02-andreas-gellerle.jpg)
+
+## Rozsah
+
+Čten byl jmenný úsek sn. 178 a orientačně část přilehlého sn. 179 a nejstarších oddavek na snímcích 156–158, s kontrolními skoky pro určení oddílů. Křty a starší oddavky zůstávají k úplné jmenné četbě. Thomas Giller z Moravice je doložen v kunčickém zápisu 1. října 1702 jako svědek. V tomto moravickém zápisu příbuzenský údaj k Thomasovi nebyl zjištěn.

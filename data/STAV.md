@@ -16,6 +16,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
+## 28. 11. 2026 · Farnost Anny Johanny a Andreas Giller v Moravici
+
+Přímé české doklady dosud nedávají Johannino rodné jméno ani bydliště před sňatkem. Ve Všejanech 04 včetně Loučeně je čtena dochovaná řada oddavek 1747 až 23. ledna 1750 bez shody. U stínavské kandidátky Johanny Susanny Nerlichové je ověřeno, že tatáž dvě křestní jména užívala rovněž její matka. Svatby ve Stínavě přeskakují z října 1748 do ledna 1750. Krehlau sn. 194 patří roku 1752 a některé zápisy zůstávají slabé. V Moravici se otevřela matrika J III 1, DGS 005398489. Nové oddavky potvrzují Hanse jako syna Andrease Gellerle z Moravice, zahradníka a správce kostelního majetku. Jméno Andrease je zde doloženo už roku 1681. Kronika má na zahradnické usedlosti č. 70 držitele Andrese Göllerta 1682 a Hanse 1704 a odkazuje na gruntovnici A 31-26, fol. 219–225. Identifikace držitelů a vazba k přímé linii jsou otevřené. [Souhrn, přímé doklady a audit](badani/2026-11-28-puvod-johanny/README.md)
+
 ## 28. 11. 2026 · Kolínské oddavky a křty na kunčické rychtě
 
 V knize Kolín 30 je přímo prověřena dochovaná řada od 17. ledna 1747 do 12. září 1752, sn. 457–464 a 3–16, bez hledaného sňatku. V Křinci 04 byl bez shody přímo přečten rok 1749 a leden do 23. 1. 1750. V Hořejších Kunčicích křest 27. července 1687 jmenuje Jana Kryštofa jako syna rychtáře Christofa Gillera a Mariany. Křest Anny Justiny z prosince 1685 zůstává pravděpodobný. Rané kunčické oddavky jsou prověřeny od října 1681 do září 1684 bez sňatku rychtáře s Marianou. Čitelné položky brannských urbářů z let 1620 a 1653 pro Kunčice u Starého Města nedaly bezpečnou shodu s Gillerem. [Prameny, přepisy, výřezy a další online kroky](badani/2026-11-28-kolin-branna/README.md)

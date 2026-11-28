@@ -12,6 +12,8 @@ Tohle je projekt rodokmenu vedený skillem **rodokmen**. Na začátku každé ko
 
 Pracuj výhradně s prameny dostupnými online. Výsledky a výřezy ukládej na aktivní větev GitHubu. Objednávka připadá v úvahu pouze v nouzové situaci na výslovný pokyn Jana. Dřívější dotaz na cenu je nezávazný. Podle něj ani podle připravených návrhů nikoho nekontaktuj. U rukopisu rozliš katalogový popis, rejstřík a skutečně přečtený snímek. Nejisté čtení označ přímo u slova.
 
+Po skončení každého kola shrň Janovi nejslibnější další online kroky pro obě otevřené otázky. U každého oznámeného zjištění uveď, jak pomáhá k cíli.
+
 [Platný plán pro obě priority](data/badani/2026-11-27-plan/README.md) · [Výzkum svatebního svědka v Krehlau a další ověřené prameny](data/badani/2026-11-27-online/README.md)
 
 ## Badatelské předání z 25. 11. 2026

@@ -6,6 +6,8 @@
 
 **Stínava, 27. ledna 1750.** Povolení k oddavkám v Lisse u Vratislavi uvádí svobodnou Karolinu Nerlichovou, pravděpodobně dceru Johanna Bernharda doloženou roku 1747 a sestru Johanny Susanny. To dává konkrétní druhé místo pro hledání příslušníků této stínavské rodiny, dnešní Leśnici. Ve zkontrolovaných stínavských oddavkách mezi lednem 1750 a začátkem roku 1760 se žádná z hledaných Johann neobjevila. Kniha v tomto období přeskakuje některé roky. Katalog Leśnice uvádí oddavky pro rok 1750, obrazy se však v přihlášené relaci kvůli omezení přístupu nezobrazily. [Povolení, výřez a rozsah oddavek](stinava/README.md#27-ledna-1750-povolení-k-oddavkám-karoliny-nerlichové)
 
+**Stínavští kmotři roku 1750.** Na s. 249–251 od 5. ledna do 25. listopadu se hledané Johanny, Schirmeister ani Giller bezpečně nerozpoznali. Pokračování je od s. 252. [Přečtené obrazy roku 1750](stinava/stinava-kmotri.md)
+
 **Hlohov.** Na dalších dvou snímcích 30–31 farního účtu sv. Mikuláše z roku 1737 nejsou v čitelných výdajích zachyceni Gillerové, von Rache ani Nerlichovi. Obsah závěrečných snímků 32–36 zůstává otevřený. [Signatura a rozsah četby](hlohov/README.md)
 
 ## Nejstarší přímá linie
@@ -16,5 +18,5 @@
 
 ## Navazující online kroky
 
-- **Maximilián a Josef.** Pokračovat v online stínavských křtech a pohřbech po roce 1744, kde může být jedna z Johann uvedena s příbuzností nebo pozdějším stavem. Pro oddavky Karoliny Nerlichové v Leśnici hledat volně dostupný druhý zápis. Největší váhu by měl doklad jmenující Johannu s otcem, manželem nebo svobodným stavem po 23. lednu 1750, kdy je Anna Johanna doložena jako Maximiliánova žena v Boru. [Stínavské obrazy](stinava/README.md)
+- **Maximilián a Josef.** Pokračovat od s. 252 ve stínavských křtech a prověřit dostupné pohřby po roce 1744. Jedna z Johann zde může být uvedena s příbuzností nebo pozdějším stavem. Pro oddavky Karoliny Nerlichové v Leśnici hledat volně dostupný druhý zápis. Největší váhu by měl doklad jmenující Johannu s otcem, manželem nebo svobodným stavem po 23. lednu 1750, kdy je Anna Johanna doložena jako Maximiliánova žena v Boru. [Stínavské obrazy](stinava/README.md)
 - **Přímá linie.** Ověřit dostupnost kunčického listu urbáře z roku 1664 a stejné pasáže v dobovém opisu z roku 1694. Současně dohledat, kde výkaz konzistoře z roku 1658 zachycuje Hořejší Kunčice a Deštné. Ve vítkovské matrice pokračovat od snímku 124, kde začíná rok 1658. Výslovné označení jedné z obcí pomůže určit, kde cílit další četbu. [Urbářský výpis](rychta/README.md) · [Matrika a konzistoř](vitkov/README.md)

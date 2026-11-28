@@ -1,5 +1,60 @@
 [
  {
+  "klic": "n_1839_hasmanova_josefa_rozalie",
+  "druh": "N",
+  "datum": "12. 3. 1839",
+  "nazev": "Narození Josefy Rozálie Hasmanové, Osek čp. 14",
+  "shrnuti": "Josefa Rozálie se narodila a byla pokřtěna 12. března 1839 v Oseku u Komárova čp. 14. Otec Václav Hasman byl synem zesnulého Václava, sedláka z Oseka čp. 26, a Kateřiny. Matka Barbora byla dcerou Jana Froňka z Oseka čp. 14 a Anny.",
+  "svazek": "mrtnik_04_n",
+  "strana": "143",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/8917/146",
+  "pozn": "Snímek 146, poslední řádek. Rodná příjmení obou babiček čekají na ověření."
+ },
+ {
+  "klic": "o_1845_beran_spotova",
+  "druh": "O",
+  "datum": "18. 11. 1845",
+  "nazev": "Sňatek Václava Berana s Josefou Špotovou, Točník",
+  "shrnuti": "Václav Beran, cihlářský tovaryš z Točníka čp. 4, a Josefa Špotová se vzali 18. listopadu 1845. Oběma bylo 24 let. Ženichův otec byl již zesnulý Jakub Beran, hutník z Oseka čp. 68 na panství Mirošov, matka byla zesnulá Kateřina Holubová z Oseka čp. 42.",
+  "svazek": "zebrak_14_o",
+  "strana": "171–172",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/9743/88",
+  "pozn": "Snímek 88, prostřední řádek. Rodiče se jmény shodují s rodiči Matěje Berana. Povolení k ženění vydal mirošovský vrchnostenský úřad 31. 10. 1845."
+ },
+ {
+  "klic": "n_1883_beran_josef_st",
+  "druh": "N",
+  "datum": "24. 3. 1883",
+  "nazev": "Narození Josefa Berana staršího, Levín čp. 6",
+  "shrnuti": "Josef se narodil 24. března 1883 v Levíně čp. 6 a byl pokřtěn 26. března. Otec František Beran, cihlář v témž domě, byl synem Matěje Berana, cihláře z Točníka čp. 30, a Anny Tumpachové z Oseka na Rokycansku. Matka Anna byla dcerou Josefy Hasmanové, vnučkou Václava Hasmana z Oseka čp. 26 na Hořovicku a Barbory Froňkové. Pozdější přípis uvádí úmrtí 26. října 1950 v Bukové.",
+  "svazek": "pocaply_17_n",
+  "strana": "179",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/10169/185",
+  "pozn": "Snímek 185, čtvrtý řádek. Matrikář přípis zapsal 24. 11. 1950. Datum narození a rodiče odpovídají údajům u vlastního syna Františka (1913)."
+ },
+ {
+  "klic": "n_1913_beran_frantisek_kunovice",
+  "druh": "N",
+  "datum": "27. 9. 1913",
+  "nazev": "Narození Františka Berana, Kuňovice čp. 2",
+  "shrnuti": "František se narodil 27. září 1913 v Kuňovicích čp. 2. Otec Josef Beran byl cihlář a nájemník, narozený 24. 3. 1883 v Levíně čp. 6 Františku Beranovi a Anně Hasmanové. Matka Emilie byla dcerou Františka Kozáka z Robous čp. 75 a Barbory, dcery Jana Kapla. Okrajový záznam uvádí sňatek rodičů 8. října 1907.",
+  "svazek": "borovnice_17_n",
+  "strana": "69",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/4127/150",
+  "pozn": "Snímek 150, třetí řádek. U matky je čp. 35 místo čp. 33 z jejího křtu. Přípis uvádí Františkovy oddavky ve Vlašimi 12. 11. 1939 s Růženou, jejíž příjmení je málo zřetelné."
+ },
+ {
+  "klic": "n_1860_hasmanova_anna",
+  "druh": "N",
+  "datum": "31. 12. 1860",
+  "nazev": "Narození Anny Hasmanové, Komárov čp. 54",
+  "shrnuti": "Anna se narodila 31. prosince 1860 v Komárově čp. 54, pokřtěna 1. ledna 1861. Matka Josefa Hasmanová, narozená v Oseku čp. 14 na Hořovicku, byla dcerou Václava Hasmana z Oseka čp. 26 a Barbory Froňkové z Oseka čp. 14. Otcovství stvrdil podpisem čeledín Josef Pondělíček z Tlustic čp. 17.",
+  "svazek": "mrtnik_05_n",
+  "strana": "213",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/8918/203",
+  "pozn": "Snímek 203, poslední řádek. Druhá Anna Hasmanová z Komárova narozená v listopadu 1860 má jiné rodiče."
+ },
+ {
   "klic": "n_1893_svatkova_ludmila",
   "druh": "N",
   "datum": "18. 10. 1893",
@@ -2057,7 +2112,7 @@
   "svazek": "pravonin_26",
   "strana": "70",
   "odkaz": "https://ebadatelna.soapraha.cz/d/15260/71",
-  "pozn": "Snímek 71, zápis 14, fasc. cop. 1920 č. 15. U otce nevěsty je místo opravované. Kuňovice čp. 20 u svědka jsou jiné místní označení než Pravonín čp. 20 u snoubenců. Totožnost svědka s hledaným Josefem Beranem starším a příbuznost s nevěstou zůstávají otevřené."
+  "pozn": "Snímek 71, zápis 14, fasc. cop. 1920 č. 15. U otce nevěsty je místo opravované. Kuňovice čp. 20 u svědka jsou jiné místní označení než Pravonín čp. 20 u snoubenců. Svědek Josef byl starším bratrem nevěsty po otci. Jejich křty jmenují stejného otce, ale různé matky, Annu Hasmanovou a Marii Froňkovou."
  },
  {
   "klic": "n_1898_beranova_bozena_marie",
@@ -2096,7 +2151,7 @@
   "druh": "N",
   "datum": "8. 7. 1882",
   "nazev": "Narození Emilie Marie Kozákové, Robousy (fara Jičín) – kandidátka",
-  "shrnuti": "8. 7. 1882 narozena a pokřtěna (Jos. Jidler (?), kaplan) v Robousích č. 33: Emilie Marie, dcera Františka Kozáka, podruha v Robousích č. 33, syna † Václava Kozáka, podruha ze Želejova č. 1 (okr. Turnov), a Františky dcery Václava Ouhrábka, chalupníka v Boskově č. 59 (okr. Semily) – a Barbory, dcery † Jana Kapla, podruha z Robous č. 48, a Anny dcery Františka Kozáka, domkáře z Popovic. Kmotři Marie Kopecká, vdova po † Josefu Kopeckém, rolníku v Robousích č. 33, a Jan Studnička, obuvník v Robousích č. 34. Porodní bába Františka Záděrová z Jičína č. 57. KANDIDÁTKA na Emilii Beranovou: sňatek syna 1936 jmenuje jejího otce Františka Kozáka z Robous č. 75; v Robousích jiná vhodná Emilie Kozáková 1872–1896 není (Emilie * 13. 12. 1896 z č. 51 je dcera Josefa Kozáka – příliš mladá). Spojení č. 33 → č. 75 zatím nedoloženo.",
+  "shrnuti": "8. 7. 1882 narozena a pokřtěna (Jos. Jidler (?), kaplan) v Robousích č. 33: Emilie Marie, dcera Františka Kozáka, podruha v Robousích č. 33, syna † Václava Kozáka, podruha ze Želejova č. 1 (okr. Turnov), a Františky dcery Václava Ouhrábka, chalupníka v Boskově č. 59 (okr. Semily) – a Barbory, dcery † Jana Kapla, podruha z Robous č. 48, a Anny dcery Františka Kozáka, domkáře z Popovic. Kmotři Marie Kopecká, vdova po † Josefu Kopeckém, rolníku v Robousích č. 33, a Jan Studnička, obuvník v Robousích č. 34. Porodní bába Františka Záděrová z Jičína č. 57. Křest syna Františka Berana roku 1913 uvádí tytéž rodiče Emilie z Robous, s čp. 75 u otce a s čp. 35 u jejího narození. Soudobý křest má čp. 33.",
   "svazek": "jicin_70_3361",
   "strana": "13",
   "odkaz": "https://aron.vychodoceskearchivy.cz/apu/6965d7a1-245b-4202-a440-c7a4a46b263b",
@@ -3424,7 +3479,7 @@
   "svazek": "hruba_skala_4908",
   "strana": "opravená s. 389, tužkou 248, sn. 252, druhý zápis shora",
   "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3QS7-89GT-SDD",
-  "pozn": "Doklad k rodině Emilie Marie Kozákové narozené v Robousích roku 1882. Její totožnost s matkou Josefa Berana zůstává otevřená."
+  "pozn": "Doklad k rodině Emilie Marie Kozákové narozené v Robousích roku 1882. Křest syna Františka Berana z roku 1913 potvrzuje totožnost jeho matky Emilie údaji o obou jejích rodičích."
  },
  {
   "klic": "n_1845_kaplova_barbora",
@@ -3435,7 +3490,7 @@
   "svazek": "jicin_70_26",
   "strana": "fol. 298–299, tužkou 121, sn. 123, poslední zápis",
   "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9P5-Z34C-F",
-  "pozn": "Doklad k rodině Emilie Marie Kozákové narozené v Robousích roku 1882. Její totožnost s matkou Josefa Berana zůstává otevřená."
+  "pozn": "Doklad k rodině Emilie Marie Kozákové narozené v Robousích roku 1882. Křest syna Františka Berana z roku 1913 potvrzuje totožnost jeho matky Emilie údaji o obou jejích rodičích."
  },
  {
   "klic": "o_1867_kozak_kaplova",
@@ -3446,7 +3501,7 @@
   "svazek": "jicin_70_3364",
   "strana": "s. 42, tužkou 234, sn. 238, poslední zápis",
   "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-TJB7",
-  "pozn": "Doklad k rodině Emilie Marie Kozákové narozené v Robousích roku 1882. Její totožnost s matkou Josefa Berana zůstává otevřená."
+  "pozn": "Doklad k rodině Emilie Marie Kozákové narozené v Robousích roku 1882. Křest syna Františka Berana z roku 1913 potvrzuje totožnost jeho matky Emilie údaji o obou jejích rodičích."
  },
  {
   "klic": "j_1920_beran_pijavky",
@@ -3501,7 +3556,7 @@
   "svazek": "jicin_70_3365",
   "strana": "fol. 4, zápis 2, sn. 6",
   "odkaz": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9PX-THHV",
-  "pozn": "Dřívější odečet celého zápisu. Přiložený obraz zachycuje viditelnou levou část se jmény, pravá část se svědky je v badatelské zprávě. Antonín je bratrem Emilie Marie narozené roku 1882. Její ztotožnění s matkou Josefa Berana zůstává otevřené."
+  "pozn": "Dřívější odečet celého zápisu. Přiložený obraz zachycuje viditelnou levou část se jmény, pravá část se svědky je v badatelské zprávě. Antonín je bratrem Emilie Marie narozené roku 1882. Totožnost potvrdil křest syna Františka Berana z roku 1913."
  },
  {
   "klic": "j_1778_maximilian_dedictvi_rache",

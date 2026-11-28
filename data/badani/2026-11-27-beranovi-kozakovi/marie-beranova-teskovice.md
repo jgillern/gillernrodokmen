@@ -1,5 +1,7 @@
 # Marie Beranová z Těškovic, sňatek v Pravoníně 1939
 
+**Nové pokračování.** Josef z Těškovic čp. 9 je doložen ještě jako otec Eduarda Berana, obecní hajný v roce 1926. Maďarský prvopis z roku 1899 potvrzuje jeho původ v Těškovicích a věk 36 let, kterému odpovídá onšovský křest ze dne 20. prosince 1862. Stejné místo v zápisu z roku 1939 podporuje příslušnost Marie ke stejné rodině. [Nové doklady z Onšova a Verőce](../2026-11-28-beranovi-kunovice-pijavky/teskovice-onsov.md)
+
 V pravonínském kostele byli oddáni **20. června 1939** Jaroslav [Hnulec?] a **Marie Beranová**, oba tehdy v **Pravoníně čp. 87**. Zápis přímo jmenuje matku a děda nevěsty. Její otec v této rubrice uveden není. [Pravonín 26, s. 107, sn. 108, zápis č. 7](https://ebadatelna.soapraha.cz/d/15260/108) · [Výřez zápisu](doklady/pravonin-26-sn108-marie-beranova-1939.jpg)
 
 | Položka | Přímý odečet |

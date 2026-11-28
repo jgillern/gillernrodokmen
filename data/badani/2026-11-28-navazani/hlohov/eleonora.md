@@ -41,3 +41,7 @@ Přihlášená relace zpřístupnila katalogy i běžné digitální jmenné ind
 ## Stav
 
 Sňatek ani pohřeb Eleonory se jménem jejího manžela dosud doložen není. Přístupné jsou popisy skutečných abecedních rejstříků, jejichž obsah se online nepodařilo otevřít, a plné snímky státního archivu k omezené skupině pohřebních koncesí od roku 1777. Při pokračování je účelný nejprve rejstřík PGM-kat 11 nebo 12, nebo přímý text fundační listiny přiložené 20. července 1778. Jejich dosud neověřený obsah neumožňuje určit Eleonořin rodinný vztah k Maximiliánovi.
+
+## Účet nadace Racheů a Gillerů
+
+AP Zielona Góra, sv. Mikuláš v Hlohově, **89/92/0/3.8/675**, účet nadace za rok 1837. Snímek 3 je uzávěrka předchozího roku. „Die v. Rachesche Fundations Rechnung schloß mit dem Jahre 1836 wie folgt ab.“ Česky „Účet nadace von Rache skončil rokem 1836 následovně.“ Po této větě jsou souhrnné částky a zůstatek k prosinci 1836. Snímek 4 vypisuje úroky a jistiny s pozdějšími dlužníky. Jeden z kapitálových záznamů uvádí **4. listopad 1797**, následují mj. roky 1818 a 1819. Oba přečtené obrazy se týkají stavu nadace v 19. století. Jméno manžela Eleonory ani text zakládací listiny v nich zapsány nejsou. [Jednotka s dalšími listy](https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/6659487) · [Snímek 3](https://www.szukajwarchiwach.gov.pl/skan/-/skan/b1b7e927a84d01791f0d3d4e7f7d29f7ce5799bb634b84ef37f6127bdf58f637) · [Snímek 4](https://www.szukajwarchiwach.gov.pl/skan/-/skan/a230c1a71905dd1c48305562724803d1798f97c99436fa9ecfdabd7c3cac015d)

@@ -14,6 +14,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
+## 28. 11. 2026 · Chotusické oddavky a úvalenský rychtář
+
+Přečtené oddavky Chotusice 13 nepřinesly sňatek Maximiliána a Johanny v letech 1745–1749. Chotusice 14 začínají 3. února 1750, po křtu v Boru. Z hlohovského soupisu z roku 1740 je otevřeno nařízení a předávací korespondence. Milotický zápis 15. února 1707 uvádí celé jméno Friderich Wilhelm Heinrich a úvalenský rychtářský úřad. V Úvalně je roku 1671 u Mariny doložen otec Friderich Heinrich a matka Anna, jejich vztah k Johannovi Georgovi je k ověření. [Výsledky, přepisy, výřezy a další online kroky](badani/2026-11-28-navazani/README.md)
+
 ## 28. 11. 2026 · Gillernové v závěti Karla z Rache a rychta v Kunčicích
 
 Závěť z 4. 10. 1777 řadí Maximiliána mezi Karlovy příbuzné po matce a přímo jmenuje matky obou mužů. Karlova matka Marie Alžběta rozená Nerlichová je zároveň zapsána v Krehlau roku 1723 jako kmotra v rodině Maximiliánových rodičů a pochází z Velkého Hlohova ve smyslu uvedeného bydliště. Přesný stupeň příbuzenství, Josefův křest a jeho matka zůstávají otevřené. V Činěvsi je dočteno 148 oddavek 1743–1748. Ke kunčické rychtě přibyl čitelný záznam o koupi pole a patrně dvou domů roku 1661 s nejmenovaným rychtářem. [Souhrn, prameny a výřezy](badani/2026-11-28-primarni-prameny/README.md)

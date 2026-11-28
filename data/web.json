@@ -746,7 +746,27 @@
    "rod": 14,
    "koren": 59,
    "nazev": "Kaplovi",
-   "popis": "Podruzi z Robous u Jičína.",
+   "popis": "Invalida a nádeník Jan Angl (Kapl) v Robousích u Jičína; jeho děd Augustin Angl byl slouhou v Nedražicích na Plzeňsku."
+  },
+  {
+   "rod": 14,
+   "koren": 237,
+   "nazev": "Anglovi",
+   "popis": "Slouha Augustin Angl z Nedražic čp. 6 u Stříbra (kolem roku 1800).",
+   "maly": true
+  },
+  {
+   "rod": 14,
+   "koren": 119,
+   "nazev": "Kozákovi z Popovic",
+   "popis": "Baráčníci z Popovic čp. 19 u Jičína (od 1805).",
+   "maly": true
+  },
+  {
+   "rod": 14,
+   "koren": 239,
+   "nazev": "Černí",
+   "popis": "Kovář Matěj Černý z Labouně u Libáně.",
    "maly": true
   },
   {

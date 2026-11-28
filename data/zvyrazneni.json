@@ -4918,5 +4918,65 @@
   ],
   "status": "ok",
   "note": "čtený zápis (doplněno při kontrole 28. 11. 2026)"
+ },
+ "o_1842_robousy_angl_kozakova": {
+  "boxes": [
+   [
+    0.005,
+    0.03,
+    0.99,
+    0.79
+   ]
+  ],
+  "status": "ok",
+  "note": "ženich vlevo, nevěsta a svědci vpravo"
+ },
+ "o_1840_robousy_angl_valkova": {
+  "boxes": [
+   [
+    0.01,
+    0.07,
+    0.99,
+    0.93
+   ]
+  ],
+  "status": "ok",
+  "note": "ženich vlevo, nevěsta a svědci vpravo"
+ },
+ "n_1815_popovice_kozakova_katerina": {
+  "boxes": [
+   [
+    0.01,
+    0.04,
+    0.99,
+    0.96
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "o_1805_popovice_kozak_cerna": {
+  "boxes": [
+   [
+    0.01,
+    0.09,
+    0.99,
+    0.97
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "z_1884_robousy_kaplova_katerina": {
+  "boxes": [
+   [
+    0.01,
+    0.04,
+    0.99,
+    0.96
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }

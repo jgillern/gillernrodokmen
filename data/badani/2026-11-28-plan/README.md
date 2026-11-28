@@ -24,8 +24,8 @@ Pořadí: **A. Kaplovi** (nejkratší větev, rychlý zisk) → **B. Maximilián
 Výřezy jsou v `data/badani/2026-11-27-beranovi-kozakovi/doklady/` (např. `070-00032-sn129-*.jpg`, `popovice-131-1-f110-*.jpg`, `popovice-131-4-f16-kozak-cerny.jpg`).
 
 **Kroky:**
-1. **Ověřit a zapsat (Claude, hned).** Přečíst sám originály čtyř klíčových zápisů – oddavky 1842 a 1840, křest Kateřiny 1815, oddavky 1805 a úmrtí Kateřiny 1884 – a zapsat osoby 118, 119, 237, 238, 239, 474, 475 a 478 se záznamy, výřezy a přepisy. *Proč:* větev se prodlouží z 5. na 8. generaci a místo Robous se otevře Plzeňsko (Nedražice, Kladruby) a Libáňsko (Labouň).
-2. **Křest Jana Angla, Nedražice 1800–1801** – kniha Kostelec 06 (SOA Plzeň, Porta fontium), celé roky 1800–1801 včetně rejstříku; dřív hlásila chybu 503. Zkusí Claude přes brzdu; když server znovu nepůjde, předá se pomocníkovi v Janově prohlížeči (Opus). *Proč:* křest jmenuje Evu a často i kmotry z rodiny – potvrdí totožnost a dá rok narození.
+1. ✓ **Hotovo 28. 11. (deník č. 974)** – ověřeno na originálech a zapsáno, navíc pravděpodobná Alžběta (č. 479). **Ověřit a zapsat (Claude, hned).** Přečíst sám originály čtyř klíčových zápisů – oddavky 1842 a 1840, křest Kateřiny 1815, oddavky 1805 a úmrtí Kateřiny 1884 – a zapsat osoby 118, 119, 237, 238, 239, 474, 475 a 478 se záznamy, výřezy a přepisy. *Proč:* větev se prodlouží z 5. na 8. generaci a místo Robous se otevře Plzeňsko (Nedražice, Kladruby) a Libáňsko (Labouň).
+2. ✗ **Nedražice 28. 11. bez nálezu (deník č. 975)** – rejstřík narozených 1784–1871 nemá Angla ani Kapla; stopa: pastýř Matthaeus Kapl 1781. Pokračuje pomocník (`zadani_lokalni_anglovi_nedrazice.md`). **Křest Jana Angla, Nedražice 1800–1801** – kniha Kostelec 06 (SOA Plzeň, Porta fontium), celé roky 1800–1801 včetně rejstříku; dřív hlásila chybu 503. Zkusí Claude přes brzdu; když server znovu nepůjde, předá se pomocníkovi v Janově prohlížeči (Opus). *Proč:* křest jmenuje Evu a často i kmotry z rodiny – potvrdí totožnost a dá rok narození.
 3. **Augustin Angl × Anna (Marklová ?)** – oddavky Nedražice: Kostelec 11 (rejstřík ženichů) a Kostelec 04 (1773–1783); křest Evy podle nalezeného sňatku. U Anny ověřit „čp. 14, panství Kladruby“ – Kladruby 07 (1784–1800) a pozemková kniha Mileva 1771–1803 (Porta fontium, Velkostatek Kladruby K 128). Opus. *Proč:* další generace na Plzeňsku a rodné příjmení Anny.
 4. **František Kozák (* asi 1784)** – ověřit kandidáta *František, * 10. 12. 1784 Popovice čp. 35, syn Jana a Doroty* (Popovice 131-1, s. 2) proti rodině v čp. 19: sňatek Jana Kozáka a Doroty (Popovice 131-4 / Jičín 70-18) a úmrtí Františka (Popovice / Robousy). Opus. *Proč:* rozhodne, zda Kozákovi z Popovic pokračují do 18. století.
 5. **Matěj Černý, kovář v Labouni** – farnost Libáň: křest Kateřiny asi 1776–1777 a sňatek Matěje; v Labouni hledat čp. 28. Opus. *Proč:* další generace mateřské linie Kaplových.
@@ -62,3 +62,15 @@ Výřezy jsou v `data/badani/2026-11-27-beranovi-kozakovi/doklady/` (např. `070
 - `zadani_lokalni_kristian_snatek_viden.md` – sňatek Kristiána z Gillernů ve Vídni (Opus).
 - `zadani_lokalni_pardubice_vdova_anna.md` – vdova po kapitánovi Friedrichovi (Opus).
 - `zadani_lokalni_pruske_gillern_index.md` – pruští Gillernové v rejstříku FamilySearch (Sonnet, vysoké úsilí).
+
+---
+
+## Zadání předaná pomocníkům (28. 11.)
+
+| Zadání | Model | Body plánu |
+|---|---|---|
+| `zadani_lokalni_kaplovi_zamrsk.md` | Opus, střední | A4, A5, A6 |
+| `zadani_lokalni_anglovi_nedrazice.md` | Opus, střední | A2, A3 |
+| `zadani_lokalni_ostrov_brandys.md` | Opus, střední | B1 |
+| `zadani_lokalni_kuncice_preichau.md` | Opus, střední | C1, C2, C3 |
+| `zadani_lokalni_nerlich_olomouc_sonnet.md` | Sonnet, vysoké | B2, C4 |

@@ -674,5 +674,26 @@
   "lat": 49.8354,
   "lon": 13.9139,
   "osm": "Velká Víska, Hořovice, okres Beroun, Středočeský kraj, 268 01, Česko"
+ },
+ "Popovice (Jičín)": {
+  "re": "Popovic",
+  "dotaz": "Popovice, okres Jičín",
+  "lat": 50.4146,
+  "lon": 15.3728,
+  "osm": "Popovice, Jičín, okres Jičín, Královéhradecký kraj, Česko"
+ },
+ "Labouň": {
+  "re": "Labou[nň]",
+  "dotaz": "Labouň, okres Jičín",
+  "lat": 50.3457,
+  "lon": 15.3294,
+  "osm": "Labouň, Jičíněves, okres Jičín, Královéhradecký kraj, 507 33, Česko"
+ },
+ "Nedražice": {
+  "re": "Nedražic",
+  "dotaz": "Nedražice, okres Tachov",
+  "lat": 49.6558,
+  "lon": 13.0345,
+  "osm": "Nedražice, Kostelec, okres Tachov, Plzeňský kraj, Česko"
  }
 }

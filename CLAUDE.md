@@ -16,8 +16,8 @@ Po skončení každého kola shrň Janovi nejslibnější další online kroky p
 
 [Platný plán pro obě priority](data/badani/2026-11-27-plan/README.md) · [Výzkum svatebního svědka v Krehlau a další ověřené prameny](data/badani/2026-11-27-online/README.md)
 
-## Badatelské předání z 25. 11. 2026
+## Badatelské předání z 25. 11. 2026 (historie – platí stav a plán z 28. 11. v `data/STAV.md`)
 
-Po přečtení stavu otevři [platný plán pro Josefa a Maximiliána a přehled odložených témat](plan_badani_2026-11-25.md) a [ověřené výsledky a opravy profilů](data/badani/2026-11-25/README.md). Toto pořadí nahrazuje pořadí z 23.–24. listopadu. Doplňkové agenty pro projekt spouštěj vždy výslovně v modelu Sol. Astra koordinuje práci a vyhodnocuje důkazy. Dokončená zjištění průběžně zapisuj do deníku a do příslušných historických podkladů.
+Po přečtení stavu případně otevři [platný plán pro Josefa a Maximiliána a přehled odložených témat](plan_badani_2026-11-25.md) a [ověřené výsledky a opravy profilů](data/badani/2026-11-25/README.md). Toto pořadí nahrazuje pořadí z 23.–24. listopadu. Dokončená zjištění průběžně zapisuj do deníku a do příslušných historických podkladů.
 
 Na plán navazuje [druhé kolo, prameny a výřezy](data/badani/2026-11-25-kolo2/README.md). U matrik zvaž také FamilySearch. Uveď katalog, číslo filmu nebo DGS, dostupnost obrazů a skutečně přečtené roky či snímky. U knih a edic ověř Národní digitální knihovnu. Pokud se konkrétní svazek dá číst vzdáleně po přihlášení, předej čtenáři přímý odkaz a připrav přesnou stranu či heslo k ověření.

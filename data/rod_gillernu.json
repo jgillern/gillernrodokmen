@@ -727,7 +727,7 @@
     "Byl „Franz von Gillern“ († 1817 Malejovice, * asi 1747) synem Maximiliána a bratrem Josefa?",
     "Kdo byla Maximiliánova manželka Johanna (* asi 1723, † 1782)?",
     "Je JUDr. Karel Gillern (1888–1953) opravdu syn Čeňka z Gillernů?",
-    "Je kapitán Jan Bedřich (Friedrich) baron z Gillernů (pluk Pallavicini, × 1765 Pardubice) totožný s Maximiliánovým bratrem Johannem Friedrichem Rudolphem (* 1724 Krehlau)? Jeho záznamy (věk, rodiště) by mohly prozradit původ rodiny."
+    "Byli kunčičtí Gillerové (dědičný rychtář Christoph Giller v Hořejších Kunčicích u Deštného – „Deschny“, 1678–1704) otcem nebo blízkými příbuznými Christopha Heinricha a Friedricha Wilhelma I.? Rozhodl by jmenovitý doklad příbuzenství (urbář 1664, kupní smlouvy 1659/1661, list na šlechtictví 1700)."
   ],
   "zdroje": [
     {
@@ -1534,7 +1534,9 @@
         "Roku 1723 (podle Sinapia, 1728) byl ještě naživu a měl pět synů: Franze Leopolda, zemského písaře knížectví Minstrberského a Frankenštejnska; Friedricha Wilhelma, hejtmana pluku barona Geyera v Sedmihradsku; Johanna Petera, praporčíka téhož pluku; Carla Ludwiga, dobrovolníka v armádě; a Carla Josepha, sekretáře knížete z Lichtenštejna v Opavě a Krnově (ten se roku 1723 oženil ve Vídni s Joannou Magdalenou von Mohr; pánem Koryčan byl jeho starší příbuzný Karel Josef).",
         "Roku 1719 byl v Krehlau kmotrem našeho Maximiliána, syna svého synovce Carla Heinricha.",
         "Rok úmrtí 1728 se uvádí bez dobového dokladu. Sinapiova zpráva se vztahuje k roku 1723. Při sňatku syna 5. 2. 1743 je Friedrich Wilhelm I. výslovně zesnulý.",
-        "Jeho syn Johann Carl Ludwig se 5. 2. 1743 oženil v Trachenbergu (Żmigród) s Johannou Leonorou, dcerou zesnulého radního města Winzig Johanna Carla Eberta (?); otec je v zápisu „weyland“ (zesnulý) rytíř Friedrich Wilhelm von Giller, bývalý císařsko-královský účetní a rada."
+        "Jeho syn Johann Carl Ludwig se 5. 2. 1743 oženil v Trachenbergu (Żmigród) s Johannou Leonorou, dcerou zesnulého radního města Winzig Johanna Carla Eberta (?); otec je v zápisu „weyland“ (zesnulý) rytíř Friedrich Wilhelm von Giller, bývalý císařsko-královský účetní a rada.",
+        "21. 1. 1687 se v Hořejších Kunčicích (farnost, k níž patřily i vsi karlovského panství) vdávala „Jungfrau Mariana deß Edell Vesten Herrn Fridrich Gillers wohl verordneten Herrn Ambtmanns bey Carlsberg Eheleibliche Tochter“ za Michaela Roßmanka (?), vdovce a svobodného dvořáka z Razové (?). Místo správcovy služby čte projekt jako Carlsberg (Karlovec; v kmenových listech jeho syna Friedricha Wilhelma II. „Carlsburg in Mähren“). Pokud jde o dceru Friedricha Wilhelma I., narodil se on nejspíš už kolem roku 1640–1645, ne 1651 (Hořejší Kunčice, Dv IV 1, oddaní, sn. 5).",
+        "Hořejší Kunčice, kde se dcera vdávala, sousedí s Deštným („Dorff Deschna“) – místem, které rodopis 1884 uvádí u nejstaršího předka Heinricha Christofa. V Hořejších Kunčicích byl v letech 1678–1701 dědičným rychtářem Christoph Giller (Killer); viz profil „Christoph Giller, dědičný rychtář v Hořejších Kunčicích“."
       ],
       "vztahy": [
         {
@@ -1588,7 +1590,8 @@
         "n_1719_giller_maximilian",
         "o_1723_giller_mohr",
         "o_1743_trachenberg_giller_ebert",
-        "z_1747_trachenberg_gyllar_johanna_charlotta"
+        "z_1747_trachenberg_gyllar_johanna_charlotta",
+        "o_1687_kuncice_mariana_giller"
       ]
     },
     "fw2": {
@@ -1921,7 +1924,8 @@
         "Od roku 1748 sloužil v pruské armádě (podle životopisů z let 1780 a 1789 vstoupil roku 1749 k pěšímu pluku Tauentzien, praporčíkem byl od září 1752). V bitvě u Torgavy (1760) stál proti rotě svého bratrance z druhého kolena Kristiána, který bojoval na rakouské straně.",
         "1773–1787 velel posádkovému granátnickému praporu č. 6 v Nise, 1787 se stal šéfem fyzilírského praporu č. 9 a 1789 šéfem pěšího pluku č. 16 v Královci a generálmajorem; rytíř řádu Pour le Mérite.",
         "Roku 1767 se oženil s Annou Dorotheou von Arndt; jediná dcera Amalie (1774–1792).",
-        "Roku 1792 odešel na odpočinek a 13. 6. téhož roku zemřel v Královci."
+        "Roku 1792 odešel na odpočinek a 13. 6. téhož roku zemřel v Královci.",
+        "Závěť Karla z Rache, hlohovského advokáta, ze 4. 10. 1777 (vyhlášena 20. 10. 1777; Archiwum Państwowe w Zielonej Górze, fara sv. Mikuláše v Hlohově, spis 89/92/0/1.3/121, sn. 17–18) ho jmenuje mezi dětmi Cathariny Barbary roz. Nerlichové jako „den Königl. Preuß. Major und Chef eines Grenadier-Bataillons zu Neiße Herrn Ernst von Giller“."
       ],
       "vztahy": [
         {
@@ -1961,15 +1965,19 @@
         {
           "nazev": "pruské armádní seznamy 1778–1792"
         }
+      ],
+      "zaznamy": [
+        "j_1777_hlohov_zavet_rache"
       ]
     },
     "jan_bedrich": {
       "jmeno": "Jan Bedřich (Johann Friedrich) baron z Gillernů",
       "krest": "Johann Friedrich Rudolph",
-      "roky": "1724 – po 1771",
-      "stav": "prob",
-      "vazba": "nejspíš mladší bratr našeho Maximiliána; kapitán rakouské armády a kmotr Maximiliánových dětí",
+      "roky": "1724 – po 1777",
+      "stav": "doc",
+      "vazba": "mladší bratr našeho Maximiliána; rakouský důstojník (kapitán, od 1771 major) a kmotr Maximiliánových dětí",
       "fakta": [
+        "Závěť Karla z Rache, hlohovského advokáta, ze 4. 10. 1777 (vyhlášena 20. 10. 1777; Archiwum Państwowe w Zielonej Górze, fara sv. Mikuláše v Hlohově, spis 89/92/0/1.3/121, sn. 17–18) odkazuje třetinu majetku dětem Cathariny Barbary roz. Nerlichové a mezi nimi jmenuje „Herrn Friedrich von Giller, Kayserl. Königl. Platz-Major zu Groß Wardein in Ungern“. Tím je doloženo, že kapitán a major Friedrich byl synem Carla Heinricha a Cathariny Nerlichové, tedy Maximiliánovým bratrem, a že roku 1777 ještě žil jako velitel místa ve Velkém Varadíně (dnes Oradea).",
         "V přehlídkách Pallaviciniho pěšího pluku (pozdější č. 15) je Friedrich baron z Gillernů zapsán jako katolík, rodák z Hammeru ve Slezsku, kde sídlil Carl Heinrich von Giller.",
         "V přehlídce 30. 12. 1767 (Vídeň) je už „verheyrathet mit 1 Kind“ (ženatý, 1 dítě), 40 let, vlastnoruční podpis „Gillern“ – souhlasí se sňatkem v Pardubicích 1765.",
         "Nejspíš totožný s Johannem Friedrichem Rudolphem, pokřtěným 29. 12. 1724 v Krehlau jako syn Carla Heinricha von Giller a Cathariny roz. Nerlichové – tedy s Maximiliánovým o pět let mladším bratrem. Pro to mluví jméno, věk, šlechtický titul i to, že kmotroval Maximiliánovým dětem, které dostaly jména Bedřich Rudolf a Jan Bedřich.",
@@ -2021,7 +2029,8 @@
         "n_1766_gillern_jan_bedrich",
         "j_1762_ir15_gillern_friedrich",
         "j_1756_ir15_gillern_friedrich",
-        "j_1770_ir15_gillern_friedrich"
+        "j_1770_ir15_gillern_friedrich",
+        "j_1777_hlohov_zavet_rache"
       ]
     },
     "franz_leopold": {
@@ -2702,13 +2711,15 @@
         "Kmotry byli Franz Valentin Klinge, purkmistr ve Winzigu, paní Carolina von Gillerová, „hejtmanová z Preichau“, a teta Eleonora Hedwig von Gillerová, paní na Horním Krehlau.",
         "20. 5. 1726 byla v Krehlau kmotrou jako „slečna Maria Josepha von Gillerin z Hammeru“. V červenci 1736 byla kmotrou znovu – tehdy za ni u křtu stála v zastoupení jiná urozená dáma a zápis ji nazývá dcerou pana Carla Heinricha von Giller, dědičného pána na Hammeru a Dolním Krehlau.",
         "24. 11. 1747 se v Krehlau vdala za Philippa Augusta Nohu von Schwarzenfeld, radního ve Volově (Wohlau, dnes Wołów). Matrika má zkrácenou či hůře čitelnou podobu příjmení Noa. Ročenka na rok 1747 ho ve Volově uvádí jako radního, správce prostředků pro vojenské ubytování, depozitáře a inspektora staveb a mlýnů. Jako radní je jmenován i v ročenkách na léta 1748, 1752, 1753, 1759, 1765 a 1770. Oddávající je čten jako Joannes Nepomucenus Vincentius (?) von …. Ve svědecké části jsou patrná dvě označení Pater. Celá jména svědků ani osobní účast Maximiliána z obrazu bezpečně nevyčteme.",
-        "Ve Volově byla 22. 1. 1746 pohřbena Rosalia, šestatřicetiletá manželka tamějšího radního von Schwartzenfeld. Dne 15. 9. 1751 tam byl pohřben šestiletý Caspar, syn radního Augusta von Schwarzenfeld. Jméno, predikát a úřad podporují určení muže jako Philippa Augusta Nohy. Caspar se narodil před jeho sňatkem s Marií Josefou Alžbětou. Rosalia je jeho pravděpodobnou matkou, pohřeb ji nejmenuje."
+        "Ve Volově byla 22. 1. 1746 pohřbena Rosalia, šestatřicetiletá manželka tamějšího radního von Schwartzenfeld. Dne 15. 9. 1751 tam byl pohřben šestiletý Caspar, syn radního Augusta von Schwarzenfeld. Jméno, predikát a úřad podporují určení muže jako Philippa Augusta Nohy. Caspar se narodil před jeho sňatkem s Marií Josefou Alžbětou. Rosalia je jeho pravděpodobnou matkou, pohřeb ji nejmenuje.",
+        "Závěť Karla z Rache (Hlohov, 4. 10. 1777) ji jmenuje na prvním místě mezi dětmi Cathariny Barbary roz. Nerlichové jako „Josepha von Schar(r)enfeld geb. von Giller“, paní radní ve Volově."
       ],
       "zaznamy": [
         "n_1736_krehlau_giller_kmotra",
         "o_1747_krehlau_giller_maria_josepha",
         "z_1746_wohlau_rosalia_schwarzenfeld",
-        "z_1751_wohlau_caspar_schwarzenfeld"
+        "z_1751_wohlau_caspar_schwarzenfeld",
+        "j_1777_hlohov_zavet_rache"
       ],
       "vztahy": [
         {
@@ -5168,10 +5179,11 @@
     },
     "ignac_slezsko": {
       "jmeno": "Ignác z Gillernů „ve Slezsku“ (1784)",
-      "roky": "doložen 1784",
+      "roky": "doložen 1739–1784",
       "stav": "doc",
-      "vazba": "příbuzný Maximiliána z Gillernů ze Slezska – jak blízký, nevíme",
+      "vazba": "bratr Maximiliána z Gillernů – syn Carla Heinricha von Giller a Cathariny roz. Nerlichové",
       "fakta": [
+        "Závěť Karla z Rache, hlohovského advokáta, ze 4. 10. 1777 (vyhlášena 20. 10. 1777; Archiwum Państwowe w Zielonej Górze, fara sv. Mikuláše v Hlohově, spis 89/92/0/1.3/121, sn. 17–18) jmenuje mezi dětmi Cathariny Barbary roz. Nerlichové na třetím místě „Ignatz von Giller“ v Nise (Neiße). Ignác ze Slezska, kmotr v Poděbradech 1784, byl tedy Maximiliánův bratr, ne jeho syn; nejspíš je totožný s Ignatiem Antoniem, synem pána na Hammeru (kmotr v Krehlau 1739). Starší výklad slova za „Incola“ jako „Míšeň / Mösen“ je tím překonán – roku 1777 žil v Nise.",
         "8. 11. 1784 byl v Poděbradech kmotrem (v zastoupení) Maximiliánova vnuka Maximiliána Clannera z Engelshofenu: „Perillustris Dominus Ignatius de Güllern in Silesia Incola M…“ – obyvatel Slezska; poslední slovo se nedá jistě přečíst (snad Misnie). Za kmotra se bral blízký příbuzný – Ignác tedy rodinu v Poděbradech znal.",
         "Na Hammeru kmotroval roku 1739 Ignatius Antonius Giller, výslovně syn pána von Giller na Hammeru. Zda jde o stejného člověka, by musel doložit další pramen. Mezi oběma zprávami uplynulo 45 let.",
         "Článek „Rod Kroužkův“ v Polabských novinách (1928) píše, že si Rosálie Kroužková z Poděbrad (* 1745) vzala „panského lesníka Ignáta z Gillernů, který pocházel z Míšně ve Slezsku“, a jejich dcera Anna zemřela roku 1772. Matriky to nepotvrzují: Anna † 1772 je zapsána jen jako dcera Rosálie Kroužkové a Rosálie byla manželkou vojáka Josefa Gillara – autor článku zřejmě obě osoby zaměnil a údaj „z Míšně“ převzal z křtu 1784.",
@@ -5180,7 +5192,8 @@
       "zaznamy": [
         "n_1784_clanner_maximilian",
         "j_1928_krouzkovi_gillern",
-        "z_1772_krouzkova_anna"
+        "z_1772_krouzkova_anna",
+        "j_1777_hlohov_zavet_rache"
       ],
       "vztahy": [
         {
@@ -5273,11 +5286,13 @@
       "fakta": [
         "Při křtu Frantze Josepha Bäuera v Krehlau 28. 6. 1739 je prvním kmotrem jako „Ignatius Antonius Giller des Gnädigen Herrn Von Giller auff Hamer geliebter Herr Sohn“. Matrika jeho matku nejmenuje.",
         "Při křtu Marie Rosiny Bäuerové, sestry téhož dítěte, roku 1736 vystupuje Friedrich Igna[…] Giller, výslovně syn Carla Gillera. Podoby jmen se liší. Zda obě označují jediného muže, zůstává otevřené.",
-        "V roce 1784 kmotroval v zastoupení Ignác z Gillernů, obyvatel Slezska. Mezi zápisy uplynulo 45 let a chybí společný doklad o totožnosti."
+        "V roce 1784 kmotroval v zastoupení Ignác z Gillernů, obyvatel Slezska. Mezi zápisy uplynulo 45 let a chybí společný doklad o totožnosti.",
+        "Závěť Karla z Rache (Hlohov, 4. 10. 1777) jmenuje mezi dětmi Cathariny Barbary roz. Nerlichové „Ignatz von Giller“ v Nise – nejspíš týž muž; tím je doloženo, že Carl Heinrich a Catharina měli syna Ignáce."
       ],
       "zaznamy": [
         "n_1738_krehlau_ignatius_antonius_giller_kmotr",
-        "n_1736_krehlau_friedrich_ignatius_giller_kmotr"
+        "n_1736_krehlau_friedrich_ignatius_giller_kmotr",
+        "j_1777_hlohov_zavet_rache"
       ],
       "vztahy": [
         {
@@ -5326,6 +5341,36 @@
         {
           "nazev": "J. Sinapius, Des Schlesischen Adels anderer Theil (1728), s. 641",
           "odkaz": "https://books.google.com/books?id=ru1PAAAAcAAJ&pg=PA641"
+        }
+      ]
+    },
+    "christoph_kuncice": {
+      "jmeno": "Christoph Giller (Killer), dědičný rychtář v Hořejších Kunčicích",
+      "roky": "doložen 1678–1701; „bývalý rychtář“ † 1704 (98 let ?)",
+      "stav": "doc",
+      "vazba": "možný předek nebo blízký příbuzný přímé linie – vazba zatím nedoložena (hypotéza „Deschna“)",
+      "fakta": [
+        "Hořejší Kunčice (Kuntzendorf, okr. Opava) leží na šternberském panství karloveckého dílu – téže vrchnosti (vévodové Württembersko-Olešničtí, Silvius Nimrod a Silvius Friedrich), u níž byl Friedrich Wilhelm I. Giller do roku 1693 správcem na Karlovci. Ves přímo sousedí s Deštným, které se v 17. století psalo „Dorff Deschna“ a jehož kostel spravovali v letech asi 1635–1675 kunčičtí faráři.",
+        "Lánová vizitace 1678 (MZA, D 1, sign. 96, f. 140r): „Christoff [G]iller, Erbrichter, hat ein Mühl mit 2 Gang“ – dědičný rychtář s mlýnem o dvou složeních. Pozdější výpis z urbáře (J. Novotný) uvádí rychtáře Christofa Gillera už k roku 1648 (?) a povolení dvou zahrad od knížete Silvia Nimroda 12. 7. 1659.",
+        "V kunčické matrice: 28. 10. 1681 svědek „Christof Giller bey Kuntzdorff“; 19. 9. 1684 křest a 21. 9. pohřeb syna Františka Antonína (matka Mariana); 16. 1. 1689 svědek „Christoff Giller, Erbrichter“; 6. 12. 1691 pohřeb synka Hanse Christopha (4 roky); 17. 1. 1701 sňatek dcery Anny Justiny s Johannem Georgem Heinrichem, synem rychtáře v Úvalně, který rychtu převzal (1704 dědičný rychtář).",
+        "17. 4. 1704 pohřeb „Herr Christof Killer, gewesener Erb Richter in Kuntzendorff“, zapsáno 98 let a 4 týdny (* asi 1606). Pokud je věk správný, šlo spíš o dva muže téhož jména – otce (* asi 1606) a syna (otce dětí z let 1684–1691).",
+        "Na olomoucké univerzitě studovali Joannes Giller (logika 1656, magistr 1659) a Christophorus Giller (logika 1657, promoce 1659), oba „Moravus Kuntzendorffensis“. Christoph Heinrich, předek naší linie, byl roku 1678 „úředníkem vratislavského biskupského úřadu“, tedy vzdělaným úředníkem – studentem z roku 1657 mohl být, pokud se narodil kolem 1640 (rodopisný rok 1646 by byl příliš pozdní).",
+        "Hypotéza projektu: kunčičtí Gillerové jsou „semeništěm“ rodu – starší rychtář (* asi 1606) by generačně odpovídal otci Christopha Heinricha a Friedricha Wilhelma I. (rodopis 1884 ho nazývá rytmistrem Johannem Christofem); k témuž okruhu by patřil i dvorecký poštmistr Franz Leopold (otec Karla Josefa) a Christian Giller ve Dvorcích. Pro to mluví sousedství s „Deschnou“, společná vrchnost s Karlovcem, svatba dcery karloveckého správce v Kunčicích 1687 a studenti z Kunčic. Jmenovitý doklad příbuzenství zatím chybí."
+      ],
+      "zaznamy": [
+        "j_1678_kuncice_christoff_giller_rychtar",
+        "o_1687_kuncice_mariana_giller",
+        "z_1704_kuncice_christof_killer"
+      ],
+      "vztahy": [
+        {
+          "vztah": "možný otec nebo příbuzný (hypotéza)",
+          "profil": "fw1"
+        }
+      ],
+      "zdroje": [
+        {
+          "nazev": "Podrobné podklady projektu: data/badani/2026-11-27-hlohov-kuncice, 2026-11-27-navazani, 2026-11-28-primarni-prameny/rychta"
         }
       ]
     }
@@ -5995,9 +6040,9 @@
                           {
                             "jmeno": "Johann Friedrich Rudolph (kapitán Friedrich, baron z Gillernů)",
                             "stav": "doc",
-                            "roky": "* 29. 12. 1724 Krehlau; doložen 1753–1771",
-                            "pozn": "hejtman pěšího pluku č. 15 od 1753 – kmenové listy: „von Hammer aus Schlesien gebürtig“; 1771 major ve Velkém Varadíně; kmotr Maximiliánových dětí 1761 a 1766",
-                            "vazba": "prob",
+                            "roky": "* 29. 12. 1724 Krehlau; doložen 1751–1777",
+                            "pozn": "rakouský důstojník pluku Pallavicini (č. 15), 1771 major a velitel místa ve Velkém Varadíně; v závěti Karla z Rache 1777 výslovně syn Cathariny Nerlichové",
+                            "vazba": "doc",
                             "popis": "bratr",
                             "manzel": "× 1765 Pardubice Anna Newková (Nevková?)",
                             "profil": "jan_bedrich"
@@ -6054,13 +6099,29 @@
                             "pozn": "nejmladší dítě; matka pohřbena 10. 9. 1736, dítě 23. 9. 1736 (6 týdnů)"
                           },
                           {
-                            "jmeno": "Ignatius Antonius Giller (Hammer)",
+                            "jmeno": "Ignatius Antonius (Ignác) Giller",
                             "stav": "doc",
                             "vazba": "prob",
-                            "roky": "kmotr v Krehlau 1739",
-                            "pozn": "U křtu 28. 6. 1739 výslovně syn pána na Hammeru. Ztotožnění otce s Carlem Heinrichem podporuje křest v téže myslivcově rodině 18. 7. 1736. Matka ani vlastní křest nejsou doložené. Může jít o již evidovaného syna užívajícího jiná jména.",
+                            "roky": "kmotr v Krehlau 1739; 1777 v Nise; 1784 „ve Slezsku“",
+                            "pozn": "v závěti Karla z Rache 1777 jako „Ignatz von Giller“ v Nise mezi dětmi Cathariny Nerlichové",
                             "profil": "ignatius_antonius_1738",
                             "popis": "syn pána na Hammeru"
+                          },
+                          {
+                            "jmeno": "Charlotte, provdaná von Maxel (?)",
+                            "roky": "žila 1777",
+                            "stav": "doc",
+                            "vazba": "doc",
+                            "popis": "sestra",
+                            "pozn": "v závěti Karla z Rache 1777 „Frau Lieutenantin Charlotte von Maxel (?)“, manželka poručíka dragounského pluku Althann; křest zatím neztotožněn"
+                          },
+                          {
+                            "jmeno": "Philippine von Giller",
+                            "roky": "žila 1777 ve Vratislavi – † před 1783",
+                            "stav": "doc",
+                            "vazba": "doc",
+                            "popis": "sestra",
+                            "pozn": "v závěti Karla z Rache 1777 svobodná ve Vratislavi; Maximilián po ní roku 1783 zdědil 1 000 rýnských tolarů; křest zatím neztotožněn (Maria Philippina * 1715 zemřela 1718)"
                           }
                         ],
                         "nase": true,

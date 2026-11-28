@@ -3970,5 +3970,53 @@
   ],
   "status": "ok",
   "note": "Archivní popis žádosti, vztah sestra a částka 1 000 rýnských tolarů."
+ },
+ "j_1777_hlohov_zavet_rache": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "j_1678_kuncice_christoff_giller_rychtar": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "o_1687_kuncice_mariana_giller": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
+ },
+ "z_1704_kuncice_christof_killer": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": "celý výřez"
  }
 }

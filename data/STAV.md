@@ -4,6 +4,18 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 
+## ★ Stav k 28. 11. 2026 (po kontrole práce z 25.–28. 11.)
+Od 25. do 28. 11. vedl výzkum Jan přes ChatGPT; podrobné zprávy, přepisy a výřezy jsou v `data/badani/<datum-kolo>/README.md` (rozcestník v deníku pod č. 791, souhrn č. 967–968). Hlavní výsledky:
+- **Beranovi – linie rozluštěna:** Josef Beran st. * 24. 3. 1883 Levín čp. 6, × 8. 10. 1907 Emilie Kozáková, † 26. 10. 1950 Buková; jeho rodiče František Beran × Anna Hasmanová (Točník 1880), prarodiče Matěj Beran × Anna Tumpachová (Točník, cihláři), praprarodiče Jakub Beran × Kateřina Holubová (Osek u Rokycan); ženská linie Hasman / Pondělíček / Froněk / Braumský (Osek, Tlustice). Vše v `osoby.py` (osoby 28–463, 912–922) a v záznamech.
+- **Maximilián a jeho sourozenci doloženi listinou:** závěť Karla z Rache (Hlohov, 4. 10. 1777, `j_1777_hlohov_zavet_rache`) jmenuje děti Cathariny Barbary roz. Nerlichové: Josepha (× Noha von Schwarzenfeld, Volov), **Maximilian – lesmistr u Chotusic či Kolína v Čechách**, **Ignác (Nisa)**, Ernst (pruský major, Nisa), **Friedrich (c. k. major, Velký Varadín)**, Charlotte (× von Maxel ?), Philippine (Vratislav). → Ignác je bratr, ne syn; Friedrich je doložený bratr a 1777 ještě žil. Maximilián dědil 1778 (2 400 zl. po Karlovi) a 1783 (po sestře Filipíně).
+- **Nejstarší linie – Hořejší Kunčice u Deštného („Deschna“):** dědičný rychtář Christoph Giller (Killer) 1678–1701, † 1704 „bývalý rychtář“ (98 let, * asi 1606), povolení od knížete Silvia Nimroda 1659; v Kunčicích se 1687 vdávala Mariana, dcera Fridricha Gillera, správce „bey Carlsberg“ (Karlovec) – nejspíš dcera Friedricha Wilhelma I.; studenti z Kunčic v Olomouci 1656/1657. Hypotéza „semeniště rodu“ je v profilu `christoph_kuncice` a v HYPOTEZY; jmenovitý doklad příbuzenství chybí.
+- **Christoph Heinrich:** 6/1678 v Preichau „úředník vratislavského biskupského úřadu“ × Anna Regina (?); 1683 hejtman v Preichau, manželka Catharina Juliana, syn Johann Christoph 3. 7. 1683; × 10/1684 Anna Victoria.
+- **Slezští baroni (pruská linie?):** Rettkau – Johann Christoph von Giller (baron 1732) a synové („mladší baron Joseph“ × Maria Antonia von Rüffer, † 1745; Franz Joseph × hraběnka Osteschau, děti 1750, 1751); dcera Maria Anna (* 1739) = pozdější abatyše Dominika v Trebnici.
+- **Josef a Maximilián před 1750:** sňatek ani Josefův křest zatím nenalezeny (prošly Hlohov, Groß Schmograu, Gramschütz, Hochkirch, Činěves, Všejany, Chotusice, Kolín, Stínava, Krehlau…); 1752 „Josef Giller, fořt z Ostrova“ (= Maximilián Josef) a Johana z Boru. Kandidátka na Johannu: Johanna Susanna Nerlichová ze Stínavy (dcera radního Johanna Bernharda) – neověřeno.
+- **Jan (Jan 27. 11.):** pracovat jen s online prameny; objednávky jen v nouzi na výslovný pokyn. Úpravy webu dočasně pozastaveny (viz níže).
+
+## Zprávy z jednotlivých kol 25.–28. 11. 2026 (ChatGPT) – podrobnosti a odkazy
+
 **Beranovi, navázání po Josefově křtu.** Doloženy oddavky rodičů v Točníku roku 1880, děti domácnosti Matěje a Anny od roku 1836 a nové doklady o předcích z obou Oseků a Tlustic. [Zpráva, prvopisy a výřezy](badani/2026-11-28-beranovi-rodice/README.md).
 
 **Beranovi, 28. listopadu.** Josefův křest doložil Levín čp. 6, narození 24. 3. 1883, rodiče a úmrtí 26. 10. 1950 v Bukové. Kuňovický křest syna Františka potvrdil původ obou manželů a datum jejich sňatku 8. 10. 1907. [Doklady, přepisy a výřezy](badani/2026-11-28-beranovi-kunovice-pijavky/README.md).

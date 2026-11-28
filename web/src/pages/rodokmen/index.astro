@@ -1,57 +1,68 @@
 ---
-// Interaktivní rodokmen (vývod předků) shora dolů: Jan nahoře, pod ním rodiče, prarodiče … – otec vlevo, matka vpravo.
-// Rozložení se počítá při sestavení webu ze site.json: podstromy se skládají vedle sebe podle obrysů (po generacích),
-// takže krátká větev nezabírá místo pod sebou a hluboké větve se k ní můžou přisunout. Roste samo s každým předkem.
+// Interaktivní rodokmen (vývod předků) shora dolů: Jan nahoře, pod ním rodiče, prarodiče … – každá generace je jedna řada,
+// v ní jdou předkové v pořadí zleva doprava (otec vždy vlevo, matka vpravo) a manželé stojí vždy vedle sebe.
+// Řady se skládají shora: každý pár se snaží stát přímo pod svým dítětem, a kde se do řady nevejde, posune se do strany
+// tak málo, jak to jde (nejmenší čtverce s pevným pořadím). Spojnice od dítěte vede obloukem k závorce nad párem.
 import Base from '../../layouts/Base.astro';
 import { people, root, lines, href } from '../../lib/data.js';
 
-const W = 184, H = 100, GAP = 18, ROW = 164, PAD = 40;   // karta, mezera mezi kartami, výška generace, okraj plátna
-const SEP = W + GAP;
+const W = 184, H = 100, PAR = 10, RODINA = 46, ROW = 214, PAD = 40;   // karta, mezera v páru, mezi rodinami, výška generace, okraj
 const lineColor = Object.fromEntries(Object.values(lines).map((l) => [l.slug, l.color]));
 
-type N = { slug: string; dx: number; kids: N[]; x: number; g: number };
-// podstrom: uzel, posuny rodičů vůči němu a obrysy (nejlevější / nejpravější střed karty v každé hloubce).
-// Jan stojí mezi rodiči; na tátově straně (vlevo) stojí každý předek nad svou matkou, na mámině (vpravo) nad otcem –
-// karty se tak tisknou ke středu, horní generace jsou u sebe a strom se rozbíhá do stran.
-function lay(slug: string, seen: Set<string>, side: '' | 'L' | 'R'): { n: N; l: number[]; r: number[] } {
-  const p = people[slug];
-  const n: N = { slug, dx: 0, kids: [], x: 0, g: 0 };
-  const par = [p.father, p.mother].filter((s) => s && people[s] && !seen.has(s));
-  const subs = par.map((s) => lay(s, new Set([...seen, s]), side || (s === p.father ? 'L' : 'R')));
-  if (!subs.length) return { n, l: [0], r: [0] };
-  if (subs.length === 1) {
-    n.kids = [subs[0].n];
-    return { n, l: [0, ...subs[0].l], r: [0, ...subs[0].r] };
-  }
-  const [a, b] = subs;
-  let off = SEP;   // vzdálenost otce a matky: v žádné společné hloubce se karty nesmějí překrýt
-  for (let d = 0; d < Math.min(a.l.length, b.l.length); d++) off = Math.max(off, a.r[d] - b.l[d] + SEP);
-  [a.n.dx, b.n.dx] = side === 'L' ? [-off, 0] : side === 'R' ? [0, off] : [-off / 2, off / 2];
-  n.kids = [a.n, b.n];
-  const l = [0], r = [0];
-  for (let d = 0; d < Math.max(a.l.length, b.l.length); d++) {
-    l.push(Math.min((a.l[d] ?? Infinity) + a.n.dx, (b.l[d] ?? Infinity) + b.n.dx));
-    r.push(Math.max((a.r[d] ?? -Infinity) + a.n.dx, (b.r[d] ?? -Infinity) + b.n.dx));
-  }
-  return { n, l, r };
-}
-const { n: top } = lay(root.slug, new Set([root.slug]), '');
+type N = { slug: string; g: number; x: number; child?: N; kids: N[] };
 const nodes: N[] = [];
-const place = (n: N, x: number, g: number) => { n.x = x; n.g = g; nodes.push(n); n.kids.forEach((k) => place(k, x + k.dx, g + 1)); };
-place(top, 0, 0);
+const build = (slug: string, g: number, child: N | undefined, seen: Set<string>): N => {
+  const n: N = { slug, g, x: 0, child, kids: [] };
+  nodes.push(n);
+  const p = people[slug];
+  for (const s of [p.father, p.mother]) if (s && people[s] && !seen.has(s)) n.kids.push(build(s, g + 1, n, new Set([...seen, s])));
+  return n;
+};
+build(root.slug, 0, undefined, new Set([root.slug]));
+const maxG = Math.max(...nodes.map((n) => n.g));
+const rows = [...Array(maxG + 1).keys()].map((g) => nodes.filter((n) => n.g === g));   // pořadí průchodu = zleva doprava
+
+// rozmístění řady: cíle t, minimální odstupy d (mezi i a i+1); nejbližší pořadí zachovávající poloha (algoritmus PAVA)
+function rozmisti(t: number[], d: number[]): number[] {
+  const c = [0];
+  d.forEach((v, i) => c.push(c[i] + v));
+  const bloky: { s: number; n: number }[] = [];
+  t.forEach((v, i) => {
+    bloky.push({ s: v - c[i], n: 1 });
+    while (bloky.length > 1 && bloky[bloky.length - 2].s / bloky[bloky.length - 2].n > bloky[bloky.length - 1].s / bloky[bloky.length - 1].n) {
+      const b = bloky.pop()!;
+      bloky[bloky.length - 1].s += b.s; bloky[bloky.length - 1].n += b.n;
+    }
+  });
+  const u = bloky.flatMap((b) => Array(b.n).fill(b.s / b.n));
+  return u.map((v, i) => v + c[i]);
+}
+for (let g = 1; g <= maxG; g++) {
+  const row = rows[g];
+  const t = row.map((n) => (n.child!.kids.length === 1 ? n.child!.x : n.child!.x + (n.child!.kids[0] === n ? -1 : 1) * (W + PAR) / 2));
+  const d = row.slice(1).map((n, i) => W + (n.child === row[i].child ? PAR : RODINA));
+  rozmisti(t, d).forEach((x, i) => (row[i].x = x));
+}
 const minX = Math.min(...nodes.map((n) => n.x));
 nodes.forEach((n) => { n.x = n.x - minX + PAD + W / 2; });
-const maxG = Math.max(...nodes.map((n) => n.g));
 const CW = Math.max(...nodes.map((n) => n.x)) + W / 2 + PAD;
 const CH = (maxG + 1) * ROW - (ROW - H) + PAD * 2;
 const yOf = (g: number) => PAD + g * ROW;
 
-// spojnice: od karty dolů k liště, po ní k rodičům a dolů do jejich karet; barva podle jistoty rodiče
+// spojnice: oblouk od dítěte k závorce nad párem rodičů; barva podle jistoty (u páru podle slabšího z rodičů)
 const edgeCls = (st: string) => ({ doc: 'pk-e-doc', prob: 'pk-e-prob', fam: 'pk-e-fam', lit: 'pk-e-lit' })[st] ?? 'pk-e-lit';
+const oblouk = (x1: number, y1: number, x2: number, y2: number) => { const h = (y2 - y1) / 2; return `M${x1} ${y1}C${x1} ${y1 + h} ${x2} ${y2 - h} ${x2} ${y2}`; };
 const paths = nodes.flatMap((n) => {
   if (!n.kids.length) return [];
-  const y1 = yOf(n.g) + H, yb = y1 + (ROW - H) / 2, y2 = yOf(n.g + 1);
-  return n.kids.map((k) => ({ d: `M${n.x} ${y1}V${yb}H${k.x}V${y2}`, cls: edgeCls(people[k.slug].st) }));
+  const y1 = yOf(n.g) + H, y2 = yOf(n.g + 1);
+  if (n.kids.length === 1) return [{ d: oblouk(n.x, y1, n.kids[0].x, y2), cls: edgeCls(people[n.kids[0].slug].st) }];
+  const [f, m] = n.kids, yb = y2 - 18, mx = (f.x + m.x) / 2;
+  const sf = people[f.slug].st, sm = people[m.slug].st;
+  return [
+    { d: oblouk(n.x, y1, mx, yb), cls: edgeCls(sf !== 'doc' ? sf : sm) },
+    { d: `M${mx} ${yb}H${f.x}V${y2}`, cls: edgeCls(sf) },
+    { d: `M${mx} ${yb}H${m.x}V${y2}`, cls: edgeCls(sm) },
+  ];
 });
 
 const birth = (p) => {
@@ -66,7 +77,7 @@ const names = [...new Set(nodes.map((n) => people[n.slug].name))].sort((a, b) =>
 ---
 <Base title="Rodokmen" wide>
   <h1>Rodokmen</h1>
-  <p class="lead">Všichni doložení předkové na jednom plátně: {root.name} nahoře, pod ním rodiče, prarodiče a další generace – otec vždy vlevo, matka vpravo. Plátno posunete tahem, přiblížíte kolečkem myši nebo dvěma prsty; klepnutím na jméno otevřete stránku předka, klepnutím na kartičku zvýrazníte cestu k {root.name.split(' ')[0]}ovi. Tátova strana se rozbíhá doleva, mámina doprava; na barevný štítek rodu klepněte a plátno na něj skočí.</p>
+  <p class="lead">Všichni doložení předkové na jednom plátně: {root.name} nahoře, pod ním rodiče, prarodiče a další generace – otec vždy vlevo, matka vpravo. Plátno posunete tahem, přiblížíte kolečkem myši nebo dvěma prsty; klepnutím na jméno otevřete stránku předka, klepnutím na kartičku zvýrazníte cestu k {root.name.split(' ')[0]}ovi. Manželé stojí vždy vedle sebe; na barevný štítek rodu klepněte a plátno na něj skočí.</p>
   <div class="chips pk-legenda" aria-label="Vysvětlivky a rody">
     <span class="chip st-doc">doloženo matrikou</span>
     <span class="chip st-fam">údaj od rodiny</span>
@@ -148,13 +159,13 @@ const names = [...new Set(nodes.map((n) => people[n.slug].name))].sort((a, b) =>
     const predci = (slug: string) => karty.filter((k) => { for (let s: string | undefined = k.dataset.slug; s; s = bySlug.get(s)?.dataset.child) if (s === slug) return true; return false; });
     const pohled = (co: string, anim = true) => {
       if (co === 'start') {
-        // úvodní pohled: Jan nahoře uprostřed, čitelně; rodiče a prarodiče pod ním, větve se rozbíhají do stran
+        // úvodní pohled: Jan, rodiče, prarodiče a praprarodiče (prvních osm rodů) na šířku obrazovky
         const r = stage.getBoundingClientRect();
-        const jan = karty.find((k) => k.dataset.g === '0')!;
-        v.s = r.width < 640 ? 0.62 : 0.85;
         const L = Math.max(...genEls.map((el) => el.offsetWidth)) + 10;   // místo pro popisky generací vlevo
-        v.x = L + (r.width - L) / 2 - (jan.offsetLeft + jan.offsetWidth / 2) * v.s;
-        v.y = 18 - jan.offsetTop * v.s;
+        const b = box(karty.filter((k) => Number(k.dataset.g) <= 3));
+        v.s = Math.max(0.45, Math.min(0.95, (r.width - L - 24) / (b.x1 - b.x0)));
+        v.x = L + (r.width - L) / 2 - ((b.x0 + b.x1) / 2) * v.s;
+        v.y = 18 - b.y0 * v.s;
         apply(anim);
       } else if (co === 'otec' || co === 'matka') {
         const s = stage.dataset[co === 'otec' ? 'father' : 'mother'];

@@ -1,4 +1,72 @@
 {
+ "o_1807_fronek_bromska": {
+  "orig": "[Výběr.] Jan Froniek z Podluch […] matka zemřela Magd[alena] […] Anna Braumská, dcera Matěje Braumského, kováře v Tlusticích […].",
+  "cs": "Jan Froněk z Podluh se 6. října 1807 v Tlusticích oženil s Annou Bromskou. Jeho matkou byla zemřelá Magdalena. U nevěsty stojí Matěj Braum, kovář v Tlusticích. V křtech dětí téže dvojice je křestní jméno nevěstina otce proměnlivé."
+ },
+ "z_1848_pondelicek_matej": {
+  "orig": "[Výběr.] Matěj Pondělíček […] obecní slouha […] Tlustice č. 18.",
+  "cs": "Matěj Pondělíček, obecní slouha v Tlusticích čp. 18, zemřel 17. ledna 1848 a byl pohřben 19. ledna v Praskolesích. Zapsaný věk 73 let se liší od věku odvozeného z oddavek roku 1804."
+ },
+ "o_1880_beran_hasmanova": {
+  "orig": "[Výběr.] 26. června 1880. […] Točník č. 9. […] Beran František, cihlář v Levíně, syn Matěje Berana, cihláře v Točníce, a Anny roz. Tumpach z Voseka zbirov. […] Hasmanova Anna, dcera Josefy, dcery Václava Hasmana […] bydlí v Bzové. […] Kajetan Beran […].",
+  "cs": "Cihlář František Beran z Levína, syn Matěje Berana a Anny Tumpachové, se oženil s Annou, dcerou Josefy Hasmanové. V rubrice místa stojí u obou Točník čp. 9, u nevěsty navíc bydliště v Bzové. Svědčil ženichův bratr Kajetán Beran, cihlář z Točníku."
+ },
+ "n_1881_beran_frantisek_josef_levin": {
+  "orig": "[Výběr.] 1881 března 11. [narození], 13. [křest] […] František Josef. […] Levín čís. d. 6. […] Beran František, cihlář v Levíně […] Anna, dcera Josefy Hasmann‑ovy […].",
+  "cs": "František Josef, syn levínského cihláře Františka Berana a Anny Hasmanové, se narodil 11. března 1881 v Levíně čp. 6 a byl pokřtěn 13. března."
+ },
+ "n_1882_beran_josef_levin": {
+  "orig": "[Výběr.] 1882 března 5. [narození] 8. [křest] […] Josef […] Levín čís. d. 6 […] zemřel dne 2. března 1883.",
+  "cs": "První Josef Beran, syn Františka Berana a Anny Hasmanové, se narodil 5. března 1882 v Levíně čp. 6 a byl pokřtěn 8. března. Zemřel před narozením stejnojmenného bratra v březnu 1883."
+ },
+ "z_1883_beran_josef_1882": {
+  "orig": "[Výběr.] 1883 března 2. [úmrtí] 5. [pohřeb] […] Beran Josef, syn Františka Berana, cihláře v Levíně č. d. 6, a matky Anny rodem Hasmannovy z Voseka.",
+  "cs": "Josef, syn cihláře Františka Berana a Anny Hasmanové, zemřel 2. března 1883 v Levíně čp. 6. Věk 11 měsíců a 25 dní. Pohřben 5. března v Počaplech."
+ },
+ "n_1836_beranova_antonie_tocnik": {
+  "orig": "[Výběr.] November 5 naroz. […] Točník 30. Antonie. […] Matěj Beran, panský cihlář, syn † Jakuba Berana, nádeníka z Voseka N 42 panství Mirošov […] Anna dcera † Jozefa Tumpacha […] z Voseka N 45 […].",
+  "cs": "Antonie byla manželskou dcerou panského cihláře Matěje Berana a Anny Tumpachové. Matějův otec Jakub Beran z Oseka čp. 42 i Annin otec Josef Tumpach z Oseka čp. 45 byli již zesnulí. Zápis jmenuje Kateřinu Holubovou z Oseka a Josefu z Volduch."
+ },
+ "n_1846_beran_kajetan_tocnik": {
+  "orig": "[Výběr.] [Zápis uvádí.] Kajetán […] Matěj Beran […] Anna, dcera Josefa Tumpacha […] z Voseka č. 45 […] Josefy […] z Volduch č. 58.",
+  "cs": "Kajetán se narodil 12. června 1846 Matěji Beranovi a Anně Tumpachové v Točníku čp. 30. V křtu stojí i chalupník Josef Tumpach z Oseka čp. 45 a jeho žena Josefa z Volduch čp. 58."
+ },
+ "n_1848_beranova_rozalie_tocnik": {
+  "orig": "[Výběr.] [Rozálie, Točník č. 30. Prarodiče jsou uvedeni v popisu otce a matky.]",
+  "cs": "Rozálie se narodila Matěji Beranovi a Anně Tumpachové 3. září 1848. Křest uvádí u Jakuba Berana Osek čp. 42, u Kateřiny Holubové Osek čp. 39, u Josefa Tumpacha Osek čp. 45 a u jeho ženy Josefy Volduchy čp. 58."
+ },
+ "n_1811_hasman_vaclav": {
+  "orig": "[Výběr.] Wáclaw Hasmann, sedlák […] Kateřina, dcera † Ssimona Weselýho, nádeníka z Wosku.",
+  "cs": "Václav Hasman se narodil 16. listopadu 1811 v Oseku čp. 26 na Hořovicku Václavu Hasmanovi, sedlákovi, a Kateřině Veselé. Pokřtěn byl 17. listopadu."
+ },
+ "o_1800_hasman_vesela": {
+  "orig": "[Výběr.] Junÿ 2. […] Wáclaw Hasmann, sedlák ze vsi Woseka, wdowec, syn neb. Jana Hasmanna […] a matky Doroty. […] Kateřina, wlastnj dcera Tomáše Weselýho […] a matky Anny […].",
+  "cs": "Sedlák Václav Hasman, 55letý vdovec a syn Jana Hasmana a Doroty z Oseka, se 2. června 1800 oženil s Kateřinou, 22letou dcerou domkáře Tomáše Veselého a Anny z Oseka."
+ },
+ "z_1850_fronek_jan_osek": {
+  "orig": "[Výběr.] Jan Froněk […] obecný slauha […] 67 [let].",
+  "cs": "Jan Froněk, obecní slouha, zemřel 15. dubna 1850 v Oseku čp. 14 ve věku 67 let. Jeho jméno, číslo domu i povolání odpovídají otci Barbory z křtu její dcery Josefy."
+ },
+ "n_1841_pondelicek_josef_tlustice": {
+  "orig": "[Výběr.] Josef […] Pondělíček Josef […] Marie […] Hlavatý […].",
+  "cs": "Josef se narodil 4. března 1841 v Tlusticích čp. 17 domkáři Josefu Pondělíčkovi a Marii Hlavaté. Jejich pozdější uvedení v křtu Anny Hasmanové dovoluje ztotožnit jej s osobou, která uznala její otcovství."
+ },
+ "o_1840_pondelicek_hlavata": {
+  "orig": "[Výběr.] 25. února 1840. […] Josef Pondělíček […] Marie [Hlavatá].",
+  "cs": "V Tlusticích se vzali Josef Pondělíček, syn Matěje z Tlustic čp. 18 a Veroniky Šťastné z čp. 6, a Marie, dcera Václava Hlavatého z Tlustic čp. 17 a Veroniky z Podluh čp. 16."
+ },
+ "n_1820_hlavata_marie": {
+  "orig": "[Výběr.] [U Marie je uveden Václav Hlavatý a matka Veronika. Kolonka matky odkazuje na stranu 131.]",
+  "cs": "Marie se narodila 22. února 1820 v Tlusticích čp. 17 Václavu Hlavatému a Veronice z Podluh. Její křest 23. února odkazuje u matky na starší zápis na straně 131."
+ },
+ "o_1804_pondelicek_stastna": {
+  "orig": "[Výběr.] 7. října 1804 […] Matěj Pondělíček […] Veronika Šťastná […].",
+  "cs": "V Tlusticích se vzali Matěj Pondělíček, svobodný, 23 let, syn Jana z Újezda, a Veronika Šťastná, svobodná, 22 let, dcera zesnulého Jana z Tlustic."
+ },
+ "z_1825_pondelickova_veronika": {
+  "orig": "[Výběr.] Veronika […] manželka Matěje Pondělíčka […] Tlustice č. 18.",
+  "cs": "Veronika, manželka obecního slouhy Matěje Pondělíčka, zemřela 20. března 1825 v Tlusticích čp. 18. Zapsaný věk je 50 let a pohřeb připadá na 22. března."
+ },
  "o_1845_beran_spotova": {
   "orig": "[Prostřední řádek, výběr.] Beran Václav, tovaryš cihlářský z Točníka N. 4, syn † Jakuba Berana, hutníka z Woseka N. 68 panství Mirossow w Plzensku a matky † Kateřiny rozené Holubové z Woseka N. 42.",
   "cs": "Václav Beran byl cihlářský tovaryš z Točníka čp. 4, syn zesnulých Jakuba Berana, hutníka z Oseka čp. 68 na panství Mirošov, a Kateřiny Holubové z Oseka čp. 42."

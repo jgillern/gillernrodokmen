@@ -1,5 +1,7 @@
 # Josef Beran z Levína, cihlář v Kuňovicích a v Pijavkách
 
+**Navazující nález.** Josefovi rodiče mají doložené [oddavky v Točníku 26. června 1880](../2026-11-28-beranovi-rodice/oddavky-1880.md). [Starší generace a původní zápisy](../2026-11-28-beranovi-rodice/README.md).
+
 Josef Beran starší se narodil **24. března 1883 v Levíně čp. 6 u Králova Dvora**. Jeho vlastní křest uvádí rodiče **Františka Berana, cihláře**, a **Annu Hasmanovou**. Pozdější přípis na témže řádku potvrzuje úmrtí **26. října 1950 v Bukové**. Křest syna Františka v Kuňovicích uvádí stejné narození otce a tytéž rodiče. [Počaply 17, s. 179, sn. 185](https://ebadatelna.soapraha.cz/d/10169/185) · [Přepis a výřez](matriky/josef-levin-krest.md)
 
 - **Kuňovice.** Josef a **Emilie Marie Kozáková**, dcera **Františka Kozáka a Barbory Kaplové z Robous**, byli roku 1913 v **Kuňovicích čp. 2**. Dne **27. 9. 1913** se jim tam narodil syn František, mladší bratr Josefa narozeného ve Velké Jesenici roku 1910. V okraji stojí datum oddavek rodičů **8. 10. 1907**. Místo sňatku zůstává otevřené. Josef je roku 1920 doložen v **Kuňovicích čp. 20** jako svědek při svatbě sestry Boženy. [Křest a přepis](matriky/kunovice-narozeni.md) · [Oddací prvopis Boženy](https://ebadatelna.soapraha.cz/d/15260/71) · [Hledání sňatku rodičů](matriky/oddavky-1907.md)

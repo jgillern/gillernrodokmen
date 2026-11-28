@@ -4,6 +4,8 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 
+**Beranovi, navázání po Josefově křtu.** Doloženy oddavky rodičů v Točníku roku 1880, děti domácnosti Matěje a Anny od roku 1836 a nové doklady o předcích z obou Oseků a Tlustic. [Zpráva, prvopisy a výřezy](badani/2026-11-28-beranovi-rodice/README.md).
+
 **Beranovi, 28. listopadu.** Josefův křest doložil Levín čp. 6, narození 24. 3. 1883, rodiče a úmrtí 26. 10. 1950 v Bukové. Kuňovický křest syna Františka potvrdil původ obou manželů a datum jejich sňatku 8. 10. 1907. [Doklady, přepisy a výřezy](badani/2026-11-28-beranovi-kunovice-pijavky/README.md).
 
 **Beranovi, Kozákovi a Slunečkovi, 27. listopadu.** [Nejnovější doložené vazby, přečtené originály a otevřené otázky](badani/2026-11-27-beranovi-kozakovi/dalsi/README.md).

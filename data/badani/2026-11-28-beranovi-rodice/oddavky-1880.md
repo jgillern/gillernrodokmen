@@ -1,0 +1,12 @@
+# Sňatek Františka Berana a Anny Hasmanové
+
+**26. června 1880, Točník.** Oddavky jsou ve svazku **Žebrák 24**, str. 201, sn. 203, třetí zápis. V rubrice místa stojí u obou snoubenců **Točník čp. 9**. [SOA Praha, prvopis](https://ebadatelna.soapraha.cz/d/9849/203) · [Výřez oddavek](../../../vyrezy/o_1880_beran_hasmanova.jpg)
+
+- **František Beran**, svobodný katolík, 26 let, cihlář v Levíně, syn Matěje Berana, cihláře v Točníku, a Anny rozené Tumpachové „z Voseka zbirov.“ Poznámka potvrzuje zdejší křest s rokem 1854. [Františkův křest, Žebrák 10, sn. 143](https://ebadatelna.soapraha.cz/d/9739/143)
+- **Anna Hasmanová**, svobodná katolička, v oddavkách uvedený věk 21 let, dcera Josefy, dcery Václava Hasmana, dělníka „z Voseka hořov.“ Na konci popisu stojí „bydlí v Bzové“. Poznámka odkazuje na křestní list z Mrtníka s letopočtem 1860 a číslem 18. Přesný den narození ani datum vystavení křestního listu oddavky neuvádějí. Prvopis křtu má narození **31. prosince 1860 v Komárově čp. 54** a křest **1. ledna 1861**. V den sňatku jí tedy bylo 19 let. [Annin křest, Mrtník 05, sn. 203](https://ebadatelna.soapraha.cz/d/8918/203)
+- **Svědci** byli Kajetán Beran a Josef Moků [?], cihláři z Točníku. Kajetána jako syna Matěje Berana a Anny Tumpachové dokládá křest jeho syna Antonína z Družce. Kajetán svědčil i při Františkově druhé svatbě ve Zdicích roku 1891. [Družec 32, sn. 71](https://ebadatelna.soapraha.cz/d/5313/71) · [Zdice 18, sn. 13](https://ebadatelna.soapraha.cz/d/9112/13)
+- **Ohlášky** proběhly 30. května, 6. a 13. června, zápis odkazuje na počapelský ohláškový list č. 15. V poznámce je také uveden c. k. soud v Hořovicích, 23. května [?], č. 5991, a snubní příloha č. 18. Poslední číslice letopočtu u přílohy je nejistá.
+
+Točník čp. 9 je doložené bydliště rodiny cihlářského tovaryše Václava Berana a Josefy Špotové při narození jejich Matěje roku 1851 a Alžběty roku 1860. Václav a Františkův otec Matěj byli pravděpodobně bratři. [Žebrák 10, sn. 32](https://ebadatelna.soapraha.cz/d/9739/32) · [Žebrák 11, sn. 107](https://ebadatelna.soapraha.cz/d/9740/107)
+
+K zápisu dovedla rejstříková položka pod B v pravém sloupci u roku 1880 „Beran Frt. A. Hasman 201“. František a Anna jsou jako rodiče doloženi také v křtu manželského Josefa, narozeného 24. března 1883 v Levíně čp. 6. [Žebrák 24, rejstřík, sn. 242](https://ebadatelna.soapraha.cz/d/9849/242) · [Výřez rejstříku](doklady/zebrak-24-sn242-rejstrik-1880.jpg) · [Počaply 17, sn. 185](https://ebadatelna.soapraha.cz/d/10169/185)

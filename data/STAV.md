@@ -16,6 +16,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
+## 28. 11. 2026 · Stínava, vítkovské křty a kunčická rychta
+
+Stínavský křest z 5. ledna 1724 uvádí Johannu, dceru radního Johanna Georga Nerlicha. Svobodná Johanna z roku 1744 je dcerou Johanna Bernharda. Povolení z 27. ledna 1750 uvádí Karolinu Nerlichovou a plánované oddavky v Lisse u Vratislavi. Vítkovské křty 1654–1657 byly přečteny na sn. 100–124 bez bezpečné shody na Gillera. Srovnávací letopočet u kunčického rychtáře v Novotného výpisu z roku 1664 čteme po ověření úvodu nejspíš jako 1648. Jméno tak pravděpodobně patří už k předloze z roku 1664. Jmenovitý dobový doklad z roku 1678 je doložen. [Přepisy, výřezy, přesné rozsahy a další online kroky](badani/2026-11-28-stinava-vitkov/README.md)
+
 ## 28. 11. 2026 · Matriky u Hořejších Kunčic a křest Georga
 
 V Úvalně je dne 8. dubna 1668 pokřtěn Georg, syn Fridericha Heinricha a Anny. Jde o silného kandidáta na ženicha Johanna Georga Heinricha, který se roku 1701 oženil s dcerou kunčického rychtáře Gillera. Ve Vítkově je navíc přečten křestní oddíl 1653, sn. 94–100, bez bezpečné shody. V Hlohově sn. 2–29 farního účtu 1737 nepřinesly jmenný doklad pro Maximiliána. [Výsledky, rozsah četby v obcích a další online kroky](badani/2026-11-28-matriky-a-rychta/README.md)

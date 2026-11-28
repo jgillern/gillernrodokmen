@@ -1,67 +1,68 @@
 ---
-// Interaktivní rodokmen (vývod předků) shora dolů: Jan nahoře, pod ním rodiče, prarodiče … – každá generace je jedna řada,
-// v ní jdou předkové v pořadí zleva doprava (otec vždy vlevo, matka vpravo) a manželé stojí vždy vedle sebe.
-// Řady se skládají shora: každý pár se snaží stát přímo pod svým dítětem, a kde se do řady nevejde, posune se do strany
-// tak málo, jak to jde (nejmenší čtverce s pevným pořadím). Spojnice od dítěte vede obloukem k závorce nad párem.
+// Interaktivní rodokmen (vývod předků) shora dolů: Jan nahoře, pod ním rodiče, prarodiče … – otec vždy vlevo, matka vpravo.
+// Každý předek stojí přesně uprostřed nad svými rodiči, spojnice jsou jen svislé a vodorovné (závorka nad párem),
+// takže se nikdy nekříží ani nepřekrývají. Podstromy se skládají vedle sebe podle obrysů po generacích (co nejtěsněji),
+// manželé bez předků stojí těsně vedle sebe. Daní za přehlednost je šířka: nahoře bývají rodiče daleko od sebe –
+// dlouhé závorky proto nesou u dítěte popisky „← otec / matka →“, na které jde klepnout.
 import Base from '../../layouts/Base.astro';
 import { people, root, lines, href } from '../../lib/data.js';
 
-const W = 184, H = 100, PAR = 10, RODINA = 46, ROW = 214, PAD = 40;   // karta, mezera v páru, mezi rodinami, výška generace, okraj
+const W = 184, H = 100, PAR = 14, RODINA = 54, ROW = 184, PAD = 40;   // karta, mezera v páru, mezi rodinami, výška generace, okraj
 const lineColor = Object.fromEntries(Object.values(lines).map((l) => [l.slug, l.color]));
 
-type N = { slug: string; g: number; x: number; child?: N; kids: N[] };
-const nodes: N[] = [];
-const build = (slug: string, g: number, child: N | undefined, seen: Set<string>): N => {
-  const n: N = { slug, g, x: 0, child, kids: [] };
-  nodes.push(n);
+type N = { slug: string; g: number; x: number; dx: number; kids: N[] };
+function lay(slug: string, seen: Set<string>): { n: N; l: number[]; r: number[] } {
   const p = people[slug];
-  for (const s of [p.father, p.mother]) if (s && people[s] && !seen.has(s)) n.kids.push(build(s, g + 1, n, new Set([...seen, s])));
-  return n;
-};
-build(root.slug, 0, undefined, new Set([root.slug]));
-const maxG = Math.max(...nodes.map((n) => n.g));
-const rows = [...Array(maxG + 1).keys()].map((g) => nodes.filter((n) => n.g === g));   // pořadí průchodu = zleva doprava
-
-// rozmístění řady: cíle t, minimální odstupy d (mezi i a i+1); nejbližší pořadí zachovávající poloha (algoritmus PAVA)
-function rozmisti(t: number[], d: number[]): number[] {
-  const c = [0];
-  d.forEach((v, i) => c.push(c[i] + v));
-  const bloky: { s: number; n: number }[] = [];
-  t.forEach((v, i) => {
-    bloky.push({ s: v - c[i], n: 1 });
-    while (bloky.length > 1 && bloky[bloky.length - 2].s / bloky[bloky.length - 2].n > bloky[bloky.length - 1].s / bloky[bloky.length - 1].n) {
-      const b = bloky.pop()!;
-      bloky[bloky.length - 1].s += b.s; bloky[bloky.length - 1].n += b.n;
-    }
-  });
-  const u = bloky.flatMap((b) => Array(b.n).fill(b.s / b.n));
-  return u.map((v, i) => v + c[i]);
+  const n: N = { slug, g: 0, x: 0, dx: 0, kids: [] };
+  const subs = [p.father, p.mother].filter((s) => s && people[s] && !seen.has(s)).map((s) => lay(s, new Set([...seen, s])));
+  if (!subs.length) return { n, l: [0], r: [0] };
+  if (subs.length === 1) {
+    n.kids = [subs[0].n];
+    return { n, l: [0, ...subs[0].l], r: [0, ...subs[0].r] };
+  }
+  const [a, b] = subs;
+  let off = W + PAR;   // otec a matka těsně vedle sebe, pokud jejich předkové nepotřebují víc místa
+  for (let d = 1; d < Math.min(a.l.length, b.l.length); d++) off = Math.max(off, a.r[d] - b.l[d] + W + RODINA);
+  a.n.dx = -off / 2; b.n.dx = off / 2;
+  n.kids = [a.n, b.n];
+  const l = [0], r = [0];
+  for (let d = 0; d < Math.max(a.l.length, b.l.length); d++) {
+    l.push(Math.min((a.l[d] ?? Infinity) - off / 2, (b.l[d] ?? Infinity) + off / 2));
+    r.push(Math.max((a.r[d] ?? -Infinity) - off / 2, (b.r[d] ?? -Infinity) + off / 2));
+  }
+  return { n, l, r };
 }
-for (let g = 1; g <= maxG; g++) {
-  const row = rows[g];
-  const t = row.map((n) => (n.child!.kids.length === 1 ? n.child!.x : n.child!.x + (n.child!.kids[0] === n ? -1 : 1) * (W + PAR) / 2));
-  const d = row.slice(1).map((n, i) => W + (n.child === row[i].child ? PAR : RODINA));
-  rozmisti(t, d).forEach((x, i) => (row[i].x = x));
-}
+const { n: top } = lay(root.slug, new Set([root.slug]));
+const nodes: N[] = [];
+const place = (n: N, x: number, g: number) => { n.x = x; n.g = g; nodes.push(n); n.kids.forEach((k) => place(k, x + k.dx, g + 1)); };
+place(top, 0, 0);
 const minX = Math.min(...nodes.map((n) => n.x));
 nodes.forEach((n) => { n.x = n.x - minX + PAD + W / 2; });
+const maxG = Math.max(...nodes.map((n) => n.g));
 const CW = Math.max(...nodes.map((n) => n.x)) + W / 2 + PAD;
 const CH = (maxG + 1) * ROW - (ROW - H) + PAD * 2;
 const yOf = (g: number) => PAD + g * ROW;
 
-// spojnice: oblouk od dítěte k závorce nad párem rodičů; barva podle jistoty (u páru podle slabšího z rodičů)
+// spojnice: svisle od dítěte k závorce nad rodiči, závorka, svisle do karet rodičů; barva podle jistoty
 const edgeCls = (st: string) => ({ doc: 'pk-e-doc', prob: 'pk-e-prob', fam: 'pk-e-fam', lit: 'pk-e-lit' })[st] ?? 'pk-e-lit';
-const oblouk = (x1: number, y1: number, x2: number, y2: number) => { const h = (y2 - y1) / 2; return `M${x1} ${y1}C${x1} ${y1 + h} ${x2} ${y2 - h} ${x2} ${y2}`; };
+const ZAV = 26;   // výška závorky nad kartami rodičů
 const paths = nodes.flatMap((n) => {
   if (!n.kids.length) return [];
-  const y1 = yOf(n.g) + H, y2 = yOf(n.g + 1);
-  if (n.kids.length === 1) return [{ d: oblouk(n.x, y1, n.kids[0].x, y2), cls: edgeCls(people[n.kids[0].slug].st) }];
-  const [f, m] = n.kids, yb = y2 - 18, mx = (f.x + m.x) / 2;
-  const sf = people[f.slug].st, sm = people[m.slug].st;
+  const y1 = yOf(n.g) + H, y2 = yOf(n.g + 1), yb = y2 - ZAV;
+  if (n.kids.length === 1) return [{ d: `M${n.x} ${y1}V${y2}`, cls: edgeCls(people[n.kids[0].slug].st) }];
+  const [f, m] = n.kids, sf = people[f.slug].st, sm = people[m.slug].st;
   return [
-    { d: oblouk(n.x, y1, mx, yb), cls: edgeCls(sf !== 'doc' ? sf : sm) },
-    { d: `M${mx} ${yb}H${f.x}V${y2}`, cls: edgeCls(sf) },
-    { d: `M${mx} ${yb}H${m.x}V${y2}`, cls: edgeCls(sm) },
+    { d: `M${n.x} ${y1}V${yb}`, cls: edgeCls(sf !== 'doc' ? sf : sm) },
+    { d: `M${n.x} ${yb}H${f.x}V${y2}`, cls: edgeCls(sf) },
+    { d: `M${n.x} ${yb}H${m.x}V${y2}`, cls: edgeCls(sm) },
+  ];
+});
+// popisky dlouhých závorek u dítěte: kudy k otci a kudy k matce
+const smery = nodes.filter((n) => n.kids.length === 2 && n.kids[1].x - n.kids[0].x > 2.2 * W).flatMap((n) => {
+  const y = yOf(n.g + 1) - ZAV;
+  return [
+    { x: n.x, y, slug: n.kids[0].slug, strana: 'l', text: `← ${people[n.kids[0].slug].name}` },
+    { x: n.x, y, slug: n.kids[1].slug, strana: 'p', text: `${people[n.kids[1].slug].name} →` },
   ];
 });
 
@@ -75,9 +76,9 @@ const genLabels = [...Array(maxG + 1).keys()].map((g) => (g === 0 ? root.name.sp
 const legend = Object.values(lines).sort((a, b) => a.k - b.k);
 const names = [...new Set(nodes.map((n) => people[n.slug].name))].sort((a, b) => a.localeCompare(b, 'cs'));
 ---
-<Base title="Rodokmen" wide>
+<Base title="Rodokmen" wider>
   <h1>Rodokmen</h1>
-  <p class="lead">Všichni doložení předkové na jednom plátně: {root.name} nahoře, pod ním rodiče, prarodiče a další generace – otec vždy vlevo, matka vpravo. Plátno posunete tahem, přiblížíte kolečkem myši nebo dvěma prsty; klepnutím na jméno otevřete stránku předka, klepnutím na kartičku zvýrazníte cestu k {root.name.split(' ')[0]}ovi. Manželé stojí vždy vedle sebe; na barevný štítek rodu klepněte a plátno na něj skočí.</p>
+  <p class="lead">Všichni doložení předkové na jednom plátně: {root.name} nahoře, pod ním rodiče, prarodiče a další generace – otec vždy vlevo, matka vpravo. Plátno posunete tahem, přiblížíte kolečkem myši nebo dvěma prsty; klepnutím na jméno otevřete stránku předka, klepnutím na kartičku zvýrazníte cestu k {root.name.split(' ')[0]}ovi. Každý předek stojí přesně nad svými rodiči. Kde jsou rodiče daleko od sebe, ukazují popisky u závorky „← otec“ a „matka →“, kterým směrem je hledat – klepnutím na popisek plátno k rodiči přejede. Na barevný štítek rodu klepněte a plátno skočí na jeho zakladatele.</p>
   <div class="chips pk-legenda" aria-label="Vysvětlivky a rody">
     <span class="chip st-doc">doloženo matrikou</span>
     <span class="chip st-fam">údaj od rodiny</span>
@@ -106,6 +107,9 @@ const names = [...new Set(nodes.map((n) => people[n.slug].name))].sort((a, b) =>
       <svg class="pk-spoje" width={CW} height={CH} viewBox={`0 0 ${CW} ${CH}`} aria-hidden="true">
         {paths.map((e) => <path d={e.d} class={e.cls} />)}
       </svg>
+      {smery.map((m) => (
+        <button type="button" class={`pk-smer pk-smer-${m.strana}`} style={`left:${m.x}px;top:${m.y}px`} data-jump={m.slug}>{m.text}</button>
+      ))}
       {nodes.map((n) => {
         const p = people[n.slug];
         return (
@@ -159,19 +163,27 @@ const names = [...new Set(nodes.map((n) => people[n.slug].name))].sort((a, b) =>
     const predci = (slug: string) => karty.filter((k) => { for (let s: string | undefined = k.dataset.slug; s; s = bySlug.get(s)?.dataset.child) if (s === slug) return true; return false; });
     const pohled = (co: string, anim = true) => {
       if (co === 'start') {
-        // úvodní pohled: Jan, rodiče, prarodiče a praprarodiče (prvních osm rodů) na šířku obrazovky
+        // úvodní pohled: Jan nahoře uprostřed, čitelně; popisky u závorky ukazují k rodičům
         const r = stage.getBoundingClientRect();
         const L = Math.max(...genEls.map((el) => el.offsetWidth)) + 10;   // místo pro popisky generací vlevo
-        const b = box(karty.filter((k) => Number(k.dataset.g) <= 3));
-        v.s = Math.max(0.45, Math.min(0.95, (r.width - L - 24) / (b.x1 - b.x0)));
-        v.x = L + (r.width - L) / 2 - ((b.x0 + b.x1) / 2) * v.s;
-        v.y = 18 - b.y0 * v.s;
+        const jan = karty.find((k) => k.dataset.g === '0')!;
+        v.s = r.width < 640 ? 0.62 : 0.9;
+        v.x = L + (r.width - L) / 2 - (jan.offsetLeft + jan.offsetWidth / 2) * v.s;
+        v.y = 18 - jan.offsetTop * v.s;
         apply(anim);
       } else if (co === 'otec' || co === 'matka') {
-        const s = stage.dataset[co === 'otec' ? 'father' : 'mother'];
-        if (s) ukaz(box(predci(s)), anim, true);
+        const k = bySlug.get(stage.dataset[co === 'otec' ? 'father' : 'mother'] || '');
+        if (k) naKartu(k);
       } else ukaz(box(karty), anim, true);
     };
+    // přejet na kartu (čitelně, v horní třetině plátna)
+    function naKartu(k: HTMLElement) {
+      const r = stage.getBoundingClientRect();
+      v.s = r.width < 640 ? 0.62 : 0.9;
+      v.x = r.width / 2 - (k.offsetLeft + k.offsetWidth / 2) * v.s;
+      v.y = r.height / 4 - k.offsetTop * v.s;
+      apply(true);
+    }
     (document.fonts?.ready ?? Promise.resolve()).then(() => pohled('start', false));
 
     const zoomAt = (f: number, cx?: number, cy?: number) => {
@@ -213,6 +225,8 @@ const names = [...new Set(nodes.map((n) => people[n.slug].name))].sort((a, b) =>
     stage.addEventListener('click', (e) => {
       if (moved > 4) { e.preventDefault(); e.stopPropagation(); return; }
       if ((e.target as Element).closest('a')) return;
+      const smer = (e.target as Element).closest<HTMLElement>('.pk-smer');
+      if (smer) { const k = bySlug.get(smer.dataset.jump!); if (k) { karty.forEach((x) => x.classList.remove('pk-hit')); k.classList.add('pk-hit'); naKartu(k); } return; }
       // klepnutí na kartičku: zvýraznit cestu od předka dolů k Janovi (druhé klepnutí zruší)
       const k = (e.target as Element).closest<HTMLElement>('.pk');
       const bylo = k?.classList.contains('pk-cesta');
@@ -270,7 +284,7 @@ const names = [...new Set(nodes.map((n) => people[n.slug].name))].sort((a, b) =>
     .pk-bar button { font: inherit; padding: 0.3rem 0.8rem; border: 1px solid var(--line); border-radius: 999px; background: var(--paper); cursor: pointer; color: #5a4632; }
     .pk-bar button:hover { background: var(--accent-soft); }
     .pk-btns { display: flex; gap: 0.35rem; flex-wrap: wrap; }
-    .pk-stage { position: relative; height: min(80vh, 960px); overflow: hidden; border: 1px solid var(--line); border-radius: 12px; touch-action: none; cursor: grab; user-select: none; background: var(--paper); }
+    .pk-stage { position: relative; height: max(480px, calc(100vh - 120px)); overflow: hidden; border: 1px solid var(--line); border-radius: 12px; touch-action: none; cursor: grab; user-select: none; background: var(--paper); }
     .pk-stage:fullscreen { height: 100vh; border-radius: 0; }
     .pk-stage.tahne { cursor: grabbing; }
     .pk-platno { position: absolute; left: 0; top: 0; transform-origin: 0 0; will-change: transform; }
@@ -296,6 +310,10 @@ const names = [...new Set(nodes.map((n) => people[n.slug].name))].sort((a, b) =>
     .pk-gen { position: absolute; left: 0; top: 0; bottom: 0; width: 0; pointer-events: none; transition: opacity 0.2s; }
     .pk-gen span { position: absolute; left: 6px; transform: translateY(-50%); font: italic 12.5px var(--sans); color: #6e6153; background: #fffdf8d9; padding: 0.1rem 0.4rem; border-radius: 6px; white-space: nowrap; }
     .pk-dalsi { margin-top: 0.8rem; }
+    .pk-smer { position: absolute; transform: translateY(-100%); margin-top: -4px; font: italic 600 13px var(--sans); color: #5a4632; background: #fffdf8e6; border: 1px solid var(--line); border-radius: 999px; padding: 0.1rem 0.6rem; cursor: pointer; white-space: nowrap; }
+    .pk-smer:hover { background: var(--accent-soft); }
+    .pk-smer-l { translate: calc(-100% - 8px) 0; }
+    .pk-smer-p { translate: 8px 0; }
     @media (max-width: 640px) { .pk-gen span { font-size: 11px; padding: 0.05rem 0.3rem; background: #fffdf8b3; } }
   </style>
 </Base>

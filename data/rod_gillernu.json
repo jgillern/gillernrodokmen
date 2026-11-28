@@ -349,7 +349,7 @@
         "r": 0,
         "jmeno": "Christoph Giller, rychtář",
         "roky": "Kunčice 1678–1701, † 1704",
-        "pozn": "hypotéza „Deschna“",
+        "pozn": "možná tentýž jako Johann Christof",
         "stav": "doc",
         "profil": "christoph_kuncice"
       },
@@ -528,10 +528,10 @@
         "popis": "syn (Gotha)"
       },
       {
-        "z": "kuncice",
-        "do": "ch",
+        "z": "jc",
+        "do": "kuncice",
         "typ": "nejiste",
-        "popis": "otec? (hypotéza)"
+        "popis": "tentýž? (hypotéza)"
       },
       {
         "z": "fw1",

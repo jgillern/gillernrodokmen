@@ -76,3 +76,5 @@ Výřezy jsou v `data/badani/2026-11-27-beranovi-kozakovi/doklady/` (např. `070
 | `zadani_lokalni_nerlich_olomouc_sonnet.md` | Sonnet, vysoké | B2, C4 |
 
 **29. 11. – výsledek A2/A3 (deník č. 977):** Nedražice a Kostelec bez Anglů; Kaplové doloženi jako pastýři kladrubského panství. Navazuje `zadani_lokalni_anglovi_kladruby.md` (Opus) – křest Jana 1799–1802 na celé faře Kladruby, sňatek Augustina, křest Evy.
+
+**29. 11. – výsledek B1 (deník č. 980):** Brandýs 1737–1753 bez Gillera, bez fořta z Ostrova u Záp; Brandýsko vyřazeno. Otevřené: který Ostrov měl písař v Chlebích 1752 na mysli (jiný Ostrov v okolí Nymburka / Poděbrad?).

@@ -50,3 +50,14 @@ Jen online prameny. Na rukopisné matriky Opus, na rejstříky, katalogy a tisk 
 1. Solnařová – sňatek 1792–1794 a úmrtí Jana (Opus, eBadatelna).
 2. Kochová – úmrtí 1822, sňatek 1748 znovu, křest Jakuba (Opus, eBadatelna).
 3. Nerlichová – rejstřík FamilySearch Nerlich / Rache / Matuschka (Sonnet), potom snímky Hlohova (Opus).
+
+---
+
+## Zadání předaná pomocníkům (29. 11.)
+
+| Zadání | Model | Linie |
+|---|---|---|
+| `zadani_lokalni_solnarova.md` | Opus, střední | C – Solnařová |
+| `zadani_lokalni_kochova.md` | Opus, střední | B – Kochová |
+| `zadani_lokalni_nerlich_hlohov_opus.md` | Opus, střední | A – Nerlichová (sňatky sester v Hlohově) |
+| `zadani_lokalni_nerlich_tisk_sonnet.md` | Sonnet, vysoké | A – Nerlichová (rejstříky a tisk) |

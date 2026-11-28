@@ -74,3 +74,5 @@ Výřezy jsou v `data/badani/2026-11-27-beranovi-kozakovi/doklady/` (např. `070
 | `zadani_lokalni_ostrov_brandys.md` | Opus, střední | B1 |
 | `zadani_lokalni_kuncice_preichau.md` | Opus, střední | C1, C2, C3 |
 | `zadani_lokalni_nerlich_olomouc_sonnet.md` | Sonnet, vysoké | B2, C4 |
+
+**29. 11. – výsledek A2/A3 (deník č. 977):** Nedražice a Kostelec bez Anglů; Kaplové doloženi jako pastýři kladrubského panství. Navazuje `zadani_lokalni_anglovi_kladruby.md` (Opus) – křest Jana 1799–1802 na celé faře Kladruby, sňatek Augustina, křest Evy.

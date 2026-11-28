@@ -1,0 +1,19 @@
+# Výpis ze závěti Georga Antona von Rache, 6. ledna 1741
+
+Archiwum Państwowe w Zielonej Górze, fond 89/92 Parafia rzymskokatolicka p.w. św. Mikołaja w Głogowie, sign. 89/92/0/1.3/125, [Racheschen Armen Fundation, 1778–1837](https://www.szukajwarchiwach.gov.pl/de/jednostka/-/jednostka/6658849). Dochovaný výpis závěti z roku 1741 je na samotném začátku spisu. Po něm následuje správa kapitálu a účetnictví od roku 1778.
+
+## Hlava rodiny a liturgická intence
+
+Snímek 3, s. 1, nadpis „Extract / Aus dem Testament Weyland Herrn / George Anton von Rache Syndici des / Fürstenthums Glogau. Den 6ten Januarij 1741.“ Česky „Výpis ze závěti zesnulého pána Georga Antona z Rache, syndika Hlohovského knížectví, ze 6. ledna 1741“.
+
+„Es soll wöchentlich eine heilige Messe vor / meine, meiner Frauen und Kinder und / deren Erben und Freunde Seelen gelesen / und mit 6 sgl: bezahlet werden. […] Die Intention ist. Pro / Georgio Antonio, uxore Maria Elisabetha / et Familia ejus.“ Česky „Každý týden se má číst svatá mše za mou duši, za duše mé ženy a dětí a jejich dědiců a přátel a má se za ni zaplatit šest stříbrných grošů. Intence je za Georga Antona, manželku Marii Alžbětu a jeho rodinu.“ Křestní jméno a manželský vztah potvrzuje dobový výpis. Rodné příjmení Nerlich zaznělo v Karlově závěti z roku 1777. [Snímek 3](https://www.szukajwarchiwach.gov.pl/skan/-/skan/38a5a28b9d37b71b90ba6b41369e90f1d9f1428d8518377420c2d26d91c532dc) · [Výřez](125-sn03-cele.jpg)
+
+## Děti Georgových sourozenců a správní posloupnost
+
+Snímek 4, s. 2 vlevo. „Es befinden sich von meinen / [viel?] Geschwistern verschiedene Arme / Kinder, welchen vor allen davon eine / erträgliche beyhülfe gönnete, und / in Kanien [?], Rudelsdorff, Jordans Mühle / leicht zu erfragen, und davon berichtet / werden kann.“ Překlad „Mezi potomky mých sourozenců je několik chudých dětí, kterým ze všech přeji slušnou podporu. Snadno se na ně lze poptat v Kanien, Rudelsdorffu a Jordans Mühle a podat o nich zprávu.“ Text v tomto úseku uvádí místa bez jmen konkrétních příjemců.
+
+Za citací výpisu následuje poznámka „Diese Väterliche Disposition wurde den 22. July / 1772 von dem damals noch einzig und allein / im Leben übrig gebliebenen Sohn Weyland Herrn / Carl von Rache Confirmiret und mir ein- / gehändiget […]“. Překlad „Toto otcovo pořízení 22. července 1772 potvrdil tehdy jediný dosud žijící syn, zesnulý pan Carl z Rache, a předal je mně […]“. Tvrzení se výslovně týká jediného přeživšího syna v daném roce. Úplný počet Georgových dětí z té věty určit nelze. Na pravém listu s. 3 je dále uvedeno, že Karel ve své závěti ze 4. října 1777 k otcovým 1 000 říšským tolarům přidal 500. Smyslem bylo zachovat objem podpory při poklesu úrokové míry. [Snímek 4](https://www.szukajwarchiwach.gov.pl/skan/-/skan/ac9fe15e7dcb9bc147715de7d1aef90ed43631c2ff972cd23e326bd30f1fffcb) · [Levý list](125-sn04-leva.jpg) · [Pravý list](125-sn04-prava.jpg)
+
+Snímky 5–6 jsou přechod k účtům. Snímek 5 vlevo doplňuje první jmenný seznam příjemců almužen, vpravo výnosy a výdaje roku 1778. Snímek 6 má účty za roky 1779 a 1780. Výše uvedené nejstarší listy neuvádějí jméno Maximiliána, jeho manželky ani zakladatele společné fundace von Rache–Güller. [Snímek 5](https://www.szukajwarchiwach.gov.pl/skan/-/skan/28a9b7d7f55238ce71d24d64d7e03cb03b6f4b7826690ee98f4e61d348215f99)
+
+Místní trojice dává společný geografický smysl v okolí dnešního Jordanówa Śląského. Jordansmühl je Jordanów Śląski, zdejší Rudelsdorf je Radzików u Łagiewnik. Čtení „Kanien“ podpořila blízká sídelní položka Kanigen/Klein Kanigen, dnes Kaniów, součást Janówku. Odborný soupis uvádí starou podobu Cany. V Karlově závěti 1777 (s. 23, sn. 16 vpravo) se v seznamu míst znovu objevují příslušná jména poblíž sebe, tam první přibližně čtu „Canien“. [Místopisný soupis, s. 193, č. 53, 57 a 70](https://bibliotekanauki.pl/articles/33337471.pdf) · [Karlova závěť, s. 23](121-sn16-prava.jpg)

@@ -14,6 +14,10 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
+## 28. 11. 2026 · Matriky u Hořejších Kunčic a křest Georga
+
+V Úvalně je dne 8. dubna 1668 pokřtěn Georg, syn Fridericha Heinricha a Anny. Jde o silného kandidáta na ženicha Johanna Georga Heinricha, který se roku 1701 oženil s dcerou kunčického rychtáře Gillera. Ve Vítkově je navíc přečten křestní oddíl 1653, sn. 94–100, bez bezpečné shody. V Hlohově sn. 2–29 farního účtu 1737 nepřinesly jmenný doklad pro Maximiliána. [Výsledky, rozsah četby v obcích a další online kroky](badani/2026-11-28-matriky-a-rychta/README.md)
+
 ## 28. 11. 2026 · Chotusické oddavky a úvalenský rychtář
 
 Přečtené oddavky Chotusice 13 nepřinesly sňatek Maximiliána a Johanny v letech 1745–1749. Chotusice 14 začínají 3. února 1750, po křtu v Boru. Z hlohovského soupisu z roku 1740 je otevřeno nařízení a předávací korespondence. Milotický zápis 15. února 1707 uvádí celé jméno Friderich Wilhelm Heinrich a úvalenský rychtářský úřad. V Úvalně je roku 1671 u Mariny doložen otec Friderich Heinrich a matka Anna, jejich vztah k Johannovi Georgovi je k ověření. [Výsledky, přepisy, výřezy a další online kroky](badani/2026-11-28-navazani/README.md)

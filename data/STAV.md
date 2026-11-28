@@ -16,6 +16,8 @@ Od 25. do 28. 11. vedl výzkum Jan přes ChatGPT; podrobné zprávy, přepisy a 
 
 ## ▶ Platný plán: [data/badani/2026-11-28-plan/README.md](badani/2026-11-28-plan/README.md) – A. Kaplovi (ověřit a zapsat 8 osob z podkladů ChatGPT, pak Nedražice, Popovice, Labouň), B. Ostrov u Záp / Johanna / Josef, C. Kunčice
 
+## ▶ Plán ženských linií u Gillernů (29. 11. 2026): [Nerlichová, Kochová, Solnařová](badani/2026-11-29-plan-zenske-linie/README.md)
+
 ## ⏳ Odložené otázky na později (Jan: „teď to rozvíjet nebudeme“)
 - **Hasmanová × Pondělíček (29. 11. 2026):** Anna Hasmanová (* 31. 12. 1860 Komárov čp. 54, č. 57) je nemanželská dcera Josefy Hasmanové (č. 115); k otcovství se podpisem přihlásil Josef Pondělíček z Tlustic (č. 114). Ověřit, zda se Josefa a Josef později vzali (oddavky Komárov, Tlustice po 1860) a co bylo s Josefou dál (další sňatek, úmrtí). Anna se 1880 vdávala jako Hasmanová – legitimace spíš nebyla.
 

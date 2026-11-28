@@ -25,17 +25,26 @@ exec(open(os.path.join(ROOT, "data", "osoby.py"), encoding="utf-8-sig").read(), 
 P, LINES = ns["P"], ns.get("LINES", {})
 WEBCFG = json.load(open(os.path.join(ROOT, "data", "web.json"), encoding="utf-8-sig")) if os.path.exists(os.path.join(ROOT, "data", "web.json")) else {}
 
-W, H = (4520, 4520) if WEB else (4600, 5650)
-CX, CY = (2260, 2260) if WEB else (W / 2, 2760)
-RINGS = [(0, 240), (240, 440), (440, 650), (650, 880), (880, 1100), (1100, 1380),
-         (1380, 1640), (1640, 1870), (1870, 2010), (2010, 2130), (2130, 2240)]
+# Hloubka prstenců po generacích (0 = Jan uprostřed). Vnější prstence musí být hluboké, protože jména tam běží
+# podél poloměru; šířku sektoru zajišťuje vážené dělení úhlů (viz uhly() níže).
+DEPTH = [300, 250, 260, 290, 290, 330, 310, 300, 300, 300, 300, 300, 300]
+RINGS, _r = [], 0
+for _d in DEPTH:
+    RINGS.append((_r, _r + _d)); _r += _d
+RMAX = RINGS[-1][1]
+MAXG = len(RINGS) - 1
+W = 2 * RMAX + 80
+CX = W / 2
+CY = CX if WEB else 520 + RMAX
+H = W if WEB else CY + RMAX + 760
 BASE = {8: "#EFB45F", 9: "#F09A78", 10: "#E58AA6", 11: "#B99AE0",
         12: "#86B8E8", 13: "#6FCBB9", 14: "#9CD17A", 15: "#D3D46A"}
-LIGHT = {3: 0.0, 4: 0.18, 5: 0.32, 6: 0.44, 7: 0.55, 8: 0.64, 9: 0.72, 10: 0.78}
+LIGHT = {3: 0.0, 4: 0.18, 5: 0.32, 6: 0.44, 7: 0.55, 8: 0.64, 9: 0.72, 10: 0.78, 11: 0.82, 12: 0.85}
 SIDE_COL = {0: "#E9DFCF", 1: "#D6E2EC"}          # father / mother half, generations 1–2
 EMPTY, FONT = "#ECE8E0", "Helvetica Neue, Helvetica, Arial, sans-serif"
-MINF = {5: 15, 6: 13, 7: 11, 8: 9.5, 9: 8.5, 10: 7.5}
-MAXF = {5: 26, 6: 22, 7: 18, 8: 14, 9: 11, 10: 9}
+MINF = {g: 10 for g in range(5, 13)}
+MAXF = {5: 30, 6: 27, 7: 25, 8: 23, 9: 22, 10: 21, 11: 20, 12: 20}
+EMPTY_W = 0.35   # váha neznámého rodiče při dělení úhlu (prázdný sektor zůstane vidět, ale úzký)
 
 
 def mix(hex_, t):
@@ -60,8 +69,9 @@ def years(y):
     if len(ys) == 1:
         return approx + ys[0] + ("–?" if dash else "")
     second = "?" if "před" in tail else ("po " if re.search(r"\bpo\b", tail) else "") + \
-        ("≈" if re.search(r"(asi|≈)", tail) else "") + ys[-1]
-    return f"{approx}{ys[0]}–{second}"
+        ("≈" if re.search(r"(asi|≈)", tail) else "") + ys[-1] + ("?" if re.search(ys[-1] + r"\s*\?", tail) else "")
+    first = ys[0] + ("?" if re.search(ys[0] + r"\s*\?", head) else "")
+    return f"{approx}{first}–{second}"
 
 
 def pt(r, a):
@@ -97,10 +107,37 @@ for _a, _c in sorted(SAME.items()):
                 HREFS.setdefault(_t, HREFS[_k])
 
 
+_W = {}
+
+
+def vaha(k):
+    """Kolik „místa“ potřebuje větev nad osobou k: osoba bez známých rodičů = 1, jinak součet za rodiče
+    (neznámý rodič EMPTY_W). Úhel se mezi otce a matku dělí podle těchto vah – dlouhé známé linie dostanou
+    široké sektory, prázdná místa jen úzké."""
+    if k in _W:
+        return _W[k]
+    kids = [c for c in (2 * k, 2 * k + 1) if c in P and gen(c) <= MAXG]
+    w = 1.0 if not kids else sum(vaha(c) if c in P and gen(c) <= MAXG else EMPTY_W for c in (2 * k, 2 * k + 1))
+    _W[k] = w
+    return w
+
+
+ANG = {1: (180.0, 540.0)}
+
+
 def angles(k):
-    g = gen(k); n = 2 ** g; i = k - n
-    span = 360 / n
-    return 180 + i * span, 180 + (i + 1) * span
+    if k in ANG:
+        return ANG[k]
+    a0, a1 = angles(k // 2)
+    par = k // 2
+    if gen(par) < 2:   # rodiče a prarodiče: vždy půl na půl (čtyři čtvrtiny = čtyři prarodiče)
+        m = (a0 + a1) / 2
+    else:
+        wf = vaha(2 * par) if 2 * par in P else EMPTY_W
+        wm = vaha(2 * par + 1) if 2 * par + 1 in P else EMPTY_W
+        m = a0 + (a1 - a0) * wf / (wf + wm)
+    ANG[2 * par], ANG[2 * par + 1] = (a0, m), (m, a1)
+    return ANG[k]
 
 
 def fill(k):
@@ -119,9 +156,25 @@ def fit(text, avail, fmax, fmin):
     return max(fmin, min(fmax, avail / (0.56 * max(len(text), 1))))
 
 
+def zobraz(name):
+    """Ve vnějších prstencích vynech dovětky v závorkách s druhým jménem („(Carl Heinrich)“), nech jen „(?)“
+    a poznámky o příjmení."""
+    return re.sub(r"\s*\((?![^)]*(\?|příjmení))[^)]*\)", "", name).strip() or name
+
+
+def rozdel(t):
+    """Možnosti zalomení jména: na jeden řádek, nebo na dva v mezeře nejblíž polovině."""
+    out = [[t]]
+    mezery = [i for i, ch in enumerate(t) if ch == " "]
+    if mezery:
+        i = min(mezery, key=lambda m: abs(m - len(t) / 2))
+        out.append([t[:i], t[i + 1:]])
+    return out
+
+
 paths, defs, texts, links = [], [], [], []
-slots = sorted({k for k in P if gen(k) < len(RINGS)} |   # vějíř má 11 prstenců (generace 0–10); starší předky vynech
-               {c for k in P for c in (2 * k, 2 * k + 1) if gen(c) <= 10 and k in P})
+slots = sorted({k for k in P if gen(k) <= MAXG} |   # prstenec pro každou generaci až po MAXG
+               {c for k in P for c in (2 * k, 2 * k + 1) if gen(c) <= MAXG and k in P})
 for k in slots:
     g = gen(k)
     r0, r1 = RINGS[g]
@@ -140,18 +193,18 @@ for k in slots:
     unknown = st == "unk"
     style = 'font-style="italic" fill="#8A8278"' if unknown else ('font-style="italic" fill="#2B2620"' if st in ("prob", "mh") else 'fill="#1F1A15"')
     if g == 0:
-        texts.append(f'<text x="{CX}" y="{CY - 8}" text-anchor="middle" font-size="44" font-weight="700" fill="#FFF8EE">{html.escape(name)}</text>')
-        texts.append(f'<text x="{CX}" y="{CY + 46}" text-anchor="middle" font-size="34" fill="#F1E3CF">{html.escape(yrs)}</text>')
+        texts.append(f'<text x="{CX}" y="{CY - 8}" text-anchor="middle" font-size="54" font-weight="700" fill="#FFF8EE">{html.escape(name)}</text>')
+        texts.append(f'<text x="{CX}" y="{CY + 52}" text-anchor="middle" font-size="40" fill="#F1E3CF">{html.escape(yrs)}</text>')
         continue
     am = (a0 + a1) / 2
     if g <= 4:   # tangential text on arcs
         rm = (r0 + r1) / 2
         lines = []
         if g == 3 and k in LINES:
-            lines.append((LINES[k][0].upper(), 21, 'font-weight="700" letter-spacing="4" fill="#5A4632"'))
-        lines.append((name, {1: 40, 2: 34, 3: 30, 4: 27}[g], f'font-weight="600" {style}'))
+            lines.append((LINES[k][0].upper(), 26, 'font-weight="700" letter-spacing="4" fill="#5A4632"'))
+        lines.append((name, {1: 50, 2: 44, 3: 38, 4: 34}[g], f'font-weight="600" {style}'))
         if yrs:
-            lines.append((yrs, {1: 30, 2: 27, 3: 24, 4: 22}[g], f'{style}'))
+            lines.append((yrs, {1: 38, 2: 34, 3: 30, 4: 28}[g], f'{style}'))
         gap = [s * 1.25 for _, s, _ in lines]
         total = sum(gap)
         bottom = 90 < (am % 360) < 270
@@ -178,24 +231,32 @@ for k in slots:
                 d = f"M{xa:.1f},{ya:.1f} A{r:.1f},{r:.1f} 0 {1 if b1 - b0 > 180 else 0} 1 {xb:.1f},{yb:.1f}"
             defs.append(f'<path id="{pid}" d="{d}" fill="none"/>')
             texts.append(f'<text font-size="{s:.1f}" {a}><textPath href="#{pid}" startOffset="50%" text-anchor="middle">{html.escape(t)}</textPath></text>')
-    else:        # radial text
+    else:        # radial text – jméno podél poloměru, dlouhé jméno na dva řádky, roky pod ním
         rm = (r0 + r1) / 2
-        depth = (r1 - r0) - 22
-        arc = math.radians(a1 - a0) * rm
-        f1 = fit(name, depth, MAXF[g], MINF[g])
-        f2 = fit(yrs, depth, MAXF[g] * 0.85, MINF[g] * 0.9) if yrs else 0
-        two = yrs and arc >= (f1 + f2) * 1.15
-        if not two:
-            f1 = min(f1, arc / 1.25)
+        depth = (r1 - r0) - 26
+        arc = math.radians(a1 - a0) * rm * 0.92
+        disp = zobraz(name)
+        best = None
+        for radky in rozdel(disp):
+            lines = radky + ([yrs] if yrs else [])
+            # písmo: nejdelší řádek se musí vejít do hloubky prstence, všechny řádky do šířky sektoru
+            f = min(MAXF[g], *(depth / (0.56 * max(len(t), 1)) for t in lines), arc / (1.18 * len(lines) + 0.1))
+            if best is None or f > best[0] * 1.05:
+                best = (f, radky)
+        f, radky = best
+        f = max(f, 6.0)
+        fy = f * 0.85
+        lines = [(t, f, f'font-weight="600" {style}') for t in radky] + ([(yrs, fy, style)] if yrs else [])
         rot = am - 90 if (am % 360) < 180 else am + 90
         x, y = pt(rm, am)
         tw = f'transform="translate({x:.1f},{y:.1f}) rotate({rot:.2f})"'
-        if two:
-            h = (f1 + f2) * 1.08
-            texts.append(f'<g {tw}><text y="{-h / 2 + f1 * 0.85:.1f}" text-anchor="middle" font-size="{f1:.1f}" font-weight="600" {style}>{html.escape(name)}</text>'
-                         f'<text y="{h / 2 - f2 * 0.15:.1f}" text-anchor="middle" font-size="{f2:.1f}" {style}>{html.escape(yrs)}</text></g>')
-        else:
-            texts.append(f'<g {tw}><text y="{f1 * 0.35:.1f}" text-anchor="middle" font-size="{f1:.1f}" font-weight="600" {style}>{html.escape(name)}</text></g>')
+        total = sum(sz * 1.15 for _, sz, _ in lines)
+        cur = -total / 2
+        parts = []
+        for t, sz, a in lines:
+            cur += sz * 1.15
+            parts.append(f'<text y="{cur - sz * 0.25:.1f}" text-anchor="middle" font-size="{sz:.1f}" {a}>{html.escape(t)}</text>')
+        texts.append(f'<g {tw}>{"".join(parts)}</g>')
 
 # statistics
 known = [k for k in VLASTNI if k > 1 and not P[k]["n"].startswith("otec neuveden")]
@@ -211,7 +272,7 @@ maxg = max(gen(k) for k in P)
 title = (f'<text x="{W / 2}" y="250" text-anchor="middle" font-family="Georgia, \'Times New Roman\', serif" font-size="128" fill="#3B2E22">{html.escape(WEBCFG.get("nazev", "Rodokmen"))}</text>'
          f'<text x="{W / 2}" y="370" text-anchor="middle" font-size="50" fill="#6B5A48">{len(known)} známých předků v {maxg + 1} generacích · {len(doc)} doloženo matrikou · {len(recs)} matričních zápisů</text>')
 
-lx, ly = 300, CY + 2240 + 170
+lx, ly = 300, CY + RMAX + 170
 legend = []
 items = [(k, LINES[k][0]) for k in range(8, 16) if k in LINES]
 

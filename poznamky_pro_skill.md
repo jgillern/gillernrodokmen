@@ -104,3 +104,8 @@ Rejstřík FamilySearch (např. sbírka „Deutschland, Preußen, Schlesien, Kat
 ## 28. 11. 2026 – kontrola dat po práci jiného asistenta (ChatGPT)
 - `tools/kontrola.py` nově počítá jako citované i zápisy uvedené u profilů na stránkách rodů (`data/rod_*.json` → `profily.*.zaznamy`); dřív hlásil „necituje ho žádná osoba“ u desítek záznamů, které se na webu zobrazují přes profil rodu.
 - Zkušenost: jiný asistent ukládal výřezy do pracovních složek (`data/badani/...`) pod vlastními názvy, ne do `vyrezy/<klic>.jpg`, a vytvářel záznamy bez osob v `osoby.py`. Ve skillu by pomohlo výslovné pravidlo „záznam = výřez ve `vyrezy/<klic>.jpg` + rámeček + přepis + odkaz z osoby“ a kontrola, která u chybějícího výřezu vypíše kandidátní soubory podle data a místa.
+
+## 28. 11. 2026 – kontrola celého webu
+- **Relativní odkazy do `data/badani/…` v deníku a v „Co hledáme“ vedly na webu do prázdna (404).** `tools/export_web.py` je teď při exportu přepisuje na soubory na GitHubu (`github_links`, větev z proměnné BRANCH/HEAD na Netlify, jinak z gitu). Do skillu: odkazy z markdownu, který jde na web, buď na stránky webu, nebo absolutně.
+- **Regexy míst v `data/mista.json` chytaly cizí obce:** „Vís[kc]“ i Velkou Vísku u Hořovic, „Mitrov“ i panství Mitrovice, „Levín“ i hřbitov v Levíně u Vlašimi. Při `mista.py pridej` vždy vypsat, které osoby regex zachytí (stačí krátký skript nad `osoby.P`), a u stejnojmenných obcí (dva Oseky) použít specifický výraz.
+- **Po dlouhém výzkumu bez úprav webu** zastarají hlavně volné texty (úvod, podtitul s počty, časová osa, kapitoly, zajímavosti, „Co hledáme“), ne data osob. Užitečný kontrolní krok: grep sestaveného `dist/` na tvrzení typu „zatím nevíme“, „nejstarší“, „nejspíš“ a porovnat se STAV.

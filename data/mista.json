@@ -175,7 +175,7 @@
   "osm": "Rohov, Staré Mitrovice, Sedlec-Prčice, okres Příbram, Středočeský kraj, 257 92, Česko"
  },
  "Víska": {
-  "re": "Vís[kc]",
+  "re": "(?<!Velká )(?<!Velké )Vís[kc]",
   "dotaz": "Víska, Sedlec-Prčice",
   "lat": 49.5697,
   "lon": 14.5784,
@@ -357,7 +357,7 @@
   "osm": "Kostelec nad Vltavou, okres Písek, Jihočeský kraj, 398 58, Česko"
  },
  "Mitrov": {
-  "re": "Mitrov",
+  "re": "Mitrov(?!ic)",
   "dotaz": "Mitrov, Kutná Hora, Česko",
   "lat": 49.8551,
   "lon": 15.0481,
@@ -539,5 +539,140 @@
   "lat": 51.438,
   "lon": 16.5125,
   "osm": "Krzelów, gmina Wińsko, powiat wołowski, województwo dolnośląskie, Polska"
+ },
+ "Točník": {
+  "re": "Točník",
+  "dotaz": "Točník, okres Beroun",
+  "lat": 49.8855,
+  "lon": 13.8827,
+  "osm": "Točník, okres Beroun, Středočeský kraj, Česko"
+ },
+ "Levín (Králův Dvůr)": {
+  "re": "Levín[ěa]? čp",
+  "dotaz": "Levín, Králův Dvůr",
+  "lat": 49.9284,
+  "lon": 14.0014,
+  "osm": "Levín, Králův Dvůr, okres Beroun, Středočeský kraj, 267 01, Česko"
+ },
+ "Zdice": {
+  "re": "Zdic",
+  "dotaz": "Zdice, Česko",
+  "lat": 49.912,
+  "lon": 13.978,
+  "osm": "Zdice, okres Beroun, Středočeský kraj, 267 51, Česko"
+ },
+ "Komárov": {
+  "re": "Komárov čp",
+  "dotaz": "Komárov, okres Beroun",
+  "lat": 49.8066,
+  "lon": 13.8565,
+  "osm": "Komárov, okres Beroun, Středočeský kraj, 267 62, Česko"
+ },
+ "Osek u Komárova": {
+  "re": "Osek[a-z]*( čp\\. \\d+)? u Komárova",
+  "dotaz": "Osek, okres Beroun",
+  "lat": 49.8244,
+  "lon": 13.8652,
+  "osm": "Osek, okres Beroun, Středočeský kraj, Česko"
+ },
+ "Osek u Rokycan": {
+  "re": "Osek[a-z]* čp\\. (37|39|42|45)|Osek[a-z]* na Rokycansku",
+  "dotaz": "Osek, okres Rokycany",
+  "lat": 49.7771,
+  "lon": 13.5907,
+  "osm": "Osek, okres Rokycany, Plzeňský kraj, 338 21, Česko"
+ },
+ "Volduchy": {
+  "re": "Volduch",
+  "dotaz": "Volduchy, Česko",
+  "lat": 49.776,
+  "lon": 13.6227,
+  "osm": "Volduchy, okres Rokycany, Plzeňský kraj, 338 22, Česko"
+ },
+ "Tlustice": {
+  "re": "Tlustic",
+  "dotaz": "Tlustice, okres Beroun",
+  "lat": 49.85,
+  "lon": 13.8856,
+  "osm": "Tlustice, okres Beroun, Středočeský kraj, Česko"
+ },
+ "Podluhy": {
+  "re": "Podluh",
+  "dotaz": "Podluhy, Česko",
+  "lat": 49.8158,
+  "lon": 13.9138,
+  "osm": "Podluhy, okres Beroun, Středočeský kraj, Česko"
+ },
+ "Železná (u Berouna)": {
+  "re": "Železn[áé]\\b",
+  "dotaz": "Železná, okres Beroun",
+  "lat": 50.0097,
+  "lon": 14.0909,
+  "osm": "Železná, okres Beroun, Středočeský kraj, Česko"
+ },
+ "Hořovice": {
+  "re": "z Hořovic|Hořovice Rozálie|v Hořovicích",
+  "dotaz": "Hořovice, Česko",
+  "lat": 49.8363,
+  "lon": 13.9029,
+  "osm": "Hořovice, okres Beroun, Středočeský kraj, 268 01, Česko"
+ },
+ "Libuň": {
+  "re": "Libu[nň]",
+  "dotaz": "Libuň, Česko",
+  "lat": 50.4982,
+  "lon": 15.2985,
+  "osm": "Libuň, okres Jičín, Královéhradecký kraj, 507 15, Česko"
+ },
+ "Kněžnice": {
+  "re": "Kněžnic",
+  "dotaz": "Kněžnice, okres Jičín",
+  "lat": 50.4955,
+  "lon": 15.3258,
+  "osm": "Kněžnice, okres Jičín, Královéhradecký kraj, Česko"
+ },
+ "Želejov": {
+  "re": "Želejov",
+  "dotaz": "Želejov, Česko",
+  "lat": 50.5148,
+  "lon": 15.2039,
+  "osm": "Želejov, Hrubá Skála, okres Semily, Liberecký kraj, 512 62, Česko"
+ },
+ "Bozkov": {
+  "re": "Bozkov|Boskov",
+  "dotaz": "Bozkov, okres Semily",
+  "lat": 50.638,
+  "lon": 15.3366,
+  "osm": "Bozkov, okres Semily, Liberecký kraj, 512 13, Česko"
+ },
+ "Stará Boleslav": {
+  "re": "Star[áé] Boleslav",
+  "dotaz": "Stará Boleslav, Brandýs nad Labem-Stará Boleslav",
+  "lat": 50.2,
+  "lon": 14.6786,
+  "osm": "Stará Boleslav, Brandýs nad Labem-Stará Boleslav, okres Praha-východ, Středočeský kraj, 250 01, Česko"
+ },
+ "Preichau (Przychowa)": {
+  "re": "Preichau",
+  "dotaz": "Przychowa, Polska",
+  "lat": 51.4531,
+  "lon": 16.4298,
+  "osm": "Przychowa, gmina Ścinawa, powiat lubiński, województwo dolnośląskie, Polska"
+ },
+ "Hořejší Kunčice": {
+  "re": "Hořejší Kunčice|Hořejších Kunčic",
+  "dotaz": "Hořejší Kunčice, Česko",
+  "lat": 49.8806,
+  "lon": 17.6411,
+  "osm": "Hořejší Kunčice, Jakartovice, okres Opava, Moravskoslezský kraj, 747 53, Česko",
+  "hypoteza": true,
+  "rod": 8
+ },
+ "Velká Víska": {
+  "re": "Velk[áé] Vís[kc]",
+  "dotaz": "Velká Víska, okres Beroun",
+  "lat": 49.8354,
+  "lon": 13.9139,
+  "osm": "Velká Víska, Hořovice, okres Beroun, Středočeský kraj, 268 01, Česko"
  }
 }

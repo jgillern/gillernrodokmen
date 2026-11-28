@@ -3,7 +3,7 @@ title: Od Jakuba Píši k babičce Miladě
 strana: mámina strana
 obdobi: před 1723 – 1937
 rody: [15, 14]
-lead: "Tři sta let mezi Vlašimí a Pravonínem – od sedláka Jakuba z Kondrace přes ševce, hokynáře, krejčího a kováře až k babiččině cihelně. Rod babičky Milady, jak ho vyprávějí farní matriky."
+lead: "Tři sta let mezi Vlašimí a Pravonínem – od sedláka Jakuba z Kondrace přes ševce, hokynáře, krejčího a kováře až k cihelně, kterou do Pravonína přinesli cihláři Beranovi z Podbrdska. Rod babičky Milady, jak ho vyprávějí farní matriky."
 ---
 
 <!-- Příběh linie babičky Milady Beranové (* 1937). Jen doložené údaje; domněnky jsou výslovně označené. -->
@@ -43,6 +43,16 @@ Přes kopec v Bukové čp. 5 šil [Jan Svatek](/osoba/jan-svatek/), syn rolníka
 ## Svatba v září 1914 (1914–1937)
 
 Dvanáctého září 1914 – šest týdnů po vypuknutí první světové války – se v pravonínském kostele brali obuvník [František Sluneček](/osoba/frantisek-slunecek-1888/) a dvacetiletá [Ludmila Svatková](/osoba/ludmila-svatkova-1893/). Za nezletilou nevěstu svolil její otec Jan Svatek, za svědka šel ženichův otec Alois. V únoru 1915 se jim narodil syn Jaroslav, 7. dubna 1916 dcera [Ludmila](/osoba/ludmila-sluneckova-1916/) a v roce 1927 ještě Zdenka. František se mezitím z obuvníka stal obchodníkem.
+
+## Cihláři z Podbrdska (1742–1898)
+
+Rod Beranů pochází z Podbrdska. [Jakub Beran](/osoba/jakub-beran/) byl hutníkem, uhlířem a nádeníkem v Oseku na Rokycansku, odkud byla i jeho žena [Kateřina Holubová](/osoba/katerina-holubova/). Jejich syn [Matěj](/osoba/matej-beran/) se oženil s [Annou Tumpachovou](/osoba/anna-tumpachova/), dcerou osecké chalupnické rodiny, a nejpozději roku 1836 byl panským cihlářem v Točníku čp. 30. Tam se 24. dubna 1854 narodil jejich syn [František](/osoba/frantisek-beran-1854/) – i on cihlář. V červnu 1880 si v Točníku vzal [Annu Hasmanovou](/osoba/anna-hasmanova-1860/) z Komárova. Její předkové byli sedláci a nádeníci Hasmanovi z Oseka u Komárova, obecní slouha a domkáři Pondělíčkovi z Tlustic, volák Froněk z panského dvora ve Velké Vísce a kovář Tomáš Braumský z Tlustic, jehož rodiče se brali už roku 1742 v Železné.
+
+Cihláři se stěhovali za prací. V Levíně čp. 6 u Králova Dvora se 24. března 1883 narodil [Josef Beran starší](/osoba/josef-beran-1883/), roku 1891 byla rodina ve Zdicích, kde Anna v červnu zemřela. František se znovu oženil a roku 1898 je zapsán jako mistr cihlářský v Levíně.
+
+## Podruzi a sedláci od Jičína (1758–1907)
+
+Josefova budoucí žena přišla z opačného konce Čech. [Emilie Kozáková](/osoba/emilie-kozakova-1882/) se narodila v Robousích u Jičína podruhovi [Františku Kozákovi](/osoba/frantisek-kozak-1843/) a [Barboře Kaplové](/osoba/barbora-kaplova-1845/). Kozákovi bývali sedláky v Libuni čp. 32: [Václav Kozák](/osoba/vaclav-kozak/) si roku 1793 vzal [Annu Brunclíkovou](/osoba/anna-brunclikova/) z Kněžnic, jejich syn [Václav](/osoba/vaclav-kozak-1800/) už byl jen podruhem v Želejově. Františkova matka [Františka Auhrábková](/osoba/frantiska-auhrabkova-1805/) pocházela z chalupy čp. 59 v Bozkově u Semil, kde její děd – nejspíš [Jan Auhrabka](/osoba/jan-auhrabka-auhrabek/) – roku 1787 prodal pro stáří polovinu gruntu synovi Václavovi a vymínil si doživotní byt; matka Anna byla ze sousedního statku Čmuchálků čp. 58.
 
 ## Cihelna v Pravoníně (1910–1937)
 

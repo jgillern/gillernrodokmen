@@ -13,7 +13,7 @@ lead: "Zrušení nevolnictví, konec roboty, škola pro všechny, dvě světové
 
 Janovi předkové pocházejí z pěti krajů, které spolu až do 20. století neměly nic společného. Každý z nich zažil velké dějiny jinak – podle toho, kde žil a jaké místo měl ve společnosti.
 
-- **Vlašimští** (rod babičky Milady): Píšové, Musilové, Malí, Slunečkové a Svatkovi z Kondrace, Jeníkova, Bukové a Tisku. Sedláci a půlníci, později ševci a obchodníci, nakonec majitelé cihelny.
+- **Vlašimští** (rod babičky Milady): Píšové, Musilové, Malí, Slunečkové a Svatkovi z Kondrace, Jeníkova, Bukové a Tisku, k nim cihláři Beranovi z Podbrdska a Kozákovi od Jičína. Sedláci a půlníci, později ševci a obchodníci, cihláři a nakonec majitelé cihelny.
 - **Šumavští** (rod dědy Vladimíra): Myslíkové, Šimkovi, Šustrovi, Volfové, Sovové a Vaňkové z Branišova, Masákovy Lhoty a Zdíkova. Většinou domkáři a podruzi v chudém kraji pod lesy, jen pár sedláků a mlynářů.
 - **Votičtí** (rod babičky Boženy): Richtrovi, Kyptovi, Otradovci, Piglové a Doubkové z Mezna, Rohova a Vísky. Chalupníci a sedláci, krejčí, pastýř a nakonec železničář.
 - **Horosedelští** (rod prababičky Julie): Hřídelovi, Štětinovi a Teskovi z Horosedel u Mirovic. Sedláci na statcích, kam se nejeden ženich „přiženil“.
@@ -29,7 +29,7 @@ Na vesnici platil pevný žebříček: nahoře **sedlák** s celým gruntem, pod
 - **Vlašimští:** [Matěj Píša](/osoba/matej-pisa-1759/), syn sedláka z Kondrace, se ženil 20. listopadu 1781 – tři týdny po vydání patentu. Kovářem v Kondraci byl tehdy jeho tchán Jan Jahoda. Úplně jinak na tom byli Malí z Bukové: [Jan Malý](/osoba/jan-maly/) se ještě roku 1819 psal „královský svobodník“ – rod, který nebyl poddaný žádné vrchnosti a robotu nekonal.
 - **Šumavští:** sedláci Sovové v Masákově Lhotě a Uhlířové ve Stachách, domkáři Myslíkové v Branišově – všichni poddaní malého statku Přečín nebo panství Zdíkov.
 - **Votičtí:** předek [František Kypta](/osoba/frantisek-kypta-1771/) se narodil kolem roku 1771 a vyučil se kolářem; Piglové byli poddaní k Jistebnici, Richtrovi k Mitrovicům.
-- **Gillernové:** náš předek Maximilián z Gillernů byl roku 1781 nejvyšším myslivcem (nadlesním) komorního panství Poděbrady, jeho syn Josef tam byl myslivcem – šlechtici, ale ve službách vrchnosti. Moravští příbuzní tehdy drželi panství Koryčany; jak přesně jsou s námi spřízněni, zatím nevíme.
+- **Gillernové:** náš předek Maximilián z Gillernů byl roku 1781 nejvyšším myslivcem (nadlesním) komorního panství Poděbrady, jeho syn Josef tam byl myslivcem – šlechtici, ale ve službách vrchnosti. Vzdálení příbuzní z 1. větve rodu tehdy drželi panství Koryčany na Moravě a Maximiliánův bratr Ernst Heinrich sloužil jako pruský důstojník v Nise – rodina ze Slezska stála na obou stranách hranice.
 
 **Jak to mohli prožívat:** Pro sedláky se mnoho nezměnilo – grunt i robota zůstaly. Pro mladší syny bez dědictví ale patent otevřel cestu k řemeslu: o generaci později najdeme v rodokmenu koláře, krejčí a ševce.
 
@@ -126,7 +126,7 @@ Na vesnici platil pevný žebříček: nahoře **sedlák** s celým gruntem, pod
 
 ## Co mají rody společného
 
-**Jak daleko pro nevěstu:** Na Šumavě se ženilo skoro výhradně v jedné farnosti – rody se proplétaly tak hustě, že některé páry potřebovaly povolení biskupa kvůli příbuzenství. Na Vlašimsku a Voticku do deseti, patnácti kilometrů. Gillernové se naopak stěhovali za službou napříč jižními a středními Čechami: Orlík, Bohostice, Čimelice, Písek, Osov, Praha.
+**Jak daleko pro nevěstu:** Na Šumavě se ženilo skoro výhradně v jedné farnosti – rody se proplétaly tak hustě, že některé páry potřebovaly povolení biskupa kvůli příbuzenství. Na Vlašimsku a Voticku do deseti, patnácti kilometrů. Gillernové se naopak stěhovali za službou – v 18. století ze Slezska do Polabí (Nymburk, Kladruby, Čelákovice, Poděbrady, Brandýs, Kolín), pak napříč jižními a středními Čechami: Orlík, Bohostice, Čimelice, Písek, Osov, Praha. Podobně cihláři Beranovi táhli za cihelnami z Podbrdska až na Náchodsko a do Pravonína.
 
 **Jazyk matrik:** V 18. století psal farář v Kondraci latinsky, ve Stachách roku 1786 německy, jinde česky starým kurentem. Od konce 20. let 19. století se na Zdíkovecku píše do předtištěných tabulek. Venkovské rody měly často dvě jména – příjmení a jméno po chalupě: Jakub Sova „neb Mašák“, branišovský sedlák Jiří „neb Hasa“.
 

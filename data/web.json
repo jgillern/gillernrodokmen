@@ -15,7 +15,7 @@
   "nadpis": "Rodokmen – rozpracovaná verze",
   "odstavce": [
    "Všechno, co je tu označené jako doložené, jsme přečetli přímo v naskenovaných farních matrikách nebo v rodinných dokladech; u každého zápisu najdete výřez z originálu, přepis a překlad.",
-   "Z máminy strany jsou rozpletené obě linie: babička Milada Beranová (Pravonínsko a Vlašimsko, až do konce 17. století) a děda Vladimír Myslík (Zdíkov pod Šumavou). Z tátovy strany je rozpletená linie babičky Boženy Richtrové (Mezno u Miličína, Rohov, Mutice – předci narození kolem roku 1770–1800) a linie dědy Augustina (Gustíka) – Gillernové – je doložená přes lesníky od Orlíka a Poděbrad až do Slezska: nejstarší předek, Christoph Heinrich von Giller, se narodil roku 1646.",
+   "Z máminy strany jsou rozpletené obě linie: babička Milada Beranová – Slunečkovi, Píšovi a Musilovi z Pravonínska a Vlašimska až do konce 17. století, cihláři Beranovi z Podbrdska (Levín, Točník, Osek na Rokycansku) a Kozákovi z Jičínska a Pojizeří (Robousy, Libuň, Bozkov) do 18. století – a děda Vladimír Myslík (Zdíkov pod Šumavou). Z tátovy strany je rozpletená linie babičky Boženy Richtrové (Mezno u Miličína, Rohov, Mutice – předci narození kolem roku 1770–1800) a linie dědy Augustina (Gustíka). Gillernové jsou doloženi přes lesníky od Orlíka, Poděbrad a Brandýsa až do Slezska: Maximilián z Gillernů se narodil roku 1719 v Krehlau u Volova a jeho děd Christoph Heinrich von Giller, nejstarší doložený předek tohoto rodu, byl roku 1683 hejtmanem biskupského panství Preichau. Odkud pocházel on sám, zatím nevíme – stopa možná vede do Hořejších Kunčic u Deštného na Opavsku.",
    "Příběhy jednotlivých větví a jejich srovnání najdete v části Příběh, drobné objevy v Zajímavostech a to, co ještě hledáme, v části „Co hledáme“."
   ],
   "foto": "",
@@ -44,15 +44,23 @@
    "text": "Ještě roku 1943 stál děda Augustin v legitimaci jako „z Gillernů“."
   },
   {
+   "nadpis": "Závěť příbuzného z Hlohova",
+   "text": "Roku 1777 jmenoval advokát Karel z Rache mezi svými dědici i Maximiliána – „lesmistra u Chotusic či Kolína v Čechách“."
+  },
+  {
+   "nadpis": "Čtyři generace cihlářů",
+   "text": "Matěj, František i oba Josefové Beranovi pálili cihly – od panské cihelny v Točníku po vlastní cihelnu v Pravoníně."
+  },
+  {
    "nadpis": "Kmotr Myslík u mlynáře Vaňka",
    "text": "Rody, které se spojily roku 1921, se znaly už za Napoleonových válek."
   },
   {
    "nadpis": "Šest generací v jedné vesnici",
-   "text": "Píšové žili v Kondraci u Vlašimi od konce 17. století – nejdelší doložená linie rodokmenu."
+   "text": "Píšové žili v Kondraci u Vlašimi od konce 17. století – linie s nejvíc doloženými generacemi v rodokmenu."
   }
  ],
- "podtitul": "12 generací, přes 150 předků doložených v matrikách a víc než 300 let – od sedláka Jakuba Píši z Kondrace, Masáků z Masákovy Lhoty a krejčích z Mezna až k vám.",
+ "podtitul": "12 generací, přes 250 předků doložených v matrikách a rodinných dokladech a víc než 340 let – od slezského hejtmana Christopha Heinricha von Giller a sedláka Jakuba Píši z Kondrace přes Masáky z Masákovy Lhoty a krejčí z Mezna až k vám.",
  "casova_osa": [
   {
    "obdobi": "Robota a panství",
@@ -62,9 +70,16 @@
     {
      "rok": "1680",
      "nadpis": "Měšťanský syn z Týna",
-     "text": "V Týně nad Vltavou se narodil Jan, syn měšťana Václava Hlenického alias Jelínka – nejstarší doložená rodina celého rodokmenu.",
+     "text": "V Týně nad Vltavou se narodil Jan, syn měšťana Václava Hlenického alias Jelínka – spolu s Gillerny z Preichau nejstarší doložená rodina celého rodokmenu.",
      "osoba": "jan-jelinek-1680",
      "strana": "tátova strana · Jelínkovi"
+    },
+    {
+     "rok": "1683",
+     "nadpis": "Hejtman biskupského panství",
+     "text": "V Preichau ve Slezsku je Christoph Heinrich von Giller zapsán jako hejtman; v červenci mu tu pokřtili syna Johanna Christopha. Nejstarší doložený předek z rodu Gillernů.",
+     "osoba": "christoph-heinrich-von-giller-christophorus-henricus-1646",
+     "strana": "tátova strana · Gillernovi"
     },
     {
      "rok": "1708",
@@ -72,6 +87,20 @@
      "text": "Jan Jelínek alias Hlenický si v kostele sv. Jiljí bere Annu, dceru milevského měšťana Martina Humpy.",
      "osoba": "jan-jelinek-1680",
      "strana": "tátova strana · Jelínkovi"
+    },
+    {
+     "rok": "1710",
+     "nadpis": "Svatba pána na Hammeru",
+     "text": "Carl Heinrich von Giller, pán na Hammeru, si v Krehlau u Volova bere Catharinu Barbaru Eleonoru Nerlichovou; narodí se jim nejméně šestnáct dětí.",
+     "osoba": "karl-heinrich-von-giller-carl-heinrich-1686",
+     "strana": "tátova strana · Gillernovi"
+    },
+    {
+     "rok": "1719",
+     "nadpis": "Křest Maximiliána v Krehlau",
+     "text": "V Krehlau ve Slezsku je pokřtěn Maximilianus Joseph Emanuel – pozdější císařský lesník v Čechách a předek všech dnešních Gillernů v rodokmenu.",
+     "osoba": "maximilian-z-gillernu-1719",
+     "strana": "tátova strana · Gillernovi"
     },
     {
      "rok": "před 1723",
@@ -95,6 +124,20 @@
      "strana": "tátova strana · Jírovcovi"
     },
     {
+     "rok": "1742",
+     "nadpis": "Svatba podruha ze Železné",
+     "text": "Josef Braumský z Přílep si v Železné u Berouna bere Annu Vrbskou – nejstarší doložená svatba mezi předky Josefa Berana staršího.",
+     "osoba": "josef-braumsky",
+     "strana": "mámina strana · Beranovi"
+    },
+    {
+     "rok": "1750",
+     "nadpis": "Slezský šlechtic myslivcem u Nymburka",
+     "text": "Maximilián z Gillernů slouží s manželkou Johannou v hájovně Bor Bobnický; tady začíná jeho služba v císařských lesích.",
+     "osoba": "maximilian-z-gillernu-1719",
+     "strana": "tátova strana · Gillernovi"
+    },
+    {
      "rok": "1756",
      "nadpis": "Dva bratři mlynáři, dvě nevěsty",
      "text": "Martin a Jan, synové mlynáře Pavla Linka „pod Lhotou“, se týž den žení v Čimelicích.",
@@ -113,6 +156,13 @@
      "text": "Syn sedláka Jiřího Musila z Jeníkova čp. 5, pokřtěn v Čechticích.",
      "osoba": "martin-musil-1764",
      "strana": "mámina strana · Musilovi"
+    },
+    {
+     "rok": "1777",
+     "nadpis": "Závěť z Hlohova",
+     "text": "Advokát Karel z Rache jmenuje v závěti mezi příbuznými po matce děti Cathariny Barbary z Hammeru – Maximiliána, „lesmistra u Chotusic či Kolína v Čechách“, a jeho šest sourozenců.",
+     "osoba": "maximilian-z-gillernu-1719",
+     "strana": "tátova strana · Gillernovi"
     },
     {
      "rok": "1781",
@@ -149,11 +199,39 @@
      "strana": "mámina strana · Šustrovi"
     },
     {
+     "rok": "1786",
+     "nadpis": "Myslivcova svatba v Poděbradech",
+     "text": "Josef de Giller, syn nejvyššího myslivce Maximiliána, si bere Annu Kochovou; jejich roční syn František Josef se tím stává manželským.",
+     "osoba": "josef-z-gillernu-de-giller-1746",
+     "strana": "tátova strana · Gillernovi"
+    },
+    {
+     "rok": "1787",
+     "nadpis": "Výměnek v Bozkově",
+     "text": "Sedlák Jan Auhrabka prodává pro stáří polovinu gruntu synovi Václavovi (nejspíš předkovi Kozákových) a vymiňuje si doživotní byt.",
+     "osoba": "vaclav-auhrabek-auhrabka",
+     "strana": "mámina strana · Kozákovi"
+    },
+    {
+     "rok": "1789",
+     "nadpis": "Smrt nadlesního ve Staré Boleslavi",
+     "text": "V myslivně ve Staré Boleslavi umírá Maximilián z Gillernů, nadlesní komorního panství Brandýs.",
+     "osoba": "maximilian-z-gillernu-1719",
+     "strana": "tátova strana · Gillernovi"
+    },
+    {
      "rok": "1790",
      "nadpis": "Svatba v Sepekově",
      "text": "Domkář Jakub Vejdovec z Božetic č. 5 si bere Dorotu Dědinovou.",
      "osoba": "jakub-vejdovec-1763",
      "strana": "tátova strana · Vejdovcovi"
+    },
+    {
+     "rok": "1793",
+     "nadpis": "Sedlák z Libuně a nevěsta z Kněžnic",
+     "text": "Václav Kozák, sedlák z Libuně čp. 32 u Jičína, se žení s Annou Brunclíkovou.",
+     "osoba": "vaclav-kozak",
+     "strana": "mámina strana · Kozákovi"
     },
     {
      "rok": "1798",
@@ -168,6 +246,13 @@
      "text": "František Kypta se ve Dvorcích u Červeného Újezda žení s Kateřinou – nejstarší doložení předci babičky Boženy.",
      "osoba": "frantisek-kypta-1771",
      "strana": "tátova strana · Richtrovi"
+    },
+    {
+     "rok": "1799",
+     "nadpis": "Smrt fořta v Býchorech",
+     "text": "V Býchorech u Kolína umírá Josef z Gillernů, myslivec komorního panství Kolín; synovi Františkovi je třináct let.",
+     "osoba": "josef-z-gillernu-de-giller-1746",
+     "strana": "tátova strana · Gillernovi"
     },
     {
      "rok": "1802",
@@ -198,6 +283,13 @@
      "strana": "mámina strana · Musilovi"
     },
     {
+     "rok": "1821",
+     "nadpis": "Adjunkt se žení v Mitrově",
+     "text": "František z Gillernů, schwarzenberský myslivecký adjunkt, si bere šenkýřovu dceru Annu Solnařovou; svědkem je bratranec Maximilián Clanner.",
+     "osoba": "franz-frantisek-z-gillernu-1785",
+     "strana": "tátova strana · Gillernovi"
+    },
+    {
      "rok": "1822",
      "nadpis": "Smrt na zámku v Drhovli",
      "text": "Umírá Ludmila Kudrličková, žena zámeckého klíčníka.",
@@ -217,6 +309,20 @@
      "text": "František Löw a Anna Kudrličková, oba z Prahy, se berou na zámku v Drhovli.",
      "osoba": "frantisek-low-1803",
      "strana": "tátova strana · Löwovi"
+    },
+    {
+     "rok": "1836",
+     "nadpis": "Panský cihlář v Točníku",
+     "text": "Matěj Beran je nejpozději od tohoto roku panským cihlářem v Točníku čp. 30 – cihlářem bude i jeho syn, vnuk a pravnuk.",
+     "osoba": "matej-beran",
+     "strana": "mámina strana · Beranovi"
+    },
+    {
+     "rok": "1840",
+     "nadpis": "Sirotek Vincenc",
+     "text": "V Kostelci nad Vltavou umírá knížecí revírník František z Gillernů; dva roky po matce zůstává sedmnáctiletý Vincenc sám.",
+     "osoba": "franz-frantisek-z-gillernu-1785",
+     "strana": "tátova strana · Gillernovi"
     },
     {
      "rok": "1848",
@@ -267,6 +373,13 @@
      "strana": "mámina strana · Bezkočkovi"
     },
     {
+     "rok": "1859",
+     "nadpis": "Revírník a tesařova dcera",
+     "text": "Knížecí revírník Vincenc z Gillernů si ve Veselíčku bere Teklu Vejdovcovou.",
+     "osoba": "vincenc-z-gillernu-1822",
+     "strana": "tátova strana · Gillernovi"
+    },
+    {
      "rok": "1862",
      "nadpis": "Svatba v Přestavlkách",
      "text": "Nezletilí Jan Richtr z Rohova a Františka Kyptová; otec nevěsty se do matriky podepisuje vlastní rukou.",
@@ -281,6 +394,13 @@
      "strana": "mámina strana · Šustrovi"
     },
     {
+     "rok": "1867",
+     "nadpis": "Podruh z Želejova a dcera z Robous",
+     "text": "František Kozák si v Robousích u Jičína bere Barboru Kaplovou.",
+     "osoba": "frantisek-kozak-1843",
+     "strana": "mámina strana · Kozákovi"
+    },
+    {
      "rok": "1869",
      "nadpis": "Svatba s dispensí biskupa",
      "text": "Příbuzní Václav Volf a Františka Sovová se berou s povolením z Budějovic.",
@@ -293,6 +413,20 @@
      "text": "Na Pražském předměstí se narodila Marie Karolina Linková, pozdější žena lesníka Augustina z Gillernů.",
      "osoba": "marie-linkova-1869",
      "strana": "tátova strana · Linkovi"
+    },
+    {
+     "rok": "1880",
+     "nadpis": "Cihlářská svatba v Točníku",
+     "text": "Cihlář František Beran si bere Annu Hasmanovou z Komárova.",
+     "osoba": "frantisek-beran-1854",
+     "strana": "mámina strana · Beranovi"
+    },
+    {
+     "rok": "1883",
+     "nadpis": "Narodil se Josef Beran starší",
+     "text": "V Levíně čp. 6 u Králova Dvora, v rodině cihláře Františka Berana.",
+     "osoba": "josef-beran-1883",
+     "strana": "mámina strana · Beranovi"
     },
     {
      "rok": "1886",
@@ -314,6 +448,13 @@
      "text": "Vdovec Jan Pigl si bere Barboru Doubkovou; její otec Matěj, který neumí psát, svoluje křížky.",
      "osoba": "jan-pigl-1848",
      "strana": "tátova strana · Piglovi"
+    },
+    {
+     "rok": "1889",
+     "nadpis": "Lesník a mlynářova dcera",
+     "text": "Augustin z Gillernů, lesní v Lavičkách, se v Písku žení s Marií Karolinou Linkovou.",
+     "osoba": "augustin-z-gillernu-1859",
+     "strana": "tátova strana · Gillernovi"
     },
     {
      "rok": "1891",
@@ -349,6 +490,20 @@
      "text": "V Mezně č. 14 – budoucí železničář a otec babičky Boženy.",
      "osoba": "josef-richtr-1899",
      "strana": "tátova strana · Richtrovi"
+    },
+    {
+     "rok": "1907",
+     "nadpis": "Cihlář a švadlena",
+     "text": "Josef Beran z Levína a Emilie Kozáková z Robous se 8. října berou.",
+     "osoba": "josef-beran-1883",
+     "strana": "mámina strana · Beranovi"
+    },
+    {
+     "rok": "1910",
+     "nadpis": "Narodil se Josef Beran mladší",
+     "text": "13. června ve Velké Jesenici č. 82 u Náchoda; roku 1913 už rodina žije v Kuňovicích.",
+     "osoba": "josef-beran-1910",
+     "strana": "mámina strana · Beranovi"
     }
    ]
   },
@@ -383,6 +538,13 @@
      "nadpis": "Vznik Československa",
      "text": "28. října 1918 končí rakousko-uherská monarchie.",
      "historie": true
+    },
+    {
+     "rok": "1920",
+     "nadpis": "Cihelna v Pijavkách",
+     "text": "Obec Pravonín pronajímá Josefu Beranovi část pastviště v Pijavkách; postaví tu obytné stavení a cihlářskou pec.",
+     "osoba": "josef-beran-1883",
+     "strana": "mámina strana · Beranovi"
     },
     {
      "rok": "1921",
@@ -447,7 +609,7 @@
    "rod": 15,
    "koren": 61,
    "nazev": "Píšovi",
-   "popis": "Sedláci z Kondrace u Vlašimi – nejdelší doložená linie, od konce 17. století; roku 1853 se přiženili do Tisku."
+   "popis": "Sedláci z Kondrace u Vlašimi – linie s nejvíc doloženými generacemi, od konce 17. století; roku 1853 se přiženili do Tisku."
   },
   {
    "rod": 15,
@@ -530,6 +692,103 @@
    "koren": 977,
    "nazev": "Hudkovi",
    "popis": "Z Krasovic u Kondrace (čtení nejisté).",
+   "maly": true
+  },
+  {
+   "rod": 14,
+   "koren": 29,
+   "nazev": "Kozákovi",
+   "popis": "Podruzi z Robous a Želejova, předtím sedláci z Libuně čp. 32 u Jičína (od 1758)."
+  },
+  {
+   "rod": 14,
+   "koren": 115,
+   "nazev": "Hasmanovi",
+   "popis": "Sedláci a nádeníci z Oseka u Komárova."
+  },
+  {
+   "rod": 14,
+   "koren": 114,
+   "nazev": "Pondělíčkovi",
+   "popis": "Obecní slouha, domkáři a čeledíni z Tlustic u Hořovic."
+  },
+  {
+   "rod": 14,
+   "koren": 113,
+   "nazev": "Tumpachovi",
+   "popis": "Chalupníci z Oseka na Rokycansku."
+  },
+  {
+   "rod": 14,
+   "koren": 117,
+   "nazev": "Auhrábkovi",
+   "popis": "Chalupníci (poloviční sedláci) z Bozkova čp. 59 u Semil."
+  },
+  {
+   "rod": 14,
+   "koren": 235,
+   "nazev": "Čmuchálkovi",
+   "popis": "Sedláci z Bozkova čp. 58."
+  },
+  {
+   "rod": 14,
+   "koren": 231,
+   "nazev": "Froňkovi",
+   "popis": "Volák u panského dvora ve Velké Vísce, později v Oseku u Komárova."
+  },
+  {
+   "rod": 14,
+   "koren": 463,
+   "nazev": "Braumští",
+   "popis": "Kovář z Tlustic, předtím podruzi v Železné (od 1742)."
+  },
+  {
+   "rod": 14,
+   "koren": 59,
+   "nazev": "Kaplovi",
+   "popis": "Podruzi z Robous u Jičína.",
+   "maly": true
+  },
+  {
+   "rod": 14,
+   "koren": 233,
+   "nazev": "Brunclíkovi",
+   "popis": "Z Kněžnic čp. 69 u Jičína.",
+   "maly": true
+  },
+  {
+   "rod": 14,
+   "koren": 225,
+   "nazev": "Holubovi",
+   "popis": "Z Oseka na Rokycansku.",
+   "maly": true
+  },
+  {
+   "rod": 14,
+   "koren": 229,
+   "nazev": "Hlavatí",
+   "popis": "Hutník a domkář z Tlustic čp. 17.",
+   "maly": true
+  },
+  {
+   "rod": 14,
+   "koren": 457,
+   "nazev": "Šťastní",
+   "popis": "Z Tlustic.",
+   "maly": true
+  },
+  {
+   "rod": 14,
+   "koren": 461,
+   "nazev": "Veselí",
+   "popis": "Domkáři z Oseka u Komárova.",
+   "maly": true
+  },
+  {
+   "rod": 14,
+   "koren": 927,
+   "nazev": "Procházkovi",
+   "popis": "Měšťané z Hořovic.",
    "maly": true
   },
   {
@@ -705,7 +964,7 @@
    "rod": 8,
    "koren": 271,
    "nazev": "Jelínkovi (Hleničtí)",
-   "popis": "Měšťané z Týna nad Vltavou a Milevska – nejstarší doložení předci, 1670–1740."
+   "popis": "Měšťané z Týna nad Vltavou a Milevska – spolu s Gillerny nejstarší doložení předci, 1670–1740."
   },
   {
    "rod": 8,

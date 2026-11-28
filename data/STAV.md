@@ -12,13 +12,13 @@ Od 25. do 28. 11. vedl výzkum Jan přes ChatGPT; podrobné zprávy, přepisy a 
 - **Christoph Heinrich:** 6/1678 v Preichau „úředník vratislavského biskupského úřadu“ × Anna Regina (?); 1683 hejtman v Preichau, manželka Catharina Juliana, syn Johann Christoph 3. 7. 1683; × 10/1684 Anna Victoria.
 - **Slezští baroni (pruská linie?):** Rettkau – Johann Christoph von Giller (baron 1732) a synové („mladší baron Joseph“ × Maria Antonia von Rüffer, † 1745; Franz Joseph × hraběnka Osteschau, děti 1750, 1751); dcera Maria Anna (* 1739) = pozdější abatyše Dominika v Trebnici.
 - **Josef a Maximilián před 1750:** sňatek ani Josefův křest zatím nenalezeny (prošly Hlohov, Groß Schmograu, Gramschütz, Hochkirch, Činěves, Všejany, Chotusice, Kolín, Stínava, Krehlau…); 1752 „Josef Giller, fořt z Ostrova“ (= Maximilián Josef) a Johana z Boru. Kandidátka na Johannu: Johanna Susanna Nerlichová ze Stínavy (dcera radního Johanna Bernharda) – neověřeno.
-- **Jan (Jan 27. 11.):** pracovat jen s online prameny; objednávky jen v nouzi na výslovný pokyn. Úpravy webu dočasně pozastaveny (viz níže).
+- **Jan (Jan 27. 11.):** pracovat jen s online prameny; objednávky jen v nouzi na výslovný pokyn. Web aktualizován 28. 11. 2026 podle všech zjištění (deník č. 970).
 
 ## ▶ Další kroky online – uloženo 28. 11. 2026 (Jan: „ještě se k tomu vrátíme“)
 1. **Hořejší Kunčice – ověřit „semeniště rodu“ (plán krok 37):** kunčický list šternberského urbáře 1664 (MZA, inv. 49, opis 1694 inv. 50) a Novotného výpisy (inv. 501, kart. 11) – kdo držel rychtu a od kdy; kupní zápis kunčického rychtáře 1661 a povolení dvou zahrad 12. 7. 1659 (kníže Silvius Nimrod); kunčické matriky Dv IV 1 od 1681 souvisle – další děti Gillerů, kmotrovství Friedricha Wilhelma I. nebo Franze Leopolda, zápis Mariany 1687 v plném rozlišení (čtení „Carlsberg“); karlovecké pozemkové knihy (Medlice, NAD 1543 inv. 39; kniha smluv inv. 19); Moravice – Andreas Gellerle 1681 a Hans 1702–1704 (J III 1, DGS 005398489; gruntovnice A 31-26 fol. 219–225). Na čtení rukopisů Opus.
 2. **Johanna (plán krok 38):** stínavská kandidátka Johanna Susanna Nerlichová (dcera radního Johanna Bernharda, panna 1744) – její další osud po 1744 (sňatek mimo Stínavu kolem 1749, povolení k oddavkám jinde).
 3. **Josefův křest:** jen s novým místním vodítkem (pobyt nebo služba Maximiliána před 1750); farnosti, které už prošel ChatGPT, neopakovat (seznam ve STAV výše a v `data/badani/2026-11-28-puvod-johanny/audit-johanna.md`).
-4. Při obnovení práce na webu: doplnit místa na mapu (48 doložených předků bez obce v `data/mista.json` – hlavně Beranovi, Kozákovi a Slunečkovi; `tools/mista.py pridej …`) a upravit grafiku pruských baronů (viz ⏸ níže).
+4. ~~Web: místa na mapě a grafika pruských baronů~~ – hotovo 28. 11. 2026 (deník č. 970); bez obce zůstává 11 předků s nejistým čtením místa.
 
 ## Zprávy z jednotlivých kol 25.–28. 11. 2026 (ChatGPT) – podrobnosti a odkazy
 
@@ -149,8 +149,8 @@ Kolo 2 (log 613): Maximilian v pohřbech Krehlau 1719–1737 NENÍ (nezemřel ja
 ## Přístupy k pramenům (aktualizovat)
 - **Národní digitální knihovna – díla nedostupná na trhu (DNNT):** Jan má od 21. 11. 2026 vzdálenou registraci NK ČR (bankovní identita, 100 Kč, platí 365 dní – do 21. 11. 2027). Po přihlášení na ndk.cz („Přihlásit se knihovním účtem/eduID“ → Národní knihovna ČR) čte stránky s licencí „dnnto“ (noviny, časopisy, knihy cca do 2007, které nejsou na trhu). Postup: já najdu přes API ČDK úryvek a PID stránky (accessibility „private“, licenses „dnnto“) → pošlu Janovi odkaz https://ndk.cz/uuid/<pid> → Jan pošle snímek obrazovky. Stránky jen „onsite“ (bez dnnto) jdou jen ve studovně NK. První použití: blahopřání Julii 1967 (j_1967_gillernova_julie).
 
-## ⏸ Úpravy webu pozastaveny (Jan 24. 11. 2026 – šetření tokenů)
-Na webu teď nic neupravovat (data, profily a záznamy dál zapisovat, `npm run data` / build nespouštět kvůli úpravám grafiky). **Čeká na úpravu, až Jan obnoví práci na webu:** v grafice rodu (rod_gillernu – `graf`/`rodokmen`) zrušit tečkovanou vazbu Kristián → pruští baroni („potomci? (jen Gotha 1884)“), pruské barony vést jako samostatnou skupinu „původ nejasný, spíš slezská větev“ (log 715).
+## ✓ Úpravy webu – pauza z 24. 11. skončila (Jan 28. 11. 2026 požádal o kontrolu a aktualizaci celého webu)
+Hotovo 28. 11. 2026: v grafice rodu (rod_gillernu – `graf`/`rodokmen`) zrušit tečkovanou vazbu Kristián → pruští baroni („potomci? (jen Gotha 1884)“), pruské barony vést jako samostatnou skupinu „původ nejasný, spíš slezská větev“ (log 715).
 
 ## Pravidla
 1. Než něco ohlásím jako nové, prohledám `osoby.py`, `zaznamy.json` a `research_log.md` (jméno, místo, rok).

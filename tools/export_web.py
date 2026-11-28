@@ -67,6 +67,20 @@ def record_rows():
     return rows
 
 
+def github_links(md):
+    """Relativní odkazy do data/badani (deník, Co hledáme) vedou na webu do prázdna – přesměruj je na soubory na GitHubu."""
+    branch = os.environ.get("BRANCH") or os.environ.get("HEAD")
+    if not branch:
+        try:
+            branch = subprocess.run(["git", "rev-parse", "--abbrev-ref", "HEAD"], cwd=ROOT, capture_output=True, text=True).stdout.strip()
+        except OSError:
+            branch = ""
+    if not branch or branch == "HEAD":
+        branch = "claude/nice-dirac-8inizg"
+    base = "https://github.com/jgillern/gillernrodokmen/blob/" + branch + "/data/"
+    return re.sub(r"\]\((?:\./)?(badani/[^)\s]+)\)", lambda m: "](" + base + m.group(1) + ")", md)
+
+
 def strip_comments(md):
     """Poznámky <!-- … --> v markdownu jsou pro Clauda, ne pro web."""
     return re.sub(r"<!--.*?-->\n?", "", md, flags=re.S)
@@ -404,7 +418,7 @@ def main():
     for src, dst in (("archivni_dotazy.md", "dotazy.md"), ("research_log.md", "denik.md"), ("zajimavosti.md", "zajimavosti.md")):
         path = os.path.join(DATA, src)
         text = open(path, encoding="utf-8-sig").read() if os.path.exists(path) else ""
-        write(os.path.join(gen_dir, dst), strip_comments(re.sub(r"^# .*\n", "", text, count=1)))
+        write(os.path.join(gen_dir, dst), github_links(strip_comments(re.sub(r"^# .*\n", "", text, count=1))))
     story = os.path.join(DATA, "pribeh.md")
     write(os.path.join(gen_dir, "pribeh.md"), strip_comments(open(story, encoding="utf-8-sig").read()) if has_story else "---\ntitle: Příběh\nlead: ''\n---\n")
     # kapitoly příběhu (data/pribehy/*.md) – každá vlastní stránka /pribehy/<název souboru>/

@@ -3,7 +3,7 @@ title: Tesaři, dělostřelec a měšťané z Milevska
 strana: tátova strana
 obdobi: 1680 – 1900
 rody: [8]
-lead: "Rod Tekly Vejdovcové, ženy revírníka Vincence z Gillernů: domkáři a tesaři z Božetic a Veselíčka, vysloužilý dělostřelec ve Zběšičkách a měšťané z Bernartic, Milevska a Týna nad Vltavou – nejstarší doložená rodina celého rodokmenu."
+lead: "Rod Tekly Vejdovcové, ženy revírníka Vincence z Gillernů: domkáři a tesaři z Božetic a Veselíčka, vysloužilý dělostřelec ve Zběšičkách a měšťané z Bernartic, Milevska a Týna nad Vltavou – spolu se slezskými Gillerny nejstarší doložená rodina rodokmenu."
 ---
 
 ## Tesaři z Božetic a Veselíčka (1762–1866)

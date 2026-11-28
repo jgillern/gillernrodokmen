@@ -12,13 +12,17 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 
 **Gillernové, 27. listopadu 2026.** [Preichau 1678 a 1683, dobové písemnosti ke Kunčicím a Deštnému a kontrola obou období Josefova narození](badani/2026-11-27-navazani/README.md).
 
+## 28. 11. 2026 · Gillernové v závěti Karla z Rache a rychta v Kunčicích
+
+Závěť z 4. 10. 1777 řadí Maximiliána mezi Karlovy příbuzné po matce a přímo jmenuje matky obou mužů. Karlova matka Marie Alžběta rozená Nerlichová je zároveň zapsána v Krehlau roku 1723 jako kmotra v rodině Maximiliánových rodičů a pochází z Velkého Hlohova ve smyslu uvedeného bydliště. Přesný stupeň příbuzenství, Josefův křest a jeho matka zůstávají otevřené. V Činěvsi je dočteno 148 oddavek 1743–1748. Ke kunčické rychtě přibyl čitelný záznam o koupi pole a patrně dvou domů roku 1661 s nejmenovaným rychtářem. [Souhrn, prameny a výřezy](badani/2026-11-28-primarni-prameny/README.md)
+
 ## 27. 11. 2026 · Výzkum Gillernů výhradně online
 
 Cenový dotaz nepředstavuje objednávku. Další objednávka připadá v úvahu pouze v nouzové situaci na výslovný pokyn Jana. Josefova přihláška je odložená. V Krehlau jsme na snímku svatby Maximiliánových rodičů identifikovali dosud opomenuté působiště jednoho svědka ve Velkém Hlohově. [Doklady a výřezy](badani/2026-11-27-online/README.md) · [Platný plán pro Josefa, Maximiliána a nejstarší linii](badani/2026-11-27-plan/README.md)
 
 ## 27. 11. 2026 · Jmenovité dědické spisy českého lesmistra
 
-Pražská finanční prokuratura zachytila dvě Maximiliánovy žádosti. Roku 1778 dědil 2 400 zlatých po strýci Karlu z Rache v Hlohově, roku 1783 pak 1 000 rýnských tolarů po sestře Filipíně z Gillern ve Vratislavi. Dobová soudní vyhláška jmenuje Karlova otce Georga Antona. Vztah ze strany jednotlivých rodičů zatím nelze určit. V Poděbradech byla roku 1781 při křtu výslovně zapsána také jiná Filipína, Maximiliánova dcera. [Prameny, signatury a snímky](badani/2026-11-27-prime-doklady/dedictvi/README.md)
+Pražská finanční prokuratura zachytila dvě Maximiliánovy žádosti. Roku 1778 dědil 2 400 zlatých po strýci Karlu z Rache v Hlohově, roku 1783 pak 1 000 rýnských tolarů po sestře Filipíně z Gillern ve Vratislavi. Dobová soudní vyhláška jmenuje Karlova otce Georga Antona. Podle závěti přečtené 28. listopadu jde o Karlovo příbuzenstvo z matčiny strany. Přesný stupeň je otevřený. V Poděbradech byla roku 1781 při křtu výslovně zapsána také jiná Filipína, Maximiliánova dcera. [Prameny, signatury a snímky](badani/2026-11-27-prime-doklady/dedictvi/README.md)
 
 Josefovo rodiště a jméno jeho matky zůstávají otevřené. Jeho osobní přihláška není doložená. Oba veřejné katalogy byly zkontrolovány. Karton 37 neobsahovala pražská žádost z 24. listopadu. [Ověřený rozsah a deník č. 958–962](badani/2026-11-27-prime-doklady/README.md)
 

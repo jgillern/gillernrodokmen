@@ -1,0 +1,19 @@
+# Josef Beran z Těškovic čp. 9 a jeho syn Eduard
+
+## Oddací prvopis 1926
+
+Dne **22. července 1926** se v Onšově oženil **Eduard Beran, obecní hajný z Těškovic čp. 9**, s **Annou Šípkovou (* 8. 11. 1898 v Onšově čp. 5)**. Ženichův otec byl **Josef Beran, obecní hajný v Těškovicích čp. 9**. Matkou byla **Terezie rozená Kratochvíl**, po předložce „z“ zůstává u jejího původu v řádku mezera. Eduard je v knize veden jako jejich manželský syn. Záznam uvádí narození **14. 7. 1899** u cihelen v **Nógrádverőczi**, dnešní **Verőce v Maďarsku**, a datum vystavení ženichova křestního listu. Ženichův věk je v samostatné rubrice 26 let, což je o rok méně, než dává uvedené datum narození k datu oddavek. [SOA Třeboň, Onšov 11A, s. 169, sn. 174, zápis č. 10](https://digi.ceskearchivy.cz/11058/174/5329/2771/41/0)
+
+> „Beran Eduard, obecní hajný, naroz. 14/7. 1899, v Nógrádveröczei, cihelny, komitát Vácz v Uhrách; mž. syn římskokatolíků: Josefa Berana, obecního hajného v Těškovicích, č. 9, a Terezie, rodem Kratochvíl z […]“
+
+Poznámka uvádí **protokol č. 10 z 3. 7. 1926**, křestní list z farního úřadu v Nógrádverőczi **22. 7. 1908, č. 112**, ohlášky **4., 11. a 18. července 1926** a **fasc. 10/1926**. Křest nevěsty je podle téhož zápisu v onšovské matrice IX na listu 38. Svědky byli Karel Šereda, rolník z Těškovic čp. 14, a **Jan Beran, domkář z Těškovic čp. 10**. [Prvopis, poznámky a svědci](https://digi.ceskearchivy.cz/11058/174/5329/2771/41/0)
+
+## Kontrola jmenného indexu
+
+Elektronický index oddavek Onšov 11A pod písmenem B uvedl **Eduarda Berana z Těškovic 1926, Jana Berana z Těškovic 1894, Jana Berana z Chlovů 1887, Antonii Beranovou z Chlovů 1885 a Marii Beranovou z Chlovů 1886**. Pod uvedeným písmenem se neobjevil ženich Josef Beran. Jeho případný sňatek mohl být v jiné farnosti, v dřívějším období nebo pod jiným zápisem jména. Samostatný obrazový rejstřík **Onšov 18** byl otevřen a na sn. 3 začíná oddílem A, v ukázkovém úseku řazeném podle křestních jmen. Celý tento rejstřík se neprocházel. Snímek 40 v Onšově 11A ověřil roku 1894 sňatek **Jana Berana, domkáře a záložníka z Těškovic čp. 10**, a **Marie Pryžinkrové ze Studeného**. Otec ženicha byl zesnulý František Beran, domkář z Těškovic čp. 10. [Elektronický index knihy 11A](https://digi.ceskearchivy.cz/DA?menu=3&id=11058) · [Onšov 18, sn. 3](https://digi.ceskearchivy.cz/6178/3) · [Onšov 11A, sn. 40](https://digi.ceskearchivy.cz/11058/40/3679/2988/41/0)
+
+## Srovnání s Pravonínem
+
+Stejný dům **Těškovice čp. 9** a stejné jméno Josefa Berana se objevují v pravonínských oddavkách **Marie Beranové 1939**. V nich je dělník Josef z čp. 9 uveden jako děd nevěsty z matčiny strany. Jde o silné vodítko ke společné rodině. Eduardův zápis nabízí samostatnou cestu přes jeho křest a případné oddavky rodičů. Pravonínský cihlář Josef je naproti tomu v soudním tisku roku 1927 veden jako cihlář v Pravoníně a v matrice roku 1936 jako manžel Emilie. Těškovický Josef byl roku 1926 zapsán jako hajný. Eduardovo narození v cihelnách samo o sobě neurčuje otcovo povolání v roce 1899. [Pravonín 26, s. 107, sn. 108](https://ebadatelna.soapraha.cz/d/15260/108) · [Zápis u pravonínského mistra roku 1936](https://ebadatelna.soapraha.cz/d/15260/141) · [Řízení 1927–1928](../2026-11-27-beranovi-kozakovi/dalsi/beran/README.md)
+
+Maďarský civilní prvopis už je ověřen. Dne **16. 7. 1899** ohlásil Eduardovo narození přímo **Josef Beran, šestatřicetiletý nádeník, narozený a domovsky příslušný v Těškovicích u Dolních Kralovic**. Matka **Terezie Kratochvílová**, 41letá nádenice, podle zápisu pocházela ze **Šetějovic u Dolních Kralovic**. Je-li Josefův věk zapsán přesně, hledaný křest připadá na období **17. 7. 1862–16. 7. 1863**. [Maďarský prvopis, přepis a výřez](veroce/README.md)

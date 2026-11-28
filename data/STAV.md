@@ -14,6 +14,12 @@ Od 25. do 28. 11. vedl výzkum Jan přes ChatGPT; podrobné zprávy, přepisy a 
 - **Josef a Maximilián před 1750:** sňatek ani Josefův křest zatím nenalezeny (prošly Hlohov, Groß Schmograu, Gramschütz, Hochkirch, Činěves, Všejany, Chotusice, Kolín, Stínava, Krehlau…); 1752 „Josef Giller, fořt z Ostrova“ (= Maximilián Josef) a Johana z Boru. Kandidátka na Johannu: Johanna Susanna Nerlichová ze Stínavy (dcera radního Johanna Bernharda) – neověřeno.
 - **Jan (Jan 27. 11.):** pracovat jen s online prameny; objednávky jen v nouzi na výslovný pokyn. Úpravy webu dočasně pozastaveny (viz níže).
 
+## ▶ Další kroky online – uloženo 28. 11. 2026 (Jan: „ještě se k tomu vrátíme“)
+1. **Hořejší Kunčice – ověřit „semeniště rodu“ (plán krok 37):** kunčický list šternberského urbáře 1664 (MZA, inv. 49, opis 1694 inv. 50) a Novotného výpisy (inv. 501, kart. 11) – kdo držel rychtu a od kdy; kupní zápis kunčického rychtáře 1661 a povolení dvou zahrad 12. 7. 1659 (kníže Silvius Nimrod); kunčické matriky Dv IV 1 od 1681 souvisle – další děti Gillerů, kmotrovství Friedricha Wilhelma I. nebo Franze Leopolda, zápis Mariany 1687 v plném rozlišení (čtení „Carlsberg“); karlovecké pozemkové knihy (Medlice, NAD 1543 inv. 39; kniha smluv inv. 19); Moravice – Andreas Gellerle 1681 a Hans 1702–1704 (J III 1, DGS 005398489; gruntovnice A 31-26 fol. 219–225). Na čtení rukopisů Opus.
+2. **Johanna (plán krok 38):** stínavská kandidátka Johanna Susanna Nerlichová (dcera radního Johanna Bernharda, panna 1744) – její další osud po 1744 (sňatek mimo Stínavu kolem 1749, povolení k oddavkám jinde).
+3. **Josefův křest:** jen s novým místním vodítkem (pobyt nebo služba Maximiliána před 1750); farnosti, které už prošel ChatGPT, neopakovat (seznam ve STAV výše a v `data/badani/2026-11-28-puvod-johanny/audit-johanna.md`).
+4. Při obnovení práce na webu: doplnit místa na mapu (48 doložených předků bez obce v `data/mista.json` – hlavně Beranovi, Kozákovi a Slunečkovi; `tools/mista.py pridej …`) a upravit grafiku pruských baronů (viz ⏸ níže).
+
 ## Zprávy z jednotlivých kol 25.–28. 11. 2026 (ChatGPT) – podrobnosti a odkazy
 
 **Beranovi, navázání po Josefově křtu.** Doloženy oddavky rodičů v Točníku roku 1880, děti domácnosti Matěje a Anny od roku 1836 a nové doklady o předcích z obou Oseků a Tlustic. [Zpráva, prvopisy a výřezy](badani/2026-11-28-beranovi-rodice/README.md).

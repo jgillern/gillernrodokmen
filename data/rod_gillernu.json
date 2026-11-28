@@ -1107,7 +1107,9 @@
       "zaznamy": [
         "n_1690_giller_hans_carl",
         "o_1723_giller_mohr",
-        "z_1762_gillern_carl_joseph"
+        "z_1762_gillern_carl_joseph",
+        "o_1722_wien_giller_fellner",
+        "j_1725_hal_gillern_podpis"
       ]
     },
     "kristian": {
@@ -4923,6 +4925,9 @@
           "nazev": "G. Biermann, Geschichte der Herzogthümer Troppau und Jägerndorf (1874), s. 563",
           "odkaz": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11181592_00577/full/1300,/0/default.jpg"
         }
+      ],
+      "zaznamy": [
+        "j_1681_schmettau_kunsch_giller"
       ]
     },
     "benedikt_lilienfeld": {
@@ -5193,7 +5198,8 @@
         "n_1784_clanner_maximilian",
         "j_1928_krouzkovi_gillern",
         "z_1772_krouzkova_anna",
-        "j_1777_hlohov_zavet_rache"
+        "j_1777_hlohov_zavet_rache",
+        "n_1745_krouzkova_rosalie"
       ],
       "vztahy": [
         {

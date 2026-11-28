@@ -100,3 +100,7 @@ Do textů na webu (profily, poznámky u osob, fakta) asistent opakovaně psal de
 
 ## FamilySearch – jmenný rejstřík a šlechtické předložky (23. 11. 2026)
 Rejstřík FamilySearch (např. sbírka „Deutschland, Preußen, Schlesien, Katholische und Lutherische Kirchenbücher“) zapisuje „von“ do příjmení („von Gillerin“, „V Gillerin“, „Voegillerin“, „Heinrich von Gellerin“). Dotaz „Giller*“ s přesnou shodou je proto nenajde – nutné hledat `*Giller*`, `von G*`, `V G*` (přesně). Volné hledání „Giller“ vrací hlavně „Keller“. Filtr filmu: URL `…/search/record/results?q.filmNumber=<DGS>&q.surname=…&q.surname.exact=on`. Do skillu (reference FamilySearch) jako tip pro pomocníky.
+
+## 28. 11. 2026 – kontrola dat po práci jiného asistenta (ChatGPT)
+- `tools/kontrola.py` nově počítá jako citované i zápisy uvedené u profilů na stránkách rodů (`data/rod_*.json` → `profily.*.zaznamy`); dřív hlásil „necituje ho žádná osoba“ u desítek záznamů, které se na webu zobrazují přes profil rodu.
+- Zkušenost: jiný asistent ukládal výřezy do pracovních složek (`data/badani/...`) pod vlastními názvy, ne do `vyrezy/<klic>.jpg`, a vytvářel záznamy bez osob v `osoby.py`. Ve skillu by pomohlo výslovné pravidlo „záznam = výřez ve `vyrezy/<klic>.jpg` + rámeček + přepis + odkaz z osoby“ a kontrola, která u chybějícího výřezu vypíše kandidátní soubory podle data a místa.

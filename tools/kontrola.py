@@ -5,7 +5,7 @@ Použití: kontrola.py
 Vypíše CHYBY (rozbijí web nebo jsou věcně špatně) a UPOZORNĚNÍ (něco chybí, doplnit).
 Návratový kód 1, pokud jsou chyby.
 """
-import datetime, json, os, re, sys, unicodedata
+import datetime, glob, json, os, re, sys, unicodedata
 if sys.argv[1:2] in (["-h"], ["--help"]):   # nápověda místo pádu
     sys.exit(__doc__.strip())
 for _s in (sys.stdout, sys.stderr):   # UTF-8 výstup i na Windows bez -X utf8 (cp1250 neumí třeba „→“)
@@ -114,6 +114,13 @@ def main():
 
     cited = ({r for p in P.values() for r in p.get("r", [])} | {r for s in SIDE for r in s.get("r", [])}
              | {r for h in ns.get("HYPOTEZY", []) if isinstance(h, dict) for r in h.get("zaznamy", [])})
+    for rod_path in glob.glob(os.path.join(ROOT, "data", "rod_*.json")):   # zápisy u profilů na stránkách rodů
+        try:
+            rod = json.load(open(rod_path, encoding="utf-8-sig"))
+        except (OSError, ValueError):
+            continue
+        cited |= {r for prof in (rod.get("profily") or {}).values() if isinstance(prof, dict)
+                  for r in prof.get("zaznamy", [])}
     for z in zaz:
         for person_id in z.get("osoby", []):
             if person_id not in P:

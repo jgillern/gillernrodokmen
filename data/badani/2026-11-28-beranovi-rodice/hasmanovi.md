@@ -1,5 +1,7 @@
 # Hasmanovi a Froňkovi z Oseka u Komárova
 
+[Novější ověření v matrikách a v indikačních skicách](../2026-11-28-beranovi-volduchy-tlustice/README.md).
+
 ## Přímé záznamy a identifikace
 
 - **Václav Hasman mladší**, narozen 16. listopadu 1811, pokřtěn 17. listopadu, Osek čp. 26. Otec „Wáclaw Hasmann, sedlák“, matka „Kateřina, dcera † Ssimona Weselýho, nádeníka z Wosku“. Křest souhlasí s otcovými rodiči a čp. 26 uvedenými v křtu Josefy Rozálie 12. března 1839. Otcovo jméno u Kateřiny se liší od oddavek z roku 1800 a křtů sourozenců z let 1805 a 1809. [Mrtník 02, fol. 259, sn. 79](https://ebadatelna.soapraha.cz/d/8915/79) · [Výřez](../../../vyrezy/n_1811_hasman_vaclav.jpg) · [Křest Josefy Rozálie, Mrtník 04, fol. 143, sn. 146](https://ebadatelna.soapraha.cz/d/8917/146).

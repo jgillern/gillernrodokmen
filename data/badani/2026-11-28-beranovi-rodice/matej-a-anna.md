@@ -1,5 +1,7 @@
 # Matěj Beran a Osek u Rokycan, kontrolní průchod 28. 11. 2026
 
+[Novější ověření v matrikách a v indikačních skicách](../2026-11-28-beranovi-volduchy-tlustice/README.md).
+
 ## Prvopisy z Točníku čp. 30
 
 Matěj Beran a Anna Tumpachová prokazatelně tvořili manželský pár **už 5. listopadu 1836**. Jejich dcera **Antonie** byla toho dne v Točníku čp. 30 zaznamenána jako manželská. Otec Matěj byl panský cihlář, syn již zemřelého Jakuba Berana z Oseka čp. 42 na mirošovském panství a Kateřiny rozené Holubové také z Oseka. Jakubovo povolání v tomto zápisu čtu „nádeník“. Anna byla dcerou již zemřelého chalupníka Josefa Tumpacha z Oseka čp. 45 a Josefy z Volduch na stejném panství. Josefino rodné příjmení je ve třech zápisech podobné, ale dosud bez bezpečného čtení. [Žebrák 08, sn. 169, s. 332–333 nahoře](https://ebadatelna.soapraha.cz/d/9737/169), [výřez](../../../vyrezy/n_1836_beranova_antonie_tocnik.jpg).

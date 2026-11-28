@@ -1,4 +1,46 @@
 {
+ "zelezna_02_noz": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna",
+  "svazek": "Železná 02, narození a oddaní",
+  "popis": "Římskokatolická farnost Železná.",
+  "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/9871"
+ },
+ "horovice_12_o": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna",
+  "svazek": "Hořovice 12, oddaní",
+  "popis": "Římskokatolická farnost Hořovice, oddíl města Hořovic.",
+  "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5566"
+ },
+ "praskolesy_10_z": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna",
+  "svazek": "Praskolesy 10, zemřelí",
+  "popis": "Římskokatolická farnost Praskolesy, zahrnuje Tlustice.",
+  "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13028"
+ },
+ "mrtnik_08_o": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna",
+  "svazek": "Mrtník 08, oddaní",
+  "popis": "Římskokatolická farnost Mrtník, zahrnuje Osek u Komárova.",
+  "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/8921"
+ },
+ "praskolesy_01_n": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna",
+  "svazek": "Praskolesy 01, narození",
+  "popis": "Římskokatolická farnost Praskolesy, zahrnuje Tlustice.",
+  "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/13019"
+ },
+ "horovice_05_n": {
+  "archiv": "SOA Praha – Sbírka matrik",
+  "portal": "eBadatelna",
+  "svazek": "Hořovice 05, narození 1795–1814",
+  "popis": "Římskokatolická farnost Hořovice, zahrnuje Velkou Vísku.",
+  "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/5559"
+ },
  "praskolesy_15_z": {
   "archiv": "SOA Praha – Sbírka matrik",
   "portal": "eBadatelna",

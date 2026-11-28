@@ -1,5 +1,126 @@
 [
  {
+  "klic": "n_1745_braumsky_tomas_zelezna",
+  "druh": "N",
+  "datum": "26. 11. 1745",
+  "nazev": "Narození Tomáše Braumského, Železná",
+  "shrnuti": "Tomáš se narodil 26. listopadu a byl pokřtěn 27. listopadu 1745 v Železné. Otec Josef Braumský byl podruhem v Železné. Matka Anna je uvedena křestním jménem.",
+  "svazek": "zelezna_02_noz",
+  "strana": "517",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/9871/279",
+  "pozn": "Levý předposlední zápis. Obec a otec odpovídají Tomášovým oddavkám v Hořovicích roku 1770."
+ },
+ {
+  "klic": "o_1742_braumsky_vrbska_zelezna",
+  "druh": "O",
+  "datum": "6. 11. 1742",
+  "nazev": "Sňatek Josefa Braumského a Anny Vrbské, Železná",
+  "shrnuti": "Josef Braumský z Přílep se 6. listopadu 1742 oženil s Annou, pozůstalou dcerou zesnulého Ondřeje Vrbského, podruha ze Železné.",
+  "svazek": "zelezna_02_noz",
+  "strana": "413",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/9871/226",
+  "pozn": "Na levé straně dole. Oba jsou uvedeni jako poddaní kapituly. Zápis uvádí původ ženicha z Přílep bez bližšího rozlišení obce."
+ },
+ {
+  "klic": "o_1770_braumsky_prochazkova_horovice",
+  "druh": "O",
+  "datum": "7. 10. 1770",
+  "nazev": "Sňatek Tomáše Braumského a Rozálie Procházkové, Hořovice",
+  "shrnuti": "Tomáš Braumský ze Železné, vlastní syn Josefa Braumského, a Rozálie Procházková z Hořovic, pozůstalá dcera zemřelého hořovického měšťana Jiřího Procházky, uzavřeli sňatek 7. října 1770 v hořovickém farním kostele svatého Jiljí.",
+  "svazek": "horovice_12_o",
+  "strana": "30",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/5566/18",
+  "pozn": "Snímek 18, vlevo druhý zápis. Latinská formulace uvádí oba jako poddané chrášťanského panství pražské kapituly."
+ },
+ {
+  "klic": "z_1811_braumsky_tomas_tlustice",
+  "druh": "Z",
+  "datum": "31. 1. 1811",
+  "nazev": "Úmrtí Tomáše Braumského, Tlustice čp. 40",
+  "shrnuti": "Kovář Tomáš Braumský zemřel v Tlusticích čp. 40 dne 31. ledna 1811, byl pohřben 2. února. Zapsaný věk činí 68 let.",
+  "svazek": "praskolesy_10_z",
+  "strana": "132r",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/13028/71",
+  "pozn": "Pravý předposlední řádek. Ve stejném domě roku 1814 zemřela i vdova Rozálie Braumská."
+ },
+ {
+  "klic": "z_1814_braumska_rozalie_tlustice",
+  "druh": "Z",
+  "datum": "27. 11. 1814",
+  "nazev": "Úmrtí Rozálie Braumské, Tlustice čp. 40",
+  "shrnuti": "Vdova Rozálie Braumská zemřela 27. listopadu 1814 v Tlusticích čp. 40, byla pohřbena 29. listopadu. Zapsaný věk činí 70 let.",
+  "svazek": "praskolesy_11_z",
+  "strana": "132",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/13029/128",
+  "pozn": "Snímek 128, druhý řádek. Tomáš Braumský zemřel v témže domě roku 1811."
+ },
+ {
+  "klic": "n_1780_braumsky_vaclav_tlustice",
+  "druh": "N",
+  "datum": "30. 8. 1780",
+  "nazev": "Křest Václava Braumského, Tlustice čp. 16",
+  "shrnuti": "Václav, syn tlustického kováře Tomáše Braumského a jeho ženy Rozálie, byl pokřtěn 30. srpna 1780. Rodinu zápis řadí k poddaným statku Chrášťany v držení pražské kapituly.",
+  "svazek": "praskolesy_01_n",
+  "strana": "501",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/13019/255",
+  "pozn": "Vpravo uprostřed. Týž dům a rodiče jako u Anny roku 1782."
+ },
+ {
+  "klic": "o_1803_braumsky_novakova",
+  "druh": "O",
+  "datum": "20. 11. 1803",
+  "nazev": "Sňatek Václava Braumského a Anny Novákové, Tlustice",
+  "shrnuti": "Václav, 22letý syn kováře Tomáše Braumského, se oženil s 19letou Annou, dcerou sedláka Martina Nováka a Doroty z Tlustic. Rodné příjmení ženichovy matky lze číst jako Procházková.",
+  "svazek": "praskolesy_07_o",
+  "strana": "126r",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/13025/42",
+  "pozn": "Pravý dolní řádek. Shodné čtení příjmení matky podporují oddavky Anny Braumské roku 1807. Křestní jméno Rozálie je v křtech obou sourozenců."
+ },
+ {
+  "klic": "o_1856_fronek_vintrova",
+  "druh": "O",
+  "datum": "7. 1. 1856",
+  "nazev": "Sňatek Josefa Froňka a Marie Vintrové, Osek u Komárova",
+  "shrnuti": "Josef Froněk, 32letý nádeník z Oseka čp. 14, se oženil s 31letou Marií Vintrovou. Oddavky jmenují oba Josefovy rodiče jako zesnulé: Jana Froňka, obecního slouhu z Oseka čp. 14, a Annu rozenou Bromskou z Tlustic.",
+  "svazek": "mrtnik_08_o",
+  "strana": "153",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/8921/148",
+  "pozn": "Snímek 148, číslo v domovní rubrice sňatku 76. Svědek Martin Froněk, obecní slouha z Oseka. Nevěsta dcera kováře Františka Vintra z Volduch čp. 41 a Terezie rozené Balejové z Volduch čp. 68."
+ },
+ {
+  "klic": "n_1782_braumska_anna_tlustice",
+  "druh": "N",
+  "datum": "22. 12. 1782",
+  "nazev": "Křest Anny Braumské, Tlustice čp. 16",
+  "shrnuti": "V Tlusticích čp. 16 byla pokřtěna Anna, dcera tamního kováře Tomáše Braumského a jeho ženy Rozálie. Datum v rubrice je den křtu.",
+  "svazek": "praskolesy_01_n",
+  "strana": "543",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/13019/276",
+  "pozn": "Pravá strana, první řádek. Prosinec pokračuje z protější strany 542. Sestra Marie Anna má vlastní zápis v roce 1787."
+ },
+ {
+  "klic": "n_1810_fronkova_barbora_velka_viska",
+  "druh": "N",
+  "datum": "30. 7. 1810",
+  "nazev": "Narození Barbory Froňkové, Velká Víska čp. 2",
+  "shrnuti": "Barbora se narodila 30. července a byla pokřtěna 31. července 1810 ve Velké Vísce čp. 2. Otec Jan Froněk byl volák u panského dvora. Matka Anna byla dcerou Tomáše Braumského, kováře z Tlustic.",
+  "svazek": "horovice_05_n",
+  "strana": "539",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/5559/174",
+  "pozn": "Snímek 174, šestý řádek, oddíl Velká Víska. Rodičovský pár odpovídá pozdějším křtům rodiny z Oseka u Komárova."
+ },
+ {
+  "klic": "n_1852_beranova_zofie_tocnik",
+  "druh": "N",
+  "datum": "15. 2. 1852",
+  "nazev": "Narození druhé Žofie Beranové, Točník čp. 30",
+  "shrnuti": "Žofie se narodila a byla pokřtěna 15. února 1852. Otec Matěj Beran byl cihlář z Točníka čp. 30. U všech čtyř prarodičů stojí značka úmrtí. Josef Tumpach byl chalupník z Oseka čp. 37, jeho žena Josefa pocházela z Volduch.",
+  "svazek": "zebrak_10_n",
+  "strana": "101–102",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/9739/54",
+  "pozn": "Snímek 54, první řádek. Rodné příjmení Josefy vypadá jako Karner či Kanner. Františkův křest z roku 1854 lze číst Kerner nebo Kermes."
+ },
+ {
   "klic": "o_1807_fronek_bromska",
   "druh": "O",
   "datum": "6. 10. 1807",
@@ -8,7 +129,7 @@
   "svazek": "praskolesy_07_o",
   "strana": "127r",
   "odkaz": "https://ebadatelna.soapraha.cz/d/13025/43",
-  "pozn": "Snímek 43, pravý dolní řádek. Ztotožnění s rodinou z Oseka čp. 14 podporují další křty. Vlastní křest Barbory Froňkové zůstává otevřený."
+  "pozn": "Snímek 43, pravý dolní řádek. Ztotožnění s rodinou z Oseka čp. 14 podporují křty Barbory, Martina a Terezie. V nich se pro kováře z Tlustic uvádí Tomáš. Křest Terezie uvádí u ženichovy matky Kateřinu."
  },
  {
   "klic": "z_1848_pondelicek_matej",
@@ -96,7 +217,7 @@
   "svazek": "zebrak_09_n",
   "strana": "548–549",
   "odkaz": "https://ebadatelna.soapraha.cz/d/9738/277",
-  "pozn": "Snímek 277, třetí řádek. Rodné příjmení Josefy lze číst pracovně jako Braunsová."
+  "pozn": "Snímek 277, třetí řádek. Rodné příjmení Josefy po porovnání tahů nejspíš začíná K. Tento zápis se podobá tvaru Karner či Kanner, v roce 1854 následuje lépe čitelný zápis Kerner či Kermes."
  },
  {
   "klic": "n_1811_hasman_vaclav",
@@ -195,7 +316,7 @@
   "svazek": "mrtnik_04_n",
   "strana": "143",
   "odkaz": "https://ebadatelna.soapraha.cz/d/8917/146",
-  "pozn": "Snímek 146, poslední řádek. Rodná příjmení obou babiček čekají na ověření."
+  "pozn": "Snímek 146, poslední řádek. Rodná příjmení babiček dokládají starší křty a oddavky. Kateřina byla Veselá a Anna Braumská."
  },
  {
   "klic": "o_1845_beran_spotova",
@@ -2262,7 +2383,7 @@
   "druh": "N",
   "datum": "24. 4. 1854",
   "nazev": "Narození Františka Josefa Berana, Točník čp. 30",
-  "shrnuti": "František Josef se narodil a byl pokřtěn 24. 4. 1854. Otec Matěj Beran, cihlář v Točníku čp. 30, byl synem zesnulých Jakuba Berana, hutníka v Oseku čp. 45, a Kateřiny rozené Holubové. Matka Anna byla dcerou zesnulých Josefa Tumpacha, chalupníka v Oseku čp. 37, a Josefy z Volduch.",
+  "shrnuti": "František Josef se narodil a byl pokřtěn 24. 4. 1854. Otec Matěj Beran, cihlář v Točníku čp. 30, byl synem zesnulých Jakuba Berana, hutníka v Oseku čp. 45, a Kateřiny rozené Holubové. Matka Anna byla dcerou zesnulých Josefa Tumpacha, chalupníka v Oseku čp. 37, a Josefy z Volduch, s rodným příjmením čteným Kerner či Kermes.",
   "svazek": "zebrak_10_n",
   "strana": "279–280",
   "odkaz": "https://ebadatelna.soapraha.cz/d/9739/143",
